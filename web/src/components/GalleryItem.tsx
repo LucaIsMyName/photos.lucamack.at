@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import HeicImage from './HeicImage';
+import Image from './Image';
 
 const responsiveSizes = [640, 750, 828, 1080, 1200, 1920, 2048, 3840];
 
@@ -13,11 +13,23 @@ interface GalleryItemProps {
 const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
   const [orientation, setOrientation] = useState<'landscape' | 'portrait' | 'square' | null>(null);
   const [padding, setPadding] = useState('p-4');
+  const [mapUrl, setMapUrl] = useState('');
 
   useEffect(() => {
     const paddings = ['p-2', 'p-4', 'p-6', 'p-8', 'p-10', 'p-12'];
     setPadding(paddings[Math.floor(Math.random() * paddings.length)]);
   }, []);
+
+  useEffect(() => {
+    if (typeof window !== 'undefined' && latitude && longitude) {
+      const isAppleDevice = /Mac|iPod|iPhone|iPad/.test(navigator.platform);
+      setMapUrl(
+        isAppleDevice
+          ? `http://maps.apple.com/?q=${latitude},${longitude}`
+          : `https://www.google.com/maps/search/?api=1&query=${latitude},${longitude}`
+      );
+    }
+  }, [latitude, longitude]);
 
   const handleImageLoad = (dimensions: { width: number; height: number }) => {
     if (dimensions.width > dimensions.height) {
@@ -57,27 +69,29 @@ const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
       <div className={padding}>
         {latitude && longitude ? (
           <a
-            href={`https://www.google.com/maps/search/?api=1&query=${latitude},${longitude}`}
+            href={mapUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="block"
           >
-            <HeicImage
+            <Image
               src={src}
               alt={alt}
               onImageLoad={handleImageLoad}
               srcSet={srcSet}
               sizes={sizes}
+              loading="lazy"
               className="w-full h-auto object-cover"
             />
           </a>
         ) : (
-          <HeicImage
+          <Image
             src={src}
             alt={alt}
             onImageLoad={handleImageLoad}
             srcSet={srcSet}
             sizes={sizes}
+            loading="lazy"
             className="w-full h-auto object-cover"
           />
         )}

@@ -1,13 +1,16 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { galleries } from '../galleries';
-import type { Gallery, Image } from '../types';
-import HeicImage from './HeicImage';
+import type { Gallery, Image as ImageType } from '../types';
+import Image from './Image';
 import { motion } from 'framer-motion';
 import { pageVariants, pageTransition } from '../animations';
+import { Helmet } from 'react-helmet-async';
+
+const responsiveSizes = [640, 750, 828, 1080, 1200, 1920, 2048, 3840];
 
 const Home = () => {
-  const [randomImage, setRandomImage] = useState<{ gallery: Gallery; image: Image } | null>(null);
+  const [randomImage, setRandomImage] = useState<{ gallery: Gallery; image: ImageType } | null>(null);
 
   useEffect(() => {
     const galleriesWithImages = galleries.filter(g => g.images && g.images.length > 0);
@@ -18,6 +21,28 @@ const Home = () => {
     }
   }, []);
 
+  const getImageDetails = () => {
+    if (!randomImage) {
+      return null;
+    }
+
+    const src = `/content/${randomImage.gallery.slug}/${randomImage.image.filename}`;
+    const ext = src.substring(src.lastIndexOf('.'));
+    const baseSrc = src.substring(0, src.lastIndexOf('.'));
+    const srcSet = responsiveSizes
+      .map(size => `${baseSrc}-${size}w${ext} ${size}w`)
+      .join(', ');
+
+    return {
+      src,
+      srcSet,
+      alt: randomImage.gallery.title || randomImage.gallery.name,
+      slug: randomImage.gallery.slug,
+    };
+  };
+
+  const imageDetails = getImageDetails();
+
   return (
     <motion.div
       initial="initial"
@@ -27,12 +52,19 @@ const Home = () => {
       transition={pageTransition as any}
       className="h-full w-full relative"
     >
+      <Helmet>
+        <title>Luca Mack | Photos</title>
+        <meta name="description" content="A collection of photos by Luca Mack, showcasing moments from various galleries." />
+      </Helmet>
       <div className="absolute inset-0 p-8 md:p-16">
-        {randomImage ? (
-          <Link to={`/gallery/${randomImage.gallery.slug}`} className="block w-full h-full">
-            <HeicImage
-              src={`/content/${randomImage.gallery.slug}/${randomImage.image.filename}`}
-              alt={randomImage.gallery.title || randomImage.gallery.name}
+        {imageDetails ? (
+          <Link to={`/gallery/${imageDetails.slug}`} className="block w-full h-full">
+            <Image
+              src={imageDetails.src}
+              alt={imageDetails.alt}
+              srcSet={imageDetails.srcSet}
+              sizes="100vw"
+              loading='eager'
               className="object-contain w-full h-full"
             />
           </Link>
