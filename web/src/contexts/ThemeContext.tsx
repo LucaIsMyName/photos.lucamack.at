@@ -10,7 +10,7 @@ const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
 export const ThemeProvider = ({ children }: { children: ReactNode }) => {
   const [theme, setTheme] = useState<'light' | 'dark'>(() => {
     if (typeof window !== 'undefined') {
-      const storedTheme = localStorage.getItem('theme');
+      const storedTheme = localStorage.getItem('photos.lucamack.at::theme');
       if (storedTheme === 'light' || storedTheme === 'dark') {
         return storedTheme;
       }
@@ -20,7 +20,7 @@ export const ThemeProvider = ({ children }: { children: ReactNode }) => {
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
-      localStorage.setItem('theme', theme);
+      localStorage.setItem('photos.lucamack.at::theme', theme);
     }
   }, [theme]);
 

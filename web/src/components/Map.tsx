@@ -1,5 +1,5 @@
 import { useState, useMemo } from "react";
-import Map, { Marker, Popup, type MarkerEvent } from 'react-map-gl/mapbox';
+import Map, { Marker, Popup } from 'react-map-gl/mapbox';
 
 import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../galleries";
@@ -39,9 +39,9 @@ const MapPage = () => {
       />
       <Map
         initialViewState={{
-          longitude: 10,
-          latitude: 50,
-          zoom: 4,
+          longitude: 16.370499431046007,
+          latitude: 48.20880059768514,
+          zoom: 11,
         }}
         style={{ width: "100%", height: "100%" }}
         mapStyle={theme === 'light' ? 'mapbox://styles/luma1992/cmcrp4svj045g01r17lvz89bx' : 'mapbox://styles/luma1992/cmcrpf414029501qx4b4fa2jx'}
@@ -51,12 +51,13 @@ const MapPage = () => {
             key={`marker-${index}`}
             longitude={item.image.longitude!}
             latitude={item.image.latitude!}
-            anchor="bottom"
+            anchor="center"
             onClick={(e) => {
               e.originalEvent?.stopPropagation();
               setPopupInfo(item);
-            }}
-          />
+            }}>
+            <div className={`h-3 w-3 rounded-full border-2 ${theme === 'light' ? 'border-white bg-black' : 'border-gray-500 bg-white'}`} />
+          </Marker>
         ))}
 
         {popupInfo && (
@@ -64,15 +65,17 @@ const MapPage = () => {
             anchor="top"
             longitude={Number(popupInfo.image.longitude)}
             latitude={Number(popupInfo.image.latitude)}
-            onClose={() => setPopupInfo(null)}>
-            <div>
+            onClose={() => setPopupInfo(null)}
+            closeButton={false}
+            className="z-10">
+            <div className={`bg-white text-black`}>
               <Link to={`/gallery/${popupInfo.gallery.slug}`}>
                 <img
-                  width="100"
-                  src={`/content/${popupInfo.gallery.slug}/${popupInfo.image.filename}`}
+                  className="w-32"
+                  src={`/content/${popupInfo.gallery.slug}/${popupInfo.image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, '-640w.jpg')}`}
                   alt={popupInfo.gallery.title}
                 />
-                <p>{popupInfo.gallery.title}</p>
+                <p className="font-geist p-2 text-center text-sm font-semibold">{popupInfo.gallery.title}</p>
               </Link>
             </div>
           </Popup>

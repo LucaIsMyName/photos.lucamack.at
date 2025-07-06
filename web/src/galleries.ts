@@ -5,12 +5,17 @@ export const galleries = [
     "name": "allfaelliges",
     "slug": "allfaelliges",
     "title": "Allfälliges",
-    "description": "Lorem ipsum ...",
+    "description": "Türspione, Sonnenlicht & schöne Gebäude",
     "images": [
       {
         "filename": "IMG_1.jpg",
         "latitude": 48.208242,
         "longitude": 16.359903
+      },
+      {
+        "filename": "IMG_2328.jpg",
+        "latitude": 48.158589,
+        "longitude": 12.832308
       },
       {
         "filename": "IMG_3.jpg",
@@ -25,120 +30,128 @@ export const galleries = [
     ]
   },
   {
-    "name": "beton-strukturen",
-    "slug": "beton-strukturen",
-    "title": "Beton & Strukturen",
-    "description": "Lorem ipsum ...",
+    "name": "arsenal",
+    "slug": "arsenal",
+    "title": "Arsenal",
+    "description": "Spazierengehen vom Hauptbahnhof nach Simmering",
     "images": [
       {
-        "filename": "IMG_1.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_1799.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_1828.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_1829.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_1842.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_1860.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_1864.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_1871.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
         "filename": "IMG_1875.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.181928,
+        "longitude": 16.390136
       },
       {
         "filename": "IMG_1876.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.181961,
+        "longitude": 16.390197
       },
       {
         "filename": "IMG_1878.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.182044,
+        "longitude": 16.390392
       },
       {
         "filename": "IMG_1880.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.182206,
+        "longitude": 16.390731
       },
       {
         "filename": "IMG_1881.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.182494,
+        "longitude": 16.391122
       },
       {
         "filename": "IMG_1883.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.182694,
+        "longitude": 16.391783
       },
       {
         "filename": "IMG_1884.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.182872,
+        "longitude": 16.391942
       },
       {
         "filename": "IMG_1885.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.183075,
+        "longitude": 16.392044
       },
       {
         "filename": "IMG_1888.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.183372,
+        "longitude": 16.392936
       },
       {
         "filename": "IMG_1891.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.183189,
+        "longitude": 16.393117
       },
       {
         "filename": "IMG_1894.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.1827,
+        "longitude": 16.394
+      }
+    ]
+  },
+  {
+    "name": "beton-strukturen",
+    "slug": "beton-strukturen",
+    "title": "Beton & Struktur",
+    "description": "Beton und Struktur, Architektur & Kultur",
+    "images": [
+      {
+        "filename": "IMG_1799.jpg",
+        "latitude": 48.167317,
+        "longitude": 16.407628
+      },
+      {
+        "filename": "IMG_1828.jpg",
+        "latitude": 48.181872,
+        "longitude": 16.413875
+      },
+      {
+        "filename": "IMG_1842.jpg",
+        "latitude": 48.168975,
+        "longitude": 16.421569
+      },
+      {
+        "filename": "IMG_1860.jpg",
+        "latitude": 48.182247,
+        "longitude": 16.384303
+      },
+      {
+        "filename": "IMG_1864.jpg",
+        "latitude": 48.179886,
+        "longitude": 16.386161
+      },
+      {
+        "filename": "IMG_1871.jpg",
+        "latitude": 48.180686,
+        "longitude": 16.387744
       },
       {
         "filename": "IMG_1900.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.182117,
+        "longitude": 16.397872
+      },
+      {
+        "filename": "IMG_1906.jpg",
+        "latitude": 48.181389,
+        "longitude": 16.398206
+      },
+      {
+        "filename": "IMG_1913.jpg",
+        "latitude": 48.180186,
+        "longitude": 16.397092
       },
       {
         "filename": "IMG_1915.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.178458,
+        "longitude": 16.394178
       },
       {
         "filename": "IMG_1922.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.214017,
+        "longitude": 16.361797
       },
       {
         "filename": "IMG_1924.jpg",
@@ -147,408 +160,408 @@ export const galleries = [
       },
       {
         "filename": "IMG_1934.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.241619,
+        "longitude": 16.384619
       },
       {
         "filename": "IMG_1953.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.181586,
+        "longitude": 16.411972
       },
       {
         "filename": "IMG_1954.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.181611,
+        "longitude": 16.412083
       },
       {
         "filename": "IMG_1956.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_1957.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.181714,
+        "longitude": 16.412022
       },
       {
         "filename": "IMG_1960.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.181606,
+        "longitude": 16.412522
       },
       {
         "filename": "IMG_1962.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.187514,
+        "longitude": 16.412656
       },
       {
         "filename": "IMG_1965.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.185806,
+        "longitude": 16.413911
       },
       {
         "filename": "IMG_1966.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.174133,
+        "longitude": 16.416464
       },
       {
         "filename": "IMG_1970.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.211242,
+        "longitude": 16.379222
       },
       {
         "filename": "IMG_1973.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.241303,
+        "longitude": 16.380889
       },
       {
         "filename": "IMG_1974.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_206.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.241436,
+        "longitude": 16.381792
       },
       {
         "filename": "IMG_2100.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.216494,
+        "longitude": 16.356881
       },
       {
         "filename": "IMG_2102.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.168872,
+        "longitude": 16.416753
       },
       {
         "filename": "IMG_2106.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.168353,
+        "longitude": 16.417556
       },
       {
         "filename": "IMG_2107.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.169617,
+        "longitude": 16.419389
       },
       {
         "filename": "IMG_2117.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.201386,
+        "longitude": 16.387961
       },
       {
         "filename": "IMG_2118.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.200011,
+        "longitude": 16.387772
       },
       {
         "filename": "IMG_2120.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.199825,
+        "longitude": 16.387606
       },
       {
         "filename": "IMG_2121.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.199086,
+        "longitude": 16.387567
       },
       {
         "filename": "IMG_2122.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.199325,
+        "longitude": 16.383333
       },
       {
         "filename": "IMG_2123.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.198947,
+        "longitude": 16.382642
       },
       {
         "filename": "IMG_2124.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.198953,
+        "longitude": 16.38115
       },
       {
         "filename": "IMG_2125.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.199047,
+        "longitude": 16.380219
       },
       {
         "filename": "IMG_2126.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.199006,
+        "longitude": 16.378989
       },
       {
         "filename": "IMG_2127.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.197242,
+        "longitude": 16.379769
       },
       {
         "filename": "IMG_2128.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.197028,
+        "longitude": 16.380692
       },
       {
         "filename": "IMG_2129.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.169636,
+        "longitude": 16.420636
       },
       {
         "filename": "IMG_2132.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.168475,
+        "longitude": 16.417436
       },
       {
         "filename": "IMG_2134.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.168781,
+        "longitude": 16.417067
       },
       {
         "filename": "IMG_2135.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.169175,
+        "longitude": 16.416547
       },
       {
         "filename": "IMG_2139.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.198017,
+        "longitude": 16.335486
       },
       {
         "filename": "IMG_2140.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.204619,
+        "longitude": 16.332464
       },
       {
         "filename": "IMG_2145.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.20415,
+        "longitude": 16.336481
+      },
+      {
+        "filename": "IMG_2146.jpg",
+        "latitude": 48.204067,
+        "longitude": 16.336722
       },
       {
         "filename": "IMG_2147.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.204003,
+        "longitude": 16.336544
       },
       {
         "filename": "IMG_2151.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.203336,
+        "longitude": 16.337169
+      },
+      {
+        "filename": "IMG_2152.jpg",
+        "latitude": 48.203186,
+        "longitude": 16.337078
+      },
+      {
+        "filename": "IMG_2154.jpg",
+        "latitude": 48.202367,
+        "longitude": 16.337
       },
       {
         "filename": "IMG_2155.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.201675,
+        "longitude": 16.336906
+      },
+      {
+        "filename": "IMG_2156.jpg",
+        "latitude": 48.201789,
+        "longitude": 16.337164
       },
       {
         "filename": "IMG_2157.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.201836,
+        "longitude": 16.337144
       },
       {
         "filename": "IMG_2160.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.201886,
+        "longitude": 16.337122
       },
       {
         "filename": "IMG_2161.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.201878,
+        "longitude": 16.337144
       },
       {
         "filename": "IMG_2162.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.202117,
+        "longitude": 16.337203
       },
       {
-        "filename": "IMG_2197.jpg",
-        "latitude": null,
-        "longitude": null
+        "filename": "IMG_2163.jpg",
+        "latitude": 48.202117,
+        "longitude": 16.337203
       },
       {
-        "filename": "IMG_2198.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2199.jpg",
-        "latitude": null,
-        "longitude": null
+        "filename": "IMG_2164.jpg",
+        "latitude": 48.174717,
+        "longitude": 16.385819
       },
       {
         "filename": "IMG_2207.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.169633,
+        "longitude": 16.416839
       },
       {
         "filename": "IMG_2208.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.168983,
+        "longitude": 16.418758
       },
       {
         "filename": "IMG_2254.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.208453,
+        "longitude": 16.359864
       },
       {
         "filename": "IMG_2259.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.209703,
+        "longitude": 16.359542
       },
       {
         "filename": "IMG_2263.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.210139,
+        "longitude": 16.358222
       },
       {
         "filename": "IMG_2269.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.172264,
+        "longitude": 16.414536
       },
       {
         "filename": "IMG_2272.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.174494,
+        "longitude": 16.410661
       },
       {
         "filename": "IMG_2274.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.174889,
+        "longitude": 16.407264
       },
       {
         "filename": "IMG_2276.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.254253,
+        "longitude": 16.380364
       },
       {
         "filename": "IMG_2278.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2279.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2281.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2282.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.252056,
+        "longitude": 16.382144
       },
       {
         "filename": "IMG_2284.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.243858,
+        "longitude": 16.390128
       },
       {
         "filename": "IMG_2287.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.242469,
+        "longitude": 16.385989
       },
       {
         "filename": "IMG_2290.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.241558,
+        "longitude": 16.384994
       },
       {
         "filename": "IMG_2293.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.241947,
+        "longitude": 16.384497
       },
       {
         "filename": "IMG_2296.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.174267,
+        "longitude": 16.41165
       },
       {
         "filename": "IMG_2297.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_23.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.169953,
+        "longitude": 16.419403
       },
       {
         "filename": "IMG_2305.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.206794,
+        "longitude": 16.382514
       },
       {
-        "filename": "IMG_24.jpg",
-        "latitude": null,
-        "longitude": null
+        "filename": "IMG_2387.jpg",
+        "latitude": 48.202786,
+        "longitude": 16.391031
+      },
+      {
+        "filename": "IMG_2413.jpg",
+        "latitude": 48.1548,
+        "longitude": 16.4267
       },
       {
         "filename": "IMG_2414.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.166492,
+        "longitude": 16.413928
       },
       {
         "filename": "IMG_2417.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_242.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.166722,
+        "longitude": 16.413989
       },
       {
         "filename": "IMG_2428.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_243.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.204525,
+        "longitude": 16.368617
       },
       {
         "filename": "IMG_2430.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.169839,
+        "longitude": 16.420197
+      },
+      {
+        "filename": "IMG_2432.jpg",
+        "latitude": 48.158444,
+        "longitude": 16.424008
+      },
+      {
+        "filename": "IMG_2434.jpg",
+        "latitude": 48.154797,
+        "longitude": 16.426722
       },
       {
         "filename": "IMG_2438.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.160958,
+        "longitude": 16.430558
       },
       {
-        "filename": "IMG_245.jpg",
-        "latitude": null,
-        "longitude": null
+        "filename": "IMG_2453.jpg",
+        "latitude": 48.160858,
+        "longitude": 16.430958
+      },
+      {
+        "filename": "IMG_2454.jpg",
+        "latitude": 48.162964,
+        "longitude": 16.427539
+      },
+      {
+        "filename": "IMG_2458.jpg",
+        "latitude": 48.189739,
+        "longitude": 16.414456
+      },
+      {
+        "filename": "IMG_2459.jpg",
+        "latitude": 48.189758,
+        "longitude": 16.414442
       },
       {
         "filename": "IMG_2460.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.189767,
+        "longitude": 16.414433
+      },
+      {
+        "filename": "IMG_2464.jpg",
+        "latitude": 48.186092,
+        "longitude": 16.413206
       },
       {
         "filename": "IMG_2466.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.213772,
+        "longitude": 16.362475
       },
       {
-        "filename": "IMG_248.jpg",
-        "latitude": null,
-        "longitude": null
+        "filename": "IMG_2475.jpg",
+        "latitude": 48.1596,
+        "longitude": 16.432486
       },
       {
-        "filename": "IMG_254.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_27.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_275.jpg",
-        "latitude": null,
-        "longitude": null
+        "filename": "IMG_2506.jpg",
+        "latitude": 48.185756,
+        "longitude": 16.375636
       }
     ]
   },
@@ -556,7 +569,7 @@ export const galleries = [
     "name": "mayday",
     "slug": "mayday",
     "title": "Mayday",
-    "description": "1. Mai in Wien",
+    "description": "1. Mai am wiener Rathausplatz & Prater",
     "images": [
       {
         "filename": "IMG_1987.jpg",
@@ -739,19 +752,9 @@ export const galleries = [
         "longitude": 16.395811
       },
       {
-        "filename": "IMG_2086 2.jpg",
-        "latitude": 48.217383,
-        "longitude": 16.395767
-      },
-      {
         "filename": "IMG_2086.jpg",
         "latitude": 48.217383,
         "longitude": 16.395767
-      },
-      {
-        "filename": "IMG_2087 2.jpg",
-        "latitude": 48.218267,
-        "longitude": 16.391383
       },
       {
         "filename": "IMG_2087.jpg",
@@ -759,19 +762,9 @@ export const galleries = [
         "longitude": 16.391383
       },
       {
-        "filename": "IMG_2088 2.jpg",
-        "latitude": 48.218403,
-        "longitude": 16.391525
-      },
-      {
         "filename": "IMG_2088.jpg",
         "latitude": 48.218403,
         "longitude": 16.391525
-      },
-      {
-        "filename": "IMG_2090 2.jpg",
-        "latitude": 48.218922,
-        "longitude": 16.391997
       },
       {
         "filename": "IMG_2090.jpg",
@@ -779,29 +772,14 @@ export const galleries = [
         "longitude": 16.391997
       },
       {
-        "filename": "IMG_2091 2.jpg",
-        "latitude": 48.218892,
-        "longitude": 16.391956
-      },
-      {
         "filename": "IMG_2091.jpg",
         "latitude": 48.218892,
         "longitude": 16.391956
       },
       {
-        "filename": "IMG_2093 2.jpg",
-        "latitude": 48.174572,
-        "longitude": 16.410278
-      },
-      {
         "filename": "IMG_2093.jpg",
         "latitude": 48.174572,
         "longitude": 16.410278
-      },
-      {
-        "filename": "IMG_2095 2.jpg",
-        "latitude": 48.169925,
-        "longitude": 16.416558
       },
       {
         "filename": "IMG_2095.jpg",
@@ -814,7 +792,7 @@ export const galleries = [
     "name": "nhm",
     "slug": "nhm",
     "title": "Naturhistorisches Museum",
-    "description": "Steine, kleine Taferl und coole Architektur",
+    "description": "Kleine Taferl lesen & Steine schauen",
     "images": [
       {
         "filename": "IMG_2506.jpg",
@@ -932,13 +910,8 @@ export const galleries = [
     "name": "oeffis",
     "slug": "oeffis",
     "title": "Öffis",
-    "description": "Architektur & Leute im öffentlichen Verkehr",
+    "description": "Tschu Tschu",
     "images": [
-      {
-        "filename": "IMG_1838 2.jpg",
-        "latitude": 48.166408,
-        "longitude": 16.424247
-      },
       {
         "filename": "IMG_1866.jpg",
         "latitude": 48.180231,
@@ -978,16 +951,6 @@ export const galleries = [
         "filename": "IMG_1947.jpg",
         "latitude": 48.2011,
         "longitude": 16.374708
-      },
-      {
-        "filename": "IMG_2107 2.jpg",
-        "latitude": 48.169617,
-        "longitude": 16.419389
-      },
-      {
-        "filename": "IMG_2108 2.jpg",
-        "latitude": 48.170056,
-        "longitude": 16.420075
       },
       {
         "filename": "IMG_2108.jpg",
@@ -1130,12 +1093,47 @@ export const galleries = [
     "name": "parks",
     "slug": "parks",
     "title": "Parks",
-    "description": "Parks & Grünflächen in Wien",
+    "description": "Parks, Grünflächen & Bäume in Wien",
     "images": [
+      {
+        "filename": "IMG_1829.jpg",
+        "latitude": 48.181611,
+        "longitude": 16.413031
+      },
       {
         "filename": "IMG_1926.jpg",
         "latitude": 48.235967,
         "longitude": 16.336186
+      },
+      {
+        "filename": "IMG_2197.jpg",
+        "latitude": 48.172086,
+        "longitude": 16.410622
+      },
+      {
+        "filename": "IMG_2198.jpg",
+        "latitude": 48.172078,
+        "longitude": 16.410625
+      },
+      {
+        "filename": "IMG_2199.jpg",
+        "latitude": 48.171803,
+        "longitude": 16.410644
+      },
+      {
+        "filename": "IMG_2279.jpg",
+        "latitude": 48.246186,
+        "longitude": 16.3886
+      },
+      {
+        "filename": "IMG_2281.jpg",
+        "latitude": 48.245297,
+        "longitude": 16.388775
+      },
+      {
+        "filename": "IMG_2282.jpg",
+        "latitude": 48.244561,
+        "longitude": 16.390017
       }
     ]
   },
@@ -1143,17 +1141,12 @@ export const galleries = [
     "name": "salzburg",
     "slug": "salzburg",
     "title": "Salzburg",
-    "description": "Ausflug nach Salzburg",
+    "description": "Salzburg Ausflug",
     "images": [
       {
         "filename": "IMG_2327.jpg",
         "latitude": 48.158839,
         "longitude": 12.833075
-      },
-      {
-        "filename": "IMG_2328.jpg",
-        "latitude": 48.158589,
-        "longitude": 12.832308
       },
       {
         "filename": "IMG_2332.jpg",
@@ -1241,37 +1234,37 @@ export const galleries = [
     "name": "wien-museum",
     "slug": "wien-museum",
     "title": "Wien Museum",
-    "description": "",
+    "description": "Einen Nachmittag im Wien Museum",
     "images": [
       {
         "filename": "IMG_2308.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.199192,
+        "longitude": 16.372353
       },
       {
         "filename": "IMG_2311.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.199169,
+        "longitude": 16.372769
       },
       {
         "filename": "IMG_2313.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.199092,
+        "longitude": 16.372906
       },
       {
         "filename": "IMG_2314.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.199367,
+        "longitude": 16.372703
       },
       {
         "filename": "IMG_2315.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.199161,
+        "longitude": 16.372772
       },
       {
         "filename": "IMG_2316.jpg",
-        "latitude": null,
-        "longitude": null
+        "latitude": 48.199161,
+        "longitude": 16.372861
       }
     ]
   },
@@ -1279,7 +1272,7 @@ export const galleries = [
     "name": "zentralfriedhof",
     "slug": "zentralfriedhof",
     "title": "Zentralfriedhof",
-    "description": "Es lebe der Zentralfriedhof",
+    "description": "Auf einen Spaziergang & Kaffee am Zentralfriedhof",
     "images": [
       {
         "filename": "IMG_2383.jpg",

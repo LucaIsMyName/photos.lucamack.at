@@ -10,7 +10,7 @@ const Navigation = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const { theme, toggleTheme } = useTheme();
 
-  const navLinkClasses = (isActive: boolean) => `block py-1 px-4 text-left text-base ${isActive ? "font-bold" : "font-normal"}`;
+  const navLinkClasses = (isActive: boolean) => `block py-1 px-4 text-left text-base truncate ${isActive ? `${theme === "light" ? "text-red-600" : "text-red-300"}` : "font-normal"}`;
 
   const handleLinkClick = () => {
     setIsMobileMenuOpen(false);
@@ -34,7 +34,7 @@ const Navigation = () => {
     <div className="p-2">
       <button
         onClick={toggleTheme}
-        className="w-full flex items-center justify-start p-2"
+        className="w-full flex items-center justify-start p-2 cursor-pointer"
         aria-label={`Switch to ${theme === "light" ? "dark" : "light"} mode`}>
         {theme === "light" ? <Moon size={20} /> : <Sun size={20} />}
       </button>
@@ -98,7 +98,7 @@ const Navigation = () => {
             </button>
           </div>
           <div className="pt-4">{navContent}</div>
-          <div className="mt-4">
+          <div className="absolute bottom-4">
             {pages.map((page: Page) => (
               <NavLink
                 key={page.slug}
@@ -116,8 +116,9 @@ const Navigation = () => {
             >
               Map
             </NavLink>
+            {themeToggle}
           </div>
-          {themeToggle}
+          
         </div>
       )}
 
