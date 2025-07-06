@@ -6,9 +6,11 @@ const responsiveSizes = [640, 750, 828, 1080, 1200, 1920, 2048, 3840];
 interface GalleryItemProps {
   src: string;
   alt: string;
+  latitude?: number | null;
+  longitude?: number | null;
 }
 
-const GalleryItem = ({ src, alt }: GalleryItemProps) => {
+const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
   const [orientation, setOrientation] = useState<'landscape' | 'portrait' | 'square' | null>(null);
   const [padding, setPadding] = useState('p-4');
 
@@ -53,14 +55,32 @@ const GalleryItem = ({ src, alt }: GalleryItemProps) => {
   return (
     <div className={getFlexClasses()}>
       <div className={padding}>
-        <HeicImage
-          src={src}
-          alt={alt}
-          onImageLoad={handleImageLoad}
-          srcSet={srcSet}
-          sizes={sizes}
-          className="w-full h-auto object-cover rounded-lg"
-        />
+        {latitude && longitude ? (
+          <a
+            href={`https://www.google.com/maps/search/?api=1&query=${latitude},${longitude}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block"
+          >
+            <HeicImage
+              src={src}
+              alt={alt}
+              onImageLoad={handleImageLoad}
+              srcSet={srcSet}
+              sizes={sizes}
+              className="w-full h-auto object-cover"
+            />
+          </a>
+        ) : (
+          <HeicImage
+            src={src}
+            alt={alt}
+            onImageLoad={handleImageLoad}
+            srcSet={srcSet}
+            sizes={sizes}
+            className="w-full h-auto object-cover"
+          />
+        )}
       </div>
     </div>
   );

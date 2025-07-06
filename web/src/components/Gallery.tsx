@@ -1,8 +1,10 @@
 import { useParams } from "react-router-dom";
 import { galleries } from "../galleries";
-import { marked } from 'marked';
-import type { Gallery as GalleryType } from '../types';
-import GalleryItem from './GalleryItem';
+import { marked } from "marked";
+import type { Gallery as GalleryType } from "../types";
+import GalleryItem from "./GalleryItem";
+import { motion } from "framer-motion";
+import { pageVariants, pageTransition } from "../animations";
 
 const Gallery = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -13,25 +15,33 @@ const Gallery = () => {
   }
 
   return (
-    <div className="h-full overflow-y-auto">
+    <motion.div
+      initial="initial"
+      animate="in"
+      exit="out"
+      variants={pageVariants}
+      transition={pageTransition as any}>
       <div className="px-4 md:px-0">
-        <h1 className="text-4xl pt-10 font-bold  sm:text-5xl mb-4">
-          {gallery.title || gallery.name}
-        </h1>
-        {gallery.description && ( 
-          <div
-            className="text-lg leading-8 mb-4"
-            dangerouslySetInnerHTML={{ __html: marked(gallery.description) }}
-          />
-        )}
+        <div className="flex flex-col items-start">
+          <h1 className="w-full max-w-[560px] text-2xl md:text-5xl pt-8 font-bold ">{gallery.title || gallery.name}</h1>
+
+          {gallery.description && (
+            <div
+              className="w-full max-w-[560px] text-lg leading-8 my-4 leading-tight"
+              dangerouslySetInnerHTML={{ __html: marked(gallery.description) }}
+            />
+          )}
+        </div>
 
         {gallery.images.length > 0 ? (
           <div className="flex flex-wrap justify-center items-center pb-4">
-            {gallery.images.map((image, index) => (
+            {gallery.images.map((image) => (
               <GalleryItem
-                key={index}
-                src={`/content/${gallery.slug}/${image}`}
-                alt={`${gallery.title || gallery.name} - ${index + 1}`}
+                key={image.filename}
+                src={`/content/${gallery.slug}/${image.filename}`}
+                alt={`${gallery.title || gallery.name} - ${image.filename}`}
+                latitude={image.latitude}
+                longitude={image.longitude}
               />
             ))}
           </div>
@@ -39,7 +49,7 @@ const Gallery = () => {
           <p className="text-left">This gallery has no images yet.</p>
         )}
       </div>
-    </div>
+    </motion.div>
   );
 };
 

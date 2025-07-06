@@ -15,6 +15,7 @@ dist-ssr
 content/*
 *.jpg
 *.heic
+*/content
 
 # Editor directories and files
 .vscode/*
