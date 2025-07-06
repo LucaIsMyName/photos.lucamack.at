@@ -56,7 +56,7 @@ const MapPage = () => {
               e.originalEvent?.stopPropagation();
               setPopupInfo(item);
             }}>
-            <div className={`h-3 w-3 rounded-full border-2 ${theme === 'light' ? 'border-white bg-black' : 'border-gray-500 bg-white'}`} />
+            <div className={`h-3 w-3 rounded-full border-2 ${theme === 'light' ? 'border-red-900 bg-red-600' : 'border-gray-950 bg-red-300'}`} />
           </Marker>
         ))}
 

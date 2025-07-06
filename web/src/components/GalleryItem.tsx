@@ -56,7 +56,11 @@ const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
 
   const srcSet = responsiveSizes.map((size) => `${baseSrc.replace(" ", "_").trim()}-${size}w${ext} ${size}w`).join(", ");
 
-  const sizes = orientation === "landscape" ? "100vw" : "(min-width: 768px) 50vw, 100vw";
+  const sizes = orientation === "landscape"
+    // Landscape images are full-width of the content area (max 1024px on large screens).
+    ? `(min-width: 1024px) 1024px, 100vw`
+    // Portrait/square images are half-width on desktop (max 512px on large screens).
+    : `(min-width: 1024px) 512px, (min-width: 768px) 50vw, 100vw`;
 
   return (
     <div className={getFlexClasses()}>
