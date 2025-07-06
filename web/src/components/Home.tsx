@@ -37,7 +37,7 @@ const Home = () => {
             />
           </Link>
         ) : (
-          <div className="text-center">Loading a random moment...</div>
+          <div className="text-center">Lade Foto...</div>
         )}
       </div>
     </motion.div>
