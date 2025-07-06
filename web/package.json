@@ -9,18 +9,21 @@
     "prebuild": "node generate-galleries.mjs",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "generate-galleries": "rm /Users/lucamack/Desktop/projects/photos.lucamack.at/web/public/content && node generate-galleries.mjs"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
     "@types/marked": "^5.0.2",
     "heic-convert": "^2.1.0",
+    "heic2any": "^0.0.4",
     "lucide-react": "^0.525.0",
     "marked": "^16.0.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-intersection-observer": "^9.16.0",
     "react-router-dom": "^7.6.3",
-    "sharp": "^0.33.4",
+    "sharp": "^0.33.5",
     "swiper": "^11.2.10"
   },
   "devDependencies": {

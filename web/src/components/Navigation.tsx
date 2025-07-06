@@ -47,13 +47,13 @@ const Navigation = () => {
   return (
     <>
       {/* Mobile Header */}
-      <header className={`md:hidden p-4 flex justify-between items-center sticky top-0 z-10 ${theme === 'light' ? 'bg-white text-black border-b-4 border-black' : 'dark bg-black text-white border-b-4 border-gray-800'}`}>
-        <NavLink to="/" className="text-3xl font-bold">
-          All
+      <header className={`md:hidden p-4 flex justify-between items-center sticky top-0 z-10 ${theme === 'light' ? 'bg-white text-black' : 'dark bg-black text-white '}`}>
+        <NavLink to="/" className="text-md font-bold">
+          Home
         </NavLink>
         <button
           onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-          className={`p-2 ${theme === 'light' ? 'border-2 border-black' : 'border-2 border-white'}`}
+          className={`p-0 ${theme === 'light' ? '' : ''}`}
           aria-label="Toggle menu"
         >
           <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -64,14 +64,14 @@ const Navigation = () => {
 
       {/* Mobile Menu Overlay */}
       {isMobileMenuOpen && (
-        <div className={`md:hidden fixed inset-0 z-50 flex flex-col ${theme === 'light' ? 'bg-white border-8 border-black' : 'dark bg-black border-8 border-gray-800'}`}>
-          <div className={`flex justify-between items-center  ${theme === 'light' ? 'border-b-4 border-black' : 'border-b-4 border-gray-800'}`}>
-            <NavLink to="/" className="text-3xl font-bold" onClick={handleLinkClick}>
-              All
+        <div className={`md:hidden fixed inset-0 z-50 flex flex-col ${theme === 'light' ? 'bg-white ' : 'dark bg-black '}`}>
+          <div className={`flex justify-between items-center  ${theme === 'light' ? '' : ''}`}>
+            <NavLink to="/" className="px-4 pt-4 text-md font-bold" onClick={handleLinkClick}>
+              Home
             </NavLink>
             <button
               onClick={() => setIsMobileMenuOpen(false)}
-              className={`p-2 ${theme === 'light' ? 'border-2 border-black' : 'border-2 border-white'}`}
+              className={`px-4 pt-4 ${theme === 'light' ? '' : ''}`}
               aria-label="Close menu"
             >
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">

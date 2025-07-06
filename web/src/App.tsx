@@ -8,9 +8,9 @@ function App() {
   const { theme } = useTheme();
 
   return (
-    <div className={`font-geist h-screen w-screen overflow-hidden md:flex  gap-4 md:gap-8 ${theme === 'light' ? 'bg-gray-0 text-gray-800' : 'bg-neutral-900 text-gray-200'}`}>
+    <div className={`font-geist h-screen w-screen overflow-hidden flex flex-col md:flex-row gap-4 md:gap-8 ${theme === 'light' ? 'bg-gray-0 text-gray-800' : 'bg-neutral-900 text-gray-200'}`}>
       <Navigation />
-      <main className={`flex-1 h-full overflow-y-auto p-4 sm:p-12 lg:p-16 ${theme === 'light' ? 'bg-white' : 'bg-black'}`}>
+      <main className={`flex-1 ${theme === 'light' ? 'bg-white' : 'bg-black'}`}>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/gallery/:slug" element={<Gallery />} />

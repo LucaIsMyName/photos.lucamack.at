@@ -15,8 +15,8 @@ export const galleries = [
   {
     "name": "beton-strukturen",
     "slug": "beton-strukturen",
-    "title": "beton-strukturen",
-    "description": "",
+    "title": "Beton & Strukturen",
+    "description": "Lorem ipsum ...",
     "images": [
       " IMG_2145.jpg",
       "IMG_1799.jpg",
@@ -160,8 +160,8 @@ export const galleries = [
   {
     "name": "mayday",
     "slug": "mayday",
-    "title": "mayday",
-    "description": "",
+    "title": "Mayday",
+    "description": "1. Mai in Wien",
     "images": [
       "IMG_1987.jpg",
       "IMG_1990.jpg",
@@ -218,8 +218,8 @@ export const galleries = [
   {
     "name": "nhm",
     "slug": "nhm",
-    "title": "nhm",
-    "description": "",
+    "title": "Naturhistorisches Museum",
+    "description": "Steine, kleine Taferl und coole Architektur",
     "images": [
       "IMG_2506.jpg",
       "IMG_2520.jpg",
@@ -248,8 +248,8 @@ export const galleries = [
   {
     "name": "oeffis",
     "slug": "oeffis",
-    "title": "oeffis",
-    "description": "",
+    "title": "Öffis",
+    "description": "Architektur & Leute im öffentlichen Verkehr",
     "images": [
       "IMG_1838 2.jpg",
       "IMG_1866.jpg",
@@ -294,8 +294,8 @@ export const galleries = [
   {
     "name": "parks",
     "slug": "parks",
-    "title": "parks",
-    "description": "",
+    "title": "Parks",
+    "description": "Parks & Grünflächen in Wien",
     "images": [
       "IMG_1926.jpg"
     ]
@@ -303,8 +303,8 @@ export const galleries = [
   {
     "name": "salzburg",
     "slug": "salzburg",
-    "title": "salzburg",
-    "description": "",
+    "title": "Salzburg",
+    "description": "Ausflug nach Salzburg",
     "images": [
       "IMG_2327.jpg",
       "IMG_2328.jpg",
@@ -329,8 +329,8 @@ export const galleries = [
   {
     "name": "zentralfriedhof",
     "slug": "zentralfriedhof",
-    "title": "zentralfriedhof",
-    "description": "",
+    "title": "Zentralfriedhof",
+    "description": "Es lebe der Zentralfriedhof",
     "images": [
       "IMG_2383.jpg",
       "IMG_2384.jpg",
