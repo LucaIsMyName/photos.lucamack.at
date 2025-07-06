@@ -8,19 +8,19 @@ export const galleries = [
     "description": "Lorem ipsum ...",
     "images": [
       {
-        "filename": "IMG_2250.jpg",
+        "filename": "IMG_1.jpg",
         "latitude": 48.208242,
         "longitude": 16.359903
       },
       {
-        "filename": "IMG_2303.jpg",
+        "filename": "IMG_3.jpg",
         "latitude": 48.169742,
         "longitude": 16.416686
       },
       {
-        "filename": "IMG_2468.jpg",
-        "latitude": 48.193797,
-        "longitude": 16.370364
+        "filename": "IMG_4.jpg",
+        "latitude": null,
+        "longitude": null
       }
     ]
   },
@@ -31,7 +31,7 @@ export const galleries = [
     "description": "Lorem ipsum ...",
     "images": [
       {
-        "filename": " IMG_2145.jpg",
+        "filename": "IMG_1.jpg",
         "latitude": null,
         "longitude": null
       },
@@ -206,6 +206,11 @@ export const galleries = [
         "longitude": null
       },
       {
+        "filename": "IMG_206.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
         "filename": "IMG_2100.jpg",
         "latitude": null,
         "longitude": null
@@ -307,6 +312,11 @@ export const galleries = [
       },
       {
         "filename": "IMG_2140.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "filename": "IMG_2145.jpg",
         "latitude": null,
         "longitude": null
       },
@@ -456,17 +466,17 @@ export const galleries = [
         "longitude": null
       },
       {
+        "filename": "IMG_23.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
         "filename": "IMG_2305.jpg",
         "latitude": null,
         "longitude": null
       },
       {
-        "filename": "IMG_2387.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2413.jpg",
+        "filename": "IMG_24.jpg",
         "latitude": null,
         "longitude": null
       },
@@ -481,7 +491,17 @@ export const galleries = [
         "longitude": null
       },
       {
+        "filename": "IMG_242.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
         "filename": "IMG_2428.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "filename": "IMG_243.jpg",
         "latitude": null,
         "longitude": null
       },
@@ -491,37 +511,12 @@ export const galleries = [
         "longitude": null
       },
       {
-        "filename": "IMG_2432.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2434.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
         "filename": "IMG_2438.jpg",
         "latitude": null,
         "longitude": null
       },
       {
-        "filename": "IMG_2453.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2454.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2458.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2459.jpg",
+        "filename": "IMG_245.jpg",
         "latitude": null,
         "longitude": null
       },
@@ -531,22 +526,27 @@ export const galleries = [
         "longitude": null
       },
       {
-        "filename": "IMG_2464.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
         "filename": "IMG_2466.jpg",
         "latitude": null,
         "longitude": null
       },
       {
-        "filename": "IMG_2475.jpg",
+        "filename": "IMG_248.jpg",
         "latitude": null,
         "longitude": null
       },
       {
-        "filename": "IMG_2506.jpg",
+        "filename": "IMG_254.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "filename": "IMG_27.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "filename": "IMG_275.jpg",
         "latitude": null,
         "longitude": null
       }

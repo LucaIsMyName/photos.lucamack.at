@@ -4,9 +4,9 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "predev": "node generate-galleries.mjs",
+    "predev": "node generate-galleries.mjs && node generate-pages.mjs",
     "dev": "vite",
-    "prebuild": "node generate-galleries.mjs",
+    "prebuild": "node generate-galleries.mjs && node generate-pages.mjs",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",

@@ -8,3 +8,86 @@ body {
   font-family: var(--default-font-family);
   letter-spacing: 0.0075em;
 }
+
+[data-wysiwyg] h1 {
+  @apply text-5xl;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+[data-wysiwyg] h2 {
+  @apply text-3xl;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+[data-wysiwyg] h3 {
+  @apply text-2xl;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+[data-wysiwyg] h4 {
+  @apply text-xl;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+[data-wysiwyg] h5 {
+  @apply text-lg;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+[data-wysiwyg] h6 {
+  @apply text-base;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+[data-wysiwyg] p {
+  @apply text-base;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+[data-wysiwyg] ul {
+  @apply list-disc list-inside;
+}
+
+[data-wysiwyg] ol {
+  @apply list-decimal list-inside;
+} 
+
+[data-wysiwyg] li {
+  @apply my-1;
+}
+
+[data-wysiwyg] a {
+  @apply text-blue-600 hover:underline;
+}
+
+[data-wysiwyg] blockquote {
+  @apply border-l-2 border-gray-300 pl-4;
+}
+
+[data-wysiwyg] code {
+  @apply bg-gray-100 px-1 rounded;
+}
+
+[data-wysiwyg] pre {
+  @apply bg-gray-100 p-4 rounded;
+}
+
+[data-wysiwyg] a {
+  color: currentColor;
+  text-decoration: underline;
+}
+
+

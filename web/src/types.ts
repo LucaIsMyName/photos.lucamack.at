@@ -11,3 +11,9 @@ export interface Gallery {
   description: string; // from markdown first paragraph
   images: Image[];
 }
+
+export interface Page {
+  title: string;
+  slug: string;
+  content: string;
+}

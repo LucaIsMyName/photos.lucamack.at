@@ -24,7 +24,7 @@ async function generateGalleries() {
   }
 
   const directories = fs.readdirSync(contentDir, { withFileTypes: true })
-    .filter(dirent => dirent.isDirectory())
+    .filter(dirent => dirent.isDirectory() && dirent.name !== 'pages')
     .map(dirent => dirent.name);
 
   const galleryPromises = directories.map(async (name) => {
