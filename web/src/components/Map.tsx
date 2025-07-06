@@ -41,7 +41,7 @@ const MapPage = () => {
         initialViewState={{
           longitude: 16.370499431046007,
           latitude: 48.20880059768514,
-          zoom: 11,
+          zoom: 12.5,
         }}
         style={{ width: "100%", height: "100%" }}
         mapStyle={theme === 'light' ? 'mapbox://styles/luma1992/cmcrp4svj045g01r17lvz89bx' : 'mapbox://styles/luma1992/cmcrpf414029501qx4b4fa2jx'}
