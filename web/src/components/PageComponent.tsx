@@ -5,7 +5,7 @@ import { marked } from 'marked';
 import type { Page } from '../types';
 import { motion } from 'framer-motion';
 import { pageVariants, pageTransition } from '../animations';
-import { Helmet } from 'react-helmet-async';
+
 
 const PageComponent = () => {
   const { theme } = useTheme();
@@ -24,10 +24,8 @@ const PageComponent = () => {
       variants={pageVariants}
       transition={pageTransition as any}
     >
-      <Helmet>
-        <title>{`Luca Mack | ${page.title}`}</title>
-        <meta name="description" content={`Information about ${page.title}`} />
-      </Helmet>
+            <title>{`Luca Mack | ${page.title}`}</title>
+      <meta name="description" content={`Information about ${page.title}`} />
       <div className="px-4 md:px-0">
         <div className="flex flex-col items-start" data-wysiwyg>
           {/* <h1 className="w-full max-w-[560px] text-2xl md:text-5xl pt-8 font-bold ">{page.title}</h1> */}

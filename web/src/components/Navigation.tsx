@@ -109,6 +109,13 @@ const Navigation = () => {
                 {page.title}
               </NavLink>
             ))}
+            <NavLink
+              to="/map"
+              className={({ isActive }) => navLinkClasses(isActive)}
+              onClick={handleLinkClick}
+            >
+              Map
+            </NavLink>
           </div>
           {themeToggle}
         </div>
@@ -137,6 +144,13 @@ const Navigation = () => {
               {page.title}
             </NavLink>
           ))}
+          <NavLink
+            to="/map"
+            className={({ isActive }) => navLinkClasses(isActive)}
+            onClick={handleLinkClick}
+          >
+            Map
+          </NavLink>
         </div>
         {themeToggle}
       </aside>

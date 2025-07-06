@@ -4,6 +4,7 @@ import Navigation from "./components/Navigation";
 import Home from "./components/Home";
 import Gallery from "./components/Gallery";
 import PageComponent from './components/PageComponent';
+import MapPage from './components/Map';
 import { useTheme } from "./contexts/ThemeContext";
 import { AnimatePresence } from "framer-motion";
 
@@ -26,7 +27,8 @@ function App() {
           <Routes location={location} key={location.pathname}>
             <Route path="/" element={<Home />} />
             <Route path="/gallery/:slug" element={<Gallery />} />
-            <Route path="/page/:slug" element={<PageComponent />} />
+                        <Route path="/page/:slug" element={<PageComponent />} />
+            <Route path="/map" element={<MapPage />} />
           </Routes>
         </AnimatePresence>
       </main>

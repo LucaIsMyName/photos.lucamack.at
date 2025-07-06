@@ -5,17 +5,15 @@ import App from "./App.tsx";
 import "./index.css";
 import "./App.css";
 import { ThemeProvider } from "./contexts/ThemeContext";
-import { HelmetProvider } from "react-helmet-async";
+
 
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <HelmetProvider>
+    <Router>
       <ThemeProvider>
-        <Router>
-          <App />
-        </Router>
+        <App />
       </ThemeProvider>
-    </HelmetProvider>
+    </Router>
   </StrictMode>
 );
