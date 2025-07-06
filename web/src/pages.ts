@@ -15,7 +15,7 @@ export const pages: Page[] = [
   },
   {
     "title": "Info",
-    "slug": "ueber",
+    "slug": "info",
     "content": "# Info\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n\n## Headline 2\n\n### Headline 3\n\n#### Headline 4\n\n##### Headline 5\n\n###### Headline 6\n\n**bold**\n\n*italic*"
   }
 ];
