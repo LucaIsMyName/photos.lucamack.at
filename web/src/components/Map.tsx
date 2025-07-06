@@ -5,6 +5,7 @@ import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../galleries";
 import type { Gallery, Image as ImageType } from "../types";
 import { Link } from "react-router-dom";
+import { useTheme } from "../contexts/ThemeContext";
 
 const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN;
 
@@ -14,6 +15,7 @@ interface GeotaggedImage {
 }
 
 const MapPage = () => {
+  const { theme } = useTheme();
   const [popupInfo, setPopupInfo] = useState<GeotaggedImage | null>(null);
 
   const geotaggedImages = useMemo(() => {
@@ -42,7 +44,7 @@ const MapPage = () => {
           zoom: 4,
         }}
         style={{ width: "100%", height: "100%" }}
-        mapStyle="mapbox://styles/mapbox/streets-v11"
+        mapStyle={theme === 'light' ? 'mapbox://styles/luma1992/cmcrp4svj045g01r17lvz89bx' : 'mapbox://styles/luma1992/cmcrpf414029501qx4b4fa2jx'}
         mapboxAccessToken={MAPBOX_TOKEN}>
         {geotaggedImages.map((item, index) => (
           <Marker
