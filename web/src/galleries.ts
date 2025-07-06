@@ -461,36 +461,6 @@ export const galleries = [
         "longitude": null
       },
       {
-        "filename": "IMG_2308.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2311.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2313.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2314.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2315.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
-        "filename": "IMG_2316.jpg",
-        "latitude": null,
-        "longitude": null
-      },
-      {
         "filename": "IMG_2387.jpg",
         "latitude": null,
         "longitude": null
@@ -1264,6 +1234,44 @@ export const galleries = [
         "filename": "IMG_2362.jpg",
         "latitude": 47.796172,
         "longitude": 13.025944
+      }
+    ]
+  },
+  {
+    "name": "wien-museum",
+    "slug": "wien-museum",
+    "title": "Wien Museum",
+    "description": "",
+    "images": [
+      {
+        "filename": "IMG_2308.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "filename": "IMG_2311.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "filename": "IMG_2313.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "filename": "IMG_2314.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "filename": "IMG_2315.jpg",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "filename": "IMG_2316.jpg",
+        "latitude": null,
+        "longitude": null
       }
     ]
   },

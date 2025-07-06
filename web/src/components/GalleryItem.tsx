@@ -16,7 +16,7 @@ const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
   const [mapUrl, setMapUrl] = useState('');
 
   useEffect(() => {
-    const paddings = ['p-2', 'p-4', 'p-6', 'p-8', 'p-10', 'p-12'];
+    const paddings = ['p-2', 'p-3', 'p-4', 'p-5', 'p-6', 'p-7'];
     setPadding(paddings[Math.floor(Math.random() * paddings.length)]);
   }, []);
 
