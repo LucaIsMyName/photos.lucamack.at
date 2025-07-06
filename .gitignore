@@ -1,0 +1,5 @@
+node_modules
+# no jpg or heic file types
+*.jpg
+*.heic
+web/content
