@@ -28,7 +28,7 @@ const Home = () => {
       return null;
     }
 
-    const src = `/content/${randomImage.gallery.slug}/${randomImage.image.filename}`;
+    const src = `/content/galleries/${randomImage.gallery.slug}/${randomImage.image.filename}`;
     const ext = src.substring(src.lastIndexOf('.'));
     const baseSrc = src.substring(0, src.lastIndexOf('.'));
     const srcSet = responsiveSizes

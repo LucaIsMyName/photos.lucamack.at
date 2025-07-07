@@ -12,10 +12,5 @@ export const pages: Page[] = [
     "title": "Impressum",
     "slug": "imprint",
     "content": "# Impressum\n\nLuca Mack\nLorystrassse 71/56\n1110 Wien\nCopyright: Alle Bilder"
-  },
-  {
-    "title": "Info",
-    "slug": "info",
-    "content": "# Info\n\n**Alles hat seinen Platz – auch das, was nicht passt.**\n\nMomente von [Luca Mack](https://lucamack.at/)."
   }
 ];

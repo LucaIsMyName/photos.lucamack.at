@@ -1,5 +1,5 @@
 import { useState, useMemo } from "react";
-import Map, { Marker, Popup } from 'react-map-gl/mapbox';
+import Map, { Marker, Popup } from "react-map-gl/mapbox";
 
 import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../galleries";
@@ -39,12 +39,13 @@ const MapPage = () => {
       />
       <Map
         initialViewState={{
-          longitude: 16.370499431046007,
-          latitude: 48.20880059768514,
-          zoom: 12.5,
+          // center between porto and vienna
+          longitude: (4.370499431046007 + 16.370499431046007) / 2,
+          latitude: (48.20880059768514 + 48.20880059768514) / 2,
+          zoom: 3.5,
         }}
         style={{ width: "100%", height: "100%" }}
-        mapStyle={theme === 'light' ? 'mapbox://styles/luma1992/cmcrp4svj045g01r17lvz89bx' : 'mapbox://styles/luma1992/cmcrpf414029501qx4b4fa2jx'}
+        mapStyle={theme === "light" ? "mapbox://styles/luma1992/cmcrp4svj045g01r17lvz89bx" : "mapbox://styles/luma1992/cmcrpf414029501qx4b4fa2jx"}
         mapboxAccessToken={MAPBOX_TOKEN}>
         {geotaggedImages.map((item, index) => (
           <Marker
@@ -56,7 +57,7 @@ const MapPage = () => {
               e.originalEvent?.stopPropagation();
               setPopupInfo(item);
             }}>
-            <div className={`h-3 w-3 rounded-full border-2 ${theme === 'light' ? 'border-red-900 bg-red-600' : 'border-gray-950 bg-red-300'}`} />
+            <div className={`h-3 w-3 rounded-full border-2 ${theme === "light" ? "border-red-900 bg-red-600" : "border-gray-950 bg-red-300"}`} />
           </Marker>
         ))}
 
@@ -72,7 +73,7 @@ const MapPage = () => {
               <Link to={`/gallery/${popupInfo.gallery.slug}`}>
                 <img
                   className="w-32"
-                  src={`/content/galleries/${popupInfo.gallery.slug}/${popupInfo.image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, '-640w.jpg')}`}
+                  src={`/content/galleries/${popupInfo.gallery.slug}/${popupInfo.image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, "-640w.jpg")}`}
                   alt={popupInfo.gallery.title}
                 />
                 <p className="font-geist pt-2 text-center text-sm font-semibold">{popupInfo.gallery.title}</p>

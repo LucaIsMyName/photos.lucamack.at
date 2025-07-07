@@ -44,11 +44,11 @@ const Gallery = () => {
       />
       <div className="px-4 md:px-0">
         <div className="flex flex-col items-start">
-          <h1 className="w-full max-w-[560px] text-2xl md:text-5xl pt-6 font-bold ">{gallery.title || gallery.name}</h1>
+          <h1 className="w-full max-w-[560px] text-wrap-balance text-2xl md:text-5xl pt-6 font-bold ">{gallery.title || gallery.name}</h1>
 
           {gallery.description && (
             <div
-              className="w-full max-w-[560px] text-lg leading-8 my-4 leading-tight"
+              className="w-full max-w-[560px] text-wrap-balance text-sm md:text-lg leading-8 my-4 leading-tight"
               dangerouslySetInnerHTML={{ __html: marked(gallery.description) }}
             />
           )}

@@ -65,19 +65,19 @@ body {
 }
 
 [data-wysiwyg] ul {
-  @apply list-disc list-inside;
+  @apply list-disc list-inside mb-4;
 }
 
 [data-wysiwyg] ol {
-  @apply list-decimal list-inside;
+  @apply list-decimal list-inside mb-4;
 } 
 
 [data-wysiwyg] li {
-  @apply my-1;
+  @apply my-1 text-base;
 }
 
 [data-wysiwyg] a {
-  @apply text-blue-600 hover:underline;
+  @apply text-blue-600 underline underline-offset-4;
 }
 
 [data-wysiwyg] blockquote {

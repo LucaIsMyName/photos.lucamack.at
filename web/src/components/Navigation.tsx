@@ -149,7 +149,7 @@ const Navigation = () => {
             className={({ isActive }) => navLinkClasses(isActive)}
             onClick={handleLinkClick}
           >
-            Map
+            Karte
           </NavLink>
         </div>
         {themeToggle}
