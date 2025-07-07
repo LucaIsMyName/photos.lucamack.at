@@ -10,24 +10,119 @@ export const galleries = [
       {
         "filename": "IMG_1.jpg",
         "latitude": 48.208242,
-        "longitude": 16.359903
+        "longitude": 16.359903,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 5,
+          "hour": 9,
+          "minute": 37,
+          "second": 4,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:05 09:37:04",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2328.jpg",
         "latitude": 48.158589,
-        "longitude": 12.832308
+        "longitude": 12.832308,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 16,
+          "hour": 19,
+          "minute": 48,
+          "second": 20,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:16 19:48:20",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_2531.jpg",
+        "latitude": 48.206036,
+        "longitude": 16.360564,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 49,
+          "second": 0,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:49:00",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_2549.jpg",
+        "latitude": 48.206025,
+        "longitude": 16.360444,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 15,
+          "minute": 27,
+          "second": 29,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 15:27:29",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_2578.jpg",
+        "latitude": 48.200256,
+        "longitude": 16.311017,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 22,
+          "minute": 18,
+          "second": 52,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 22:18:52",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_3.jpg",
         "latitude": 48.169742,
-        "longitude": 16.416686
+        "longitude": 16.416686,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 11,
+          "hour": 19,
+          "minute": 54,
+          "second": 5,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:11 19:54:05",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_4.jpg",
         "latitude": null,
         "longitude": null
       }
-    ]
+    ],
+    "timeframe": "5. Mai 2025 - 7. Juni 2025",
+    "imageCount": 7
   },
   {
     "name": "arsenal",
@@ -38,59 +133,204 @@ export const galleries = [
       {
         "filename": "IMG_1875.jpg",
         "latitude": 48.181928,
-        "longitude": 16.390136
+        "longitude": 16.390136,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 33,
+          "second": 23,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:33:23",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1876.jpg",
         "latitude": 48.181961,
-        "longitude": 16.390197
+        "longitude": 16.390197,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 33,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:33:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1878.jpg",
         "latitude": 48.182044,
-        "longitude": 16.390392
+        "longitude": 16.390392,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 33,
+          "second": 45,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:33:45",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1880.jpg",
         "latitude": 48.182206,
-        "longitude": 16.390731
+        "longitude": 16.390731,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 34,
+          "second": 16,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:34:16",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1881.jpg",
         "latitude": 48.182494,
-        "longitude": 16.391122
+        "longitude": 16.391122,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 34,
+          "second": 43,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:34:43",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1883.jpg",
         "latitude": 48.182694,
-        "longitude": 16.391783
+        "longitude": 16.391783,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 35,
+          "second": 20,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:35:20",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1884.jpg",
         "latitude": 48.182872,
-        "longitude": 16.391942
+        "longitude": 16.391942,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 35,
+          "second": 42,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:35:42",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1885.jpg",
         "latitude": 48.183075,
-        "longitude": 16.392044
+        "longitude": 16.392044,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 35,
+          "second": 58,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:35:58",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1888.jpg",
         "latitude": 48.183372,
-        "longitude": 16.392936
+        "longitude": 16.392936,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 37,
+          "second": 8,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:37:08",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1891.jpg",
         "latitude": 48.183189,
-        "longitude": 16.393117
+        "longitude": 16.393117,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 37,
+          "second": 36,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:37:36",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1894.jpg",
         "latitude": 48.1827,
-        "longitude": 16.394
+        "longitude": 16.394,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 38,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:38:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       }
-    ]
+    ],
+    "timeframe": "20. April 2025",
+    "imageCount": 11
   },
   {
     "name": "beton-strukturen",
@@ -101,57 +341,200 @@ export const galleries = [
       {
         "filename": "IMG_1799.jpg",
         "latitude": 48.167317,
-        "longitude": 16.407628
+        "longitude": 16.407628,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 13,
+          "hour": 13,
+          "minute": 53,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:13 13:53:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1828.jpg",
         "latitude": 48.181872,
-        "longitude": 16.413875
+        "longitude": 16.413875,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 18,
+          "hour": 12,
+          "minute": 9,
+          "second": 3,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:18 12:09:03",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1842.jpg",
         "latitude": 48.168975,
-        "longitude": 16.421569
+        "longitude": 16.421569,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 18,
+          "hour": 15,
+          "minute": 24,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:18 15:24:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1860.jpg",
         "latitude": 48.182247,
-        "longitude": 16.384303
+        "longitude": 16.384303,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 24,
+          "second": 5,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:24:05",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1864.jpg",
         "latitude": 48.179886,
-        "longitude": 16.386161
+        "longitude": 16.386161,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 28,
+          "second": 3,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:28:03",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1871.jpg",
         "latitude": 48.180686,
-        "longitude": 16.387744
+        "longitude": 16.387744,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 29,
+          "second": 58,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:29:58",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1900.jpg",
         "latitude": 48.182117,
-        "longitude": 16.397872
+        "longitude": 16.397872,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 43,
+          "second": 30,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:43:30",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1906.jpg",
         "latitude": 48.181389,
-        "longitude": 16.398206
+        "longitude": 16.398206,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 44,
+          "second": 40,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:44:40",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1913.jpg",
         "latitude": 48.180186,
-        "longitude": 16.397092
+        "longitude": 16.397092,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 48,
+          "second": 56,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:48:56",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1915.jpg",
         "latitude": 48.178458,
-        "longitude": 16.394178
+        "longitude": 16.394178,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 52,
+          "second": 13,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:52:13",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1922.jpg",
         "latitude": 48.214017,
-        "longitude": 16.361797
+        "longitude": 16.361797,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 21,
+          "hour": 15,
+          "minute": 8,
+          "second": 4,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:21 15:08:04",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1924.jpg",
@@ -161,409 +544,1500 @@ export const galleries = [
       {
         "filename": "IMG_1934.jpg",
         "latitude": 48.241619,
-        "longitude": 16.384619
+        "longitude": 16.384619,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 21,
+          "hour": 18,
+          "minute": 29,
+          "second": 50,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:21 18:29:50",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1953.jpg",
         "latitude": 48.181586,
-        "longitude": 16.411972
+        "longitude": 16.411972,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 23,
+          "hour": 19,
+          "minute": 35,
+          "second": 12,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:23 19:35:12",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1954.jpg",
         "latitude": 48.181611,
-        "longitude": 16.412083
+        "longitude": 16.412083,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 23,
+          "hour": 19,
+          "minute": 35,
+          "second": 57,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:23 19:35:57",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1956.jpg",
         "latitude": 48.181714,
-        "longitude": 16.412022
+        "longitude": 16.412022,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 23,
+          "hour": 19,
+          "minute": 36,
+          "second": 15,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:23 19:36:15",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1960.jpg",
         "latitude": 48.181606,
-        "longitude": 16.412522
+        "longitude": 16.412522,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 23,
+          "hour": 19,
+          "minute": 37,
+          "second": 20,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:23 19:37:20",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1962.jpg",
         "latitude": 48.187514,
-        "longitude": 16.412656
+        "longitude": 16.412656,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 23,
+          "hour": 20,
+          "minute": 59,
+          "second": 52,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:23 20:59:52",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1965.jpg",
         "latitude": 48.185806,
-        "longitude": 16.413911
+        "longitude": 16.413911,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 23,
+          "hour": 22,
+          "minute": 40,
+          "second": 1,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:23 22:40:01",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1966.jpg",
         "latitude": 48.174133,
-        "longitude": 16.416464
+        "longitude": 16.416464,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 25,
+          "hour": 17,
+          "minute": 39,
+          "second": 8,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:25 17:39:08",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1970.jpg",
         "latitude": 48.211242,
-        "longitude": 16.379222
+        "longitude": 16.379222,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 26,
+          "hour": 16,
+          "minute": 45,
+          "second": 27,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:26 16:45:27",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1973.jpg",
         "latitude": 48.241303,
-        "longitude": 16.380889
+        "longitude": 16.380889,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 26,
+          "hour": 19,
+          "minute": 25,
+          "second": 29,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:26 19:25:29",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1974.jpg",
         "latitude": 48.241436,
-        "longitude": 16.381792
+        "longitude": 16.381792,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 26,
+          "hour": 19,
+          "minute": 26,
+          "second": 14,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:26 19:26:14",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2100.jpg",
         "latitude": 48.216494,
-        "longitude": 16.356881
+        "longitude": 16.356881,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 12,
+          "minute": 48,
+          "second": 43,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 12:48:43",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2102.jpg",
         "latitude": 48.168872,
-        "longitude": 16.416753
+        "longitude": 16.416753,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 16,
+          "minute": 31,
+          "second": 53,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 16:31:53",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2106.jpg",
         "latitude": 48.168353,
-        "longitude": 16.417556
+        "longitude": 16.417556,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 16,
+          "minute": 32,
+          "second": 45,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 16:32:45",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2107.jpg",
         "latitude": 48.169617,
-        "longitude": 16.419389
+        "longitude": 16.419389,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 16,
+          "minute": 34,
+          "second": 52,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 16:34:52",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2117.jpg",
         "latitude": 48.201386,
-        "longitude": 16.387961
+        "longitude": 16.387961,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 7,
+          "second": 19,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:07:19",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2118.jpg",
         "latitude": 48.200011,
-        "longitude": 16.387772
+        "longitude": 16.387772,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 9,
+          "second": 8,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:09:08",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2120.jpg",
         "latitude": 48.199825,
-        "longitude": 16.387606
+        "longitude": 16.387606,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 9,
+          "second": 24,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:09:24",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2121.jpg",
         "latitude": 48.199086,
-        "longitude": 16.387567
+        "longitude": 16.387567,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 10,
+          "second": 27,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:10:27",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2122.jpg",
         "latitude": 48.199325,
-        "longitude": 16.383333
+        "longitude": 16.383333,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 14,
+          "second": 35,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:14:35",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2123.jpg",
         "latitude": 48.198947,
-        "longitude": 16.382642
+        "longitude": 16.382642,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 15,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:15:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2124.jpg",
         "latitude": 48.198953,
-        "longitude": 16.38115
+        "longitude": 16.38115,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 16,
+          "second": 41,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:16:41",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2125.jpg",
         "latitude": 48.199047,
-        "longitude": 16.380219
+        "longitude": 16.380219,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 17,
+          "second": 15,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:17:15",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2126.jpg",
         "latitude": 48.199006,
-        "longitude": 16.378989
+        "longitude": 16.378989,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 18,
+          "second": 12,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:18:12",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2127.jpg",
         "latitude": 48.197242,
-        "longitude": 16.379769
+        "longitude": 16.379769,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 21,
+          "second": 55,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:21:55",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2128.jpg",
         "latitude": 48.197028,
-        "longitude": 16.380692
+        "longitude": 16.380692,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 22,
+          "second": 49,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:22:49",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2129.jpg",
         "latitude": 48.169636,
-        "longitude": 16.420636
+        "longitude": 16.420636,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 40,
+          "second": 49,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:40:49",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2132.jpg",
         "latitude": 48.168475,
-        "longitude": 16.417436
+        "longitude": 16.417436,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 45,
+          "second": 41,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:45:41",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2134.jpg",
         "latitude": 48.168781,
-        "longitude": 16.417067
+        "longitude": 16.417067,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 46,
+          "second": 13,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:46:13",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2135.jpg",
         "latitude": 48.169175,
-        "longitude": 16.416547
+        "longitude": 16.416547,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 47,
+          "second": 3,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:47:03",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2139.jpg",
         "latitude": 48.198017,
-        "longitude": 16.335486
+        "longitude": 16.335486,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 12,
+          "minute": 58,
+          "second": 21,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 12:58:21",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2140.jpg",
         "latitude": 48.204619,
-        "longitude": 16.332464
+        "longitude": 16.332464,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 12,
+          "second": 53,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:12:53",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2145.jpg",
         "latitude": 48.20415,
-        "longitude": 16.336481
+        "longitude": 16.336481,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 35,
+          "second": 35,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:35:35",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2146.jpg",
         "latitude": 48.204067,
-        "longitude": 16.336722
+        "longitude": 16.336722,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 35,
+          "second": 52,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:35:52",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2147.jpg",
         "latitude": 48.204003,
-        "longitude": 16.336544
+        "longitude": 16.336544,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 36,
+          "second": 6,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:36:06",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2151.jpg",
         "latitude": 48.203336,
-        "longitude": 16.337169
+        "longitude": 16.337169,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 36,
+          "second": 57,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:36:57",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2152.jpg",
         "latitude": 48.203186,
-        "longitude": 16.337078
+        "longitude": 16.337078,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 37,
+          "second": 10,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:37:10",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2154.jpg",
         "latitude": 48.202367,
-        "longitude": 16.337
+        "longitude": 16.337,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 38,
+          "second": 14,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:38:14",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2155.jpg",
         "latitude": 48.201675,
-        "longitude": 16.336906
+        "longitude": 16.336906,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 39,
+          "second": 26,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:39:26",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2156.jpg",
         "latitude": 48.201789,
-        "longitude": 16.337164
+        "longitude": 16.337164,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 40,
+          "second": 7,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:40:07",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2157.jpg",
         "latitude": 48.201836,
-        "longitude": 16.337144
+        "longitude": 16.337144,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 40,
+          "second": 16,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:40:16",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2160.jpg",
         "latitude": 48.201886,
-        "longitude": 16.337122
+        "longitude": 16.337122,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 40,
+          "second": 48,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:40:48",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2161.jpg",
         "latitude": 48.201878,
-        "longitude": 16.337144
+        "longitude": 16.337144,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 40,
+          "second": 59,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:40:59",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2162.jpg",
         "latitude": 48.202117,
-        "longitude": 16.337203
+        "longitude": 16.337203,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 41,
+          "second": 45,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:41:45",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2163.jpg",
         "latitude": 48.202117,
-        "longitude": 16.337203
+        "longitude": 16.337203,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 13,
+          "minute": 41,
+          "second": 49,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 13:41:49",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2164.jpg",
         "latitude": 48.174717,
-        "longitude": 16.385819
+        "longitude": 16.385819,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 14,
+          "minute": 11,
+          "second": 6,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 14:11:06",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2207.jpg",
         "latitude": 48.169633,
-        "longitude": 16.416839
+        "longitude": 16.416839,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 19,
+          "minute": 44,
+          "second": 8,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 19:44:08",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2208.jpg",
         "latitude": 48.168983,
-        "longitude": 16.418758
+        "longitude": 16.418758,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 4,
+          "hour": 7,
+          "minute": 9,
+          "second": 6,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:04 07:09:06",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2254.jpg",
         "latitude": 48.208453,
-        "longitude": 16.359864
+        "longitude": 16.359864,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 5,
+          "hour": 9,
+          "minute": 37,
+          "second": 38,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:05 09:37:38",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2259.jpg",
         "latitude": 48.209703,
-        "longitude": 16.359542
+        "longitude": 16.359542,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 5,
+          "hour": 9,
+          "minute": 40,
+          "second": 3,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:05 09:40:03",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2263.jpg",
         "latitude": 48.210139,
-        "longitude": 16.358222
+        "longitude": 16.358222,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 5,
+          "hour": 9,
+          "minute": 42,
+          "second": 9,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:05 09:42:09",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2269.jpg",
         "latitude": 48.172264,
-        "longitude": 16.414536
+        "longitude": 16.414536,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 7,
+          "hour": 19,
+          "minute": 31,
+          "second": 26,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:07 19:31:26",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2272.jpg",
         "latitude": 48.174494,
-        "longitude": 16.410661
+        "longitude": 16.410661,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 13,
+          "minute": 24,
+          "second": 28,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 13:24:28",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2274.jpg",
         "latitude": 48.174889,
-        "longitude": 16.407264
+        "longitude": 16.407264,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 13,
+          "minute": 27,
+          "second": 15,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 13:27:15",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2276.jpg",
         "latitude": 48.254253,
-        "longitude": 16.380364
+        "longitude": 16.380364,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 14,
+          "minute": 33,
+          "second": 48,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 14:33:48",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2278.jpg",
         "latitude": 48.252056,
-        "longitude": 16.382144
+        "longitude": 16.382144,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 14,
+          "minute": 37,
+          "second": 47,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 14:37:47",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2284.jpg",
         "latitude": 48.243858,
-        "longitude": 16.390128
+        "longitude": 16.390128,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 17,
+          "minute": 10,
+          "second": 45,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 17:10:45",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2287.jpg",
         "latitude": 48.242469,
-        "longitude": 16.385989
+        "longitude": 16.385989,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 17,
+          "minute": 17,
+          "second": 29,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 17:17:29",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2290.jpg",
         "latitude": 48.241558,
-        "longitude": 16.384994
+        "longitude": 16.384994,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 17,
+          "minute": 25,
+          "second": 18,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 17:25:18",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2293.jpg",
         "latitude": 48.241947,
-        "longitude": 16.384497
+        "longitude": 16.384497,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 17,
+          "minute": 27,
+          "second": 25,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 17:27:25",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2296.jpg",
         "latitude": 48.174267,
-        "longitude": 16.41165
+        "longitude": 16.41165,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 18,
+          "minute": 3,
+          "second": 19,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 18:03:19",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2297.jpg",
         "latitude": 48.169953,
-        "longitude": 16.419403
+        "longitude": 16.419403,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 11,
+          "hour": 15,
+          "minute": 28,
+          "second": 6,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:11 15:28:06",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2305.jpg",
         "latitude": 48.206794,
-        "longitude": 16.382514
+        "longitude": 16.382514,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 14,
+          "hour": 8,
+          "minute": 35,
+          "second": 40,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:14 08:35:40",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2387.jpg",
         "latitude": 48.202786,
-        "longitude": 16.391031
+        "longitude": 16.391031,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 22,
+          "hour": 8,
+          "minute": 15,
+          "second": 35,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:22 08:15:35",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2413.jpg",
         "latitude": 48.1548,
-        "longitude": 16.4267
+        "longitude": 16.4267,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 25,
+          "hour": 18,
+          "minute": 6,
+          "second": 57,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:25 18:06:57",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2414.jpg",
         "latitude": 48.166492,
-        "longitude": 16.413928
+        "longitude": 16.413928,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 25,
+          "hour": 18,
+          "minute": 23,
+          "second": 31,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:25 18:23:31",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2417.jpg",
         "latitude": 48.166722,
-        "longitude": 16.413989
+        "longitude": 16.413989,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 25,
+          "hour": 18,
+          "minute": 23,
+          "second": 45,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:25 18:23:45",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2428.jpg",
         "latitude": 48.204525,
-        "longitude": 16.368617
+        "longitude": 16.368617,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 28,
+          "hour": 19,
+          "minute": 41,
+          "second": 54,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:28 19:41:54",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2430.jpg",
         "latitude": 48.169839,
-        "longitude": 16.420197
+        "longitude": 16.420197,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 29,
+          "hour": 8,
+          "minute": 47,
+          "second": 21,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:29 08:47:21",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2432.jpg",
         "latitude": 48.158444,
-        "longitude": 16.424008
+        "longitude": 16.424008,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 29,
+          "hour": 10,
+          "minute": 20,
+          "second": 20,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:29 10:20:20",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2434.jpg",
         "latitude": 48.154797,
-        "longitude": 16.426722
+        "longitude": 16.426722,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 29,
+          "hour": 10,
+          "minute": 23,
+          "second": 55,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:29 10:23:55",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2438.jpg",
         "latitude": 48.160958,
-        "longitude": 16.430558
+        "longitude": 16.430558,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 29,
+          "hour": 10,
+          "minute": 48,
+          "second": 57,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:29 10:48:57",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2453.jpg",
         "latitude": 48.160858,
-        "longitude": 16.430958
+        "longitude": 16.430958,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 8,
+          "minute": 33,
+          "second": 11,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 08:33:11",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2454.jpg",
         "latitude": 48.162964,
-        "longitude": 16.427539
+        "longitude": 16.427539,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 8,
+          "minute": 38,
+          "second": 19,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 08:38:19",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2458.jpg",
         "latitude": 48.189739,
-        "longitude": 16.414456
+        "longitude": 16.414456,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 14,
+          "minute": 27,
+          "second": 56,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 14:27:56",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2459.jpg",
         "latitude": 48.189758,
-        "longitude": 16.414442
+        "longitude": 16.414442,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 14,
+          "minute": 28,
+          "second": 0,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 14:28:00",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2460.jpg",
         "latitude": 48.189767,
-        "longitude": 16.414433
+        "longitude": 16.414433,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 14,
+          "minute": 28,
+          "second": 1,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 14:28:01",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2464.jpg",
         "latitude": 48.186092,
-        "longitude": 16.413206
+        "longitude": 16.413206,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 15,
+          "minute": 40,
+          "second": 51,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 15:40:51",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2466.jpg",
         "latitude": 48.213772,
-        "longitude": 16.362475
+        "longitude": 16.362475,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 2,
+          "hour": 8,
+          "minute": 38,
+          "second": 55,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:02 08:38:55",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2475.jpg",
         "latitude": 48.1596,
-        "longitude": 16.432486
+        "longitude": 16.432486,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 3,
+          "hour": 19,
+          "minute": 44,
+          "second": 10,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:03 19:44:10",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2506.jpg",
         "latitude": 48.185756,
-        "longitude": 16.375636
+        "longitude": 16.375636,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 5,
+          "hour": 19,
+          "minute": 40,
+          "second": 7,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:05 19:40:07",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_2569.jpg",
+        "latitude": 48.207714,
+        "longitude": 16.309044,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 17,
+          "minute": 53,
+          "second": 35,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 17:53:35",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_2576.jpg",
+        "latitude": 48.201831,
+        "longitude": 16.308058,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 22,
+          "minute": 14,
+          "second": 47,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 22:14:47",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       }
-    ]
+    ],
+    "timeframe": "13. April 2025 - 7. Juni 2025",
+    "imageCount": 95
   },
   {
     "name": "mayday",
@@ -574,219 +2048,780 @@ export const galleries = [
       {
         "filename": "IMG_1987.jpg",
         "latitude": 48.205731,
-        "longitude": 16.361333
+        "longitude": 16.361333,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 10,
+          "minute": 56,
+          "second": 55,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 10:56:55",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1990.jpg",
         "latitude": 48.206608,
-        "longitude": 16.360297
+        "longitude": 16.360297,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 10,
+          "minute": 58,
+          "second": 34,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 10:58:34",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1991.jpg",
         "latitude": 48.206844,
-        "longitude": 16.360006
+        "longitude": 16.360006,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 10,
+          "minute": 58,
+          "second": 55,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 10:58:55",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1994.jpg",
         "latitude": 48.207139,
-        "longitude": 16.3597
+        "longitude": 16.3597,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 10,
+          "minute": 59,
+          "second": 34,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 10:59:34",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1999.jpg",
         "latitude": 48.2075,
-        "longitude": 16.359675
+        "longitude": 16.359675,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 0,
+          "second": 34,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 11:00:34",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2001.jpg",
         "latitude": 48.207492,
-        "longitude": 16.359689
+        "longitude": 16.359689,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 0,
+          "second": 40,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 11:00:40",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2002.jpg",
         "latitude": 48.207672,
-        "longitude": 16.359786
+        "longitude": 16.359786,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 0,
+          "second": 59,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 11:00:59",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2005.jpg",
         "latitude": 48.207936,
-        "longitude": 16.359811
+        "longitude": 16.359811,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 1,
+          "second": 27,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 11:01:27",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2008.jpg",
         "latitude": 48.207958,
-        "longitude": 16.359894
+        "longitude": 16.359894,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 1,
+          "second": 48,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 11:01:48",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2013.jpg",
         "latitude": 48.209867,
-        "longitude": 16.360381
+        "longitude": 16.360381,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 4,
+          "second": 40,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 11:04:40",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2015.jpg",
         "latitude": 48.210561,
-        "longitude": 16.360014
+        "longitude": 16.360014,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 6,
+          "second": 9,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 11:06:09",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2025.jpg",
         "latitude": 48.210525,
-        "longitude": 16.358989
+        "longitude": 16.358989,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 22,
+          "second": 18,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 11:22:18",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2028.jpg",
         "latitude": 48.211181,
-        "longitude": 16.358508
+        "longitude": 16.358508,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 51,
+          "second": 1,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 11:51:01",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2029.jpg",
         "latitude": 48.211181,
-        "longitude": 16.35855
+        "longitude": 16.35855,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 51,
+          "second": 8,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 11:51:08",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2031.jpg",
         "latitude": 48.216286,
-        "longitude": 16.397525
+        "longitude": 16.397525,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 29,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:29:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2035.jpg",
         "latitude": 48.216039,
-        "longitude": 16.397747
+        "longitude": 16.397747,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 30,
+          "second": 34,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:30:34",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2041.jpg",
         "latitude": 48.216175,
-        "longitude": 16.398031
+        "longitude": 16.398031,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 31,
+          "second": 6,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:31:06",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2042.jpg",
         "latitude": 48.216233,
-        "longitude": 16.398181
+        "longitude": 16.398181,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 31,
+          "second": 20,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:31:20",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2043.jpg",
         "latitude": 48.216133,
-        "longitude": 16.398347
+        "longitude": 16.398347,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 31,
+          "second": 35,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:31:35",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2045.jpg",
         "latitude": 48.216019,
-        "longitude": 16.398375
+        "longitude": 16.398375,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 31,
+          "second": 50,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:31:50",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2050.jpg",
         "latitude": 48.215764,
-        "longitude": 16.398489
+        "longitude": 16.398489,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 32,
+          "second": 23,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:32:23",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2052.jpg",
         "latitude": 48.215558,
-        "longitude": 16.398789
+        "longitude": 16.398789,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 32,
+          "second": 59,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:32:59",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2054.jpg",
         "latitude": 48.215286,
-        "longitude": 16.399131
+        "longitude": 16.399131,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 33,
+          "second": 41,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:33:41",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2056.jpg",
         "latitude": 48.215183,
-        "longitude": 16.399372
+        "longitude": 16.399372,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 34,
+          "second": 1,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:34:01",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2057.jpg",
         "latitude": 48.2151,
-        "longitude": 16.399356
+        "longitude": 16.399356,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 34,
+          "second": 18,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:34:18",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2058.jpg",
         "latitude": 48.215069,
-        "longitude": 16.399456
+        "longitude": 16.399456,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 34,
+          "second": 31,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:34:31",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2060.jpg",
         "latitude": 48.215039,
-        "longitude": 16.399642
+        "longitude": 16.399642,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 34,
+          "second": 53,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:34:53",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2067.jpg",
         "latitude": 48.213511,
-        "longitude": 16.401242
+        "longitude": 16.401242,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 12,
+          "minute": 50,
+          "second": 10,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 12:50:10",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2070.jpg",
         "latitude": 48.213733,
-        "longitude": 16.398706
+        "longitude": 16.398706,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 17,
+          "minute": 33,
+          "second": 59,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 17:33:59",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2071.jpg",
         "latitude": 48.213722,
-        "longitude": 16.398669
+        "longitude": 16.398669,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 17,
+          "minute": 34,
+          "second": 4,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 17:34:04",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2073.jpg",
         "latitude": 48.214419,
-        "longitude": 16.397739
+        "longitude": 16.397739,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 17,
+          "minute": 35,
+          "second": 44,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 17:35:44",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2078.jpg",
         "latitude": 48.215917,
-        "longitude": 16.396686
+        "longitude": 16.396686,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 17,
+          "minute": 38,
+          "second": 43,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 17:38:43",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2080.jpg",
         "latitude": 48.216628,
-        "longitude": 16.397244
+        "longitude": 16.397244,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 17,
+          "minute": 43,
+          "second": 23,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 17:43:23",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2081.jpg",
         "latitude": 48.216861,
-        "longitude": 16.396319
+        "longitude": 16.396319,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 17,
+          "minute": 46,
+          "second": 0,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 17:46:00",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2082.jpg",
         "latitude": 48.217022,
-        "longitude": 16.396231
+        "longitude": 16.396231,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 17,
+          "minute": 46,
+          "second": 22,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 17:46:22",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2085.jpg",
         "latitude": 48.217328,
-        "longitude": 16.395811
+        "longitude": 16.395811,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 17,
+          "minute": 47,
+          "second": 19,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 17:47:19",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2086.jpg",
         "latitude": 48.217383,
-        "longitude": 16.395767
+        "longitude": 16.395767,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 17,
+          "minute": 47,
+          "second": 27,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 17:47:27",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2087.jpg",
         "latitude": 48.218267,
-        "longitude": 16.391383
+        "longitude": 16.391383,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 17,
+          "minute": 58,
+          "second": 2,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 17:58:02",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2088.jpg",
         "latitude": 48.218403,
-        "longitude": 16.391525
+        "longitude": 16.391525,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 17,
+          "minute": 58,
+          "second": 18,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 17:58:18",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2090.jpg",
         "latitude": 48.218922,
-        "longitude": 16.391997
+        "longitude": 16.391997,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 18,
+          "minute": 4,
+          "second": 40,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 18:04:40",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2091.jpg",
         "latitude": 48.218892,
-        "longitude": 16.391956
+        "longitude": 16.391956,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 18,
+          "minute": 5,
+          "second": 14,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 18:05:14",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2093.jpg",
         "latitude": 48.174572,
-        "longitude": 16.410278
+        "longitude": 16.410278,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 18,
+          "minute": 36,
+          "second": 11,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 18:36:11",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2095.jpg",
         "latitude": 48.169925,
-        "longitude": 16.416558
+        "longitude": 16.416558,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 1,
+          "hour": 20,
+          "minute": 41,
+          "second": 36,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:01 20:41:36",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       }
-    ]
+    ],
+    "timeframe": "1. Mai 2025",
+    "imageCount": 43
   },
   {
     "name": "nhm",
@@ -795,116 +2830,296 @@ export const galleries = [
     "description": "Kleine Taferl lesen & Steine schauen",
     "images": [
       {
-        "filename": "IMG_2506.jpg",
-        "latitude": 48.185756,
-        "longitude": 16.375636
-      },
-      {
         "filename": "IMG_2520.jpg",
         "latitude": 48.204869,
-        "longitude": 16.360233
+        "longitude": 16.360233,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 45,
+          "second": 16,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:45:16",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2521.jpg",
         "latitude": 48.204903,
-        "longitude": 16.360542
+        "longitude": 16.360542,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 46,
+          "second": 11,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:46:11",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2523.jpg",
         "latitude": 48.2049,
-        "longitude": 16.360639
+        "longitude": 16.360639,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 46,
+          "second": 22,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:46:22",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2524.jpg",
         "latitude": 48.204964,
-        "longitude": 16.360769
+        "longitude": 16.360769,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 46,
+          "second": 36,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:46:36",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2526.jpg",
         "latitude": 48.204986,
-        "longitude": 16.360767
-      },
-      {
-        "filename": "IMG_2531.jpg",
-        "latitude": 48.206036,
-        "longitude": 16.360564
+        "longitude": 16.360767,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 46,
+          "second": 50,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:46:50",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2532.jpg",
         "latitude": 48.206031,
-        "longitude": 16.360542
+        "longitude": 16.360542,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 49,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:49:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2533.jpg",
         "latitude": 48.205789,
-        "longitude": 16.359275
+        "longitude": 16.359275,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 50,
+          "second": 38,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:50:38",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2535.jpg",
         "latitude": 48.205719,
-        "longitude": 16.359147
+        "longitude": 16.359147,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 50,
+          "second": 56,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:50:56",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2536.jpg",
         "latitude": 48.205728,
-        "longitude": 16.359125
+        "longitude": 16.359125,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 51,
+          "second": 6,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:51:06",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2538.jpg",
         "latitude": 48.204953,
-        "longitude": 16.358825
+        "longitude": 16.358825,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 52,
+          "second": 14,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:52:14",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2539.jpg",
         "latitude": 48.204942,
-        "longitude": 16.360272
+        "longitude": 16.360272,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 57,
+          "second": 20,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:57:20",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2542.jpg",
         "latitude": 48.204956,
-        "longitude": 16.360739
+        "longitude": 16.360739,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 15,
+          "minute": 10,
+          "second": 24,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 15:10:24",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2548.jpg",
         "latitude": 48.205944,
-        "longitude": 16.360539
-      },
-      {
-        "filename": "IMG_2549.jpg",
-        "latitude": 48.206025,
-        "longitude": 16.360444
+        "longitude": 16.360539,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 15,
+          "minute": 18,
+          "second": 11,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 15:18:11",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2554.jpg",
         "latitude": 48.206006,
-        "longitude": 16.360533
+        "longitude": 16.360533,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 15,
+          "minute": 29,
+          "second": 51,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 15:29:51",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2555.jpg",
         "latitude": 48.205983,
-        "longitude": 16.359889
+        "longitude": 16.359889,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 15,
+          "minute": 39,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 15:39:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2563.jpg",
         "latitude": 48.205406,
-        "longitude": 16.359233
-      },
-      {
-        "filename": "IMG_2569.jpg",
-        "latitude": 48.207714,
-        "longitude": 16.309044
-      },
-      {
-        "filename": "IMG_2576.jpg",
-        "latitude": 48.201831,
-        "longitude": 16.308058
-      },
-      {
-        "filename": "IMG_2578.jpg",
-        "latitude": 48.200256,
-        "longitude": 16.311017
+        "longitude": 16.359233,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 16,
+          "minute": 2,
+          "second": 24,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 16:02:24",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       }
-    ]
+    ],
+    "timeframe": "7. Juni 2025",
+    "imageCount": 16
   },
   {
     "name": "oeffis",
@@ -915,179 +3130,636 @@ export const galleries = [
       {
         "filename": "IMG_1866.jpg",
         "latitude": 48.180231,
-        "longitude": 16.386892
+        "longitude": 16.386892,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 28,
+          "second": 57,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:28:57",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1921.jpg",
         "latitude": 48.214,
-        "longitude": 16.361961
+        "longitude": 16.361961,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 21,
+          "hour": 15,
+          "minute": 6,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:21 15:06:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1924.jpg",
         "latitude": 48.214081,
-        "longitude": 16.361719
+        "longitude": 16.361719,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 21,
+          "hour": 15,
+          "minute": 8,
+          "second": 58,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:21 15:08:58",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1927.jpg",
         "latitude": 48.231044,
-        "longitude": 16.329044
+        "longitude": 16.329044,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 21,
+          "hour": 18,
+          "minute": 2,
+          "second": 40,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:21 18:02:40",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1930.jpg",
         "latitude": 48.230983,
-        "longitude": 16.329208
+        "longitude": 16.329208,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 21,
+          "hour": 18,
+          "minute": 4,
+          "second": 21,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:21 18:04:21",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1937.jpg",
         "latitude": 48.241447,
-        "longitude": 16.384992
+        "longitude": 16.384992,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 21,
+          "hour": 18,
+          "minute": 30,
+          "second": 35,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:21 18:30:35",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1938.jpg",
         "latitude": 48.217828,
-        "longitude": 16.392806
+        "longitude": 16.392806,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 21,
+          "hour": 18,
+          "minute": 44,
+          "second": 26,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:21 18:44:26",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1947.jpg",
         "latitude": 48.2011,
-        "longitude": 16.374708
+        "longitude": 16.374708,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 23,
+          "hour": 7,
+          "minute": 20,
+          "second": 37,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:23 07:20:37",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2108.jpg",
         "latitude": 48.170056,
-        "longitude": 16.420075
+        "longitude": 16.420075,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 16,
+          "minute": 35,
+          "second": 57,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 16:35:57",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2130.jpg",
         "latitude": 48.169936,
-        "longitude": 16.420114
+        "longitude": 16.420114,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 41,
+          "second": 31,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:41:31",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2131.jpg",
         "latitude": 48.169933,
-        "longitude": 16.420058
+        "longitude": 16.420058,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 17,
+          "minute": 41,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 17:41:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2209.jpg",
         "latitude": 48.169681,
-        "longitude": 16.416525
+        "longitude": 16.416525,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 4,
+          "hour": 15,
+          "minute": 35,
+          "second": 58,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:04 15:35:58",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2211.jpg",
         "latitude": 48.170064,
-        "longitude": 16.419656
+        "longitude": 16.419656,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 4,
+          "hour": 15,
+          "minute": 36,
+          "second": 26,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:04 15:36:26",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2212.jpg",
         "latitude": 48.170064,
-        "longitude": 16.419367
+        "longitude": 16.419367,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 4,
+          "hour": 15,
+          "minute": 36,
+          "second": 51,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:04 15:36:51",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2213.jpg",
         "latitude": 48.185483,
-        "longitude": 16.377133
+        "longitude": 16.377133,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 4,
+          "hour": 16,
+          "minute": 9,
+          "second": 28,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:04 16:09:28",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2214.jpg",
         "latitude": 48.185244,
-        "longitude": 16.379136
+        "longitude": 16.379136,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 4,
+          "hour": 16,
+          "minute": 14,
+          "second": 4,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:04 16:14:04",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2275.jpg",
         "latitude": 48.242431,
-        "longitude": 16.385114
+        "longitude": 16.385114,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 14,
+          "minute": 0,
+          "second": 48,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 14:00:48",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2294.jpg",
         "latitude": 48.241853,
-        "longitude": 16.385094
+        "longitude": 16.385094,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 17,
+          "minute": 32,
+          "second": 15,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 17:32:15",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2299.jpg",
         "latitude": 48.185639,
-        "longitude": 16.377672
+        "longitude": 16.377672,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 11,
+          "hour": 15,
+          "minute": 49,
+          "second": 31,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:11 15:49:31",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2319.jpg",
         "latitude": 48.198619,
-        "longitude": 16.376922
+        "longitude": 16.376922,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 14,
+          "hour": 19,
+          "minute": 48,
+          "second": 27,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:14 19:48:27",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2324.jpg",
         "latitude": 48.169972,
-        "longitude": 16.419542
+        "longitude": 16.419542,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 16,
+          "hour": 11,
+          "minute": 53,
+          "second": 3,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:16 11:53:03",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2325.jpg",
         "latitude": 48.185878,
-        "longitude": 16.375197
+        "longitude": 16.375197,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 16,
+          "hour": 12,
+          "minute": 11,
+          "second": 28,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:16 12:11:28",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2326.jpg",
         "latitude": 48.185858,
-        "longitude": 16.375167
+        "longitude": 16.375167,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 16,
+          "hour": 12,
+          "minute": 11,
+          "second": 30,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:16 12:11:30",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2365.jpg",
         "latitude": 48.184964,
-        "longitude": 16.376628
+        "longitude": 16.376628,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 18,
+          "hour": 18,
+          "minute": 35,
+          "second": 49,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:18 18:35:49",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2366.jpg",
         "latitude": 48.183956,
-        "longitude": 16.376364
+        "longitude": 16.376364,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 18,
+          "hour": 18,
+          "minute": 40,
+          "second": 29,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:18 18:40:29",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2370.jpg",
         "latitude": 48.203061,
-        "longitude": 16.390975
+        "longitude": 16.390975,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 20,
+          "hour": 8,
+          "minute": 31,
+          "second": 2,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:20 08:31:02",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2374.jpg",
         "latitude": 48.209511,
-        "longitude": 16.360369
+        "longitude": 16.360369,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 20,
+          "hour": 17,
+          "minute": 0,
+          "second": 21,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:20 17:00:21",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2400.jpg",
         "latitude": 48.1702,
-        "longitude": 16.420436
+        "longitude": 16.420436,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 24,
+          "hour": 18,
+          "minute": 34,
+          "second": 29,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:24 18:34:29",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2408.jpg",
         "latitude": 48.170239,
-        "longitude": 16.420364
+        "longitude": 16.420364,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 25,
+          "hour": 11,
+          "minute": 40,
+          "second": 44,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:25 11:40:44",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2409.jpg",
         "latitude": 48.170242,
-        "longitude": 16.420217
+        "longitude": 16.420217,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 25,
+          "hour": 11,
+          "minute": 41,
+          "second": 34,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:25 11:41:34",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2429.jpg",
         "latitude": 48.206589,
-        "longitude": 16.360236
+        "longitude": 16.360236,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 28,
+          "hour": 21,
+          "minute": 45,
+          "second": 52,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:28 21:45:52",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2447.jpg",
         "latitude": 48.154747,
-        "longitude": 16.42505
+        "longitude": 16.42505,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 8,
+          "minute": 3,
+          "second": 26,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 08:03:26",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2455.jpg",
         "latitude": 48.166503,
-        "longitude": 16.424153
+        "longitude": 16.424153,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 8,
+          "minute": 43,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 08:43:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2456.jpg",
         "latitude": 48.170203,
-        "longitude": 16.42005
+        "longitude": 16.42005,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 14,
+          "minute": 17,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 14:17:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2465.jpg",
         "latitude": 48.185486,
-        "longitude": 16.417503
+        "longitude": 16.417503,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 15,
+          "minute": 48,
+          "second": 24,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 15:48:24",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       }
-    ]
+    ],
+    "timeframe": "20. April 2025 - 1. Juni 2025",
+    "imageCount": 35
   },
   {
     "name": "parks",
@@ -1098,44 +3770,520 @@ export const galleries = [
       {
         "filename": "IMG_1829.jpg",
         "latitude": 48.181611,
-        "longitude": 16.413031
+        "longitude": 16.413031,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 18,
+          "hour": 12,
+          "minute": 10,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:18 12:10:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_1926.jpg",
         "latitude": 48.235967,
-        "longitude": 16.336186
+        "longitude": 16.336186,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 21,
+          "hour": 17,
+          "minute": 44,
+          "second": 9,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:21 17:44:09",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2197.jpg",
         "latitude": 48.172086,
-        "longitude": 16.410622
+        "longitude": 16.410622,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 14,
+          "minute": 47,
+          "second": 16,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 14:47:16",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2198.jpg",
         "latitude": 48.172078,
-        "longitude": 16.410625
+        "longitude": 16.410625,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 14,
+          "minute": 47,
+          "second": 25,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 14:47:25",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2199.jpg",
         "latitude": 48.171803,
-        "longitude": 16.410644
+        "longitude": 16.410644,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 3,
+          "hour": 14,
+          "minute": 47,
+          "second": 48,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:03 14:47:48",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2279.jpg",
         "latitude": 48.246186,
-        "longitude": 16.3886
+        "longitude": 16.3886,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 16,
+          "minute": 32,
+          "second": 47,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 16:32:47",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2281.jpg",
         "latitude": 48.245297,
-        "longitude": 16.388775
+        "longitude": 16.388775,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 17,
+          "minute": 6,
+          "second": 41,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 17:06:41",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2282.jpg",
         "latitude": 48.244561,
-        "longitude": 16.390017
+        "longitude": 16.390017,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 10,
+          "hour": 17,
+          "minute": 8,
+          "second": 39,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:10 17:08:39",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       }
-    ]
+    ],
+    "timeframe": "18. April 2025 - 10. Mai 2025",
+    "imageCount": 8
+  },
+  {
+    "name": "porto",
+    "slug": "porto",
+    "title": "Porto",
+    "description": "Stadt am Atlantik, Portugal, Schön",
+    "images": [
+      {
+        "filename": "IMG_1642.jpg",
+        "latitude": 41.145467,
+        "longitude": -8.610458,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 32,
+          "second": 51,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:32:51",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1646.jpg",
+        "latitude": 41.145458,
+        "longitude": -8.610133,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 33,
+          "second": 28,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:33:28",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1652.jpg",
+        "latitude": 41.145533,
+        "longitude": -8.610381,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 36,
+          "second": 1,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:36:01",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1655.jpg",
+        "latitude": 41.145489,
+        "longitude": -8.6106,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 36,
+          "second": 48,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:36:48",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1660.jpg",
+        "latitude": 41.14355,
+        "longitude": -8.611039,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 43,
+          "second": 16,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:43:16",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1661.jpg",
+        "latitude": 41.143322,
+        "longitude": -8.611089,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 44,
+          "second": 1,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:44:01",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1665.jpg",
+        "latitude": 41.143153,
+        "longitude": -8.611278,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 45,
+          "second": 13,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:45:13",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1668.jpg",
+        "latitude": 41.143178,
+        "longitude": -8.611281,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 45,
+          "second": 47,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:45:47",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1669.jpg",
+        "latitude": 41.143117,
+        "longitude": -8.611461,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 46,
+          "second": 11,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:46:11",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1671.jpg",
+        "latitude": 41.143119,
+        "longitude": -8.611456,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 46,
+          "second": 24,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:46:24",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1673.jpg",
+        "latitude": 41.142406,
+        "longitude": -8.612067,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 48,
+          "second": 3,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:48:03",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1678.jpg",
+        "latitude": 41.14225,
+        "longitude": -8.611997,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 50,
+          "second": 56,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:50:56",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1680.jpg",
+        "latitude": 41.143172,
+        "longitude": -8.611656,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 53,
+          "second": 39,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 11:53:39",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1686.jpg",
+        "latitude": 41.145175,
+        "longitude": -8.610939,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 13,
+          "minute": 20,
+          "second": 27,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 13:20:27",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1689.jpg",
+        "latitude": 41.152139,
+        "longitude": -8.609864,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 13,
+          "minute": 28,
+          "second": 19,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 13:28:19",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1690.jpg",
+        "latitude": 41.151147,
+        "longitude": -8.608889,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 13,
+          "minute": 31,
+          "second": 13,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 13:31:13",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1693.jpg",
+        "latitude": 41.152272,
+        "longitude": -8.609019,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 13,
+          "minute": 45,
+          "second": 47,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 13:45:47",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1696.jpg",
+        "latitude": 41.237064,
+        "longitude": -8.670583,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 14,
+          "minute": 21,
+          "second": 25,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 14:21:25",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1699.jpg",
+        "latitude": 41.236808,
+        "longitude": -8.670061,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 14,
+          "minute": 31,
+          "second": 31,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 14:31:31",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_1701.jpg",
+        "latitude": 41.237369,
+        "longitude": -8.670303,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 2,
+          "hour": 15,
+          "minute": 10,
+          "second": 16,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2025:04:02 15:10:16",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        }
+      }
+    ],
+    "timeframe": "2. April 2025",
+    "imageCount": 20
   },
   {
     "name": "salzburg",
@@ -1146,89 +4294,312 @@ export const galleries = [
       {
         "filename": "IMG_2327.jpg",
         "latitude": 48.158839,
-        "longitude": 12.833075
+        "longitude": 12.833075,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 16,
+          "hour": 19,
+          "minute": 0,
+          "second": 56,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:16 19:00:56",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2332.jpg",
         "latitude": 47.816656,
-        "longitude": 13.025656
+        "longitude": 13.025656,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 19,
+          "minute": 19,
+          "second": 35,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 19:19:35",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2336.jpg",
         "latitude": 47.817222,
-        "longitude": 13.026694
+        "longitude": 13.026694,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 19,
+          "minute": 49,
+          "second": 45,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 19:49:45",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2337.jpg",
         "latitude": 47.817139,
-        "longitude": 13.026803
+        "longitude": 13.026803,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 19,
+          "minute": 50,
+          "second": 3,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 19:50:03",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2340.jpg",
         "latitude": 47.815144,
-        "longitude": 13.030261
+        "longitude": 13.030261,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 19,
+          "minute": 55,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 19:55:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2343.jpg",
         "latitude": 47.814,
-        "longitude": 13.031281
+        "longitude": 13.031281,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 19,
+          "minute": 57,
+          "second": 38,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 19:57:38",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2344.jpg",
         "latitude": 47.811672,
-        "longitude": 13.025536
+        "longitude": 13.025536,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 20,
+          "minute": 15,
+          "second": 51,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 20:15:51",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2345.jpg",
         "latitude": 47.811536,
-        "longitude": 13.025539
+        "longitude": 13.025539,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 20,
+          "minute": 16,
+          "second": 5,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 20:16:05",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2346.jpg",
         "latitude": 47.811531,
-        "longitude": 13.025461
+        "longitude": 13.025461,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 20,
+          "minute": 16,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 20:16:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2348.jpg",
         "latitude": 47.814172,
-        "longitude": 13.026403
+        "longitude": 13.026403,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 20,
+          "minute": 21,
+          "second": 47,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 20:21:47",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2349.jpg",
         "latitude": 47.814367,
-        "longitude": 13.026233
+        "longitude": 13.026233,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 20,
+          "minute": 22,
+          "second": 22,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 20:22:22",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2351.jpg",
         "latitude": 47.815106,
-        "longitude": 13.025831
+        "longitude": 13.025831,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 20,
+          "minute": 23,
+          "second": 41,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 20:23:41",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2352.jpg",
         "latitude": 47.8154,
-        "longitude": 13.025222
+        "longitude": 13.025222,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 20,
+          "minute": 24,
+          "second": 12,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 20:24:12",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2357.jpg",
         "latitude": 47.813147,
-        "longitude": 13.026411
+        "longitude": 13.026411,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 18,
+          "hour": 10,
+          "minute": 11,
+          "second": 26,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:18 10:11:26",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2359.jpg",
         "latitude": 47.813194,
-        "longitude": 13.044628
+        "longitude": 13.044628,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 18,
+          "hour": 11,
+          "minute": 32,
+          "second": 51,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:18 11:32:51",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2361.jpg",
         "latitude": 47.794317,
-        "longitude": 13.024908
+        "longitude": 13.024908,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 18,
+          "hour": 12,
+          "minute": 35,
+          "second": 54,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:18 12:35:54",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2362.jpg",
         "latitude": 47.796172,
-        "longitude": 13.025944
+        "longitude": 13.025944,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 18,
+          "hour": 13,
+          "minute": 49,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:18 13:49:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       }
-    ]
+    ],
+    "timeframe": "16. Mai 2025 - 18. Mai 2025",
+    "imageCount": 17
   },
   {
     "name": "wien-museum",
@@ -1239,34 +4610,114 @@ export const galleries = [
       {
         "filename": "IMG_2308.jpg",
         "latitude": 48.199192,
-        "longitude": 16.372353
+        "longitude": 16.372353,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 14,
+          "hour": 16,
+          "minute": 14,
+          "second": 8,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:14 16:14:08",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2311.jpg",
         "latitude": 48.199169,
-        "longitude": 16.372769
+        "longitude": 16.372769,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 14,
+          "hour": 17,
+          "minute": 5,
+          "second": 40,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:14 17:05:40",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2313.jpg",
         "latitude": 48.199092,
-        "longitude": 16.372906
+        "longitude": 16.372906,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 14,
+          "hour": 17,
+          "minute": 7,
+          "second": 25,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:14 17:07:25",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2314.jpg",
         "latitude": 48.199367,
-        "longitude": 16.372703
+        "longitude": 16.372703,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 14,
+          "hour": 17,
+          "minute": 27,
+          "second": 21,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:14 17:27:21",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2315.jpg",
         "latitude": 48.199161,
-        "longitude": 16.372772
+        "longitude": 16.372772,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 14,
+          "hour": 17,
+          "minute": 28,
+          "second": 3,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:14 17:28:03",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2316.jpg",
         "latitude": 48.199161,
-        "longitude": 16.372861
+        "longitude": 16.372861,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 14,
+          "hour": 17,
+          "minute": 28,
+          "second": 25,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:14 17:28:25",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       }
-    ]
+    ],
+    "timeframe": "14. Mai 2025",
+    "imageCount": 6
   },
   {
     "name": "zentralfriedhof",
@@ -1277,43 +4728,149 @@ export const galleries = [
       {
         "filename": "IMG_2383.jpg",
         "latitude": 48.153328,
-        "longitude": 16.437883
+        "longitude": 16.437883,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 21,
+          "hour": 18,
+          "minute": 8,
+          "second": 49,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:21 18:08:49",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2384.jpg",
         "latitude": 48.151644,
-        "longitude": 16.438939
+        "longitude": 16.438939,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 21,
+          "hour": 18,
+          "minute": 11,
+          "second": 55,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:21 18:11:55",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2435.jpg",
         "latitude": 48.148553,
-        "longitude": 16.436297
+        "longitude": 16.436297,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 29,
+          "hour": 10,
+          "minute": 31,
+          "second": 1,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:29 10:31:01",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2441.jpg",
         "latitude": 48.159,
-        "longitude": 16.431983
+        "longitude": 16.431983,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 30,
+          "hour": 18,
+          "minute": 18,
+          "second": 48,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:30 18:18:48",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2448.jpg",
         "latitude": 48.151947,
-        "longitude": 16.427978
+        "longitude": 16.427978,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 8,
+          "minute": 6,
+          "second": 36,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 08:06:36",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2449.jpg",
         "latitude": 48.150586,
-        "longitude": 16.436633
+        "longitude": 16.436633,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 8,
+          "minute": 16,
+          "second": 12,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 08:16:12",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2450.jpg",
         "latitude": 48.150075,
-        "longitude": 16.437378
+        "longitude": 16.437378,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 8,
+          "minute": 16,
+          "second": 52,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 08:16:52",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       },
       {
         "filename": "IMG_2451.jpg",
         "latitude": 48.152017,
-        "longitude": 16.438314
+        "longitude": 16.438314,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "hour": 8,
+          "minute": 19,
+          "second": 29,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:01 08:19:29",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
       }
-    ]
+    ],
+    "timeframe": "21. Mai 2025 - 1. Juni 2025",
+    "imageCount": 8
   }
 ];

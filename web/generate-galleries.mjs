@@ -8,9 +8,11 @@ import { ExifTool } from 'exiftool-vendored';
 const CWD = process.cwd();
 
 const contentDir = path.join(CWD, 'content');
+const galleriesPath = path.join(contentDir, 'galleries');
 const targetFile = path.resolve(CWD, 'src/galleries.ts');
 const publicDir = path.resolve(CWD, 'public');
 const publicContentDir = path.resolve(publicDir, 'content');
+const publicGalleriesDir = path.join(publicContentDir, 'galleries');
 
 const responsiveSizes = [640, 750, 828, 1080, 1200, 1920, 2048, 3840];
 
@@ -20,16 +22,19 @@ async function generateGalleries() {
     fs.mkdirSync(publicDir);
   }
   if (!fs.existsSync(publicContentDir)) {
-    fs.mkdirSync(publicContentDir);
+    fs.mkdirSync(publicContentDir, { recursive: true });
+  }
+  if (!fs.existsSync(publicGalleriesDir)) {
+    fs.mkdirSync(publicGalleriesDir, { recursive: true });
   }
 
-  const directories = fs.readdirSync(contentDir, { withFileTypes: true })
-    .filter(dirent => dirent.isDirectory() && dirent.name !== 'pages')
+  const directories = fs.readdirSync(galleriesPath, { withFileTypes: true })
+    .filter(dirent => dirent.isDirectory())
     .map(dirent => dirent.name);
 
   const galleryPromises = directories.map(async (name) => {
-    const galleryDir = path.join(contentDir, name);
-    const publicGalleryDir = path.join(publicContentDir, name);
+    const galleryDir = path.join(galleriesPath, name);
+    const publicGalleryDir = path.join(publicGalleriesDir, name);
 
     if (!fs.existsSync(publicGalleryDir)) {
       fs.mkdirSync(publicGalleryDir, { recursive: true });
@@ -40,7 +45,7 @@ async function generateGalleries() {
     for (const file of files) {
       const sourcePath = path.join(galleryDir, file);
       const ext = path.extname(file);
-      const base = path.basename(file, ext);
+      const base = path.basename(file, ext).replace(/ /g, '_');
       let processPath = sourcePath;
       let outputExt = ext;
 
@@ -93,21 +98,25 @@ async function generateGalleries() {
     const imageFilesData = await Promise.all(
       imageFilesRaw.map(async (file) => {
         const sourcePath = path.join(galleryDir, file);
-        const filename = file.replace(/\.heic$/i, '.jpg');
+        const filename = file.replace(/\.heic$/i, '.jpg').replace(/ /g, '_');
         let latitude = null;
         let longitude = null;
+        let createDate = null;
 
         try {
           const tags = await exiftool.read(sourcePath);
-          if (tags && tags.GPSLatitude && tags.GPSLongitude) {
-            latitude = tags.GPSLatitude;
-            longitude = tags.GPSLongitude;
+          if (tags) {
+            if (tags.GPSLatitude && tags.GPSLongitude) {
+              latitude = tags.GPSLatitude;
+              longitude = tags.GPSLongitude;
+            }
+            createDate = tags.DateTimeOriginal || tags.CreateDate;
           }
         } catch (err) {
           console.error('Error reading exif for', file, err);
         }
 
-        return { filename, latitude, longitude };
+        return { filename, latitude, longitude, createDate };
       })
     );
 
@@ -119,6 +128,29 @@ async function generateGalleries() {
       imageFilenames.add(imgData.filename);
       return true;
     });
+
+    const dates = uniqueImageFilesData
+      .map(img => (img.createDate ? img.createDate.toDate() : null))
+      .filter(Boolean);
+
+    let timeframe = '';
+    if (dates.length > 0) {
+      dates.sort((a, b) => a - b);
+      const minDate = dates[0];
+      const maxDate = dates[dates.length - 1];
+      const options = { year: 'numeric', month: 'long', day: 'numeric' };
+
+      const minDateStr = minDate.toLocaleDateString('de-DE', options);
+      const maxDateStr = maxDate.toLocaleDateString('de-DE', options);
+
+      if (minDate.toDateString() === maxDate.toDateString()) {
+        timeframe = minDateStr;
+      } else {
+        timeframe = `${minDateStr} - ${maxDateStr}`;
+      }
+    }
+
+    const imageCount = uniqueImageFilesData.length;
 
     let title = name;
     let description = '';
@@ -133,7 +165,7 @@ async function generateGalleries() {
       if (firstParagraph) description = firstParagraph.trim();
     }
 
-    return { name, slug: name, title, description, images: uniqueImageFilesData };
+    return { name, slug: name, title, description, images: uniqueImageFilesData, timeframe, imageCount };
   });
 
   const galleries = await Promise.all(galleryPromises);

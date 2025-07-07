@@ -72,10 +72,10 @@ const MapPage = () => {
               <Link to={`/gallery/${popupInfo.gallery.slug}`}>
                 <img
                   className="w-32"
-                  src={`/content/${popupInfo.gallery.slug}/${popupInfo.image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, '-640w.jpg')}`}
+                  src={`/content/galleries/${popupInfo.gallery.slug}/${popupInfo.image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, '-640w.jpg')}`}
                   alt={popupInfo.gallery.title}
                 />
-                <p className="font-geist p-2 text-center text-sm font-semibold">{popupInfo.gallery.title}</p>
+                <p className="font-geist pt-2 text-center text-sm font-semibold">{popupInfo.gallery.title}</p>
               </Link>
             </div>
           </Popup>

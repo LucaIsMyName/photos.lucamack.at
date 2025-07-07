@@ -2,6 +2,7 @@ export interface Image {
   filename: string;
   latitude?: number | null;
   longitude?: number | null;
+  createDate?: any;
 }
 
 export interface Gallery {
@@ -10,6 +11,8 @@ export interface Gallery {
   title: string; // from markdown H1
   description: string; // from markdown first paragraph
   images: Image[];
+  timeframe?: string;
+  imageCount?: number;
 }
 
 export interface Page {

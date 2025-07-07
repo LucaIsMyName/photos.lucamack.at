@@ -123,13 +123,12 @@ const Navigation = () => {
       )}
 
       {/* Desktop Sidebar */}
-      <aside className={`hidden md:flex mt-4 md:flex-col md:w-64 lg:w-80 flex-shrink-0`}>
+      <aside className={`hidden md:flex mt-4 md:flex-col md:w-[240px] lg:w-[clamp(240px,25vw,480px)] flex-shrink-0`}>
         <div className="">
           <NavLink
             to="/"
             className={({ isActive }) => navLinkClasses(isActive) + ' flex items-center gap-2'}
             end>
-            {/** 3 different icons in a row */}
             <ImageIcon size={24} />
           </NavLink>
         </div>

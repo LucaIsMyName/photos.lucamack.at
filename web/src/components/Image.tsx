@@ -3,6 +3,7 @@ import heic2any from "heic2any";
 import { useInView } from "react-intersection-observer";
 
 interface ImageProps {
+  id?: string;
   src: string;
   alt: string;
   className?: string;
@@ -13,7 +14,7 @@ interface ImageProps {
   loading?: "lazy" | "eager";
 }
 
-const Image = ({ src, loading, alt, className, style, onImageLoad, srcSet, sizes }: ImageProps) => {
+const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, srcSet, sizes }: ImageProps) => {
   const { ref, inView } = useInView({
     triggerOnce: true,
     threshold: 0.1,
@@ -94,6 +95,7 @@ const Image = ({ src, loading, alt, className, style, onImageLoad, srcSet, sizes
       ref={ref}
       className="w-full h-full">
       <img
+        id={id}
         src={imageUrl}
         srcSet={srcSet}
         sizes={sizes}

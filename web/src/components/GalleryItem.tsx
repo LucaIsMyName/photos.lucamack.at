@@ -15,8 +15,11 @@ const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
   const [padding, setPadding] = useState("p-4");
   const [mapUrl, setMapUrl] = useState("");
 
+  /**
+   * Sets a random padding for the image
+   */
   useEffect(() => {
-    const paddings = ["p-2", "p-3", "p-4", "p-5", "p-6", "p-7"];
+    const paddings = ["md:p-2", "md:p-3", "md:p-4", "md:p-5", "md:p-6", "md:p-7"];
     setPadding(paddings[Math.floor(Math.random() * paddings.length)]);
   }, []);
 
@@ -56,11 +59,12 @@ const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
 
   const srcSet = responsiveSizes.map((size) => `${baseSrc.replace(" ", "_").trim()}-${size}w${ext} ${size}w`).join(", ");
 
-  const sizes = orientation === "landscape"
-    // Landscape images are full-width of the content area (max 1024px on large screens).
-    ? `(min-width: 1024px) 1024px, 100vw`
-    // Portrait/square images are half-width on desktop (max 512px on large screens).
-    : `(min-width: 1024px) 512px, (min-width: 768px) 50vw, 100vw`;
+  const sizes =
+    orientation === "landscape"
+      ? // Landscape images are full-width of the content area (max 1024px on large screens).
+        `(min-width: 1024px) 1024px, 100vw`
+      : // Portrait/square images are half-width on desktop (max 512px on large screens).
+        `(min-width: 1024px) 512px, (min-width: 768px) 50vw, 100vw`;
 
   return (
     <div className={getFlexClasses()}>
@@ -72,6 +76,7 @@ const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
             rel="noopener noreferrer"
             className="block">
             <Image
+              id={src.split("/").pop()?.replace(".jpg", "")}
               src={src}
               alt={alt}
               onImageLoad={handleImageLoad}
