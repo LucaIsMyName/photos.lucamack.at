@@ -19,7 +19,7 @@ const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
    * Sets a random padding for the image
    */
   useEffect(() => {
-    const paddings = ["md:p-2", "md:p-3", "md:p-4", "md:p-5", "md:p-6", "md:p-7"];
+    const paddings = ["md:p-2", "md:p-4", "md:p-6", "md:p-8", "md:p-10", "md:p-12"];
     setPadding(paddings[Math.floor(Math.random() * paddings.length)]);
   }, []);
 

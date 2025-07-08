@@ -123,7 +123,7 @@ const Navigation = () => {
       )}
 
       {/* Desktop Sidebar */}
-      <aside className={`hidden md:flex mt-4 md:flex-col md:w-[240px] lg:w-[clamp(240px,25vw,480px)] flex-shrink-0`}>
+      <aside className={`hidden md:flex mt-4 md:flex-col md:w-[var(--sidebar-width)] flex-shrink-0`}>
         <div className="">
           <NavLink
             to="/"

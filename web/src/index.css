@@ -3,6 +3,8 @@
 
 :root {
   --default-font-family: "Geist", sans-serif;
+  --sidebar-width: clamp(240px,25vw,480px);
+  --content-width: 1040px;
 }
 
 .mapboxgl-map {

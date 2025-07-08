@@ -3642,7 +3642,7 @@ export const galleries = [
     "name": "ottenstein",
     "slug": "ottenstein",
     "title": "Ottenstein",
-    "description": "",
+    "description": "Die Zeit - zurückgedreht.",
     "images": [
       {
         "filename": "IMG_2620.jpg",
@@ -5381,8 +5381,8 @@ export const galleries = [
   {
     "name": "pride",
     "slug": "pride",
-    "title": "Pride Parade 2025",
-    "description": "",
+    "title": "Pride Parade",
+    "description": "Ain't no rain on my parade.",
     "images": [
       {
         "filename": "IMG_2701.jpg",
@@ -5554,26 +5554,8 @@ export const galleries = [
     "name": "salzburg",
     "slug": "salzburg",
     "title": "Salzburg",
-    "description": "Salzburg Ausflug",
+    "description": "Johann Bernhard Fischer von Erlach wird man hier nicht finden.",
     "images": [
-      {
-        "filename": "IMG_2327.jpg",
-        "latitude": 48.158839,
-        "longitude": 12.833075,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 5,
-          "day": 16,
-          "hour": 19,
-          "minute": 0,
-          "second": 56,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:05:16 19:00:56",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        }
-      },
       {
         "filename": "IMG_2332.jpg",
         "latitude": 47.816656,
@@ -5863,14 +5845,14 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "16. Mai 2025 - 18. Mai 2025",
-    "imageCount": 17
+    "timeframe": "17. Mai 2025 - 18. Mai 2025",
+    "imageCount": 16
   },
   {
     "name": "sonstiges-und-allfaelliges",
     "slug": "sonstiges-und-allfaelliges",
     "title": "Sonstiges & Allfälliges",
-    "description": "Jukebox, Türspion, ein regnerischer Tag & Henry Kissinger.",
+    "description": "Was noch gesagt werden muss - ohne Worte.",
     "images": [
       {
         "filename": "IMG_1.jpg",
@@ -5886,6 +5868,24 @@ export const galleries = [
           "second": 4,
           "tzoffsetMinutes": 120,
           "rawValue": "2025:05:05 09:37:04",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_2327.jpg",
+        "latitude": 48.158839,
+        "longitude": 12.833075,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 16,
+          "hour": 19,
+          "minute": 0,
+          "second": 56,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:16 19:00:56",
           "zoneName": "UTC+2",
           "inferredZone": true
         }
@@ -6005,13 +6005,13 @@ export const galleries = [
       }
     ],
     "timeframe": "5. Mai 2025 - 29. Juni 2025",
-    "imageCount": 8
+    "imageCount": 9
   },
   {
     "name": "waidhofen",
     "slug": "waidhofen",
     "title": "Waidhofen",
-    "description": "",
+    "description": "Blues, Katzen & Muddy Waters.",
     "images": [
       {
         "filename": "IMG_2933.jpg",
