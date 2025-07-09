@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import heic2any from "heic2any";
+// import heic2any from "heic2any";
 import { useInView } from "react-intersection-observer";
 
 interface ImageProps {
@@ -33,23 +33,7 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, srcS
 
     const loadImage = async () => {
       try {
-        if (src && src.toLowerCase().endsWith(".heic")) {
-          const response = await fetch(src);
-          if (!response.ok) {
-            throw new Error("Network response was not ok");
-          }
-          const blob = await response.blob();
-          const conversionResult = await heic2any({
-            blob,
-            toType: "image/jpeg",
-            quality: 0.9,
-          });
-          const convertedBlob = Array.isArray(conversionResult) ? conversionResult[0] : conversionResult;
-          objectUrl = URL.createObjectURL(convertedBlob);
-          setImageUrl(objectUrl);
-        } else {
-          setImageUrl(src);
-        }
+        setImageUrl(src);
       } catch (err) {
         console.error("Image loading or conversion failed:", err);
         setError("Failed to load image.");
