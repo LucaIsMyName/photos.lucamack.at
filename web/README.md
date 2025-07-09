@@ -167,3 +167,7 @@ export default tseslint.config([
   },
 ])
 ```
+
+# To Do
+
+- automatically calculate the best map position based on img metadata (eg. the 2 most geographiocally seperate long and lat values calculate the center)
