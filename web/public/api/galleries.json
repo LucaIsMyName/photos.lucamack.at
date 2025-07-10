@@ -1,6 +1,4 @@
-// This file is auto-generated. Do not edit.
-
-export const galleries = [
+[
   {
     "name": "arsenal",
     "slug": "arsenal",
@@ -6775,4 +6773,4 @@ export const galleries = [
     "timeframe": "21. Mai 2025 - 29. Juni 2025",
     "imageCount": 26
   }
-];
+]

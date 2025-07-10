@@ -13,8 +13,9 @@ const targetFile = path.resolve(CWD, 'src/galleries.ts');
 const publicDir = path.resolve(CWD, 'public');
 const publicContentDir = path.resolve(publicDir, 'content');
 const publicGalleriesDir = path.join(publicContentDir, 'galleries');
+const apiDir = path.resolve(publicDir, 'api');
 
-const responsiveSizes = [640, 750, 828, 1080, 1200, 1920, 2048, 3840];
+const responsiveSizes = [640, 1440];
 
 async function generateGalleries() {
   const exiftool = new ExifTool();
@@ -26,6 +27,9 @@ async function generateGalleries() {
   }
   if (!fs.existsSync(publicGalleriesDir)) {
     fs.mkdirSync(publicGalleriesDir, { recursive: true });
+  }
+  if (!fs.existsSync(apiDir)) {
+    fs.mkdirSync(apiDir, { recursive: true });
   }
 
   const directories = fs.readdirSync(galleriesPath, { withFileTypes: true })
@@ -75,6 +79,13 @@ async function generateGalleries() {
       }
 
       if (/\.(jpe?g|png|webp)$/i.test(processPath)) {
+        // First, copy the original-sized image
+        const originalTargetPath = path.join(publicGalleryDir, `${base}${outputExt}`);
+        if (!fs.existsSync(originalTargetPath)) {
+          fs.copyFileSync(processPath, originalTargetPath);
+          console.log(`Copying original: ${base}${outputExt}`);
+        }
+
         for (const size of responsiveSizes) {
           const targetFile = `${base}-${size}w${outputExt}`;
           const targetPath = path.join(publicGalleryDir, targetFile);
@@ -169,9 +180,37 @@ async function generateGalleries() {
   });
 
   const galleries = await Promise.all(galleryPromises);
-  const fileContent = `// This file is auto-generated. Do not edit.\n\nexport const galleries = ${JSON.stringify(galleries, null, 2)};\n`;
-  fs.writeFileSync(targetFile, fileContent, 'utf-8');
+
+  // --- Generate galleries.ts for the main website ---
+  const tsFileContent = `// This file is auto-generated. Do not edit.\n\nexport const galleries = ${JSON.stringify(galleries, null, 2)};\n`;
+  fs.writeFileSync(targetFile, tsFileContent, 'utf-8');
   console.log(`Successfully generated galleries.ts with ${galleries.length} galleries.`);
+
+  // --- Generate JSON files for the external API ---
+  const galleriesForJSON = JSON.parse(JSON.stringify(galleries));
+  const allImagesForJSON = [];
+
+  galleriesForJSON.forEach(gallery => {
+    if (gallery.images) {
+      gallery.images.forEach(image => {
+        // The date is already an ISO string from the initial exif read, but we ensure it's here
+        if (image.createDate) {
+           // No change needed if it's already a string, but this structure is for clarity
+        }
+        const imageWithGallery = { ...image, gallery: gallery.slug };
+        allImagesForJSON.push(imageWithGallery);
+      });
+    }
+  });
+
+  const galleriesJSONPath = path.join(apiDir, 'galleries.json');
+  const imagesJSONPath = path.join(apiDir, 'images.json');
+
+  fs.writeFileSync(galleriesJSONPath, JSON.stringify(galleriesForJSON, null, 2), 'utf-8');
+  console.log(`Successfully generated galleries.json with ${galleriesForJSON.length} galleries.`);
+
+  fs.writeFileSync(imagesJSONPath, JSON.stringify(allImagesForJSON, null, 2), 'utf-8');
+  console.log(`Successfully generated images.json with ${allImagesForJSON.length} images.`);
   await exiftool.end();
 }
 

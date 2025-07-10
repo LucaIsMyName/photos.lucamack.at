@@ -1,5 +1,5 @@
-import { useState, useMemo } from "react";
-import Map, { Marker, Popup } from "react-map-gl/mapbox";
+import { useState, useMemo, useEffect, useRef } from "react";
+import Map, { Marker, Popup, type MapRef } from "react-map-gl/mapbox";
 
 import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../galleries";
@@ -15,6 +15,7 @@ interface GeotaggedImage {
 }
 
 const MapPage = () => {
+  const mapRef = useRef<MapRef>(null);
   const { theme } = useTheme();
   const [popupInfo, setPopupInfo] = useState<GeotaggedImage | null>(null);
 
@@ -30,6 +31,33 @@ const MapPage = () => {
     return images;
   }, []);
 
+  useEffect(() => {
+    if (geotaggedImages.length === 0 || !mapRef.current) {
+      return;
+    }
+
+    if (geotaggedImages.length === 1) {
+      mapRef.current.flyTo({ center: [geotaggedImages[0].image.longitude!, geotaggedImages[0].image.latitude!], zoom: 10 });
+      return;
+    }
+
+    const longitudes = geotaggedImages.map((p) => p.image.longitude!);
+    const latitudes = geotaggedImages.map((p) => p.image.latitude!);
+
+    const minLng = Math.min(...longitudes);
+    const maxLng = Math.max(...longitudes);
+    const minLat = Math.min(...latitudes);
+    const maxLat = Math.max(...latitudes);
+
+    mapRef.current.fitBounds(
+      [
+        [minLng, minLat],
+        [maxLng, maxLat],
+      ],
+      { padding: 80, duration: 1000 }
+    );
+  }, [geotaggedImages]);
+
   return (
     <div className="h-full w-full">
       <title>Luca Mack | Photo Map</title>
@@ -38,11 +66,11 @@ const MapPage = () => {
         content="A map of all geotagged photos."
       />
       <Map
+        ref={mapRef}
         initialViewState={{
-          // center between porto and vienna
-          longitude: (4.370499431046007 + 16.370499431046007) / 2,
-          latitude: (48.20880059768514 + 48.20880059768514) / 2,
-          zoom: 3.5,
+          longitude: 0,
+          latitude: 20,
+          zoom: 1,
         }}
         style={{ width: "100%", height: "100%" }}
         mapStyle={theme === "light" ? "mapbox://styles/luma1992/cmcrp4svj045g01r17lvz89bx" : "mapbox://styles/luma1992/cmcrpf414029501qx4b4fa2jx"}

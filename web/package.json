@@ -1,7 +1,7 @@
 {
   "name": "web",
   "private": true,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "scripts": {
     "predev": "node generate-galleries.mjs && node generate-pages.mjs",
@@ -13,6 +13,7 @@
     "generate-galleries": "rm /Users/lucamack/Desktop/projects/photos.lucamack.at/web/public/content && node generate-galleries.mjs"
   },
   "dependencies": {
+    "@math.gl/web-mercator": "^4.1.0",
     "@tailwindcss/vite": "^4.1.11",
     "@types/mapbox-gl": "^3.4.1",
     "@types/marked": "^5.0.2",

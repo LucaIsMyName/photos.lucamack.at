@@ -9,12 +9,12 @@ import { motion } from 'framer-motion';
 import { pageVariants, pageTransition } from '../animations';
 
 
-const responsiveSizes = [640, 750, 828, 1080, 1200, 1920, 2048, 3840];
+const responsiveSizes = [640, 1440];
 
 const Home = () => {
   const [randomImage, setRandomImage] = useState<{ gallery: Gallery; image: ImageType } | null>(null);
 
-  useEffect(() => {
+    useEffect(() => {
     const galleriesWithImages = galleries.filter(g => g.images && g.images.length > 0);
     if (galleriesWithImages.length > 0) {
       const randomGallery = galleriesWithImages[Math.floor(Math.random() * galleriesWithImages.length)];

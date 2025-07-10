@@ -3,6 +3,7 @@ export interface Image {
   latitude?: number | null;
   longitude?: number | null;
   createDate?: any;
+  gallery?: string; // The slug of the gallery this image belongs to
 }
 
 export interface Gallery {
