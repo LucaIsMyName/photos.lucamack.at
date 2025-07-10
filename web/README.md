@@ -94,7 +94,7 @@ All content is managed locally through a simple file and folder structure. After
     node generate-pages.mjs
     ```
 
-    The new page will be added to `src/pages.ts`. You will need to manually add a `NavLink` in `src/components/Navigation.tsx` to make it appear in the navigation.
+    The new page will be added to `src/pages.ts`.
 
 ---
 
@@ -114,61 +114,7 @@ All content is managed locally through a simple file and folder structure. After
 ## Future Work
 
 -   **Automate Content Generation**: Use a file watcher (like `chokidar`) to automatically re-run the generation scripts whenever content files are added or changed.
--   **Headless CMS Integration**: For more complex projects, consider integrating a headless CMS (like Strapi, Sanity, or Contentful) to manage content through a web interface.
--   **Enhanced Image Handling**: Implement more advanced image optimization techniques, such as serving images in modern formats like WebP or AVIF, and using more sophisticated lazy-loading and placeholder strategies.
--   **Testing**: Expand the test suite with more comprehensive unit and integration tests for key components using a framework like Vitest or React Testing Library.
--   **CI/CD**: Set up a continuous integration and deployment pipeline (e.g., with GitHub Actions) to automate testing and deployments.      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-# To Do
-
-- automatically calculate the best map position based on img metadata (eg. the 2 most geographiocally seperate long and lat values calculate the center of the two points)
-- Navigation: Find a way for a long gallery nav-list and the pages underneath
+- **Navigation**: Find a way for a long gallery nav-list and the pages underneath
+- **System Messages**: Insert `CONFIG.systemMessages` from `config.ts` file instead of hardcoding standard texts
+- Change HeicConverter and Sharp to Dev Dependencies instead of normal one -> shouldn't and must not be compiled to the dist folder - i guess.
+- Like the `MapPage.tsx` -> make a `ListPage.tsx` where all images are listed and can be clicked to open the gallery, can be sorted by date, title, gallery, ...

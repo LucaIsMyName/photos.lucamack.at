@@ -6,6 +6,7 @@ import GalleryItem from "./GalleryItem";
 import { motion } from "framer-motion";
 import { pageVariants, pageTransition } from "../animations";
 import { useState, useEffect } from "react";
+import { CONFIG } from "../config";
 
 const Gallery = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -27,7 +28,7 @@ const Gallery = () => {
    * If the gallery is not found, show a message
    */
   if (!gallery) {
-    return <div className="py-10 text-left font-bold">Gallery not found.</div>;
+    return <div className="py-10 text-left font-bold">{CONFIG.systemMessages.noGalleryFound}</div>;
   }
 
   return (
@@ -40,7 +41,7 @@ const Gallery = () => {
       <title>{`Luca Mack | ${gallery.title || gallery.name}`}</title>
       <meta
         name="description"
-        content={gallery.description || `Fotoserie: ${gallery.title || gallery.name} gallery.`}
+        content={gallery.description || `Fotoserie: ${gallery.title || gallery.name}.`}
       />
       <div className="px-4 md:px-0">
         <div className="flex flex-col items-start">
@@ -67,7 +68,7 @@ const Gallery = () => {
             ))}
           </div>
         ) : (
-          <p className="text-left">This gallery has no images yet.</p>
+          <p className="text-left">{CONFIG.systemMessages.noImagesFound}</p>
         )}
 
         <div className="max-w-[calc(1024px)] flex w-full mb-4 pb-4 flex flex-col md:flex-row justify-between items-center text-sm">
