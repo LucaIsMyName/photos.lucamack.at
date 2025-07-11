@@ -5,17 +5,19 @@ import heicConvert from 'heic-convert';
 import sharp from 'sharp';
 import { ExifTool } from 'exiftool-vendored';
 
-const CWD = process.cwd();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-const contentDir = path.join(CWD, 'content');
+const contentDir = path.join(__dirname, 'content');
 const galleriesPath = path.join(contentDir, 'galleries');
-const targetFile = path.resolve(CWD, 'src/galleries.ts');
-const publicDir = path.resolve(CWD, 'public');
-const publicContentDir = path.resolve(publicDir, 'content');
+const targetFile = path.join(__dirname, 'src/galleries.ts');
+const publicDir = path.join(__dirname, 'public');
+const publicContentDir = path.join(publicDir, 'content');
 const publicGalleriesDir = path.join(publicContentDir, 'galleries');
-const apiDir = path.resolve(publicDir, 'api');
+const apiDir = path.join(publicDir, 'api');
 
 const responsiveSizes = [640, 1440];
+const baseUrl = 'https://photos.lucamack.at';
 
 async function generateGalleries() {
   const exiftool = new ExifTool();
@@ -192,13 +194,28 @@ async function generateGalleries() {
 
   galleriesForJSON.forEach(gallery => {
     if (gallery.images) {
-      gallery.images.forEach(image => {
-        // The date is already an ISO string from the initial exif read, but we ensure it's here
-        if (image.createDate) {
-           // No change needed if it's already a string, but this structure is for clarity
-        }
-        const imageWithGallery = { ...image, gallery: gallery.slug };
-        allImagesForJSON.push(imageWithGallery);
+      gallery.images = gallery.images.map(image => {
+        const { filename, ...restOfImage } = image;
+        const ext = path.extname(filename);
+        const base = path.basename(filename, ext);
+        const imageUrls = {
+          original: `${baseUrl}/content/galleries/${gallery.slug}/${filename}`,
+        };
+
+        responsiveSizes.forEach(size => {
+          imageUrls[`w${size}`] = `${baseUrl}/content/galleries/${gallery.slug}/${base}-${size}w${ext}`;
+        });
+
+        const imageWithUrls = {
+          ...restOfImage,
+          name: filename,
+          urls: imageUrls,
+        };
+
+        const imageForApi = { ...imageWithUrls, gallery: gallery.slug };
+        allImagesForJSON.push(imageForApi);
+
+        return imageWithUrls;
       });
     }
   });

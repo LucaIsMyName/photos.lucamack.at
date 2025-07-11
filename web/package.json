@@ -4,13 +4,17 @@
   "version": "1.0.3",
   "type": "module",
   "scripts": {
-    "predev": "node generate-galleries.mjs && node generate-pages.mjs",
     "dev": "vite",
-    "prebuild": "node generate-galleries.mjs && node generate-pages.mjs",
-    "build": "tsc -b && vite build",
+    "clean": "rimraf dist",
+    "build": "npm run generate && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "generate-galleries": "rm /Users/lucamack/Desktop/projects/photos.lucamack.at/web/public/content && node generate-galleries.mjs"
+    "predev": "npm run generate",
+    "prebuild": "npm run generate",
+    "generate": "npm run generate:galleries && npm run generate:pages && npm run generate:sitemap",
+    "generate:galleries": "node generate-galleries.mjs",
+    "generate:pages": "node generate-pages.mjs",
+    "generate:sitemap": "node generate-sitemap.mjs"
   },
   "dependencies": {
     "@math.gl/web-mercator": "^4.1.0",
@@ -42,6 +46,7 @@
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.2.0",
     "postcss": "^8.5.6",
+    "rimraf": "^6.0.1",
     "tailwindcss": "^4.1.11",
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.34.1",

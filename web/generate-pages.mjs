@@ -1,10 +1,12 @@
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
-const CWD = process.cwd();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-const pagesDir = path.join(CWD, 'content/pages');
-const targetFile = path.resolve(CWD, 'src/pages.ts');
+const pagesDir = path.join(__dirname, 'content/pages');
+const targetFile = path.join(__dirname, 'src/pages.ts');
 
 async function generatePages() {
   if (!fs.existsSync(pagesDir)) {

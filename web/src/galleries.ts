@@ -216,6 +216,42 @@ export const galleries = [
     "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner, Licht & Schatten.",
     "images": [
       {
+        "filename": "_IMG_0340.jpg",
+        "latitude": 48.19725,
+        "longitude": 16.337719,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 6,
+          "day": 7,
+          "hour": 17,
+          "minute": 33,
+          "second": 56,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:06:07 17:33:56",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_0302.jpg",
+        "latitude": 48.172869,
+        "longitude": 16.409564,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 19,
+          "hour": 17,
+          "minute": 24,
+          "second": 7,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:19 17:24:07",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
         "filename": "IMG_1799.jpg",
         "latitude": 48.167317,
         "longitude": 16.407628,
@@ -1949,8 +1985,90 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "13. April 2025 - 9. Juli 2025",
-    "imageCount": 97
+    "timeframe": "7. Juni 2024 - 9. Juli 2025",
+    "imageCount": 99
+  },
+  {
+    "name": "kleinlobming",
+    "slug": "kleinlobming",
+    "title": "Kleinlobming",
+    "description": "Kleine Ortschaft, große Bäume",
+    "images": [
+      {
+        "filename": "IMG_0471.jpg",
+        "latitude": 47.134614,
+        "longitude": 14.869656,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 8,
+          "day": 23,
+          "hour": 22,
+          "minute": 36,
+          "second": 37,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:08:23 22:36:37",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_0484.jpg",
+        "latitude": 47.133819,
+        "longitude": 14.874467,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 8,
+          "day": 24,
+          "hour": 11,
+          "minute": 13,
+          "second": 6,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:08:24 11:13:06",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_0487.jpg",
+        "latitude": 47.133167,
+        "longitude": 14.874389,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 8,
+          "day": 24,
+          "hour": 11,
+          "minute": 34,
+          "second": 44,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:08:24 11:34:44",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_0514.jpg",
+        "latitude": 47.134494,
+        "longitude": 14.869739,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 8,
+          "day": 26,
+          "hour": 7,
+          "minute": 15,
+          "second": 28,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:08:26 07:15:28",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      }
+    ],
+    "timeframe": "23. August 2024 - 26. August 2024",
+    "imageCount": 4
   },
   {
     "name": "mayday",
@@ -5909,6 +6027,60 @@ export const galleries = [
     "description": "Was noch gesagt werden muss - ohne Worte.",
     "images": [
       {
+        "filename": "IMG_0265.jpg",
+        "latitude": 48.860578,
+        "longitude": 15.211486,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 12,
+          "hour": 21,
+          "minute": 40,
+          "second": 39,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:12 21:40:39",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_0268.jpg",
+        "latitude": 48.861561,
+        "longitude": 15.213328,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 12,
+          "hour": 22,
+          "minute": 5,
+          "second": 47,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:12 22:05:47",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
+        "filename": "IMG_0285.jpg",
+        "latitude": 48.859294,
+        "longitude": 15.217844,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 14,
+          "hour": 8,
+          "minute": 59,
+          "second": 38,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:14 08:59:38",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        }
+      },
+      {
         "filename": "IMG_1.jpg",
         "latitude": 48.208242,
         "longitude": 16.359903,
@@ -6058,8 +6230,8 @@ export const galleries = [
         "longitude": null
       }
     ],
-    "timeframe": "5. Mai 2025 - 29. Juni 2025",
-    "imageCount": 9
+    "timeframe": "12. Juli 2024 - 29. Juni 2025",
+    "imageCount": 12
   },
   {
     "name": "waidhofen",
