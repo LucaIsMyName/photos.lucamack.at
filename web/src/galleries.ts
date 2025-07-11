@@ -1992,7 +1992,7 @@ export const galleries = [
     "name": "kleinlobming",
     "slug": "kleinlobming",
     "title": "Kleinlobming",
-    "description": "Kleine Ortschaft, große Bäume",
+    "description": "Keine Menschen, viele Bäume",
     "images": [
       {
         "filename": "IMG_0471.jpg",

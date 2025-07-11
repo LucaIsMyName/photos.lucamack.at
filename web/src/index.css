@@ -19,7 +19,7 @@ body {
 }
 
 [data-wysiwyg] h1 {
-  @apply text-5xl;
+  @apply text-2xl md:text-5xl;
   font-weight: bold;
   line-height: 1.2;
   margin-bottom: 1rem;

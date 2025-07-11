@@ -17,7 +17,7 @@ const publicGalleriesDir = path.join(publicContentDir, 'galleries');
 const apiDir = path.join(publicDir, 'api');
 
 const responsiveSizes = [640, 1440];
-const baseUrl = 'https://photos.lucamack.at';
+const baseUrl = "https://photos.lucamack.at";
 
 async function generateGalleries() {
   const exiftool = new ExifTool();

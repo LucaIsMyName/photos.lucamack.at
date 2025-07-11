@@ -10,7 +10,7 @@ const publicDir = path.join(__dirname, 'public');
 const apiDir = path.join(distDir, 'api');
 const pagesContentDir = path.join(__dirname, 'content/pages');
 
-const BASE_URL = 'https://photos.lucamack.at';
+const BASE_URL = "https://photos.lucamack.at";
 
 function getGalleries() {
   const galleriesPath = path.join(apiDir, 'galleries.json');
