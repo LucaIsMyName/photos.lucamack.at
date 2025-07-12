@@ -113,8 +113,6 @@ All content is managed locally through a simple file and folder structure. After
 
 ## Future Work
 
--   **Automate Content Generation**: Use a file watcher (like `chokidar`) to automatically re-run the generation scripts whenever content files are added or changed.
-- **Navigation**: Find a way for a long gallery nav-list and the pages underneath
+
 - **System Messages**: Insert `CONFIG.systemMessages` from `config.ts` file instead of hardcoding standard texts
-- Change HeicConverter and Sharp to Dev Dependencies instead of normal one -> shouldn't and must not be compiled to the dist folder - i guess.
-- Like the `MapPage.tsx` -> make a `ListPage.tsx` where all images are listed and can be clicked to open the gallery, can be sorted by date, title, gallery, ...
+- **List.tsx**: Make 2 Column Layout more defensive / trancate text early, set image width and height the *hard* way

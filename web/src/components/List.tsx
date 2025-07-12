@@ -34,7 +34,7 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
         className="bg-transparent focus:outline-none"
       />
 
-      <div className="flex gap-2 items-center border-l pl-8 pr-0">
+      <div className="flex gap-2 items-center border-l px-8 pr-0">
         <span>Filter&nbsp;von</span>
         <input
           type="date"
