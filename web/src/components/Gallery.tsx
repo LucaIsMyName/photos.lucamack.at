@@ -64,6 +64,8 @@ const Gallery = () => {
                 alt={`${gallery.title || gallery.name} - ${image.filename}`}
                 latitude={image.latitude}
                 longitude={image.longitude}
+                gallerySlug={gallery.slug!}
+                imageFilename={image.filename}
               />
             ))}
           </div>

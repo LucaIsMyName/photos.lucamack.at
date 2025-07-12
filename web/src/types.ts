@@ -1,4 +1,6 @@
 export interface Image {
+  width?: number;
+  height?: number;
   filename: string;
   latitude?: number | null;
   longitude?: number | null;

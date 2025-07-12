@@ -40,6 +40,7 @@ function generateSitemap() {
   const urls = [
     { loc: BASE_URL, changefreq: 'daily', priority: '1.0' },
     { loc: `${BASE_URL}/map`, changefreq: 'monthly', priority: '0.5' },
+    { loc: `${BASE_URL}/list`, changefreq: 'monthly', priority: '0.5' },
   ];
 
   gallerySlugs.forEach(slug => {

@@ -4,7 +4,7 @@ import Map, { Marker, Popup, type MapRef } from "react-map-gl/mapbox";
 import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../galleries";
 import type { Gallery, Image as ImageType } from "../types";
-import { Link } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import { useTheme } from "../contexts/ThemeContext";
 
 const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN;
@@ -18,6 +18,7 @@ const MapPage = () => {
   const mapRef = useRef<MapRef>(null);
   const { theme } = useTheme();
   const [popupInfo, setPopupInfo] = useState<GeotaggedImage | null>(null);
+  const [searchParams] = useSearchParams();
 
   const geotaggedImages = useMemo(() => {
     const images: GeotaggedImage[] = [];
@@ -31,10 +32,25 @@ const MapPage = () => {
     return images;
   }, []);
 
-  useEffect(() => {
-    if (geotaggedImages.length === 0 || !mapRef.current) {
-      return;
+  const handleMapLoad = () => {
+    if (!mapRef.current) return;
+
+    const gallerySlug = searchParams.get("gallery");
+    const imageFilename = searchParams.get("image");
+
+    if (gallerySlug && imageFilename) {
+      const targetImage = geotaggedImages.find(
+        (item) => item.gallery.slug === gallerySlug && item.image.filename === imageFilename
+      );
+
+      if (targetImage) {
+        setPopupInfo(targetImage);
+        mapRef.current.flyTo({ center: [targetImage.image.longitude!, targetImage.image.latitude!], zoom: 14 });
+        return;
+      }
     }
+
+    if (geotaggedImages.length === 0) return;
 
     if (geotaggedImages.length === 1) {
       mapRef.current.flyTo({ center: [geotaggedImages[0].image.longitude!, geotaggedImages[0].image.latitude!], zoom: 10 });
@@ -56,6 +72,11 @@ const MapPage = () => {
       ],
       { padding: 80, duration: 1000 }
     );
+  };
+
+  useEffect(() => {
+    // This effect is now just for re-fitting bounds if the images change dynamically, which is unlikely in this app.
+    // The main logic is in handleMapLoad.
   }, [geotaggedImages]);
 
   return (
@@ -70,11 +91,12 @@ const MapPage = () => {
         initialViewState={{
           longitude: 16,
           latitude: 48,
-          zoom: 5,
+          zoom: 3,
         }}
         style={{ width: "100%", height: "100%" }}
         mapStyle={theme === "light" ? "mapbox://styles/luma1992/cmcrp4svj045g01r17lvz89bx" : "mapbox://styles/luma1992/cmcrpf414029501qx4b4fa2jx"}
-        mapboxAccessToken={MAPBOX_TOKEN}>
+        mapboxAccessToken={MAPBOX_TOKEN}
+        onLoad={handleMapLoad}>
         {geotaggedImages.map((item, index) => (
           <Marker
             key={`marker-${index}`}

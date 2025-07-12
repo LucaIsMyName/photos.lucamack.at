@@ -6,6 +6,8 @@ interface ImageProps {
   id?: string;
   src: string;
   alt: string;
+  width: number;
+  height: number;
   className?: string;
   style?: React.CSSProperties;
   onImageLoad?: (dimensions: { width: number; height: number }) => void;
@@ -14,7 +16,7 @@ interface ImageProps {
   loading?: "lazy" | "eager";
 }
 
-const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, srcSet, sizes }: ImageProps) => {
+const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, srcSet, sizes, width, height }: ImageProps) => {
   const { ref, inView } = useInView({
     triggerOnce: true,
     threshold: 0.1,
@@ -70,7 +72,8 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, srcS
     return (
       <div
         ref={ref}
-        className="w-full h-full bg-gray-200 dark:bg-neutral-800 animate-pulse"></div>
+        style={{ aspectRatio: `${width} / ${height}` }}
+        className="w-full h-auto bg-gray-200 dark:bg-neutral-800 animate-pulse"></div>
     );
   }
 
@@ -84,6 +87,8 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, srcS
         srcSet={srcSet}
         sizes={sizes}
         alt={alt}
+        width={width}
+        height={height}
         loading={loading !== undefined ? loading : "lazy"}
         className={`${className} transition-opacity duration-700 ease-in-out ${isLoaded ? "opacity-100" : "opacity-0"}`}
         style={style}

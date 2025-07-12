@@ -1,11 +1,83 @@
-import { useMemo } from "react";
+import { useMemo, useState, useEffect } from "react";
 import useLocalStorageState from "../hooks/useLocalStorageState";
+import { useTheme } from "../contexts/ThemeContext";
 import HorizontalScroller from "./HorizontalScroller";
 import { Link } from "react-router-dom";
 import { galleries } from "../galleries";
 import type { Image as ImageType, Gallery } from "../types";
 import { CONFIG } from "../config";
-import { useTheme } from "../contexts/ThemeContext";
+
+interface SortFilterBarProps {
+  searchTerm: string;
+  setSearchTerm: (value: string) => void;
+  sortKey: string;
+  setSortKey: (value: any) => void;
+  sortOptions: { value: string; label: string }[];
+  sortOrder: "asc" | "desc";
+  setSortOrder: (value: "asc" | "desc") => void;
+  startDate: string;
+  setStartDate: (value: string) => void;
+  endDate: string;
+  setEndDate: (value: string) => void;
+  onClearFilters: () => void;
+}
+
+const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOptions, sortOrder, setSortOrder, startDate, setStartDate, endDate, setEndDate, onClearFilters }: SortFilterBarProps) => {
+  const { theme } = useTheme();
+  return (
+    <>
+      <input
+        type="text"
+        placeholder="Suchen..."
+        value={searchTerm}
+        onChange={(e) => setSearchTerm(e.target.value)}
+        className="bg-transparent focus:outline-none"
+      />
+
+      <div className="flex gap-2 items-center border-l pl-8 pr-0">
+        <span>Filter&nbsp;von</span>
+        <input
+          type="date"
+          value={startDate}
+          onChange={(e) => setStartDate(e.target.value)}
+          className=" bg-transparent underline underline-offset-4 uppercase focus:outline-none"
+        />
+        <span>bis</span>
+        <input
+          type="date"
+          value={endDate}
+          onChange={(e) => setEndDate(e.target.value)}
+          className="bg-transparent underline underline-offset-4 uppercase focus:outline-none"
+        />
+      </div>
+      <div className="flex gap-2 items-center border-x px-8">
+        <span className="">Sortieren&nbsp;nach</span>
+        <select
+          onChange={(e) => setSortKey(e.target.value)}
+          value={sortKey}
+          className="bg-transparent focus:outline-none underline underline-offset-4">
+          {sortOptions.map((option) => (
+            <option
+              key={option.value}
+              value={option.value}>
+              {option.label}
+            </option>
+          ))}
+        </select>
+        <button
+          onClick={() => setSortOrder(sortOrder === "asc" ? "desc" : "asc")}
+          className="whitespace-nowrap underline underline-offset-4">
+          {sortOrder === "asc" ? "Aufsteigend" : "Absteigend"}
+        </button>
+      </div>
+      <button
+        onClick={onClearFilters}
+        className={`${theme === "dark" ? "text-red-300" : "text-red-600"} underline underline-offset-4 whitespace-nowrap hover:underline ml-6`}>
+        Filter löschen
+      </button>
+    </>
+  );
+};
 
 const parseCreateDate = (date: any): Date | null => {
   if (!date || !date.year || !date.month || !date.day) {
@@ -23,6 +95,23 @@ const ListPage = () => {
   const [sortOrder, setSortOrder] = useLocalStorageState<"asc" | "desc">("list_sortOrder", "desc");
   const [startDate, setStartDate] = useLocalStorageState("list_startDate", "");
   const [endDate, setEndDate] = useLocalStorageState("list_endDate", "");
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setLoading(false);
+    }, 300);
+    return () => clearTimeout(timer);
+  }, []);
+
+  const handleClearFilters = () => {
+    setSearchTerm("");
+    setSortKey("createDate");
+    setSortOrder("desc");
+    setStartDate("");
+    setEndDate("");
+    setGallerySortKey("title");
+  };
 
   const allImages = useMemo(() => {
     const images: (ImageType & { galleryTitle: string; gallerySlug: string; index: number })[] = [];
@@ -112,6 +201,36 @@ const ListPage = () => {
     });
   }, [searchTerm, gallerySortKey, sortOrder, startDate, endDate]);
 
+  const galleryRandomImages = useMemo(() => {
+    const imageMap: { [key: string]: ImageType | null } = {};
+    galleries.forEach((gallery) => {
+      if (gallery.images && gallery.images.length > 0) {
+        imageMap[gallery.slug] = gallery.images[Math.floor(Math.random() * gallery.images.length)];
+      } else {
+        imageMap[gallery.slug] = null;
+      }
+    });
+    return imageMap;
+  }, []);
+
+  const imageSortOptions = [
+    { value: "createDate", label: "Datum" },
+    { value: "galleryTitle", label: "Name" },
+  ];
+
+  const gallerySortOptions = [
+    { value: "title", label: "Name" },
+    { value: "createDate", label: "Datum" },
+  ];
+
+  if (loading) {
+    return (
+      <div className="p-4 flex justify-center items-center h-full">
+        <div>Lädt...</div>
+      </div>
+    );
+  }
+
   return (
     <div className="p-4">
       <title>Luca Mack | Liste</title>
@@ -119,84 +238,68 @@ const ListPage = () => {
         name="description"
         content="Eine Liste aller Fotos und Galerien."
       />
-      <div className="flex gap-4 border-b mb-4">
+      <div className="flex gap-4 border-b">
         <button
-          className={` py-2 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
+          className={`cursor-pointer text-2xl md:text-5xl py-2 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
           onClick={() => setActiveTab("images")}>
           Fotos
         </button>
         <button
-          className={` py-2 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
+          className={`cursor-pointer text-2xl md:text-5xl py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
           onClick={() => setActiveTab("galleries")}>
           Galerien
         </button>
       </div>
 
       {activeTab === "images" && (
-        <div>
-          <HorizontalScroller>
-            <input
-              type="text"
-              placeholder="Suchen..."
-              value={searchTerm}
-              onChange={(e) => setSearchTerm(e.target.value)}
-              className="bg-transparent p-2 focus:outline-none"
-            />
-            <select
-              onChange={(e) => setSortKey(e.target.value as any)}
-              value={sortKey}
-              className="bg-transparent p-2 focus:outline-none">
-              <option value="createDate">Datum</option>
-              <option value="galleryTitle">Name</option>
-            </select>
-            <button
-              onClick={() => setSortOrder(sortOrder === "asc" ? "desc" : "asc")}
-              className="p-2 whitespace-nowrap">
-              {sortOrder === "asc" ? "Aufsteigend" : "Absteigend"}
-            </button>
-            <input
-              type="date"
-              value={startDate}
-              onChange={(e) => setStartDate(e.target.value)}
-              className="bg-transparent p-2 focus:outline-none"
-            />
-            <input
-              type="date"
-              value={endDate}
-              onChange={(e) => setEndDate(e.target.value)}
-              className="bg-transparent p-2 focus:outline-none"
+        <div className="">
+          <HorizontalScroller className="items-center border-b py-5 ">
+            <SortFilterBar
+              searchTerm={searchTerm}
+              setSearchTerm={setSearchTerm}
+              sortKey={sortKey}
+              setSortKey={setSortKey}
+              sortOptions={imageSortOptions}
+              sortOrder={sortOrder}
+              setSortOrder={setSortOrder}
+              startDate={startDate}
+              setStartDate={setStartDate}
+              endDate={endDate}
+              setEndDate={setEndDate}
+              onClearFilters={handleClearFilters}
             />
           </HorizontalScroller>
           <div className="flex flex-col lg:flex-row lg:flex-wrap">
-            {filteredAndSortedImages.map((image, index) => (
+            {filteredAndSortedImages.map((image) => (
               <div
-                className="lg:w-1/2"
-                key={image.filename}>
-                <Link
-                  to={`/gallery/${image.gallerySlug}#${image.filename.replaceAll(".jpg", "")}`}
-                  className="flex flex-row items-center gap-4 py-2">
-                  <img
-                    src={`/content/galleries/${image.gallerySlug}/${image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, "-640w.jpg")}`}
-                    alt={image.filename}
-                    className="w-24 h-24 lg:w-48 lg:h-48 object-cover aspect-square"
-                  />
+                className="w-full lg:w-1/2"
+                key={`${image.gallerySlug}-${image.filename}`}>
+                <div className="flex lg:flex-row items-center gap-4 py-2">
+                  <Link to={`/gallery/${image.gallerySlug}#${image.filename.replaceAll(".jpg", "")}`}>
+                    <img
+                      loading="lazy"
+                      src={`/content/galleries/${image.gallerySlug}/${image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, "-640w.jpg")}`}
+                      alt={image.filename}
+                      width={128}
+                      height={128}
+                      className="w-24 h-24 lg:w-32 lg:h-32 object-cover aspect-square"
+                    />
+                  </Link>
                   <div className="text-sm">
-                    <p>
-                      <b>Galerie:</b> {image.galleryTitle}
-                    </p>
-                    <p>
-                      <b>Index:</b> {image.index}
-                    </p>
-                    <p>
-                      <b>Koordinaten:</b>
-                      {image.latitude && image.longitude ? `${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}` : "N/V"}
-                    </p>
-                    <p>
-                      <b>Erstellt:</b> {parseCreateDate(image.createDate)?.toLocaleString() || "Ungültiges Datum"}
-                    </p>
+                    <h3 className="truncate text-lg font-bold">{`${image.galleryTitle} - ${image.index}`}</h3>
+                    <p className="truncate">Erstellt: {parseCreateDate(image.createDate)?.toLocaleString() || "Ungültiges Datum"}</p>
+                    {image.latitude && image.longitude ? (
+                      <>
+                        <span>Koordinaten: </span>
+                        <Link to={`/map?gallery=${image.gallerySlug}&image=${image.filename}`}>
+                          <span className="hover:underline truncate">{`${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}`}</span>
+                        </Link>
+                      </>
+                    ) : (
+                      <p className="truncate">Koordinaten: N/V</p>
+                    )}
                   </div>
-                </Link>
-                {index < filteredAndSortedImages.length - 1 && ""}
+                </div>
               </div>
             ))}
           </div>
@@ -205,42 +308,25 @@ const ListPage = () => {
 
       {activeTab === "galleries" && (
         <div>
-          <HorizontalScroller>
-            <input
-              type="text"
-              placeholder="Suchen..."
-              value={searchTerm}
-              onChange={(e) => setSearchTerm(e.target.value)}
-              className="bg-transparent p-2 focus:outline-none"
-            />
-            <select
-              onChange={(e) => setGallerySortKey(e.target.value as any)}
-              value={gallerySortKey}
-              className="bg-transparent p-2 focus:outline-none">
-              <option value="title">Name</option>
-              <option value="createDate">Datum</option>
-            </select>
-            <button
-              onClick={() => setSortOrder(sortOrder === "asc" ? "desc" : "asc")}
-              className="p-2 whitespace-nowrap">
-              {sortOrder === "asc" ? "Aufsteigend" : "Absteigend"}
-            </button>
-            <input
-              type="date"
-              value={startDate}
-              onChange={(e) => setStartDate(e.target.value)}
-              className="bg-transparent p-2 focus:outline-none"
-            />
-            <input
-              type="date"
-              value={endDate}
-              onChange={(e) => setEndDate(e.target.value)}
-              className="bg-transparent p-2 focus:outline-none"
+          <HorizontalScroller className="items-center border-b py-5 ">
+            <SortFilterBar
+              searchTerm={searchTerm}
+              setSearchTerm={setSearchTerm}
+              sortKey={gallerySortKey}
+              setSortKey={setGallerySortKey}
+              sortOptions={gallerySortOptions}
+              sortOrder={sortOrder}
+              setSortOrder={setSortOrder}
+              startDate={startDate}
+              setStartDate={setStartDate}
+              endDate={endDate}
+              setEndDate={setEndDate}
+              onClearFilters={handleClearFilters}
             />
           </HorizontalScroller>
           <div className="flex flex-col lg:flex-row lg:flex-wrap">
             {filteredAndSortedGalleries.map((gallery, index) => {
-              const randomImage = gallery.images && gallery.images.length > 0 ? gallery.images[Math.floor(Math.random() * gallery.images.length)] : null;
+              const randomImage = galleryRandomImages[gallery.slug];
 
               return (
                 <div
@@ -248,22 +334,25 @@ const ListPage = () => {
                   key={index}>
                   <Link
                     to={`/gallery/${gallery.slug}`}
-                    className="flex lg:flex-row items-center gap-4 p-2">
+                    className="flex lg:flex-row items-center gap-4 py-2">
                     {randomImage ? (
                       <img
+                        loading="lazy"
                         src={`/content/galleries/${gallery.slug}/${randomImage.filename.replace(/\.(jpg|jpeg|png|heic)$/i, "-640w.jpg")}`}
                         alt={gallery.title}
-                        className="lg:w-48 lg:h-48 w-24 h-24 object-cover "
+                        width={128}
+                        height={128}
+                        className="lg:w-32 lg:h-32 w-24 h-24 object-cover "
                       />
                     ) : (
-                      <div className="lg:w-48 lg:h-48 w-24 h-24 bg-gray-200 dark:bg-gray-700 flex items-center justify-center">
+                      <div className="lg:w-32 lg:h-32 w-24 h-24 bg-gray-200 dark:bg-gray-700 flex items-center justify-center">
                         <span className="text-xs text-gray-500">Kein Bild</span>
                       </div>
                     )}
                     <div className="text-sm">
-                      <h3 className="text-lg font-bold">{gallery.title}</h3>
-                      <p>{gallery.images?.length || 0} Bilder</p>
-                      <p>Erstellt: {parseCreateDate(gallery.createDate)?.toLocaleDateString() || "N/V"}</p>
+                      <h3 className="truncate text-lg font-bold">{gallery.title}</h3>
+                      <p className="truncate">{gallery.images?.length || 0} Bilder</p>
+                      <p className="truncate">Erstellt: {parseCreateDate(gallery.createDate)?.toLocaleDateString() || "N/V"}</p>
                     </div>
                   </Link>
                   {index < filteredAndSortedGalleries.length - 1 && ""}

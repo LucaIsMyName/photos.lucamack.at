@@ -137,6 +137,21 @@ const Navigation = () => {
               ))}
             </nav>
             <div className="mt-4">
+              <section className="flex gap-0 mb-4">
+                <NavLink
+                  to="/map"
+                  className={({ isActive }) => navLinkClasses(isActive, false)}
+                  onClick={handleLinkClick}>
+                  Karte
+                </NavLink>
+
+                <NavLink
+                  to="/list"
+                  className={({ isActive }) => navLinkClasses(isActive, false)}
+                  onClick={handleLinkClick}>
+                  Liste
+                </NavLink>
+              </section>
               {pages.map((page: Page) => (
                 <NavLink
                   key={page.slug}
@@ -146,18 +161,6 @@ const Navigation = () => {
                   {page.title}
                 </NavLink>
               ))}
-              <NavLink
-                to="/map"
-                className={({ isActive }) => navLinkClasses(isActive, true)}
-                onClick={handleLinkClick}>
-                Karte
-              </NavLink>
-              <NavLink
-                to="/list"
-                className={({ isActive }) => navLinkClasses(isActive, true)}
-                onClick={handleLinkClick}>
-                List
-              </NavLink>
             </div>
             {themeToggle}
           </div>
@@ -208,16 +211,21 @@ const Navigation = () => {
         </div>
 
         <div className="flex-shrink-0">
-          <NavLink
-            to="/map"
-            className={({ isActive }) => navLinkClasses(isActive, true)}>
-            Karte
-          </NavLink>
-          <NavLink
-            to="/list"
-            className={({ isActive }) => navLinkClasses(isActive, true)}>
-            List
-          </NavLink>
+          <section className="flex gap-0 mb-2">
+            <NavLink
+              to="/map"
+              className={({ isActive }) => navLinkClasses(isActive, false)}
+              onClick={handleLinkClick}>
+              Karte
+            </NavLink>
+
+            <NavLink
+              to="/list"
+              className={({ isActive }) => navLinkClasses(isActive, false)}
+              onClick={handleLinkClick}>
+              Liste
+            </NavLink>
+          </section>
           {pages.map((page: Page) => (
             <NavLink
               key={page.slug}

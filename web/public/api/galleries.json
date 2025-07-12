@@ -315,6 +315,29 @@
         }
       },
       {
+        "latitude": 48.208242,
+        "longitude": 16.359903,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 5,
+          "hour": 9,
+          "minute": 37,
+          "second": 4,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:05 09:37:04",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "name": "IMG_1.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_1.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_1-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_1-1440w.jpg"
+        }
+      },
+      {
         "latitude": 48.167317,
         "longitude": 16.407628,
         "createDate": {
@@ -2441,6 +2464,52 @@
         }
       },
       {
+        "latitude": 48.206036,
+        "longitude": 16.360564,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 49,
+          "second": 0,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:49:00",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "name": "IMG_2531.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2531.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2531-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2531-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.206025,
+        "longitude": 16.360444,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 15,
+          "minute": 27,
+          "second": 29,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 15:27:29",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "name": "IMG_2549.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2549.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2549-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2549-1440w.jpg"
+        }
+      },
+      {
         "latitude": 48.207714,
         "longitude": 16.309044,
         "createDate": {
@@ -2484,6 +2553,52 @@
           "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2576.jpg",
           "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2576-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2576-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.200256,
+        "longitude": 16.311017,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 22,
+          "minute": 18,
+          "second": 52,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 22:18:52",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "name": "IMG_2578.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2578.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2578-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2578-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.1684,
+        "longitude": 16.423244,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 29,
+          "hour": 12,
+          "minute": 35,
+          "second": 58,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:29 12:35:58",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "name": "IMG_2999.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2999.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2999-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_2999-1440w.jpg"
         }
       },
       {
@@ -2534,7 +2649,7 @@
       }
     ],
     "timeframe": "7. Juni 2024 - 9. Juli 2025",
-    "imageCount": 99
+    "imageCount": 104
   },
   {
     "name": "kleinlobming",
@@ -4022,6 +4137,52 @@
     "description": "Tschu Tschu, Brum Brum, *Quietsch*, Tschu Tschu",
     "images": [
       {
+        "latitude": 48.193394,
+        "longitude": 16.326389,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 4,
+          "day": 11,
+          "hour": 20,
+          "minute": 1,
+          "second": 38,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:04:11 20:01:38",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "name": "IMG_0060.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/oeffis/IMG_0060.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/oeffis/IMG_0060-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/oeffis/IMG_0060-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.225656,
+        "longitude": 16.349564,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 4,
+          "day": 19,
+          "hour": 17,
+          "minute": 49,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:04:19 17:49:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "name": "IMG_0110.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/oeffis/IMG_0110.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/oeffis/IMG_0110-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/oeffis/IMG_0110-1440w.jpg"
+        }
+      },
+      {
         "latitude": 48.180231,
         "longitude": 16.386892,
         "createDate": {
@@ -4827,8 +4988,8 @@
         }
       }
     ],
-    "timeframe": "20. April 2025 - 1. Juni 2025",
-    "imageCount": 35
+    "timeframe": "11. April 2024 - 1. Juni 2025",
+    "imageCount": 37
   },
   {
     "name": "ottenstein",
@@ -4961,6 +5122,29 @@
     "title": "Parks",
     "description": "Die Parks, Bäume & Grashalme Wiens.",
     "images": [
+      {
+        "latitude": 48.187439,
+        "longitude": 16.317444,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 4,
+          "day": 13,
+          "hour": 17,
+          "minute": 26,
+          "second": 34,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:04:13 17:26:34",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "name": "IMG_0074.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/parks/IMG_0074.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/parks/IMG_0074-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/parks/IMG_0074-1440w.jpg"
+        }
+      },
       {
         "latitude": 48.181611,
         "longitude": 16.413031,
@@ -5169,8 +5353,8 @@
         }
       }
     ],
-    "timeframe": "18. April 2025 - 9. Juli 2025",
-    "imageCount": 9
+    "timeframe": "13. April 2024 - 9. Juli 2025",
+    "imageCount": 10
   },
   {
     "name": "porto",
@@ -7664,11 +7848,57 @@
     "imageCount": 16
   },
   {
-    "name": "sonstiges-und-allfaelliges",
-    "slug": "sonstiges-und-allfaelliges",
-    "title": "Sonstiges & Allfälliges",
-    "description": "Was noch gesagt werden muss - ohne Worte.",
+    "name": "sonstwo-und-allfaelliges",
+    "slug": "sonstwo-und-allfaelliges",
+    "title": "Sonstwo & Allfälliges",
+    "description": "Hier & da. Dieses & jenes. Oben & unten.",
     "images": [
+      {
+        "latitude": 48.185794,
+        "longitude": 16.319944,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 4,
+          "day": 11,
+          "hour": 19,
+          "minute": 25,
+          "second": 26,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:04:11 19:25:26",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "name": "IMG_0055.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0055.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0055-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0055-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 49.013631,
+        "longitude": 13.901269,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 2,
+          "day": 18,
+          "hour": 9,
+          "minute": 9,
+          "second": 11,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2024:02:18 09:09:11",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        },
+        "name": "IMG_0220.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0220.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0220-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0220-1440w.jpg"
+        }
+      },
       {
         "latitude": 48.860578,
         "longitude": 15.211486,
@@ -7687,9 +7917,9 @@
         },
         "name": "IMG_0265.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_0265.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_0265-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_0265-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0265.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0265-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0265-1440w.jpg"
         }
       },
       {
@@ -7710,9 +7940,9 @@
         },
         "name": "IMG_0268.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_0268.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_0268-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_0268-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0268.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0268-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0268-1440w.jpg"
         }
       },
       {
@@ -7733,32 +7963,9 @@
         },
         "name": "IMG_0285.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_0285.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_0285-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_0285-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.208242,
-        "longitude": 16.359903,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 5,
-          "day": 5,
-          "hour": 9,
-          "minute": 37,
-          "second": 4,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:05:05 09:37:04",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "name": "IMG_1.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_1.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_1-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_1-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0285.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0285-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_0285-1440w.jpg"
         }
       },
       {
@@ -7779,9 +7986,9 @@
         },
         "name": "IMG_2327.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2327.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2327-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2327-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_2327.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_2327-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_2327-1440w.jpg"
         }
       },
       {
@@ -7802,101 +8009,9 @@
         },
         "name": "IMG_2328.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2328.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2328-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2328-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.206036,
-        "longitude": 16.360564,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 7,
-          "hour": 14,
-          "minute": 49,
-          "second": 0,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:07 14:49:00",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "name": "IMG_2531.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2531.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2531-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2531-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.206025,
-        "longitude": 16.360444,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 7,
-          "hour": 15,
-          "minute": 27,
-          "second": 29,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:07 15:27:29",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "name": "IMG_2549.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2549.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2549-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2549-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.200256,
-        "longitude": 16.311017,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 7,
-          "hour": 22,
-          "minute": 18,
-          "second": 52,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:07 22:18:52",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "name": "IMG_2578.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2578.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2578-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2578-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.1684,
-        "longitude": 16.423244,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 29,
-          "hour": 12,
-          "minute": 35,
-          "second": 58,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:29 12:35:58",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "name": "IMG_2999.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2999.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2999-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_2999-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_2328.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_2328-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_2328-1440w.jpg"
         }
       },
       {
@@ -7917,9 +8032,9 @@
         },
         "name": "IMG_3.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_3.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_3-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_3-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_3.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_3-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_3-1440w.jpg"
         }
       },
       {
@@ -7927,14 +8042,14 @@
         "longitude": null,
         "name": "IMG_4.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_4.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_4-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstiges-und-allfaelliges/IMG_4-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_4.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_4-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/IMG_4-1440w.jpg"
         }
       }
     ],
-    "timeframe": "12. Juli 2024 - 29. Juni 2025",
-    "imageCount": 12
+    "timeframe": "18. Februar 2024 - 16. Mai 2025",
+    "imageCount": 9
   },
   {
     "name": "waidhofen",
@@ -8012,6 +8127,29 @@
         }
       },
       {
+        "latitude": 48.810967,
+        "longitude": 15.289403,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 27,
+          "hour": 21,
+          "minute": 37,
+          "second": 13,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:27 21:37:13",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "name": "IMG_2945.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/waidhofen/IMG_2945.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/waidhofen/IMG_2945-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/waidhofen/IMG_2945-1440w.jpg"
+        }
+      },
+      {
         "latitude": 48.812633,
         "longitude": 15.28045,
         "createDate": {
@@ -8082,7 +8220,7 @@
       }
     ],
     "timeframe": "27. Juni 2025 - 28. Juni 2025",
-    "imageCount": 6
+    "imageCount": 7
   },
   {
     "name": "wien-museum",

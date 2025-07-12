@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import Image from "./Image";
 
 const responsiveSizes = [640, 1440];
@@ -8,12 +9,13 @@ interface GalleryItemProps {
   alt: string;
   latitude?: number | null;
   longitude?: number | null;
+  gallerySlug: string;
+  imageFilename: string;
 }
 
-const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
+const GalleryItem = ({ src, alt, latitude, longitude, gallerySlug, imageFilename }: GalleryItemProps) => {
   const [orientation, setOrientation] = useState<"landscape" | "portrait" | "square" | null>(null);
   const [padding, setPadding] = useState("p-4");
-  const [mapUrl, setMapUrl] = useState("");
 
   /**
    * Sets a random padding for the image
@@ -22,13 +24,6 @@ const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
     const paddings = ["md:p-2", "md:p-4", "md:p-6", "md:p-8", "md:p-10", "md:p-12"];
     setPadding(paddings[Math.floor(Math.random() * paddings.length)]);
   }, []);
-
-  useEffect(() => {
-    if (typeof window !== "undefined" && latitude && longitude) {
-      const isAppleDevice = /Mac|iPod|iPhone|iPad/.test(navigator.platform);
-      setMapUrl(isAppleDevice ? `http://maps.apple.com/?q=${latitude},${longitude}` : `https://www.google.com/maps/search/?api=1&query=${latitude},${longitude}`);
-    }
-  }, [latitude, longitude]);
 
   const handleImageLoad = (dimensions: { width: number; height: number }) => {
     if (dimensions.width > dimensions.height) {
@@ -70,26 +65,28 @@ const GalleryItem = ({ src, alt, latitude, longitude }: GalleryItemProps) => {
     <div className={getFlexClasses()}>
       <div className={padding}>
         {latitude && longitude ? (
-          <a
-            href={mapUrl}
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            to={`/map?gallery=${gallerySlug}&image=${imageFilename}`}
             className="block">
             <Image
               id={src.split("/").pop()?.replace(".jpg", "")}
               src={src}
               alt={alt}
+              width={640} // Provide a base width
+              height={orientation === 'landscape' ? 427 : (orientation === 'portrait' ? 960 : 640)} // Adjust height based on orientation
               onImageLoad={handleImageLoad}
               srcSet={srcSet}
               sizes={sizes}
               loading="lazy"
               className="w-full h-auto object-cover"
             />
-          </a>
+          </Link>
         ) : (
           <Image
             src={src}
             alt={alt}
+            width={640}
+            height={orientation === 'landscape' ? 427 : (orientation === 'portrait' ? 960 : 640)} // Adjust height based on orientation
             onImageLoad={handleImageLoad}
             srcSet={srcSet}
             sizes={sizes}

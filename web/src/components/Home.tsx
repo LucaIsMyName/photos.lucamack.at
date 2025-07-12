@@ -62,6 +62,8 @@ const Home = () => {
             <Image
               src={imageDetails.src}
               alt={imageDetails.alt}
+              width={1920} // Standard 16:9 width
+              height={1080} // Standard 16:9 height
               srcSet={imageDetails.srcSet}
               sizes="100vw"
               loading='eager'
