@@ -152,6 +152,12 @@ const Navigation = () => {
                 onClick={handleLinkClick}>
                 Karte
               </NavLink>
+              <NavLink
+                to="/list"
+                className={({ isActive }) => navLinkClasses(isActive, true)}
+                onClick={handleLinkClick}>
+                List
+              </NavLink>
             </div>
             {themeToggle}
           </div>
@@ -206,6 +212,11 @@ const Navigation = () => {
             to="/map"
             className={({ isActive }) => navLinkClasses(isActive, true)}>
             Karte
+          </NavLink>
+          <NavLink
+            to="/list"
+            className={({ isActive }) => navLinkClasses(isActive, true)}>
+            List
           </NavLink>
           {pages.map((page: Page) => (
             <NavLink
