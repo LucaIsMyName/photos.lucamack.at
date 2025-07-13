@@ -53,7 +53,9 @@ const GalleryItem = ({ src, alt, latitude, longitude, gallerySlug, imageFilename
         `(min-width: 1024px) 512px, (min-width: 768px) 50vw, 100vw`;
 
   return (
-    <div id={`image-${imageFilename.split(".")[0]}`} className={getFlexClasses()}>
+    <div
+      id={`image-${imageFilename.split(".")[0]}`}
+      className={getFlexClasses()}>
       <div className="p-0 sm:pr-4 sm:pb-4 md:pb-12">
         {latitude && longitude ? (
           <Link
@@ -63,7 +65,7 @@ const GalleryItem = ({ src, alt, latitude, longitude, gallerySlug, imageFilename
               src={src}
               alt={alt}
               width={640} // Provide a base width
-              height={orientation === 'landscape' ? 427 : (orientation === 'portrait' ? 960 : 640)} // Adjust height based on orientation
+              height={orientation === "landscape" ? 427 : orientation === "portrait" ? 960 : 640} // Adjust height based on orientation
               onImageLoad={handleImageLoad}
               srcSet={srcSet}
               sizes={sizes}
@@ -76,7 +78,7 @@ const GalleryItem = ({ src, alt, latitude, longitude, gallerySlug, imageFilename
             src={src}
             alt={alt}
             width={640}
-            height={orientation === 'landscape' ? 427 : (orientation === 'portrait' ? 960 : 640)} // Adjust height based on orientation
+            height={orientation === "landscape" ? 427 : orientation === "portrait" ? 960 : 640} // Adjust height based on orientation
             onImageLoad={handleImageLoad}
             srcSet={srcSet}
             sizes={sizes}

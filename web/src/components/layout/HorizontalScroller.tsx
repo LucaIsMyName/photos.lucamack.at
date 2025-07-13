@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect, type ReactNode } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import { useTheme } from "../contexts/ThemeContext";
+import { useTheme } from "../../contexts/ThemeContext";
 
 interface HorizontalScrollerProps {
   children: ReactNode;
@@ -59,19 +59,19 @@ const HorizontalScroller = ({ children, className = "" }: HorizontalScrollerProp
       </div>
 
       {/* Left Gradient & Scroll Indicator */}
-      <div className={`absolute top-0 left-0 bottom-0 w-8 bg-gradient-to-r ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showLeftGradient ? "opacity-100" : "opacity-0"}`}>
+      <div className={`absolute top-0 left-0 bottom-0 w-12 bg-gradient-to-r ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showLeftGradient ? "opacity-100" : "opacity-0"}`}>
         <div
           onClick={() => handleScroll("left")}
-          className={`absolute top-1/2 -translate-y-1/2 left-0 cursor-pointer text-gray-400 hover:text-gray-600 dark:hover:text-gray-200 pointer-events-auto`}>
+          className={`absolute top-1/2 -translate-y-1/2 left-0 cursor-pointer ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto`}>
           <ChevronLeft size={20} />
         </div>
       </div>
 
       {/* Right Gradient & Scroll Indicator */}
-      <div className={`absolute top-0 right-0 bottom-0 w-8 bg-gradient-to-l ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showRightGradient ? "opacity-100" : "opacity-0"}`}>
+      <div className={`absolute top-0 right-0 bottom-0 w-12 bg-gradient-to-l ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showRightGradient ? "opacity-100" : "opacity-0"}`}>
         <div
           onClick={() => handleScroll("right")}
-          className={`absolute top-1/2 -translate-y-1/2 right-0 cursor-pointer text-gray-400 hover:text-gray-600 dark:hover:text-gray-200 pointer-events-auto`}>
+          className={`absolute top-1/2 -translate-y-1/2 right-0 cursor-pointer ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto`}>
           <ChevronRight size={20} />
         </div>
       </div>

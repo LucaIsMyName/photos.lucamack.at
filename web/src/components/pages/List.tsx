@@ -1,13 +1,13 @@
-import { useMemo, useState, useEffect } from "react";
-import useUrlState from "../hooks/useUrlState";
-import { useTheme } from "../contexts/ThemeContext";
-import HorizontalScroller from "./HorizontalScroller";
+import { useMemo } from "react";
+import useUrlState from "../../hooks/useUrlState";
+import { useTheme } from "../../contexts/ThemeContext";
+import HorizontalScroller from "../layout/HorizontalScroller";
 import { Link } from "react-router-dom";
 import { Download } from "lucide-react";
-import { galleries } from "../galleries";
-import { parseCreateDate } from "../utils/date";
-import type { Image as ImageType, Gallery } from "../types";
-import { CONFIG } from "../config";
+import { galleries } from "../../galleries";
+import { parseCreateDate } from "../../utils/date";
+import type { Image as ImageType, Gallery } from "../../types";
+import { CONFIG } from "../../config";
 
 interface SortFilterBarProps {
   searchTerm: string;
@@ -33,10 +33,10 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
         placeholder="Suchen..."
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
-        className="bg-transparent focus:outline-none"
+        className=" flex-grow !min-w-[320px] w-[320px] truncate bg-transparent focus:outline-none"
       />
 
-      <div className="flex gap-2 items-center border-l px-8 pr-0">
+      <div className=" flex-grow !min-w-[440px] w-[440px] truncate flex gap-2 items-center border-l px-8 pr-0">
         <span>Filter&nbsp;von</span>
         <input
           type="date"
@@ -52,7 +52,7 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
           className="bg-transparent underline underline-offset-4 uppercase focus:outline-none"
         />
       </div>
-      <div className="flex gap-2 items-center border-x px-8">
+      <div className="flex gap-2 !min-w-[440px] w-[440px] flex-grow  truncate items-center border-x px-8">
         <span className="">Sortieren&nbsp;nach</span>
         <select
           onChange={(e) => setSortKey(e.target.value)}
@@ -68,20 +68,18 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
         </select>
         <button
           onClick={() => setSortOrder(sortOrder === "asc" ? "desc" : "asc")}
-          className="whitespace-nowrap underline underline-offset-4">
+          className="cursor-pointer whitespace-nowrap underline underline-offset-4">
           {sortOrder === "asc" ? "Aufsteigend" : "Absteigend"}
         </button>
       </div>
       <button
         onClick={onClearFilters}
-        className={`${theme === "dark" ? "text-red-300" : "text-red-600"} underline underline-offset-4 whitespace-nowrap hover:underline ml-6`}>
+        className={`${theme === "dark" ? "text-red-300" : "text-red-600"} cursor-pointer underline underline-offset-4 whitespace-nowrap hover:underline ml-6`}>
         Filter löschen
       </button>
     </>
   );
 };
-
-
 
 const ListPage = () => {
   const [activeTab, setActiveTab] = useUrlState<"images" | "galleries">("tab", "images");
@@ -91,14 +89,6 @@ const ListPage = () => {
   const [sortOrder, setSortOrder] = useUrlState<"asc" | "desc">("sortOrder", "desc");
   const [startDate, setStartDate] = useUrlState("startDate", "");
   const [endDate, setEndDate] = useUrlState("endDate", "");
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      setLoading(false);
-    }, 300);
-    return () => clearTimeout(timer);
-  }, []);
 
   const handleClearFilters = () => {
     setSearchTerm("");
@@ -240,29 +230,25 @@ const ListPage = () => {
     { value: "createDate", label: "Datum" },
   ];
 
-  if (loading) {
-    return (
-      <div className="p-4 flex justify-center items-center h-full">
-        <div>Lädt...</div>
-      </div>
-    );
-  }
-
   return (
     <div className="p-4">
-      <title>Luca Mack | Liste</title>
+      <title>Luca Mack | Liste aller Fotos und Galerien</title>
+      <meta
+        name="title"
+        content={`Luca Mack | Liste aller Fotos und Galerien`}
+      />
       <meta
         name="description"
-        content="Eine Liste aller Fotos und Galerien."
+        content="Eine Liste aller Fotos und Galerien. Sortierbar und Filterbar."
       />
       <div className="flex gap-4 border-b">
         <button
-          className={`cursor-pointer text-2xl md:text-5xl py-2 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
+          className={`cursor-pointer text-4xl md:text-5xl py-2 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
           onClick={() => setActiveTab("images")}>
           Fotos
         </button>
         <button
-          className={`cursor-pointer text-2xl md:text-5xl py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
+          className={`cursor-pointer text-4xl md:text-5xl py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
           onClick={() => setActiveTab("galleries")}>
           Galerien
         </button>
@@ -299,11 +285,11 @@ const ListPage = () => {
                       alt={image.alt || `${image.galleryTitle} - ${image.filename}`}
                       width={128}
                       height={128}
-                      className="min-w-24 w-24 min-h-24 h-24 lg:w-32 lg:h-32 object-cover aspect-square"
+                      className="min-w-24 w-24 min-h-24 h-24 lg:w-24 lg:h-24 object-cover aspect-square"
                     />
                   </Link>
                   <div className="text-sm">
-                    <h3 className="truncate text-lg ">{`${image.galleryTitle} #${image.index}`}</h3>
+                    <h3 className="truncate text-base">{`${image.galleryTitle} #${image.index}`}</h3>
                     <p className="truncate text-xs">Erstellt: {parseCreateDate(image.createDate)?.toLocaleString() || "Ungültiges Datum"}</p>
                     {image.latitude && image.longitude ? (
                       <>
@@ -366,10 +352,10 @@ const ListPage = () => {
                         alt={gallery.title}
                         width={128}
                         height={128}
-                        className="lg:w-32 lg:h-32 min-w-24 min-h-24 w-24 h-24 object-cover "
+                        className="lg:w-24 lg:h-24 min-w-24 min-h-24 w-24 h-24 object-cover "
                       />
                     ) : (
-                      <div className="lg:w-32 lg:h-32 w-24 h-24 bg-gray-200 dark:bg-gray-700 flex items-center justify-center">
+                      <div className="lg:w-24 lg:h-24 w-24 h-24 bg-gray-200 dark:bg-gray-700 flex items-center justify-center">
                         <span className="text-xs text-gray-500">Kein Bild</span>
                       </div>
                     )}

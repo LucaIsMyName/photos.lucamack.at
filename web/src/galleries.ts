@@ -2303,10 +2303,90 @@ export const galleries = [
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216675,16.35685",
         "alt": null
+      },
+      {
+        "filename": "IMG_3122.jpg",
+        "latitude": 48.249478,
+        "longitude": 16.364239,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 12,
+          "hour": 17,
+          "minute": 51,
+          "second": 41,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:12 17:51:41",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.249478,16.364239",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3131.jpg",
+        "latitude": 48.169789,
+        "longitude": 16.412914,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 13,
+          "hour": 15,
+          "minute": 24,
+          "second": 51,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:13 15:24:51",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169789,16.412914",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3132.jpg",
+        "latitude": 48.169978,
+        "longitude": 16.414044,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 13,
+          "hour": 15,
+          "minute": 26,
+          "second": 15,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:13 15:26:15",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169978,16.414044",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3133.jpg",
+        "latitude": 48.169717,
+        "longitude": 16.416008,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 13,
+          "hour": 15,
+          "minute": 28,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:13 15:28:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169717,16.416008",
+        "alt": null
       }
     ],
-    "timeframe": "7. Juni 2024 - 9. Juli 2025",
-    "imageCount": 104
+    "timeframe": "7. Juni 2024 - 13. Juli 2025",
+    "imageCount": 108
   },
   {
     "name": "kleinlobming",

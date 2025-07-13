@@ -1,12 +1,13 @@
 import { Routes, Route, useLocation } from "react-router-dom";
 import { useRef } from "react";
-import Navigation from "./components/Navigation";
-import Home from "./components/Home";
-import Gallery from "./components/Gallery";
-import PageComponent from "./components/PageComponent";
-import MapPage from "./components/Map";
-import ListPage from "./components/List";
-import TimelinePage from "./components/Timeline";
+import Navigation from "./components/layout/Navigation";
+import Home from "./components/pages/Home";
+import Gallery from "./components/pages/Gallery";
+import PageComponent from "./components/pages/PageComponent";
+import MapPage from "./components/pages/Map";
+import ListPage from "./components/pages/List";
+import TimelinePage from "./components/pages/Timeline";
+import MakePostcardPage from "./components/pages/MakePostcardPage";
 import { useTheme } from "./contexts/ThemeContext";
 import { AnimatePresence } from "framer-motion";
 
@@ -22,7 +23,7 @@ function App() {
   };
 
   return (
-    <div className={`bg-black font-geist h-screen w-screen flex flex-col md:flex-row gap-4 md:gap-8 ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
+    <div className={`bg-black font-geist h-screen w-screen flex flex-col md:flex-row gap-4 md:gap-8 ${theme === "light" ? "bg-white text-black" : "bg-black text-white"}`}>
       <Navigation />
       <main
         ref={mainRef}
@@ -56,6 +57,10 @@ function App() {
             <Route
               path="/timeline"
               element={<TimelinePage />}
+            />
+            <Route
+              path="/postcard"
+              element={<MakePostcardPage />}
             />
           </Routes>
         </AnimatePresence>

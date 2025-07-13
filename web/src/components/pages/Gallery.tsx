@@ -1,13 +1,13 @@
 import { useParams } from "react-router-dom";
-import { galleries } from "../galleries";
+import { galleries } from "../../galleries";
 import { marked } from "marked";
-import type { Gallery as GalleryType } from "../types";
-import GalleryItem from "./GalleryItem";
+import type { Gallery as GalleryType } from "../../types";
+import GalleryItem from "../layout/GalleryItem";
 import { motion } from "framer-motion";
-import { pageVariants, pageTransition } from "../animations";
+import { pageVariants, pageTransition } from "../../animations";
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
-import { CONFIG } from "../config";
+import { CONFIG } from "../../config";
 
 const Gallery = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -95,7 +95,7 @@ const Gallery = () => {
       />
       <div className="px-4 md:px-0">
         <div className="flex flex-col items-start">
-          <h1 className="w-full max-w-[560px] text-wrap-balance text-2xl md:text-5xl md:pt-8 pt-4 pb-4  ">{gallery.title || gallery.name}</h1>
+          <h1 className="w-full max-w-[560px] text-wrap-balance text-4xl md:text-5xl md:pt-8 pt-4 pb-4  ">{gallery.title || gallery.name}</h1>
 
           {gallery.description && (
             <div

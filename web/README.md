@@ -1,18 +1,28 @@
 # Photo Gallery Website
 
-This is a modern, fast, and responsive photo gallery website built with React, TypeScript, and Vite. It features dynamic theme switching (light/dark mode), an interactive map for geotagged photos, and a clean, minimalist design, all driven by a local-first content management system.
+This is a photo gallery website built with React, TypeScript, and Vite. It features dynamic theme switching (light/dark mode), an interactive map for geotagged photos, and a clean, minimalist design, all driven by a local-first content management system.
+
+## Features
+
+-   **Dynamic Galleries**: Automatically generates galleries from local folders.
+-   **Image Optimization**: Creates responsive image sizes on the fly using Sharp.
+-   **EXIF Data Extraction**: Pulls creation date and GPS coordinates from image metadata.
+-   **Interactive Map**: Displays all geotagged photos on a Mapbox map.
+-   **Static Pages**: Create and manage simple pages using Markdown.
+-   **Theming**: Seamless light and dark mode support.
+-   **JSON API**: Exposes gallery and image data through a simple API.
 
 ## Tech Stack
 
-- **Framework**: [React](https://reactjs.org/) 19
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Build Tool**: [Vite](https://vitejs.dev/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Mapping**: [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) via [react-map-gl](https://visgl.github.io/react-map-gl/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Routing**: [React Router](https://reactrouter.com/)
-- **Image Processing**: [Sharp](https://sharp.pixelplumbing.com/) for resizing and optimization.
-- **Markdown Parsing**: [Marked](https://marked.js.org/) for rendering static page content.
+-   **Framework**: [React](https://reactjs.org/) 19
+-   **Language**: [TypeScript](https://www.typescriptlang.org/)
+-   **Build Tool**: [Vite](https://vitejs.dev/)
+-   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+-   **Mapping**: [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) via [react-map-gl](https://visgl.github.io/react-map-gl/)
+-   **Animations**: [Framer Motion](https://www.framer.com/motion/)
+-   **Routing**: [React Router](https://reactrouter.com/)
+-   **Image Processing**: [Sharp](https://sharp.pixelplumbing.com/) for resizing and optimization.
+-   **Markdown Parsing**: [Marked](https://marked.js.org/) for rendering static page content.
 
 ---
 
@@ -20,8 +30,8 @@ This is a modern, fast, and responsive photo gallery website built with React, T
 
 ### 1. Prerequisites
 
-- [Node.js](https://nodejs.org/) (v18 or higher)
-- [npm](https://www.npmjs.com/)
+-   [Node.js](https://nodejs.org/) (v18 or higher)
+-   [npm](https://www.npmjs.com/)
 
 ### 2. Installation
 
@@ -46,11 +56,11 @@ The project uses Mapbox for the interactive map. You'll need to provide a Mapbox
 
 ### 4. Content Generation
 
-Before starting the development server, you need to generate the content for your galleries and pages by running the content generation scripts.
+Before starting the development server, you must generate the data for your galleries and pages by running the content generation scripts. This step is crucial as it creates the TypeScript modules that the application imports.
 
 ```bash
-node generate-galleries.mjs
-node generate-pages.mjs
+# Run both scripts sequentially
+npm run prebuild
 ```
 
 ### 5. Running the Development Server
@@ -67,25 +77,24 @@ The application will be available at `http://localhost:5173`.
 
 ## Content Management
 
-All content is managed locally through a simple file and folder structure. After making any changes to the content, you must re-run the appropriate generation script.
+All content is managed locally using a simple file and folder structure. After adding or modifying content, you must re-run the appropriate generation script for the changes to appear in the application.
 
 ### How to Add a New Gallery
 
-1.  **Create a Folder**: Add a new folder inside `./web/content/`. The folder name will become the gallery's URL slug (e.g., `new-york-trip`).
-2.  **Add Images**: Place your images (`.jpg`, `.jpeg`, `.png`, `.heic`, `.heif`) inside the new folder.
-    1.  Note: Metadata for `creationDate` and `latitude` and `longitude` are extracted from the image's EXIF data. Make sure to set the correct metadata for your images.
-3.  **Generate Gallery Data**: Run the gallery generation script:
+1.  **Create a Folder**: Add a new folder inside `web/content/galleries/`. The folder name will become the gallery's URL slug (e.g., `new-york-trip`).
+2.  **Add Images**: Place your images (`.jpg`, `.jpeg`, `.png`, `.heic`) inside the new folder. The script automatically handles `HEIC` to `JPEG` conversion.
+3.  **(Optional) Add a Description**: Create an `index.md` file inside the gallery folder. The script will use the first H1 heading (`#`) as the gallery title and the first paragraph as its description.
+4.  **Generate Gallery Data**: Run the gallery generation script:
 
     ```bash
     node generate-galleries.mjs
     ```
 
-    The new gallery will be added to `src/galleries.ts` and appear in the navigation.
+    This command processes the images, extracts metadata, and updates `src/galleries.ts` and the public JSON API.
 
 ### How to Add a New Page
 
-1.  **Create a Folder**: Add a new folder inside `web/content/pages/`. The folder name will become the page's URL slug (e.g., `about-me`).
-  **note**: The folder name should be in lowercase and contain only letters, numbers, and hyphens. It shoud *not* be name `galleries` or `pages`
+1.  **Create a Folder**: Add a new folder inside `web/content/pages/`. The folder name becomes the page's URL slug (e.g., `about-me`).
 2.  **Create Markdown File**: Inside the new folder, create a file named `index.md`.
 3.  **Add Content**: Write your page content in Markdown. The page title is automatically extracted from the first H1 heading (e.g., `# About Me`).
 4.  **Generate Page Data**: Run the page generation script:
@@ -94,25 +103,68 @@ All content is managed locally through a simple file and folder structure. After
     node generate-pages.mjs
     ```
 
-    The new page will be added to `src/pages.ts`.
+    This command updates `src/pages.ts`.
+
+---
+
+## API Documentation
+
+The `generate-galleries.mjs` script also creates a simple JSON API, placing the output files in the `web/public/api/` directory. These files can be used for external integrations.
+
+### `GET /api/galleries.json`
+
+Returns an array of all gallery objects.
+
+**Gallery Object Structure**
+
+```typescript
+interface Gallery {
+  name: string;          // Original folder name
+  slug: string;          // URL-friendly slug (same as name)
+  title: string;         // Title from index.md H1, or folder name
+  description: string;   // First paragraph from index.md
+  images: Image[];       // Array of image objects
+  timeframe?: string;    // Formatted date range of images
+  imageCount?: number;   // Total number of images in the gallery
+}
+```
+
+### `GET /api/images.json`
+
+Returns a flattened array of all image objects from all galleries.
+
+**Image Object Structure**
+
+```typescript
+interface Image {
+  filename: string;
+  latitude?: number | null;
+  longitude?: number | null;
+  createDate?: string;     // ISO 8601 date string
+  googleMapsUrl?: string | null;
+  alt?: string | null;     // Extracted from EXIF ImageDescription
+  gallery: string;         // Slug of the parent gallery
+  urls: {
+    original: string;    // URL to the full-resolution image
+    w640: string;        // URL to the 640px wide version
+    w1440: string;       // URL to the 1440px wide version
+  }
+}
+```
 
 ---
 
 ## Scripts
 
--   **`generate-galleries.mjs`**: This script automates the creation of gallery data. It scans the `content/galleries` directory, processes each image to create multiple responsive sizes, extracts EXIF metadata (including GPS data), and compiles everything into the `src/galleries.ts` file.
-
--   **`generate-pages.mjs`**: This script generates the data for static pages. It scans the `content/pages` directory, reads the `index.md` file from each subfolder, and creates the `src/pages.ts` file.
--   **`npm run prebuild`**: This script runs both `generate-galleries.mjs` and `generate-pages.mjs` to prepare the content for production.
-
--   **`npm run dev`**: Starts the Vite development server for a fast, hot-reloading development experience.
-
--   **`npm run build`**: Bundles the application for production into the `dist` directory.
+-   `npm run dev`: Starts the Vite development server for a fast, hot-reloading experience.
+-   `npm run build`: Bundles the application for production into the `dist` directory.
+-   `npm run prebuild`: A convenience script that runs both `generate-galleries.mjs` and `generate-pages.mjs`.
+-   `node generate-galleries.mjs`: Scans the `content/galleries` directory, processes images, extracts metadata, and generates `src/galleries.ts` and the JSON API files.
+-   `node generate-pages.mjs`: Scans the `content/pages` directory, reads Markdown files, and generates `src/pages.ts`.
 
 ---
 
 ## Future Work
 
-
 - **System Messages**: Insert `CONFIG.systemMessages` from `config.ts` file instead of hardcoding standard texts
-- **List.tsx**: Make 2 Column Layout more defensive / trancate text early, set image width and height the *hard* way
+- **List.tsx**: Make 2 Column Layout more defensive / truncate text early, set image width and height the *hard* way

@@ -1,9 +1,9 @@
 import { useState, useRef, useEffect } from "react";
 import { NavLink } from "react-router-dom";
-import { galleries } from "../galleries";
-import { pages } from "../pages";
-import type { Gallery, Page } from "../types";
-import { useTheme } from "../contexts/ThemeContext";
+import { galleries } from "../../galleries";
+import { pages } from "../../pages";
+import type { Gallery, Page } from "../../types";
+import { useTheme } from "../../contexts/ThemeContext";
 import { Sun, Moon, ImageIcon, ChevronUp, ChevronDown } from "lucide-react";
 
 const Navigation = () => {
@@ -13,7 +13,7 @@ const Navigation = () => {
   const [showBottomGradient, setShowBottomGradient] = useState(false);
   const { theme, toggleTheme } = useTheme();
 
-  const navLinkClasses = (isActive: boolean, isSmall = false) => `block py-1 px-4 text-left ${isSmall ? "text-xs" : "text-base"} truncate ${isActive ? `${theme === "light" ? "text-red-600" : "text-red-300"}` : "font-normal"}`;
+  const navLinkClasses = (isActive: boolean, isSmall = false, hasSpacingX = true) => `block py-1 ${hasSpacingX ? "px-4" : ""}  text-left ${isSmall ? "text-xs" : "text-base"} truncate ${isActive ? `${theme === "light" ? "text-red-600" : "text-red-300"}` : "font-normal"}`;
 
   const handleLinkClick = () => {
     setIsMobileMenuOpen(false);
@@ -61,7 +61,7 @@ const Navigation = () => {
     <div className="p-2">
       <button
         onClick={toggleTheme}
-        className="w-full flex items-center justify-start p-2 cursor-pointer"
+        className="cursor-pointer w-full flex items-center justify-start p-2 cursor-pointer"
         aria-label={`Switch to ${theme === "light" ? "dark" : "light"} mode`}>
         {theme === "light" ? <Moon size={20} /> : <Sun size={20} />}
       </button>
@@ -79,7 +79,7 @@ const Navigation = () => {
         </NavLink>
         <button
           onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-          className="p-0"
+          className="cursor-pointer p-0"
           aria-label="Toggle menu">
           <svg
             className="w-6 h-6"
@@ -108,7 +108,7 @@ const Navigation = () => {
             </NavLink>
             <button
               onClick={() => setIsMobileMenuOpen(false)}
-              className=""
+              className="cursor-pointer p-0"
               aria-label="Close menu">
               <svg
                 className="w-6 h-6"
@@ -137,24 +137,24 @@ const Navigation = () => {
               ))}
             </nav>
             <div className="mt-4">
-              <section className="flex gap-0 mb-4">
+              <section className="flex gap-0 mb-4 px-4 gap-4">
                 <NavLink
                   to="/map"
-                  className={({ isActive }) => navLinkClasses(isActive, true)}
+                  className={({ isActive }) => navLinkClasses(isActive, false, false)}
                   onClick={handleLinkClick}>
                   Karte
                 </NavLink>
 
                 <NavLink
                   to="/list"
-                  className={({ isActive }) => navLinkClasses(isActive, true)}
+                  className={({ isActive }) => navLinkClasses(isActive, false, false)}
                   onClick={handleLinkClick}>
                   Liste
                 </NavLink>
 
                 <NavLink
                   to="/timeline"
-                  className={({ isActive }) => navLinkClasses(isActive, true)}
+                  className={({ isActive }) => navLinkClasses(isActive, false, false)}
                   onClick={handleLinkClick}>
                   Timeline
                 </NavLink>
@@ -218,24 +218,24 @@ const Navigation = () => {
         </div>
 
         <div className="flex-shrink-0">
-          <section className="flex gap-0 mb-2">
+          <section className="flex gap-4 px-4 mb-2 sm:mb-6">
             <NavLink
               to="/map"
-              className={({ isActive }) => navLinkClasses(isActive, true)}
+              className={({ isActive }) => navLinkClasses(isActive, true, false)}
               onClick={handleLinkClick}>
               Karte
             </NavLink>
 
             <NavLink
               to="/list"
-              className={({ isActive }) => navLinkClasses(isActive, true)}
+              className={({ isActive }) => navLinkClasses(isActive, true, false)}
               onClick={handleLinkClick}>
               Liste
             </NavLink>
 
             <NavLink
               to="/timeline"
-              className={({ isActive }) => navLinkClasses(isActive, true)}
+              className={({ isActive }) => navLinkClasses(isActive, true, false)}
               onClick={handleLinkClick}>
               Timeline
             </NavLink>

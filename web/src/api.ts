@@ -1,4 +1,5 @@
 import type { Gallery, Image } from './types';
+import { parseCreateDate } from './utils/date';
 
 // --- Data Loading ---
 
@@ -69,16 +70,18 @@ export async function getImages(params: ApiParams = {}): Promise<Image[]> {
 
   if (params.from) {
     const fromDate = new Date(params.from);
-    filteredImages = filteredImages.filter(image => 
-      image.createDate && new Date(image.createDate) >= fromDate
-    );
+    filteredImages = filteredImages.filter(image => {
+      const d = parseCreateDate(image.createDate);
+      return d && d >= fromDate;
+    });
   }
 
   if (params.to) {
     const toDate = new Date(params.to);
-    filteredImages = filteredImages.filter(image => 
-      image.createDate && new Date(image.createDate) <= toDate
-    );
+    filteredImages = filteredImages.filter(image => {
+      const d = parseCreateDate(image.createDate);
+      return d && d <= toDate;
+    });
   }
 
   if (params.latitudeStart) {
@@ -97,8 +100,8 @@ export async function getImages(params: ApiParams = {}): Promise<Image[]> {
   // Sorting logic
   if (params.orderBy) {
     filteredImages.sort((a, b) => {
-      const dateA = a.createDate ? new Date(a.createDate).getTime() : 0;
-      const dateB = b.createDate ? new Date(b.createDate).getTime() : 0;
+      const dateA = a.createDate ? parseCreateDate(a.createDate)?.getTime() || 0 : 0;
+      const dateB = b.createDate ? parseCreateDate(b.createDate)?.getTime() || 0 : 0;
       return params.orderBy === 'date_asc' ? dateA - dateB : dateB - dateA;
     });
   }
@@ -132,11 +135,17 @@ export async function getGalleries(params: ApiParams = {}): Promise<Gallery[]> {
 
       if (params.from) {
         const fromDate = new Date(params.from);
-        imagesInGallery = imagesInGallery.filter(img => img.createDate && new Date(img.createDate) >= fromDate);
+        imagesInGallery = imagesInGallery.filter(img => {
+          const d = parseCreateDate(img.createDate);
+          return d && d >= fromDate;
+        });
       }
       if (params.to) {
         const toDate = new Date(params.to);
-        imagesInGallery = imagesInGallery.filter(img => img.createDate && new Date(img.createDate) <= toDate);
+        imagesInGallery = imagesInGallery.filter(img => {
+          const d = parseCreateDate(img.createDate);
+          return d && d <= toDate;
+        });
       }
       if (params.latitudeStart) {
         imagesInGallery = imagesInGallery.filter(img => img.latitude && img.latitude >= params.latitudeStart!);
@@ -163,8 +172,8 @@ export async function getGalleries(params: ApiParams = {}): Promise<Gallery[]> {
   // --- Step 3: Sort galleries ---
   if (params.orderBy) {
     filteredGalleries.sort((a, b) => {
-      const aDate = a.images[0]?.createDate ? new Date(a.images[0].createDate).getTime() : 0;
-      const bDate = b.images[0]?.createDate ? new Date(b.images[0].createDate).getTime() : 0;
+      const aDate = a.images[0]?.createDate ? parseCreateDate(a.images[0].createDate)?.getTime() || 0 : 0;
+      const bDate = b.images[0]?.createDate ? parseCreateDate(b.images[0].createDate)?.getTime() || 0 : 0;
       return params.orderBy === 'date_asc' ? aDate - bDate : bDate - aDate;
     });
   }

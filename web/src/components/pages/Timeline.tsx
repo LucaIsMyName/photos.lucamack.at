@@ -1,12 +1,12 @@
 import { useMemo } from "react";
 import { Link } from "react-router-dom";
-import { Download } from "lucide-react";
-import { useTheme } from "../contexts/ThemeContext";
-import useUrlState from "../hooks/useUrlState";
-import { galleries } from "../galleries";
-import type { Image as ImageType } from "../types";
-import { parseCreateDate } from "../utils/date";
-import { CONFIG } from "../config";
+import { Download, MapPin } from "lucide-react";
+import { useTheme } from "../../contexts/ThemeContext";
+import useUrlState from "../../hooks/useUrlState";
+import { galleries } from "../../galleries";
+import type { Image as ImageType } from "../../types";
+import { parseCreateDate } from "../../utils/date";
+import { CONFIG } from "../../config";
 
 const TimelinePage = () => {
   const { theme } = useTheme();
@@ -69,21 +69,23 @@ const TimelinePage = () => {
       .sort((a, b) => b.startDate.getTime() - a.startDate.getTime());
   }, []);
 
-  const tabClasses = (isActive: boolean) =>
-    `cursor-pointer text-2xl md:text-5xl py-2 ${isActive === true ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`;
+  const tabClasses = (isActive: boolean) => `cursor-pointer text-4xl md:text-5xl py-2 ${isActive === true ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`;
 
   return (
     <div className={`p-4 pl-7 sm:pl-4 md:pt-6  ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
-      <div className="flex items-center justify-between mb-4 -ml-2">
+    <title>Timeline | Luca Mack</title>
+    <meta name="description" content="Timeline von allen Fotos & Galerien" />
+      <div className="flex items-center justify-between mb-4 -ml-3 sm:ml-0">
         <h1 className="text-2xl sr-only">Timeline</h1>
         <div className="flex items-center space-x-2 gap-2">
-          <button onClick={() => setActiveTab("images")} 
-          
-          className={tabClasses(activeTab === "images")}
-          >
+          <button
+            onClick={() => setActiveTab("images")}
+            className={`cursor-pointer ${tabClasses(activeTab === "images")}`}>
             Fotos
           </button>
-          <button onClick={() => setActiveTab("galleries")} className={tabClasses(activeTab === "galleries")}>
+          <button
+            onClick={() => setActiveTab("galleries")}
+            className={`cursor-pointer ${tabClasses(activeTab === "galleries")}`}>
             Galerien
           </button>
         </div>
@@ -94,30 +96,42 @@ const TimelinePage = () => {
           <div className={`absolute left-0 top-4.5 h-full w-px ${theme === "dark" ? "bg-white" : "bg-black"}`}></div>
           <div className="space-y-8">
             {imagesByDate.map(([date, images]) => (
-              <div key={date} className="relative">
+              <div
+                key={date}
+                className="relative">
                 <div className="absolute -left-[31.5px] top-4.5 transform -translate-x-1/2 flex items-center">
                   <div className={`${theme === "dark" ? "bg-red-300 border border-white" : "bg-red-600 border border-black"} h-2 w-2 `}></div>
                 </div>
-                <h2 className={`sm:text-lg mb-4 sticky top-0 py-2 z-50 ${theme === "dark" ? "bg-black" : "bg-white"}`}>
-                  {new Date(date).toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" })}
-                </h2>
-                <div className="grid grid-cols-3 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-4">
+                <h2 className={`sm:text-lg mb-4 sticky top-0 py-2 z-50 ${theme === "dark" ? "bg-black" : "bg-white"}`}>{new Date(date).toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" })}</h2>
+                <div className="grid grid-cols-4 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-4">
                   {images.map((image) => (
-                    <Link to={`/gallery/${image.gallerySlug}`} key={image.filename} className="relative group block">
+                    <Link
+                      to={`/gallery/${image.gallerySlug}`}
+                      key={image.filename}
+                      className="relative group block">
                       <img
                         src={`/content/galleries/${image.gallerySlug}/${image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, "-640w.jpg")}`}
                         alt={image.alt || image.filename}
                         loading="lazy"
                         className="w-full h-full object-cover aspect-square"
                       />
-                      <div className={`absolute inset-0 bg-opacity-50 opacity-0 group-hover:opacity-100 transition-opacity duration-300`}>
+                      <div className={`absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex justify-end items-start p-2 gap-1.5`}>
+                        {image.googleMapsUrl && (
+                          <Link
+                            to={`/map?gallery=${image.gallerySlug}&image=${image.filename}`}
+                            onClick={(e) => e.stopPropagation()}
+                            className={`p-1 transition-colors ${theme === "dark" ? "text-white bg-black bg-opacity-50 " : "text-black bg-white bg-opacity-50"}`}
+                            aria-label={`View ${image.filename} on map`}>
+                            <MapPin size={16} />
+                          </Link>
+                        )}
                         <a
                           href={`/content/galleries/${image.gallerySlug}/${image.filename}`}
                           download
                           onClick={(e) => e.stopPropagation()} // Prevent navigating to gallery when clicking download
-                          className={`absolute top-2 right-2 p-1.5 transition-colors ${theme === 'dark' ? 'text-white bg-black' : 'text-black bg-white'}`}
+                          className={`p-1 transition-colors ${theme === "dark" ? "text-white bg-black bg-opacity-50 " : "text-black bg-white bg-opacity-50"}`}
                           aria-label={`Download ${image.filename}`}>
-                          <Download size={20} />
+                          <Download size={16} />
                         </a>
                       </div>
                     </Link>
@@ -135,11 +149,15 @@ const TimelinePage = () => {
           <h2 className="sr-only text-xl font-semibold my-4">Gallerien nach Zeitraum</h2>
           <div className="space-y-4">
             {galleriesWithTimeframes.map((gallery) => (
-              <div key={gallery.slug} className="relative">
-               <div className="absolute -left-[31.5px] top-7 transform -translate-x-1/2 flex items-center">
+              <div
+                key={gallery.slug}
+                className="relative">
+                <div className="absolute -left-[31.5px] top-7 transform -translate-x-1/2 flex items-center">
                   <div className={`${theme === "dark" ? "bg-red-300 border border-white" : "bg-red-600 border border-black"} h-2 w-2 `}></div>
                 </div>
-                <Link to={`/gallery/${gallery.slug}`} className="block p-4">
+                <Link
+                  to={`/gallery/${gallery.slug}`}
+                  className="block p-4">
                   <h3 className=" text-lg">{gallery.title}</h3>
                   <p className="text-xs ">
                     {gallery.startDate.toLocaleDateString("de-DE")} - {gallery.endDate.toLocaleDateString("de-DE")}
