@@ -8,16 +8,30 @@ pnpm-debug.log*
 lerna-debug.log*
 
 .env
+.env.local
 
 node_modules
-dist/content
-dist-ssr
-*.local
 
-content/*
-*.jpg
-*.heic
-*/content
+/content/**/*.jpg
+/content/**/*.jpeg
+/content/**/*.png
+/content/**/*.gif
+/content/**/*.heic
+/content/**/*.webp
+
+/dist/**/*.jpg
+/dist/**/*.jpeg
+/dist/**/*.png
+/dist/**/*.gif
+/dist/**/*.heic
+/dist/**/*.webp
+
+/public/**/*.jpg
+/public/**/*.jpeg
+/public/**/*.png
+/public/**/*.gif
+/public/**/*.heic
+/public/**/*.webp
 
 # Editor directories and files
 .vscode/*
@@ -29,3 +43,4 @@ content/*
 *.njsproj
 *.sln
 *.sw?
+*.sql

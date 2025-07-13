@@ -1,6 +1,20 @@
+# Dependencies
 node_modules
-# no jpg or heic file types
-*.jpg
-*.heic
-web/content
+
+# Environment variables
 .env
+
+# Ignore image files within the content directory
+content/**/*.jpg
+content/**/*.jpeg
+content/**/*.png
+content/**/*.gif
+content/**/*.heic
+content/**/*.webp
+
+dist/**/*.jpg
+dist/**/*.jpeg
+dist/**/*.png
+dist/**/*.gif
+dist/**/*.heic
+dist/**/*.webp
