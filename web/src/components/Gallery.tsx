@@ -5,30 +5,80 @@ import type { Gallery as GalleryType } from "../types";
 import GalleryItem from "./GalleryItem";
 import { motion } from "framer-motion";
 import { pageVariants, pageTransition } from "../animations";
-import { useState, useEffect } from "react";
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
 import { CONFIG } from "../config";
 
 const Gallery = () => {
   const { slug } = useParams<{ slug: string }>();
   const gallery: GalleryType | undefined = galleries.find((g) => g.slug === slug);
-  const [shuffledImages, setShuffledImages] = useState<GalleryType["images"]>([]);
+  const location = useLocation();
 
-  /**
-   * Shuffles the images when the component is mounted
-   * and the gallery is available
-   */
   useEffect(() => {
-    if (gallery) {
-      const shuffled = [...gallery.images].sort(() => Math.random() - 0.5);
-      setShuffledImages(shuffled);
+    // Scroll to image logic
+    const params = new URLSearchParams(location.search);
+    let imageName = params.get("image");
+    if (!imageName && location.hash) {
+      const hash = location.hash.substring(1);
+      imageName = hash.startsWith("image-") ? hash.replace("image-", "") : hash;
     }
-  }, [gallery]);
+    if (imageName) {
+      const imageId = `image-${imageName.split(".")[0]}`;
+      setTimeout(() => {
+        const element = document.getElementById(imageId);
+        if (element) {
+          element.scrollIntoView({ behavior: "smooth", block: "center" });
+        }
+      }, 150);
+    }
+
+    // JSON-LD structured data logic
+    if (gallery && gallery.images) {
+      const script = document.createElement("script");
+      script.type = "application/ld+json";
+      script.id = "gallery-structured-data";
+
+      const structuredData = gallery.images
+        .filter((image) => image.latitude && image.longitude && image.googleMapsUrl)
+        .map((image) => ({
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          name: image.filename,
+          description: image.alt || `A photo from the gallery: ${gallery.title}`,
+          contentUrl: `${CONFIG.url}/content/galleries/${gallery.slug}/${image.filename}`,
+          author: {
+            "@type": "Person",
+            name: "Luca Mack",
+          },
+          location: {
+            "@type": "Place",
+            geo: {
+              "@type": "GeoCoordinates",
+              latitude: image.latitude,
+              longitude: image.longitude,
+            },
+            sameAs: image.googleMapsUrl,
+          },
+        }));
+
+      script.innerHTML = JSON.stringify(structuredData);
+      document.head.appendChild(script);
+
+      // Cleanup function to remove the script when the component unmounts
+      return () => {
+        const existingScript = document.getElementById("gallery-structured-data");
+        if (existingScript) {
+          document.head.removeChild(existingScript);
+        }
+      };
+    }
+  }, [location, gallery]);
 
   /**
    * If the gallery is not found, show a message
    */
   if (!gallery) {
-    return <div className="py-10 text-left font-bold">{CONFIG.systemMessages.noGalleryFound}</div>;
+    return <div className="py-10 text-left ">{CONFIG.systemMessages.noGalleryFound}</div>;
   }
 
   return (
@@ -38,14 +88,14 @@ const Gallery = () => {
       exit="out"
       variants={pageVariants}
       transition={pageTransition as any}>
-      <title>{`Luca Mack | ${gallery.title || gallery.name}`}</title>
+      <title>{`Fotoserie: ${gallery.title || gallery.name} | Luca Mack`}</title>
       <meta
         name="description"
         content={gallery.description || `Fotoserie: ${gallery.title || gallery.name}.`}
       />
       <div className="px-4 md:px-0">
         <div className="flex flex-col items-start">
-          <h1 className="w-full max-w-[560px] text-wrap-balance text-2xl md:text-5xl md:pt-8 pt-4 pb-4 font-bold ">{gallery.title || gallery.name}</h1>
+          <h1 className="w-full max-w-[560px] text-wrap-balance text-2xl md:text-5xl md:pt-8 pt-4 pb-4  ">{gallery.title || gallery.name}</h1>
 
           {gallery.description && (
             <div
@@ -55,13 +105,13 @@ const Gallery = () => {
           )}
         </div>
 
-        {shuffledImages.length > 0 ? (
+        {gallery.images.length > 0 ? (
           <div className="max-w-[var(--content-width)] md:pr-4 flex flex-wrap justify-center items-center gap-8 md:gap-0 pb-4">
-            {shuffledImages.map((image) => (
+            {gallery.images.map((image) => (
               <GalleryItem
                 key={image.filename}
                 src={`/content/galleries/${gallery.slug}/${image.filename}`}
-                alt={`${gallery.title || gallery.name} - ${image.filename}`}
+                alt={image.alt || `${gallery.title || gallery.name} - ${image.filename}`}
                 latitude={image.latitude}
                 longitude={image.longitude}
                 gallerySlug={gallery.slug!}

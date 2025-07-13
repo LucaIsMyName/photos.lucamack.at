@@ -13,7 +13,7 @@ const PageComponent = () => {
   const page: Page | undefined = pages.find((p: Page) => p.slug === slug);
 
   if (!page) {
-    return <div className="py-10 text-left font-bold">Page not found.</div>;
+    return <div className="py-10 text-left ">Page not found.</div>;
   }
 
   return (
@@ -28,7 +28,7 @@ const PageComponent = () => {
       <meta name="description" content={`Information about ${page.title}`} />
       <div className="px-4 md:px-0">
         <div className="flex flex-col items-start" data-wysiwyg>
-          {/* <h1 className="w-full max-w-[560px] text-2xl md:text-5xl pt-8 font-bold ">{page.title}</h1> */}
+          {/* <h1 className="w-full max-w-[560px] text-2xl md:text-5xl pt-8  ">{page.title}</h1> */}
           <div
             className={`w-full max-w-[560px] text-sm md:text-lg leading-8 my-4 leading-tight prose ${theme === 'dark' ? 'prose-invert' : ''}`}
             dangerouslySetInnerHTML={{ __html: marked(page.content) }}

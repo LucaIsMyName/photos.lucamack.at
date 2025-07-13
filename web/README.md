@@ -71,10 +71,10 @@ All content is managed locally through a simple file and folder structure. After
 
 ### How to Add a New Gallery
 
-1.  **Create a Folder**: Add a new folder inside `web/content/`. The folder name will become the gallery's URL slug (e.g., `new-york-trip`).
-  **note**: The folder name should be in lowercase and contain only letters, numbers, and hyphens. It shoud *not* be name `pages`
-1.  **Add Images**: Place your images (`.jpg`, `.jpeg`, `.png`, `.heic`) inside the new folder.
-2.  **Generate Gallery Data**: Run the gallery generation script:
+1.  **Create a Folder**: Add a new folder inside `./web/content/`. The folder name will become the gallery's URL slug (e.g., `new-york-trip`).
+2.  **Add Images**: Place your images (`.jpg`, `.jpeg`, `.png`, `.heic`, `.heif`) inside the new folder.
+    1.  Note: Metadata for `creationDate` and `latitude` and `longitude` are extracted from the image's EXIF data. Make sure to set the correct metadata for your images.
+3.  **Generate Gallery Data**: Run the gallery generation script:
 
     ```bash
     node generate-galleries.mjs

@@ -23,7 +23,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:33:23",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181928,16.390136",
+        "alt": null
       },
       {
         "filename": "IMG_1876.jpg",
@@ -41,7 +43,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:33:32",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181961,16.390197",
+        "alt": null
       },
       {
         "filename": "IMG_1878.jpg",
@@ -59,7 +63,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:33:45",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182044,16.390392",
+        "alt": null
       },
       {
         "filename": "IMG_1880.jpg",
@@ -77,7 +83,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:34:16",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182206,16.390731",
+        "alt": null
       },
       {
         "filename": "IMG_1881.jpg",
@@ -95,7 +103,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:34:43",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182494,16.391122",
+        "alt": null
       },
       {
         "filename": "IMG_1883.jpg",
@@ -113,7 +123,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:35:20",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182694,16.391783",
+        "alt": null
       },
       {
         "filename": "IMG_1884.jpg",
@@ -131,7 +143,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:35:42",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182872,16.391942",
+        "alt": null
       },
       {
         "filename": "IMG_1885.jpg",
@@ -149,7 +163,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:35:58",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.183075,16.392044",
+        "alt": null
       },
       {
         "filename": "IMG_1888.jpg",
@@ -167,7 +183,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:37:08",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.183372,16.392936",
+        "alt": null
       },
       {
         "filename": "IMG_1891.jpg",
@@ -185,7 +203,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:37:36",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.183189,16.393117",
+        "alt": null
       },
       {
         "filename": "IMG_1894.jpg",
@@ -203,7 +223,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:38:46",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1827,16.394",
+        "alt": null
       }
     ],
     "timeframe": "20. April 2025",
@@ -231,7 +253,9 @@ export const galleries = [
           "rawValue": "2024:06:07 17:33:56",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.19725,16.337719",
+        "alt": null
       },
       {
         "filename": "IMG_0302.jpg",
@@ -249,7 +273,9 @@ export const galleries = [
           "rawValue": "2024:07:19 17:24:07",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172869,16.409564",
+        "alt": null
       },
       {
         "filename": "IMG_1.jpg",
@@ -267,7 +293,9 @@ export const galleries = [
           "rawValue": "2025:05:05 09:37:04",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.208242,16.359903",
+        "alt": null
       },
       {
         "filename": "IMG_1799.jpg",
@@ -285,7 +313,9 @@ export const galleries = [
           "rawValue": "2025:04:13 13:53:17",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.167317,16.407628",
+        "alt": null
       },
       {
         "filename": "IMG_1828.jpg",
@@ -303,7 +333,9 @@ export const galleries = [
           "rawValue": "2025:04:18 12:09:03",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181872,16.413875",
+        "alt": null
       },
       {
         "filename": "IMG_1842.jpg",
@@ -321,7 +353,9 @@ export const galleries = [
           "rawValue": "2025:04:18 15:24:46",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168975,16.421569",
+        "alt": null
       },
       {
         "filename": "IMG_1860.jpg",
@@ -339,7 +373,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:24:05",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182247,16.384303",
+        "alt": null
       },
       {
         "filename": "IMG_1864.jpg",
@@ -357,7 +393,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:28:03",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.179886,16.386161",
+        "alt": null
       },
       {
         "filename": "IMG_1871.jpg",
@@ -375,7 +413,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:29:58",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.180686,16.387744",
+        "alt": null
       },
       {
         "filename": "IMG_1900.jpg",
@@ -393,7 +433,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:43:30",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182117,16.397872",
+        "alt": null
       },
       {
         "filename": "IMG_1906.jpg",
@@ -411,7 +453,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:44:40",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181389,16.398206",
+        "alt": null
       },
       {
         "filename": "IMG_1913.jpg",
@@ -429,7 +473,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:48:56",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.180186,16.397092",
+        "alt": null
       },
       {
         "filename": "IMG_1915.jpg",
@@ -447,7 +493,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:52:13",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.178458,16.394178",
+        "alt": null
       },
       {
         "filename": "IMG_1922.jpg",
@@ -465,12 +513,16 @@ export const galleries = [
           "rawValue": "2025:04:21 15:08:04",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.214017,16.361797",
+        "alt": null
       },
       {
         "filename": "IMG_1924.jpg",
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "googleMapsUrl": null,
+        "alt": null
       },
       {
         "filename": "IMG_1934.jpg",
@@ -488,7 +540,9 @@ export const galleries = [
           "rawValue": "2025:04:21 18:29:50",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241619,16.384619",
+        "alt": null
       },
       {
         "filename": "IMG_1953.jpg",
@@ -506,7 +560,9 @@ export const galleries = [
           "rawValue": "2025:04:23 19:35:12",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181586,16.411972",
+        "alt": null
       },
       {
         "filename": "IMG_1954.jpg",
@@ -524,7 +580,9 @@ export const galleries = [
           "rawValue": "2025:04:23 19:35:57",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181611,16.412083",
+        "alt": null
       },
       {
         "filename": "IMG_1956.jpg",
@@ -542,7 +600,9 @@ export const galleries = [
           "rawValue": "2025:04:23 19:36:15",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181714,16.412022",
+        "alt": null
       },
       {
         "filename": "IMG_1960.jpg",
@@ -560,7 +620,9 @@ export const galleries = [
           "rawValue": "2025:04:23 19:37:20",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181606,16.412522",
+        "alt": null
       },
       {
         "filename": "IMG_1962.jpg",
@@ -578,7 +640,9 @@ export const galleries = [
           "rawValue": "2025:04:23 20:59:52",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.187514,16.412656",
+        "alt": null
       },
       {
         "filename": "IMG_1965.jpg",
@@ -596,7 +660,9 @@ export const galleries = [
           "rawValue": "2025:04:23 22:40:01",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185806,16.413911",
+        "alt": null
       },
       {
         "filename": "IMG_1966.jpg",
@@ -614,7 +680,9 @@ export const galleries = [
           "rawValue": "2025:04:25 17:39:08",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174133,16.416464",
+        "alt": null
       },
       {
         "filename": "IMG_1970.jpg",
@@ -632,7 +700,9 @@ export const galleries = [
           "rawValue": "2025:04:26 16:45:27",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211242,16.379222",
+        "alt": null
       },
       {
         "filename": "IMG_1973.jpg",
@@ -650,7 +720,9 @@ export const galleries = [
           "rawValue": "2025:04:26 19:25:29",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241303,16.380889",
+        "alt": null
       },
       {
         "filename": "IMG_1974.jpg",
@@ -668,7 +740,9 @@ export const galleries = [
           "rawValue": "2025:04:26 19:26:14",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241436,16.381792",
+        "alt": null
       },
       {
         "filename": "IMG_2100.jpg",
@@ -686,7 +760,9 @@ export const galleries = [
           "rawValue": "2025:05:02 12:48:43",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216494,16.356881",
+        "alt": null
       },
       {
         "filename": "IMG_2102.jpg",
@@ -704,7 +780,9 @@ export const galleries = [
           "rawValue": "2025:05:02 16:31:53",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168872,16.416753",
+        "alt": null
       },
       {
         "filename": "IMG_2106.jpg",
@@ -722,7 +800,9 @@ export const galleries = [
           "rawValue": "2025:05:02 16:32:45",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168353,16.417556",
+        "alt": null
       },
       {
         "filename": "IMG_2107.jpg",
@@ -740,7 +820,9 @@ export const galleries = [
           "rawValue": "2025:05:02 16:34:52",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169617,16.419389",
+        "alt": null
       },
       {
         "filename": "IMG_2117.jpg",
@@ -758,7 +840,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:07:19",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201386,16.387961",
+        "alt": null
       },
       {
         "filename": "IMG_2118.jpg",
@@ -776,7 +860,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:09:08",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.200011,16.387772",
+        "alt": null
       },
       {
         "filename": "IMG_2120.jpg",
@@ -794,7 +880,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:09:24",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199825,16.387606",
+        "alt": null
       },
       {
         "filename": "IMG_2121.jpg",
@@ -812,7 +900,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:10:27",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199086,16.387567",
+        "alt": null
       },
       {
         "filename": "IMG_2122.jpg",
@@ -830,7 +920,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:14:35",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199325,16.383333",
+        "alt": null
       },
       {
         "filename": "IMG_2123.jpg",
@@ -848,7 +940,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:15:17",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198947,16.382642",
+        "alt": null
       },
       {
         "filename": "IMG_2124.jpg",
@@ -866,7 +960,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:16:41",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198953,16.38115",
+        "alt": null
       },
       {
         "filename": "IMG_2125.jpg",
@@ -884,7 +980,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:17:15",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199047,16.380219",
+        "alt": null
       },
       {
         "filename": "IMG_2126.jpg",
@@ -902,7 +1000,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:18:12",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199006,16.378989",
+        "alt": null
       },
       {
         "filename": "IMG_2127.jpg",
@@ -920,7 +1020,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:21:55",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.197242,16.379769",
+        "alt": null
       },
       {
         "filename": "IMG_2128.jpg",
@@ -938,7 +1040,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:22:49",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.197028,16.380692",
+        "alt": null
       },
       {
         "filename": "IMG_2129.jpg",
@@ -956,7 +1060,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:40:49",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169636,16.420636",
+        "alt": null
       },
       {
         "filename": "IMG_2132.jpg",
@@ -974,7 +1080,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:45:41",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168475,16.417436",
+        "alt": null
       },
       {
         "filename": "IMG_2134.jpg",
@@ -992,7 +1100,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:46:13",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168781,16.417067",
+        "alt": null
       },
       {
         "filename": "IMG_2135.jpg",
@@ -1010,7 +1120,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:47:03",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169175,16.416547",
+        "alt": null
       },
       {
         "filename": "IMG_2139.jpg",
@@ -1028,7 +1140,9 @@ export const galleries = [
           "rawValue": "2025:05:03 12:58:21",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198017,16.335486",
+        "alt": null
       },
       {
         "filename": "IMG_2140.jpg",
@@ -1046,7 +1160,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:12:53",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204619,16.332464",
+        "alt": null
       },
       {
         "filename": "IMG_2145.jpg",
@@ -1064,7 +1180,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:35:35",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.20415,16.336481",
+        "alt": null
       },
       {
         "filename": "IMG_2146.jpg",
@@ -1082,7 +1200,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:35:52",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204067,16.336722",
+        "alt": null
       },
       {
         "filename": "IMG_2147.jpg",
@@ -1100,7 +1220,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:36:06",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204003,16.336544",
+        "alt": null
       },
       {
         "filename": "IMG_2151.jpg",
@@ -1118,7 +1240,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:36:57",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203336,16.337169",
+        "alt": null
       },
       {
         "filename": "IMG_2152.jpg",
@@ -1136,7 +1260,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:37:10",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203186,16.337078",
+        "alt": null
       },
       {
         "filename": "IMG_2154.jpg",
@@ -1154,7 +1280,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:38:14",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202367,16.337",
+        "alt": null
       },
       {
         "filename": "IMG_2155.jpg",
@@ -1172,7 +1300,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:39:26",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201675,16.336906",
+        "alt": null
       },
       {
         "filename": "IMG_2156.jpg",
@@ -1190,7 +1320,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:40:07",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201789,16.337164",
+        "alt": null
       },
       {
         "filename": "IMG_2157.jpg",
@@ -1208,7 +1340,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:40:16",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201836,16.337144",
+        "alt": null
       },
       {
         "filename": "IMG_2160.jpg",
@@ -1226,7 +1360,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:40:48",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201886,16.337122",
+        "alt": null
       },
       {
         "filename": "IMG_2161.jpg",
@@ -1244,7 +1380,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:40:59",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201878,16.337144",
+        "alt": null
       },
       {
         "filename": "IMG_2162.jpg",
@@ -1262,7 +1400,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:41:45",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202117,16.337203",
+        "alt": null
       },
       {
         "filename": "IMG_2163.jpg",
@@ -1280,7 +1420,9 @@ export const galleries = [
           "rawValue": "2025:05:03 13:41:49",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202117,16.337203",
+        "alt": null
       },
       {
         "filename": "IMG_2164.jpg",
@@ -1298,7 +1440,9 @@ export const galleries = [
           "rawValue": "2025:05:03 14:11:06",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174717,16.385819",
+        "alt": null
       },
       {
         "filename": "IMG_2207.jpg",
@@ -1316,7 +1460,9 @@ export const galleries = [
           "rawValue": "2025:05:03 19:44:08",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169633,16.416839",
+        "alt": null
       },
       {
         "filename": "IMG_2208.jpg",
@@ -1334,7 +1480,9 @@ export const galleries = [
           "rawValue": "2025:05:04 07:09:06",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168983,16.418758",
+        "alt": null
       },
       {
         "filename": "IMG_2254.jpg",
@@ -1352,7 +1500,9 @@ export const galleries = [
           "rawValue": "2025:05:05 09:37:38",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.208453,16.359864",
+        "alt": null
       },
       {
         "filename": "IMG_2259.jpg",
@@ -1370,7 +1520,9 @@ export const galleries = [
           "rawValue": "2025:05:05 09:40:03",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209703,16.359542",
+        "alt": null
       },
       {
         "filename": "IMG_2263.jpg",
@@ -1388,7 +1540,9 @@ export const galleries = [
           "rawValue": "2025:05:05 09:42:09",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.210139,16.358222",
+        "alt": null
       },
       {
         "filename": "IMG_2269.jpg",
@@ -1406,7 +1560,9 @@ export const galleries = [
           "rawValue": "2025:05:07 19:31:26",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172264,16.414536",
+        "alt": null
       },
       {
         "filename": "IMG_2272.jpg",
@@ -1424,7 +1580,9 @@ export const galleries = [
           "rawValue": "2025:05:10 13:24:28",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174494,16.410661",
+        "alt": null
       },
       {
         "filename": "IMG_2274.jpg",
@@ -1442,7 +1600,9 @@ export const galleries = [
           "rawValue": "2025:05:10 13:27:15",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174889,16.407264",
+        "alt": null
       },
       {
         "filename": "IMG_2276.jpg",
@@ -1460,7 +1620,9 @@ export const galleries = [
           "rawValue": "2025:05:10 14:33:48",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.254253,16.380364",
+        "alt": null
       },
       {
         "filename": "IMG_2278.jpg",
@@ -1478,7 +1640,9 @@ export const galleries = [
           "rawValue": "2025:05:10 14:37:47",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.252056,16.382144",
+        "alt": null
       },
       {
         "filename": "IMG_2284.jpg",
@@ -1496,7 +1660,9 @@ export const galleries = [
           "rawValue": "2025:05:10 17:10:45",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.243858,16.390128",
+        "alt": null
       },
       {
         "filename": "IMG_2287.jpg",
@@ -1514,7 +1680,9 @@ export const galleries = [
           "rawValue": "2025:05:10 17:17:29",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.242469,16.385989",
+        "alt": null
       },
       {
         "filename": "IMG_2290.jpg",
@@ -1532,7 +1700,9 @@ export const galleries = [
           "rawValue": "2025:05:10 17:25:18",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241558,16.384994",
+        "alt": null
       },
       {
         "filename": "IMG_2293.jpg",
@@ -1550,7 +1720,9 @@ export const galleries = [
           "rawValue": "2025:05:10 17:27:25",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241947,16.384497",
+        "alt": null
       },
       {
         "filename": "IMG_2296.jpg",
@@ -1568,7 +1740,9 @@ export const galleries = [
           "rawValue": "2025:05:10 18:03:19",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174267,16.41165",
+        "alt": null
       },
       {
         "filename": "IMG_2297.jpg",
@@ -1586,7 +1760,9 @@ export const galleries = [
           "rawValue": "2025:05:11 15:28:06",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169953,16.419403",
+        "alt": null
       },
       {
         "filename": "IMG_2305.jpg",
@@ -1604,7 +1780,9 @@ export const galleries = [
           "rawValue": "2025:05:14 08:35:40",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206794,16.382514",
+        "alt": null
       },
       {
         "filename": "IMG_2387.jpg",
@@ -1622,7 +1800,9 @@ export const galleries = [
           "rawValue": "2025:05:22 08:15:35",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202786,16.391031",
+        "alt": null
       },
       {
         "filename": "IMG_2413.jpg",
@@ -1640,7 +1820,9 @@ export const galleries = [
           "rawValue": "2025:05:25 18:06:57",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1548,16.4267",
+        "alt": null
       },
       {
         "filename": "IMG_2414.jpg",
@@ -1658,7 +1840,9 @@ export const galleries = [
           "rawValue": "2025:05:25 18:23:31",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.166492,16.413928",
+        "alt": null
       },
       {
         "filename": "IMG_2417.jpg",
@@ -1676,7 +1860,9 @@ export const galleries = [
           "rawValue": "2025:05:25 18:23:45",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.166722,16.413989",
+        "alt": null
       },
       {
         "filename": "IMG_2428.jpg",
@@ -1694,7 +1880,9 @@ export const galleries = [
           "rawValue": "2025:05:28 19:41:54",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204525,16.368617",
+        "alt": null
       },
       {
         "filename": "IMG_2430.jpg",
@@ -1712,7 +1900,9 @@ export const galleries = [
           "rawValue": "2025:05:29 08:47:21",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169839,16.420197",
+        "alt": null
       },
       {
         "filename": "IMG_2432.jpg",
@@ -1730,7 +1920,9 @@ export const galleries = [
           "rawValue": "2025:05:29 10:20:20",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158444,16.424008",
+        "alt": null
       },
       {
         "filename": "IMG_2434.jpg",
@@ -1748,7 +1940,9 @@ export const galleries = [
           "rawValue": "2025:05:29 10:23:55",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.154797,16.426722",
+        "alt": null
       },
       {
         "filename": "IMG_2438.jpg",
@@ -1766,7 +1960,9 @@ export const galleries = [
           "rawValue": "2025:05:29 10:48:57",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.160958,16.430558",
+        "alt": null
       },
       {
         "filename": "IMG_2453.jpg",
@@ -1784,7 +1980,9 @@ export const galleries = [
           "rawValue": "2025:06:01 08:33:11",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.160858,16.430958",
+        "alt": null
       },
       {
         "filename": "IMG_2454.jpg",
@@ -1802,7 +2000,9 @@ export const galleries = [
           "rawValue": "2025:06:01 08:38:19",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.162964,16.427539",
+        "alt": null
       },
       {
         "filename": "IMG_2458.jpg",
@@ -1820,7 +2020,9 @@ export const galleries = [
           "rawValue": "2025:06:01 14:27:56",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.189739,16.414456",
+        "alt": null
       },
       {
         "filename": "IMG_2459.jpg",
@@ -1838,7 +2040,9 @@ export const galleries = [
           "rawValue": "2025:06:01 14:28:00",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.189758,16.414442",
+        "alt": null
       },
       {
         "filename": "IMG_2460.jpg",
@@ -1856,7 +2060,9 @@ export const galleries = [
           "rawValue": "2025:06:01 14:28:01",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.189767,16.414433",
+        "alt": null
       },
       {
         "filename": "IMG_2464.jpg",
@@ -1874,7 +2080,9 @@ export const galleries = [
           "rawValue": "2025:06:01 15:40:51",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.186092,16.413206",
+        "alt": null
       },
       {
         "filename": "IMG_2466.jpg",
@@ -1892,7 +2100,9 @@ export const galleries = [
           "rawValue": "2025:06:02 08:38:55",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213772,16.362475",
+        "alt": null
       },
       {
         "filename": "IMG_2475.jpg",
@@ -1910,7 +2120,9 @@ export const galleries = [
           "rawValue": "2025:06:03 19:44:10",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1596,16.432486",
+        "alt": null
       },
       {
         "filename": "IMG_2506.jpg",
@@ -1928,7 +2140,9 @@ export const galleries = [
           "rawValue": "2025:06:05 19:40:07",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185756,16.375636",
+        "alt": null
       },
       {
         "filename": "IMG_2531.jpg",
@@ -1946,7 +2160,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:49:00",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206036,16.360564",
+        "alt": null
       },
       {
         "filename": "IMG_2549.jpg",
@@ -1964,7 +2180,9 @@ export const galleries = [
           "rawValue": "2025:06:07 15:27:29",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206025,16.360444",
+        "alt": null
       },
       {
         "filename": "IMG_2569.jpg",
@@ -1982,7 +2200,9 @@ export const galleries = [
           "rawValue": "2025:06:07 17:53:35",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207714,16.309044",
+        "alt": null
       },
       {
         "filename": "IMG_2576.jpg",
@@ -2000,7 +2220,9 @@ export const galleries = [
           "rawValue": "2025:06:07 22:14:47",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201831,16.308058",
+        "alt": null
       },
       {
         "filename": "IMG_2578.jpg",
@@ -2018,7 +2240,9 @@ export const galleries = [
           "rawValue": "2025:06:07 22:18:52",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.200256,16.311017",
+        "alt": null
       },
       {
         "filename": "IMG_2999.jpg",
@@ -2036,7 +2260,9 @@ export const galleries = [
           "rawValue": "2025:06:29 12:35:58",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1684,16.423244",
+        "alt": null
       },
       {
         "filename": "IMG_3091.jpg",
@@ -2054,7 +2280,9 @@ export const galleries = [
           "rawValue": "2025:07:07 10:17:24",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216647,16.356478",
+        "alt": null
       },
       {
         "filename": "IMG_3097.jpg",
@@ -2072,7 +2300,9 @@ export const galleries = [
           "rawValue": "2025:07:09 09:58:13",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216675,16.35685",
+        "alt": null
       }
     ],
     "timeframe": "7. Juni 2024 - 9. Juli 2025",
@@ -2100,7 +2330,9 @@ export const galleries = [
           "rawValue": "2024:08:23 22:36:37",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.134614,14.869656",
+        "alt": null
       },
       {
         "filename": "IMG_0484.jpg",
@@ -2118,7 +2350,9 @@ export const galleries = [
           "rawValue": "2024:08:24 11:13:06",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.133819,14.874467",
+        "alt": null
       },
       {
         "filename": "IMG_0487.jpg",
@@ -2136,7 +2370,9 @@ export const galleries = [
           "rawValue": "2024:08:24 11:34:44",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.133167,14.874389",
+        "alt": null
       },
       {
         "filename": "IMG_0514.jpg",
@@ -2154,7 +2390,9 @@ export const galleries = [
           "rawValue": "2024:08:26 07:15:28",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.134494,14.869739",
+        "alt": null
       }
     ],
     "timeframe": "23. August 2024 - 26. August 2024",
@@ -2182,7 +2420,9 @@ export const galleries = [
           "rawValue": "2025:05:01 10:56:55",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205731,16.361333",
+        "alt": null
       },
       {
         "filename": "IMG_1990.jpg",
@@ -2200,7 +2440,9 @@ export const galleries = [
           "rawValue": "2025:05:01 10:58:34",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206608,16.360297",
+        "alt": null
       },
       {
         "filename": "IMG_1991.jpg",
@@ -2218,7 +2460,9 @@ export const galleries = [
           "rawValue": "2025:05:01 10:58:55",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206844,16.360006",
+        "alt": null
       },
       {
         "filename": "IMG_1994.jpg",
@@ -2236,7 +2480,9 @@ export const galleries = [
           "rawValue": "2025:05:01 10:59:34",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207139,16.3597",
+        "alt": null
       },
       {
         "filename": "IMG_1999.jpg",
@@ -2254,7 +2500,9 @@ export const galleries = [
           "rawValue": "2025:05:01 11:00:34",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2075,16.359675",
+        "alt": null
       },
       {
         "filename": "IMG_2001.jpg",
@@ -2272,7 +2520,9 @@ export const galleries = [
           "rawValue": "2025:05:01 11:00:40",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207492,16.359689",
+        "alt": null
       },
       {
         "filename": "IMG_2002.jpg",
@@ -2290,7 +2540,9 @@ export const galleries = [
           "rawValue": "2025:05:01 11:00:59",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207672,16.359786",
+        "alt": null
       },
       {
         "filename": "IMG_2005.jpg",
@@ -2308,7 +2560,9 @@ export const galleries = [
           "rawValue": "2025:05:01 11:01:27",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207936,16.359811",
+        "alt": null
       },
       {
         "filename": "IMG_2008.jpg",
@@ -2326,7 +2580,9 @@ export const galleries = [
           "rawValue": "2025:05:01 11:01:48",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207958,16.359894",
+        "alt": null
       },
       {
         "filename": "IMG_2013.jpg",
@@ -2344,7 +2600,9 @@ export const galleries = [
           "rawValue": "2025:05:01 11:04:40",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209867,16.360381",
+        "alt": null
       },
       {
         "filename": "IMG_2015.jpg",
@@ -2362,7 +2620,9 @@ export const galleries = [
           "rawValue": "2025:05:01 11:06:09",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.210561,16.360014",
+        "alt": null
       },
       {
         "filename": "IMG_2025.jpg",
@@ -2380,7 +2640,9 @@ export const galleries = [
           "rawValue": "2025:05:01 11:22:18",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.210525,16.358989",
+        "alt": null
       },
       {
         "filename": "IMG_2028.jpg",
@@ -2398,7 +2660,9 @@ export const galleries = [
           "rawValue": "2025:05:01 11:51:01",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211181,16.358508",
+        "alt": null
       },
       {
         "filename": "IMG_2029.jpg",
@@ -2416,7 +2680,9 @@ export const galleries = [
           "rawValue": "2025:05:01 11:51:08",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211181,16.35855",
+        "alt": null
       },
       {
         "filename": "IMG_2031.jpg",
@@ -2434,7 +2700,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:29:32",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216286,16.397525",
+        "alt": null
       },
       {
         "filename": "IMG_2035.jpg",
@@ -2452,7 +2720,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:30:34",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216039,16.397747",
+        "alt": null
       },
       {
         "filename": "IMG_2041.jpg",
@@ -2470,7 +2740,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:31:06",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216175,16.398031",
+        "alt": null
       },
       {
         "filename": "IMG_2042.jpg",
@@ -2488,7 +2760,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:31:20",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216233,16.398181",
+        "alt": null
       },
       {
         "filename": "IMG_2043.jpg",
@@ -2506,7 +2780,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:31:35",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216133,16.398347",
+        "alt": null
       },
       {
         "filename": "IMG_2045.jpg",
@@ -2524,7 +2800,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:31:50",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216019,16.398375",
+        "alt": null
       },
       {
         "filename": "IMG_2050.jpg",
@@ -2542,7 +2820,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:32:23",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215764,16.398489",
+        "alt": null
       },
       {
         "filename": "IMG_2052.jpg",
@@ -2560,7 +2840,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:32:59",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215558,16.398789",
+        "alt": null
       },
       {
         "filename": "IMG_2054.jpg",
@@ -2578,7 +2860,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:33:41",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215286,16.399131",
+        "alt": null
       },
       {
         "filename": "IMG_2056.jpg",
@@ -2596,7 +2880,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:34:01",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215183,16.399372",
+        "alt": null
       },
       {
         "filename": "IMG_2057.jpg",
@@ -2614,7 +2900,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:34:18",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2151,16.399356",
+        "alt": null
       },
       {
         "filename": "IMG_2058.jpg",
@@ -2632,7 +2920,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:34:31",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215069,16.399456",
+        "alt": null
       },
       {
         "filename": "IMG_2060.jpg",
@@ -2650,7 +2940,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:34:53",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215039,16.399642",
+        "alt": null
       },
       {
         "filename": "IMG_2067.jpg",
@@ -2668,7 +2960,9 @@ export const galleries = [
           "rawValue": "2025:05:01 12:50:10",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213511,16.401242",
+        "alt": null
       },
       {
         "filename": "IMG_2070.jpg",
@@ -2686,7 +2980,9 @@ export const galleries = [
           "rawValue": "2025:05:01 17:33:59",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213733,16.398706",
+        "alt": null
       },
       {
         "filename": "IMG_2071.jpg",
@@ -2704,7 +3000,9 @@ export const galleries = [
           "rawValue": "2025:05:01 17:34:04",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213722,16.398669",
+        "alt": null
       },
       {
         "filename": "IMG_2073.jpg",
@@ -2722,7 +3020,9 @@ export const galleries = [
           "rawValue": "2025:05:01 17:35:44",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.214419,16.397739",
+        "alt": null
       },
       {
         "filename": "IMG_2078.jpg",
@@ -2740,7 +3040,9 @@ export const galleries = [
           "rawValue": "2025:05:01 17:38:43",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215917,16.396686",
+        "alt": null
       },
       {
         "filename": "IMG_2080.jpg",
@@ -2758,7 +3060,9 @@ export const galleries = [
           "rawValue": "2025:05:01 17:43:23",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216628,16.397244",
+        "alt": null
       },
       {
         "filename": "IMG_2081.jpg",
@@ -2776,7 +3080,9 @@ export const galleries = [
           "rawValue": "2025:05:01 17:46:00",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216861,16.396319",
+        "alt": null
       },
       {
         "filename": "IMG_2082.jpg",
@@ -2794,7 +3100,9 @@ export const galleries = [
           "rawValue": "2025:05:01 17:46:22",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217022,16.396231",
+        "alt": null
       },
       {
         "filename": "IMG_2085.jpg",
@@ -2812,7 +3120,9 @@ export const galleries = [
           "rawValue": "2025:05:01 17:47:19",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217328,16.395811",
+        "alt": null
       },
       {
         "filename": "IMG_2086.jpg",
@@ -2830,7 +3140,9 @@ export const galleries = [
           "rawValue": "2025:05:01 17:47:27",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217383,16.395767",
+        "alt": null
       },
       {
         "filename": "IMG_2087.jpg",
@@ -2848,7 +3160,9 @@ export const galleries = [
           "rawValue": "2025:05:01 17:58:02",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218267,16.391383",
+        "alt": null
       },
       {
         "filename": "IMG_2088.jpg",
@@ -2866,7 +3180,9 @@ export const galleries = [
           "rawValue": "2025:05:01 17:58:18",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218403,16.391525",
+        "alt": null
       },
       {
         "filename": "IMG_2090.jpg",
@@ -2884,7 +3200,9 @@ export const galleries = [
           "rawValue": "2025:05:01 18:04:40",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218922,16.391997",
+        "alt": null
       },
       {
         "filename": "IMG_2091.jpg",
@@ -2902,7 +3220,9 @@ export const galleries = [
           "rawValue": "2025:05:01 18:05:14",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218892,16.391956",
+        "alt": null
       },
       {
         "filename": "IMG_2093.jpg",
@@ -2920,7 +3240,9 @@ export const galleries = [
           "rawValue": "2025:05:01 18:36:11",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174572,16.410278",
+        "alt": null
       },
       {
         "filename": "IMG_2095.jpg",
@@ -2938,7 +3260,9 @@ export const galleries = [
           "rawValue": "2025:05:01 20:41:36",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169925,16.416558",
+        "alt": null
       }
     ],
     "timeframe": "1. Mai 2025",
@@ -2966,7 +3290,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:45:16",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204869,16.360233",
+        "alt": null
       },
       {
         "filename": "IMG_2521.jpg",
@@ -2984,7 +3310,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:46:11",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204903,16.360542",
+        "alt": null
       },
       {
         "filename": "IMG_2523.jpg",
@@ -3002,7 +3330,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:46:22",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2049,16.360639",
+        "alt": null
       },
       {
         "filename": "IMG_2524.jpg",
@@ -3020,7 +3350,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:46:36",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204964,16.360769",
+        "alt": null
       },
       {
         "filename": "IMG_2526.jpg",
@@ -3038,7 +3370,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:46:50",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204986,16.360767",
+        "alt": null
       },
       {
         "filename": "IMG_2532.jpg",
@@ -3056,7 +3390,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:49:17",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206031,16.360542",
+        "alt": null
       },
       {
         "filename": "IMG_2533.jpg",
@@ -3074,7 +3410,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:50:38",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205789,16.359275",
+        "alt": null
       },
       {
         "filename": "IMG_2535.jpg",
@@ -3092,7 +3430,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:50:56",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205719,16.359147",
+        "alt": null
       },
       {
         "filename": "IMG_2536.jpg",
@@ -3110,7 +3450,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:51:06",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205728,16.359125",
+        "alt": null
       },
       {
         "filename": "IMG_2538.jpg",
@@ -3128,7 +3470,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:52:14",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204953,16.358825",
+        "alt": null
       },
       {
         "filename": "IMG_2539.jpg",
@@ -3146,7 +3490,9 @@ export const galleries = [
           "rawValue": "2025:06:07 14:57:20",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204942,16.360272",
+        "alt": null
       },
       {
         "filename": "IMG_2542.jpg",
@@ -3164,7 +3510,9 @@ export const galleries = [
           "rawValue": "2025:06:07 15:10:24",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204956,16.360739",
+        "alt": null
       },
       {
         "filename": "IMG_2548.jpg",
@@ -3182,7 +3530,9 @@ export const galleries = [
           "rawValue": "2025:06:07 15:18:11",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205944,16.360539",
+        "alt": null
       },
       {
         "filename": "IMG_2554.jpg",
@@ -3200,7 +3550,9 @@ export const galleries = [
           "rawValue": "2025:06:07 15:29:51",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206006,16.360533",
+        "alt": null
       },
       {
         "filename": "IMG_2555.jpg",
@@ -3218,7 +3570,9 @@ export const galleries = [
           "rawValue": "2025:06:07 15:39:32",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205983,16.359889",
+        "alt": null
       },
       {
         "filename": "IMG_2563.jpg",
@@ -3236,7 +3590,9 @@ export const galleries = [
           "rawValue": "2025:06:07 16:02:24",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205406,16.359233",
+        "alt": null
       }
     ],
     "timeframe": "7. Juni 2025",
@@ -3264,7 +3620,9 @@ export const galleries = [
           "rawValue": "2024:04:11 20:01:38",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.193394,16.326389",
+        "alt": null
       },
       {
         "filename": "IMG_0110.jpg",
@@ -3282,7 +3640,9 @@ export const galleries = [
           "rawValue": "2024:04:19 17:49:32",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.225656,16.349564",
+        "alt": null
       },
       {
         "filename": "IMG_1866.jpg",
@@ -3300,7 +3660,9 @@ export const galleries = [
           "rawValue": "2025:04:20 11:28:57",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.180231,16.386892",
+        "alt": null
       },
       {
         "filename": "IMG_1921.jpg",
@@ -3318,7 +3680,9 @@ export const galleries = [
           "rawValue": "2025:04:21 15:06:17",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.214,16.361961",
+        "alt": null
       },
       {
         "filename": "IMG_1924.jpg",
@@ -3336,7 +3700,9 @@ export const galleries = [
           "rawValue": "2025:04:21 15:08:58",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.214081,16.361719",
+        "alt": null
       },
       {
         "filename": "IMG_1927.jpg",
@@ -3354,7 +3720,9 @@ export const galleries = [
           "rawValue": "2025:04:21 18:02:40",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231044,16.329044",
+        "alt": null
       },
       {
         "filename": "IMG_1930.jpg",
@@ -3372,7 +3740,9 @@ export const galleries = [
           "rawValue": "2025:04:21 18:04:21",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.230983,16.329208",
+        "alt": null
       },
       {
         "filename": "IMG_1937.jpg",
@@ -3390,7 +3760,9 @@ export const galleries = [
           "rawValue": "2025:04:21 18:30:35",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241447,16.384992",
+        "alt": null
       },
       {
         "filename": "IMG_1938.jpg",
@@ -3408,7 +3780,9 @@ export const galleries = [
           "rawValue": "2025:04:21 18:44:26",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217828,16.392806",
+        "alt": null
       },
       {
         "filename": "IMG_1947.jpg",
@@ -3426,7 +3800,9 @@ export const galleries = [
           "rawValue": "2025:04:23 07:20:37",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2011,16.374708",
+        "alt": null
       },
       {
         "filename": "IMG_2108.jpg",
@@ -3444,7 +3820,9 @@ export const galleries = [
           "rawValue": "2025:05:02 16:35:57",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170056,16.420075",
+        "alt": null
       },
       {
         "filename": "IMG_2130.jpg",
@@ -3462,7 +3840,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:41:31",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169936,16.420114",
+        "alt": null
       },
       {
         "filename": "IMG_2131.jpg",
@@ -3480,7 +3860,9 @@ export const galleries = [
           "rawValue": "2025:05:02 17:41:46",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169933,16.420058",
+        "alt": null
       },
       {
         "filename": "IMG_2209.jpg",
@@ -3498,7 +3880,9 @@ export const galleries = [
           "rawValue": "2025:05:04 15:35:58",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169681,16.416525",
+        "alt": null
       },
       {
         "filename": "IMG_2211.jpg",
@@ -3516,7 +3900,9 @@ export const galleries = [
           "rawValue": "2025:05:04 15:36:26",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170064,16.419656",
+        "alt": null
       },
       {
         "filename": "IMG_2212.jpg",
@@ -3534,7 +3920,9 @@ export const galleries = [
           "rawValue": "2025:05:04 15:36:51",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170064,16.419367",
+        "alt": null
       },
       {
         "filename": "IMG_2213.jpg",
@@ -3552,7 +3940,9 @@ export const galleries = [
           "rawValue": "2025:05:04 16:09:28",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185483,16.377133",
+        "alt": null
       },
       {
         "filename": "IMG_2214.jpg",
@@ -3570,7 +3960,9 @@ export const galleries = [
           "rawValue": "2025:05:04 16:14:04",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185244,16.379136",
+        "alt": null
       },
       {
         "filename": "IMG_2275.jpg",
@@ -3588,7 +3980,9 @@ export const galleries = [
           "rawValue": "2025:05:10 14:00:48",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.242431,16.385114",
+        "alt": null
       },
       {
         "filename": "IMG_2294.jpg",
@@ -3606,7 +4000,9 @@ export const galleries = [
           "rawValue": "2025:05:10 17:32:15",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241853,16.385094",
+        "alt": null
       },
       {
         "filename": "IMG_2299.jpg",
@@ -3624,7 +4020,9 @@ export const galleries = [
           "rawValue": "2025:05:11 15:49:31",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185639,16.377672",
+        "alt": null
       },
       {
         "filename": "IMG_2319.jpg",
@@ -3642,7 +4040,9 @@ export const galleries = [
           "rawValue": "2025:05:14 19:48:27",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198619,16.376922",
+        "alt": null
       },
       {
         "filename": "IMG_2324.jpg",
@@ -3660,7 +4060,9 @@ export const galleries = [
           "rawValue": "2025:05:16 11:53:03",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169972,16.419542",
+        "alt": null
       },
       {
         "filename": "IMG_2325.jpg",
@@ -3678,7 +4080,9 @@ export const galleries = [
           "rawValue": "2025:05:16 12:11:28",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185878,16.375197",
+        "alt": null
       },
       {
         "filename": "IMG_2326.jpg",
@@ -3696,7 +4100,9 @@ export const galleries = [
           "rawValue": "2025:05:16 12:11:30",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185858,16.375167",
+        "alt": null
       },
       {
         "filename": "IMG_2365.jpg",
@@ -3714,7 +4120,9 @@ export const galleries = [
           "rawValue": "2025:05:18 18:35:49",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.184964,16.376628",
+        "alt": null
       },
       {
         "filename": "IMG_2366.jpg",
@@ -3732,7 +4140,9 @@ export const galleries = [
           "rawValue": "2025:05:18 18:40:29",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.183956,16.376364",
+        "alt": null
       },
       {
         "filename": "IMG_2370.jpg",
@@ -3750,7 +4160,9 @@ export const galleries = [
           "rawValue": "2025:05:20 08:31:02",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203061,16.390975",
+        "alt": null
       },
       {
         "filename": "IMG_2374.jpg",
@@ -3768,7 +4180,9 @@ export const galleries = [
           "rawValue": "2025:05:20 17:00:21",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209511,16.360369",
+        "alt": null
       },
       {
         "filename": "IMG_2400.jpg",
@@ -3786,7 +4200,9 @@ export const galleries = [
           "rawValue": "2025:05:24 18:34:29",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1702,16.420436",
+        "alt": null
       },
       {
         "filename": "IMG_2408.jpg",
@@ -3804,7 +4220,9 @@ export const galleries = [
           "rawValue": "2025:05:25 11:40:44",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170239,16.420364",
+        "alt": null
       },
       {
         "filename": "IMG_2409.jpg",
@@ -3822,7 +4240,9 @@ export const galleries = [
           "rawValue": "2025:05:25 11:41:34",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170242,16.420217",
+        "alt": null
       },
       {
         "filename": "IMG_2429.jpg",
@@ -3840,7 +4260,9 @@ export const galleries = [
           "rawValue": "2025:05:28 21:45:52",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206589,16.360236",
+        "alt": null
       },
       {
         "filename": "IMG_2447.jpg",
@@ -3858,7 +4280,9 @@ export const galleries = [
           "rawValue": "2025:06:01 08:03:26",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.154747,16.42505",
+        "alt": null
       },
       {
         "filename": "IMG_2455.jpg",
@@ -3876,7 +4300,9 @@ export const galleries = [
           "rawValue": "2025:06:01 08:43:17",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.166503,16.424153",
+        "alt": null
       },
       {
         "filename": "IMG_2456.jpg",
@@ -3894,7 +4320,9 @@ export const galleries = [
           "rawValue": "2025:06:01 14:17:46",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170203,16.42005",
+        "alt": null
       },
       {
         "filename": "IMG_2465.jpg",
@@ -3912,7 +4340,9 @@ export const galleries = [
           "rawValue": "2025:06:01 15:48:24",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185486,16.417503",
+        "alt": null
       }
     ],
     "timeframe": "11. April 2024 - 1. Juni 2025",
@@ -3940,7 +4370,9 @@ export const galleries = [
           "rawValue": "2025:06:10 14:28:09",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590442,15.336358",
+        "alt": null
       },
       {
         "filename": "IMG_2624.jpg",
@@ -3958,7 +4390,9 @@ export const galleries = [
           "rawValue": "2025:06:10 19:42:18",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590892,15.336075",
+        "alt": null
       },
       {
         "filename": "IMG_2625.jpg",
@@ -3976,7 +4410,9 @@ export const galleries = [
           "rawValue": "2025:06:10 20:22:34",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.59065,15.336872",
+        "alt": null
       },
       {
         "filename": "IMG_2626.jpg",
@@ -3994,7 +4430,9 @@ export const galleries = [
           "rawValue": "2025:06:10 20:28:25",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590606,15.336908",
+        "alt": null
       },
       {
         "filename": "IMG_2628.jpg",
@@ -4012,7 +4450,9 @@ export const galleries = [
           "rawValue": "2025:06:10 20:28:32",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590603,15.336911",
+        "alt": null
       }
     ],
     "timeframe": "10. Juni 2025",
@@ -4040,7 +4480,9 @@ export const galleries = [
           "rawValue": "2024:04:13 17:26:34",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.187439,16.317444",
+        "alt": null
       },
       {
         "filename": "IMG_1829.jpg",
@@ -4058,7 +4500,9 @@ export const galleries = [
           "rawValue": "2025:04:18 12:10:17",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181611,16.413031",
+        "alt": null
       },
       {
         "filename": "IMG_1926.jpg",
@@ -4076,7 +4520,9 @@ export const galleries = [
           "rawValue": "2025:04:21 17:44:09",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.235967,16.336186",
+        "alt": null
       },
       {
         "filename": "IMG_2197.jpg",
@@ -4094,7 +4540,9 @@ export const galleries = [
           "rawValue": "2025:05:03 14:47:16",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172086,16.410622",
+        "alt": null
       },
       {
         "filename": "IMG_2198.jpg",
@@ -4112,7 +4560,9 @@ export const galleries = [
           "rawValue": "2025:05:03 14:47:25",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172078,16.410625",
+        "alt": null
       },
       {
         "filename": "IMG_2199.jpg",
@@ -4130,7 +4580,9 @@ export const galleries = [
           "rawValue": "2025:05:03 14:47:48",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.171803,16.410644",
+        "alt": null
       },
       {
         "filename": "IMG_2279.jpg",
@@ -4148,7 +4600,9 @@ export const galleries = [
           "rawValue": "2025:05:10 16:32:47",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.246186,16.3886",
+        "alt": null
       },
       {
         "filename": "IMG_2281.jpg",
@@ -4166,7 +4620,9 @@ export const galleries = [
           "rawValue": "2025:05:10 17:06:41",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.245297,16.388775",
+        "alt": null
       },
       {
         "filename": "IMG_2282.jpg",
@@ -4184,7 +4640,9 @@ export const galleries = [
           "rawValue": "2025:05:10 17:08:39",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.244561,16.390017",
+        "alt": null
       },
       {
         "filename": "IMG_3099.jpg",
@@ -4202,7 +4660,9 @@ export const galleries = [
           "rawValue": "2025:07:09 16:13:15",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215978,16.358497",
+        "alt": null
       }
     ],
     "timeframe": "13. April 2024 - 9. Juli 2025",
@@ -4230,25 +4690,9 @@ export const galleries = [
           "rawValue": "2025:03:29 09:11:17",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1410_2.jpg",
-        "latitude": 47.791,
-        "longitude": 12.997536,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 3,
-          "day": 29,
-          "hour": 9,
-          "minute": 16,
-          "second": 55,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:03:29 09:16:55",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.791783,12.996853",
+        "alt": null
       },
       {
         "filename": "IMG_1410.jpg",
@@ -4266,25 +4710,9 @@ export const galleries = [
           "rawValue": "2025:03:29 09:16:55",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1416_2.jpg",
-        "latitude": null,
-        "longitude": null,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 3,
-          "day": 29,
-          "hour": 16,
-          "minute": 16,
-          "second": 45,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:03:29 16:16:45",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.791,12.997536",
+        "alt": null
       },
       {
         "filename": "IMG_1416.jpg",
@@ -4302,43 +4730,9 @@ export const galleries = [
           "rawValue": "2025:03:29 16:16:45",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1417_2.jpg",
-        "latitude": null,
-        "longitude": null,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 3,
-          "day": 29,
-          "hour": 16,
-          "minute": 48,
-          "second": 15,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:03:29 16:48:15",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1418_2.jpg",
-        "latitude": 41.150781,
-        "longitude": -8.610925,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 3,
-          "day": 29,
-          "hour": 16,
-          "minute": 38,
-          "second": 0,
-          "tzoffsetMinutes": 0,
-          "rawValue": "2025:03:29 16:38:00",
-          "zoneName": "Europe/Lisbon",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": null,
+        "alt": null
       },
       {
         "filename": "IMG_1418.jpg",
@@ -4356,7 +4750,9 @@ export const galleries = [
           "rawValue": "2025:03:29 16:38:00",
           "zoneName": "Europe/Lisbon",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.150781,-8.610925",
+        "alt": null
       },
       {
         "filename": "IMG_1421_2.jpg",
@@ -4374,7 +4770,9 @@ export const galleries = [
           "rawValue": "2025:03:29 17:16:56",
           "zoneName": "Europe/Lisbon",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.149792,-8.612272",
+        "alt": null
       },
       {
         "filename": "IMG_1422_2.jpg",
@@ -4392,25 +4790,9 @@ export const galleries = [
           "rawValue": "2025:03:29 17:38:46",
           "zoneName": "Europe/Lisbon",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1424_2.jpg",
-        "latitude": 41.147258,
-        "longitude": -8.611131,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 3,
-          "day": 29,
-          "hour": 18,
-          "minute": 13,
-          "second": 7,
-          "tzoffsetMinutes": 0,
-          "rawValue": "2025:03:29 18:13:07",
-          "zoneName": "Europe/Lisbon",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.150239,-8.610989",
+        "alt": null
       },
       {
         "filename": "IMG_1424.jpg",
@@ -4428,25 +4810,9 @@ export const galleries = [
           "rawValue": "2025:03:29 18:13:07",
           "zoneName": "Europe/Lisbon",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1427_2.jpg",
-        "latitude": 41.145006,
-        "longitude": -8.616325,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 3,
-          "day": 29,
-          "hour": 21,
-          "minute": 52,
-          "second": 11,
-          "tzoffsetMinutes": 0,
-          "rawValue": "2025:03:29 21:52:11",
-          "zoneName": "Europe/Lisbon",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.147258,-8.611131",
+        "alt": null
       },
       {
         "filename": "IMG_1427.jpg",
@@ -4464,7 +4830,9 @@ export const galleries = [
           "rawValue": "2025:03:29 21:52:11",
           "zoneName": "Europe/Lisbon",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145006,-8.616325",
+        "alt": null
       },
       {
         "filename": "IMG_1428_2.jpg",
@@ -4482,7 +4850,9 @@ export const galleries = [
           "rawValue": "2025:03:30 07:53:29",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.149897,-8.612544",
+        "alt": null
       },
       {
         "filename": "IMG_1429_2.jpg",
@@ -4500,7 +4870,9 @@ export const galleries = [
           "rawValue": "2025:03:30 10:13:47",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.146733,-8.611031",
+        "alt": null
       },
       {
         "filename": "IMG_1430_2.jpg",
@@ -4518,7 +4890,9 @@ export const galleries = [
           "rawValue": "2025:03:30 10:25:34",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145447,-8.611025",
+        "alt": null
       },
       {
         "filename": "IMG_1432_2.jpg",
@@ -4536,7 +4910,9 @@ export const galleries = [
           "rawValue": "2025:03:30 10:45:33",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145125,-8.610692",
+        "alt": null
       },
       {
         "filename": "IMG_1433_2.jpg",
@@ -4554,7 +4930,9 @@ export const galleries = [
           "rawValue": "2025:03:30 10:46:56",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145497,-8.610367",
+        "alt": null
       },
       {
         "filename": "IMG_1442_2.jpg",
@@ -4572,25 +4950,9 @@ export const galleries = [
           "rawValue": "2025:03:30 11:56:34",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1447_2.jpg",
-        "latitude": 41.142589,
-        "longitude": -8.611961,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 3,
-          "day": 30,
-          "hour": 12,
-          "minute": 37,
-          "second": 36,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:03:30 12:37:36",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.142964,-8.611731",
+        "alt": null
       },
       {
         "filename": "IMG_1447.jpg",
@@ -4608,7 +4970,9 @@ export const galleries = [
           "rawValue": "2025:03:30 12:37:36",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.142589,-8.611961",
+        "alt": null
       },
       {
         "filename": "IMG_1448_2.jpg",
@@ -4626,7 +4990,9 @@ export const galleries = [
           "rawValue": "2025:03:30 12:49:35",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.140975,-8.611122",
+        "alt": null
       },
       {
         "filename": "IMG_1452_2.jpg",
@@ -4644,7 +5010,9 @@ export const galleries = [
           "rawValue": "2025:03:30 12:57:04",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.140236,-8.611989",
+        "alt": null
       },
       {
         "filename": "IMG_1485_2.jpg",
@@ -4662,7 +5030,9 @@ export const galleries = [
           "rawValue": "2025:03:30 15:12:58",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.139678,-8.614517",
+        "alt": null
       },
       {
         "filename": "IMG_1485.jpg",
@@ -4680,7 +5050,9 @@ export const galleries = [
           "rawValue": "2025:03:30 15:12:58",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.139678,-8.614517",
+        "alt": null
       },
       {
         "filename": "IMG_1489_2.jpg",
@@ -4698,7 +5070,9 @@ export const galleries = [
           "rawValue": "2025:03:30 15:36:46",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.138839,-8.60995",
+        "alt": null
       },
       {
         "filename": "IMG_1493_2.jpg",
@@ -4716,7 +5090,9 @@ export const galleries = [
           "rawValue": "2025:03:30 19:09:21",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.146897,-8.615392",
+        "alt": null
       },
       {
         "filename": "IMG_1494_2.jpg",
@@ -4734,25 +5110,9 @@ export const galleries = [
           "rawValue": "2025:03:30 19:09:23",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1499_2.jpg",
-        "latitude": 41.147042,
-        "longitude": -8.615519,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 3,
-          "day": 30,
-          "hour": 19,
-          "minute": 17,
-          "second": 28,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:03:30 19:17:28",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.1469,-8.615383",
+        "alt": null
       },
       {
         "filename": "IMG_1499.jpg",
@@ -4770,7 +5130,9 @@ export const galleries = [
           "rawValue": "2025:03:30 19:17:28",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.147042,-8.615519",
+        "alt": null
       },
       {
         "filename": "IMG_1501_2.jpg",
@@ -4788,7 +5150,9 @@ export const galleries = [
           "rawValue": "2025:03:30 19:39:51",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.144675,-8.612403",
+        "alt": null
       },
       {
         "filename": "IMG_1501.jpg",
@@ -4806,7 +5170,9 @@ export const galleries = [
           "rawValue": "2025:03:30 19:39:51",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.144675,-8.612403",
+        "alt": null
       },
       {
         "filename": "IMG_1507_2.jpg",
@@ -4824,7 +5190,9 @@ export const galleries = [
           "rawValue": "2025:03:30 22:35:00",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.15285,-8.612036",
+        "alt": null
       },
       {
         "filename": "IMG_1507.jpg",
@@ -4842,7 +5210,9 @@ export const galleries = [
           "rawValue": "2025:03:30 22:35:00",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.15285,-8.612036",
+        "alt": null
       },
       {
         "filename": "IMG_1511_2.jpg",
@@ -4860,7 +5230,9 @@ export const galleries = [
           "rawValue": "2025:03:31 14:09:53",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.158731,-8.630008",
+        "alt": null
       },
       {
         "filename": "IMG_1511.jpg",
@@ -4878,25 +5250,9 @@ export const galleries = [
           "rawValue": "2025:03:31 14:09:53",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1512_2.jpg",
-        "latitude": 41.158439,
-        "longitude": -8.630994,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 3,
-          "day": 31,
-          "hour": 14,
-          "minute": 13,
-          "second": 38,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:03:31 14:13:38",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.158731,-8.630008",
+        "alt": null
       },
       {
         "filename": "IMG_1512.jpg",
@@ -4914,25 +5270,9 @@ export const galleries = [
           "rawValue": "2025:03:31 14:13:38",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1514_2.jpg",
-        "latitude": 41.158486,
-        "longitude": -8.631186,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 3,
-          "day": 31,
-          "hour": 14,
-          "minute": 14,
-          "second": 8,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:03:31 14:14:08",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.158439,-8.630994",
+        "alt": null
       },
       {
         "filename": "IMG_1514.jpg",
@@ -4950,7 +5290,9 @@ export const galleries = [
           "rawValue": "2025:03:31 14:14:08",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.158486,-8.631186",
+        "alt": null
       },
       {
         "filename": "IMG_1516_2.jpg",
@@ -4968,7 +5310,9 @@ export const galleries = [
           "rawValue": "2025:03:31 14:14:33",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.1585,-8.63095",
+        "alt": null
       },
       {
         "filename": "IMG_1541_2.jpg",
@@ -4986,7 +5330,9 @@ export const galleries = [
           "rawValue": "2025:03:31 22:18:09",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.1446,-8.617233",
+        "alt": null
       },
       {
         "filename": "IMG_1547_2.jpg",
@@ -5004,7 +5350,9 @@ export const galleries = [
           "rawValue": "2025:03:31 22:21:36",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145639,-8.614683",
+        "alt": null
       },
       {
         "filename": "IMG_1551_2.jpg",
@@ -5022,7 +5370,9 @@ export const galleries = [
           "rawValue": "2025:03:31 22:22:17",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145661,-8.614147",
+        "alt": null
       },
       {
         "filename": "IMG_1583_2.jpg",
@@ -5040,7 +5390,9 @@ export const galleries = [
           "rawValue": "2025:04:01 12:45:07",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.067256,-8.657744",
+        "alt": null
       },
       {
         "filename": "IMG_1593_2.jpg",
@@ -5058,7 +5410,9 @@ export const galleries = [
           "rawValue": "2025:04:01 13:05:31",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.064475,-8.657561",
+        "alt": null
       },
       {
         "filename": "IMG_1604_2.jpg",
@@ -5076,7 +5430,9 @@ export const galleries = [
           "rawValue": "2025:04:01 13:25:14",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.0652,-8.656564",
+        "alt": null
       },
       {
         "filename": "IMG_1613_2.jpg",
@@ -5094,7 +5450,9 @@ export const galleries = [
           "rawValue": "2025:04:01 13:33:42",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.068703,-8.656689",
+        "alt": null
       },
       {
         "filename": "IMG_1615_2.jpg",
@@ -5112,7 +5470,9 @@ export const galleries = [
           "rawValue": "2025:04:01 13:45:03",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.069214,-8.656706",
+        "alt": null
       },
       {
         "filename": "IMG_1616_2.jpg",
@@ -5130,7 +5490,9 @@ export const galleries = [
           "rawValue": "2025:04:01 14:40:08",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.085053,-8.6564",
+        "alt": null
       },
       {
         "filename": "IMG_1620_2.jpg",
@@ -5148,7 +5510,9 @@ export const galleries = [
           "rawValue": "2025:04:01 22:23:14",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.1431,-8.61565",
+        "alt": null
       },
       {
         "filename": "IMG_1621_2.jpg",
@@ -5166,7 +5530,9 @@ export const galleries = [
           "rawValue": "2025:04:01 23:04:40",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.144489,-8.618378",
+        "alt": null
       },
       {
         "filename": "IMG_1638_2.jpg",
@@ -5184,7 +5550,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:26:54",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145231,-8.611053",
+        "alt": null
       },
       {
         "filename": "IMG_1639_2.jpg",
@@ -5202,25 +5570,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:27:32",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1642_2.jpg",
-        "latitude": 41.145467,
-        "longitude": -8.610458,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 4,
-          "day": 2,
-          "hour": 11,
-          "minute": 32,
-          "second": 51,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:04:02 11:32:51",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145217,-8.611039",
+        "alt": null
       },
       {
         "filename": "IMG_1642.jpg",
@@ -5238,25 +5590,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:32:51",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1646_2.jpg",
-        "latitude": 41.145458,
-        "longitude": -8.610133,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 4,
-          "day": 2,
-          "hour": 11,
-          "minute": 33,
-          "second": 28,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:04:02 11:33:28",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145467,-8.610458",
+        "alt": null
       },
       {
         "filename": "IMG_1646.jpg",
@@ -5274,7 +5610,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:33:28",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145458,-8.610133",
+        "alt": null
       },
       {
         "filename": "IMG_1648.jpg",
@@ -5292,25 +5630,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:34:01",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1652_2.jpg",
-        "latitude": 41.145533,
-        "longitude": -8.610381,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 4,
-          "day": 2,
-          "hour": 11,
-          "minute": 36,
-          "second": 1,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:04:02 11:36:01",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145631,-8.610269",
+        "alt": null
       },
       {
         "filename": "IMG_1652.jpg",
@@ -5328,7 +5650,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:36:01",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145533,-8.610381",
+        "alt": null
       },
       {
         "filename": "IMG_1653.jpg",
@@ -5346,25 +5670,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:36:17",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1655_2.jpg",
-        "latitude": 41.145489,
-        "longitude": -8.6106,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 4,
-          "day": 2,
-          "hour": 11,
-          "minute": 36,
-          "second": 48,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:04:02 11:36:48",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145539,-8.610378",
+        "alt": null
       },
       {
         "filename": "IMG_1655.jpg",
@@ -5382,25 +5690,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:36:48",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
-      },
-      {
-        "filename": "IMG_1660_2.jpg",
-        "latitude": 41.14355,
-        "longitude": -8.611039,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 4,
-          "day": 2,
-          "hour": 11,
-          "minute": 43,
-          "second": 16,
-          "tzoffsetMinutes": 60,
-          "rawValue": "2025:04:02 11:43:16",
-          "zoneName": "UTC+1",
-          "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145489,-8.6106",
+        "alt": null
       },
       {
         "filename": "IMG_1660.jpg",
@@ -5418,7 +5710,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:43:16",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.14355,-8.611039",
+        "alt": null
       },
       {
         "filename": "IMG_1661.jpg",
@@ -5436,7 +5730,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:44:01",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143322,-8.611089",
+        "alt": null
       },
       {
         "filename": "IMG_1665.jpg",
@@ -5454,7 +5750,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:45:13",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143153,-8.611278",
+        "alt": null
       },
       {
         "filename": "IMG_1668.jpg",
@@ -5472,7 +5770,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:45:47",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143178,-8.611281",
+        "alt": null
       },
       {
         "filename": "IMG_1669.jpg",
@@ -5490,7 +5790,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:46:11",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143117,-8.611461",
+        "alt": null
       },
       {
         "filename": "IMG_1671.jpg",
@@ -5508,7 +5810,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:46:24",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143119,-8.611456",
+        "alt": null
       },
       {
         "filename": "IMG_1673.jpg",
@@ -5526,7 +5830,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:48:03",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.142406,-8.612067",
+        "alt": null
       },
       {
         "filename": "IMG_1678.jpg",
@@ -5544,7 +5850,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:50:56",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.14225,-8.611997",
+        "alt": null
       },
       {
         "filename": "IMG_1680.jpg",
@@ -5562,7 +5870,9 @@ export const galleries = [
           "rawValue": "2025:04:02 11:53:39",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143172,-8.611656",
+        "alt": null
       },
       {
         "filename": "IMG_1686.jpg",
@@ -5580,7 +5890,9 @@ export const galleries = [
           "rawValue": "2025:04:02 13:20:27",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145175,-8.610939",
+        "alt": null
       },
       {
         "filename": "IMG_1689.jpg",
@@ -5598,7 +5910,9 @@ export const galleries = [
           "rawValue": "2025:04:02 13:28:19",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.152139,-8.609864",
+        "alt": null
       },
       {
         "filename": "IMG_1690.jpg",
@@ -5616,7 +5930,9 @@ export const galleries = [
           "rawValue": "2025:04:02 13:31:13",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.151147,-8.608889",
+        "alt": null
       },
       {
         "filename": "IMG_1693.jpg",
@@ -5634,7 +5950,9 @@ export const galleries = [
           "rawValue": "2025:04:02 13:45:47",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.152272,-8.609019",
+        "alt": null
       },
       {
         "filename": "IMG_1696.jpg",
@@ -5652,7 +5970,9 @@ export const galleries = [
           "rawValue": "2025:04:02 14:21:25",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.237064,-8.670583",
+        "alt": null
       },
       {
         "filename": "IMG_1699.jpg",
@@ -5670,7 +5990,9 @@ export const galleries = [
           "rawValue": "2025:04:02 14:31:31",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.236808,-8.670061",
+        "alt": null
       },
       {
         "filename": "IMG_1701.jpg",
@@ -5688,11 +6010,13 @@ export const galleries = [
           "rawValue": "2025:04:02 15:10:16",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.237369,-8.670303",
+        "alt": null
       }
     ],
     "timeframe": "29. März 2025 - 2. April 2025",
-    "imageCount": 82
+    "imageCount": 67
   },
   {
     "name": "pride",
@@ -5716,7 +6040,9 @@ export const galleries = [
           "rawValue": "2025:06:14 14:37:15",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205611,16.361461",
+        "alt": null
       },
       {
         "filename": "IMG_2713.jpg",
@@ -5734,7 +6060,9 @@ export const galleries = [
           "rawValue": "2025:06:14 14:46:18",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203475,16.364478",
+        "alt": null
       },
       {
         "filename": "IMG_2718.jpg",
@@ -5752,7 +6080,9 @@ export const galleries = [
           "rawValue": "2025:06:14 15:25:41",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201881,16.374986",
+        "alt": null
       },
       {
         "filename": "IMG_2720.jpg",
@@ -5770,7 +6100,9 @@ export const galleries = [
           "rawValue": "2025:06:14 15:27:33",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202019,16.375325",
+        "alt": null
       },
       {
         "filename": "IMG_2726.jpg",
@@ -5788,7 +6120,9 @@ export const galleries = [
           "rawValue": "2025:06:14 15:29:05",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2024,16.375597",
+        "alt": null
       },
       {
         "filename": "IMG_2730.jpg",
@@ -5806,7 +6140,9 @@ export const galleries = [
           "rawValue": "2025:06:14 15:35:35",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202825,16.376075",
+        "alt": null
       },
       {
         "filename": "IMG_2739.jpg",
@@ -5824,7 +6160,9 @@ export const galleries = [
           "rawValue": "2025:06:14 15:50:11",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204486,16.377731",
+        "alt": null
       },
       {
         "filename": "IMG_2747.jpg",
@@ -5842,7 +6180,9 @@ export const galleries = [
           "rawValue": "2025:06:14 15:52:49",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205414,16.378797",
+        "alt": null
       },
       {
         "filename": "IMG_2748.jpg",
@@ -5860,7 +6200,9 @@ export const galleries = [
           "rawValue": "2025:06:14 15:59:02",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206589,16.380058",
+        "alt": null
       }
     ],
     "timeframe": "14. Juni 2025",
@@ -5888,7 +6230,9 @@ export const galleries = [
           "rawValue": "2025:05:17 19:19:35",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.816656,13.025656",
+        "alt": null
       },
       {
         "filename": "IMG_2336.jpg",
@@ -5906,7 +6250,9 @@ export const galleries = [
           "rawValue": "2025:05:17 19:49:45",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.817222,13.026694",
+        "alt": null
       },
       {
         "filename": "IMG_2337.jpg",
@@ -5924,7 +6270,9 @@ export const galleries = [
           "rawValue": "2025:05:17 19:50:03",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.817139,13.026803",
+        "alt": null
       },
       {
         "filename": "IMG_2340.jpg",
@@ -5942,7 +6290,9 @@ export const galleries = [
           "rawValue": "2025:05:17 19:55:46",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.815144,13.030261",
+        "alt": null
       },
       {
         "filename": "IMG_2343.jpg",
@@ -5960,7 +6310,9 @@ export const galleries = [
           "rawValue": "2025:05:17 19:57:38",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.814,13.031281",
+        "alt": null
       },
       {
         "filename": "IMG_2344.jpg",
@@ -5978,7 +6330,9 @@ export const galleries = [
           "rawValue": "2025:05:17 20:15:51",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.811672,13.025536",
+        "alt": null
       },
       {
         "filename": "IMG_2345.jpg",
@@ -5996,7 +6350,9 @@ export const galleries = [
           "rawValue": "2025:05:17 20:16:05",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.811536,13.025539",
+        "alt": null
       },
       {
         "filename": "IMG_2346.jpg",
@@ -6014,7 +6370,9 @@ export const galleries = [
           "rawValue": "2025:05:17 20:16:17",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.811531,13.025461",
+        "alt": null
       },
       {
         "filename": "IMG_2348.jpg",
@@ -6032,7 +6390,9 @@ export const galleries = [
           "rawValue": "2025:05:17 20:21:47",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.814172,13.026403",
+        "alt": null
       },
       {
         "filename": "IMG_2349.jpg",
@@ -6050,7 +6410,9 @@ export const galleries = [
           "rawValue": "2025:05:17 20:22:22",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.814367,13.026233",
+        "alt": null
       },
       {
         "filename": "IMG_2351.jpg",
@@ -6068,7 +6430,9 @@ export const galleries = [
           "rawValue": "2025:05:17 20:23:41",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.815106,13.025831",
+        "alt": null
       },
       {
         "filename": "IMG_2352.jpg",
@@ -6086,7 +6450,9 @@ export const galleries = [
           "rawValue": "2025:05:17 20:24:12",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.8154,13.025222",
+        "alt": null
       },
       {
         "filename": "IMG_2357.jpg",
@@ -6104,7 +6470,9 @@ export const galleries = [
           "rawValue": "2025:05:18 10:11:26",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.813147,13.026411",
+        "alt": null
       },
       {
         "filename": "IMG_2359.jpg",
@@ -6122,7 +6490,9 @@ export const galleries = [
           "rawValue": "2025:05:18 11:32:51",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.813194,13.044628",
+        "alt": null
       },
       {
         "filename": "IMG_2361.jpg",
@@ -6140,7 +6510,9 @@ export const galleries = [
           "rawValue": "2025:05:18 12:35:54",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.794317,13.024908",
+        "alt": null
       },
       {
         "filename": "IMG_2362.jpg",
@@ -6158,7 +6530,9 @@ export const galleries = [
           "rawValue": "2025:05:18 13:49:32",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.796172,13.025944",
+        "alt": null
       }
     ],
     "timeframe": "17. Mai 2025 - 18. Mai 2025",
@@ -6186,7 +6560,9 @@ export const galleries = [
           "rawValue": "2024:04:11 19:25:26",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185794,16.319944",
+        "alt": null
       },
       {
         "filename": "IMG_0220.jpg",
@@ -6204,7 +6580,9 @@ export const galleries = [
           "rawValue": "2024:02:18 09:09:11",
           "zoneName": "UTC+1",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=49.013631,13.901269",
+        "alt": null
       },
       {
         "filename": "IMG_0265.jpg",
@@ -6222,7 +6600,9 @@ export const galleries = [
           "rawValue": "2024:07:12 21:40:39",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.860578,15.211486",
+        "alt": null
       },
       {
         "filename": "IMG_0268.jpg",
@@ -6240,7 +6620,9 @@ export const galleries = [
           "rawValue": "2024:07:12 22:05:47",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.861561,15.213328",
+        "alt": null
       },
       {
         "filename": "IMG_0285.jpg",
@@ -6258,7 +6640,9 @@ export const galleries = [
           "rawValue": "2024:07:14 08:59:38",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.859294,15.217844",
+        "alt": null
       },
       {
         "filename": "IMG_2327.jpg",
@@ -6276,7 +6660,9 @@ export const galleries = [
           "rawValue": "2025:05:16 19:00:56",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158839,12.833075",
+        "alt": null
       },
       {
         "filename": "IMG_2328.jpg",
@@ -6294,7 +6680,9 @@ export const galleries = [
           "rawValue": "2025:05:16 19:48:20",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158589,12.832308",
+        "alt": null
       },
       {
         "filename": "IMG_3.jpg",
@@ -6312,12 +6700,16 @@ export const galleries = [
           "rawValue": "2025:05:11 19:54:05",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169742,16.416686",
+        "alt": null
       },
       {
         "filename": "IMG_4.jpg",
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "googleMapsUrl": null,
+        "alt": null
       }
     ],
     "timeframe": "18. Februar 2024 - 16. Mai 2025",
@@ -6345,7 +6737,9 @@ export const galleries = [
           "rawValue": "2025:06:27 20:20:20",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.811347,15.290106",
+        "alt": null
       },
       {
         "filename": "IMG_2935.jpg",
@@ -6363,7 +6757,9 @@ export const galleries = [
           "rawValue": "2025:06:27 20:22:07",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.811478,15.290239",
+        "alt": null
       },
       {
         "filename": "IMG_2937.jpg",
@@ -6381,7 +6777,9 @@ export const galleries = [
           "rawValue": "2025:06:27 20:22:32",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.811428,15.290214",
+        "alt": null
       },
       {
         "filename": "IMG_2945.jpg",
@@ -6399,7 +6797,9 @@ export const galleries = [
           "rawValue": "2025:06:27 21:37:13",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.810967,15.289403",
+        "alt": null
       },
       {
         "filename": "IMG_2978.jpg",
@@ -6417,7 +6817,9 @@ export const galleries = [
           "rawValue": "2025:06:28 09:56:47",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.812633,15.28045",
+        "alt": null
       },
       {
         "filename": "IMG_2979.jpg",
@@ -6435,7 +6837,9 @@ export const galleries = [
           "rawValue": "2025:06:28 10:07:17",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.814175,15.285006",
+        "alt": null
       },
       {
         "filename": "IMG_2986.jpg",
@@ -6453,7 +6857,9 @@ export const galleries = [
           "rawValue": "2025:06:28 20:19:19",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.811233,15.289903",
+        "alt": null
       }
     ],
     "timeframe": "27. Juni 2025 - 28. Juni 2025",
@@ -6481,7 +6887,9 @@ export const galleries = [
           "rawValue": "2025:05:14 16:14:08",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199192,16.372353",
+        "alt": null
       },
       {
         "filename": "IMG_2311.jpg",
@@ -6499,7 +6907,9 @@ export const galleries = [
           "rawValue": "2025:05:14 17:05:40",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199169,16.372769",
+        "alt": null
       },
       {
         "filename": "IMG_2313.jpg",
@@ -6517,7 +6927,9 @@ export const galleries = [
           "rawValue": "2025:05:14 17:07:25",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199092,16.372906",
+        "alt": null
       },
       {
         "filename": "IMG_2314.jpg",
@@ -6535,7 +6947,9 @@ export const galleries = [
           "rawValue": "2025:05:14 17:27:21",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199367,16.372703",
+        "alt": null
       },
       {
         "filename": "IMG_2315.jpg",
@@ -6553,7 +6967,9 @@ export const galleries = [
           "rawValue": "2025:05:14 17:28:03",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199161,16.372772",
+        "alt": null
       },
       {
         "filename": "IMG_2316.jpg",
@@ -6571,7 +6987,9 @@ export const galleries = [
           "rawValue": "2025:05:14 17:28:25",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199161,16.372861",
+        "alt": null
       }
     ],
     "timeframe": "14. Mai 2025",
@@ -6599,7 +7017,9 @@ export const galleries = [
           "rawValue": "2025:05:21 18:08:49",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.153328,16.437883",
+        "alt": null
       },
       {
         "filename": "IMG_2384.jpg",
@@ -6617,7 +7037,9 @@ export const galleries = [
           "rawValue": "2025:05:21 18:11:55",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151644,16.438939",
+        "alt": null
       },
       {
         "filename": "IMG_2435.jpg",
@@ -6635,7 +7057,9 @@ export const galleries = [
           "rawValue": "2025:05:29 10:31:01",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.148553,16.436297",
+        "alt": null
       },
       {
         "filename": "IMG_2441.jpg",
@@ -6653,7 +7077,9 @@ export const galleries = [
           "rawValue": "2025:05:30 18:18:48",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.159,16.431983",
+        "alt": null
       },
       {
         "filename": "IMG_2448.jpg",
@@ -6671,7 +7097,9 @@ export const galleries = [
           "rawValue": "2025:06:01 08:06:36",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151947,16.427978",
+        "alt": null
       },
       {
         "filename": "IMG_2449.jpg",
@@ -6689,7 +7117,9 @@ export const galleries = [
           "rawValue": "2025:06:01 08:16:12",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150586,16.436633",
+        "alt": null
       },
       {
         "filename": "IMG_2450.jpg",
@@ -6707,7 +7137,9 @@ export const galleries = [
           "rawValue": "2025:06:01 08:16:52",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150075,16.437378",
+        "alt": null
       },
       {
         "filename": "IMG_2451.jpg",
@@ -6725,7 +7157,9 @@ export const galleries = [
           "rawValue": "2025:06:01 08:19:29",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.152017,16.438314",
+        "alt": null
       },
       {
         "filename": "IMG_3003.jpg",
@@ -6743,7 +7177,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:02:23",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.152783,16.435778",
+        "alt": null
       },
       {
         "filename": "IMG_3007.jpg",
@@ -6761,7 +7197,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:03:59",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.152886,16.437042",
+        "alt": null
       },
       {
         "filename": "IMG_3008.jpg",
@@ -6779,7 +7217,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:04:29",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.152878,16.437461",
+        "alt": null
       },
       {
         "filename": "IMG_3016.jpg",
@@ -6797,7 +7237,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:08:09",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151425,16.438867",
+        "alt": null
       },
       {
         "filename": "IMG_3019.jpg",
@@ -6815,7 +7257,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:08:36",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151353,16.438828",
+        "alt": null
       },
       {
         "filename": "IMG_3021.jpg",
@@ -6833,7 +7277,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:09:07",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1511,16.4386",
+        "alt": null
       },
       {
         "filename": "IMG_3028.jpg",
@@ -6851,7 +7297,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:11:09",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150864,16.4381",
+        "alt": null
       },
       {
         "filename": "IMG_3029.jpg",
@@ -6869,7 +7317,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:11:25",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150867,16.438186",
+        "alt": null
       },
       {
         "filename": "IMG_3030.jpg",
@@ -6887,7 +7337,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:11:48",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150914,16.437881",
+        "alt": null
       },
       {
         "filename": "IMG_3036.jpg",
@@ -6905,7 +7357,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:12:59",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151558,16.437939",
+        "alt": null
       },
       {
         "filename": "IMG_3040.jpg",
@@ -6923,7 +7377,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:13:32",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158069,16.437931",
+        "alt": null
       },
       {
         "filename": "IMG_3043.jpg",
@@ -6941,7 +7397,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:13:46",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158069,16.437931",
+        "alt": null
       },
       {
         "filename": "IMG_3044.jpg",
@@ -6959,7 +7417,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:14:05",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156844,16.439061",
+        "alt": null
       },
       {
         "filename": "IMG_3045.jpg",
@@ -6977,7 +7437,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:15:30",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156361,16.439128",
+        "alt": null
       },
       {
         "filename": "IMG_3048.jpg",
@@ -6995,7 +7457,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:16:24",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.15685,16.439056",
+        "alt": null
       },
       {
         "filename": "IMG_3051.jpg",
@@ -7013,7 +7477,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:16:40",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156886,16.438947",
+        "alt": null
       },
       {
         "filename": "IMG_3054.jpg",
@@ -7031,7 +7497,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:17:00",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156892,16.438922",
+        "alt": null
       },
       {
         "filename": "IMG_3055.jpg",
@@ -7049,7 +7517,9 @@ export const galleries = [
           "rawValue": "2025:06:29 13:17:14",
           "zoneName": "UTC+2",
           "inferredZone": true
-        }
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156892,16.438922",
+        "alt": null
       }
     ],
     "timeframe": "21. Mai 2025 - 29. Juni 2025",

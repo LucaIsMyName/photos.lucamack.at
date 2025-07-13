@@ -6,6 +6,8 @@ export interface Image {
   longitude?: number | null;
   createDate?: any;
   gallery?: string; // The slug of the gallery this image belongs to
+  googleMapsUrl?: string | null;
+  alt?: string | null;
 }
 
 export interface Gallery {

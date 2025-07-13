@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import Image from "./Image";
 
@@ -15,15 +15,6 @@ interface GalleryItemProps {
 
 const GalleryItem = ({ src, alt, latitude, longitude, gallerySlug, imageFilename }: GalleryItemProps) => {
   const [orientation, setOrientation] = useState<"landscape" | "portrait" | "square" | null>(null);
-  const [padding, setPadding] = useState("p-4");
-
-  /**
-   * Sets a random padding for the image
-   */
-  useEffect(() => {
-    const paddings = ["md:p-2", "md:p-4", "md:p-6", "md:p-8", "md:p-10", "md:p-12"];
-    setPadding(paddings[Math.floor(Math.random() * paddings.length)]);
-  }, []);
 
   const handleImageLoad = (dimensions: { width: number; height: number }) => {
     if (dimensions.width > dimensions.height) {
@@ -62,14 +53,13 @@ const GalleryItem = ({ src, alt, latitude, longitude, gallerySlug, imageFilename
         `(min-width: 1024px) 512px, (min-width: 768px) 50vw, 100vw`;
 
   return (
-    <div className={getFlexClasses()}>
-      <div className={padding}>
+    <div id={`image-${imageFilename.split(".")[0]}`} className={getFlexClasses()}>
+      <div className="p-0 sm:pr-4 sm:pb-4 md:pb-12">
         {latitude && longitude ? (
           <Link
             to={`/map?gallery=${gallerySlug}&image=${imageFilename}`}
             className="block">
             <Image
-              id={src.split("/").pop()?.replace(".jpg", "")}
               src={src}
               alt={alt}
               width={640} // Provide a base width

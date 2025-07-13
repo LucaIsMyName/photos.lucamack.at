@@ -1,9 +1,11 @@
 import { useMemo, useState, useEffect } from "react";
-import useLocalStorageState from "../hooks/useLocalStorageState";
+import useUrlState from "../hooks/useUrlState";
 import { useTheme } from "../contexts/ThemeContext";
 import HorizontalScroller from "./HorizontalScroller";
 import { Link } from "react-router-dom";
+import { Download } from "lucide-react";
 import { galleries } from "../galleries";
+import { parseCreateDate } from "../utils/date";
 import type { Image as ImageType, Gallery } from "../types";
 import { CONFIG } from "../config";
 
@@ -79,22 +81,16 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
   );
 };
 
-const parseCreateDate = (date: any): Date | null => {
-  if (!date || !date.year || !date.month || !date.day) {
-    return null;
-  }
-  // Month is 0-indexed in JavaScript Date
-  return new Date(date.year, date.month - 1, date.day, date.hour, date.minute, date.second);
-};
+
 
 const ListPage = () => {
-  const [activeTab, setActiveTab] = useLocalStorageState<"images" | "galleries">("list_activeTab", "images");
-  const [searchTerm, setSearchTerm] = useLocalStorageState("list_searchTerm", "");
-  const [sortKey, setSortKey] = useLocalStorageState<"createDate" | "galleryTitle">("list_sortKey", "createDate");
-  const [gallerySortKey, setGallerySortKey] = useLocalStorageState<"title" | "createDate">("list_gallerySortKey", "title");
-  const [sortOrder, setSortOrder] = useLocalStorageState<"asc" | "desc">("list_sortOrder", "desc");
-  const [startDate, setStartDate] = useLocalStorageState("list_startDate", "");
-  const [endDate, setEndDate] = useLocalStorageState("list_endDate", "");
+  const [activeTab, setActiveTab] = useUrlState<"images" | "galleries">("tab", "images");
+  const [searchTerm, setSearchTerm] = useUrlState("search", "");
+  const [sortKey, setSortKey] = useUrlState<"createDate" | "galleryTitle">("sortBy", "createDate");
+  const [gallerySortKey, setGallerySortKey] = useUrlState<"title" | "createDate">("gallerySortBy", "title");
+  const [sortOrder, setSortOrder] = useUrlState<"asc" | "desc">("sortOrder", "desc");
+  const [startDate, setStartDate] = useUrlState("startDate", "");
+  const [endDate, setEndDate] = useUrlState("endDate", "");
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -127,7 +123,13 @@ const ListPage = () => {
     let filtered = allImages;
 
     if (searchTerm) {
-      filtered = filtered.filter((image) => image.galleryTitle.toLowerCase().includes(searchTerm.toLowerCase()) || (image.filename && image.filename.toLowerCase().includes(searchTerm.toLowerCase())));
+      const searchWords = searchTerm.toLowerCase().split(" ").filter(Boolean);
+      if (searchWords.length > 0) {
+        filtered = filtered.filter((image) => {
+          const searchableText = `${image.galleryTitle.toLowerCase()} ${image.filename ? image.filename.toLowerCase() : ""}`;
+          return searchWords.every((word) => searchableText.includes(word));
+        });
+      }
     }
 
     if (startDate) {
@@ -168,7 +170,13 @@ const ListPage = () => {
     }));
 
     if (searchTerm) {
-      filtered = filtered.filter((gallery) => gallery.title.toLowerCase().includes(searchTerm.toLowerCase()));
+      const searchWords = searchTerm.toLowerCase().split(" ").filter(Boolean);
+      if (searchWords.length > 0) {
+        filtered = filtered.filter((gallery) => {
+          const searchableText = gallery.title.toLowerCase();
+          return searchWords.every((word) => searchableText.includes(word));
+        });
+      }
     }
 
     if (startDate || endDate) {
@@ -178,13 +186,22 @@ const ListPage = () => {
       if (end) end.setHours(23, 59, 59, 999);
 
       filtered = filtered.filter((gallery) => {
-        return gallery.images?.some((image) => {
-          const imageDate = parseCreateDate(image.createDate);
-          if (!imageDate) return false;
-          const isAfterStart = start ? imageDate >= start : true;
-          const isBeforeEnd = end ? imageDate <= end : true;
-          return isAfterStart && isBeforeEnd;
-        });
+        return allImages
+          .filter((image) => {
+            const imageCreateDate = parseCreateDate(image.createDate);
+            const sDate = startDate ? new Date(startDate) : null;
+            const eDate = endDate ? new Date(endDate) : null;
+
+            if (sDate && imageCreateDate && imageCreateDate < sDate) {
+              return false;
+            }
+            if (eDate && imageCreateDate && imageCreateDate > eDate) {
+              return false;
+            }
+
+            return image.galleryTitle.toLowerCase().includes((searchTerm || "").toLowerCase());
+          })
+          .some((image) => image.gallerySlug === gallery.slug);
       });
     }
 
@@ -275,29 +292,36 @@ const ListPage = () => {
                 className="w-full lg:w-1/2"
                 key={`${image.gallerySlug}-${image.filename}`}>
                 <div className="flex lg:flex-row items-center gap-4 py-2">
-                  <Link to={`/gallery/${image.gallerySlug}#${image.filename.replaceAll(".jpg", "")}`}>
+                  <Link to={`/gallery/${image.gallerySlug}`}>
                     <img
                       loading="lazy"
                       src={`/content/galleries/${image.gallerySlug}/${image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, "-640w.jpg")}`}
-                      alt={image.filename}
+                      alt={image.alt || `${image.galleryTitle} - ${image.filename}`}
                       width={128}
                       height={128}
-                      className="w-24 h-24 lg:w-32 lg:h-32 object-cover aspect-square"
+                      className="min-w-24 w-24 min-h-24 h-24 lg:w-32 lg:h-32 object-cover aspect-square"
                     />
                   </Link>
                   <div className="text-sm">
-                    <h3 className="truncate text-lg font-bold">{`${image.galleryTitle} - ${image.index}`}</h3>
-                    <p className="truncate">Erstellt: {parseCreateDate(image.createDate)?.toLocaleString() || "Ungültiges Datum"}</p>
+                    <h3 className="truncate text-lg ">{`${image.galleryTitle} #${image.index}`}</h3>
+                    <p className="truncate text-xs">Erstellt: {parseCreateDate(image.createDate)?.toLocaleString() || "Ungültiges Datum"}</p>
                     {image.latitude && image.longitude ? (
                       <>
-                        <span>Koordinaten: </span>
+                        <span className="text-xs">Koordinaten: </span>
                         <Link to={`/map?gallery=${image.gallerySlug}&image=${image.filename}`}>
-                          <span className="hover:underline truncate">{`${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}`}</span>
+                          <span className="text-xs underline truncate">{`${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}`}</span>
                         </Link>
                       </>
                     ) : (
                       <p className="truncate">Koordinaten: N/V</p>
                     )}
+                    <a
+                      href={`/content/galleries/${image.gallerySlug}/${image.filename}`}
+                      download
+                      className="text-xs flex items-center gap-1 hover:underline w-fit">
+                      <Download size={12} />
+                      <span className="truncate underline">Download Foto</span>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -342,7 +366,7 @@ const ListPage = () => {
                         alt={gallery.title}
                         width={128}
                         height={128}
-                        className="lg:w-32 lg:h-32 w-24 h-24 object-cover "
+                        className="lg:w-32 lg:h-32 min-w-24 min-h-24 w-24 h-24 object-cover "
                       />
                     ) : (
                       <div className="lg:w-32 lg:h-32 w-24 h-24 bg-gray-200 dark:bg-gray-700 flex items-center justify-center">
@@ -350,7 +374,7 @@ const ListPage = () => {
                       </div>
                     )}
                     <div className="text-sm">
-                      <h3 className="truncate text-lg font-bold">{gallery.title}</h3>
+                      <h3 className="truncate text-lg ">{gallery.title}</h3>
                       <p className="truncate">{gallery.images?.length || 0} Bilder</p>
                       <p className="truncate">Erstellt: {parseCreateDate(gallery.createDate)?.toLocaleDateString() || "N/V"}</p>
                     </div>

@@ -6,6 +6,7 @@ import Gallery from "./components/Gallery";
 import PageComponent from "./components/PageComponent";
 import MapPage from "./components/Map";
 import ListPage from "./components/List";
+import TimelinePage from "./components/Timeline";
 import { useTheme } from "./contexts/ThemeContext";
 import { AnimatePresence } from "framer-motion";
 
@@ -51,6 +52,10 @@ function App() {
             <Route
               path="/list"
               element={<ListPage />}
+            />
+            <Route
+              path="/timeline"
+              element={<TimelinePage />}
             />
           </Routes>
         </AnimatePresence>

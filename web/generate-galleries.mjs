@@ -115,6 +115,7 @@ async function generateGalleries() {
         let latitude = null;
         let longitude = null;
         let createDate = null;
+        let alt = null;
 
         try {
           const tags = await exiftool.read(sourcePath);
@@ -124,12 +125,14 @@ async function generateGalleries() {
               longitude = tags.GPSLongitude;
             }
             createDate = tags.DateTimeOriginal || tags.CreateDate;
+            alt = tags.Description || tags.UserComment || tags.ImageDescription || null;
           }
         } catch (err) {
           console.error('Error reading exif for', file, err);
         }
 
-        return { filename, latitude, longitude, createDate };
+        const googleMapsUrl = latitude && longitude ? `https://www.google.com/maps/search/?api=1&query=${latitude},${longitude}` : null;
+        return { filename, latitude, longitude, createDate, googleMapsUrl, alt };
       })
     );
 

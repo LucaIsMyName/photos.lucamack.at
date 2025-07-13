@@ -5,9 +5,8 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const distDir = path.join(__dirname, 'dist');
 const publicDir = path.join(__dirname, 'public');
-const apiDir = path.join(distDir, 'api');
+const apiDir = path.join(publicDir, 'api');
 const pagesContentDir = path.join(__dirname, 'content/pages');
 
 const BASE_URL = "https://photos.lucamack.at";
@@ -41,6 +40,7 @@ function generateSitemap() {
     { loc: BASE_URL, changefreq: 'daily', priority: '1.0' },
     { loc: `${BASE_URL}/map`, changefreq: 'monthly', priority: '0.5' },
     { loc: `${BASE_URL}/list`, changefreq: 'monthly', priority: '0.5' },
+    { loc: `${BASE_URL}/timeline`, changefreq: 'monthly', priority: '0.5' },
   ];
 
   gallerySlugs.forEach(slug => {

@@ -98,7 +98,7 @@ const Navigation = () => {
 
       {/* Mobile Menu Overlay */}
       {isMobileMenuOpen && (
-        <div className={`md:hidden fixed inset-0 z-50 flex flex-col ${theme === "light" ? "bg-white" : "dark bg-black"}`}>
+        <div className={`md:hidden fixed inset-0 z-[1000000] flex flex-col ${theme === "light" ? "bg-white" : "dark bg-black"}`}>
           <div className="flex-shrink-0 flex justify-between items-center p-4">
             <NavLink
               to="/"
@@ -140,16 +140,23 @@ const Navigation = () => {
               <section className="flex gap-0 mb-4">
                 <NavLink
                   to="/map"
-                  className={({ isActive }) => navLinkClasses(isActive, false)}
+                  className={({ isActive }) => navLinkClasses(isActive, true)}
                   onClick={handleLinkClick}>
                   Karte
                 </NavLink>
 
                 <NavLink
                   to="/list"
-                  className={({ isActive }) => navLinkClasses(isActive, false)}
+                  className={({ isActive }) => navLinkClasses(isActive, true)}
                   onClick={handleLinkClick}>
                   Liste
+                </NavLink>
+
+                <NavLink
+                  to="/timeline"
+                  className={({ isActive }) => navLinkClasses(isActive, true)}
+                  onClick={handleLinkClick}>
+                  Timeline
                 </NavLink>
               </section>
               {pages.map((page: Page) => (
@@ -214,16 +221,23 @@ const Navigation = () => {
           <section className="flex gap-0 mb-2">
             <NavLink
               to="/map"
-              className={({ isActive }) => navLinkClasses(isActive, false)}
+              className={({ isActive }) => navLinkClasses(isActive, true)}
               onClick={handleLinkClick}>
               Karte
             </NavLink>
 
             <NavLink
               to="/list"
-              className={({ isActive }) => navLinkClasses(isActive, false)}
+              className={({ isActive }) => navLinkClasses(isActive, true)}
               onClick={handleLinkClick}>
               Liste
+            </NavLink>
+
+            <NavLink
+              to="/timeline"
+              className={({ isActive }) => navLinkClasses(isActive, true)}
+              onClick={handleLinkClick}>
+              Timeline
             </NavLink>
           </section>
           {pages.map((page: Page) => (
