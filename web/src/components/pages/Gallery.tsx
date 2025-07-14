@@ -5,7 +5,7 @@ import type { Gallery as GalleryType } from "../../types";
 import GalleryItem from "../layout/GalleryItem";
 import { motion } from "framer-motion";
 import { pageVariants, pageTransition } from "../../animations";
-import { useEffect } from "react";
+import { useEffect, useMemo } from "react";
 import { useLocation } from "react-router-dom";
 import { CONFIG } from "../../config";
 
@@ -13,6 +13,11 @@ const Gallery = () => {
   const { slug } = useParams<{ slug: string }>();
   const gallery: GalleryType | undefined = galleries.find((g) => g.slug === slug);
   const location = useLocation();
+
+  const shuffledImages = useMemo(() => {
+    if (!gallery?.images) return [];
+    return [...gallery.images].sort(() => Math.random() - 0.5);
+  }, [gallery]);
 
   useEffect(() => {
     // Scroll to image logic
@@ -78,7 +83,7 @@ const Gallery = () => {
    * If the gallery is not found, show a message
    */
   if (!gallery) {
-    return <div className="py-10 text-left ">{CONFIG.systemMessages.noGalleryFound}</div>;
+    return <div className="py-6 text-3xl text-left ">{CONFIG.systemMessages.noGalleryFound}</div>;
   }
 
   return (
@@ -105,9 +110,9 @@ const Gallery = () => {
           )}
         </div>
 
-        {gallery.images.length > 0 ? (
+        {shuffledImages.length > 0 ? (
           <div className="max-w-[var(--content-width)] md:pr-4 flex flex-wrap justify-center items-center gap-8 md:gap-0 pb-4">
-            {gallery.images.map((image) => (
+            {shuffledImages.map((image) => (
               <GalleryItem
                 key={image.filename}
                 src={`/content/galleries/${gallery.slug}/${image.filename}`}

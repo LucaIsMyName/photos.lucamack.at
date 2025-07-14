@@ -117,7 +117,7 @@ const MapPage = () => {
         onClick={() => setIsLegendOpen(!isLegendOpen)}
         className={`flex gap-2 items-center cursor-pointer absolute bottom-4 right-4 z-10 p-2 border shadow-[2px_2px_0px_#00000033] transition-colors ${theme === "dark" ? "bg-black text-white " : "bg-white text-black"}`}
         aria-label="Toggle map legend">
-        <span className="text-xs uppercase tracking-wider ml-3">Legende</span>
+        <span className="cursor-pointer text-xs uppercase tracking-wider ml-3">Legende</span>
         <MapPin size={20} />
       </button>
 
@@ -147,7 +147,7 @@ const MapPage = () => {
           zoom: 3,
         }}
         style={{ width: "100%", height: "100%" }}
-        mapStyle={theme === "dark" ? "mapbox://styles/mapbox/dark-v11" : "mapbox://styles/mapbox/light-v11"}
+        mapStyle={theme === "dark" ? "mapbox://styles/luma1992/cmcrpf414029501qx4b4fa2jx" : "mapbox://styles/luma1992/cmcrp4svj045g01r17lvz89bx"}
         mapboxAccessToken={MAPBOX_TOKEN}
         onLoad={handleMapLoad}>
         {geotaggedImages
@@ -188,7 +188,7 @@ const MapPage = () => {
               <section className={`flex items-center justify-between gap-2 ${theme === "dark" ? "text-white bg-black bg-opacity-70" : "text-black bg-white bg-opacity-70"}`}>
                 <p className={`font-geist p-2 text-base truncate ${theme === "dark" ? "text-white bg-black bg-opacity-70" : "text-black bg-white bg-opacity-70"}`}>
                   {popupInfo.gallery.title}
-                  {typeof popupInfo.image.index === 'number' && ` #${popupInfo.image.index + 1}`}
+                  {typeof popupInfo.image.index === "number" && ` #${popupInfo.image.index + 1}`}
                 </p>
                 <a
                   href={`/content/galleries/${popupInfo.gallery.slug}/${popupInfo.image.filename}`}

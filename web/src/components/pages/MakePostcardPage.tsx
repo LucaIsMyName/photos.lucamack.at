@@ -1,10 +1,13 @@
-import { useState, useMemo, useRef, useCallback, useEffect } from "react";
+import { useState, useMemo, useRef, useCallback, useEffect, forwardRef, type ComponentPropsWithoutRef, type ElementRef } from "react";
 import { toJpeg } from "html-to-image";
 import { galleries } from "../../galleries";
 import type { Image as ImageType } from "../../types";
 import { motion } from "framer-motion";
-import { RefreshCcw, Download } from "lucide-react";
+import { RefreshCcw, Download, ChevronDown, Check } from "lucide-react";
 import { useTheme } from "../../contexts/ThemeContext";
+import * as Select from "@radix-ui/react-select";
+import * as Slider from "@radix-ui/react-slider";
+import { cn } from "../../utils/cn";
 
 type PostcardStyle = "single" | "two" | "four";
 type PostcardSize = "A4" | "A5" | "A6";
@@ -31,8 +34,8 @@ const MakePostcardPage = () => {
   const [fontFamily, setFontFamily] = useState("serif");
   const [fontSize, setFontSize] = useState(24);
   const [textPadding, setTextPadding] = useState(32);
-  const [imagesLoaded, setImagesLoaded] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [isDownloading, setIsDownloading] = useState(false);
 
   const textAlignClasses = {
     "top-left": "top-0 left-0",
@@ -54,12 +57,10 @@ const MakePostcardPage = () => {
 
   const generatePostcard = useCallback(() => {
     setLoading(true);
-    setImagesLoaded(false);
     const numImages = style === "single" ? 1 : style === "two" ? 2 : 4;
     if (allImages.length === 0) {
       setImages([]);
       setLoading(false);
-      setImagesLoaded(true);
       return;
     }
     const shuffled = [...allImages].sort(() => 0.5 - Math.random());
@@ -76,22 +77,21 @@ const MakePostcardPage = () => {
     if (allImageElements && allImageElements.length > 0) {
       const allLoaded = Array.from(allImageElements).every((img) => img.complete && img.naturalHeight !== 0);
       if (allLoaded) {
-        setImagesLoaded(true);
         setLoading(false);
       }
     }
   };
 
   const handleDownload = useCallback(() => {
-    if (postcardRef.current === null || !imagesLoaded) {
-      console.error("Postcard element not found or images not loaded");
+    if (postcardRef.current === null) {
+      console.error("Postcard element not found");
       return;
     }
-    setLoading(true);
-    toJpeg(postcardRef.current, { cacheBust: true, quality: 0.95, pixelRatio: 3 })
+    setIsDownloading(true);
+    toJpeg(postcardRef.current, { cacheBust: true, quality: 1, pixelRatio: 4 })
       .then((dataUrl) => {
         const link = document.createElement("a");
-        link.download = `postcard-${style}-${size}-${orientation}.jpg`;
+        link.download = `postkarte-${style}Images-${size}-${orientation}Format-${new Date().toISOString().replaceAll(",", "").replaceAll(":", "").replaceAll("-", "")}.jpg`;
         link.href = dataUrl;
         link.click();
       })
@@ -99,9 +99,9 @@ const MakePostcardPage = () => {
         console.error("Failed to create postcard image", err);
       })
       .finally(() => {
-        setLoading(false);
+        setIsDownloading(false);
       });
-  }, [style, size, orientation, imagesLoaded]);
+  }, [style, size, orientation]);
 
   const postcardAspectRatio = useMemo(() => {
     const dimensions = sizeDimensions[size];
@@ -128,203 +128,157 @@ const MakePostcardPage = () => {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 flex-grow">
         <div className="md:col-span-1 space-y-4 flex flex-col justify-center">
           <h2 className="sr-only text-xl font-semibold">Optionen</h2>
-          <div className="grid grid-cols-2 md:min-w-[200px] gap-4">
-            <div className="col-span-2 ">
-              <label
-                htmlFor="gallery"
-                className="block  text-xs">
-                Galerie
-              </label>
-              <select
-                id="gallery"
+          <div className="grid grid-cols-2 gap-0">
+            <Field label="Galerie">
+              <StyledSelect
                 value={selectedGallery}
-                onChange={(e) => setSelectedGallery(e.target.value)}
-                className={`mt-0.5 block w-full border p-0.5 text-xs bg-transparent ${theme === "dark" ? "border-white" : "border-black"}`}>
-                <option value="all">Alle Bilder</option>
+                onValueChange={setSelectedGallery}
+                placeholder="Galerie wählen">
+                <SelectItem value="all">Alle Bilder</SelectItem>
                 {galleries.map((g) => (
-                  <option
+                  <SelectItem
                     key={g.slug}
-                    value={g.slug}>
+                    value={g.slug}
+                    className="truncate">
                     {g.title}
-                  </option>
+                  </SelectItem>
                 ))}
-              </select>
-            </div>
-            <div>
-              <label
-                htmlFor="style"
-                className="block text-xs truncate">
-                Stil
-              </label>
-              <select
-                id="style"
+              </StyledSelect>
+            </Field>
+
+            <Field label="Stil">
+              <StyledSelect
                 value={style}
-                onChange={(e) => setStyle(e.target.value as PostcardStyle)}
-                className={`mt-0.5 block w-full border p-0.5 text-xs bg-transparent ${theme === "dark" ? "border-white" : "border-black"}`}>
-                <option value="single">Ein Bild</option>
-                <option value="two">Zwei Bilder</option>
-                <option value="four">Vier Bilder</option>
-              </select>
-            </div>
-            <div>
-              <label
-                htmlFor="size"
-                className="block text-xs truncate">
-                Größe
-              </label>
-              <select
-                id="size"
-                value={size}
-                onChange={(e) => setSize(e.target.value as PostcardSize)}
-                className={`mt-0.5 block w-full border p-0.5 text-xs bg-transparent ${theme === "dark" ? "border-white" : "border-black"}`}>
-                <option value="A6">A6</option>
-                <option value="A5">A5</option>
-                <option value="A4">A4</option>
-              </select>
-            </div>
-            <div>
-              <label
-                htmlFor="orientation"
-                className="block text-xs truncate">
-                Orientierung
-              </label>
-              <select
-                id="orientation"
-                value={orientation}
-                onChange={(e) => setOrientation(e.target.value as Orientation)}
-                className={`mt-0.5 block w-full border p-0.5 text-xs bg-transparent ${theme === "dark" ? "border-white" : "border-black"}`}>
-                <option value="portrait">Hochformat</option>
-                <option value="landscape">Querformat</option>
-              </select>
-            </div>
-            <div>
-              <label
-                htmlFor="textAlign"
-                className="block text-xs truncate">
-                Text Position
-              </label>
-              <select
-                id="textAlign"
-                value={textAlign}
-                onChange={(e) => setTextAlign(e.target.value as TextAlign)}
-                className={`mt-0.5 block w-full border p-0.5 text-xs bg-transparent ${theme === "dark" ? "border-white" : "border-black"}`}>
-                <option value="top-left">Oben Links</option>
-                <option value="top-right">Oben Rechts</option>
-                <option value="bottom-left">Unten Links</option>
-                <option value="bottom-right">Unten Rechts</option>
-              </select>
-            </div>
-            <div>
-              <label
-                htmlFor="textColor"
-                className="block text-xs truncate">
-                Text Farbe
-              </label>
-              <select
-                id="textColor"
-                value={textColor}
-                onChange={(e) => setTextColor(e.target.value as "white" | "black")}
-                className={`mt-0.5 block w-full border p-0.5 text-xs bg-transparent ${theme === "dark" ? "border-white" : "border-black"}`}>
-                <option value="white">Weiss</option>
-                <option value="black">Schwarz</option>
-              </select>
-            </div>
-            <div className="col-span-1">
-              <label
-                htmlFor="fontFamily"
-                className="block text-xs truncate">
-                Schriftart
-              </label>
-              <select
-                id="fontFamily"
-                value={fontFamily}
-                onChange={(e) => setFontFamily(e.target.value)}
-                className={`mt-0.5 block w-full border p-0.5 text-xs bg-transparent ${theme === "dark" ? "border-white" : "border-black"}`}>
-                <option value="serif">Serif</option>
-                <option value="sans-serif">Sans-Serif</option>
-                <option value="monospace">Monospace</option>
-                <option value="cursive">Cursive</option>
-                <option value="'Comic Sans MS', 'Comic Sans', cursive">Comic Sans</option>
-              </select>
-            </div>
+                onValueChange={(v) => setStyle(v as PostcardStyle)}
+                placeholder="Stil wählen">
+                <SelectItem value="single">Ein Bild</SelectItem>
+                <SelectItem value="two">Zwei Bilder</SelectItem>
+                <SelectItem value="four">Vier Bilder</SelectItem>
+              </StyledSelect>
+            </Field>
           </div>
 
-          <div>
-            <label
-              htmlFor="text"
-              className="block text-xs truncate">
-              Text
-            </label>
-            <textarea
-              id="text"
-              rows={3}
-              value={text}
-              onChange={(e) => setText(e.target.value)}
-              className={`mt-0.5 text-xs border block w-full p-1 bg-transparent ${theme === "dark" ? "border-white" : "border-black"}`}
-            />
-          </div>
-
-          <div>
-            <label
-              htmlFor="fontSize"
-              className="block text-xs truncate">
-              Schriftgrösse ({fontSize}px)
-            </label>
-            <input
-              type="range"
-              id="fontSize"
-              min="12"
-              max="72"
-              value={fontSize}
-              onChange={(e) => setFontSize(Number(e.target.value))}
-              className="w-full bg-white custom-range"
-            />
-          </div>
-
-          <div>
-            <label
-              htmlFor="textPadding"
-              className="block text-xs truncate">
-              Textabstand ({textPadding}px)
-            </label>
-            <input
-              type="range"
-              id="textPadding"
-              min="0"
-              max="64"
-              value={textPadding}
-              onChange={(e) => setTextPadding(Number(e.target.value))}
-              className="w-full custom-range"
-            />
-          </div>
-
-          <div className="flex gap-4 items-center mt-4">
+          <div className="mt-2">
             <button
               onClick={generatePostcard}
-              disabled={loading}
-              className={`block border px-2 py-2 text-sm ${theme === "dark" ? "bg-black text-white" : "bg-white text-black"} flex gap-2 items-center disabled:opacity-30`}>
-              <RefreshCcw className="min-w-4 min-h-4 h-4 w-4" /> 
+              disabled={loading || isDownloading}
+              className={`cursor-pointer block border w-full px-2 py-2 text-sm ${theme === "dark" ? "bg-black text-white" : "bg-white text-black"} flex gap-2 items-center justify-center disabled:opacity-30`}>
+              <RefreshCcw className="min-w-4 min-h-4 h-4 w-4" />
+              Neue Bilder generieren
             </button>
+          </div>
+
+          <div className="grid grid-cols-2 gap-4 mt-2">
+            <Field label="Größe">
+              <StyledSelect
+                value={size}
+                onValueChange={(v) => setSize(v as PostcardSize)}
+                placeholder="Größe wählen">
+                <SelectItem value="A6">A6</SelectItem>
+                <SelectItem value="A5">A5</SelectItem>
+                <SelectItem value="A4">A4</SelectItem>
+              </StyledSelect>
+            </Field>
+
+            <Field label="Orientierung">
+              <StyledSelect
+                value={orientation}
+                onValueChange={(v) => setOrientation(v as Orientation)}
+                placeholder="Orientierung wählen">
+                <SelectItem value="portrait">Hochformat</SelectItem>
+                <SelectItem value="landscape">Querformat</SelectItem>
+              </StyledSelect>
+            </Field>
+
+            <Field label="Text Position">
+              <StyledSelect
+                value={textAlign}
+                onValueChange={(v) => setTextAlign(v as TextAlign)}
+                placeholder="Position wählen">
+                <SelectItem value="top-left">Oben Links</SelectItem>
+                <SelectItem value="top-right">Oben Rechts</SelectItem>
+                <SelectItem value="bottom-left">Unten Links</SelectItem>
+                <SelectItem value="bottom-right">Unten Rechts</SelectItem>
+              </StyledSelect>
+            </Field>
+
+            <Field label="Text Farbe">
+              <StyledSelect
+                value={textColor}
+                onValueChange={(v) => setTextColor(v as "white" | "black")}
+                placeholder="Farbe wählen">
+                <SelectItem value="white">Weiss</SelectItem>
+                <SelectItem value="black">Schwarz</SelectItem>
+              </StyledSelect>
+            </Field>
+
+            <div className="col-span-2">
+              <Field label="Schriftart">
+                <StyledSelect
+                  value={fontFamily}
+                  onValueChange={setFontFamily}
+                  placeholder="Schriftart wählen">
+                  <SelectItem value="serif">Serif</SelectItem>
+                  <SelectItem value="sans-serif">Sans-serif</SelectItem>
+                  <SelectItem value="monospace">Monospace</SelectItem>
+                </StyledSelect>
+              </Field>
+            </div>
+          </div>
+          <div className="col-span-2 grid grid-cols-1 gap-y-6 mt-2">
+            <Field label={`Schriftgrösse (${fontSize}px)`}>
+              <StyledSlider
+                value={[fontSize]}
+                onValueChange={(v) => setFontSize(v[0])}
+                min={12}
+                max={72}
+                step={1}
+              />
+            </Field>
+
+            <Field label={`Textabstand (${textPadding}px)`}>
+              <StyledSlider
+                value={[textPadding]}
+                onValueChange={(v) => setTextPadding(v[0])}
+                min={0}
+                max={64}
+                step={1}
+              />
+            </Field>
+          </div>
+
+          <div className="col-span-2 mt-2">
+            <Field label="Text">
+              <textarea
+                id="text"
+                value={text}
+                onChange={(e) => setText(e.target.value)}
+                className={cn("w-full p-2 border h-24 resize-none focus:outline-none focus:ring-2", theme === "dark" ? "border-white bg-black text-white focus:ring-red-300" : "border-black bg-white text-black focus:ring-red-600")}
+                placeholder="Postkarten Text"
+              />
+            </Field>
+          </div>
+
+          <div className="col-span-2 flex gap-4 items-center mt-0">
             <button
               onClick={handleDownload}
-              disabled={loading || !imagesLoaded}
-              className={`block flex-grow border text-center w-full px-2 py-2 text-sm ${theme === "dark" ? "bg-white text-black" : "bg-black text-white"} flex gap-2 items-center disabled:opacity-30`}>
+              disabled={isDownloading}
+              className={cn("w-full mt-4 px-4 py-2 border border-transparent focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 flex gap-2 items-center justify-center", theme === "dark" ? "bg-white text-black hover:bg-neutral-200 focus:ring-offset-black focus:ring-red-300" : "bg-black text-white hover:bg-neutral-800 focus:ring-offset-white focus:ring-red-600")}>
               <Download className="min-w-4 min-h-4 h-4 w-4" />
               Download
             </button>
           </div>
         </div>
-
         <div className="md:col-span-2 flex flex-col">
           <h2 className="text-xl font-semibold mb-4 sr-only">Vorschau</h2>
           <div className="w-full  md:max-w-[clamp(320px,33vw,380px)]  mx-auto flex-grow flex items-center justify-center">
             <div
               ref={postcardRef}
-              className={`relative select-none shadow-[0_0_2px_rgba(0,0,0,0.1)] grid gap-2 p-4 border border-black w-full ${theme === "dark" ? "bg-white" : "bg-white"}`}
+              className={`relative select-none shadow-[0_0_2px_rgba(0,0,0,0.1)] grid gap-2 p-2 border border-black w-full ${theme === "dark" ? "bg-white" : "bg-white"}`}
               style={{
                 aspectRatio: postcardAspectRatio,
-                gridTemplateColumns: style === "four" || (style === "two" && orientation === "landscape") ? "repeat(2, 1fr)" : "1fr",
-                gridTemplateRows: style === "four" || (style === "two" && orientation === "portrait") ? "repeat(2, 1fr)" : "1fr",
+                gridTemplateColumns: style === "single" ? "1fr" : style === "two" && orientation === "portrait" ? "1fr" : "repeat(2, 1fr)",
+                gridTemplateRows: style === "single" ? "1fr" : style === "two" && orientation === "landscape" ? "1fr" : "repeat(2, 1fr)",
               }}>
               {loading && (
                 <div className={`absolute bg-white inset-0 flex items-center justify-center z-10 ${theme === "dark" ? "text-black bg-opacity-50" : "bg-white bg-opacity-75"}`}>
@@ -338,7 +292,7 @@ const MakePostcardPage = () => {
                   <img
                     src={`/content/galleries/${image.gallery}/${image.filename}`}
                     alt={image.alt || ""}
-                    className="w-full h-full object-contain"
+                    className="w-full h-full object-cover"
                     onLoad={handleImageLoad}
                   />
                 </div>
@@ -359,6 +313,70 @@ const MakePostcardPage = () => {
         </div>
       </div>
     </motion.div>
+  );
+};
+
+const Field = ({ label, children }: { label: string; children: React.ReactNode }) => {
+  const { theme } = useTheme();
+  return (
+    <div>
+      <label className={`block text-xs opacity-70 truncate mb-1 ${theme === "dark" ? "text-white" : "text-black"}`}>{label}</label>
+      {children}
+    </div>
+  );
+};
+
+const StyledSelect = ({ children, ...props }: Select.SelectProps & { children: React.ReactNode; placeholder: string }) => {
+  const { theme } = useTheme();
+  return (
+    <Select.Root {...props}>
+      <Select.Trigger className={cn("w-full text-sm flex justify-between items-center p-0 truncate focus:outline-none focus:ring-2", theme === "dark" ? "bg-black border-white text-white focus:ring-red-300" : "bg-white border-black text-black focus:ring-red-600")}>
+        <Select.Value placeholder={props.placeholder} />
+        <Select.Icon>
+          <ChevronDown className="h-4 w-4" />
+        </Select.Icon>
+      </Select.Trigger>
+      <Select.Portal>
+        <Select.Content
+          position="popper"
+          sideOffset={5}
+          className={cn("w-screen shadow-lg z-50 md:w-auto md:min-w-[var(--radix-select-trigger-width)] md:max-w-md", theme === "dark" ? "bg-black text-white border-white" : "bg-white text-black border-black")}>
+          <Select.Viewport className="p-1">{children}</Select.Viewport>
+        </Select.Content>
+      </Select.Portal>
+    </Select.Root>
+  );
+};
+
+const SelectItem = forwardRef<ElementRef<typeof Select.Item>, ComponentPropsWithoutRef<typeof Select.Item>>(({ className, children, ...props }, ref) => {
+  const { theme } = useTheme();
+  return (
+    <Select.Item
+      ref={ref}
+      className={cn("text-xs p-2 flex items-center gap-8 justify-between relative select-none cursor-pointer focus:outline-none", theme === "dark" ? "hover:bg-neutral-800 focus:bg-red-300 focus:text-black" : "hover:bg-neutral-100 focus:bg-red-600 focus:text-white", className)}
+      {...props}>
+      <Select.ItemText>{children}</Select.ItemText>
+      <Select.ItemIndicator className="">
+        <Check className="h-4 w-4" />
+      </Select.ItemIndicator>
+    </Select.Item>
+  );
+});
+
+const StyledSlider = (props: Slider.SliderProps) => {
+  const { theme } = useTheme();
+  return (
+    <Slider.Root
+      className="relative flex items-center select-none touch-none w-full h-5"
+      {...props}>
+      <Slider.Track className={`relative grow h-[3px] ${theme === "dark" ? "bg-neutral-700" : "bg-neutral-200"}`}>
+        <Slider.Range className={`absolute h-full ${theme === "dark" ? "bg-white" : "bg-black"}`} />
+      </Slider.Track>
+      <Slider.Thumb
+        className={cn("block w-4 h-4 border-2 focus:outline-none focus:ring-2 focus:ring-offset-2", theme === "dark" ? "bg-white border-white focus:ring-offset-black focus:ring-red-300" : "bg-black border-black focus:ring-offset-white focus:ring-red-600")}
+        aria-label="Lautstärke"
+      />
+    </Slider.Root>
   );
 };
 
