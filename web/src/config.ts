@@ -6,6 +6,9 @@ export const CONFIG = {
   url: "https://photos.lucamack.at",
   image: "https://photos.lucamack.at/og-image.png",
   theme: {
+    headline: {
+      one: "text-4xl md:text-5xl"
+    },
     light: {
       text: {
         primary: "text-red-600",

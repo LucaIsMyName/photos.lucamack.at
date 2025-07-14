@@ -8,6 +8,7 @@ import MapPage from "./components/pages/Map";
 import ListPage from "./components/pages/List";
 import TimelinePage from "./components/pages/Timeline";
 import MakePostcardPage from "./components/pages/MakePostcardPage";
+import StatisticsPage from "./components/pages/StatisticsPage";
 import { useTheme } from "./contexts/ThemeContext";
 import { AnimatePresence } from "framer-motion";
 
@@ -61,6 +62,10 @@ function App() {
             <Route
               path="/postcard"
               element={<MakePostcardPage />}
+            />
+            <Route
+              path="/statistics"
+              element={<StatisticsPage />}
             />
           </Routes>
         </AnimatePresence>

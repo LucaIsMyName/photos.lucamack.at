@@ -1,7 +1,8 @@
 import { useState, useEffect, useCallback } from "react";
+import useDebounce from "./useDebounce";
 import { useSearchParams } from "react-router-dom";
 
-function useUrlState<T>(
+function useDebouncedUrlState<T>(
   key: string,
   defaultValue: T
 ): [T, (newState: T) => void] {
@@ -24,26 +25,31 @@ function useUrlState<T>(
   }, [key, searchParams, defaultValue]);
 
   const [state, setState] = useState<T>(getInitialState);
+  const debouncedState = useDebounce(state, 500);
 
   useEffect(() => {
     const valueFromUrl = getInitialState();
     if (JSON.stringify(valueFromUrl) !== JSON.stringify(state)) {
       setState(valueFromUrl);
     }
-  }, [searchParams, getInitialState, state]);
+  }, [searchParams]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  const updateState = useCallback((newState: T) => {
+  useEffect(() => {
     const newSearchParams = new URLSearchParams(searchParams);
-    if (newState === defaultValue || newState === "") {
+    if (debouncedState === defaultValue || debouncedState === "") {
       newSearchParams.delete(key);
     } else {
-      newSearchParams.set(key, typeof newState === "string" ? newState : JSON.stringify(newState));
+      newSearchParams.set(
+        key,
+        typeof debouncedState === "string"
+          ? debouncedState
+          : JSON.stringify(debouncedState)
+      );
     }
     setSearchParams(newSearchParams, { replace: true });
-    setState(newState);
-  }, [searchParams, key, defaultValue, setSearchParams]);
+  }, [debouncedState, key, defaultValue, setSearchParams]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  return [state, updateState];
+  return [state, setState];
 }
 
-export default useUrlState;
+export default useDebouncedUrlState;

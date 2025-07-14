@@ -83,7 +83,7 @@ const Gallery = () => {
    * If the gallery is not found, show a message
    */
   if (!gallery) {
-    return <div className="py-6 text-3xl text-left ">{CONFIG.systemMessages.noGalleryFound}</div>;
+    return <div className={`${CONFIG.theme.headline.one} py-6 text-left`}>{CONFIG.systemMessages.noGalleryFound}</div>;
   }
 
   return (
@@ -100,7 +100,7 @@ const Gallery = () => {
       />
       <div className="px-4 md:px-0">
         <div className="flex flex-col items-start">
-          <h1 className="w-full max-w-[560px] text-wrap-balance text-4xl md:text-5xl md:pt-8 pt-4 pb-4  ">{gallery.title || gallery.name}</h1>
+          <h1 className={`${CONFIG.theme.headline.one} w-full max-w-[560px] text-wrap-balance md:pt-8 pt-4 pb-4  `}>{gallery.title || gallery.name}</h1>
 
           {gallery.description && (
             <div
@@ -127,12 +127,13 @@ const Gallery = () => {
         ) : (
           <p className="text-left">{CONFIG.systemMessages.noImagesFound}</p>
         )}
-
-        <div className="max-w-[calc(1024px)] flex w-full mb-4 pb-4 flex flex-col md:flex-row justify-between items-center text-sm">
-          <div className="text-left flex justify-center gap-4 w-full">
-            {gallery.timeframe && <p>{gallery.timeframe}</p>} - {gallery.imageCount && <p>{gallery.imageCount} Fotos</p>}
+        {gallery.timeframe || gallery.imageCount ? (
+          <div className="max-w-[calc(1024px)] flex w-full my-8 pb-4 flex flex-col md:flex-row justify-between items-center text-sm">
+            <div className="text-left flex justify-center gap-4 w-full">
+              {gallery.timeframe && <p>{gallery.timeframe}</p>} - {gallery.imageCount && <p>{gallery.imageCount} Fotos</p>}
+            </div>
           </div>
-        </div>
+        ) : null}
       </div>
     </motion.div>
   );

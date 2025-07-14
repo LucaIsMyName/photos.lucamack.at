@@ -1,9 +1,12 @@
 import { useMemo } from "react";
+import { useSearchParams } from "react-router-dom";
 import useUrlState from "../../hooks/useUrlState";
+import useDebouncedUrlState from "../../hooks/useDebouncedUrlState";
 import { useTheme } from "../../contexts/ThemeContext";
 import HorizontalScroller from "../layout/HorizontalScroller";
 import { Link } from "react-router-dom";
-import { Download } from "lucide-react";
+import { Download, ChevronDown, ChevronUp } from "lucide-react";
+import * as Select from "@radix-ui/react-select";
 import { galleries } from "../../galleries";
 import { parseCreateDate } from "../../utils/date";
 import type { Image as ImageType, Gallery } from "../../types";
@@ -26,58 +29,81 @@ interface SortFilterBarProps {
 
 const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOptions, sortOrder, setSortOrder, startDate, setStartDate, endDate, setEndDate, onClearFilters }: SortFilterBarProps) => {
   const { theme } = useTheme();
-  return (
-    <>
-      <input
-        type="text"
-        placeholder="Suchen..."
-        value={searchTerm}
-        onChange={(e) => setSearchTerm(e.target.value)}
-        className=" flex-grow !min-w-[320px] w-[320px] truncate bg-transparent focus:outline-none"
-      />
+  const borderClass = theme === 'dark' ? 'border-white' : 'border-black';
 
-      <div className=" flex-grow !min-w-[440px] w-[440px] truncate flex gap-2 items-center border-l px-8 pr-0">
-        <span>Filter&nbsp;von</span>
+  return (
+    <div className="flex items-center w-full">
+      <div className={`flex-shrink-0 p-2 border-r ${borderClass}`}>
+        <input
+          type="text"
+          placeholder="Suchen..."
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          className={`bg-transparent focus:outline-none w-48`}
+        />
+      </div>
+
+      <div className={`flex-shrink-0 flex items-center gap-4 p-2 px-4 border-r ${borderClass}`}>
+        <span className="whitespace-nowrap">Filter von</span>
         <input
           type="date"
           value={startDate}
           onChange={(e) => setStartDate(e.target.value)}
-          className=" bg-transparent underline underline-offset-4 uppercase focus:outline-none"
+          className="bg-transparent focus:outline-none uppercase"
         />
         <span>bis</span>
         <input
           type="date"
           value={endDate}
           onChange={(e) => setEndDate(e.target.value)}
-          className="bg-transparent underline underline-offset-4 uppercase focus:outline-none"
+          className="bg-transparent focus:outline-none uppercase"
         />
       </div>
-      <div className="flex gap-2 !min-w-[440px] w-[440px] flex-grow  truncate items-center border-x px-8">
-        <span className="">Sortieren&nbsp;nach</span>
-        <select
-          onChange={(e) => setSortKey(e.target.value)}
-          value={sortKey}
-          className="bg-transparent focus:outline-none underline underline-offset-4">
-          {sortOptions.map((option) => (
-            <option
-              key={option.value}
-              value={option.value}>
-              {option.label}
-            </option>
-          ))}
-        </select>
+
+      <div className={`flex-shrink-0 flex items-center gap-4 p-2 px-4 border-r ${borderClass}`}>
+        <span className="whitespace-nowrap">Sortieren nach</span>
+        <Select.Root value={sortKey} onValueChange={setSortKey}>
+          <Select.Trigger className={`inline-flex items-center justify-center gap-2 bg-transparent focus:outline-none`}>
+            <Select.Value />
+            <Select.Icon>
+              <ChevronDown size={16} />
+            </Select.Icon>
+          </Select.Trigger>
+          <Select.Portal>
+            <Select.Content className={`overflow-hidden ${theme === 'dark' ? 'bg-black text-white border-white' : 'bg-white text-black border-black'} border`}>
+              <Select.ScrollUpButton className="flex items-center justify-center h-6 cursor-default">
+                <ChevronUp />
+              </Select.ScrollUpButton>
+              <Select.Viewport className="p-1">
+                {sortOptions.map((option) => (
+                  <Select.Item
+                    key={option.value}
+                    value={option.value}
+                    className={`text-sm leading-none flex items-center h-6 pr-8 pl-6 relative select-none data-[highlighted]:outline-none ${theme === 'dark' ? 'data-[highlighted]:bg-red-300 data-[highlighted]:text-black' : 'data-[highlighted]:bg-red-600 data-[highlighted]:text-white'}`}>
+                    <Select.ItemText>{option.label}</Select.ItemText>
+                  </Select.Item>
+                ))}
+              </Select.Viewport>
+              <Select.ScrollDownButton className="flex items-center justify-center h-6 cursor-default">
+                <ChevronDown />
+              </Select.ScrollDownButton>
+            </Select.Content>
+          </Select.Portal>
+        </Select.Root>
         <button
           onClick={() => setSortOrder(sortOrder === "asc" ? "desc" : "asc")}
-          className="cursor-pointer whitespace-nowrap underline underline-offset-4">
-          {sortOrder === "asc" ? "Aufsteigend" : "Absteigend"}
+          className="cursor-pointer whitespace-nowrap">
+          {sortOrder === "asc" ? "(Aufsteigend)" : "(Absteigend)"}
         </button>
       </div>
-      <button
-        onClick={onClearFilters}
-        className={`${theme === "dark" ? "text-red-300" : "text-red-600"} cursor-pointer underline underline-offset-4 whitespace-nowrap hover:underline ml-6`}>
-        Filter löschen
-      </button>
-    </>
+      <div className="flex-shrink-0 p-2 px-4">
+        <button
+          onClick={onClearFilters}
+          className={`${theme === "dark" ? "text-red-300" : "text-red-600"} cursor-pointer underline underline-offset-4 whitespace-nowrap hover:underline`}>
+          Filter löschen
+        </button>
+      </div>
+    </div>
   );
 };
 
@@ -87,16 +113,12 @@ const ListPage = () => {
   const [sortKey, setSortKey] = useUrlState<"createDate" | "galleryTitle">("sortBy", "createDate");
   const [gallerySortKey, setGallerySortKey] = useUrlState<"title" | "createDate">("gallerySortBy", "title");
   const [sortOrder, setSortOrder] = useUrlState<"asc" | "desc">("sortOrder", "desc");
-  const [startDate, setStartDate] = useUrlState("startDate", "");
-  const [endDate, setEndDate] = useUrlState("endDate", "");
+  const [startDate, setStartDate] = useDebouncedUrlState("startDate", "");
+  const [endDate, setEndDate] = useDebouncedUrlState("endDate", "");
+  const [, setSearchParams] = useSearchParams();
 
   const handleClearFilters = () => {
-    setSearchTerm("");
-    setSortKey("createDate");
-    setSortOrder("desc");
-    setStartDate("");
-    setEndDate("");
-    setGallerySortKey("title");
+    setSearchParams(new URLSearchParams(), { replace: true });
   };
 
   const allImages = useMemo(() => {
@@ -243,12 +265,12 @@ const ListPage = () => {
       />
       <div className="flex gap-4 border-b">
         <button
-          className={`cursor-pointer text-4xl md:text-5xl py-2 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
+          className={`cursor-pointer ${CONFIG.theme.headline.one} py-2 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
           onClick={() => setActiveTab("images")}>
           Fotos
         </button>
         <button
-          className={`cursor-pointer text-4xl md:text-5xl py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
+          className={`cursor-pointer ${CONFIG.theme.headline.one} py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
           onClick={() => setActiveTab("galleries")}>
           Galerien
         </button>

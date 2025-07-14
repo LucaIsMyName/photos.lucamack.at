@@ -3,7 +3,6 @@ import MapGL, { Marker, Popup, type MapRef } from "react-map-gl/mapbox";
 import { Link, useSearchParams } from "react-router-dom";
 import { Download, MapPin } from "lucide-react";
 import "mapbox-gl/dist/mapbox-gl.css";
-
 import { galleries } from "../../galleries";
 import type { Gallery, Image as ImageType } from "../../types";
 import { useTheme } from "../../contexts/ThemeContext";

@@ -72,12 +72,12 @@ const TimelinePage = () => {
   const tabClasses = (isActive: boolean) => `cursor-pointer text-4xl md:text-5xl py-2 ${isActive === true ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`;
 
   return (
-    <div className={`p-4 pl-7 sm:pl-4 md:pt-6  ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
+    <div className={`p-4 pl-7 md:pl-4 md:pt-6  ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
     <title>Timeline | Luca Mack</title>
     <meta name="description" content="Timeline von allen Fotos & Galerien" />
-      <div className="flex items-center justify-between mb-4 -ml-3 sm:ml-0">
+      <div className="flex items-center justify-between mb-4 -ml-3 md:ml-0">
         <h1 className="text-2xl sr-only">Timeline</h1>
-        <div className="flex items-center space-x-2 gap-2">
+        <div className="flex items-center space-x-2 gap-2 md:ml-0">
           <button
             onClick={() => setActiveTab("images")}
             className={`cursor-pointer ${tabClasses(activeTab === "images")}`}>
@@ -99,7 +99,7 @@ const TimelinePage = () => {
               <div
                 key={date}
                 className="relative">
-                <div className="absolute -left-[31.5px] top-4.5 transform -translate-x-1/2 flex items-center">
+                <div className="absolute -left-[31.25px] top-4.5 transform -translate-x-1/2 flex items-center">
                   <div className={`${theme === "dark" ? "bg-red-300 border border-white" : "bg-red-600 border border-black"} h-2 w-2 `}></div>
                 </div>
                 <h2 className={`sm:text-lg mb-4 sticky top-0 py-2 z-50 ${theme === "dark" ? "bg-black" : "bg-white"}`}>{new Date(date).toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" })}</h2>
@@ -145,19 +145,19 @@ const TimelinePage = () => {
 
       {activeTab === "galleries" && (
         <div className="relative pl-8">
-          <div className={`absolute left-0 top-7 h-full w-px ${theme === "dark" ? "bg-white" : "bg-black"}`}></div>
+          <div className={`absolute left-0 top-4.5 h-full w-px ${theme === "dark" ? "bg-white" : "bg-black"}`}></div>
           <h2 className="sr-only text-xl font-semibold my-4">Gallerien nach Zeitraum</h2>
           <div className="space-y-4">
             {galleriesWithTimeframes.map((gallery) => (
               <div
                 key={gallery.slug}
                 className="relative">
-                <div className="absolute -left-[31.5px] top-7 transform -translate-x-1/2 flex items-center">
+                <div className="absolute -left-[31.25px] top-4.5 transform -translate-x-1/2 flex items-center">
                   <div className={`${theme === "dark" ? "bg-red-300 border border-white" : "bg-red-600 border border-black"} h-2 w-2 `}></div>
                 </div>
                 <Link
                   to={`/gallery/${gallery.slug}`}
-                  className="block p-4">
+                  className="block p-4 pt-2">
                   <h3 className=" text-lg">{gallery.title}</h3>
                   <p className="text-xs ">
                     {gallery.startDate.toLocaleDateString("de-DE")} - {gallery.endDate.toLocaleDateString("de-DE")}

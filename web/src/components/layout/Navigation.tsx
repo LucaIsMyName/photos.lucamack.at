@@ -13,7 +13,7 @@ const Navigation = () => {
   const [showBottomGradient, setShowBottomGradient] = useState(false);
   const { theme, toggleTheme } = useTheme();
 
-  const navLinkClasses = (isActive: boolean, isSmall = false, hasSpacingX = true) => `block py-1 ${hasSpacingX ? "px-4" : ""}  text-left ${isSmall ? "text-xs" : "text-base"} truncate ${isActive ? `${theme === "light" ? "text-red-600" : "text-red-300"}` : "font-normal"}`;
+  const navLinkClasses = (isActive: boolean, isSmall = false, hasSpacingX = true) => `block py-1 ${hasSpacingX ? "px-4" : ""}  text-left ${isSmall ? "text-xs" : "text-base"} truncate ${isActive ? `underline underline-offset-4 ${theme === "light" ? "text-red-600 decoration-black" : "text-red-300 decoration-white"}` : "font-normal"}`;
 
   const handleLinkClick = () => {
     setIsMobileMenuOpen(false);

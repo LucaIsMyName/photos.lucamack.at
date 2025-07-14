@@ -37,6 +37,24 @@ const MakePostcardPage = () => {
   const [loading, setLoading] = useState(false);
   const [isDownloading, setIsDownloading] = useState(false);
 
+  const textImageIndex = useMemo(() => {
+    if (style === "single") return 0;
+    if (style === "four") {
+      if (textAlign === "top-left") return 0;
+      if (textAlign === "top-right") return 1;
+      if (textAlign === "bottom-left") return 2;
+      if (textAlign === "bottom-right") return 3;
+    }
+    if (style === "two") {
+      if (orientation === "portrait") {
+        return textAlign.startsWith("top") ? 0 : 1;
+      } else {
+        return textAlign.endsWith("left") ? 0 : 1;
+      }
+    }
+    return 0;
+  }, [style, textAlign, orientation]);
+
   const textAlignClasses = {
     "top-left": "top-0 left-0",
     "top-right": "top-0 right-0 text-right",
@@ -128,7 +146,7 @@ const MakePostcardPage = () => {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 flex-grow">
         <div className="md:col-span-1 space-y-4 flex flex-col justify-center">
           <h2 className="sr-only text-xl font-semibold">Optionen</h2>
-          <div className="grid grid-cols-2 gap-0">
+          <div className="grid grid-cols-2 gap-4 ">
             <Field label="Galerie">
               <StyledSelect
                 value={selectedGallery}
@@ -221,6 +239,8 @@ const MakePostcardPage = () => {
                   <SelectItem value="serif">Serif</SelectItem>
                   <SelectItem value="sans-serif">Sans-serif</SelectItem>
                   <SelectItem value="monospace">Monospace</SelectItem>
+                  <SelectItem value="Comic Sans MS">Comic Sans</SelectItem>
+                  <SelectItem value="cursive">Cursive</SelectItem>
                 </StyledSelect>
               </Field>
             </div>
@@ -229,9 +249,9 @@ const MakePostcardPage = () => {
             <Field label={`Schriftgrösse (${fontSize}px)`}>
               <StyledSlider
                 value={[fontSize]}
-                onValueChange={(v) => setFontSize(v[0])}
-                min={12}
-                max={72}
+                onValueChange={([val]) => setFontSize(val)}
+                min={8}
+                max={128}
                 step={1}
               />
             </Field>
@@ -239,9 +259,9 @@ const MakePostcardPage = () => {
             <Field label={`Textabstand (${textPadding}px)`}>
               <StyledSlider
                 value={[textPadding]}
-                onValueChange={(v) => setTextPadding(v[0])}
+                onValueChange={([val]) => setTextPadding(val)}
                 min={0}
-                max={64}
+                max={128}
                 step={1}
               />
             </Field>
@@ -263,7 +283,7 @@ const MakePostcardPage = () => {
             <button
               onClick={handleDownload}
               disabled={isDownloading}
-              className={cn("w-full mt-4 px-4 py-2 border border-transparent focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 flex gap-2 items-center justify-center", theme === "dark" ? "bg-white text-black hover:bg-neutral-200 focus:ring-offset-black focus:ring-red-300" : "bg-black text-white hover:bg-neutral-800 focus:ring-offset-white focus:ring-red-600")}>
+              className={cn("cursor-pointer w-full mt-4 px-4 py-2 border border-transparent focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 flex gap-2 items-center justify-center", theme === "dark" ? "bg-white text-black hover:bg-neutral-200 focus:ring-offset-black focus:ring-red-300" : "bg-black text-white hover:bg-neutral-800 focus:ring-offset-white focus:ring-red-600")}>
               <Download className="min-w-4 min-h-4 h-4 w-4" />
               Download
             </button>
@@ -271,10 +291,10 @@ const MakePostcardPage = () => {
         </div>
         <div className="md:col-span-2 flex flex-col">
           <h2 className="text-xl font-semibold mb-4 sr-only">Vorschau</h2>
-          <div className="w-full  md:max-w-[clamp(320px,33vw,380px)]  mx-auto flex-grow flex items-center justify-center">
+          <div className="w-full mb-8 sm:mb-0 sm:rotate-[2deg] xl:scale-[1.25]  md:max-w-[clamp(320px,33vw,380px)]  mx-auto flex-grow flex items-center justify-center">
             <div
               ref={postcardRef}
-              className={`relative select-none shadow-[0_0_2px_rgba(0,0,0,0.1)] grid gap-2 p-2 border border-black w-full ${theme === "dark" ? "bg-white" : "bg-white"}`}
+              className={`relative select-none shadow-[5px_5px_0px_rgba(0,0,0,0.2)] grid gap-2 p-2 border w-full ${theme === "dark" ? "bg-white" : "bg-white"}`}
               style={{
                 aspectRatio: postcardAspectRatio,
                 gridTemplateColumns: style === "single" ? "1fr" : style === "two" && orientation === "portrait" ? "1fr" : "repeat(2, 1fr)",
@@ -288,26 +308,27 @@ const MakePostcardPage = () => {
               {images.map((image, index) => (
                 <div
                   key={index}
-                  className="w-full h-full overflow-hidden">
+                  className="w-full h-full overflow-hidden relative">
                   <img
                     src={`/content/galleries/${image.gallery}/${image.filename}`}
                     alt={image.alt || ""}
                     className="w-full h-full object-cover"
                     onLoad={handleImageLoad}
                   />
+                  {text && index === textImageIndex && (
+                    <div
+                      className={`absolute leading-[0.9] ${textColor === "white" ? "text-white" : "text-black"} ${textAlignClasses[textAlign]}`}
+                      style={{
+                        fontFamily: fontFamily,
+                        fontSize: `${fontSize}px`,
+                        padding: `${textPadding}px`,
+                      }}>
+                      {text}
+                    </div>
+                  )}
                 </div>
               ))}
-              {text && (
-                <div
-                  className={`absolute leading-[0.9] ${textColor === "white" ? "text-white" : "text-black"} ${textAlignClasses[textAlign]}`}
-                  style={{
-                    fontFamily: fontFamily,
-                    fontSize: `${fontSize}px`,
-                    padding: `${textPadding}px`,
-                  }}>
-                  {text}
-                </div>
-              )}
+              
             </div>
           </div>
         </div>
@@ -330,7 +351,7 @@ const StyledSelect = ({ children, ...props }: Select.SelectProps & { children: R
   const { theme } = useTheme();
   return (
     <Select.Root {...props}>
-      <Select.Trigger className={cn("w-full text-sm flex justify-between items-center p-0 truncate focus:outline-none focus:ring-2", theme === "dark" ? "bg-black border-white text-white focus:ring-red-300" : "bg-white border-black text-black focus:ring-red-600")}>
+      <Select.Trigger className={cn("cursor-pointer w-full text-sm flex justify-between items-center p-0 truncate focus:outline-none focus:ring-2", theme === "dark" ? "bg-black border-white text-white focus:ring-red-300" : "bg-white border-black text-black focus:ring-red-600")}>
         <Select.Value placeholder={props.placeholder} />
         <Select.Icon>
           <ChevronDown className="h-4 w-4" />
@@ -340,7 +361,7 @@ const StyledSelect = ({ children, ...props }: Select.SelectProps & { children: R
         <Select.Content
           position="popper"
           sideOffset={5}
-          className={cn("w-screen shadow-lg z-50 md:w-auto md:min-w-[var(--radix-select-trigger-width)] md:max-w-md", theme === "dark" ? "bg-black text-white border-white" : "bg-white text-black border-black")}>
+          className={cn("w-[calc(100vw-4rem)] shadow-[2px_2px_0px_rgba(0,0,0,0.2)] border z-50 md:w-auto md:min-w-[var(--radix-select-trigger-width)] md:max-w-md", theme === "dark" ? "bg-black text-white border-white" : "bg-white text-black border-black")}>
           <Select.Viewport className="p-1">{children}</Select.Viewport>
         </Select.Content>
       </Select.Portal>
@@ -369,11 +390,11 @@ const StyledSlider = (props: Slider.SliderProps) => {
     <Slider.Root
       className="relative flex items-center select-none touch-none w-full h-5"
       {...props}>
-      <Slider.Track className={`relative grow h-[3px] ${theme === "dark" ? "bg-neutral-700" : "bg-neutral-200"}`}>
+      <Slider.Track className={`cursor-pointer relative grow h-[3px] ${theme === "dark" ? "bg-neutral-700" : "bg-neutral-200"}`}>
         <Slider.Range className={`absolute h-full ${theme === "dark" ? "bg-white" : "bg-black"}`} />
       </Slider.Track>
       <Slider.Thumb
-        className={cn("block w-4 h-4 border-2 focus:outline-none focus:ring-2 focus:ring-offset-2", theme === "dark" ? "bg-white border-white focus:ring-offset-black focus:ring-red-300" : "bg-black border-black focus:ring-offset-white focus:ring-red-600")}
+        className={cn("cursor-grab active:cursor-grabbing block w-4 h-4 border-2 focus:outline-none focus:ring-2 focus:ring-offset-2", theme === "dark" ? "bg-white border-white focus:ring-offset-black focus:ring-red-300" : "bg-black border-black focus:ring-offset-white focus:ring-red-600")}
         aria-label="Lautstärke"
       />
     </Slider.Root>

@@ -13,7 +13,9 @@ body {
   -ms-overflow-style: none;  
   scrollbar-width: none;  
 } */
-
+.recharts-text {
+  font-size: 11px;
+}
 * {
   min-width: 0;
 }
