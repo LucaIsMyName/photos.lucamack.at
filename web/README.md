@@ -166,9 +166,10 @@ interface Image {
 
 ## Future Work
 
-- **Images**: Add a w380 Image sizes?!
+- **List.tsx** & **Timeline.tsx**: Implement Ajax Loading for images or some kind of virtualization
 - **System Messages**: Insert `CONFIG.systemMessages` from `config.ts` file instead of hardcoding standard texts
 - **List.tsx**: Make 2 Column Layout more defensive / truncate text early, set image width and height the *hard* way
+- **HorizontalScroll.tsx**: Implement Progressive Blur on the gradient bg filter
 - **MakePostcardPage.tsx**: 
   - A Strict Masonry/Strict Layout option
   - different text pacement strategies (drag'n'drop, text align (left/center/right))

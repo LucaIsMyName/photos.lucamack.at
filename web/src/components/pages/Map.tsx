@@ -1,17 +1,25 @@
-import { useState, useMemo, useEffect, useRef, useCallback } from "react";
+import { useState, useMemo, useRef, useCallback } from "react";
 import MapGL, { Marker, Popup, type MapRef } from "react-map-gl/mapbox";
+import useSupercluster from "use-supercluster";
 import { Link, useSearchParams } from "react-router-dom";
 import { Download, MapPin } from "lucide-react";
 import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../../galleries";
+import { CONFIG } from "../../config";
 import type { Gallery, Image as ImageType } from "../../types";
+import type { PointFeature, ClusterProperties } from "supercluster";
 import { useTheme } from "../../contexts/ThemeContext";
-
-const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN;
+import { cn } from "../../utils/cn";
+import { getImageUrl } from "../../utils/image";
 
 interface GeotaggedImage {
   gallery: Gallery;
   image: ImageType;
+}
+
+// Type guard to check if a point is a cluster
+function isCluster(point: PointFeature<any>): point is PointFeature<ClusterProperties> {
+  return point.properties.cluster === true;
 }
 
 const MapPage = () => {
@@ -20,19 +28,27 @@ const MapPage = () => {
   const [popupInfo, setPopupInfo] = useState<GeotaggedImage | null>(null);
   const [isLegendOpen, setIsLegendOpen] = useState(false);
   const [hiddenGalleries, setHiddenGalleries] = useState<Set<string>>(new Set());
+  const [bounds, setBounds] = useState<[number, number, number, number] | undefined>();
   const [searchParams] = useSearchParams();
+  const [viewState, setViewState] = useState({
+    longitude: 16,
+    latitude: 48,
+    zoom: 3,
+  });
 
   const geotaggedImages = useMemo(() => {
     const allImages: GeotaggedImage[] = [];
     galleries.forEach((gallery) => {
-      gallery.images?.forEach((image, index) => {
-        if (image.latitude && image.longitude) {
-          allImages.push({ image: { ...image, index }, gallery });
-        }
-      });
+      if (!hiddenGalleries.has(gallery.slug)) {
+        gallery.images?.forEach((image, index) => {
+          if (image.latitude && image.longitude) {
+            allImages.push({ image: { ...image, index }, gallery });
+          }
+        });
+      }
     });
     return allImages;
-  }, []);
+  }, [hiddenGalleries]);
 
   const galleryColors = useMemo(() => {
     const colors = ["bg-rose-300", "bg-fuchsia-300", "bg-indigo-300", "bg-sky-300", "bg-emerald-300", "bg-amber-300", "bg-red-300", "bg-violet-300", "bg-cyan-300", "bg-lime-300", "bg-pink-300", "bg-blue-300", "bg-green-300", "bg-yellow-300", "bg-purple-300", "bg-teal-300"];
@@ -42,6 +58,24 @@ const MapPage = () => {
     });
     return colorMap;
   }, []);
+
+  const points: PointFeature<GeotaggedImage>[] = useMemo(() => {
+    return geotaggedImages.map((item) => ({
+      type: "Feature",
+      properties: item,
+      geometry: {
+        type: "Point",
+        coordinates: [item.image.longitude!, item.image.latitude!],
+      },
+    }));
+  }, [geotaggedImages]);
+
+  const { clusters, supercluster } = useSupercluster({
+    points,
+    bounds,
+    zoom: viewState.zoom,
+    options: { radius: 75, maxZoom: 13 },
+  });
 
   const handleMapLoad = () => {
     if (!mapRef.current) return;
@@ -54,7 +88,11 @@ const MapPage = () => {
 
       if (targetImage) {
         setPopupInfo(targetImage);
-        mapRef.current.flyTo({ center: [targetImage.image.longitude!, targetImage.image.latitude!], zoom: 14 });
+        setViewState({
+          longitude: targetImage.image.longitude!,
+          latitude: targetImage.image.latitude!,
+          zoom: 14,
+        });
         return;
       }
     }
@@ -62,7 +100,11 @@ const MapPage = () => {
     if (geotaggedImages.length === 0) return;
 
     if (geotaggedImages.length === 1) {
-      mapRef.current.flyTo({ center: [geotaggedImages[0].image.longitude!, geotaggedImages[0].image.latitude!], zoom: 10 });
+      setViewState({
+        longitude: geotaggedImages[0].image.longitude!,
+        latitude: geotaggedImages[0].image.latitude!,
+        zoom: 10,
+      });
       return;
     }
 
@@ -83,11 +125,6 @@ const MapPage = () => {
     );
   };
 
-  useEffect(() => {
-    // This effect is now just for re-fitting bounds if the images change dynamically, which is unlikely in this app.
-    // The main logic is in handleMapLoad.
-  }, [geotaggedImages]);
-
   const toggleGalleryVisibility = useCallback((slug: string) => {
     setHiddenGalleries((prev) => {
       const newSet = new Set(prev);
@@ -102,10 +139,10 @@ const MapPage = () => {
 
   return (
     <div className="h-full w-full relative">
-      <title>Luca Mack | Foto Karte</title>
+      <title>Foto Karte | Luca Mack</title>
       <meta
         name="title"
-        content={`Luca Mack | Foto Karte`}
+        content={`Foto Karte | Luca Mack`}
       />
       <meta
         name="description"
@@ -114,14 +151,14 @@ const MapPage = () => {
 
       <button
         onClick={() => setIsLegendOpen(!isLegendOpen)}
-        className={`flex gap-2 items-center cursor-pointer absolute bottom-4 right-4 z-10 p-2 border shadow-[2px_2px_0px_#00000033] transition-colors ${theme === "dark" ? "bg-black text-white " : "bg-white text-black"}`}
+        className={`flex gap-2 items-center cursor-pointer absolute top-4 md:top-auto left-4 md:left-auto bottom-auto md:bottom-4 right-auto md:right-4 z-10 p-2 border shadow-[2px_2px_0px_#00000033] transition-colors ${theme === "dark" ? "bg-black text-white " : "bg-white text-black"}`}
         aria-label="Toggle map legend">
-        <span className="cursor-pointer text-xs uppercase tracking-wider ml-3">Legende</span>
+        <span className="cursor-pointer text-xs ml-2">Legende</span>
         <MapPin size={20} />
       </button>
 
       {isLegendOpen && (
-        <div className={`absolute bottom-16 right-4 z-50 px-3 pb-3 py-2 border shadow-[2px_2px_0px_#00000033] w-full max-w-[calc(100%-2rem)] md:max-w-xl ${theme === "dark" ? "bg-black/90 backdrop-blur-sm text-white" : "bg-white/90 backdrop-blur-sm text-black"}`}>
+        <div className={`absolute top-16 md:top-auto left-4 md:left-auto bottom-auto md:bottom-16 right-auto md:right-4 z-50 px-3 pb-3 py-2 border shadow-[2px_2px_0px_#00000033] w-full max-w-[calc(100%-2rem)] md:max-w-xl ${theme === "dark" ? "bg-black/90 backdrop-blur-sm text-white" : "bg-white/90 backdrop-blur-sm text-black"}`}>
           <h3 className="font-bold text-lg mb-2">Legende</h3>
           <h4 className="text-xs mb-4">Galerien via Farbe, Klick auf Galerie um zu verstecken oder einzublenden</h4>
           <ul className="grid grid-cols-2 md:grid-cols-3 gap-x-6 gap-y-2 text-sm">
@@ -139,21 +176,55 @@ const MapPage = () => {
       )}
 
       <MapGL
-        ref={mapRef}
-        initialViewState={{
-          longitude: 16,
-          latitude: 48,
-          zoom: 3,
+        {...viewState}
+        onMove={(evt) => {
+          setViewState(evt.viewState);
+          if (mapRef.current) {
+            setBounds(mapRef.current.getMap().getBounds()?.toArray().flat() as [number, number, number, number]);
+          }
         }}
+        ref={mapRef}
         style={{ width: "100%", height: "100%" }}
-        mapStyle={theme === "dark" ? "mapbox://styles/luma1992/cmcrpf414029501qx4b4fa2jx" : "mapbox://styles/luma1992/cmcrp4svj045g01r17lvz89bx"}
-        mapboxAccessToken={MAPBOX_TOKEN}
+        mapStyle={theme === "dark" ? CONFIG.mapbox.style.dark : CONFIG.mapbox.style.light}
+        mapboxAccessToken={CONFIG.mapbox.accessToken}
         onLoad={handleMapLoad}>
-        {geotaggedImages
-          .filter((item) => !hiddenGalleries.has(item.gallery.slug))
-          .map((item, index) => (
+        {clusters.map((point) => {
+          const [longitude, latitude] = point.geometry.coordinates;
+
+          if (isCluster(point)) {
+            const { point_count: pointCount, cluster_id } = point.properties;
+            return (
+              <Marker
+                key={` cluster-${cluster_id}`}
+                latitude={latitude}
+                longitude={longitude}>
+                <div
+                  className={`shadow-[-2px_0px_0px_#00000033] -rotate-45 ${theme === "dark" ? "bg-white text-black" : "bg-black text-white"} border flex items-center justify-center cursor-pointer`}
+                  style={{
+                    width: `${30 + (pointCount / points.length) * 40}px`,
+                    height: `${30 + (pointCount / points.length) * 40}px`,
+                  }}
+                  onClick={() => {
+                    if (!supercluster) return;
+                    const expansionZoom = Math.min(supercluster.getClusterExpansionZoom(cluster_id), 20);
+                    setViewState({
+                      ...viewState,
+                      longitude,
+                      latitude,
+                      zoom: expansionZoom,
+                    });
+                  }}>
+                  <span className="rotate-45">{pointCount}</span>
+                </div>
+              </Marker>
+            );
+          }
+
+          const item = point.properties as GeotaggedImage;
+
+          return (
             <Marker
-              key={`marker-${index}`}
+              key={`marker-${item.image.filename}`}
               longitude={item.image.longitude!}
               latitude={item.image.latitude!}
               anchor="center"
@@ -161,9 +232,10 @@ const MapPage = () => {
                 e.originalEvent?.stopPropagation();
                 setPopupInfo(item);
               }}>
-              <div className={`h-3 w-3 border ${galleryColors.get(item.gallery.slug) || "bg-gray-400"} ${theme === "dark" ? "border-white" : "border-gray-800"}`} />
+              <div className={cn(`shadow-[1px_1px_0px_#00000033] h-3 w-3 border ${galleryColors.get(item.gallery.slug) || "bg-gray-400"} ${theme === "dark" ? "border-white" : "border-gray-800"}`)} />
             </Marker>
-          ))}
+          );
+        })}
 
         {popupInfo && (
           <Popup
@@ -173,27 +245,27 @@ const MapPage = () => {
             onClose={() => setPopupInfo(null)}
             closeButton={false}
             className="z-10">
-            <div className={`relative  ${theme === "dark" ? "text-black" : "bg-white text-black"}`}>
+            <div className={`relative bg-white text-black`}>
               <div className="relative group ">
-                <Link to={`/gallery/${popupInfo.gallery.slug}`}>
+                <Link to={`/image/${popupInfo.image.filename.replace(/\.[^/.]+$/, "")}`}>
                   <img
-                    className="w-40 md:w-64 h-auto"
-                    src={`/content/galleries/${popupInfo.gallery.slug}/${popupInfo.image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, "-640w.jpg")}`}
+                    className="w-40 md:w-64 w-full h-auto"
+                    src={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename, 640)}
                     alt={popupInfo.image.alt || popupInfo.gallery.title}
                     loading="lazy"
                   />
                 </Link>
               </div>
-              <section className={`flex items-center justify-between gap-2 ${theme === "dark" ? "text-white bg-black bg-opacity-70" : "text-black bg-white bg-opacity-70"}`}>
-                <p className={`font-geist p-2 text-base truncate ${theme === "dark" ? "text-white bg-black bg-opacity-70" : "text-black bg-white bg-opacity-70"}`}>
-                  {popupInfo.gallery.title}
-                  {typeof popupInfo.image.index === "number" && ` #${popupInfo.image.index + 1}`}
-                </p>
+              <section className={`flex items-start justify-between gap-2`}>
+                <div className={`font-geist p-2 pb-0 text-base truncate`}>
+                  <p className="truncate">{popupInfo.image.filename}</p>
+                  <p className="text-sm truncate">{popupInfo.gallery.title}</p>
+                </div>
                 <a
-                  href={`/content/galleries/${popupInfo.gallery.slug}/${popupInfo.image.filename}`}
+                  href={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename, "original")}
                   download
                   onClick={(e) => e.stopPropagation()}
-                  className={`p-2 px-3 ${theme === "dark" ? "text-white bg-black" : "text-black bg-white"}`}
+                  className={`p-2 px-3 mt-1`}
                   aria-label={`Download ${popupInfo.image.filename}`}>
                   <Download size={16} />
                 </a>

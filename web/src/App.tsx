@@ -1,27 +1,30 @@
 import { Routes, Route, useLocation } from "react-router-dom";
-import { useRef } from "react";
+import { useRef, lazy, Suspense, useEffect } from "react";
 import Navigation from "./components/layout/Navigation";
-import Home from "./components/pages/Home";
-import Gallery from "./components/pages/Gallery";
-import PageComponent from "./components/pages/PageComponent";
-import MapPage from "./components/pages/Map";
-import ListPage from "./components/pages/List";
-import TimelinePage from "./components/pages/Timeline";
-import MakePostcardPage from "./components/pages/MakePostcardPage";
-import StatisticsPage from "./components/pages/StatisticsPage";
 import { useTheme } from "./contexts/ThemeContext";
-import { AnimatePresence } from "framer-motion";
+
+// Lazy load page components for code splitting
+const Home = lazy(() => import("./components/pages/Home"));
+const Gallery = lazy(() => import("./components/pages/Gallery"));
+const PageComponent = lazy(() => import("./components/pages/PageComponent"));
+const MapPage = lazy(() => import("./components/pages/Map"));
+const ListPage = lazy(() => import("./components/pages/List"));
+const TimelinePage = lazy(() => import("./components/pages/Timeline"));
+const MakePostcardPage = lazy(() => import("./components/pages/MakePostcardPage"));
+const StatisticsPage = lazy(() => import("./components/pages/StatisticsPage"));
+const ImagePage = lazy(() => import("./components/pages/ImagePage"));
+const NotFound = lazy(() => import("./components/pages/NotFound"));
 
 function App() {
   const { theme } = useTheme();
-  const location = useLocation();
   const mainRef = useRef<HTMLElement>(null);
+  const location = useLocation();
 
-  const onExitComplete = () => {
+  useEffect(() => {
     if (mainRef.current) {
-      mainRef.current.scrollTo(0, 0);
+      mainRef.current.scrollTop = 0;
     }
-  };
+  }, [location]);
 
   return (
     <div className={`bg-black font-geist h-screen w-screen flex flex-col md:flex-row gap-4 md:gap-8 ${theme === "light" ? "bg-white text-black" : "bg-black text-white"}`}>
@@ -29,12 +32,8 @@ function App() {
       <main
         ref={mainRef}
         className={`flex-1 overflow-y-auto ${theme === "light" ? "bg-white" : "bg-black"}`}>
-        <AnimatePresence
-          mode="wait"
-          onExitComplete={onExitComplete}>
-          <Routes
-            location={location}
-            key={location.pathname}>
+        <Suspense fallback={<div className="p-4 pt-8">Laden ...</div>}>
+          <Routes>
             <Route
               path="/"
               element={<Home />}
@@ -67,8 +66,16 @@ function App() {
               path="/statistics"
               element={<StatisticsPage />}
             />
+            <Route
+              path="/image/:imageName"
+              element={<ImagePage />}
+            />
+            <Route
+              path="*"
+              element={<NotFound />}
+            />
           </Routes>
-        </AnimatePresence>
+        </Suspense>
       </main>
     </div>
   );

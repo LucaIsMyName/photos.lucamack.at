@@ -1,16 +1,30 @@
-import { useMemo } from "react";
+import { useState, useEffect, useMemo } from "react";
+import { useSearchParams } from "react-router-dom";
 import { Link } from "react-router-dom";
 import { Download, MapPin } from "lucide-react";
 import { useTheme } from "../../contexts/ThemeContext";
-import useUrlState from "../../hooks/useUrlState";
+import { cn } from "../../utils/cn";
 import { galleries } from "../../galleries";
 import type { Image as ImageType } from "../../types";
 import { parseCreateDate } from "../../utils/date";
 import { CONFIG } from "../../config";
+import { getImageUrl } from "../../utils/image";
 
 const TimelinePage = () => {
   const { theme } = useTheme();
-  const [activeTab, setActiveTab] = useUrlState<"images" | "galleries">("tab", "images");
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  const [activeTab, setActiveTab] = useState<"images" | "galleries">((searchParams.get("tab") as "images" | "galleries") || "images");
+
+  useEffect(() => {
+    const newSearchParams = new URLSearchParams(searchParams);
+    if (activeTab === "images") {
+      newSearchParams.delete("tab");
+    } else {
+      newSearchParams.set("tab", activeTab);
+    }
+    setSearchParams(newSearchParams, { replace: true });
+  }, [activeTab, searchParams, setSearchParams]);
 
   const allImages = useMemo(() => {
     const images: (ImageType & { galleryTitle: string; gallerySlug: string; index: number })[] = [];
@@ -70,11 +84,17 @@ const TimelinePage = () => {
   }, []);
 
   const tabClasses = (isActive: boolean) => `cursor-pointer text-4xl md:text-5xl py-2 ${isActive === true ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`;
+  const lineClasses = cn(`absolute sm:left-2 left-0 top-4.5 h-full w-px ${theme === "dark" ? "bg-white" : "bg-black"}`);
+  const dotClasses = cn(`absolute -left-[32px] sm:-left-[23.4px] top-4.5 transform -translate-x-1/2 flex items-center`);
+  const dotInnerClasses = cn(`${theme === "dark" ? "bg-red-300 border border-white" : "bg-red-600 border border-black"} h-2 w-2 `);
 
   return (
-    <div className={`p-4 pl-7 md:pl-4 md:pt-6  ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
-    <title>Timeline | Luca Mack</title>
-    <meta name="description" content="Timeline von allen Fotos & Galerien" />
+    <div className={`p-4 pl-7 sm:pl-0 md:pt-6  ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
+      <title>Timeline | Luca Mack</title>
+      <meta
+        name="description"
+        content="Timeline von allen Fotos & Galerien"
+      />
       <div className="flex items-center justify-between mb-4 -ml-3 md:ml-0">
         <h1 className="text-2xl sr-only">Timeline</h1>
         <div className="flex items-center space-x-2 gap-2 md:ml-0">
@@ -93,24 +113,24 @@ const TimelinePage = () => {
 
       {activeTab === "images" && (
         <div className="relative pl-8">
-          <div className={`absolute left-0 top-4.5 h-full w-px ${theme === "dark" ? "bg-white" : "bg-black"}`}></div>
+          <div className={lineClasses}></div>
           <div className="space-y-8">
             {imagesByDate.map(([date, images]) => (
               <div
                 key={date}
                 className="relative">
-                <div className="absolute -left-[31.25px] top-4.5 transform -translate-x-1/2 flex items-center">
-                  <div className={`${theme === "dark" ? "bg-red-300 border border-white" : "bg-red-600 border border-black"} h-2 w-2 `}></div>
+                <div className={dotClasses}>
+                  <div className={dotInnerClasses}></div>
                 </div>
                 <h2 className={`sm:text-lg mb-4 sticky top-0 py-2 z-50 ${theme === "dark" ? "bg-black" : "bg-white"}`}>{new Date(date).toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" })}</h2>
-                <div className="grid grid-cols-4 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-4">
+                <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-6 lg:grid-cols-7 xl:grid-cols-8 gap-2 sm:gap-4">
                   {images.map((image) => (
                     <Link
-                      to={`/gallery/${image.gallerySlug}`}
+                      to={`/image/${image.filename.replace(/\.[^/.]+$/, "")}`}
                       key={image.filename}
                       className="relative group block">
                       <img
-                        src={`/content/galleries/${image.gallerySlug}/${image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, "-640w.jpg")}`}
+                        src={getImageUrl(image.gallerySlug, image.filename, 640)}
                         alt={image.alt || image.filename}
                         loading="lazy"
                         className="w-full h-full object-cover aspect-square"
@@ -126,7 +146,7 @@ const TimelinePage = () => {
                           </Link>
                         )}
                         <a
-                          href={`/content/galleries/${image.gallerySlug}/${image.filename}`}
+                          href={getImageUrl(image.gallerySlug, image.filename, "original")}
                           download
                           onClick={(e) => e.stopPropagation()} // Prevent navigating to gallery when clicking download
                           className={`p-1 transition-colors ${theme === "dark" ? "text-white bg-black bg-opacity-50 " : "text-black bg-white bg-opacity-50"}`}
@@ -145,15 +165,15 @@ const TimelinePage = () => {
 
       {activeTab === "galleries" && (
         <div className="relative pl-8">
-          <div className={`absolute left-0 top-4.5 h-full w-px ${theme === "dark" ? "bg-white" : "bg-black"}`}></div>
+          <div className={lineClasses}></div>
           <h2 className="sr-only text-xl font-semibold my-4">Gallerien nach Zeitraum</h2>
           <div className="space-y-4">
             {galleriesWithTimeframes.map((gallery) => (
               <div
                 key={gallery.slug}
                 className="relative">
-                <div className="absolute -left-[31.25px] top-4.5 transform -translate-x-1/2 flex items-center">
-                  <div className={`${theme === "dark" ? "bg-red-300 border border-white" : "bg-red-600 border border-black"} h-2 w-2 `}></div>
+                <div className={dotClasses}>
+                  <div className={dotInnerClasses}></div>
                 </div>
                 <Link
                   to={`/gallery/${gallery.slug}`}

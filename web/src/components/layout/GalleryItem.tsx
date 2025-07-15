@@ -1,19 +1,15 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import Image from "./Image";
-
-const responsiveSizes = [640, 1440];
+import { getImageUrl } from "../../utils/image";
 
 interface GalleryItemProps {
-  src: string;
   alt: string;
-  latitude?: number | null;
-  longitude?: number | null;
   gallerySlug: string;
   imageFilename: string;
 }
 
-const GalleryItem = ({ src, alt, latitude, longitude, gallerySlug, imageFilename }: GalleryItemProps) => {
+const GalleryItem = ({ alt, gallerySlug, imageFilename }: GalleryItemProps) => {
   const [orientation, setOrientation] = useState<"landscape" | "portrait" | "square" | null>(null);
 
   const handleImageLoad = (dimensions: { width: number; height: number }) => {
@@ -40,10 +36,7 @@ const GalleryItem = ({ src, alt, latitude, longitude, gallerySlug, imageFilename
     }
   };
 
-  const ext = src.substring(src.lastIndexOf("."));
-  const baseSrc = src.substring(0, src.lastIndexOf("."));
-
-  const srcSet = responsiveSizes.map((size) => `${baseSrc.replace(" ", "_").trim()}-${size}w${ext} ${size}w`).join(", ");
+    
 
   const sizes =
     orientation === "landscape"
@@ -56,36 +49,21 @@ const GalleryItem = ({ src, alt, latitude, longitude, gallerySlug, imageFilename
     <div
       id={`image-${imageFilename.split(".")[0]}`}
       className={getFlexClasses()}>
-      <div className="p-0 sm:pr-4 sm:pb-4 md:pb-12">
-        {latitude && longitude ? (
-          <Link
-            to={`/map?gallery=${gallerySlug}&image=${imageFilename}`}
-            className="block">
-            <Image
-              src={src}
-              alt={alt}
-              width={640} // Provide a base width
-              height={orientation === "landscape" ? 427 : orientation === "portrait" ? 960 : 640} // Adjust height based on orientation
-              onImageLoad={handleImageLoad}
-              srcSet={srcSet}
-              sizes={sizes}
-              loading="lazy"
-              className="w-full h-auto object-cover"
-            />
-          </Link>
-        ) : (
+      <div className="p-0 sm:pr-4 sm:pb-4 md:py-6">
+        <Link
+          to={`/image/${imageFilename.replace(/\.[^/.]+$/, "")}`}
+          className="block">
           <Image
-            src={src}
-            alt={alt}
+            src={getImageUrl(gallerySlug, imageFilename)}
+            alt={alt || ""}
             width={640}
-            height={orientation === "landscape" ? 427 : orientation === "portrait" ? 960 : 640} // Adjust height based on orientation
+            height={orientation === "landscape" ? 427 : orientation === "portrait" ? 960 : 640}
             onImageLoad={handleImageLoad}
-            srcSet={srcSet}
             sizes={sizes}
             loading="lazy"
-            className="w-full h-auto object-cover"
+            className="w-full h-auto block"
           />
-        )}
+        </Link>
       </div>
     </div>
   );

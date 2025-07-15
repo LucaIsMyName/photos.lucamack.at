@@ -3,10 +3,8 @@ import { Link } from "react-router-dom";
 import { galleries } from "../../galleries";
 import type { Gallery, Image as ImageType } from "../../types";
 import Image from "../layout/Image";
-import { motion } from "framer-motion";
-import { pageVariants, pageTransition } from "../../animations";
-
-const responsiveSizes = [640, 1440];
+import { cn } from "../../utils/cn";
+import { getImageUrl } from "../../utils/image";
 
 const Home = () => {
   const [randomImage, setRandomImage] = useState<{ gallery: Gallery; image: ImageType } | null>(null);
@@ -25,15 +23,12 @@ const Home = () => {
       return null;
     }
 
-    const src = `/content/galleries/${randomImage.gallery.slug}/${randomImage.image.filename}`;
-    const ext = src.substring(src.lastIndexOf("."));
-    const baseSrc = src.substring(0, src.lastIndexOf("."));
-    const srcSet = responsiveSizes.map((size) => `${baseSrc}-${size}w${ext} ${size}w`).join(", ");
-
+        const src = getImageUrl(randomImage.gallery.slug, randomImage.image.filename);
     return {
       src,
-      srcSet,
-      alt: randomImage.gallery.title || randomImage.gallery.name,
+      alt: randomImage.image.alt || "",
+      width: randomImage.image.width,
+      height: randomImage.image.height,
       slug: randomImage.gallery.slug,
     };
   };
@@ -41,23 +36,17 @@ const Home = () => {
   const imageDetails = getImageDetails();
 
   return (
-    <motion.div
-      initial="initial"
-      animate="in"
-      exit="out"
-      variants={pageVariants}
-      transition={pageTransition as any}
-      className="h-full w-full relative">
-      <title>Luca Mack | Fotos</title>
+    <div className="h-full w-full relative">
+      <title>Fotos | Luca Mack</title>
       <meta
         name="title"
-        content={`Luca Mack | Fotos`}
+        content={`Fotos | Luca Mack`}
       />
       <meta
         name="description"
         content="A collection of photos by Luca Mack, showcasing moments from various galleries."
       />
-      <div className="absolute inset-0 p-8 md:p-16">
+      <div className={cn("absolute inset-0 p-8 md:p-16")}>
         {imageDetails ? (
           <Link
             to={`/gallery/${imageDetails.slug}`}
@@ -65,19 +54,18 @@ const Home = () => {
             <Image
               src={imageDetails.src}
               alt={imageDetails.alt}
-              width={1920} // Standard 16:9 width
-              height={1080} // Standard 16:9 height
-              srcSet={imageDetails.srcSet}
+              width={imageDetails.width || 1920}
+              height={imageDetails.height || 1080}
               sizes="100vw"
               loading="eager"
-              className="object-contain w-full h-full"
+              className={cn("object-contain w-full h-full")}
             />
           </Link>
         ) : (
           <div className="text-center">Lade Foto...</div>
         )}
       </div>
-    </motion.div>
+    </div>
   );
 };
 

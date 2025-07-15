@@ -1,22 +1,27 @@
 import { useState, useEffect } from "react";
 // import heic2any from "heic2any";
 import { useInView } from "react-intersection-observer";
+import { getSizedImagePath } from "../../utils/image";
+import { cn } from "../../utils/cn";
+import { useTheme } from "../../contexts/ThemeContext";
 
 interface ImageProps {
   id?: string;
   src: string;
   alt: string;
-  width: number;
-  height: number;
+  width?: number;
+  height?: number;
   className?: string;
   style?: React.CSSProperties;
   onImageLoad?: (dimensions: { width: number; height: number }) => void;
-  srcSet?: string;
   sizes?: string;
   loading?: "lazy" | "eager";
 }
 
-const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, srcSet, sizes, width, height }: ImageProps) => {
+const responsiveSizes = [640, 1440];
+
+const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, sizes, width, height }: ImageProps) => {
+  const { theme } = useTheme();
   const { ref, inView } = useInView({
     triggerOnce: true,
     threshold: 0.1,
@@ -25,6 +30,11 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, srcS
   const [imageUrl, setImageUrl] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [isLoaded, setIsLoaded] = useState(false);
+
+  const filename = src.split("/").pop() || "";
+  const gallerySlug = src.split("/")[3];
+
+  const srcSet = responsiveSizes.map((size) => `/content/galleries/${gallerySlug}/${getSizedImagePath(filename, size as 640 | 1440)} ${size}w`).join(", ");
 
   useEffect(() => {
     if (!inView) {
@@ -69,11 +79,12 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, srcS
   };
 
   if (!imageUrl) {
+    const aspectRatioStyle = width && height ? { aspectRatio: `${width} / ${height}` } : { aspectRatio: "4 / 3" };
     return (
       <div
         ref={ref}
-        style={{ aspectRatio: `${width} / ${height}` }}
-        className="w-full h-auto bg-gray-200 dark:bg-neutral-800 animate-pulse"></div>
+        style={aspectRatioStyle}
+        className={cn(`w-full h-auto animate-pulse ${theme === "dark" ? "bg-black" : "bg-white"}`)}></div>
     );
   }
 

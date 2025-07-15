@@ -3,11 +3,10 @@ import { galleries } from "../../galleries";
 import { marked } from "marked";
 import type { Gallery as GalleryType } from "../../types";
 import GalleryItem from "../layout/GalleryItem";
-import { motion } from "framer-motion";
-import { pageVariants, pageTransition } from "../../animations";
 import { useEffect, useMemo } from "react";
 import { useLocation } from "react-router-dom";
 import { CONFIG } from "../../config";
+import { getImageUrl } from "../../utils/image";
 
 const Gallery = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -50,7 +49,7 @@ const Gallery = () => {
           "@type": "ImageObject",
           name: image.filename,
           description: image.alt || `A photo from the gallery: ${gallery.title}`,
-          contentUrl: `${CONFIG.url}/content/galleries/${gallery.slug}/${image.filename}`,
+          contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, image.filename, "original")}`,
           author: {
             "@type": "Person",
             name: "Luca Mack",
@@ -87,20 +86,19 @@ const Gallery = () => {
   }
 
   return (
-    <motion.div
-      initial="initial"
-      animate="in"
-      exit="out"
-      variants={pageVariants}
-      transition={pageTransition as any}>
+    <div>
       <title>{`Fotoserie: ${gallery.title || gallery.name} | Luca Mack`}</title>
       <meta
         name="description"
         content={gallery.description || `Fotoserie: ${gallery.title || gallery.name}.`}
       />
+      <meta
+        name="title"
+        content={`Fotoserie: ${gallery.title || gallery.name}`}
+      />
       <div className="px-4 md:px-0">
         <div className="flex flex-col items-start">
-          <h1 className={`${CONFIG.theme.headline.one} w-full max-w-[560px] text-wrap-balance md:pt-8 pt-4 pb-4  `}>{gallery.title || gallery.name}</h1>
+          <h1 className={`${CONFIG.theme.headline.one} w-full max-w-[560px] text-wrap-balance md:pt-8 pt-6 pb-4  `}>{gallery.title || gallery.name}</h1>
 
           {gallery.description && (
             <div
@@ -115,10 +113,7 @@ const Gallery = () => {
             {shuffledImages.map((image) => (
               <GalleryItem
                 key={image.filename}
-                src={`/content/galleries/${gallery.slug}/${image.filename}`}
                 alt={image.alt || `${gallery.title || gallery.name} - ${image.filename}`}
-                latitude={image.latitude}
-                longitude={image.longitude}
                 gallerySlug={gallery.slug!}
                 imageFilename={image.filename}
               />
@@ -128,14 +123,14 @@ const Gallery = () => {
           <p className="text-left">{CONFIG.systemMessages.noImagesFound}</p>
         )}
         {gallery.timeframe || gallery.imageCount ? (
-          <div className="max-w-[calc(1024px)] flex w-full my-8 pb-4 flex flex-col md:flex-row justify-between items-center text-sm">
+          <div className="max-w-[calc(1024px)] flex w-full  my-8 py-8 flex flex-col md:flex-row justify-between items-center text-sm">
             <div className="text-left flex justify-center gap-4 w-full">
               {gallery.timeframe && <p>{gallery.timeframe}</p>} - {gallery.imageCount && <p>{gallery.imageCount} Fotos</p>}
             </div>
           </div>
         ) : null}
       </div>
-    </motion.div>
+    </div>
   );
 };
 

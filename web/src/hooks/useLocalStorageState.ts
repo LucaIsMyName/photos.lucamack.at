@@ -1,4 +1,14 @@
 import { useState, useEffect } from 'react';
+/**
+ * A hook for synchronizing React state with localStorage.
+ * It supports complex data types by serializing/deserializing them as JSON.
+ *
+ * Use this for state that needs to persist across page reloads.
+ *
+ * Do NOT use this for:
+ * - State that needs debouncing (use useDebouncedUrlState instead).
+ * - Simple, immediate state changes that might conflict with other URL updates (use useSimpleUrlState instead).
+ */
 
 function useLocalStorageState<T>(key: string, defaultValue: T): [T, React.Dispatch<React.SetStateAction<T>>] {
   const [state, setState] = useState<T>(() => {

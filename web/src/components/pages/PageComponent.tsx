@@ -3,8 +3,7 @@ import { useTheme } from "../../contexts/ThemeContext";
 import { pages } from "../../pages";
 import { marked } from "marked";
 import type { Page } from "../../types";
-import { motion } from "framer-motion";
-import { pageVariants, pageTransition } from "../../animations";
+
 
 const PageComponent = () => {
   const { theme } = useTheme();
@@ -16,12 +15,7 @@ const PageComponent = () => {
   }
 
   return (
-    <motion.div
-      initial="initial"
-      animate="in"
-      exit="out"
-      variants={pageVariants}
-      transition={pageTransition as any}>
+    <div>
       <title>{`${page.title} | Luca Mack`}</title>
       <meta
         name="title"
@@ -31,7 +25,7 @@ const PageComponent = () => {
         name="description"
         content={`${page.content.replaceAll("\n", " ").replace("#", "").trim().substring(0, 160)}`}
       />
-      <div className="px-4 md:px-0">
+      <div className="px-4 md:px-0 pt-0 pt-3">
         <div
           className="flex flex-col items-start"
           data-wysiwyg>
@@ -40,7 +34,7 @@ const PageComponent = () => {
             dangerouslySetInnerHTML={{ __html: marked(page.content) }}></div>
         </div>
       </div>
-    </motion.div>
+    </div>
   );
 };
 

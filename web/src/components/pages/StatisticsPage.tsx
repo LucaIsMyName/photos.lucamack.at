@@ -1,7 +1,11 @@
 import { useMemo } from "react";
 import { Link } from "react-router-dom";
 import { MapPin } from "lucide-react";
+import { getSizedImagePath } from "../../utils/image";
+import { cn } from "../../utils/cn";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid, Treemap } from "recharts";
+import MapGL, { Marker } from "react-map-gl/mapbox";
+import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../../galleries";
 import { useTheme } from "../../contexts/ThemeContext";
 import { CONFIG } from "../../config";
@@ -45,12 +49,12 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
   if (!image) return null;
 
   return (
-    <div className={`border  ${theme === "dark" ? "" : ""} p-0 flex flex-col`}>
+    <div className={cn(`border  ${theme === "dark" ? "" : ""} p-0 flex flex-col`)}>
       <Link to={`/gallery/${image.gallery}`}>
         <img
-          src={`/content/galleries/${image.gallery}/${image.filename}`}
+          src={`/content/galleries/${image.gallery}/${getSizedImagePath(image.filename, 640)}`}
           alt={image.alt || title}
-          className="w-full h-40 object-cover"
+          className={cn("w-full h-40 object-cover")}
         />
       </Link>
       <div className="p-3 relative">
@@ -90,6 +94,16 @@ const StatisticsPage = () => {
     const galleryData = Object.entries(galleryCounts).map(([name, value]) => ({ name, value }));
 
     const allImagesWithGps = allImages.filter((image) => image.latitude != null && image.longitude != null) as ((typeof allImages)[0] & { latitude: number; longitude: number })[];
+
+    let averageCoords = { latitude: 0, longitude: 0 };
+    if (allImagesWithGps.length > 0) {
+      const totalLat = allImagesWithGps.reduce((sum, img) => sum + img.latitude, 0);
+      const totalLon = allImagesWithGps.reduce((sum, img) => sum + img.longitude, 0);
+      averageCoords = {
+        latitude: totalLat / allImagesWithGps.length,
+        longitude: totalLon / allImagesWithGps.length,
+      };
+    }
 
     let extremePhotos: {
       north?: (typeof allImagesWithGps)[0];
@@ -180,12 +194,21 @@ const StatisticsPage = () => {
       Fotos: count,
     }));
 
-    return { weekdayData, hourData, extremePhotos, galleryData, seasonData, monthData };
+    return { weekdayData, hourData, extremePhotos, galleryData, seasonData, monthData, averageCoords };
   }, [allImages]);
 
   return (
-    <div className={`p-4 sm:p-8 ${theme === "dark" ? "bg-black text-white" : "bg-white text-black"}`}>
-      <h1 className={`${CONFIG.theme.headline.one} mb-4`}>Statistiken</h1>
+    <div className={cn("p-4 sm:p-8", theme === "dark" ? "bg-black text-white" : "bg-white text-black")}>
+      <title>Statistiken | Luca Mack</title>
+      <meta
+        name="description"
+        content="Statistiken von allen Fotos & Galerien"
+      />
+      <meta
+        name="title"
+        content="Statistiken | Luca Mack"
+      />
+      <h1 className={cn(CONFIG.theme.headline.one, "mb-4")}>Statistiken</h1>
 
       <div className="mt-4">
         <h2 className="text-xl mb-4 sr-only">Geografische Extreme</h2>
@@ -206,6 +229,31 @@ const StatisticsPage = () => {
             title="Westlichstes Foto"
             image={stats.extremePhotos.west}
           />
+        </div>
+      </div>
+
+      <div className="mt-8">
+        <h2 className="text-lg mb-4">Geografischer Mittelpunkt aller Fotos</h2>
+        <div
+          className="border"
+          style={{ height: "400px" }}>
+          <MapGL
+            initialViewState={{
+              longitude: stats.averageCoords.longitude,
+              latitude: stats.averageCoords.latitude,
+              zoom: 5,
+            }}
+            style={{ width: "100%", height: "100%" }}
+            mapStyle={theme === "dark" ? CONFIG.mapbox.style.dark : CONFIG.mapbox.style.light}
+            mapboxAccessToken={CONFIG.mapbox.accessToken}>
+            <Marker
+              longitude={stats.averageCoords.longitude}
+              latitude={stats.averageCoords.latitude}>
+              <div className=" border">
+                <div className="w-3 h-3 bg-red-500 "></div>
+              </div>
+            </Marker>
+          </MapGL>
         </div>
       </div>
       <div className="mt-8 ">

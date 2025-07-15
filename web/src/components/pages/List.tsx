@@ -1,7 +1,5 @@
 import { useMemo } from "react";
 import { useSearchParams } from "react-router-dom";
-import useUrlState from "../../hooks/useUrlState";
-import useDebouncedUrlState from "../../hooks/useDebouncedUrlState";
 import { useTheme } from "../../contexts/ThemeContext";
 import HorizontalScroller from "../layout/HorizontalScroller";
 import { Link } from "react-router-dom";
@@ -11,6 +9,8 @@ import { galleries } from "../../galleries";
 import { parseCreateDate } from "../../utils/date";
 import type { Image as ImageType, Gallery } from "../../types";
 import { CONFIG } from "../../config";
+import { cn } from "../../utils/cn";
+import { getImageUrl } from "../../utils/image";
 
 interface SortFilterBarProps {
   searchTerm: string;
@@ -29,7 +29,7 @@ interface SortFilterBarProps {
 
 const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOptions, sortOrder, setSortOrder, startDate, setStartDate, endDate, setEndDate, onClearFilters }: SortFilterBarProps) => {
   const { theme } = useTheme();
-  const borderClass = theme === 'dark' ? 'border-white' : 'border-black';
+  const borderClass = theme === "dark" ? "border-white" : "border-black";
 
   return (
     <div className="flex items-center w-full">
@@ -62,7 +62,9 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
 
       <div className={`flex-shrink-0 flex items-center gap-4 p-2 px-4 border-r ${borderClass}`}>
         <span className="whitespace-nowrap">Sortieren nach</span>
-        <Select.Root value={sortKey} onValueChange={setSortKey}>
+        <Select.Root
+          value={sortKey}
+          onValueChange={setSortKey}>
           <Select.Trigger className={`inline-flex items-center justify-center gap-2 bg-transparent focus:outline-none`}>
             <Select.Value />
             <Select.Icon>
@@ -70,7 +72,7 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
             </Select.Icon>
           </Select.Trigger>
           <Select.Portal>
-            <Select.Content className={`overflow-hidden ${theme === 'dark' ? 'bg-black text-white border-white' : 'bg-white text-black border-black'} border`}>
+            <Select.Content className={`overflow-hidden ${theme === "dark" ? "bg-black text-white border-white" : "bg-white text-black border-black"} border`}>
               <Select.ScrollUpButton className="flex items-center justify-center h-6 cursor-default">
                 <ChevronUp />
               </Select.ScrollUpButton>
@@ -79,7 +81,7 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
                   <Select.Item
                     key={option.value}
                     value={option.value}
-                    className={`text-sm leading-none flex items-center h-6 pr-8 pl-6 relative select-none data-[highlighted]:outline-none ${theme === 'dark' ? 'data-[highlighted]:bg-red-300 data-[highlighted]:text-black' : 'data-[highlighted]:bg-red-600 data-[highlighted]:text-white'}`}>
+                    className={`text-sm leading-none flex items-center h-6 pr-8 pl-6 relative select-none data-[highlighted]:outline-none ${theme === "dark" ? "data-[highlighted]:bg-red-300 data-[highlighted]:text-black" : "data-[highlighted]:bg-red-600 data-[highlighted]:text-white"}`}>
                     <Select.ItemText>{option.label}</Select.ItemText>
                   </Select.Item>
                 ))}
@@ -107,18 +109,45 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
   );
 };
 
+import { useState, useEffect } from "react";
+import useDebounce from "../../hooks/useDebounce";
+
 const ListPage = () => {
-  const [activeTab, setActiveTab] = useUrlState<"images" | "galleries">("tab", "images");
-  const [searchTerm, setSearchTerm] = useUrlState("search", "");
-  const [sortKey, setSortKey] = useUrlState<"createDate" | "galleryTitle">("sortBy", "createDate");
-  const [gallerySortKey, setGallerySortKey] = useUrlState<"title" | "createDate">("gallerySortBy", "title");
-  const [sortOrder, setSortOrder] = useUrlState<"asc" | "desc">("sortOrder", "desc");
-  const [startDate, setStartDate] = useDebouncedUrlState("startDate", "");
-  const [endDate, setEndDate] = useDebouncedUrlState("endDate", "");
-  const [, setSearchParams] = useSearchParams();
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  const [activeTab, setActiveTab] = useState<"images" | "galleries">((searchParams.get("tab") as "images" | "galleries") || "images");
+  const [searchTerm, setSearchTerm] = useState(searchParams.get("search") || "");
+  const [sortKey, setSortKey] = useState<"createDate" | "galleryTitle">((searchParams.get("sortBy") as "createDate" | "galleryTitle") || "createDate");
+  const [gallerySortKey, setGallerySortKey] = useState<"title" | "createDate">((searchParams.get("gallerySortBy") as "title" | "createDate") || "title");
+  const [sortOrder, setSortOrder] = useState<"asc" | "desc">((searchParams.get("sortOrder") as "asc" | "desc") || "desc");
+  const [startDate, setStartDate] = useState(searchParams.get("startDate") || "");
+  const [endDate, setEndDate] = useState(searchParams.get("endDate") || "");
+
+  const debouncedSearchTerm = useDebounce(searchTerm, 300);
+  const debouncedStartDate = useDebounce(startDate, 300);
+  const debouncedEndDate = useDebounce(endDate, 300);
+
+  useEffect(() => {
+    const newSearchParams = new URLSearchParams();
+
+    if (activeTab !== "images") newSearchParams.set("tab", activeTab);
+    if (debouncedSearchTerm) newSearchParams.set("search", debouncedSearchTerm);
+    if (sortKey !== "createDate") newSearchParams.set("sortBy", sortKey);
+    if (gallerySortKey !== "title") newSearchParams.set("gallerySortBy", gallerySortKey);
+    if (sortOrder !== "desc") newSearchParams.set("sortOrder", sortOrder);
+    if (debouncedStartDate) newSearchParams.set("startDate", debouncedStartDate);
+    if (debouncedEndDate) newSearchParams.set("endDate", debouncedEndDate);
+
+    setSearchParams(newSearchParams, { replace: true });
+  }, [activeTab, debouncedSearchTerm, sortKey, gallerySortKey, sortOrder, debouncedStartDate, debouncedEndDate, setSearchParams]);
 
   const handleClearFilters = () => {
-    setSearchParams(new URLSearchParams(), { replace: true });
+    setSearchTerm("");
+    setSortKey("createDate");
+    setGallerySortKey("title");
+    setSortOrder("desc");
+    setStartDate("");
+    setEndDate("");
   };
 
   const allImages = useMemo(() => {
@@ -253,11 +282,11 @@ const ListPage = () => {
   ];
 
   return (
-    <div className="p-4">
-      <title>Luca Mack | Liste aller Fotos und Galerien</title>
+    <div className="p-4 sm:pl-0">
+      <title>Liste aller Fotos und Galerien | Luca Mack</title>
       <meta
         name="title"
-        content={`Luca Mack | Liste aller Fotos und Galerien`}
+        content={`Liste aller Fotos und Galerien | Luca Mack`}
       />
       <meta
         name="description"
@@ -265,12 +294,12 @@ const ListPage = () => {
       />
       <div className="flex gap-4 border-b">
         <button
-          className={`cursor-pointer ${CONFIG.theme.headline.one} py-2 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
+          className={cn(`cursor-pointer ${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`)}
           onClick={() => setActiveTab("images")}>
           Fotos
         </button>
         <button
-          className={`cursor-pointer ${CONFIG.theme.headline.one} py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`}
+          className={cn(`cursor-pointer ${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`)}
           onClick={() => setActiveTab("galleries")}>
           Galerien
         </button>
@@ -300,10 +329,10 @@ const ListPage = () => {
                 className="w-full lg:w-1/2"
                 key={`${image.gallerySlug}-${image.filename}`}>
                 <div className="flex lg:flex-row items-center gap-4 py-2">
-                  <Link to={`/gallery/${image.gallerySlug}`}>
+                  <Link to={`/image/${image.filename.replace(/\.[^/.]+$/, "")}`}>
                     <img
                       loading="lazy"
-                      src={`/content/galleries/${image.gallerySlug}/${image.filename.replace(/\.(jpg|jpeg|png|heic)$/i, "-640w.jpg")}`}
+                      src={getImageUrl(image.gallerySlug, image.filename, 640)}
                       alt={image.alt || `${image.galleryTitle} - ${image.filename}`}
                       width={128}
                       height={128}
@@ -311,7 +340,7 @@ const ListPage = () => {
                     />
                   </Link>
                   <div className="text-sm">
-                    <h3 className="truncate text-base">{`${image.galleryTitle} #${image.index}`}</h3>
+                    <h3 className="truncate text-base">{image.filename}</h3>
                     <p className="truncate text-xs">Erstellt: {parseCreateDate(image.createDate)?.toLocaleString() || "Ungültiges Datum"}</p>
                     {image.latitude && image.longitude ? (
                       <>
@@ -324,7 +353,7 @@ const ListPage = () => {
                       <p className="truncate">Koordinaten: N/V</p>
                     )}
                     <a
-                      href={`/content/galleries/${image.gallerySlug}/${image.filename}`}
+                      href={getImageUrl(image.gallerySlug, image.filename, "original")}
                       download
                       className="text-xs flex items-center gap-1 hover:underline w-fit">
                       <Download size={12} />
@@ -370,7 +399,7 @@ const ListPage = () => {
                     {randomImage ? (
                       <img
                         loading="lazy"
-                        src={`/content/galleries/${gallery.slug}/${randomImage.filename.replace(/\.(jpg|jpeg|png|heic)$/i, "-640w.jpg")}`}
+                        src={getImageUrl(gallery.slug, randomImage.filename, 640)}
                         alt={gallery.title}
                         width={128}
                         height={128}

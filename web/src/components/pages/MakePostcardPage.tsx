@@ -2,12 +2,12 @@ import { useState, useMemo, useRef, useCallback, useEffect, forwardRef, type Com
 import { toJpeg } from "html-to-image";
 import { galleries } from "../../galleries";
 import type { Image as ImageType } from "../../types";
-import { motion } from "framer-motion";
 import { RefreshCcw, Download, ChevronDown, Check } from "lucide-react";
 import { useTheme } from "../../contexts/ThemeContext";
 import * as Select from "@radix-ui/react-select";
 import * as Slider from "@radix-ui/react-slider";
 import { cn } from "../../utils/cn";
+import { getImageUrl } from "../../utils/image";
 
 type PostcardStyle = "single" | "two" | "four";
 type PostcardSize = "A4" | "A5" | "A6";
@@ -26,7 +26,7 @@ const MakePostcardPage = () => {
   const [size, setSize] = useState<PostcardSize>("A6");
   const [orientation, setOrientation] = useState<Orientation>("portrait");
   const [selectedGallery, setSelectedGallery] = useState<string>("all");
-  const [images, setImages] = useState<ImageType[]>([]);
+  const [images, setImages] = useState<(ImageType & { gallery: string })[]>([]);
   const [text, setText] = useState("");
   type TextAlign = "top-left" | "top-right" | "bottom-left" | "bottom-right";
   const [textAlign, setTextAlign] = useState<TextAlign>("bottom-right");
@@ -127,12 +127,7 @@ const MakePostcardPage = () => {
   }, [size, orientation]);
 
   return (
-    <motion.div
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      exit={{ opacity: 0 }}
-      transition={{ duration: 0.5 }}
-      className="p-4 md:p-8 h-screen flex flex-col">
+    <div className="p-4 md:p-8 h-screen flex flex-col">
       <title>Postkarten Generator | Luca Mack</title>
       <meta
         name="description"
@@ -143,7 +138,7 @@ const MakePostcardPage = () => {
         content="noindex"
       />
       <h1 className="text-3xl font-bold mb-4 sr-only">Postkarten Generator</h1>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 flex-grow">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 flex-grow">
         <div className="md:col-span-1 space-y-4 flex flex-col justify-center">
           <h2 className="sr-only text-xl font-semibold">Optionen</h2>
           <div className="grid grid-cols-2 gap-4 ">
@@ -289,12 +284,12 @@ const MakePostcardPage = () => {
             </button>
           </div>
         </div>
-        <div className="md:col-span-2 flex flex-col">
+        <div className="lg:col-span-2 flex flex-col">
           <h2 className="text-xl font-semibold mb-4 sr-only">Vorschau</h2>
-          <div className="w-full mb-8 sm:mb-0 sm:rotate-[2deg] xl:scale-[1.25]  md:max-w-[clamp(320px,33vw,380px)]  mx-auto flex-grow flex items-center justify-center">
+          <div className="w-full lg:mb-0 mb-8 lg:rotate-[2deg] xl:scale-[1.25]  lg:max-w-[clamp(320px,33vw,380px)]  mx-auto flex-grow flex items-center justify-center">
             <div
               ref={postcardRef}
-              className={`relative select-none shadow-[5px_5px_0px_rgba(0,0,0,0.2)] grid gap-2 p-2 border w-full ${theme === "dark" ? "bg-white" : "bg-white"}`}
+              className={cn(`relative select-none shadow-[5px_5px_0px_rgba(0,0,0,0.2)] grid gap-2 p-2 border w-full`, theme === "dark" ? "bg-white" : "bg-white")}
               style={{
                 aspectRatio: postcardAspectRatio,
                 gridTemplateColumns: style === "single" ? "1fr" : style === "two" && orientation === "portrait" ? "1fr" : "repeat(2, 1fr)",
@@ -310,7 +305,7 @@ const MakePostcardPage = () => {
                   key={index}
                   className="w-full h-full overflow-hidden relative">
                   <img
-                    src={`/content/galleries/${image.gallery}/${image.filename}`}
+                    src={image.gallery ? getImageUrl(image.gallery, image.filename, 1440) : ""}
                     alt={image.alt || ""}
                     className="w-full h-full object-cover"
                     onLoad={handleImageLoad}
@@ -328,12 +323,11 @@ const MakePostcardPage = () => {
                   )}
                 </div>
               ))}
-              
             </div>
           </div>
         </div>
       </div>
-    </motion.div>
+    </div>
   );
 };
 

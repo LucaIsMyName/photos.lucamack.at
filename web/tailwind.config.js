@@ -5,10 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily: {
+      geist: ['"Geist"', 'sans-serif'],
+      mono: ['"Geist Mono"', 'monospace'],
+    },
     extend: {
-      fontFamily: {
-        geist: ['"Geist"', 'sans-serif'],
-      },
       typography: ({ theme }) => ({
         DEFAULT: {
           css: {

@@ -18,6 +18,8 @@ export interface Image {
   filename: string;
   latitude?: number | null;
   longitude?: number | null;
+  date?: string;
+  camera?: string;
   createDate?: ExifDateTime;
   gallery?: string; // The slug of the gallery this image belongs to
   googleMapsUrl?: string | null;

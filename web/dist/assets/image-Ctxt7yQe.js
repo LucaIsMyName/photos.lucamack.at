@@ -1,0 +1,1 @@
+const i=(e,t)=>e.replace(/\.(heic|jpg|jpeg|png|webp)$/i,`-${t}w.jpg`).trim(),n=(e,t,g="original")=>{if(g==="original")return`/content/galleries/${e}/${t}`;const r=t.replace(/\.(heic|jpg|jpeg|png|webp)$/i,`-${g}w.jpg`).trim();return`/content/galleries/${e}/${r}`};export{i as a,n as g};
