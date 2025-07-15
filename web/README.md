@@ -174,3 +174,4 @@ interface Image {
 - **MakePostcardPage.tsx**: 
   - A Strict Masonry/Strict Layout option
   - different text pacement strategies (drag'n'drop, text align (left/center/right))
+- **ImagePage.tsx** & **Map.tsx**: When i navigate from Image-Page to Map-Page (via Link at the bottom next to Apple and Google Maps) the markers are not initialized, only once i zoom in/out or drag mapbox canvas it displays them
