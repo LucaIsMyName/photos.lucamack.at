@@ -166,8 +166,9 @@ interface Image {
 
 ## Future Work
 
-- **List.tsx** & **Timeline.tsx**: Implement Ajax Loading for images or some kind of virtualization
+- **List.tsx** & **Timeline.tsx**: Implement Ajax Loading for images or some kind of virtualization, there are about 400 image (and growing) loaded
 - **System Messages**: Insert `CONFIG.systemMessages` from `config.ts` file instead of hardcoding standard texts
+- **StatisticsPage.tsx**: North/South/East/West-Image -> Link to Image Page instead of gallery
 - **List.tsx**: Make 2 Column Layout more defensive / truncate text early, set image width and height the *hard* way
 - **HorizontalScroll.tsx**: Implement Progressive Blur on the gradient bg filter
 - **MakePostcardPage.tsx**: 

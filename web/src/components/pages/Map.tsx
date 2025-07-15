@@ -152,7 +152,7 @@ const MapPage = () => {
       <button
         onClick={() => setIsLegendOpen(!isLegendOpen)}
         className={`flex gap-2 items-center cursor-pointer absolute top-4 md:top-auto left-4 md:left-auto bottom-auto md:bottom-4 right-auto md:right-4 z-10 p-2 border shadow-[2px_2px_0px_#00000033] transition-colors ${theme === "dark" ? "bg-black text-white " : "bg-white text-black"}`}
-        aria-label="Toggle map legend">
+        aria-label="Legende Ein- oder Ausschalten">
         <span className="cursor-pointer text-xs ml-2">Legende</span>
         <MapPin size={20} />
       </button>
@@ -257,7 +257,7 @@ const MapPage = () => {
                 </Link>
               </div>
               <section className={`flex items-start justify-between gap-2`}>
-                <div className={`font-geist p-2 pb-0 text-base truncate`}>
+                <div className={cn(`font-geist p-2 text-base truncate`)}>
                   <p className="truncate">{popupInfo.image.filename}</p>
                   <p className="text-sm truncate">{popupInfo.gallery.title}</p>
                 </div>
