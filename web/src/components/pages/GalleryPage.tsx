@@ -8,7 +8,7 @@ import { useLocation } from "react-router-dom";
 import { CONFIG } from "../../config";
 import { getImageUrl } from "../../utils/image";
 
-const Gallery = () => {
+const GalleryPage = () => {
   const { slug } = useParams<{ slug: string }>();
   const gallery: GalleryType | undefined = galleries.find((g) => g.slug === slug);
   const location = useLocation();
@@ -52,7 +52,7 @@ const Gallery = () => {
           contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, image.filename, "original")}`,
           author: {
             "@type": "Person",
-            name: "Luca Mack",
+            name: CONFIG.meta.title
           },
           location: {
             "@type": "Place",
@@ -87,7 +87,7 @@ const Gallery = () => {
 
   return (
     <div>
-      <title>{`Fotoserie: ${gallery.title || gallery.name} | Luca Mack`}</title>
+      <title>{`Fotoserie: ${gallery.title || gallery.name} | ${CONFIG.meta.title}`}</title>
       <meta
         name="description"
         content={gallery.description || `Fotoserie: ${gallery.title || gallery.name}.`}
@@ -95,6 +95,26 @@ const Gallery = () => {
       <meta
         name="title"
         content={`Fotoserie: ${gallery.title || gallery.name}`}
+      />
+      <meta
+        name="image"
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename, 640)}`}
+      />
+      <meta
+        name="og:image"
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename, 640)}`}
+      />
+      <meta
+        name="og:title"
+        content={`Fotoserie: ${gallery.title || gallery.name}`}
+      />
+      <meta
+        name="og:description"
+        content={gallery.description || `Fotoserie: ${gallery.title || gallery.name}.`}
+      />
+      <meta
+        name="og:url"
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename, 640)}`}
       />
       <div className="px-4 md:px-0">
         <div className="flex flex-col items-start">
@@ -109,7 +129,7 @@ const Gallery = () => {
         </div>
 
         {shuffledImages.length > 0 ? (
-          <div className="max-w-[var(--content-width)] md:pr-4 flex flex-wrap justify-center items-center gap-8 md:gap-0 pb-4">
+          <div className="max-w-[var(--content-width)] lg:pr-4 flex flex-wrap justify-center items-center gap-8 md:gap-0 pb-4">
             {shuffledImages.map((image) => (
               <GalleryItem
                 key={image.filename}
@@ -134,4 +154,4 @@ const Gallery = () => {
   );
 };
 
-export default Gallery;
+export default GalleryPage;

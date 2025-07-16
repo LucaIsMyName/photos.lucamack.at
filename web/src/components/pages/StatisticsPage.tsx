@@ -1,7 +1,7 @@
-import { useMemo } from "react";
+import { useMemo, useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { MapPin } from "lucide-react";
-import { getSizedImagePath } from "../../utils/image";
+import { getImageUrl } from "../../utils/image";
 import { cn } from "../../utils/cn";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid, Treemap } from "recharts";
 import MapGL, { Marker } from "react-map-gl/mapbox";
@@ -9,7 +9,10 @@ import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../../galleries";
 import { useTheme } from "../../contexts/ThemeContext";
 import { CONFIG } from "../../config";
+import { groupImagesByCountry } from "../../utils/geocoding";
+
 type ImageType = (typeof galleries)[0]["images"][0] & { gallery: string; latitude: number; longitude: number };
+type CountryData = { name: string; value: number }[];
 
 const CustomizedContent = (props: any) => {
   const { x, y, width, height, name } = props;
@@ -52,7 +55,7 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
     <div className={cn(`border  ${theme === "dark" ? "" : ""} p-0 flex flex-col`)}>
       <Link to={`/image/${image.filename.replace(".jpg", "")}`}>
         <img
-          src={`/content/galleries/${image.gallery}/${getSizedImagePath(image.filename, 640)}`}
+          src={getImageUrl(image.gallery, image.filename, 640)}
           alt={image.alt || title}
           className={cn("w-full h-40 object-cover")}
         />
@@ -75,6 +78,8 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
 
 const StatisticsPage = () => {
   const { theme } = useTheme();
+  const [countryData, setCountryData] = useState<CountryData>([]);
+  const [isLoadingCountries, setIsLoadingCountries] = useState(true);
 
   const allImages = useMemo(() => {
     return galleries.flatMap((gallery) =>
@@ -85,6 +90,26 @@ const StatisticsPage = () => {
     );
   }, []);
 
+  const allImagesWithGps = useMemo(() => {
+    return allImages.filter((image) => image.latitude != null && image.longitude != null) as ((typeof allImages)[0] & { latitude: number; longitude: number })[];
+  }, [allImages]);
+
+  useEffect(() => {
+    const fetchCountryData = async () => {
+      setIsLoadingCountries(true);
+      const countryStats = await groupImagesByCountry(allImagesWithGps);
+      const formattedData = Object.entries(countryStats)
+        .map(([name, value]) => ({ name, value }))
+        .sort((a, b) => b.value - a.value);
+      setCountryData(formattedData);
+      setIsLoadingCountries(false);
+    };
+
+    if (allImagesWithGps.length > 0) {
+      fetchCountryData();
+    }
+  }, [allImagesWithGps]);
+
   const stats = useMemo(() => {
     const galleryCounts: { [key: string]: number } = {};
     galleries.forEach((gallery) => {
@@ -92,8 +117,6 @@ const StatisticsPage = () => {
     });
 
     const galleryData = Object.entries(galleryCounts).map(([name, value]) => ({ name, value }));
-
-    const allImagesWithGps = allImages.filter((image) => image.latitude != null && image.longitude != null) as ((typeof allImages)[0] & { latitude: number; longitude: number })[];
 
     let averageCoords = { latitude: 0, longitude: 0 };
     if (allImagesWithGps.length > 0) {
@@ -195,18 +218,18 @@ const StatisticsPage = () => {
     }));
 
     return { weekdayData, hourData, extremePhotos, galleryData, seasonData, monthData, averageCoords };
-  }, [allImages]);
+  }, [allImages, allImagesWithGps]);
 
   return (
-    <div className={cn("p-4 sm:p-8", theme === "dark" ? "bg-black text-white" : "bg-white text-black")}>
-      <title>Statistiken | Luca Mack</title>
+    <div className={cn("p-4 md:pt-8 md:pl-0", theme === "dark" ? "bg-black text-white" : "bg-white text-black")}>
+      <title>{`Statistiken | ${CONFIG.meta.title}`}</title>
       <meta
         name="description"
         content="Statistiken von allen Fotos & Galerien"
       />
       <meta
         name="title"
-        content="Statistiken | Luca Mack"
+        content={`Statistiken | ${CONFIG.meta.title}`}
       />
       <h1 className={cn(CONFIG.theme.headline.one, "mb-4")}>Statistiken</h1>
 
@@ -256,25 +279,34 @@ const StatisticsPage = () => {
           </MapGL>
         </div>
       </div>
-      <div className="mt-8 ">
+      <div className="mt-8">
         <h2 className="text-xl mb-4">Fotos pro Galerie</h2>
-        <div className="border">
-          <ResponsiveContainer
-            width="100%"
-            className={""}
-            height={300}>
+        <ResponsiveContainer width="100%" height={400}>
+          <Treemap
+            data={stats.galleryData}
+            dataKey="value"
+            nameKey="name"
+            content={<CustomizedContent theme={theme} />}
+          />
+        </ResponsiveContainer>
+      </div>
+
+      <div className="mt-8">
+        <h2 className="text-xl mb-4">Fotos pro Land</h2>
+        <ResponsiveContainer width="100%" height={400}>
+          {isLoadingCountries ? (
+            <div className="flex items-center justify-center h-full">Lade Länderdaten...</div>
+          ) : (
             <Treemap
-              data={stats.galleryData}
+              data={countryData}
               dataKey="value"
-              className=""
-              aspectRatio={1}
-              stroke={theme === "dark" ? "#000" : "#fff"}
-              fill={theme === "dark" ? "#FCA5A533" : "#DC262633"}
+              nameKey="name"
               content={<CustomizedContent theme={theme} />}
             />
-          </ResponsiveContainer>
-        </div>
+          )}
+        </ResponsiveContainer>
       </div>
+
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
         <div>
           <h2 className="text-xl mb-4">Fotos pro Wochentag</h2>
@@ -388,7 +420,7 @@ const StatisticsPage = () => {
           </ResponsiveContainer>
         </div>
         <div>
-          <h2 className="text-xl mb-4">Fotos pro Monat</h2>
+          <h2 className="text-xl mb-4">Monats-Vergleich</h2>
           <ResponsiveContainer
             width="100%"
             height={300}>

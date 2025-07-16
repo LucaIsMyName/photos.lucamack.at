@@ -3,18 +3,18 @@ import { CONFIG } from "../../config";
 import { cn } from "../../utils/cn";
 import { useTheme } from "../../contexts/ThemeContext";
 
-const NotFound = () => {
+const NotFoundPage = () => {
   const { theme } = useTheme();
   return (
     <div className="py-4 md:py-8 px-4 md:px-0 flex flex-col items-start justify-start text-center">
-      <title>404 | Luca Mack</title>
+      <title>{`404 | ${CONFIG.meta.title}`}</title>
       <meta
         name="description"
         content="Seite nicht gefunden"
       />
       <meta
         name="title"
-        content="404 | Luca Mack"
+        content={`404 | ${CONFIG.meta.title}`}
       />
       <div className="flex flex-col items-start">
         <h1 className={cn(`${CONFIG.theme.headline.one}`, theme === "dark" ? "text-white" : "text-black")}>404</h1>
@@ -29,4 +29,4 @@ const NotFound = () => {
   );
 };
 
-export default NotFound;
+export default NotFoundPage;

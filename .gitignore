@@ -18,3 +18,5 @@ dist/**/*.png
 dist/**/*.gif
 dist/**/*.heic
 dist/**/*.webp
+
+countries.geojson

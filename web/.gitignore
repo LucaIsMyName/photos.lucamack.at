@@ -12,6 +12,8 @@ lerna-debug.log*
 
 node_modules
 
+countries.geojson
+
 /content/**/*.jpg
 /content/**/*.jpeg
 /content/**/*.png

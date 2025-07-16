@@ -11,6 +11,7 @@ import type { PointFeature, ClusterProperties } from "supercluster";
 import { useTheme } from "../../contexts/ThemeContext";
 import { cn } from "../../utils/cn";
 import { getImageUrl } from "../../utils/image";
+import Href from "../ui/Href";
 
 interface GeotaggedImage {
   gallery: Gallery;
@@ -148,21 +149,20 @@ const MapPage = () => {
 
   return (
     <div className="h-full w-full relative">
-      <title>Foto Karte | Luca Mack</title>
+      <title>{`Foto Karte | ${CONFIG.meta.title}`}</title>
       <meta
         name="title"
-        content={`Foto Karte | Luca Mack`}
+        content={`Foto Karte | ${CONFIG.meta.title}`}
       />
       <meta
         name="description"
         content="Karte aller geotagten Fotos."
       />
-
       <button
         onClick={() => setIsLegendOpen(!isLegendOpen)}
-        className={`flex gap-2 items-center cursor-pointer absolute top-4 md:top-auto left-4 md:left-auto bottom-auto md:bottom-4 right-auto md:right-4 z-10 p-2 border shadow-[2px_2px_0px_#00000033] transition-colors ${theme === "dark" ? "bg-black text-white " : "bg-white text-black"}`}
+        className={`flex gap-2 items-center absolute top-4 md:top-auto left-4 md:left-auto bottom-auto md:bottom-4 right-auto md:right-4 z-10 p-2 border shadow-[2px_2px_0px_#00000033] transition-colors ${theme === "dark" ? "bg-black text-white " : "bg-white text-black"}`}
         aria-label="Legende Ein- oder Ausschalten">
-        <span className="cursor-pointer text-xs ml-2">Legende</span>
+        <span className="text-xs ml-2">Legende</span>
         <MapPin size={20} />
       </button>
 
@@ -270,14 +270,14 @@ const MapPage = () => {
                   <p className="truncate">{popupInfo.image.filename}</p>
                   <p className="text-sm truncate">{popupInfo.gallery.title}</p>
                 </div>
-                <a
+                <Href
                   href={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename, "original")}
                   download
-                  onClick={(e) => e.stopPropagation()}
+                  onClick={(e:any) => e.stopPropagation()}
                   className={`p-2 px-3 mt-1`}
                   aria-label={`Download ${popupInfo.image.filename}`}>
                   <Download size={16} />
-                </a>
+                </Href>
               </section>
             </div>
           </Popup>

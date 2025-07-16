@@ -49,7 +49,7 @@ const GalleryItem = ({ alt, gallerySlug, imageFilename }: GalleryItemProps) => {
     <div
       id={`image-${imageFilename.split(".")[0]}`}
       className={getFlexClasses()}>
-      <div className="p-0 sm:pr-4 sm:pb-4 md:py-6">
+      <div className="p-0 lg:pr-4 sm:pb-4 md:py-6">
         <Link
           to={`/image/${imageFilename.replace(/\.[^/.]+$/, "")}`}
           className="block">

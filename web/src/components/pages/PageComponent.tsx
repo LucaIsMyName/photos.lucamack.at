@@ -3,7 +3,7 @@ import { useTheme } from "../../contexts/ThemeContext";
 import { pages } from "../../pages";
 import { marked } from "marked";
 import type { Page } from "../../types";
-
+import { CONFIG } from "../../config";
 
 const PageComponent = () => {
   const { theme } = useTheme();
@@ -16,15 +16,16 @@ const PageComponent = () => {
 
   return (
     <div>
-      <title>{`${page.title} | Luca Mack`}</title>
+      <title>{`${page.title} | ${CONFIG.meta.title}`}</title>
       <meta
         name="title"
-        content={`${page.title} | Luca Mack`}
+        content={`${page.title} | ${CONFIG.meta.title}`}
       />
       <meta
         name="description"
         content={`${page.content.replaceAll("\n", " ").replace("#", "").trim().substring(0, 160)}`}
       />
+
       <div className="px-4 md:px-0 pt-0 pt-3">
         <div
           className="flex flex-col items-start"

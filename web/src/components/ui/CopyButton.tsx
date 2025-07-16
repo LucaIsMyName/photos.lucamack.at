@@ -25,7 +25,7 @@ const CopyButton = ({ textToCopy, className }: CopyButtonProps) => {
   return (
     <button
       onClick={handleCopy}
-      className={cn("cursor-pointer p-1 bg-transparent", className)}
+      className={cn("p-1 bg-transparent", className)}
       aria-label="Copy to clipboard">
       {isCopied ? <Check size={16} strokeWidth={2} className={cn(theme === "dark" ? "text-red-300" : "text-red-600")} /> : <Copy className={cn(theme === "dark" ? "text-red-300" : "text-red-600")} size={16} />}
     </button>

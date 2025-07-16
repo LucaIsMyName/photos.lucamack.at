@@ -9,6 +9,7 @@ import type { Image as ImageType } from "../../types";
 import { parseCreateDate } from "../../utils/date";
 import { CONFIG } from "../../config";
 import { getImageUrl } from "../../utils/image";
+import Href from "../ui/Href";
 
 const TimelinePage = () => {
   const { theme } = useTheme();
@@ -107,29 +108,33 @@ const TimelinePage = () => {
       .sort((a, b) => b.startDate.getTime() - a.startDate.getTime());
   }, []);
 
-  const tabClasses = (isActive: boolean) => `cursor-pointer text-4xl md:text-5xl py-2 ${isActive === true ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`;
+  const tabClasses = (isActive: boolean) => `text-4xl md:text-5xl py-2 ${isActive === true ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`;
   const lineClasses = cn(`absolute sm:left-2 left-0 top-4.5 h-full w-px ${theme === "dark" ? "bg-white" : "bg-black"}`);
   const dotClasses = cn(`absolute -left-[32px] sm:-left-[23.4px] top-4.5 transform -translate-x-1/2 flex items-center`);
   const dotInnerClasses = cn(`${theme === "dark" ? "bg-red-300 border border-white" : "bg-red-600 border border-black"} h-2 w-2 `);
 
   return (
-    <div className={`p-4 pl-7 sm:pl-0 md:pt-6  ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
-      <title>Timeline | Luca Mack</title>
+    <div className={`p-4 pl-7 sm:pl-4 md:pl-0 md:pt-6  ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
+      <title>{`Timeline | ${CONFIG.meta.title}`}</title>
       <meta
         name="description"
         content="Timeline von allen Fotos & Galerien"
       />
-      <div className="flex items-center justify-between mb-4 -ml-3 md:ml-0">
+      <meta
+        name="title"
+        content={`Timeline | ${CONFIG.meta.title}`}
+      />
+      <div className="flex items-center justify-between mb-4 -ml-3 sm:ml-0">
         <h1 className="text-2xl sr-only">Timeline</h1>
         <div className="flex items-center space-x-2 gap-2 md:ml-0">
           <button
             onClick={() => setActiveTab("images")}
-            className={`cursor-pointer ${tabClasses(activeTab === "images")}`}>
+            className={` ${tabClasses(activeTab === "images")}`}>
             Fotos
           </button>
           <button
             onClick={() => setActiveTab("galleries")}
-            className={`cursor-pointer ${tabClasses(activeTab === "galleries")}`}>
+            className={` ${tabClasses(activeTab === "galleries")}`}>
             Galerien
           </button>
         </div>
@@ -170,14 +175,14 @@ const TimelinePage = () => {
                             <MapPin size={16} />
                           </Link>
                         )}
-                        <a
+                        <Href
                           href={getImageUrl(image.gallerySlug, image.filename, "original")}
                           download
                           onClick={(e) => e.stopPropagation()} // Prevent navigating to gallery when clicking download
                           className={`p-1 transition-colors ${theme === "dark" ? "text-white bg-black bg-opacity-50 " : "text-black bg-white bg-opacity-50"}`}
                           aria-label={`Download ${image.filename}`}>
                           <Download size={16} />
-                        </a>
+                        </Href>
                       </div>
                     </Link>
                   ))}

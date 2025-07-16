@@ -8,6 +8,7 @@ import * as Select from "@radix-ui/react-select";
 import * as Slider from "@radix-ui/react-slider";
 import { cn } from "../../utils/cn";
 import { getImageUrl } from "../../utils/image";
+import { CONFIG } from "../../config";
 
 type PostcardStyle = "single" | "two" | "four";
 type PostcardSize = "A4" | "A5" | "A6";
@@ -128,7 +129,7 @@ const MakePostcardPage = () => {
 
   return (
     <div className="p-4 md:p-8 h-screen flex flex-col">
-      <title>Postkarten Generator | Luca Mack</title>
+      <title>{`Postkarten Generator | ${CONFIG.meta.title}`}</title>
       <meta
         name="description"
         content="Postkarten Generator"
@@ -175,7 +176,7 @@ const MakePostcardPage = () => {
             <button
               onClick={generatePostcard}
               disabled={loading || isDownloading}
-              className={`cursor-pointer block border w-full px-2 py-2 text-sm ${theme === "dark" ? "bg-black text-white" : "bg-white text-black"} flex gap-2 items-center justify-center disabled:opacity-30`}>
+              className={` block border w-full px-2 py-2 text-sm ${theme === "dark" ? "bg-black text-white" : "bg-white text-black"} flex gap-2 items-center justify-center disabled:opacity-30`}>
               <RefreshCcw className="min-w-4 min-h-4 h-4 w-4" />
               Neue Bilder generieren
             </button>
@@ -278,7 +279,7 @@ const MakePostcardPage = () => {
             <button
               onClick={handleDownload}
               disabled={isDownloading}
-              className={cn("cursor-pointer w-full mt-4 px-4 py-2 border border-transparent focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 flex gap-2 items-center justify-center", theme === "dark" ? "bg-white text-black hover:bg-neutral-200 focus:ring-offset-black focus:ring-red-300" : "bg-black text-white hover:bg-neutral-800 focus:ring-offset-white focus:ring-red-600")}>
+              className={cn(" w-full mt-4 px-4 py-2 border border-transparent focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 flex gap-2 items-center justify-center", theme === "dark" ? "bg-white text-black hover:bg-neutral-200 focus:ring-offset-black focus:ring-red-300" : "bg-black text-white hover:bg-neutral-800 focus:ring-offset-white focus:ring-red-600")}>
               <Download className="min-w-4 min-h-4 h-4 w-4" />
               Download
             </button>

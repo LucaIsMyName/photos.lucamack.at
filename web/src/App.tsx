@@ -4,8 +4,8 @@ import Navigation from "./components/layout/Navigation";
 import { useTheme } from "./contexts/ThemeContext";
 
 // Lazy load page components for code splitting
-const Home = lazy(() => import("./components/pages/HomePage"));
-const Gallery = lazy(() => import("./components/pages/GalleryPage"));
+const HomePage = lazy(() => import("./components/pages/HomePage"));
+const GalleryPage = lazy(() => import("./components/pages/GalleryPage"));
 const PageComponent = lazy(() => import("./components/pages/PageComponent"));
 const MapPage = lazy(() => import("./components/pages/MapPage"));
 const ListPage = lazy(() => import("./components/pages/ListPage"));
@@ -13,7 +13,7 @@ const TimelinePage = lazy(() => import("./components/pages/TimelinePage"));
 const MakePostcardPage = lazy(() => import("./components/pages/MakePostcardPage"));
 const StatisticsPage = lazy(() => import("./components/pages/StatisticsPage"));
 const ImagePage = lazy(() => import("./components/pages/ImagePage"));
-const NotFound = lazy(() => import("./components/pages/NotFoundPage"));
+const NotFoundPage = lazy(() => import("./components/pages/NotFoundPage"));
 
 function App() {
   const { theme } = useTheme();
@@ -36,11 +36,11 @@ function App() {
           <Routes>
             <Route
               path="/"
-              element={<Home />}
+              element={<HomePage />}
             />
             <Route
               path="/gallery/:slug"
-              element={<Gallery />}
+              element={<GalleryPage />}
             />
             <Route
               path="/page/:slug"
@@ -72,7 +72,7 @@ function App() {
             />
             <Route
               path="*"
-              element={<NotFound />}
+              element={<NotFoundPage />}
             />
           </Routes>
         </Suspense>

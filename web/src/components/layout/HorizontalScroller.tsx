@@ -60,20 +60,20 @@ const HorizontalScroller = ({ children, className = "" }: HorizontalScrollerProp
 
       {/* Left Gradient & Scroll Indicator */}
       <div className={`absolute top-0 left-0 bottom-0 w-12 bg-gradient-to-r ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showLeftGradient ? "opacity-100" : "opacity-0"}`}>
-        <div
+        <button
           onClick={() => handleScroll("left")}
-          className={`absolute top-1/2 -translate-y-1/2 left-0 cursor-pointer ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto`}>
+          className={`absolute top-1/2 -translate-y-1/2 left-0 ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto`}>
           <ChevronLeft size={20} />
-        </div>
+        </button>
       </div>
 
       {/* Right Gradient & Scroll Indicator */}
       <div className={`absolute top-0 right-0 bottom-0 w-12 bg-gradient-to-l ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showRightGradient ? "opacity-100" : "opacity-0"}`}>
-        <div
+        <button
           onClick={() => handleScroll("right")}
-          className={`absolute top-1/2 -translate-y-1/2 right-0 cursor-pointer ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto`}>
+          className={`absolute top-1/2 -translate-y-1/2 right-0 ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto`}>
           <ChevronRight size={20} />
-        </div>
+        </button>
       </div>
     </div>
   );

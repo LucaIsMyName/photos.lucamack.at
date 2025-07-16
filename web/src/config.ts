@@ -4,7 +4,9 @@ export const CONFIG = {
   author: "Luca Mack",
   description: "Luca Mack | Fotos",
   url: "https://photos.lucamack.at",
-  image: "https://photos.lucamack.at/og-image.png",
+  meta: {
+    title: "Luca Mack",
+  },
   theme: {
     headline: {
       one: "text-4xl md:text-5xl"

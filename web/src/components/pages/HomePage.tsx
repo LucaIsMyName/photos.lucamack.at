@@ -5,8 +5,9 @@ import type { Gallery, Image as ImageType } from "../../types";
 import Image from "../layout/Image";
 import { cn } from "../../utils/cn";
 import { getImageUrl } from "../../utils/image";
+import { CONFIG } from "../../config";
 
-const Home = () => {
+const HomePage = () => {
   const [randomImage, setRandomImage] = useState<{ gallery: Gallery; image: ImageType } | null>(null);
 
   useEffect(() => {
@@ -37,14 +38,14 @@ const Home = () => {
 
   return (
     <div className="h-full w-full relative">
-      <title>Fotos | Luca Mack</title>
+      <title>{`Fotos | ${CONFIG.meta.title}`}</title>
       <meta
         name="title"
-        content={`Fotos | Luca Mack`}
+        content={`Fotos | ${CONFIG.meta.title}`}
       />
       <meta
         name="description"
-        content="A collection of photos by Luca Mack, showcasing moments from various galleries."
+        content={`Momente und Fotoserien von ${CONFIG.meta.title}.`}
       />
       <div className={cn("absolute inset-0 p-8 md:p-16")}>
         {imageDetails ? (
@@ -69,4 +70,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default HomePage;

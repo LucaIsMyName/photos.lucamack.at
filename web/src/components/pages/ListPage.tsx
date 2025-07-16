@@ -11,6 +11,7 @@ import type { Image as ImageType, Gallery } from "../../types";
 import { CONFIG } from "../../config";
 import { cn } from "../../utils/cn";
 import { getImageUrl } from "../../utils/image";
+import Href from "../ui/Href";
 
 interface SortFilterBarProps {
   searchTerm: string;
@@ -94,14 +95,14 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
         </Select.Root>
         <button
           onClick={() => setSortOrder(sortOrder === "asc" ? "desc" : "asc")}
-          className="cursor-pointer whitespace-nowrap">
+          className="whitespace-nowrap">
           {sortOrder === "asc" ? "(Aufsteigend)" : "(Absteigend)"}
         </button>
       </div>
       <div className="flex-shrink-0 p-2 px-4">
         <button
           onClick={onClearFilters}
-          className={`${theme === "dark" ? "text-red-300" : "text-red-600"} cursor-pointer underline underline-offset-4 whitespace-nowrap hover:underline`}>
+          className={`${theme === "dark" ? "text-red-300" : "text-red-600"} underline underline-offset-4 whitespace-nowrap hover:underline`}>
           Filter löschen
         </button>
       </div>
@@ -282,24 +283,25 @@ const ListPage = () => {
   ];
 
   return (
-    <div className="p-4 sm:pl-0">
-      <title>Liste aller Fotos und Galerien | Luca Mack</title>
+    <div className="p-4 md:pl-0">
+      <title>{`Liste aller Fotos und Galerien | ${CONFIG.meta.title}`}</title>
       <meta
         name="title"
-        content={`Liste aller Fotos und Galerien | Luca Mack`}
+        content={`Liste aller Fotos und Galerien | ${CONFIG.meta.title}`}
       />
       <meta
         name="description"
         content="Eine Liste aller Fotos und Galerien. Sortierbar und Filterbar."
       />
+
       <div className="flex gap-4 border-b">
         <button
-          className={cn(`cursor-pointer ${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`)}
+          className={cn(`${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`)}
           onClick={() => setActiveTab("images")}>
           Fotos
         </button>
         <button
-          className={cn(`cursor-pointer ${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`)}
+          className={cn(`${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`)}
           onClick={() => setActiveTab("galleries")}>
           Galerien
         </button>
@@ -324,7 +326,7 @@ const ListPage = () => {
             />
           </HorizontalScroller>
           <div className="py-4 text-xs">
-            {filteredAndSortedImages.length} {filteredAndSortedImages.length === 1 ? 'Foto' : 'Fotos'} gefunden
+            {filteredAndSortedImages.length} {filteredAndSortedImages.length === 1 ? "Foto" : "Fotos"} gefunden
           </div>
           <div className="flex flex-col lg:flex-row lg:flex-wrap">
             {filteredAndSortedImages.map((image) => (
@@ -348,20 +350,23 @@ const ListPage = () => {
                     {image.latitude && image.longitude ? (
                       <>
                         <span className="text-xs">Koordinaten: </span>
-                        <Link to={`/app/map?gallery=${image.gallerySlug}&image=${image.filename}`}>
-                          <span className="text-xs underline truncate">{`${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}`}</span>
-                        </Link>
+                        <Href
+                          target="_self"
+                          className="text-xs"
+                          href={`/app/map?gallery=${image.gallerySlug}&image=${image.filename}`}>
+                          {`${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}`}
+                        </Href>
                       </>
                     ) : (
                       <p className="truncate">Koordinaten: N/V</p>
                     )}
-                    <a
+                    <Href
+                      className="flex items-center gap-1 text-xs"
                       href={getImageUrl(image.gallerySlug, image.filename, "original")}
-                      download
-                      className="text-xs flex items-center gap-1 hover:underline w-fit">
+                      download>
                       <Download size={12} />
-                      <span className="truncate underline">Download Foto</span>
-                    </a>
+                      <span className="">Download Foto</span>
+                    </Href>
                   </div>
                 </div>
               </div>
@@ -389,7 +394,7 @@ const ListPage = () => {
             />
           </HorizontalScroller>
           <div className="py-4 text-xs">
-            {filteredAndSortedGalleries.length} {filteredAndSortedGalleries.length === 1 ? 'Galerie' : 'Galerien'} gefunden
+            {filteredAndSortedGalleries.length} {filteredAndSortedGalleries.length === 1 ? "Galerie" : "Galerien"} gefunden
           </div>
           <div className="flex flex-col lg:flex-row lg:flex-wrap">
             {filteredAndSortedGalleries.map((gallery, index) => {

@@ -9,6 +9,7 @@ import { useImage } from "../../hooks/useImage";
 import { useEffect } from "react";
 import { parseCreateDate } from "../../utils/date";
 import CopyButton from "../ui/CopyButton";
+import Href from "../ui/Href";
 
 const ImagePage = () => {
   const { theme } = useTheme();
@@ -29,7 +30,7 @@ const ImagePage = () => {
         contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, image.filename, "original")}`,
         author: {
           "@type": "Person",
-          name: "Luca Mack",
+          name: CONFIG.meta.title,
         },
         ...(image.latitude &&
           image.longitude && {
@@ -65,14 +66,34 @@ const ImagePage = () => {
 
   return (
     <div className="w-full max-w-[var(--content-width)] p-4 md:p-8 flex flex-col items-center">
-      <title>{`${image.filename} | ${gallery.title} | Luca Mack`}</title>
+      <title>{`${image.filename} | ${gallery.title} | ${CONFIG.meta.title}`}</title>
       <meta
         name="title"
-        content={`${image.filename} | ${gallery.title} | Luca Mack`}
+        content={`${image.filename} | ${gallery.title} | ${CONFIG.meta.title}`}
       />
       <meta
         name="description"
         content={`${image.alt || gallery.title}`}
+      />
+      <meta
+        name="image"
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 640)}`}
+      />
+      <meta
+        name="og:image"
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 640)}`}
+      />
+      <meta
+        name="og:title"
+        content={`${image.filename} | ${gallery.title} | ${CONFIG.meta.title}`}
+      />
+      <meta
+        name="og:description"
+        content={`${image.alt || gallery.title}`}
+      />
+      <meta
+        name="og:url"
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 640)}`}
       />
       <div className="w-full max-w-4xl flex flex-col gap-4">
         <div className="flex items-center h-auto md:h-[80vh]">
@@ -102,37 +123,31 @@ const ImagePage = () => {
               <div className="grid grid-cols-1 md:grid-cols-[100px,1fr] gap-x-4 gap-y-2 text-sm">
                 <div className="text-[10px] uppercase tracking-wider">Original</div>
                 <div className="flex items-center gap-2 font-mono">
-                  <a
+                  <Href
                     href={getImageUrl(gallery.slug, image.filename, "original")}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={cn("truncate", theme === "dark" ? "hover:text-red-300" : "hover:text-red-600")}>
+                    className={cn("truncate font-mono")}>
                     {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, "original")}`}
-                  </a>
+                  </Href>
                   <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, "original")}`} />
                 </div>
 
                 <div className="text-[10px] uppercase tracking-wider">1440w</div>
                 <div className="flex items-center gap-2 font-mono">
-                  <a
+                  <Href
                     href={getImageUrl(gallery.slug, image.filename, 1440)}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={cn("truncate", theme === "dark" ? "hover:text-red-300" : "hover:text-red-600")}>
+                    className={cn("truncate font-mono")}>
                     {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 1440)}`}
-                  </a>
+                  </Href>
                   <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 1440)}`} />
                 </div>
 
                 <div className="text-[10px] uppercase tracking-wider">640w</div>
                 <div className="flex items-center gap-2 font-mono">
-                  <a
+                  <Href
                     href={getImageUrl(gallery.slug, image.filename, 640)}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={cn("truncate", theme === "dark" ? "hover:text-red-300" : "hover:text-red-600")}>
+                    className={cn("truncate font-mono")}>
                     {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 640)}`}
-                  </a>
+                  </Href>
                   <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 640)}`} />
                 </div>
 
@@ -186,20 +201,8 @@ const ImagePage = () => {
                     className={cn("inline-block underline underline-offset-4 inline-block ", theme === "dark" ? "text-white decoration-red-300 hover:text-red-300 hover:decoration-red-300" : "text-black decoration-red-500 hover:text-red-600")}>
                     In Karte anzeigen
                   </Link>
-                  <a
-                    href={`https://www.google.com/maps/search/?api=1&query=${image.latitude},${image.longitude}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={cn("underline underline-offset-4 inline-block ", theme === "dark" ? "text-white decoration-red-300 hover:text-red-300 hover:decoration-red-300" : "text-black decoration-red-500 hover:text-red-600")}>
-                    Google Maps
-                  </a>
-                  <a
-                    href={`http://maps.apple.com/?ll=${image.latitude},${image.longitude}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={cn("underline underline-offset-4 inline-block ", theme === "dark" ? "text-white decoration-red-300 hover:text-red-300 hover:decoration-red-300" : "text-black decoration-red-500 hover:text-red-600")}>
-                    Apple Maps
-                  </a>
+                  <Href href={`https://www.google.com/maps/search/?api=1&query=${image.latitude},${image.longitude}`}>Google Maps</Href>
+                  <Href href={`http://maps.apple.com/?ll=${image.latitude},${image.longitude}`}>Apple Maps</Href>
                 </div>
               </div>
             )}
