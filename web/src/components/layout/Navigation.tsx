@@ -4,7 +4,8 @@ import { galleries } from "../../galleries";
 import { pages } from "../../pages";
 import type { Gallery, Page } from "../../types";
 import { useTheme } from "../../contexts/ThemeContext";
-import { Sun, Moon, ImageIcon, ChevronUp, ChevronDown } from "lucide-react";
+import { Sun, Moon, ChevronUp, ChevronDown } from "lucide-react";
+import Logo from "../ui/Logo";
 
 const Navigation = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -75,7 +76,7 @@ const Navigation = () => {
         <NavLink
           to="/"
           className="text-md font-bold">
-          <ImageIcon size={24} />
+          <Logo className="" width={24} height={24} />
         </NavLink>
         <button
           onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
@@ -104,7 +105,7 @@ const Navigation = () => {
               to="/"
               className="text-md"
               onClick={handleLinkClick}>
-              <ImageIcon size={24} />
+              <Logo width={24} height={24} />
             </NavLink>
             <button
               onClick={() => setIsMobileMenuOpen(false)}
@@ -181,7 +182,7 @@ const Navigation = () => {
             to="/"
             className={({ isActive }) => navLinkClasses(isActive) + " flex items-center gap-2"}
             end>
-            <ImageIcon size={24} />
+            <Logo width={24} height={24} />
           </NavLink>
         </div>
 
@@ -199,19 +200,19 @@ const Navigation = () => {
             ))}
           </nav>
           {/* Top Gradient & Scroll Indicator */}
-          <div className={`absolute top-0 left-0 right-0 h-8 bg-gradient-to-b ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showTopGradient ? "opacity-100" : "opacity-0"}`}>
+          <div className={`absolute top-0 left-0 right-0 h-24 bg-gradient-to-b ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showTopGradient ? "opacity-100" : "opacity-0"}`}>
             <div
               onClick={() => handleScroll("up")}
-              className={`absolute top-0 left-1/2 -translate-x-1/2 cursor-pointer text-gray-400 hover:text-gray-600 dark:hover:text-gray-200 pointer-events-auto`}>
+              className={`absolute top-0 left-7 -translate-x-1/2 cursor-pointer pointer-events-auto`}>
               <ChevronUp size={20} />
             </div>
           </div>
 
           {/* Bottom Gradient & Scroll Indicator */}
-          <div className={`absolute bottom-0 left-0 right-0 h-8 bg-gradient-to-t ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showBottomGradient ? "opacity-100" : "opacity-0"}`}>
+          <div className={`absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showBottomGradient ? "opacity-100" : "opacity-0"}`}>
             <div
               onClick={() => handleScroll("down")}
-              className={`absolute bottom-0 left-1/2 -translate-x-1/2 cursor-pointer text-gray-400 hover:text-gray-600 dark:hover:text-gray-200 pointer-events-auto`}>
+              className={`absolute bottom-0 left-7 -translate-x-1/2 cursor-pointer pointer-events-auto`}>
               <ChevronDown size={20} />
             </div>
           </div>

@@ -274,7 +274,7 @@ const MapPage = () => {
                   href={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename, "original")}
                   download
                   onClick={(e:any) => e.stopPropagation()}
-                  className={`p-2 px-3 mt-1`}
+                  className={`p-2 px-3 mt-1 text-black`}
                   aria-label={`Download ${popupInfo.image.filename}`}>
                   <Download size={16} />
                 </Href>

@@ -147,7 +147,7 @@ body {
 }
 
 [data-wysiwyg] a {
-  @apply text-blue-600 underline underline-offset-4;
+  @apply underline underline-offset-4;
 }
 
 [data-wysiwyg] blockquote {

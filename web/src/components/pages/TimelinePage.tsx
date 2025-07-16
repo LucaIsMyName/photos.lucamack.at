@@ -9,7 +9,6 @@ import type { Image as ImageType } from "../../types";
 import { parseCreateDate } from "../../utils/date";
 import { CONFIG } from "../../config";
 import { getImageUrl } from "../../utils/image";
-import Href from "../ui/Href";
 
 const TimelinePage = () => {
   const { theme } = useTheme();
@@ -175,14 +174,14 @@ const TimelinePage = () => {
                             <MapPin size={16} />
                           </Link>
                         )}
-                        <Href
+                        <a
                           href={getImageUrl(image.gallerySlug, image.filename, "original")}
                           download
                           onClick={(e) => e.stopPropagation()} // Prevent navigating to gallery when clicking download
                           className={`p-1 transition-colors ${theme === "dark" ? "text-white bg-black bg-opacity-50 " : "text-black bg-white bg-opacity-50"}`}
                           aria-label={`Download ${image.filename}`}>
                           <Download size={16} />
-                        </Href>
+                        </a>
                       </div>
                     </Link>
                   ))}

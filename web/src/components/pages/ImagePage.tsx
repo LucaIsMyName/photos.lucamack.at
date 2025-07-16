@@ -117,7 +117,7 @@ const ImagePage = () => {
             </Link>
           </h2>
 
-          <div className="flex flex-col lg:flex-row gap-8 mt-4 border-t border-neutral-500/50 pt-4 md:pt-8 border-dotted">
+          <div className="flex flex-col lg:flex-row-reverse gap-8 mt-4 border-t border-neutral-500/50 pt-4 md:pt-8 border-dotted">
             <div className="flex-1">
               <h3 className="text-xl mb-2">Details</h3>
               <div className="grid grid-cols-1 md:grid-cols-[100px,1fr] gap-x-4 gap-y-2 text-sm">
@@ -125,6 +125,7 @@ const ImagePage = () => {
                 <div className="flex items-center gap-2 font-mono">
                   <Href
                     href={getImageUrl(gallery.slug, image.filename, "original")}
+                    hasDecoration={false}
                     className={cn("truncate font-mono")}>
                     {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, "original")}`}
                   </Href>
@@ -135,6 +136,7 @@ const ImagePage = () => {
                 <div className="flex items-center gap-2 font-mono">
                   <Href
                     href={getImageUrl(gallery.slug, image.filename, 1440)}
+                    hasDecoration={false}
                     className={cn("truncate font-mono")}>
                     {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 1440)}`}
                   </Href>
@@ -145,6 +147,7 @@ const ImagePage = () => {
                 <div className="flex items-center gap-2 font-mono">
                   <Href
                     href={getImageUrl(gallery.slug, image.filename, 640)}
+                    hasDecoration={false}
                     className={cn("truncate font-mono")}>
                     {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 640)}`}
                   </Href>
