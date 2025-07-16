@@ -3263,6 +3263,500 @@
     "gallery": "beton-und-strukturen"
   },
   {
+    "latitude": 48.223858,
+    "longitude": 16.393481,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 18,
+      "minute": 37,
+      "second": 12,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 18:37:12",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.223858,16.393481",
+    "alt": null,
+    "name": "IMG_3184.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3184.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3184-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3184-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.231067,
+    "longitude": 16.391083,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 18,
+      "minute": 48,
+      "second": 10,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 18:48:10",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231067,16.391083",
+    "alt": null,
+    "name": "IMG_3192.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3192.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3192-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3192-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.231597,
+    "longitude": 16.390483,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 18,
+      "minute": 49,
+      "second": 3,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 18:49:03",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231597,16.390483",
+    "alt": null,
+    "name": "IMG_3195.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3195.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3195-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3195-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.231892,
+    "longitude": 16.390422,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 18,
+      "minute": 49,
+      "second": 41,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 18:49:41",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231892,16.390422",
+    "alt": null,
+    "name": "IMG_3196.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3196.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3196-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3196-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.233425,
+    "longitude": 16.388417,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 18,
+      "minute": 52,
+      "second": 52,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 18:52:52",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.233425,16.388417",
+    "alt": null,
+    "name": "IMG_3198.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3198.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3198-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3198-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.235122,
+    "longitude": 16.386739,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 18,
+      "minute": 55,
+      "second": 38,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 18:55:38",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.235122,16.386739",
+    "alt": null,
+    "name": "IMG_3199.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3199.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3199-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3199-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.236172,
+    "longitude": 16.385681,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 18,
+      "minute": 57,
+      "second": 28,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 18:57:28",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.236172,16.385681",
+    "alt": null,
+    "name": "IMG_3200.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3200.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3200-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3200-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.237469,
+    "longitude": 16.383744,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 18,
+      "minute": 59,
+      "second": 57,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 18:59:57",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.237469,16.383744",
+    "alt": null,
+    "name": "IMG_3202.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3202.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3202-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3202-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.239161,
+    "longitude": 16.384072,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 19,
+      "minute": 3,
+      "second": 1,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 19:03:01",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.239161,16.384072",
+    "alt": null,
+    "name": "IMG_3203.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3203.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3203-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3203-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.240156,
+    "longitude": 16.385886,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 19,
+      "minute": 6,
+      "second": 31,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 19:06:31",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.240156,16.385886",
+    "alt": null,
+    "name": "IMG_3204.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3204.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3204-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3204-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.242217,
+    "longitude": 16.384361,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 19,
+      "minute": 17,
+      "second": 16,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 19:17:16",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.242217,16.384361",
+    "alt": null,
+    "name": "IMG_3205.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3205.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3205-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3205-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.226181,
+    "longitude": 16.366172,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 20,
+      "minute": 57,
+      "second": 54,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 20:57:54",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.226181,16.366172",
+    "alt": null,
+    "name": "IMG_3209.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3209.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3209-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3209-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.224244,
+    "longitude": 16.367244,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 21,
+      "minute": 0,
+      "second": 46,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 21:00:46",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.224244,16.367244",
+    "alt": null,
+    "name": "IMG_3215.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3215.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3215-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3215-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.222558,
+    "longitude": 16.367436,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 21,
+      "minute": 3,
+      "second": 14,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 21:03:14",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.222558,16.367436",
+    "alt": null,
+    "name": "IMG_3224.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3224.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3224-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3224-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.221325,
+    "longitude": 16.367619,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 21,
+      "minute": 4,
+      "second": 59,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 21:04:59",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.221325,16.367619",
+    "alt": null,
+    "name": "IMG_3227.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3227.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3227-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3227-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.22055,
+    "longitude": 16.367939,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 21,
+      "minute": 6,
+      "second": 7,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 21:06:07",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.22055,16.367939",
+    "alt": null,
+    "name": "IMG_3229.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3229.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3229-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3229-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.218628,
+    "longitude": 16.368933,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 21,
+      "minute": 9,
+      "second": 27,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 21:09:27",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218628,16.368933",
+    "alt": null,
+    "name": "IMG_3232.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3232.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3232-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3232-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.218053,
+    "longitude": 16.369561,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 21,
+      "minute": 10,
+      "second": 43,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 21:10:43",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218053,16.369561",
+    "alt": null,
+    "name": "IMG_3233.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3233.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3233-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3233-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
+    "latitude": 48.217422,
+    "longitude": 16.370125,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 21,
+      "minute": 12,
+      "second": 19,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 21:12:19",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217422,16.370125",
+    "alt": null,
+    "name": "IMG_3234.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3234.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3234-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-strukturen/IMG_3234-1440w.jpg"
+    },
+    "gallery": "beton-und-strukturen"
+  },
+  {
     "latitude": 47.134614,
     "longitude": 14.869656,
     "createDate": {
@@ -5859,6 +6353,162 @@
       "original": "https://photos.lucamack.at/content/galleries/oeffis/IMG_2465.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/oeffis/IMG_2465-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/oeffis/IMG_2465-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
+    "latitude": 48.218486,
+    "longitude": 16.391533,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 18,
+      "minute": 7,
+      "second": 46,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 18:07:46",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218486,16.391533",
+    "alt": null,
+    "name": "IMG_3181.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3181.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3181-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3181-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
+    "latitude": 48.218517,
+    "longitude": 16.392872,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 18,
+      "minute": 29,
+      "second": 54,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 18:29:54",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218517,16.392872",
+    "alt": null,
+    "name": "IMG_3182.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3182.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3182-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3182-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
+    "latitude": 48.223083,
+    "longitude": 16.367325,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 21,
+      "minute": 2,
+      "second": 25,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 21:02:25",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.223083,16.367325",
+    "alt": null,
+    "name": "IMG_3220.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3220.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3220-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3220-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
+    "latitude": 48.222844,
+    "longitude": 16.367392,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 21,
+      "minute": 2,
+      "second": 44,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 21:02:44",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.222844,16.367392",
+    "alt": null,
+    "name": "IMG_3221.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3221.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3221-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3221-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
+    "latitude": 48.22185,
+    "longitude": 16.367456,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 21,
+      "minute": 4,
+      "second": 10,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 21:04:10",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.22185,16.367456",
+    "alt": null,
+    "name": "IMG_3225.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3225.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3225-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3225-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
+    "latitude": 48.213592,
+    "longitude": 16.37625,
+    "createDate": {
+      "_ctor": "ExifDateTime",
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "hour": 21,
+      "minute": 26,
+      "second": 22,
+      "tzoffsetMinutes": 120,
+      "rawValue": "2025:07:15 21:26:22",
+      "zoneName": "UTC+2",
+      "inferredZone": true
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213592,16.37625",
+    "alt": null,
+    "name": "IMG_3235.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3235.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3235-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/IMG_3235-1440w.jpg"
     },
     "gallery": "oeffis"
   },

@@ -139,21 +139,21 @@ const Navigation = () => {
             <div className="mt-4">
               <section className="flex gap-0 mb-4 px-4 gap-4">
                 <NavLink
-                  to="/map"
+                  to="/app/map"
                   className={({ isActive }) => navLinkClasses(isActive, false, false)}
                   onClick={handleLinkClick}>
                   Karte
                 </NavLink>
 
                 <NavLink
-                  to="/list"
+                  to="/app/list"
                   className={({ isActive }) => navLinkClasses(isActive, false, false)}
                   onClick={handleLinkClick}>
                   Liste
                 </NavLink>
 
                 <NavLink
-                  to="/timeline"
+                  to="/app/timeline"
                   className={({ isActive }) => navLinkClasses(isActive, false, false)}
                   onClick={handleLinkClick}>
                   Timeline
@@ -220,21 +220,21 @@ const Navigation = () => {
         <div className="flex-shrink-0">
           <section className="flex gap-4 px-4 mb-2 sm:mb-6">
             <NavLink
-              to="/map"
+              to="/app/map"
               className={({ isActive }) => navLinkClasses(isActive, true, false)}
               onClick={handleLinkClick}>
               Karte
             </NavLink>
 
             <NavLink
-              to="/list"
+              to="/app/list"
               className={({ isActive }) => navLinkClasses(isActive, true, false)}
               onClick={handleLinkClick}>
               Liste
             </NavLink>
 
             <NavLink
-              to="/timeline"
+              to="/app/timeline"
               className={({ isActive }) => navLinkClasses(isActive, true, false)}
               onClick={handleLinkClick}>
               Timeline

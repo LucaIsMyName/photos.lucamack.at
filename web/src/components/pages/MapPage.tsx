@@ -68,7 +68,7 @@ const MapPage = () => {
         coordinates: [item.image.longitude!, item.image.latitude!],
       },
     }));
-  }, [geotaggedImages]);
+  }, [geotaggedImages, searchParams, mapRef]);
 
   const { clusters, supercluster } = useSupercluster({
     points,
@@ -77,7 +77,7 @@ const MapPage = () => {
     options: { radius: 75, maxZoom: 13 },
   });
 
-  const handleMapLoad = () => {
+  const handleMapLoad = useCallback(() => {
     if (!mapRef.current) return;
 
     const gallerySlug = searchParams.get("gallery");
@@ -93,6 +93,15 @@ const MapPage = () => {
           latitude: targetImage.image.latitude!,
           zoom: 14,
         });
+        // Set bounds after a short delay to allow the map to transition
+        setTimeout(() => {
+          if (mapRef.current) {
+            const bounds = mapRef.current.getMap().getBounds();
+            if (bounds) {
+              setBounds(bounds.toArray().flat() as [number, number, number, number]);
+            }
+          }
+        }, 50);
         return;
       }
     }
@@ -123,7 +132,7 @@ const MapPage = () => {
       ],
       { padding: 80, duration: 1000 }
     );
-  };
+  }, [geotaggedImages, searchParams]);
 
   const toggleGalleryVisibility = useCallback((slug: string) => {
     setHiddenGalleries((prev) => {

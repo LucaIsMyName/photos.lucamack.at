@@ -4,16 +4,16 @@ import Navigation from "./components/layout/Navigation";
 import { useTheme } from "./contexts/ThemeContext";
 
 // Lazy load page components for code splitting
-const Home = lazy(() => import("./components/pages/Home"));
-const Gallery = lazy(() => import("./components/pages/Gallery"));
+const Home = lazy(() => import("./components/pages/HomePage"));
+const Gallery = lazy(() => import("./components/pages/GalleryPage"));
 const PageComponent = lazy(() => import("./components/pages/PageComponent"));
-const MapPage = lazy(() => import("./components/pages/Map"));
-const ListPage = lazy(() => import("./components/pages/List"));
-const TimelinePage = lazy(() => import("./components/pages/Timeline"));
+const MapPage = lazy(() => import("./components/pages/MapPage"));
+const ListPage = lazy(() => import("./components/pages/ListPage"));
+const TimelinePage = lazy(() => import("./components/pages/TimelinePage"));
 const MakePostcardPage = lazy(() => import("./components/pages/MakePostcardPage"));
 const StatisticsPage = lazy(() => import("./components/pages/StatisticsPage"));
 const ImagePage = lazy(() => import("./components/pages/ImagePage"));
-const NotFound = lazy(() => import("./components/pages/NotFound"));
+const NotFound = lazy(() => import("./components/pages/NotFoundPage"));
 
 function App() {
   const { theme } = useTheme();
@@ -47,23 +47,23 @@ function App() {
               element={<PageComponent />}
             />
             <Route
-              path="/map"
+              path="/app/map"
               element={<MapPage />}
             />
             <Route
-              path="/list"
+              path="/app/list"
               element={<ListPage />}
             />
             <Route
-              path="/timeline"
+              path="/app/timeline"
               element={<TimelinePage />}
             />
             <Route
-              path="/postcard"
+              path="/app/postcard"
               element={<MakePostcardPage />}
             />
             <Route
-              path="/statistics"
+              path="/app/statistics"
               element={<StatisticsPage />}
             />
             <Route

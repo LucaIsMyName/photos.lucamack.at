@@ -323,6 +323,9 @@ const ListPage = () => {
               onClearFilters={handleClearFilters}
             />
           </HorizontalScroller>
+          <div className="py-4 text-xs">
+            {filteredAndSortedImages.length} {filteredAndSortedImages.length === 1 ? 'Foto' : 'Fotos'} gefunden
+          </div>
           <div className="flex flex-col lg:flex-row lg:flex-wrap">
             {filteredAndSortedImages.map((image) => (
               <div
@@ -345,7 +348,7 @@ const ListPage = () => {
                     {image.latitude && image.longitude ? (
                       <>
                         <span className="text-xs">Koordinaten: </span>
-                        <Link to={`/map?gallery=${image.gallerySlug}&image=${image.filename}`}>
+                        <Link to={`/app/map?gallery=${image.gallerySlug}&image=${image.filename}`}>
                           <span className="text-xs underline truncate">{`${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}`}</span>
                         </Link>
                       </>
@@ -385,6 +388,9 @@ const ListPage = () => {
               onClearFilters={handleClearFilters}
             />
           </HorizontalScroller>
+          <div className="py-4 text-xs">
+            {filteredAndSortedGalleries.length} {filteredAndSortedGalleries.length === 1 ? 'Galerie' : 'Galerien'} gefunden
+          </div>
           <div className="flex flex-col lg:flex-row lg:flex-wrap">
             {filteredAndSortedGalleries.map((gallery, index) => {
               const randomImage = galleryRandomImages[gallery.slug];

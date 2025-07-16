@@ -16,14 +16,38 @@ const TimelinePage = () => {
 
   const [activeTab, setActiveTab] = useState<"images" | "galleries">((searchParams.get("tab") as "images" | "galleries") || "images");
 
+  // Effect for scrolling to a specific date. This runs only once.
   useEffect(() => {
+    const scrollToDate = searchParams.get("scrollTo");
+    if (scrollToDate) {
+      const element = document.getElementById(scrollToDate);
+      if (element) {
+        setTimeout(() => {
+          element.scrollIntoView({ behavior: "smooth", block: "start" });
+        }, 100);
+      }
+    }
+    // We only want this to run once on mount, so we have an empty dependency array.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // Effect for managing the active tab state in the URL.
+  useEffect(() => {
+    // Create a mutable copy of the search params
     const newSearchParams = new URLSearchParams(searchParams);
+
     if (activeTab === "images") {
+      // If the active tab is the default, remove the 'tab' param
       newSearchParams.delete("tab");
     } else {
+      // Otherwise, set the 'tab' param to the active tab
       newSearchParams.set("tab", activeTab);
     }
-    setSearchParams(newSearchParams, { replace: true });
+
+    // Update the URL. We use `toString()` to compare, as URLSearchParams objects are not directly comparable.
+    if (searchParams.toString() !== newSearchParams.toString()) {
+      setSearchParams(newSearchParams, { replace: true });
+    }
   }, [activeTab, searchParams, setSearchParams]);
 
   const allImages = useMemo(() => {
@@ -118,6 +142,7 @@ const TimelinePage = () => {
             {imagesByDate.map(([date, images]) => (
               <div
                 key={date}
+                id={date}
                 className="relative">
                 <div className={dotClasses}>
                   <div className={dotInnerClasses}></div>
@@ -138,7 +163,7 @@ const TimelinePage = () => {
                       <div className={`absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex justify-end items-start p-2 gap-1.5`}>
                         {image.googleMapsUrl && (
                           <Link
-                            to={`/map?gallery=${image.gallerySlug}&image=${image.filename}`}
+                            to={`/app/map?gallery=${image.gallerySlug}&image=${image.filename}`}
                             onClick={(e) => e.stopPropagation()}
                             className={`p-1 transition-colors ${theme === "dark" ? "text-white bg-black bg-opacity-50 " : "text-black bg-white bg-opacity-50"}`}
                             aria-label={`View ${image.filename} on map`}>

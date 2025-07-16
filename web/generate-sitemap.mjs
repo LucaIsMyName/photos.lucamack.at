@@ -47,9 +47,9 @@ function generateSitemap() {
 
   const urls = [
     { loc: BASE_URL, changefreq: 'daily', priority: '1.0' },
-    { loc: `${BASE_URL}/map`, changefreq: 'monthly', priority: '0.5' },
-    { loc: `${BASE_URL}/list`, changefreq: 'monthly', priority: '0.5' },
-    { loc: `${BASE_URL}/timeline`, changefreq: 'monthly', priority: '0.5' },
+    { loc: `${BASE_URL}/app/map`, changefreq: 'monthly', priority: '0.5' },
+    { loc: `${BASE_URL}/app/list`, changefreq: 'monthly', priority: '0.5' },
+    { loc: `${BASE_URL}/app/timeline`, changefreq: 'monthly', priority: '0.5' }
   ];
 
   galleries.forEach(gallery => {

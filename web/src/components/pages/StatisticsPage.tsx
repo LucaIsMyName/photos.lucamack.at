@@ -50,7 +50,7 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
 
   return (
     <div className={cn(`border  ${theme === "dark" ? "" : ""} p-0 flex flex-col`)}>
-      <Link to={`/gallery/${image.gallery}`}>
+      <Link to={`/image/${image.filename.replace(".jpg", "")}`}>
         <img
           src={`/content/galleries/${image.gallery}/${getSizedImagePath(image.filename, 640)}`}
           alt={image.alt || title}
@@ -65,7 +65,7 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
         </div>
         <Link
           className="absolute bottom-4 right-4"
-          to={`/map?gallery=${image.gallery}&image=${image.filename}`}>
+          to={`/app/map?gallery=${image.gallery}&image=${image.filename}`}>
           <MapPin size={16} />
         </Link>
       </div>

@@ -35,6 +35,7 @@ export interface Gallery {
   images: Image[];
   timeframe?: string;
   imageCount?: number;
+  createDate?: ExifDateTime;
 }
 
 export interface Page {
