@@ -26,7 +26,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-strukturen</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/graz</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/kaernten-koroska</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -166,12 +181,92 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/image/IMG_3542</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3543</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3544</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3545</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3546</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3547</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3548</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3549</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3550</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3551</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3552</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3553</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3554</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3555</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/image/_IMG_0340</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/image/IMG_0302</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0331_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0399</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -836,6 +931,416 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/image/IMG_3556_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3557_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3560</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3569</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3575</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3590</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3596</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3602</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3609</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3617</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3619</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3623</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3625</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3644</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3648</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3649</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3650</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3652</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3654</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3657</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3668</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3671</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3700</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3701</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3708</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3709</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3710</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3712</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3713</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3718</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3724</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3725</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3728</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3729</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3731</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3734</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3735</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3738</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3307</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3313_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3313</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3328_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3329_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3331_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3333_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3334_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3335_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3336_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3399_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3401_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3408_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3418_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3422_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3424_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3427_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3430_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3431_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3436_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3439_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3443_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3452_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3456_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3463_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3464_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3471_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3476_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3478_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3480_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3482_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3485_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3488_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3495_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3497_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3499_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3503_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3506_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3514_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3515_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3520_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3525_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3539_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_3541_2</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/image/IMG_0471</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1161,6 +1666,31 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/image/IMG_0137</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0180</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0310</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0311</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0354</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/image/IMG_1866</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1392,6 +1922,16 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/image/IMG_0074</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0309</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0319</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1821,6 +2361,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/image/IMG_0303</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/image/IMG_2332</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1906,6 +2451,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/image/IMG_0135</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/image/IMG_0220</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1921,7 +2471,32 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/image/IMG_0271</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0281</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/image/IMG_0285</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0325</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0347</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/image/IMG_0403</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

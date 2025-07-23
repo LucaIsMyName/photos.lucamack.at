@@ -232,6 +232,296 @@ export const galleries = [
     "imageCount": 11
   },
   {
+    "name": "berlin",
+    "slug": "berlin",
+    "title": "Berlin",
+    "description": "",
+    "images": [
+      {
+        "filename": "IMG_3542.jpg",
+        "latitude": 52.504758,
+        "longitude": 13.335239,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 14,
+          "hour": 14,
+          "minute": 34,
+          "second": 45,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:14 14:34:45",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.504758,13.335239",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3543.jpg",
+        "latitude": 52.505053,
+        "longitude": 13.332972,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 16,
+          "hour": 14,
+          "minute": 34,
+          "second": 45,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:16 14:34:45",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.505053,13.332972",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3544.jpg",
+        "latitude": 52.501736,
+        "longitude": 13.341056,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 16,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:16 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.501736,13.341056",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3545.jpg",
+        "latitude": 52.518742,
+        "longitude": 13.408022,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 14,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:14 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.518742,13.408022",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3546.jpg",
+        "latitude": 52.522811,
+        "longitude": 13.413103,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 14,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:14 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.522811,13.413103",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3547.jpg",
+        "latitude": 52.4988,
+        "longitude": 13.418322,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 13,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:13 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.4988,13.418322",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3548.jpg",
+        "latitude": 52.495617,
+        "longitude": 13.420594,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 13,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:13 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.495617,13.420594",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3549.jpg",
+        "latitude": 52.492272,
+        "longitude": 13.416881,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 15,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:15 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.492272,13.416881",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3550.jpg",
+        "latitude": 52.404192,
+        "longitude": 13.038433,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 16,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:16 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.404192,13.038433",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3551.jpg",
+        "latitude": 52.494972,
+        "longitude": 13.421853,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 14,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:14 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.494972,13.421853",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3552.jpg",
+        "latitude": 52.404192,
+        "longitude": 13.038433,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 16,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:16 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.404192,13.038433",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3553.jpg",
+        "latitude": 52.518097,
+        "longitude": 13.406433,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 15,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:15 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.518097,13.406433",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3554.jpg",
+        "latitude": 52.524533,
+        "longitude": 13.369892,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 15,
+          "hour": 8,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:15 08:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.524533,13.369892",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3555.jpg",
+        "latitude": 52.523789,
+        "longitude": 13.369997,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 15,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:15 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.523789,13.369997",
+        "alt": null
+      }
+    ],
+    "timeframe": "13. August 2023 - 16. August 2023",
+    "imageCount": 14
+  },
+  {
     "name": "beton-und-strukturen",
     "slug": "beton-und-strukturen",
     "title": "Beton & Struktur",
@@ -275,6 +565,46 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172869,16.409564",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0331_2.jpg",
+        "latitude": 48.169014,
+        "longitude": 16.416828,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 23,
+          "hour": 8,
+          "minute": 1,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:23 08:01:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169014,16.416828",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0399.jpg",
+        "latitude": 48.176483,
+        "longitude": 16.424428,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 8,
+          "day": 17,
+          "hour": 15,
+          "minute": 26,
+          "second": 27,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:08:17 15:26:27",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176483,16.424428",
         "alt": null
       },
       {
@@ -2903,10 +3233,1644 @@ export const galleries = [
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217422,16.370125",
         "alt": null
+      },
+      {
+        "filename": "IMG_3556_2.jpg",
+        "latitude": null,
+        "longitude": null,
+        "googleMapsUrl": null,
+        "alt": null
+      },
+      {
+        "filename": "IMG_3557_2.jpg",
+        "latitude": null,
+        "longitude": null,
+        "googleMapsUrl": null,
+        "alt": null
       }
     ],
     "timeframe": "7. Juni 2024 - 15. Juli 2025",
-    "imageCount": 134
+    "imageCount": 138
+  },
+  {
+    "name": "graz",
+    "slug": "graz",
+    "title": "Graz",
+    "description": "",
+    "images": [
+      {
+        "filename": "IMG_3560.jpg",
+        "latitude": 47.032167,
+        "longitude": 15.412222,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 15,
+          "minute": 57,
+          "second": 3,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 15:57:03",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.032167,15.412222",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3569.jpg",
+        "latitude": 47.070781,
+        "longitude": 15.435519,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 18,
+          "minute": 27,
+          "second": 31,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 18:27:31",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.070781,15.435519",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3575.jpg",
+        "latitude": 47.070775,
+        "longitude": 15.43545,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 18,
+          "minute": 32,
+          "second": 4,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 18:32:04",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.070775,15.43545",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3590.jpg",
+        "latitude": 47.070775,
+        "longitude": 15.43835,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 18,
+          "minute": 49,
+          "second": 24,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 18:49:24",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.070775,15.43835",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3596.jpg",
+        "latitude": 47.071042,
+        "longitude": 15.438156,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 18,
+          "minute": 50,
+          "second": 43,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 18:50:43",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.071042,15.438156",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3602.jpg",
+        "latitude": 47.069542,
+        "longitude": 15.4405,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 18,
+          "minute": 57,
+          "second": 15,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 18:57:15",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.069542,15.4405",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3609.jpg",
+        "latitude": 47.0682,
+        "longitude": 15.441733,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 19,
+          "minute": 0,
+          "second": 22,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 19:00:22",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.0682,15.441733",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3617.jpg",
+        "latitude": 47.067531,
+        "longitude": 15.442253,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 19,
+          "minute": 2,
+          "second": 29,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 19:02:29",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.067531,15.442253",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3619.jpg",
+        "latitude": 47.068131,
+        "longitude": 15.444769,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 19,
+          "minute": 5,
+          "second": 9,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 19:05:09",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.068131,15.444769",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3623.jpg",
+        "latitude": 47.066986,
+        "longitude": 15.441636,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 19,
+          "minute": 43,
+          "second": 58,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 19:43:58",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066986,15.441636",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3625.jpg",
+        "latitude": 47.073247,
+        "longitude": 15.436944,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 19,
+          "minute": 52,
+          "second": 2,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 19:52:02",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073247,15.436944",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3644.jpg",
+        "latitude": 47.073394,
+        "longitude": 15.437331,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 19,
+          "minute": 55,
+          "second": 20,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 19:55:20",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073394,15.437331",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3648.jpg",
+        "latitude": 47.073506,
+        "longitude": 15.436625,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 19,
+          "minute": 56,
+          "second": 50,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 19:56:50",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073506,15.436625",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3649.jpg",
+        "latitude": 47.073611,
+        "longitude": 15.437589,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 19,
+          "minute": 56,
+          "second": 56,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 19:56:56",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073611,15.437589",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3650.jpg",
+        "latitude": 47.073692,
+        "longitude": 15.437558,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 19,
+          "minute": 57,
+          "second": 13,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 19:57:13",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073692,15.437558",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3652.jpg",
+        "latitude": 47.074708,
+        "longitude": 15.437128,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 19,
+          "minute": 59,
+          "second": 21,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 19:59:21",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074708,15.437128",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3654.jpg",
+        "latitude": 47.074836,
+        "longitude": 15.437069,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 19,
+          "minute": 59,
+          "second": 40,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 19:59:40",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074836,15.437069",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3657.jpg",
+        "latitude": 47.075886,
+        "longitude": 15.437569,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 20,
+          "minute": 1,
+          "second": 39,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 20:01:39",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.075886,15.437569",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3668.jpg",
+        "latitude": 47.076389,
+        "longitude": 15.437192,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 20,
+          "minute": 38,
+          "second": 38,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 20:38:38",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.076389,15.437192",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3671.jpg",
+        "latitude": 47.076211,
+        "longitude": 15.437172,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 21,
+          "minute": 8,
+          "second": 39,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 21:08:39",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.076211,15.437172",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3700.jpg",
+        "latitude": 47.074317,
+        "longitude": 15.4366,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 22,
+          "second": 12,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:22:12",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074317,15.4366",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3701.jpg",
+        "latitude": 47.07385,
+        "longitude": 15.437303,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 25,
+          "second": 43,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:25:43",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.07385,15.437303",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3708.jpg",
+        "latitude": 47.073219,
+        "longitude": 15.437003,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 30,
+          "second": 49,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:30:49",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073219,15.437003",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3709.jpg",
+        "latitude": 47.072839,
+        "longitude": 15.436306,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 32,
+          "second": 15,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:32:15",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.072839,15.436306",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3710.jpg",
+        "latitude": 47.072767,
+        "longitude": 15.436361,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 32,
+          "second": 45,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:32:45",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.072767,15.436361",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3712.jpg",
+        "latitude": 47.0708,
+        "longitude": 15.438069,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 37,
+          "second": 39,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:37:39",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.0708,15.438069",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3713.jpg",
+        "latitude": 47.069631,
+        "longitude": 15.438239,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 39,
+          "second": 44,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:39:44",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.069631,15.438239",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3718.jpg",
+        "latitude": 47.069119,
+        "longitude": 15.435683,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 43,
+          "second": 41,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:43:41",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.069119,15.435683",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3724.jpg",
+        "latitude": 47.066406,
+        "longitude": 15.431294,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 53,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:53:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066406,15.431294",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3725.jpg",
+        "latitude": 47.066433,
+        "longitude": 15.431408,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 53,
+          "second": 20,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:53:20",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066433,15.431408",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3728.jpg",
+        "latitude": 47.066758,
+        "longitude": 15.428022,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 56,
+          "second": 2,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:56:02",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066758,15.428022",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3729.jpg",
+        "latitude": 47.066281,
+        "longitude": 15.425953,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 22,
+          "minute": 58,
+          "second": 28,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 22:58:28",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066281,15.425953",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3731.jpg",
+        "latitude": 47.065986,
+        "longitude": 15.423369,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 23,
+          "minute": 0,
+          "second": 59,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 23:00:59",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065986,15.423369",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3734.jpg",
+        "latitude": 47.065747,
+        "longitude": 15.422117,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 23,
+          "minute": 4,
+          "second": 0,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 23:04:00",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065747,15.422117",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3735.jpg",
+        "latitude": 47.065997,
+        "longitude": 15.422139,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 23,
+          "minute": 5,
+          "second": 6,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 23:05:06",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065997,15.422139",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3738.jpg",
+        "latitude": 47.065875,
+        "longitude": 15.423422,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 23,
+          "minute": 20,
+          "second": 39,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 23:20:39",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065875,15.423422",
+        "alt": null
+      }
+    ],
+    "timeframe": "21. Juli 2025",
+    "imageCount": 36
+  },
+  {
+    "name": "kaernten-koroska",
+    "slug": "kaernten-koroska",
+    "title": "Kärnten / Koroška",
+    "description": "Ab in den Süden. *Proti jugu.*",
+    "images": [
+      {
+        "filename": "IMG_3307.jpg",
+        "latitude": 46.967381,
+        "longitude": 13.193314,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 19,
+          "hour": 12,
+          "minute": 15,
+          "second": 3,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:19 12:15:03",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.967381,13.193314",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3313_2.jpg",
+        "latitude": 46.613292,
+        "longitude": 13.845847,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 19,
+          "hour": 14,
+          "minute": 43,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:19 14:43:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.613292,13.845847",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3313.jpg",
+        "latitude": 46.613292,
+        "longitude": 13.845847,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 19,
+          "hour": 14,
+          "minute": 43,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:19 14:43:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.613292,13.845847",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3328_2.jpg",
+        "latitude": 46.840017,
+        "longitude": 14.843519,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 19,
+          "hour": 17,
+          "minute": 53,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:19 17:53:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.840017,14.843519",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3329_2.jpg",
+        "latitude": 46.840028,
+        "longitude": 14.84355,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 19,
+          "hour": 17,
+          "minute": 54,
+          "second": 27,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:19 17:54:27",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.840028,14.84355",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3331_2.jpg",
+        "latitude": 46.838422,
+        "longitude": 14.843519,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 19,
+          "hour": 18,
+          "minute": 10,
+          "second": 52,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:19 18:10:52",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.838422,14.843519",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3333_2.jpg",
+        "latitude": 46.873825,
+        "longitude": 14.775747,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 19,
+          "hour": 20,
+          "minute": 5,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:19 20:05:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.873825,14.775747",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3334_2.jpg",
+        "latitude": 46.865806,
+        "longitude": 14.782853,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 19,
+          "hour": 20,
+          "minute": 9,
+          "second": 0,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:19 20:09:00",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.865806,14.782853",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3335_2.jpg",
+        "latitude": 46.865739,
+        "longitude": 14.782789,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 19,
+          "hour": 20,
+          "minute": 9,
+          "second": 26,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:19 20:09:26",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.865739,14.782789",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3336_2.jpg",
+        "latitude": 46.865619,
+        "longitude": 14.782633,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 19,
+          "hour": 20,
+          "minute": 10,
+          "second": 12,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:19 20:10:12",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.865619,14.782633",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3399_2.jpg",
+        "latitude": 46.614814,
+        "longitude": 14.121894,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 11,
+          "minute": 58,
+          "second": 24,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 11:58:24",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.614814,14.121894",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3401_2.jpg",
+        "latitude": 46.608844,
+        "longitude": 14.145178,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 12,
+          "minute": 0,
+          "second": 27,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 12:00:27",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.608844,14.145178",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3408_2.jpg",
+        "latitude": 46.625306,
+        "longitude": 14.307778,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 14,
+          "minute": 4,
+          "second": 49,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 14:04:49",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.625306,14.307778",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3418_2.jpg",
+        "latitude": 46.624008,
+        "longitude": 14.307756,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 14,
+          "minute": 13,
+          "second": 44,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 14:13:44",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.624008,14.307756",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3422_2.jpg",
+        "latitude": 46.623967,
+        "longitude": 14.307844,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 14,
+          "minute": 14,
+          "second": 18,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 14:14:18",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.623967,14.307844",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3424_2.jpg",
+        "latitude": 46.624053,
+        "longitude": 14.307789,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 14,
+          "minute": 14,
+          "second": 50,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 14:14:50",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.624053,14.307789",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3427_2.jpg",
+        "latitude": 46.62455,
+        "longitude": 14.308033,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 14,
+          "minute": 31,
+          "second": 9,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 14:31:09",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.62455,14.308033",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3430_2.jpg",
+        "latitude": 46.62515,
+        "longitude": 14.309306,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 14,
+          "minute": 33,
+          "second": 13,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 14:33:13",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.62515,14.309306",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3431_2.jpg",
+        "latitude": 46.626369,
+        "longitude": 14.311086,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 14,
+          "minute": 38,
+          "second": 54,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 14:38:54",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626369,14.311086",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3436_2.jpg",
+        "latitude": 46.622169,
+        "longitude": 14.254164,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 14,
+          "minute": 58,
+          "second": 39,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 14:58:39",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622169,14.254164",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3439_2.jpg",
+        "latitude": 46.622453,
+        "longitude": 14.253317,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 14,
+          "minute": 59,
+          "second": 44,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 14:59:44",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622453,14.253317",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3443_2.jpg",
+        "latitude": 46.622769,
+        "longitude": 14.252847,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 15,
+          "minute": 0,
+          "second": 48,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 15:00:48",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622769,14.252847",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3452_2.jpg",
+        "latitude": 46.623086,
+        "longitude": 14.252092,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 16,
+          "minute": 19,
+          "second": 51,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 16:19:51",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.623086,14.252092",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3456_2.jpg",
+        "latitude": 46.622703,
+        "longitude": 14.255239,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 16,
+          "minute": 31,
+          "second": 23,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 16:31:23",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622703,14.255239",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3463_2.jpg",
+        "latitude": 46.626483,
+        "longitude": 14.3065,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 17,
+          "minute": 26,
+          "second": 54,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 17:26:54",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626483,14.3065",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3464_2.jpg",
+        "latitude": 46.623997,
+        "longitude": 14.302508,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 17,
+          "minute": 33,
+          "second": 49,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 17:33:49",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.623997,14.302508",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3471_2.jpg",
+        "latitude": 46.621042,
+        "longitude": 14.306292,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 19,
+          "minute": 40,
+          "second": 53,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 19:40:53",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.621042,14.306292",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3476_2.jpg",
+        "latitude": 46.621958,
+        "longitude": 14.305153,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 19,
+          "minute": 43,
+          "second": 42,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 19:43:42",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.621958,14.305153",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3478_2.jpg",
+        "latitude": 46.622986,
+        "longitude": 14.304922,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 19,
+          "minute": 45,
+          "second": 5,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 19:45:05",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622986,14.304922",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3480_2.jpg",
+        "latitude": 46.621825,
+        "longitude": 14.303786,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 19,
+          "minute": 49,
+          "second": 11,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 19:49:11",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.621825,14.303786",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3482_2.jpg",
+        "latitude": 46.616161,
+        "longitude": 14.308681,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 20,
+          "minute": 6,
+          "second": 55,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 20:06:55",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.616161,14.308681",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3485_2.jpg",
+        "latitude": 46.621292,
+        "longitude": 14.310967,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 20,
+          "minute": 22,
+          "second": 31,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 20:22:31",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.621292,14.310967",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3488_2.jpg",
+        "latitude": 46.626381,
+        "longitude": 14.311836,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 20,
+          "hour": 21,
+          "minute": 5,
+          "second": 8,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:20 21:05:08",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626381,14.311836",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3495_2.jpg",
+        "latitude": 46.626228,
+        "longitude": 14.307481,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 9,
+          "minute": 8,
+          "second": 57,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 09:08:57",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626228,14.307481",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3497_2.jpg",
+        "latitude": 46.626228,
+        "longitude": 14.307467,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 9,
+          "minute": 9,
+          "second": 13,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 09:09:13",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626228,14.307467",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3499_2.jpg",
+        "latitude": 46.626183,
+        "longitude": 14.3074,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 9,
+          "minute": 9,
+          "second": 19,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 09:09:19",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626183,14.3074",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3503_2.jpg",
+        "latitude": 46.626025,
+        "longitude": 14.306869,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 9,
+          "minute": 15,
+          "second": 24,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 09:15:24",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626025,14.306869",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3506_2.jpg",
+        "latitude": 46.625503,
+        "longitude": 14.307908,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 9,
+          "minute": 35,
+          "second": 22,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 09:35:22",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.625503,14.307908",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3514_2.jpg",
+        "latitude": 46.622792,
+        "longitude": 14.306056,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 10,
+          "minute": 31,
+          "second": 23,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 10:31:23",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622792,14.306056",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3515_2.jpg",
+        "latitude": 46.622892,
+        "longitude": 14.306003,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 10,
+          "minute": 31,
+          "second": 50,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 10:31:50",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622892,14.306003",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3520_2.jpg",
+        "latitude": 46.622872,
+        "longitude": 14.306,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 10,
+          "minute": 33,
+          "second": 50,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 10:33:50",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622872,14.306",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3525_2.jpg",
+        "latitude": 46.622708,
+        "longitude": 14.306478,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 10,
+          "minute": 38,
+          "second": 54,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 10:38:54",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622708,14.306478",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3539_2.jpg",
+        "latitude": 46.616233,
+        "longitude": 14.313658,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 13,
+          "minute": 30,
+          "second": 9,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 13:30:09",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.616233,14.313658",
+        "alt": null
+      },
+      {
+        "filename": "IMG_3541_2.jpg",
+        "latitude": 46.6166,
+        "longitude": 14.311928,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 21,
+          "hour": 13,
+          "minute": 59,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:21 13:59:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.6166,14.311928",
+        "alt": null
+      }
+    ],
+    "timeframe": "19. Juli 2025 - 21. Juli 2025",
+    "imageCount": 44
   },
   {
     "name": "kleinlobming",
@@ -4245,6 +6209,106 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "IMG_0137.jpg",
+        "latitude": 48.246381,
+        "longitude": 16.394939,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 4,
+          "day": 24,
+          "hour": 20,
+          "minute": 18,
+          "second": 14,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:04:24 20:18:14",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.246381,16.394939",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0180.jpg",
+        "latitude": 48.194561,
+        "longitude": 16.330406,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 13,
+          "second": 9,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:05:01 11:13:09",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194561,16.330406",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0310.jpg",
+        "latitude": null,
+        "longitude": null,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 21,
+          "hour": 18,
+          "minute": 32,
+          "second": 51,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:21 18:32:51",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": null,
+        "alt": null
+      },
+      {
+        "filename": "IMG_0311.jpg",
+        "latitude": 48.219372,
+        "longitude": 16.449286,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 21,
+          "hour": 18,
+          "minute": 35,
+          "second": 13,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:21 18:35:13",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.219372,16.449286",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0354.jpg",
+        "latitude": 48.205944,
+        "longitude": 16.360808,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 29,
+          "hour": 20,
+          "minute": 51,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:29 20:51:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205944,16.360808",
+        "alt": null
+      },
+      {
         "filename": "IMG_1866.jpg",
         "latitude": 48.180231,
         "longitude": 16.386892,
@@ -5066,7 +7130,7 @@ export const galleries = [
       }
     ],
     "timeframe": "11. April 2024 - 15. Juli 2025",
-    "imageCount": 43
+    "imageCount": 48
   },
   {
     "name": "ottenstein",
@@ -5202,6 +7266,46 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.187439,16.317444",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0309.jpg",
+        "latitude": 48.211767,
+        "longitude": 16.434911,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 21,
+          "hour": 15,
+          "minute": 50,
+          "second": 15,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:21 15:50:15",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211767,16.434911",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0319.jpg",
+        "latitude": 48.206853,
+        "longitude": 16.447103,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 21,
+          "hour": 18,
+          "minute": 55,
+          "second": 49,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:21 18:55:49",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206853,16.447103",
         "alt": null
       },
       {
@@ -5386,7 +7490,7 @@ export const galleries = [
       }
     ],
     "timeframe": "13. April 2024 - 9. Juli 2025",
-    "imageCount": 10
+    "imageCount": 12
   },
   {
     "name": "porto",
@@ -6935,6 +9039,26 @@ export const galleries = [
     "description": "Johann Bernhard Fischer von Erlach wird man hier nicht finden.",
     "images": [
       {
+        "filename": "IMG_0303.jpg",
+        "latitude": 47.944294,
+        "longitude": 12.935275,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 5,
+          "day": 19,
+          "hour": 20,
+          "minute": 42,
+          "second": 0,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:05:19 20:42:00",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.944294,12.935275",
+        "alt": null
+      },
+      {
         "filename": "IMG_2332.jpg",
         "latitude": 47.816656,
         "longitude": 13.025656,
@@ -7255,8 +9379,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "17. Mai 2025 - 18. Mai 2025",
-    "imageCount": 16
+    "timeframe": "19. Mai 2024 - 18. Mai 2025",
+    "imageCount": 17
   },
   {
     "name": "sonstwo-und-allfaelliges",
@@ -7282,6 +9406,26 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185794,16.319944",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0135.jpg",
+        "latitude": 48.298211,
+        "longitude": 16.422322,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 4,
+          "day": 24,
+          "hour": 18,
+          "minute": 9,
+          "second": 36,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:04:24 18:09:36",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.298211,16.422322",
         "alt": null
       },
       {
@@ -7345,6 +9489,46 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "IMG_0271.jpg",
+        "latitude": 48.859253,
+        "longitude": 15.219978,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 12,
+          "hour": 22,
+          "minute": 34,
+          "second": 23,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:12 22:34:23",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.859253,15.219978",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0281.jpg",
+        "latitude": 48.948892,
+        "longitude": 15.044311,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 13,
+          "hour": 15,
+          "minute": 15,
+          "second": 40,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:13 15:15:40",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.948892,15.044311",
+        "alt": null
+      },
+      {
         "filename": "IMG_0285.jpg",
         "latitude": 48.859294,
         "longitude": 15.217844,
@@ -7362,6 +9546,66 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.859294,15.217844",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0325.jpg",
+        "latitude": 48.169697,
+        "longitude": 16.416206,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 5,
+          "day": 29,
+          "hour": 16,
+          "minute": 39,
+          "second": 48,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:05:29 16:39:48",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169697,16.416206",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0347.jpg",
+        "latitude": 48.174739,
+        "longitude": 16.406886,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 28,
+          "hour": 17,
+          "minute": 47,
+          "second": 54,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:28 17:47:54",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174739,16.406886",
+        "alt": null
+      },
+      {
+        "filename": "IMG_0403.jpg",
+        "latitude": 48.185386,
+        "longitude": 16.326622,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 6,
+          "day": 28,
+          "hour": 16,
+          "minute": 37,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:06:28 16:37:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185386,16.326622",
         "alt": null
       },
       {
@@ -7433,7 +9677,7 @@ export const galleries = [
       }
     ],
     "timeframe": "18. Februar 2024 - 16. Mai 2025",
-    "imageCount": 9
+    "imageCount": 15
   },
   {
     "name": "waidhofen",

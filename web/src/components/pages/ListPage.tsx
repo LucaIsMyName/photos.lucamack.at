@@ -337,7 +337,7 @@ const ListPage = () => {
                   <Link to={`/image/${image.filename.replace(/\.[^/.]+$/, "")}`}>
                     <img
                       loading="lazy"
-                      src={getImageUrl(image.gallerySlug, image.filename, 640)}
+                      src={getImageUrl(image.gallerySlug, image.filename, 380)}
                       alt={image.alt || `${image.galleryTitle} - ${image.filename}`}
                       width={128}
                       height={128}
@@ -410,7 +410,7 @@ const ListPage = () => {
                     {randomImage ? (
                       <img
                         loading="lazy"
-                        src={getImageUrl(gallery.slug, randomImage.filename, 640)}
+                        src={getImageUrl(gallery.slug, randomImage.filename, 380)}
                         alt={gallery.title}
                         width={128}
                         height={128}

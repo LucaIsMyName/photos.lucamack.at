@@ -159,7 +159,7 @@ const TimelinePage = () => {
                       key={image.filename}
                       className="relative group block">
                       <img
-                        src={getImageUrl(image.gallerySlug, image.filename, 640)}
+                        src={getImageUrl(image.gallerySlug, image.filename, 380)}
                         alt={image.alt || image.filename}
                         loading="lazy"
                         className="w-full h-full object-cover aspect-square"

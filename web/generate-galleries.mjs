@@ -16,7 +16,7 @@ const publicContentDir = path.join(publicDir, 'content');
 const publicGalleriesDir = path.join(publicContentDir, 'galleries');
 const apiDir = path.join(publicDir, 'api');
 
-const responsiveSizes = [640, 1440];
+const responsiveSizes = [380, 640, 1440];
 const baseUrl = "https://photos.lucamack.at";
 
 async function generateGalleries() {
@@ -54,6 +54,9 @@ async function generateGalleries() {
       const base = path.basename(file, ext).replace(/ /g, '_');
       let processPath = sourcePath;
       let outputExt = ext;
+      if (/\.jpe?g$/i.test(outputExt)) {
+        outputExt = '.jpg';
+      }
 
       if (/\.heic$/i.test(file)) {
         const jpgFile = `${base}.jpg`;
@@ -111,7 +114,7 @@ async function generateGalleries() {
     const imageFilesData = await Promise.all(
       imageFilesRaw.map(async (file) => {
         const sourcePath = path.join(galleryDir, file);
-        const filename = file.replace(/\.heic$/i, '.jpg').replace(/ /g, '_');
+        const filename = file.replace(/\.heic$/i, '.jpg').replace(/\.jpeg$/i, '.jpg').replace(/ /g, '_');
         let latitude = null;
         let longitude = null;
         let createDate = null;

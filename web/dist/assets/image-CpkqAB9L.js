@@ -1,0 +1,1 @@
+const i=(e,n,r="original")=>{if(r==="original")return`/content/galleries/${e}/${n}`;const t=n.replace(/\.(heic|jpg|jpeg|png|webp)$/i,`-${r}w.jpg`).trim();return`/content/galleries/${e}/${t}`};export{i as g};

@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 // import heic2any from "heic2any";
 import { useInView } from "react-intersection-observer";
-import { getSizedImagePath } from "../../utils/image";
+import { getImageUrl } from "../../utils/image";
 import { cn } from "../../utils/cn";
 import { useTheme } from "../../contexts/ThemeContext";
 
@@ -18,7 +18,7 @@ interface ImageProps {
   loading?: "lazy" | "eager";
 }
 
-const responsiveSizes = [640, 1440];
+const responsiveSizes: (380 | 640 | 1440)[] = [380, 640, 1440];
 
 const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, sizes, width, height }: ImageProps) => {
   const { theme } = useTheme();
@@ -34,7 +34,7 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, size
   const filename = src.split("/").pop() || "";
   const gallerySlug = src.split("/")[3];
 
-  const srcSet = responsiveSizes.map((size) => `/content/galleries/${gallerySlug}/${getSizedImagePath(filename, size as 640 | 1440)} ${size}w`).join(", ");
+    const srcSet = responsiveSizes.map((size) => `${getImageUrl(gallerySlug, filename, size)} ${size}w`).join(", ");
 
   useEffect(() => {
     if (!inView) {

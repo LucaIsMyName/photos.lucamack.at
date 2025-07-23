@@ -145,7 +145,7 @@ const GalleryPage = () => {
         {gallery.timeframe || gallery.imageCount ? (
           <div className="max-w-[calc(1024px)] flex w-full  my-8 py-8 flex flex-col md:flex-row justify-between items-center text-sm">
             <div className="text-left flex justify-center gap-4 w-full">
-              {gallery.timeframe && <p>{gallery.timeframe}</p>} - {gallery.imageCount && <p>{gallery.imageCount} Fotos</p>}
+              {gallery.timeframe ? <p>{gallery.timeframe} </p> : <p>N/A</p>} | {gallery.imageCount ? <p>{gallery.imageCount} Fotos</p> : <p>N/A</p>}
             </div>
           </div>
         ) : null}
