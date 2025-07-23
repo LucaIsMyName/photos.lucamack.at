@@ -19,6 +19,18 @@ const apiDir = path.join(publicDir, 'api');
 const responsiveSizes = [380, 640, 1440];
 const baseUrl = "https://photos.lucamack.at";
 
+function slugify(text) {
+  return text
+    .toString()
+    .normalize('NFC')
+    .toLowerCase()
+    .replace(/ä/g, 'ae')
+    .replace(/ö/g, 'oe')
+    .replace(/ü/g, 'ue')
+    .replace(/ß/g, 'ss')
+    .replace(/ /g, '_');
+}
+
 async function generateGalleries() {
   const exiftool = new ExifTool();
   if (!fs.existsSync(publicDir)) {
@@ -40,7 +52,8 @@ async function generateGalleries() {
 
   const galleryPromises = directories.map(async (name) => {
     const galleryDir = path.join(galleriesPath, name);
-    const publicGalleryDir = path.join(publicGalleriesDir, name);
+    const gallerySlug = slugify(name);
+    const publicGalleryDir = path.join(publicGalleriesDir, gallerySlug);
 
     if (!fs.existsSync(publicGalleryDir)) {
       fs.mkdirSync(publicGalleryDir, { recursive: true });
@@ -114,7 +127,7 @@ async function generateGalleries() {
     const imageFilesData = await Promise.all(
       imageFilesRaw.map(async (file) => {
         const sourcePath = path.join(galleryDir, file);
-        const filename = file.replace(/\.heic$/i, '.jpg').replace(/\.jpeg$/i, '.jpg').replace(/ /g, '_');
+                        const filename = file.replace(/\.heic$/i, '.jpg').replace(/\.jpeg$/i, '.jpg');
         let latitude = null;
         let longitude = null;
         let createDate = null;
@@ -122,13 +135,15 @@ async function generateGalleries() {
 
         try {
           const tags = await exiftool.read(sourcePath);
+
           if (tags) {
             if (tags.GPSLatitude && tags.GPSLongitude) {
               latitude = tags.GPSLatitude;
               longitude = tags.GPSLongitude;
             }
             createDate = tags.DateTimeOriginal || tags.CreateDate;
-            alt = tags.Description || tags.UserComment || tags.ImageDescription || null;
+            const comment = tags.UserComment || tags.ImageDescription || tags.Description || tags.Comment;
+            alt = typeof comment === 'string' && comment.trim() !== '' ? comment.trim() : null;
           }
         } catch (err) {
           console.error('Error reading exif for', file, err);
@@ -184,7 +199,7 @@ async function generateGalleries() {
       if (firstParagraph) description = firstParagraph.trim();
     }
 
-    return { name, slug: name, title, description, images: uniqueImageFilesData, timeframe, imageCount };
+        return { name, slug: gallerySlug, title, description, images: uniqueImageFilesData, timeframe, imageCount };
   });
 
   const galleries = await Promise.all(galleryPromises);
@@ -205,11 +220,11 @@ async function generateGalleries() {
         const ext = path.extname(filename);
         const base = path.basename(filename, ext);
         const imageUrls = {
-          original: `${baseUrl}/content/galleries/${gallery.slug}/${filename}`,
+          original: `${baseUrl}/content/galleries/${gallery.slug}/${filename.replaceAll(" ", "_")}`,
         };
 
         responsiveSizes.forEach(size => {
-          imageUrls[`w${size}`] = `${baseUrl}/content/galleries/${gallery.slug}/${base}-${size}w${ext}`;
+          imageUrls[`w${size}`] = `${baseUrl}/content/galleries/${gallery.slug}/${base.replaceAll(" ", "_")}-${size}w${ext}`;
         });
 
         const imageWithUrls = {

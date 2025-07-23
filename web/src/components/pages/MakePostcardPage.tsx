@@ -306,7 +306,7 @@ const MakePostcardPage = () => {
                   key={index}
                   className="w-full h-full overflow-hidden relative">
                   <img
-                    src={image.gallery ? getImageUrl(image.gallery, image.filename, 1440) : ""}
+                    src={image.gallery ? getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 1440) : ""}
                     alt={image.alt || ""}
                     className="w-full h-full object-cover"
                     onLoad={handleImageLoad}

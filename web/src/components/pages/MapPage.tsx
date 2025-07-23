@@ -1,8 +1,8 @@
-import { useState, useMemo, useRef, useCallback } from "react";
+import { useState, useMemo, useRef, useCallback, useEffect } from "react";
 import MapGL, { Marker, Popup, type MapRef } from "react-map-gl/mapbox";
 import useSupercluster from "use-supercluster";
 import { Link, useSearchParams } from "react-router-dom";
-import { Download, MapPin } from "lucide-react";
+import { Download, X, Layers } from "lucide-react";
 import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../../galleries";
 import { CONFIG } from "../../config";
@@ -28,6 +28,8 @@ const MapPage = () => {
   const { theme } = useTheme();
   const [popupInfo, setPopupInfo] = useState<GeotaggedImage | null>(null);
   const [isLegendOpen, setIsLegendOpen] = useState(false);
+  const legendRef = useRef<HTMLDivElement>(null);
+  const legendToggleRef = useRef<HTMLButtonElement>(null);
   const [hiddenGalleries, setHiddenGalleries] = useState<Set<string>>(new Set());
   const [bounds, setBounds] = useState<[number, number, number, number] | undefined>();
   const [searchParams] = useSearchParams();
@@ -70,6 +72,38 @@ const MapPage = () => {
       },
     }));
   }, [geotaggedImages, searchParams, mapRef]);
+
+  // Close legend when clicking outside
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (
+        legendToggleRef.current &&
+        !legendToggleRef.current.contains(event.target as Node) &&
+        legendRef.current &&
+        !legendRef.current.contains(event.target as Node)
+      ) {
+        setIsLegendOpen(false);
+      }
+    };
+
+    if (isLegendOpen) {
+      document.addEventListener("mousedown", handleClickOutside);
+    } else {
+      document.removeEventListener("mousedown", handleClickOutside);
+    }
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, [isLegendOpen]);
+
+  // Prevent body scrolling when map is open
+  useEffect(() => {
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = "auto";
+    };
+  }, []);
 
   const { clusters, supercluster } = useSupercluster({
     points,
@@ -148,7 +182,7 @@ const MapPage = () => {
   }, []);
 
   return (
-    <div className="h-full w-full relative">
+    <div className="w-full h-screen relative overflow-hidden">
       <title>{`Foto Karte | ${CONFIG.meta.title}`}</title>
       <meta
         name="title"
@@ -159,15 +193,24 @@ const MapPage = () => {
         content="Karte aller geotagten Fotos."
       />
       <button
+        ref={legendToggleRef}
         onClick={() => setIsLegendOpen(!isLegendOpen)}
         className={`flex gap-2 items-center absolute top-4 md:top-auto left-4 md:left-auto bottom-auto md:bottom-4 right-auto md:right-4 z-10 p-2 border shadow-[2px_2px_0px_#00000033] transition-colors ${theme === "dark" ? "bg-black text-white " : "bg-white text-black"}`}
         aria-label="Legende Ein- oder Ausschalten">
         <span className="text-xs ml-2">Legende</span>
-        <MapPin size={20} />
+        <Layers size={20} />
       </button>
 
       {isLegendOpen && (
-        <div className={`absolute top-16 md:top-auto left-4 md:left-auto bottom-auto md:bottom-16 right-auto md:right-4 z-50 px-3 pb-3 py-2 border shadow-[2px_2px_0px_#00000033] w-full max-w-[calc(100%-2rem)] md:max-w-xl ${theme === "dark" ? "bg-black/90 backdrop-blur-sm text-white" : "bg-white/90 backdrop-blur-sm text-black"}`}>
+        <div
+          ref={legendRef}
+          className={`absolute top-16 md:top-auto left-4 md:left-auto bottom-auto md:bottom-16 right-auto md:right-4 z-50 px-3 pb-3 py-2 border shadow-[2px_2px_0px_#00000033] w-full max-w-[calc(100%-2rem)] md:max-w-xl ${theme === "dark" ? "bg-black/90 backdrop-blur-sm text-white" : "bg-white/90 backdrop-blur-sm text-black"}`}>
+          <button
+            onClick={() => setIsLegendOpen(false)}
+            className="absolute top-2 right-2 p-1 text-gray-500 hover:text-gray-800 dark:hover:text-gray-200"
+            aria-label="Close legend">
+            <X className="h-4 w-4" />
+          </button>
           <h3 className="font-bold text-lg mb-2">Legende</h3>
           <h4 className="text-xs mb-4">Galerien via Farbe, Klick auf Galerie um zu verstecken oder einzublenden</h4>
           <ul className="grid grid-cols-2 md:grid-cols-3 gap-x-6 gap-y-2 text-sm">
@@ -259,19 +302,19 @@ const MapPage = () => {
                 <Link to={`/image/${popupInfo.image.filename.replace(/\.[^/.]+$/, "")}`}>
                   <img
                     className="w-40 md:w-64 w-full h-auto"
-                    src={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename, 640)}
-                    alt={popupInfo.image.alt || popupInfo.gallery.title}
+                    src={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename.replaceAll(" ", "_"), 640)}
+                    alt={popupInfo.image.alt || popupInfo.image.filename.replaceAll("_", " ").replace(".jpg", "")}
                     loading="lazy"
                   />
                 </Link>
               </div>
               <section className={`flex items-start justify-between gap-2`}>
                 <div className={cn(`font-geist p-2 text-base truncate`)}>
-                  <p className="truncate">{popupInfo.image.filename}</p>
+                  <p className="truncate">{popupInfo.image.filename.replaceAll("_", " ")}</p>
                   <p className="text-sm truncate">{popupInfo.gallery.title}</p>
                 </div>
                 <Href
-                  href={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename, "original")}
+                  href={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename.replaceAll(" ", "_"), "original")}
                   download
                   onClick={(e:any) => e.stopPropagation()}
                   className={`p-2 px-3 mt-1 text-black`}

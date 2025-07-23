@@ -43,3 +43,8 @@ export interface Page {
   slug: string;
   content: string;
 }
+
+export interface RelatedImage extends Image {
+  gallerySlug: string;
+  distance?: number;
+}

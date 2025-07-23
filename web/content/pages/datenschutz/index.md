@@ -3,9 +3,8 @@
 ## Veranwtortlicher
 Luca Mack\
 Lorystrassse 71/56\
-1110 Wien
-
-Mail: [lucamack3@gmail.com](mailto:lucamack3@gmail.com)
+1110 Wien\
+[Mail](mailto:lucamack3@gmail.com)
 
 ## Hoster
 Meine Website wird auf Servern des Hosters [Hetzner](https://www.hetzner.de/) gehostet. Der Hoster erhebt und speichert automatisch Informationen in so genannten Server-Log-Files, die Ihr Browser automatisch an uns  übertragt. Dies sind:

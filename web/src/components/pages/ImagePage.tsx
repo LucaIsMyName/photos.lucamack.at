@@ -10,6 +10,9 @@ import { useEffect } from "react";
 import { parseCreateDate } from "../../utils/date";
 import CopyButton from "../ui/CopyButton";
 import Href from "../ui/Href";
+import { galleries } from "../../galleries";
+import { useMemo } from "react";
+import type { RelatedImage } from "../../types";
 
 const ImagePage = () => {
   const { theme } = useTheme();
@@ -27,7 +30,7 @@ const ImagePage = () => {
         "@type": "ImageObject",
         name: image.filename,
         description: image.alt || `A photo from the gallery: ${gallery.title}`,
-        contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, image.filename, "original")}`,
+        contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), "original")}`,
         author: {
           "@type": "Person",
           name: CONFIG.meta.title,
@@ -64,6 +67,46 @@ const ImagePage = () => {
 
   const { image, gallery } = foundImage;
 
+  const relatedImages: RelatedImage[] = useMemo(() => {
+    if (!foundImage) return [];
+
+    const { image: currentImage, gallery: currentGallery } = foundImage;
+
+    // 1. Get other images from the same gallery
+    let fromSameGallery = currentGallery.images.filter((img) => img.filename !== currentImage.filename).map((img) => ({ ...img, gallerySlug: currentGallery.slug }));
+
+    if (fromSameGallery.length >= 6) {
+      return fromSameGallery.slice(0, 6);
+    }
+
+    // 2. If not enough, get nearest images from other galleries
+    let otherImages: RelatedImage[] = [];
+    if (currentImage.latitude && currentImage.longitude) {
+      const getDistance = (lat1: number, lon1: number, lat2: number, lon2: number) => {
+        const R = 6371; // Radius of the earth in km
+        const dLat = (lat2 - lat1) * (Math.PI / 180);
+        const dLon = (lon2 - lon1) * (Math.PI / 180);
+        const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos(lat1 * (Math.PI / 180)) * Math.cos(lat2 * (Math.PI / 180)) * Math.sin(dLon / 2) * Math.sin(dLon / 2);
+        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+        return R * c; // Distance in km
+      };
+
+      otherImages = galleries
+        .flatMap((g) => g.images.map((img) => ({ ...img, gallerySlug: g.slug })))
+        .filter((img) => img.filename !== currentImage.filename && img.latitude && img.longitude)
+        .map((img) => ({
+          ...img,
+          distance: getDistance(currentImage.latitude!, currentImage.longitude!, img.latitude!, img.longitude!),
+        }))
+        .sort((a, b) => a.distance - b.distance);
+    }
+
+    // 3. Combine and ensure 6 images
+    const combined = [...fromSameGallery, ...otherImages];
+    const unique = Array.from(new Map(combined.map((item) => [item.filename, item])).values());
+    return unique.slice(0, 6);
+  }, [foundImage]);
+
   return (
     <div className="w-full max-w-[var(--content-width)] p-4 md:p-8 flex flex-col items-center">
       <title>{`${image.filename} | ${gallery.title} | ${CONFIG.meta.title}`}</title>
@@ -77,11 +120,11 @@ const ImagePage = () => {
       />
       <meta
         name="image"
-        content={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 640)}`}
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 640)}`}
       />
       <meta
         name="og:image"
-        content={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 640)}`}
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 640)}`}
       />
       <meta
         name="og:title"
@@ -93,13 +136,13 @@ const ImagePage = () => {
       />
       <meta
         name="og:url"
-        content={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 640)}`}
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 640)}`}
       />
       <div className="w-full max-w-4xl flex flex-col gap-4">
         <div className="flex items-center h-auto md:h-[80vh]">
           <Image
             src={getImageUrl(gallery.slug, image.filename)}
-            alt={image.alt || gallery.title}
+            alt={image.filename.replaceAll("_", " ").replace(".jpg", "").trim()}
             width={image.width}
             height={image.height}
             sizes="(max-width: 768px) 100vw, 1024px"
@@ -107,9 +150,9 @@ const ImagePage = () => {
           />
         </div>
         <div className="flex flex-col gap-4 w-full">
-          <h1 className={cn(`truncate`, CONFIG.theme.headline.one)}>{image.filename}</h1>
-          <h2 className="text-xl">
-            <span className="">Galerie: </span>
+          <h1 className={cn(`text-2xl md:text-3xl`)}>{image.filename.replaceAll("_", " ").replace(".jpg", "").trim()}</h1>
+          <h2 className="text-lg">
+            <span className="">Fotoserie: </span>
             <Link
               className={cn(`underline  decoration-1 ${theme === "dark" ? "decoration-red-300 hover:text-red-300" : "decoration-red-600 hover:text-red-600"} underline-offset-4`)}
               to={`/gallery/${gallery.slug}`}>
@@ -119,39 +162,49 @@ const ImagePage = () => {
 
           <div className="flex flex-col lg:flex-row-reverse gap-8 mt-4 border-t border-neutral-500/50 pt-4 md:pt-8 border-dotted">
             <div className="flex-1">
-              <h3 className="text-xl mb-2">Details</h3>
-              <div className="grid grid-cols-1 md:grid-cols-[100px,1fr] gap-x-4 gap-y-2 text-sm">
+              <h3 className="text-xl mb-2">URLs</h3>
+              <div className="grid grid-cols-1 md:grid-cols-[100px,1fr] gap-x-4 gap-y-3 text-sm">
                 <div className="text-[10px] uppercase tracking-wider">Original</div>
                 <div className="flex items-center gap-2 font-mono">
                   <Href
-                    href={getImageUrl(gallery.slug, image.filename, "original")}
+                    href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), "original")}
                     hasDecoration={false}
                     className={cn("truncate font-mono")}>
                     {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, "original")}`}
                   </Href>
-                  <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, "original")}`} />
+                  <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), "original")}`} />
                 </div>
 
                 <div className="text-[10px] uppercase tracking-wider">1440w</div>
                 <div className="flex items-center gap-2 font-mono">
                   <Href
-                    href={getImageUrl(gallery.slug, image.filename, 1440)}
+                    href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 1440)}
                     hasDecoration={false}
                     className={cn("truncate font-mono")}>
-                    {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 1440)}`}
+                    {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 1440)}`}
                   </Href>
-                  <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 1440)}`} />
+                  <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 1440)}`} />
                 </div>
 
                 <div className="text-[10px] uppercase tracking-wider">640w</div>
                 <div className="flex items-center gap-2 font-mono">
                   <Href
-                    href={getImageUrl(gallery.slug, image.filename, 640)}
+                    href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 640)}
                     hasDecoration={false}
                     className={cn("truncate font-mono")}>
-                    {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 640)}`}
+                    {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 640)}`}
                   </Href>
-                  <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename, 640)}`} />
+                  <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 640)}`} />
+                </div>
+                <div className="text-[10px] uppercase tracking-wider">380w</div>
+                <div className="flex items-center gap-2 font-mono">
+                  <Href
+                    href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 380)}
+                    hasDecoration={false}
+                    className={cn("truncate font-mono")}>
+                    {`${CONFIG.url}${getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 380)}`}
+                  </Href>
+                  <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 380)}`} />
                 </div>
 
                 {image.createDate && (
@@ -177,7 +230,7 @@ const ImagePage = () => {
               <div className="flex-1 mb-8 md:mb-4">
                 <h2 className="text-xl mb-2">Location</h2>
                 <p className="text-sm mb-2">{`${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}`}</p>
-                <div className="border aspect-square md:aspect-[3/2] w-full overflow-hidden">
+                <div className="border aspect-square w-full overflow-hidden">
                   <MapGL
                     initialViewState={{
                       latitude: image.latitude,
@@ -212,6 +265,28 @@ const ImagePage = () => {
           </div>
         </div>
       </div>
+
+      {relatedImages.length > 0 && (
+        <div className="w-full max-w-4xl mt-8 pt-8 border-t border-neutral-500/50 border-dotted">
+          <h2 className="text-2xl mb-4">Weitere Bilder</h2>
+          <div className="grid grid-cols-3 md:grid-cols-6 gap-4">
+            {relatedImages.map((relatedImage) => (
+              <Link
+                key={relatedImage.filename}
+                to={`/image/${encodeURI(relatedImage.filename.replace(/\.[^/.]+$/, ""))}`}>
+                <img
+                  src={getImageUrl(relatedImage.gallerySlug, relatedImage.filename.replaceAll(" ", "_"), 380)}
+                  alt={relatedImage.filename.replaceAll("_", " ").replace(".jpg", "").trim()}
+                  width={380}
+                  height={380}
+                  sizes="(max-width: 768px) 50vw, 20vw"
+                  className="aspect-square object-cover w-full h-full"
+                />
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 };

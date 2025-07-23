@@ -212,13 +212,12 @@ const ListPage = () => {
     }));
 
     if (searchTerm) {
-      const searchWords = searchTerm.toLowerCase().split(" ").filter(Boolean);
-      if (searchWords.length > 0) {
-        filtered = filtered.filter((gallery) => {
-          const searchableText = gallery.title.toLowerCase();
-          return searchWords.every((word) => searchableText.includes(word));
-        });
-      }
+      const lowerCaseSearchTerm = searchTerm.toLowerCase();
+      filtered = filtered.filter((gallery) => {
+        const titleMatch = gallery.title.toLowerCase().includes(lowerCaseSearchTerm);
+        const imageMatch = gallery.images.some((image) => image.filename.toLowerCase().includes(lowerCaseSearchTerm));
+        return titleMatch || imageMatch;
+      });
     }
 
     if (startDate || endDate) {
@@ -241,7 +240,7 @@ const ListPage = () => {
               return false;
             }
 
-            return image.galleryTitle.toLowerCase().includes((searchTerm || "").toLowerCase());
+            return true; // Search term is already handled above
           })
           .some((image) => image.gallerySlug === gallery.slug);
       });
@@ -296,14 +295,14 @@ const ListPage = () => {
 
       <div className="flex gap-4 border-b">
         <button
-          className={cn(`${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`)}
+          className={cn(`${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : useTheme().theme === "dark" ? "text-white" : "text-black"}`)}
           onClick={() => setActiveTab("images")}>
           Fotos
         </button>
         <button
-          className={cn(`${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`)}
+          className={cn(`${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : useTheme().theme === "dark" ? "text-white" : "text-black"}`)}
           onClick={() => setActiveTab("galleries")}>
-          Galerien
+          Serien
         </button>
       </div>
 
@@ -334,10 +333,10 @@ const ListPage = () => {
                 className="w-full lg:w-1/2"
                 key={`${image.gallerySlug}-${image.filename}`}>
                 <div className="flex lg:flex-row items-center gap-4 py-2">
-                  <Link to={`/image/${image.filename.replace(/\.[^/.]+$/, "")}`}>
+                  <Link to={`/image/${encodeURI(image.filename.replace(/\.[^/.]+$/, ""))}`}>
                     <img
                       loading="lazy"
-                      src={getImageUrl(image.gallerySlug, image.filename, 380)}
+                      src={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), 380)}
                       alt={image.alt || `${image.galleryTitle} - ${image.filename}`}
                       width={128}
                       height={128}
@@ -345,7 +344,7 @@ const ListPage = () => {
                     />
                   </Link>
                   <div className="text-sm">
-                    <h3 className="truncate text-base">{image.filename}</h3>
+                    <h3 className="truncate text-base">{image.filename.replaceAll(".jpg", "")}</h3>
                     <p className="truncate text-xs">Erstellt: {parseCreateDate(image.createDate)?.toLocaleString() || "Ungültiges Datum"}</p>
                     {image.latitude && image.longitude ? (
                       <>
@@ -353,7 +352,7 @@ const ListPage = () => {
                         <Href
                           target="_self"
                           className="text-xs"
-                          href={`/app/map?gallery=${image.gallerySlug}&image=${image.filename}`}>
+                          href={`/app/map?gallery=${image.gallerySlug}&image=${encodeURI(image.filename)}`}>
                           {`${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}`}
                         </Href>
                       </>
@@ -362,7 +361,7 @@ const ListPage = () => {
                     )}
                     <Href
                       className="flex items-center gap-1 text-xs"
-                      href={getImageUrl(image.gallerySlug, image.filename, "original")}
+                      href={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), "original")}
                       download>
                       <Download size={12} />
                       <span className="">Download Foto</span>
@@ -410,7 +409,7 @@ const ListPage = () => {
                     {randomImage ? (
                       <img
                         loading="lazy"
-                        src={getImageUrl(gallery.slug, randomImage.filename, 380)}
+                        src={getImageUrl(gallery.slug, randomImage.filename.replaceAll(" ", "_"), 380)}
                         alt={gallery.title}
                         width={128}
                         height={128}

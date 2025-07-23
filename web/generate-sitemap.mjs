@@ -64,8 +64,8 @@ function generateSitemap() {
 
   images.forEach(image => {
     if (image && image.name) {
-      const imageName = image.name.replace(/\.[^/.]+$/, "");
-      urls.push({ loc: `${BASE_URL}/image/${imageName}`, changefreq: 'yearly', priority: '0.6' });
+            const imageName = image.name.replace(/\.[^/.]+$/, "");
+      urls.push({ loc: `${BASE_URL}/image/${encodeURIComponent(imageName)}`, changefreq: 'yearly', priority: '0.6' });
     }
   });
 

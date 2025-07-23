@@ -51,7 +51,7 @@ const GalleryItem = ({ alt, gallerySlug, imageFilename }: GalleryItemProps) => {
       className={getFlexClasses()}>
       <div className="p-0 lg:pr-4 sm:pb-4 md:py-6">
         <Link
-          to={`/image/${imageFilename.replace(/\.[^/.]+$/, "")}`}
+          to={`/image/${encodeURI(imageFilename.replace(/\.[^/.]+$/, ""))}`}
           className="block">
           <Image
             src={getImageUrl(gallerySlug, imageFilename)}

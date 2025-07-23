@@ -24,7 +24,7 @@ const HomePage = () => {
       return null;
     }
 
-        const src = getImageUrl(randomImage.gallery.slug, randomImage.image.filename);
+    const src = getImageUrl(randomImage.gallery.slug, randomImage.image.filename);
     return {
       src,
       alt: randomImage.image.alt || "",
@@ -47,6 +47,7 @@ const HomePage = () => {
         name="description"
         content={`Momente und Fotoserien von ${CONFIG.meta.title}.`}
       />
+
       <div className={cn("absolute inset-0 p-8 md:p-16")}>
         {imageDetails ? (
           <Link
@@ -54,7 +55,7 @@ const HomePage = () => {
             className="block w-full h-full">
             <Image
               src={imageDetails.src}
-              alt={imageDetails.alt}
+              alt={imageDetails.src.split("/").pop()?.replace(".jpg", "") || ""}
               width={imageDetails.width || 1920}
               height={imageDetails.height || 1080}
               sizes="100vw"

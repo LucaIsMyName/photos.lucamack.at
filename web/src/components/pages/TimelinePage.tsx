@@ -107,7 +107,7 @@ const TimelinePage = () => {
       .sort((a, b) => b.startDate.getTime() - a.startDate.getTime());
   }, []);
 
-  const tabClasses = (isActive: boolean) => `text-4xl md:text-5xl py-2 ${isActive === true ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : ""}`;
+  const tabClasses = (isActive: boolean) => `text-4xl md:text-5xl py-2   ${isActive === true ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : (useTheme().theme === "dark" ? "text-white" : "text-black")}`;
   const lineClasses = cn(`absolute sm:left-2 left-0 top-4.5 h-full w-px ${theme === "dark" ? "bg-white" : "bg-black"}`);
   const dotClasses = cn(`absolute -left-[32px] sm:-left-[23.4px] top-4.5 transform -translate-x-1/2 flex items-center`);
   const dotInnerClasses = cn(`${theme === "dark" ? "bg-red-300 border border-white" : "bg-red-600 border border-black"} h-2 w-2 `);
@@ -134,7 +134,7 @@ const TimelinePage = () => {
           <button
             onClick={() => setActiveTab("galleries")}
             className={` ${tabClasses(activeTab === "galleries")}`}>
-            Galerien
+            Serien
           </button>
         </div>
       </div>
@@ -159,7 +159,7 @@ const TimelinePage = () => {
                       key={image.filename}
                       className="relative group block">
                       <img
-                        src={getImageUrl(image.gallerySlug, image.filename, 380)}
+                        src={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), 380)}
                         alt={image.alt || image.filename}
                         loading="lazy"
                         className="w-full h-full object-cover aspect-square"
@@ -167,7 +167,7 @@ const TimelinePage = () => {
                       <div className={`absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex justify-end items-start p-2 gap-1.5`}>
                         {image.googleMapsUrl && (
                           <Link
-                            to={`/app/map?gallery=${image.gallerySlug}&image=${image.filename}`}
+                            to={`/app/map?gallery=${image.gallerySlug}&image=${encodeURI(image.filename)}`}
                             onClick={(e) => e.stopPropagation()}
                             className={`p-1 transition-colors ${theme === "dark" ? "text-white bg-black bg-opacity-50 " : "text-black bg-white bg-opacity-50"}`}
                             aria-label={`View ${image.filename} on map`}>
@@ -175,11 +175,11 @@ const TimelinePage = () => {
                           </Link>
                         )}
                         <a
-                          href={getImageUrl(image.gallerySlug, image.filename, "original")}
-                          download
+                          href={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), "original")}
+                          target="_blank"
                           onClick={(e) => e.stopPropagation()} // Prevent navigating to gallery when clicking download
                           className={`p-1 transition-colors ${theme === "dark" ? "text-white bg-black bg-opacity-50 " : "text-black bg-white bg-opacity-50"}`}
-                          aria-label={`Download ${image.filename}`}>
+                          aria-label={`Download ${image.filename.replaceAll(" ", "_")}`}>
                           <Download size={16} />
                         </a>
                       </div>

@@ -53,9 +53,9 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
 
   return (
     <div className={cn(`border  ${theme === "dark" ? "" : ""} p-0 flex flex-col`)}>
-      <Link to={`/image/${image.filename.replace(".jpg", "")}`}>
+      <Link to={`/image/${image.filename.replace(".jpg", "").replaceAll(" ", "_")}`}>
         <img
-          src={getImageUrl(image.gallery, image.filename, 640)}
+          src={getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 640)}
           alt={image.alt || title}
           className={cn("w-full h-40 object-cover")}
         />

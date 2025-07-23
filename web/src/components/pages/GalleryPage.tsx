@@ -49,10 +49,10 @@ const GalleryPage = () => {
           "@type": "ImageObject",
           name: image.filename,
           description: image.alt || `A photo from the gallery: ${gallery.title}`,
-          contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, image.filename, "original")}`,
+          contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), "original")}`,
           author: {
             "@type": "Person",
-            name: CONFIG.meta.title
+            name: CONFIG.meta.title,
           },
           location: {
             "@type": "Place",
@@ -82,7 +82,17 @@ const GalleryPage = () => {
    * If the gallery is not found, show a message
    */
   if (!gallery) {
-    return <div className={`${CONFIG.theme.headline.one} py-6 text-left`}>{CONFIG.systemMessages.noGalleryFound}</div>;
+    return (
+      <>
+        <title>Fotoserien nicht gefunden | {CONFIG.meta.title}</title>
+        <meta
+          name="description"
+          content="Fotoserien nicht gefunden"
+        />
+        <h1>Fotoserie nicht gefunden</h1>
+        <div className={`text-lg py-6 text-left`}>{CONFIG.systemMessages.noGalleryFound}</div>
+      </>
+    );
   }
 
   return (
@@ -133,7 +143,7 @@ const GalleryPage = () => {
             {shuffledImages.map((image) => (
               <GalleryItem
                 key={image.filename}
-                alt={image.alt || `${gallery.title || gallery.name} - ${image.filename}`}
+                alt={`${image.filename.replaceAll("_", " ").replace(".jpg", "").trim()}`}
                 gallerySlug={gallery.slug!}
                 imageFilename={image.filename}
               />

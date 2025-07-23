@@ -34,7 +34,7 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, size
   const filename = src.split("/").pop() || "";
   const gallerySlug = src.split("/")[3];
 
-    const srcSet = responsiveSizes.map((size) => `${getImageUrl(gallerySlug, filename, size)} ${size}w`).join(", ");
+  const srcSet = responsiveSizes.map((size) => `${getImageUrl(gallerySlug, filename.replaceAll(" ", "_"), size)} ${size}w`).join(", ");
 
   useEffect(() => {
     if (!inView) {
@@ -84,7 +84,7 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, size
       <div
         ref={ref}
         style={aspectRatioStyle}
-        className={cn(`w-full h-auto animate-pulse ${theme === "dark" ? "bg-black" : "bg-white"}`)}></div>
+        className={cn(`w-full h-auto ${theme === "dark" ? "bg-white/10" : "bg-black/10"}`)}></div>
     );
   }
 
@@ -94,14 +94,14 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, size
       className="w-full h-full">
       <img
         id={id}
-        src={imageUrl}
+        src={imageUrl.replaceAll(" ", "_")}
         srcSet={srcSet}
         sizes={sizes}
         alt={alt}
         width={width}
         height={height}
         loading={loading !== undefined ? loading : "lazy"}
-        className={`${className} transition-opacity duration-700 ease-in-out ${isLoaded ? "opacity-100" : "opacity-0"}`}
+        className={`${className} transition-opacity duration-300 ease-in ${isLoaded ? "opacity-100" : "opacity-0"}`}
         style={style}
         onLoad={handleLoad}
       />
