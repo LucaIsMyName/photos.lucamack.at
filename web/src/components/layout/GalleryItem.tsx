@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import Image from "./Image";
 import { getImageUrl } from "../../utils/image";
+import { slugify } from "../../utils/slugify";
 
 interface GalleryItemProps {
   alt: string;
@@ -45,13 +46,16 @@ const GalleryItem = ({ alt, gallerySlug, imageFilename }: GalleryItemProps) => {
       : // Portrait/square images are half-width on desktop (max 512px on large screens).
         `(min-width: 1024px) 512px, (min-width: 768px) 50vw, 100vw`;
 
+  const imageName = imageFilename.replace(/\.[^/.]+$/, "");
+  const imagePageLink = `/image/${slugify(imageName)}`;
+
   return (
     <div
-      id={`image-${imageFilename.split(".")[0]}`}
+      id={`image-${imageName}`}
       className={getFlexClasses()}>
       <div className="p-0 lg:pr-4 sm:pb-4 md:py-6">
         <Link
-          to={`/image/${encodeURI(imageFilename.replace(/\.[^/.]+$/, ""))}`}
+          to={imagePageLink}
           className="block">
           <Image
             src={getImageUrl(gallerySlug, imageFilename)}

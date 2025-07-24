@@ -2,6 +2,7 @@ import { useMemo } from "react";
 import { useParams } from "react-router-dom";
 import { galleries } from "../galleries";
 import type { Image as ImageType, Gallery } from "../types";
+import { slugify } from "../utils/slugify";
 
 interface FoundImage {
   image: ImageType;
@@ -9,18 +10,21 @@ interface FoundImage {
 }
 
 export const useImage = (): FoundImage | undefined => {
-  const { imageName } = useParams<{ imageName: string }>();
+  const { slug } = useParams<{ slug: string }>();
 
   const foundImage: FoundImage | undefined = useMemo(() => {
-    if (!imageName) return undefined;
+    if (!slug) return undefined;
     for (const gallery of galleries) {
-      const image = gallery.images?.find((img) => img.filename.replace(/\.[^/.]+$/, "") === imageName);
+      const image = gallery.images?.find((img) => {
+        const imageName = img.filename.replace(/\.[^/.]+$/, "");
+        return slugify(imageName) === slug;
+      });
       if (image) {
         return { image, gallery };
       }
     }
     return undefined;
-  }, [imageName]);
+  }, [slug]);
 
   return foundImage;
 };

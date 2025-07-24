@@ -11,6 +11,19 @@ const pagesContentDir = path.join(__dirname, 'content/pages');
 
 const BASE_URL = "https://photos.lucamack.at";
 
+function slugify(text) {
+  return text
+    .toString()
+    .toLowerCase()
+    .normalize('NFD') // split an accented letter in the base letter and the acent
+    .replace(/[\u0300-\u036f]/g, '') // remove all previously split accents
+    .replace(/\s+/g, '-') // Replace spaces with -
+    .replace(/[^\w\-]+/g, '') // Remove all non-word chars
+    .replace(/\-\-+/g, '-') // Replace multiple - with single -
+    .replace(/^-+/, '') // Trim - from start of text
+    .replace(/-+$/, ''); // Trim - from end of text
+}
+
 function getGalleries() {
   const galleriesPath = path.join(apiDir, 'galleries.json');
   if (!fs.existsSync(galleriesPath)) {
@@ -65,7 +78,7 @@ function generateSitemap() {
   images.forEach(image => {
     if (image && image.name) {
             const imageName = image.name.replace(/\.[^/.]+$/, "");
-      urls.push({ loc: `${BASE_URL}/image/${encodeURIComponent(imageName)}`, changefreq: 'yearly', priority: '0.6' });
+      urls.push({ loc: `${BASE_URL}/image/${slugify(imageName)}`, changefreq: 'yearly', priority: '0.6' });
     }
   });
 

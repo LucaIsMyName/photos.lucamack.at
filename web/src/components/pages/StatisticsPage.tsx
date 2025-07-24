@@ -10,6 +10,7 @@ import { galleries } from "../../galleries";
 import { useTheme } from "../../contexts/ThemeContext";
 import { CONFIG } from "../../config";
 import { groupImagesByCountry } from "../../utils/geocoding";
+import { slugify } from "../../utils/slugify";
 
 type ImageType = (typeof galleries)[0]["images"][0] & { gallery: string; latitude: number; longitude: number };
 type CountryData = { name: string; value: number }[];
@@ -53,7 +54,7 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
 
   return (
     <div className={cn(`border  ${theme === "dark" ? "" : ""} p-0 flex flex-col`)}>
-      <Link to={`/image/${image.filename.replace(".jpg", "").replaceAll(" ", "_")}`}>
+      <Link to={`/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
         <img
           src={getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 640)}
           alt={image.alt || title}
@@ -68,7 +69,7 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
         </div>
         <Link
           className="absolute bottom-4 right-4"
-          to={`/app/map?gallery=${image.gallery}&image=${image.filename}`}>
+          to={`/app/map?gallery=${image.gallery}&image=${slugify(image.filename)}`}>
           <MapPin size={16} />
         </Link>
       </div>

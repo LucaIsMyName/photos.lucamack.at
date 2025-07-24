@@ -108,11 +108,11 @@ const GalleryPage = () => {
       />
       <meta
         name="image"
-        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename, 640)}`}
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename.replaceAll(" ", "_"), 640)}`}
       />
       <meta
         name="og:image"
-        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename, 640)}`}
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename.replaceAll(" ", "_"), 640)}`}
       />
       <meta
         name="og:title"
@@ -124,7 +124,7 @@ const GalleryPage = () => {
       />
       <meta
         name="og:url"
-        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename, 640)}`}
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename.replaceAll(" ", "_"), 640)}`}
       />
       <div className="px-4 md:px-0">
         <div className="flex flex-col items-start">

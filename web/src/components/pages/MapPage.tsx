@@ -12,6 +12,7 @@ import { useTheme } from "../../contexts/ThemeContext";
 import { cn } from "../../utils/cn";
 import { getImageUrl } from "../../utils/image";
 import Href from "../ui/Href";
+import { slugify } from "../../utils/slugify";
 
 interface GeotaggedImage {
   gallery: Gallery;
@@ -71,7 +72,7 @@ const MapPage = () => {
         coordinates: [item.image.longitude!, item.image.latitude!],
       },
     }));
-  }, [geotaggedImages, searchParams, mapRef]);
+  }, [geotaggedImages]);
 
   // Close legend when clicking outside
   useEffect(() => {
@@ -115,61 +116,57 @@ const MapPage = () => {
   const handleMapLoad = useCallback(() => {
     if (!mapRef.current) return;
 
-    const gallerySlug = searchParams.get("gallery");
-    const imageFilename = searchParams.get("image");
+    const imageSlug = searchParams.get("image");
 
-    if (gallerySlug && imageFilename) {
-      const targetImage = geotaggedImages.find((item) => item.gallery.slug === gallerySlug && item.image.filename === imageFilename);
+    if (imageSlug) {
+      let foundImage: GeotaggedImage | undefined;
+      for (const gallery of galleries) {
+        const image = gallery.images?.find((img) => slugify(img.filename.replace(/\.[^/.]+$/, "")) === imageSlug);
+        if (image) {
+          foundImage = { image, gallery };
+          break;
+        }
+      }
 
-      if (targetImage) {
-        setPopupInfo(targetImage);
+      if (foundImage && foundImage.image.latitude && foundImage.image.longitude) {
         setViewState({
-          longitude: targetImage.image.longitude!,
-          latitude: targetImage.image.latitude!,
+          ...viewState,
+          latitude: foundImage.image.latitude,
+          longitude: foundImage.image.longitude,
           zoom: 14,
         });
-        // Set bounds after a short delay to allow the map to transition
-        setTimeout(() => {
-          if (mapRef.current) {
-            const bounds = mapRef.current.getMap().getBounds();
-            if (bounds) {
-              setBounds(bounds.toArray().flat() as [number, number, number, number]);
-            }
-          }
-        }, 50);
-        return;
+        setPopupInfo(foundImage);
+      }
+    } else {
+      if (geotaggedImages.length === 0) return;
+
+      if (geotaggedImages.length === 1) {
+        setViewState({
+          longitude: geotaggedImages[0].image.longitude!,
+          latitude: geotaggedImages[0].image.latitude!,
+          zoom: 10,
+        });
+      } else {
+        const longitudes = geotaggedImages.map((p) => p.image.longitude!);
+        const latitudes = geotaggedImages.map((p) => p.image.latitude!);
+
+        const minLng = Math.min(...longitudes);
+        const maxLng = Math.max(...longitudes);
+        const minLat = Math.min(...latitudes);
+        const maxLat = Math.max(...latitudes);
+
+        mapRef.current.fitBounds(
+          [
+            [minLng, minLat],
+            [maxLng, maxLat],
+          ],
+          { padding: 80, duration: 1000 }
+        );
       }
     }
-
-    if (geotaggedImages.length === 0) return;
-
-    if (geotaggedImages.length === 1) {
-      setViewState({
-        longitude: geotaggedImages[0].image.longitude!,
-        latitude: geotaggedImages[0].image.latitude!,
-        zoom: 10,
-      });
-      return;
-    }
-
-    const longitudes = geotaggedImages.map((p) => p.image.longitude!);
-    const latitudes = geotaggedImages.map((p) => p.image.latitude!);
-
-    const minLng = Math.min(...longitudes);
-    const maxLng = Math.max(...longitudes);
-    const minLat = Math.min(...latitudes);
-    const maxLat = Math.max(...latitudes);
-
-    mapRef.current.fitBounds(
-      [
-        [minLng, minLat],
-        [maxLng, maxLat],
-      ],
-      { padding: 80, duration: 1000 }
-    );
   }, [geotaggedImages, searchParams]);
 
-  const toggleGalleryVisibility = useCallback((slug: string) => {
+  const handleLegendToggle = useCallback((slug: string) => {
     setHiddenGalleries((prev) => {
       const newSet = new Set(prev);
       if (newSet.has(slug)) {
@@ -190,12 +187,12 @@ const MapPage = () => {
       />
       <meta
         name="description"
-        content="Karte aller geotagten Fotos."
+        content={`Eine interaktive Karte mit allen Fotos, die Geodaten enthalten.`}
       />
       <button
         ref={legendToggleRef}
         onClick={() => setIsLegendOpen(!isLegendOpen)}
-        className={`flex gap-2 items-center absolute top-4 md:top-auto left-4 md:left-auto bottom-auto md:bottom-4 right-auto md:right-4 z-10 p-2 border shadow-[2px_2px_0px_#00000033] transition-colors ${theme === "dark" ? "bg-black text-white " : "bg-white text-black"}`}
+        className={cn("z-10 absolute top-4 right-4 p-2 flex items-center", theme === "dark" ? "bg-black text-white" : "bg-white text-black")}
         aria-label="Legende Ein- oder Ausschalten">
         <span className="text-xs ml-2">Legende</span>
         <Layers size={20} />
@@ -204,11 +201,14 @@ const MapPage = () => {
       {isLegendOpen && (
         <div
           ref={legendRef}
-          className={`absolute top-16 md:top-auto left-4 md:left-auto bottom-auto md:bottom-16 right-auto md:right-4 z-50 px-3 pb-3 py-2 border shadow-[2px_2px_0px_#00000033] w-full max-w-[calc(100%-2rem)] md:max-w-xl ${theme === "dark" ? "bg-black/90 backdrop-blur-sm text-white" : "bg-white/90 backdrop-blur-sm text-black"}`}>
+          className={cn(
+            "z-10 absolute top-16 right-4 p-4 w-[calc(100%-2rem)] md:w-auto md:max-w-md",
+            theme === "dark" ? "bg-black text-white" : "bg-white text-black"
+          )}>
           <button
             onClick={() => setIsLegendOpen(false)}
-            className="absolute top-2 right-2 p-1 text-gray-500 hover:text-gray-800 dark:hover:text-gray-200"
-            aria-label="Close legend">
+            className="absolute top-2 right-2 p-1"
+            aria-label="Legende schließen">
             <X className="h-4 w-4" />
           </button>
           <h3 className="font-bold text-lg mb-2">Legende</h3>
@@ -217,9 +217,9 @@ const MapPage = () => {
             {galleries.map((gallery) => (
               <li
                 key={gallery.slug}
-                className={`flex items-center cursor-pointer transition-opacity hover:opacity-60 ${hiddenGalleries.has(gallery.slug) ? "opacity-50" : "opacity-100"}`}
-                onClick={() => toggleGalleryVisibility(gallery.slug)}>
-                <span className={`w-4 h-4 mr-1.5 border flex-shrink-0 ${theme === "dark" ? "border-gray-200" : "border-gray-800"} ${galleryColors.get(gallery.slug)}`}></span>
+                className={`flex items-center gap-2 cursor-pointer ${hiddenGalleries.has(gallery.slug) ? "opacity-50" : ""}`}
+                onClick={() => handleLegendToggle(gallery.slug)}>
+                <div className={cn(`w-3 h-3 border ${galleryColors.get(gallery.slug)}`, theme === "dark" ? "border-white" : "border-black")} />
                 <span className="truncate text-xs">{gallery.title}</span>
               </li>
             ))}
@@ -299,7 +299,7 @@ const MapPage = () => {
             className="z-10">
             <div className={`relative bg-white text-black`}>
               <div className="relative group ">
-                <Link to={`/image/${popupInfo.image.filename.replace(/\.[^/.]+$/, "")}`}>
+                <Link to={`/image/${slugify(popupInfo.image.filename.replace(/\.[^/.]+$/, ""))}`}>
                   <img
                     className="w-40 md:w-64 w-full h-auto"
                     src={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename.replaceAll(" ", "_"), 640)}

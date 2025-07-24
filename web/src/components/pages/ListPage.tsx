@@ -12,6 +12,7 @@ import { CONFIG } from "../../config";
 import { cn } from "../../utils/cn";
 import { getImageUrl } from "../../utils/image";
 import Href from "../ui/Href";
+import { slugify } from "../../utils/slugify";
 
 interface SortFilterBarProps {
   searchTerm: string;
@@ -333,7 +334,7 @@ const ListPage = () => {
                 className="w-full lg:w-1/2"
                 key={`${image.gallerySlug}-${image.filename}`}>
                 <div className="flex lg:flex-row items-center gap-4 py-2">
-                  <Link to={`/image/${encodeURI(image.filename.replace(/\.[^/.]+$/, ""))}`}>
+                  <Link to={`/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
                     <img
                       loading="lazy"
                       src={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), 380)}
@@ -352,7 +353,7 @@ const ListPage = () => {
                         <Href
                           target="_self"
                           className="text-xs"
-                          href={`/app/map?gallery=${image.gallerySlug}&image=${encodeURI(image.filename)}`}>
+                          href={`/app/map?gallery=${image.gallerySlug}&image=${slugify(image.filename)}`}>
                           {`${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}`}
                         </Href>
                       </>

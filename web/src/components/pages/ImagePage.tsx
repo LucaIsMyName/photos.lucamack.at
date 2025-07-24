@@ -13,6 +13,7 @@ import Href from "../ui/Href";
 import { galleries } from "../../galleries";
 import { useMemo } from "react";
 import type { RelatedImage } from "../../types";
+import { slugify } from "../../utils/slugify";
 
 const ImagePage = () => {
   const { theme } = useTheme();
@@ -253,7 +254,7 @@ const ImagePage = () => {
                 </div>
                 <div className="flex flex-wrap space-y-2 space-x-4 gap-0 mt-2">
                   <Link
-                    to={`/app/map?gallery=${gallery.slug}&image=${image.filename}`}
+                    to={`/app/map?image=${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
                     className={cn("inline-block underline underline-offset-4 inline-block ", theme === "dark" ? "text-white decoration-red-300 hover:text-red-300 hover:decoration-red-300" : "text-black decoration-red-500 hover:text-red-600")}>
                     In Karte anzeigen
                   </Link>
@@ -273,7 +274,7 @@ const ImagePage = () => {
             {relatedImages.map((relatedImage) => (
               <Link
                 key={relatedImage.filename}
-                to={`/image/${encodeURI(relatedImage.filename.replace(/\.[^/.]+$/, ""))}`}>
+                to={`/image/${slugify(relatedImage.filename.replace(/\.[^/.]+$/, ""))}`}>
                 <img
                   src={getImageUrl(relatedImage.gallerySlug, relatedImage.filename.replaceAll(" ", "_"), 380)}
                   alt={relatedImage.filename.replaceAll("_", " ").replace(".jpg", "").trim()}
