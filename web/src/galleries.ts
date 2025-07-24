@@ -528,7 +528,7 @@ export const galleries = [
     "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner, Licht & Schatten.",
     "images": [
       {
-        "filename": "3 Müllcontainer eine Mauer und Himmel Lorystrasse Simmering Wien.jpg",
+        "filename": "3 Müllcontainer, eine Mauer und Himmel Lorystrasse Simmering Wien.jpg",
         "latitude": 48.169175,
         "longitude": 16.416547,
         "createDate": {
@@ -688,7 +688,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "BIM Station und Grütel Burggasse Rudolfsheim-Fünfhaus .jpg",
+        "filename": "BIM Station und Neubau-Gürtel Burggasse Rudolfsheim-Fünfhaus .jpg",
         "latitude": 48.201878,
         "longitude": 16.337144,
         "createDate": {
@@ -928,7 +928,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Das österreichische Parlamanet - Nordrampe.jpg",
+        "filename": "Das österreichische Parlament - Nordrampe.jpg",
         "latitude": 48.208242,
         "longitude": 16.359903,
         "createDate": {
@@ -1008,7 +1008,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eingang Belvedere via Rennweg 2.jpg",
+        "filename": "Eingang Belvedere am Rennweg 2.jpg",
         "latitude": 48.197028,
         "longitude": 16.380692,
         "createDate": {
@@ -1028,7 +1028,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eingang Belvedere via Rennweg.jpg",
+        "filename": "Eingang Belvedere am Rennweg.jpg",
         "latitude": 48.197242,
         "longitude": 16.379769,
         "createDate": {
@@ -1108,7 +1108,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eingang zu einem Gemeindebau Innenhof und Park.jpg",
+        "filename": "Eingang zu einem Gemeindebau Innenhof und Park Wien.jpg",
         "latitude": 48.198947,
         "longitude": 16.382642,
         "createDate": {
@@ -1288,6 +1288,26 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Fussgängerweg Lorystrasse Simmering Wien.jpg",
+        "latitude": 48.168872,
+        "longitude": 16.416753,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "hour": 16,
+          "minute": 31,
+          "second": 53,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:02 16:31:53",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168872,16.416753",
+        "alt": null
+      },
+      {
         "filename": "Fussgängerweg Simmering Wien.jpg",
         "latitude": 48.168983,
         "longitude": 16.418758,
@@ -1305,26 +1325,6 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168983,16.418758",
-        "alt": null
-      },
-      {
-        "filename": "Fussweg Lorystrasse-Simmering.jpg",
-        "latitude": 48.168872,
-        "longitude": 16.416753,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 5,
-          "day": 2,
-          "hour": 16,
-          "minute": 31,
-          "second": 53,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:05:02 16:31:53",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168872,16.416753",
         "alt": null
       },
       {
@@ -1408,7 +1408,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Geschlossene Trafik in der U-Bahn Station Volkstheater.jpg",
+        "filename": "Geschlossene Trafik in der U-Bahn Station Volkstheater Wien.jpg",
         "latitude": 48.2066,
         "longitude": 16.360278,
         "createDate": {
@@ -1428,7 +1428,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gleise und Radioturm in Wien.jpg",
+        "filename": "Gleise und Radioturm in Wien in der nähe des Hauptbahnhofes Wien.jpg",
         "latitude": 48.182247,
         "longitude": 16.384303,
         "createDate": {
@@ -1448,14 +1448,14 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Graffitti:Tag in Wien.jpg",
+        "filename": "Graffitti-Tag in Wien.jpg",
         "latitude": null,
         "longitude": null,
         "googleMapsUrl": null,
         "alt": null
       },
       {
-        "filename": "Grünfläche und Wohnhaus am Kanal Simmering Wien.jpg",
+        "filename": "Grünfläche, Bäume und Wohnhaus am Kanal Simmering Wien.jpg",
         "latitude": 48.158444,
         "longitude": 16.424008,
         "createDate": {
@@ -1515,7 +1515,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Handelskai Fussgängeraufgang S-Bahn.jpg",
+        "filename": "Handelskai Fussgängeraufgang S-Bahn Station.jpg",
         "latitude": 48.242469,
         "longitude": 16.385989,
         "createDate": {
@@ -1575,7 +1575,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Hauptbibliothgek und U-Bahn Burggasse Gürtel Wien.jpg",
+        "filename": "Hauptbibliothek und U-Bahn Burggasse Gürtel Wien.jpg",
         "latitude": 48.203336,
         "longitude": 16.337169,
         "createDate": {
@@ -1595,7 +1595,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Hochhäuser in Wien Erdberg.jpg",
+        "filename": "Hochhäuser in Wien Erdberg nahe Gasometer.jpg",
         "latitude": 48.185806,
         "longitude": 16.413911,
         "createDate": {
@@ -1635,7 +1635,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Innenansicht Albert Schweitzer Haus in Wien Alsergrund.jpg",
+        "filename": "Innenansicht Albert Schweitzer Haus in Wien Alsergrund auf die Garnisongasse - Alser Strasse.jpg",
         "latitude": 48.216494,
         "longitude": 16.356881,
         "createDate": {
@@ -1755,27 +1755,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kraftwerk in Simmering.jpg",
-        "latitude": 48.181389,
-        "longitude": 16.398206,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 4,
-          "day": 20,
-          "hour": 11,
-          "minute": 44,
-          "second": 40,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:04:20 11:44:40",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181389,16.398206",
-        "alt": null
-      },
-      {
-        "filename": "Krankehauseingang Wien Brigittenau.jpg",
+        "filename": "Krankenhauseingang in Wien Brigittenau.jpg",
         "latitude": 48.237469,
         "longitude": 16.383744,
         "createDate": {
@@ -2699,6 +2679,26 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194,16.326",
+        "alt": null
+      },
+      {
+        "filename": "Wien Energie Kraftwerk in Simmering.jpg",
+        "latitude": 48.181389,
+        "longitude": 16.398206,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 20,
+          "hour": 11,
+          "minute": 44,
+          "second": 40,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:20 11:44:40",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181389,16.398206",
         "alt": null
       },
       {
@@ -5432,26 +5432,6 @@ export const galleries = [
     "description": "Kleine Taferl lesen, Steine schauen & eine Katze.",
     "images": [
       {
-        "filename": "Aufgang Austellung NHM.jpg",
-        "latitude": 48.204869,
-        "longitude": 16.360233,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 7,
-          "hour": 14,
-          "minute": 45,
-          "second": 16,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:07 14:45:16",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204869,16.360233",
-        "alt": null
-      },
-      {
         "filename": "Ausgestopfte Katze in einem Schaukasten im NHM.jpg",
         "latitude": 48.204956,
         "longitude": 16.360739,
@@ -5469,6 +5449,26 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204956,16.360739",
+        "alt": null
+      },
+      {
+        "filename": "Ausstellungsraum mit Schaukästen für Steine und Mineralien im NHM.jpg",
+        "latitude": 48.204903,
+        "longitude": 16.360542,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 46,
+          "second": 11,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:46:11",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204903,16.360542",
         "alt": null
       },
       {
@@ -5632,6 +5632,26 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Marmor-Stiegen zu einem Ausstellungsraum im NHM.jpg",
+        "latitude": 48.204942,
+        "longitude": 16.360272,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "hour": 14,
+          "minute": 57,
+          "second": 20,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:07 14:57:20",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204942,16.360272",
+        "alt": null
+      },
+      {
         "filename": "Mutter und Kind vor Schaukasten NHM.jpg",
         "latitude": 48.2049,
         "longitude": 16.360639,
@@ -5649,26 +5669,6 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2049,16.360639",
-        "alt": null
-      },
-      {
-        "filename": "Schaukasten Steine NHM.jpg",
-        "latitude": 48.204903,
-        "longitude": 16.360542,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 7,
-          "hour": 14,
-          "minute": 46,
-          "second": 11,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:07 14:46:11",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204903,16.360542",
         "alt": null
       },
       {
@@ -5712,23 +5712,23 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Stiegen - Aufgang im NHM.jpg",
-        "latitude": 48.204942,
-        "longitude": 16.360272,
+        "filename": "Stiegen-Aufgang zu einem Austellungsraum im NHM.jpg",
+        "latitude": 48.204869,
+        "longitude": 16.360233,
         "createDate": {
           "_ctor": "ExifDateTime",
           "year": 2025,
           "month": 6,
           "day": 7,
           "hour": 14,
-          "minute": 57,
-          "second": 20,
+          "minute": 45,
+          "second": 16,
           "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:07 14:57:20",
+          "rawValue": "2025:06:07 14:45:16",
           "zoneName": "UTC+2",
           "inferredZone": true
         },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204942,16.360272",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204869,16.360233",
         "alt": null
       },
       {
@@ -6822,6 +6822,26 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Der Hyblerpark in Simmering Wien.jpg",
+        "latitude": 48.181611,
+        "longitude": 16.413031,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 4,
+          "day": 18,
+          "hour": 12,
+          "minute": 10,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:04:18 12:10:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181611,16.413031",
+        "alt": null
+      },
+      {
         "filename": "Donauinsel Brücke Wien.jpg",
         "latitude": 48.244561,
         "longitude": 16.390017,
@@ -6902,7 +6922,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Haus vor Zaun Wien.jpg",
+        "filename": "EIn Metallzaun vor eiener klien Hütte in Wien Simmering.jpg",
         "latitude": 48.172078,
         "longitude": 16.410625,
         "createDate": {
@@ -6922,27 +6942,27 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Hyblerpark Simmering Wien.jpg",
-        "latitude": 48.181611,
-        "longitude": 16.413031,
+        "filename": "Herderpark in Wien Simmering.jpg",
+        "latitude": 48.172086,
+        "longitude": 16.410622,
         "createDate": {
           "_ctor": "ExifDateTime",
           "year": 2025,
-          "month": 4,
-          "day": 18,
-          "hour": 12,
-          "minute": 10,
-          "second": 17,
+          "month": 5,
+          "day": 3,
+          "hour": 14,
+          "minute": 47,
+          "second": 16,
           "tzoffsetMinutes": 120,
-          "rawValue": "2025:04:18 12:10:17",
+          "rawValue": "2025:05:03 14:47:16",
           "zoneName": "UTC+2",
           "inferredZone": true
         },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181611,16.413031",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172086,16.410622",
         "alt": null
       },
       {
-        "filename": "Kein Sport Donuainsel Wien.jpg",
+        "filename": "Kein Sport auf der Donuainsel - Alte Donau in Wien.jpg",
         "latitude": 48.211767,
         "longitude": 16.434911,
         "createDate": {
@@ -6999,26 +7019,6 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.171803,16.410644",
-        "alt": null
-      },
-      {
-        "filename": "Park Wien.jpg",
-        "latitude": 48.172086,
-        "longitude": 16.410622,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 5,
-          "day": 3,
-          "hour": 14,
-          "minute": 47,
-          "second": 16,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:05:03 14:47:16",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172086,16.410622",
         "alt": null
       },
       {
@@ -8322,7 +8322,7 @@ export const galleries = [
     "description": "Ain't no rain on my parade.",
     "images": [
       {
-        "filename": "48er Nachräumarbeiten Pride Wien.jpg",
+        "filename": "48er Aufräumarbeiten nach der Pride in der Inneren Stadt Wien.jpg",
         "latitude": 48.204486,
         "longitude": 16.377731,
         "createDate": {
@@ -8342,27 +8342,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fahenen auf Pride Wien.jpg",
-        "latitude": 48.206589,
-        "longitude": 16.380058,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 14,
-          "hour": 15,
-          "minute": 59,
-          "second": 2,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:14 15:59:02",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206589,16.380058",
-        "alt": null
-      },
-      {
-        "filename": "Mensch mit Fahne Wien.jpg",
+        "filename": "Mensch mit Fahnen auf der Pride Innere Stadt Wien.jpg",
         "latitude": 48.203475,
         "longitude": 16.364478,
         "createDate": {
@@ -8442,27 +8422,27 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Menschenmenge vor dem Gartenbaukino auf der Pride Wien.jpg",
-        "latitude": 48.205414,
-        "longitude": 16.378797,
+        "filename": "Menschenmenge und Fahnen auf Pride Wien.jpg",
+        "latitude": 48.206589,
+        "longitude": 16.380058,
         "createDate": {
           "_ctor": "ExifDateTime",
           "year": 2025,
           "month": 6,
           "day": 14,
           "hour": 15,
-          "minute": 52,
-          "second": 49,
+          "minute": 59,
+          "second": 2,
           "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:14 15:52:49",
+          "rawValue": "2025:06:14 15:59:02",
           "zoneName": "UTC+2",
           "inferredZone": true
         },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205414,16.378797",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206589,16.380058",
         "alt": null
       },
       {
-        "filename": "Regenbogenschirm und Menschenmenge Pride Wien.jpg",
+        "filename": "Menschenmenge und Regebogen-Schirm Pride Innere Stadt Wien.jpg",
         "latitude": 48.201881,
         "longitude": 16.374986,
         "createDate": {
@@ -8482,7 +8462,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wagen mit Nebelmaschine Wien.jpg",
+        "filename": "Menschenmenge und Wagen mit Nebelmaschine Wien.jpg",
         "latitude": 48.202019,
         "longitude": 16.375325,
         "createDate": {
@@ -8499,6 +8479,26 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202019,16.375325",
+        "alt": null
+      },
+      {
+        "filename": "Menschenmenge vor dem Gartenbaukino auf der Pride Wien.jpg",
+        "latitude": 48.205414,
+        "longitude": 16.378797,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 14,
+          "hour": 15,
+          "minute": 52,
+          "second": 49,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:14 15:52:49",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205414,16.378797",
         "alt": null
       }
     ],
@@ -8842,6 +8842,26 @@ export const galleries = [
     "description": "Hier & da. Dieses & jenes. Oben & unten.",
     "images": [
       {
+        "filename": "Alte Jukebox im Anker-Kino Burghausen.jpg",
+        "latitude": 48.158589,
+        "longitude": 12.832308,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 16,
+          "hour": 19,
+          "minute": 48,
+          "second": 20,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:16 19:48:20",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158589,12.832308",
+        "alt": null
+      },
+      {
         "filename": "Ausblick von Kleingröpfritz einen Wald.jpg",
         "latitude": 48.859294,
         "longitude": 15.217844,
@@ -8949,23 +8969,23 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Jukebox im Anker-Kino Burghausen.jpg",
-        "latitude": 48.158589,
-        "longitude": 12.832308,
+        "filename": "Heuriger Stammersdorf Wien.jpg",
+        "latitude": 48.298211,
+        "longitude": 16.422322,
         "createDate": {
           "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 5,
-          "day": 16,
-          "hour": 19,
-          "minute": 48,
-          "second": 20,
+          "year": 2024,
+          "month": 4,
+          "day": 24,
+          "hour": 18,
+          "minute": 9,
+          "second": 36,
           "tzoffsetMinutes": 120,
-          "rawValue": "2025:05:16 19:48:20",
+          "rawValue": "2024:04:24 18:09:36",
           "zoneName": "UTC+2",
           "inferredZone": true
         },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158589,12.832308",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.298211,16.422322",
         "alt": null
       },
       {
@@ -9029,27 +9049,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Stammersdorf Wien.jpg",
-        "latitude": 48.298211,
-        "longitude": 16.422322,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2024,
-          "month": 4,
-          "day": 24,
-          "hour": 18,
-          "minute": 9,
-          "second": 36,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2024:04:24 18:09:36",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.298211,16.422322",
-        "alt": null
-      },
-      {
-        "filename": "Tafelspitz Schild Wien.jpg",
+        "filename": "Tafelspitz Schild bei Schönbrunn Wien.jpg",
         "latitude": 48.185794,
         "longitude": 16.319944,
         "createDate": {
