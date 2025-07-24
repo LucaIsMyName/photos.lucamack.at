@@ -2,7 +2,7 @@ import { useState, useMemo, useRef, useCallback, useEffect } from "react";
 import MapGL, { Marker, Popup, type MapRef } from "react-map-gl/mapbox";
 import useSupercluster from "use-supercluster";
 import { Link, useSearchParams } from "react-router-dom";
-import { Download, X, Layers } from "lucide-react";
+import { Download, X, Layers, Eye } from "lucide-react";
 import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../../galleries";
 import { CONFIG } from "../../config";
@@ -74,15 +74,27 @@ const MapPage = () => {
     }));
   }, [geotaggedImages]);
 
+  // Effect to update bounds after initial image load
+  useEffect(() => {
+    if (popupInfo && mapRef.current) {
+      const map = mapRef.current.getMap();
+
+      const onIdle = () => {
+        if (mapRef.current) {
+          const bounds = map.getBounds();
+          setBounds(bounds?.toArray().flat() as [number, number, number, number]);
+        }
+        map.off("idle", onIdle);
+      };
+
+      map.on("idle", onIdle);
+    }
+  }, [popupInfo]);
+
   // Close legend when clicking outside
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
-      if (
-        legendToggleRef.current &&
-        !legendToggleRef.current.contains(event.target as Node) &&
-        legendRef.current &&
-        !legendRef.current.contains(event.target as Node)
-      ) {
+      if (legendToggleRef.current && !legendToggleRef.current.contains(event.target as Node) && legendRef.current && !legendRef.current.contains(event.target as Node)) {
         setIsLegendOpen(false);
       }
     };
@@ -117,25 +129,28 @@ const MapPage = () => {
     if (!mapRef.current) return;
 
     const imageSlug = searchParams.get("image");
+    const gallerySlug = searchParams.get("gallery");
 
-    if (imageSlug) {
-      let foundImage: GeotaggedImage | undefined;
-      for (const gallery of galleries) {
+    if (imageSlug && gallerySlug) {
+      // Find the image and gallery
+      let foundItem: GeotaggedImage | undefined;
+
+      const gallery = galleries.find((g) => g.slug === gallerySlug);
+      if (gallery) {
         const image = gallery.images?.find((img) => slugify(img.filename.replace(/\.[^/.]+$/, "")) === imageSlug);
-        if (image) {
-          foundImage = { image, gallery };
-          break;
+        if (image && image.latitude && image.longitude) {
+          foundItem = { image, gallery };
         }
       }
 
-      if (foundImage && foundImage.image.latitude && foundImage.image.longitude) {
+      if (foundItem && foundItem.image.latitude && foundItem.image.longitude) {
         setViewState({
           ...viewState,
-          latitude: foundImage.image.latitude,
-          longitude: foundImage.image.longitude,
-          zoom: 14,
+          latitude: foundItem.image.latitude,
+          longitude: foundItem.image.longitude,
+          zoom: 15,
         });
-        setPopupInfo(foundImage);
+        setPopupInfo(foundItem);
       }
     } else {
       if (geotaggedImages.length === 0) return;
@@ -192,19 +207,16 @@ const MapPage = () => {
       <button
         ref={legendToggleRef}
         onClick={() => setIsLegendOpen(!isLegendOpen)}
-        className={cn("z-10 absolute top-4 right-4 p-2 flex items-center", theme === "dark" ? "bg-black text-white" : "bg-white text-black")}
+        className={cn("border gap-2 z-50 absolute top-4 right-4 p-2 flex items-center", theme === "dark" ? "bg-black text-white" : "bg-white text-black")}
         aria-label="Legende Ein- oder Ausschalten">
-        <span className="text-xs ml-2">Legende</span>
-        <Layers size={20} />
+        <span className="text-xs ml-1">Legende</span>
+        <Layers size={16} />
       </button>
 
       {isLegendOpen && (
         <div
           ref={legendRef}
-          className={cn(
-            "z-10 absolute top-16 right-4 p-4 w-[calc(100%-2rem)] md:w-auto md:max-w-md",
-            theme === "dark" ? "bg-black text-white" : "bg-white text-black"
-          )}>
+          className={cn("border z-[100000] absolute top-12 right-4 p-4 w-[calc(100%-2rem)] md:w-auto md:max-w-lg", theme === "dark" ? "bg-black text-white" : "bg-white text-black")}>
           <button
             onClick={() => setIsLegendOpen(false)}
             className="absolute top-2 right-2 p-1"
@@ -212,15 +224,20 @@ const MapPage = () => {
             <X className="h-4 w-4" />
           </button>
           <h3 className="font-bold text-lg mb-2">Legende</h3>
-          <h4 className="text-xs mb-4">Galerien via Farbe, Klick auf Galerie um zu verstecken oder einzublenden</h4>
-          <ul className="grid grid-cols-2 md:grid-cols-3 gap-x-6 gap-y-2 text-sm">
+          <h4 className="text-[11px] mb-4 opacity-90">Galerien via Farbe, Klick auf Galerie um zu verstecken oder einzublenden</h4>
+          <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-x-6 gap-y-2 text-sm">
             {galleries.map((gallery) => (
               <li
                 key={gallery.slug}
-                className={`flex items-center gap-2 cursor-pointer ${hiddenGalleries.has(gallery.slug) ? "opacity-50" : ""}`}
+                className={`group flex items-center justify-between gap-2 cursor-pointer transition-opacity ${hiddenGalleries.has(gallery.slug) ? "opacity-50 hover:opacity-100" : ""}`}
                 onClick={() => handleLegendToggle(gallery.slug)}>
-                <div className={cn(`w-3 h-3 border ${galleryColors.get(gallery.slug)}`, theme === "dark" ? "border-white" : "border-black")} />
-                <span className="truncate text-xs">{gallery.title}</span>
+                <div className="flex items-center gap-2 truncate">
+                  <div className={cn(`w-3 h-3 min-w-3 min-h-3 flex-shrink-0 border ${galleryColors.get(gallery.slug)}`, theme === "dark" ? "border-white" : "border-black")} />
+                  <span className="truncate text-xs">{gallery.title}</span>
+                </div>
+                <div className="opacity-0 group-hover:opacity-100 transition-opacity">
+                  {hiddenGalleries.has(gallery.slug) ? <Eye size={12} /> : <X size={12} />}
+                </div>
               </li>
             ))}
           </ul>
@@ -299,7 +316,7 @@ const MapPage = () => {
             className="z-10">
             <div className={`relative bg-white text-black`}>
               <div className="relative group ">
-                <Link to={`/image/${slugify(popupInfo.image.filename.replace(/\.[^/.]+$/, ""))}`}>
+                <Link to={`/gallery/${popupInfo.gallery.slug}/image/${slugify(popupInfo.image.filename.replace(/\.[^/.]+$/, ""))}`}>
                   <img
                     className="w-40 md:w-64 w-full h-auto"
                     src={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename.replaceAll(" ", "_"), 640)}
@@ -309,15 +326,15 @@ const MapPage = () => {
                 </Link>
               </div>
               <section className={`flex items-start justify-between gap-2`}>
-                <div className={cn(`font-geist p-2 text-base truncate`)}>
-                  <p className="truncate">{popupInfo.image.filename.replaceAll("_", " ")}</p>
-                  <p className="text-sm truncate">{popupInfo.gallery.title}</p>
+                <div className={cn(`font-geist p-2 pt-4 text-base truncate`)}>
+                  <p className="text-sm truncate">{popupInfo.image.filename.replaceAll("_", " ")}</p>
+                  <p className="text-xs truncate">{popupInfo.gallery.title}</p>
                 </div>
                 <Href
                   href={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename.replaceAll(" ", "_"), "original")}
                   download
-                  onClick={(e:any) => e.stopPropagation()}
-                  className={`p-2 px-3 mt-1 text-black`}
+                  onClick={(e: any) => e.stopPropagation()}
+                  className={cn(`p-2 pt-4 px-3 mt-1 mr-2 text-black`)}
                   aria-label={`Download ${popupInfo.image.filename}`}>
                   <Download size={16} />
                 </Href>

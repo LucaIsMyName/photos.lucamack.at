@@ -47,13 +47,13 @@ const GalleryItem = ({ alt, gallerySlug, imageFilename }: GalleryItemProps) => {
         `(min-width: 1024px) 512px, (min-width: 768px) 50vw, 100vw`;
 
   const imageName = imageFilename.replace(/\.[^/.]+$/, "");
-  const imagePageLink = `/image/${slugify(imageName)}`;
+  const imagePageLink = `/gallery/${gallerySlug}/image/${slugify(imageName)}`;
 
   return (
     <div
       id={`image-${imageName}`}
       className={getFlexClasses()}>
-      <div className="p-0 lg:pr-4 sm:pb-4 md:py-6">
+      <div className="p-0 pr-0 lg:pr-4 sm:pb-4 md:pr-4 md:py-6">
         <Link
           to={imagePageLink}
           className="block">

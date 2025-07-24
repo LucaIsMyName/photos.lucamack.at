@@ -6,9 +6,12 @@ import { useTheme } from "../../contexts/ThemeContext";
 interface CopyButtonProps {
   textToCopy: string;
   className?: string;
+  children?: React.ReactNode;
+  ariaLabel?: string;
+  iconToRight?: boolean;
 }
 
-const CopyButton = ({ textToCopy, className }: CopyButtonProps) => {
+const CopyButton = ({ textToCopy, className, children, ariaLabel, iconToRight = false }: CopyButtonProps) => {
   const [isCopied, setIsCopied] = useState(false);
   const { theme } = useTheme();
 
@@ -25,9 +28,21 @@ const CopyButton = ({ textToCopy, className }: CopyButtonProps) => {
   return (
     <button
       onClick={handleCopy}
-      className={cn("p-1 bg-transparent", className)}
-      aria-label="Copy to clipboard">
-      {isCopied ? <Check size={16} strokeWidth={2} className={cn(theme === "dark" ? "text-red-300" : "text-red-600")} /> : <Copy className={cn(theme === "dark" ? "text-red-300" : "text-red-600")} size={16} />}
+      className={cn(`text-xs p-1 bg-transparent flex ${iconToRight ? `flex-row-reverse` : ""} items-center gap-2`, className)}
+      aria-label={ariaLabel || "Kopieren"}>
+      {isCopied ? (
+        <Check
+          size={16}
+          strokeWidth={2}
+          className={cn("min-w-[16px] w-[16px] h-[16px] min-h-[16px]", theme === "dark" ? "text-red-300" : "text-red-600")}
+        />
+      ) : (
+        <Copy
+          className={cn("min-w-[16px] w-[16px] h-[16px] min-h-[16px]", theme === "dark" ? "text-red-300" : "text-red-600")}
+          size={16}
+        />
+      )}
+      <span>{children}</span>
     </button>
   );
 };

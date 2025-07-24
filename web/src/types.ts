@@ -6,9 +6,9 @@ export interface ExifDateTime {
   hour: number;
   minute: number;
   second: number;
-  tzoffsetMinutes: number;
+  tzoffsetMinutes?: number;
   rawValue: string;
-  zoneName: string;
+  zoneName?: string;
   inferredZone: boolean;
 }
 

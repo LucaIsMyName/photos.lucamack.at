@@ -156,7 +156,7 @@ const TimelinePage = () => {
                 <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-6 lg:grid-cols-7 xl:grid-cols-8 gap-2 sm:gap-4">
                   {images.map((image) => (
                     <Link
-                      to={`/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
+                      to={`/gallery/${image.gallerySlug}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
                       key={image.filename}
                       className="relative group block">
                       <img
@@ -165,10 +165,10 @@ const TimelinePage = () => {
                         loading="lazy"
                         className="w-full h-full object-cover aspect-square"
                       />
-                      <div className={`absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex justify-end items-start p-2 gap-1.5`}>
+                      <div className={`sr-only absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex justify-end items-start p-2 gap-1.5`}>
                         {image.googleMapsUrl && (
                           <Link
-                            to={`/app/map?gallery=${image.gallerySlug}&image=${slugify(image.filename)}`}
+                            to={`/app/map?gallery=${image.gallerySlug}&image=${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
                             onClick={(e) => e.stopPropagation()}
                             className={`p-1 transition-colors ${theme === "dark" ? "text-white bg-black bg-opacity-50 " : "text-black bg-white bg-opacity-50"}`}
                             aria-label={`View ${image.filename} on map`}>

@@ -1,9 +1,9 @@
 {
   "name": "web",
   "private": true,
-  "version": "1.2.5",
+  "version": "1.2.8",
   "type": "module",
-  "description": "Photo Gallery & Notebook with Node, Vite, React & Tailwind. ",
+  "description": "Photo Gallery & Notebook with Node, Vite, React & Tailwind.",
   "author": "Luca Mack",
   "license": "MIT",
   "homepage": "https://photos.lucamack.at",

@@ -1,8 +1,9 @@
 import { cn } from "../../utils/cn";
 import { useTheme } from "../../contexts/ThemeContext";
+import { Link } from "react-router-dom";
 
 interface HrefProps {
-  href: string;
+  href?: string;
   children: React.ReactNode;
   className?: string;
   target?: string;
@@ -10,10 +11,34 @@ interface HrefProps {
   download?: boolean;
   onClick?: (e: any) => void;
   hasDecoration?: boolean;
+  to?: string | undefined;
+  asChild?: boolean;
 }
 
-const Href = ({ href, hasDecoration = true, children, onClick, className, target = "_blank", rel = "noopener noreferrer", download, ...props }: HrefProps) => {
+const Href = ({ asChild = false, href, to, hasDecoration = true, children, onClick, className, target = "_blank", rel = "noopener noreferrer", download, ...props }: HrefProps) => {
   const { theme } = useTheme();
+  if (to !== undefined && href === undefined) {
+    return (
+      <Link
+        to={to}
+        rel={rel}
+        onClick={onClick}
+        {...props}
+        className={cn(hasDecoration ? "underline underline-offset-4 " : "", theme === "dark" ? "text-white hover:decoration-white decoration-red-300" : "text-black hover:decoration-black decoration-red-600", className)}>
+        {children}
+      </Link>
+    );
+  }
+  if (asChild || href === undefined && to === undefined) {
+    return (
+      <div
+        onClick={onClick}
+        {...props}
+        className={cn(hasDecoration ? "underline underline-offset-4 " : "", theme === "dark" ? "text-white hover:decoration-white decoration-red-300" : "text-black hover:decoration-black decoration-red-600", className)}>
+        {children}
+      </div>
+    );
+  }
   return (
     <a
       href={href}

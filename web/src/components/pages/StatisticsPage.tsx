@@ -54,7 +54,7 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
 
   return (
     <div className={cn(`border  ${theme === "dark" ? "" : ""} p-0 flex flex-col`)}>
-      <Link to={`/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
+      <Link to={`/gallery/${image.gallery}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
         <img
           src={getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 640)}
           alt={image.alt || title}
@@ -62,16 +62,21 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
         />
       </Link>
       <div className="p-3 relative">
-        <h3 className="text-base">{title}</h3>
-        <div className="text-xs mt-1">
-          <p>Lat: {image.latitude.toFixed(6)}</p>
-          <p>Lon: {image.longitude.toFixed(6)}</p>
+        <h3 className="text-[11px]">
+          {title}</h3>
+        <p className=" my-2 text-base leading-4 truncate">{image.filename}</p>
+        <div className="flex items-center mt-2">
+          <div className="text-xs mt-1">
+            <p>
+              Lat: {image.latitude.toFixed(6)}, {image.longitude.toFixed(6)}
+            </p>
+          </div>
+          <Link
+            className="absolute bottom-4 right-4"
+            to={`/app/map?gallery=${image.gallery}&image=${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
+            <MapPin size={14} />
+          </Link>
         </div>
-        <Link
-          className="absolute bottom-4 right-4"
-          to={`/app/map?gallery=${image.gallery}&image=${slugify(image.filename)}`}>
-          <MapPin size={16} />
-        </Link>
       </div>
     </div>
   );
@@ -282,7 +287,9 @@ const StatisticsPage = () => {
       </div>
       <div className="mt-8">
         <h2 className="text-xl mb-4">Fotos pro Galerie</h2>
-        <ResponsiveContainer width="100%" height={400}>
+        <ResponsiveContainer
+          width="100%"
+          height={400}>
           <Treemap
             data={stats.galleryData}
             dataKey="value"
@@ -294,7 +301,9 @@ const StatisticsPage = () => {
 
       <div className="mt-8">
         <h2 className="text-xl mb-4">Fotos pro Land</h2>
-        <ResponsiveContainer width="100%" height={400}>
+        <ResponsiveContainer
+          width="100%"
+          height={400}>
           {isLoadingCountries ? (
             <div className="flex items-center justify-center h-full">Lade Länderdaten...</div>
           ) : (

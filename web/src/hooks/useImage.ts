@@ -10,21 +10,25 @@ interface FoundImage {
 }
 
 export const useImage = (): FoundImage | undefined => {
-  const { slug } = useParams<{ slug: string }>();
+  const { gallerySlug, slug } = useParams<{ gallerySlug: string; slug: string }>();
 
   const foundImage: FoundImage | undefined = useMemo(() => {
-    if (!slug) return undefined;
-    for (const gallery of galleries) {
-      const image = gallery.images?.find((img) => {
-        const imageName = img.filename.replace(/\.[^/.]+$/, "");
-        return slugify(imageName) === slug;
-      });
-      if (image) {
-        return { image, gallery };
-      }
+    if (!gallerySlug || !slug) return undefined;
+
+    const gallery = galleries.find((g) => g.slug === gallerySlug);
+    if (!gallery) return undefined;
+
+    const image = gallery.images?.find((img) => {
+      const imageName = img.filename.replace(/\.[^/.]+$/, "");
+      return slugify(imageName) === slug;
+    });
+
+    if (image) {
+      return { image, gallery };
     }
+
     return undefined;
-  }, [slug]);
+  }, [gallerySlug, slug]);
 
   return foundImage;
 };

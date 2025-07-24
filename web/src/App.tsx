@@ -67,7 +67,7 @@ function App() {
               element={<StatisticsPage />}
             />
             <Route
-              path="/image/:slug"
+              path="/gallery/:gallerySlug/image/:slug"
               element={<ImagePage />}
             />
             <Route

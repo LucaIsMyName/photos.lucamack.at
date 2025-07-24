@@ -1,0 +1,3 @@
+# Ostsee
+
+Stralsund, Rügen & Greifswald

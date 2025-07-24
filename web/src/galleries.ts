@@ -338,26 +338,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Garten des Schloss Sansouci in Potsdam.jpg",
-        "latitude": 52.404192,
-        "longitude": 13.038433,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2023,
-          "month": 8,
-          "day": 16,
-          "hour": 14,
-          "minute": 34,
-          "second": 46,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2023:08:16 14:34:46",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.404192,13.038433",
-        "alt": null
-      },
-      {
         "filename": "Getränke Hoffmann Schild an einem Wohnhaus in Berlin.jpg",
         "latitude": 52.492272,
         "longitude": 13.416881,
@@ -378,7 +358,27 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Hochhaus Upper West von Kantstrasse aus.jpg",
+        "filename": "Großer Park vor dem Schloss Sansouci in Potsdam.jpg",
+        "latitude": 52.404192,
+        "longitude": 13.038433,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 8,
+          "day": 16,
+          "hour": 14,
+          "minute": 34,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:08:16 14:34:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.404192,13.038433",
+        "alt": null
+      },
+      {
+        "filename": "Hochhaus Upper West von Kantstrasse aufgenommen.jpg",
         "latitude": 52.505053,
         "longitude": 13.332972,
         "createDate": {
@@ -522,8 +522,8 @@ export const galleries = [
     "imageCount": 14
   },
   {
-    "name": "beton-und-strukturen",
-    "slug": "beton-und-strukturen",
+    "name": "beton-und-struktur",
+    "slug": "beton-und-struktur",
     "title": "Beton & Struktur",
     "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner, Licht & Schatten.",
     "images": [
@@ -748,7 +748,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Baustelle Wien Leopoldstadt.jpg",
+        "filename": "Baustelle Wien Leopoldstadt Wien.jpg",
         "latitude": 48.223858,
         "longitude": 16.393481,
         "createDate": {
@@ -788,27 +788,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bäume und Dächer am Donaukanal.jpg",
-        "latitude": 48.221325,
-        "longitude": 16.367619,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 7,
-          "day": 15,
-          "hour": 21,
-          "minute": 4,
-          "second": 59,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:07:15 21:04:59",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.221325,16.367619",
-        "alt": null
-      },
-      {
-        "filename": "Beachvolleyball am Donaukanal.jpg",
+        "filename": "Beachvolleyball am Donaukanal Wien.jpg",
         "latitude": 48.22055,
         "longitude": 16.367939,
         "createDate": {
@@ -928,6 +908,26 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Bäume und Dächer am Donaukanal Innere Stadt Wien.jpg",
+        "latitude": 48.221325,
+        "longitude": 16.367619,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 15,
+          "hour": 21,
+          "minute": 4,
+          "second": 59,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:15 21:04:59",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.221325,16.367619",
+        "alt": null
+      },
+      {
         "filename": "Das österreichische Parlament - Nordrampe.jpg",
         "latitude": 48.208242,
         "longitude": 16.359903,
@@ -1008,7 +1008,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eingang Belvedere am Rennweg 2.jpg",
+        "filename": "Eingang Belvedere am Rennweg - Wien 2.jpg",
         "latitude": 48.197028,
         "longitude": 16.380692,
         "createDate": {
@@ -1028,7 +1028,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eingang Belvedere am Rennweg.jpg",
+        "filename": "Eingang Belvedere am Rennweg - Wien.jpg",
         "latitude": 48.197242,
         "longitude": 16.379769,
         "createDate": {
@@ -1088,7 +1088,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eingang des Wiener Wstbahnhofes.jpg",
+        "filename": "Eingang und Wand-Uhr des Wiener Westbahnhofes.jpg",
         "latitude": 48.19725,
         "longitude": 16.337719,
         "createDate": {
@@ -1188,7 +1188,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fabriksgelände Wien Brigittenau.jpg",
+        "filename": "Fabriksgelände in Wien Brigittenau.jpg",
         "latitude": 48.236172,
         "longitude": 16.385681,
         "createDate": {
@@ -1208,7 +1208,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fassade Cafe Weidinger Rudolfsheim-Fünfhaus Wien.jpg",
+        "filename": "Fassade Cafe Weidinger am Neubau-Gürtel in Rudolfsheim-Fünfhaus Wien.jpg",
         "latitude": 48.20415,
         "longitude": 16.336481,
         "createDate": {
@@ -3682,7 +3682,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Akardenhof Klagenfurt Kärnten.jpg",
+        "filename": "Arkardenhof Klagenfurt Kärnten.jpg",
         "latitude": 46.625503,
         "longitude": 14.307908,
         "createDate": {
@@ -3702,7 +3702,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Basketballkorg und Haustür Klagenfurt Kärnten.jpg",
+        "filename": "Basketballkorb über einer Haustür Klagenfurt Kärnten.jpg",
         "latitude": 46.626483,
         "longitude": 14.3065,
         "createDate": {
@@ -3942,7 +3942,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gasflaschen Fischerwirt St Margarethen Kärnten.jpg",
+        "filename": "Gasflaschen Fischerwirt St. Margarethen Kärnten.jpg",
         "latitude": 46.865806,
         "longitude": 14.782853,
         "createDate": {
@@ -4162,7 +4162,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kirche in Wolfsberg.jpg",
+        "filename": "Kirche in Villach.jpg",
         "latitude": 46.613292,
         "longitude": 13.845847,
         "createDate": {
@@ -4182,7 +4182,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kur-Anstalt Optima Med.jpg",
+        "filename": "Kur-Anstalt Optima Med in St. Margareten Kärnten.jpg",
         "latitude": 46.873825,
         "longitude": 14.775747,
         "createDate": {
@@ -4322,7 +4322,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Pestsäule Klagenfurt Kärnten.jpg",
+        "filename": "Pestsäule am Alten Platz in Klagenfurt Kärnten.jpg",
         "latitude": 46.625306,
         "longitude": 14.307778,
         "createDate": {
@@ -4532,7 +4532,27 @@ export const galleries = [
     "description": "Keine Menschen, viele Bäume",
     "images": [
       {
-        "filename": "Bäume Kleinlobmingtal Steiermark.jpg",
+        "filename": "Blick über Kleinlobmingtal in der Steiermark.jpg",
+        "latitude": 47.133819,
+        "longitude": 14.874467,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 8,
+          "day": 24,
+          "hour": 11,
+          "minute": 13,
+          "second": 6,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:08:24 11:13:06",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.133819,14.874467",
+        "alt": null
+      },
+      {
+        "filename": "Bäume auf einem Berg im Kleinlobmingtal Steiermark.jpg",
         "latitude": 47.133167,
         "longitude": 14.874389,
         "createDate": {
@@ -4572,26 +4592,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kleinlobmingtal Steiermark.jpg",
-        "latitude": 47.133819,
-        "longitude": 14.874467,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2024,
-          "month": 8,
-          "day": 24,
-          "hour": 11,
-          "minute": 13,
-          "second": 6,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2024:08:24 11:13:06",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.133819,14.874467",
-        "alt": null
-      },
-      {
         "filename": "Sternenhimmel Kleinlobming Steiermark.jpg",
         "latitude": 47.134614,
         "longitude": 14.869656,
@@ -4614,6 +4614,236 @@ export const galleries = [
     ],
     "timeframe": "23. August 2024 - 26. August 2024",
     "imageCount": 4
+  },
+  {
+    "name": "lisboa",
+    "slug": "lisboa",
+    "title": "Lisboa",
+    "description": "Vale a pena a viagem, possivelmente com uma passagem só de ida.",
+    "images": [
+      {
+        "filename": "Arzul-Fliesen in Lissabon.jpg",
+        "latitude": 38.710667,
+        "longitude": -9.141656,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2018,
+          "month": 11,
+          "day": 20,
+          "hour": 10,
+          "minute": 0,
+          "second": 5,
+          "tzoffsetMinutes": 0,
+          "rawValue": "2018:11:20 10:00:05",
+          "zoneName": "Europe/Lisbon",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.710667,-9.141656",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Brücke über einen Fluss mit Blick auf Lissabon.jpg",
+        "latitude": 38.678614,
+        "longitude": -9.171356,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2018,
+          "month": 11,
+          "day": 20,
+          "hour": 16,
+          "minute": 3,
+          "second": 29,
+          "tzoffsetMinutes": 0,
+          "rawValue": "2018:11:20 16:03:29",
+          "zoneName": "Europe/Lisbon",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.678614,-9.171356",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Der Atlantik und eine Bucht mit Leuchttum.jpg",
+        "latitude": 38.683419,
+        "longitude": -9.31415,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2018,
+          "month": 11,
+          "day": 21,
+          "hour": 13,
+          "minute": 23,
+          "second": 13,
+          "tzoffsetMinutes": 0,
+          "rawValue": "2018:11:21 13:23:13",
+          "zoneName": "Europe/Lisbon",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.683419,-9.31415",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Die Altstadt von Lissabon.jpg",
+        "latitude": 38.715242,
+        "longitude": -9.144369,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2018,
+          "month": 11,
+          "day": 19,
+          "hour": 11,
+          "minute": 11,
+          "second": 27,
+          "tzoffsetMinutes": 0,
+          "rawValue": "2018:11:19 11:11:27",
+          "zoneName": "Europe/Lisbon",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.715242,-9.144369",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Dom-Kuppel in Lissabon.jpg",
+        "latitude": 38.713175,
+        "longitude": -9.127778,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2018,
+          "month": 11,
+          "day": 19,
+          "hour": 15,
+          "minute": 31,
+          "second": 20,
+          "tzoffsetMinutes": 0,
+          "rawValue": "2018:11:19 15:31:20",
+          "zoneName": "Europe/Lisbon",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.713175,-9.127778",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Hausfassade in der Altstadt von Lissabon.jpg",
+        "latitude": 38.709792,
+        "longitude": -9.136431,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2018,
+          "month": 11,
+          "day": 19,
+          "hour": 13,
+          "minute": 55,
+          "second": 18,
+          "tzoffsetMinutes": 0,
+          "rawValue": "2018:11:19 13:55:18",
+          "zoneName": "Europe/Lisbon",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.709792,-9.136431",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Hello World Neon-Schriftzug vor Häusern und Brücke.jpg",
+        "latitude": 38.703011,
+        "longitude": -9.178928,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2018,
+          "month": 11,
+          "day": 21,
+          "hour": 16,
+          "minute": 31,
+          "second": 17,
+          "tzoffsetMinutes": 0,
+          "rawValue": "2018:11:21 16:31:17",
+          "zoneName": "Europe/Lisbon",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.703011,-9.178928",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Qualle im Ozeanium von Lissabon.jpg",
+        "latitude": 38.763369,
+        "longitude": -9.093719,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2018,
+          "month": 11,
+          "day": 22,
+          "hour": 12,
+          "minute": 3,
+          "second": 4,
+          "tzoffsetMinutes": 0,
+          "rawValue": "2018:11:22 12:03:04",
+          "zoneName": "Europe/Lisbon",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.763369,-9.093719",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Schmale Gasse und BIM Gleise in Lissabon.jpg",
+        "latitude": 38.707842,
+        "longitude": -9.138886,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2018,
+          "month": 11,
+          "day": 20,
+          "hour": 9,
+          "minute": 27,
+          "second": 8,
+          "tzoffsetMinutes": 0,
+          "rawValue": "2018:11:20 09:27:08",
+          "zoneName": "Europe/Lisbon",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.707842,-9.138886",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Statuen in Lissabon.jpg",
+        "latitude": 38.715592,
+        "longitude": -9.145636,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2018,
+          "month": 11,
+          "day": 20,
+          "hour": 10,
+          "minute": 53,
+          "second": 24,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2018:11:20 10:53:24",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.715592,-9.145636",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Statuen von hinten, nummeriert und beschriftet.jpg",
+        "latitude": 38.715592,
+        "longitude": -9.145636,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2018,
+          "month": 11,
+          "day": 20,
+          "hour": 9,
+          "minute": 52,
+          "second": 59,
+          "tzoffsetMinutes": 0,
+          "rawValue": "2018:11:20 09:52:59",
+          "zoneName": "Europe/Lisbon",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.715592,-9.145636",
+        "alt": "Hisilicon Balong"
+      }
+    ],
+    "timeframe": "19. November 2018 - 22. November 2018",
+    "imageCount": 11
   },
   {
     "name": "mayday",
@@ -5762,26 +5992,6 @@ export const galleries = [
     "description": "Tschu Tschu, Brum Brum, *Quietsch*, Tschu Tschu",
     "images": [
       {
-        "filename": "2 U-Bahn Garnituren auf Gleisen und ein Bahnsteig davorWien.jpg",
-        "latitude": 48.225656,
-        "longitude": 16.349564,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2024,
-          "month": 4,
-          "day": 19,
-          "hour": 17,
-          "minute": 49,
-          "second": 32,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2024:04:19 17:49:32",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.225656,16.349564",
-        "alt": null
-      },
-      {
         "filename": "71er Fenster Schwarzenbergplatz Wien.jpg",
         "latitude": 48.2011,
         "longitude": 16.374708,
@@ -5962,7 +6172,47 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gersthof S-Bahn Station Wien 2.jpg",
+        "filename": "Blick über die Wetsbahntrasse und die Schmelzbrücke in Rudolfsheim-Fünfhaus Wien.jpg",
+        "latitude": 48.194561,
+        "longitude": 16.330406,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 5,
+          "day": 1,
+          "hour": 11,
+          "minute": 13,
+          "second": 9,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:05:01 11:13:09",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194561,16.330406",
+        "alt": null
+      },
+      {
+        "filename": "Donaustadtbrücke U-Bahn Station Wien.jpg",
+        "latitude": 48.211761,
+        "longitude": 16.440106,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 7,
+          "day": 21,
+          "hour": 18,
+          "minute": 32,
+          "second": 51,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:07:21 18:32:51",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211761,16.440106",
+        "alt": null
+      },
+      {
+        "filename": "Gersthof S-Bahn Station im Jugendstil von Otto Wagner Wien 2.jpg",
         "latitude": 48.230983,
         "longitude": 16.329208,
         "createDate": {
@@ -5982,7 +6232,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gersthof S-Bahn Station Wien.jpg",
+        "filename": "Gersthof S-Bahn Station im Jugendstil von Otto Wagner Wien Wien.jpg",
         "latitude": 48.231044,
         "longitude": 16.329044,
         "createDate": {
@@ -6002,7 +6252,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gleise Hauptbahnhof Wien.jpg",
+        "filename": "Gleise am Hauptbahnhof Wien.jpg",
         "latitude": 48.180231,
         "longitude": 16.386892,
         "createDate": {
@@ -6282,26 +6532,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Schmelzbrücke Wien.jpg",
-        "latitude": 48.194561,
-        "longitude": 16.330406,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2024,
-          "month": 5,
-          "day": 1,
-          "hour": 11,
-          "minute": 13,
-          "second": 9,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2024:05:01 11:13:09",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194561,16.330406",
-        "alt": null
-      },
-      {
         "filename": "Schwarzenbergplatz Wien.jpg",
         "latitude": 48.198619,
         "longitude": 16.376922,
@@ -6359,26 +6589,6 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.219372,16.449286",
-        "alt": null
-      },
-      {
-        "filename": "Stadlau S-Bahn Station Wien.jpg",
-        "latitude": null,
-        "longitude": null,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2024,
-          "month": 7,
-          "day": 21,
-          "hour": 18,
-          "minute": 32,
-          "second": 51,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2024:07:21 18:32:51",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": null,
         "alt": null
       },
       {
@@ -6502,7 +6712,27 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "U-Bahn Station Rossauer Lände Aussen Wien.jpg",
+        "filename": "U-Bahn Station Rossauer Lände Alsergrund Wien.jpg",
+        "latitude": 48.22185,
+        "longitude": 16.367456,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 7,
+          "day": 15,
+          "hour": 21,
+          "minute": 4,
+          "second": 10,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:07:15 21:04:10",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.22185,16.367456",
+        "alt": null
+      },
+      {
+        "filename": "U-Bahn Station Rossauer Lände Aussen Alsergrund Wien.jpg",
         "latitude": 48.223083,
         "longitude": 16.367325,
         "createDate": {
@@ -6522,7 +6752,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "U-Bahn Station Rossauer Lände Eingang.jpg",
+        "filename": "U-Bahn Station Rossauer Lände Eingang Alsergrund Wien.jpg",
         "latitude": 48.222844,
         "longitude": 16.367392,
         "createDate": {
@@ -6539,26 +6769,6 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.222844,16.367392",
-        "alt": null
-      },
-      {
-        "filename": "U-Bahn Station Rossauer Lände.jpg",
-        "latitude": 48.22185,
-        "longitude": 16.367456,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 7,
-          "day": 15,
-          "hour": 21,
-          "minute": 4,
-          "second": 10,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:07:15 21:04:10",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.22185,16.367456",
         "alt": null
       },
       {
@@ -6642,7 +6852,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Universität Wien Schottentor.jpg",
+        "filename": "Universität Wien Schottentor Innere Stadt Wien.jpg",
         "latitude": 48.214081,
         "longitude": 16.361719,
         "createDate": {
@@ -6662,7 +6872,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wien Hauptbahnhof Schriftzug Südtiroler Platz Wien.jpg",
+        "filename": "Wien Hauptbahnhof Schriftzug Südtiroler Platz Favoriten Wien.jpg",
         "latitude": 48.185878,
         "longitude": 16.375197,
         "createDate": {
@@ -6682,7 +6892,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Zentralfriedhof S-Bahn Staion Wien.jpg",
+        "filename": "Zentralfriedhof S-Bahn Station Simmering Wien.jpg",
         "latitude": 48.154747,
         "longitude": 16.42505,
         "createDate": {
@@ -6700,10 +6910,160 @@ export const galleries = [
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.154747,16.42505",
         "alt": null
+      },
+      {
+        "filename": "Zwei U-Bahn Garnituren auf Gleisen und ein Bahnsteig davor - Wien.jpg",
+        "latitude": 48.225656,
+        "longitude": 16.349564,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2024,
+          "month": 4,
+          "day": 19,
+          "hour": 17,
+          "minute": 49,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2024:04:19 17:49:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.225656,16.349564",
+        "alt": null
       }
     ],
     "timeframe": "11. April 2024 - 15. Juli 2025",
     "imageCount": 47
+  },
+  {
+    "name": "ostsee",
+    "slug": "ostsee",
+    "title": "Ostsee",
+    "description": "Stralsund, Rügen & Greifswald",
+    "images": [
+      {
+        "filename": "Bademeister-Hütte auf einem Ostsee-Strand bei Wampen Mecklenburg-Vorpommern.jpg",
+        "latitude": 54.133667,
+        "longitude": 13.430883,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2019,
+          "month": 4,
+          "day": 1,
+          "hour": 11,
+          "minute": 14,
+          "second": 17,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2019:04:01 11:14:17",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.133667,13.430883",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Hotel Neptun im Rostock mit Strand bei klaren blauen Himmel.jpg",
+        "latitude": 54.178906,
+        "longitude": 12.0779,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2019,
+          "month": 3,
+          "day": 30,
+          "hour": 7,
+          "minute": 35,
+          "second": 26,
+          "tzoffsetMinutes": 60,
+          "rawValue": "2019:03:30 07:35:26",
+          "zoneName": "UTC+1",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.178906,12.0779",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Sandboden und die Ostsee in Sassnitz Rügen Mecklenburg-Vorpommern.jpg",
+        "latitude": 54.514506,
+        "longitude": 13.639711,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2019,
+          "month": 4,
+          "day": 1,
+          "hour": 11,
+          "minute": 15,
+          "second": 36,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2019:04:01 11:15:36",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.514506,13.639711",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "St.-Nikolai-Kirche von Stralsund Mecklenburg-Vorpommern.jpg",
+        "latitude": 54.315369,
+        "longitude": 13.091519,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2019,
+          "month": 4,
+          "day": 1,
+          "hour": 18,
+          "minute": 42,
+          "second": 46,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2019:04:01 18:42:46",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.315369,13.091519",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Verwaiste Ferienanlage Prora auf Rügen Mecklenburg-Vorpommern.jpg",
+        "latitude": 54.442672,
+        "longitude": 13.566181,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2019,
+          "month": 3,
+          "day": 31,
+          "hour": 17,
+          "minute": 48,
+          "second": 57,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2019:03:31 17:48:57",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.442672,13.566181",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Werbeplakate für Tabakwaren und Graffitti-Gekritzel in der Innenstadt von Stralsund (Mecklenburg-Vorpommern) bei Nacht.jpg",
+        "latitude": 54.314908,
+        "longitude": 13.095556,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2019,
+          "month": 3,
+          "day": 31,
+          "hour": 22,
+          "minute": 16,
+          "second": 7,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2019:03:31 22:16:07",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.314908,13.095556",
+        "alt": "Hisilicon Balong"
+      }
+    ],
+    "timeframe": "30. März 2019 - 1. April 2019",
+    "imageCount": 6
   },
   {
     "name": "ottenstein",
@@ -8612,26 +8972,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Glan in Lehen Salzburg 2.jpg",
-        "latitude": 47.8154,
-        "longitude": 13.025222,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 5,
-          "day": 17,
-          "hour": 20,
-          "minute": 24,
-          "second": 12,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:05:17 20:24:12",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.8154,13.025222",
-        "alt": null
-      },
-      {
         "filename": "Glan in Lehen Salzburg.jpg",
         "latitude": 47.817222,
         "longitude": 13.026694,
@@ -8689,26 +9029,6 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.796172,13.025944",
-        "alt": null
-      },
-      {
-        "filename": "Haus in Lehen Salzburg 2.jpg",
-        "latitude": 47.814367,
-        "longitude": 13.026233,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 5,
-          "day": 17,
-          "hour": 20,
-          "minute": 22,
-          "second": 22,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:05:17 20:22:22",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.814367,13.026233",
         "alt": null
       },
       {
@@ -8772,7 +9092,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Parkplatz Lehen Salzburg.jpg",
+        "filename": "Parkplatz Ignaz-Harrer-Strasse Lehen Salzburg.jpg",
         "latitude": 47.811531,
         "longitude": 13.025461,
         "createDate": {
@@ -8830,10 +9150,30 @@ export const galleries = [
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.813194,13.044628",
         "alt": null
+      },
+      {
+        "filename": "Wohnhaus in Lehen Salzburg.jpg",
+        "latitude": 47.814367,
+        "longitude": 13.026233,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 5,
+          "day": 17,
+          "hour": 20,
+          "minute": 22,
+          "second": 22,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:05:17 20:22:22",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.814367,13.026233",
+        "alt": null
       }
     ],
     "timeframe": "19. Mai 2024 - 18. Mai 2025",
-    "imageCount": 16
+    "imageCount": 15
   },
   {
     "name": "sonstwo-und-allfaelliges",
@@ -9133,6 +9473,356 @@ export const galleries = [
     "imageCount": 15
   },
   {
+    "name": "valencia",
+    "slug": "valencia",
+    "title": "Valencia",
+    "description": "Gute Paella & mediterrane Elektrik.",
+    "images": [
+      {
+        "filename": "Aussen-Elektrik-Verkabelung in Valencia.jpg",
+        "latitude": 39.466347,
+        "longitude": -0.330372,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 4,
+          "day": 1,
+          "hour": 17,
+          "minute": 46,
+          "second": 4,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:04:01 17:46:04",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.466347,-0.330372",
+        "alt": null
+      },
+      {
+        "filename": "Blick über die Dächer der Innenstand von Valencia.jpg",
+        "latitude": 39.475719,
+        "longitude": -0.383778,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 4,
+          "day": 2,
+          "hour": 10,
+          "minute": 41,
+          "second": 28,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:04:02 10:41:28",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.475719,-0.383778",
+        "alt": null
+      },
+      {
+        "filename": "Bunte Fassaden.jpg",
+        "latitude": 39.461956,
+        "longitude": -0.377006,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 3,
+          "day": 31,
+          "hour": 18,
+          "minute": 43,
+          "second": 14,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:03:31 18:43:14",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.461956,-0.377006",
+        "alt": null
+      },
+      {
+        "filename": "Ciutat de les Arts i les Ciències Stufen und Moderne Architektur.jpg",
+        "latitude": 39.454339,
+        "longitude": -0.352461,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 3,
+          "day": 31,
+          "hour": 16,
+          "minute": 39,
+          "second": 54,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:03:31 16:39:54",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.454339,-0.352461",
+        "alt": null
+      },
+      {
+        "filename": "Flamingos vor einem Back im Tiergarten von Valencia.jpg",
+        "latitude": 39.478083,
+        "longitude": -0.410333,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 4,
+          "day": 2,
+          "hour": 15,
+          "minute": 12,
+          "second": 54,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:04:02 15:12:54",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.478083,-0.410333",
+        "alt": null
+      },
+      {
+        "filename": "Flughafen von Valencia Ankunft.jpg",
+        "latitude": 39.49055,
+        "longitude": -0.474058,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 3,
+          "day": 30,
+          "hour": 19,
+          "minute": 9,
+          "second": 39,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:03:30 19:09:39",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.49055,-0.474058",
+        "alt": null
+      },
+      {
+        "filename": "Hauptplatz und Markt in Valencia.jpg",
+        "latitude": 39.474261,
+        "longitude": -0.379144,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 4,
+          "day": 2,
+          "hour": 10,
+          "minute": 57,
+          "second": 52,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:04:02 10:57:52",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.474261,-0.379144",
+        "alt": null
+      },
+      {
+        "filename": "Hauptplatz und Palmen in Valencia.jpg",
+        "latitude": 39.474286,
+        "longitude": -0.378867,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 4,
+          "day": 2,
+          "hour": 10,
+          "minute": 57,
+          "second": 49,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:04:02 10:57:49",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.474286,-0.378867",
+        "alt": null
+      },
+      {
+        "filename": "Markthalle von Aussen.jpg",
+        "latitude": 39.473358,
+        "longitude": -0.378281,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 3,
+          "day": 31,
+          "hour": 13,
+          "minute": 7,
+          "second": 52,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:03:31 13:07:52",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.473358,-0.378281",
+        "alt": null
+      },
+      {
+        "filename": "Modernes Gebäude am Hafen in Valencia.jpg",
+        "latitude": 39.461644,
+        "longitude": -0.323592,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 4,
+          "day": 1,
+          "hour": 17,
+          "minute": 18,
+          "second": 43,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:04:01 17:18:43",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.461644,-0.323592",
+        "alt": null
+      },
+      {
+        "filename": "Strandpromenade von Valencia.jpg",
+        "latitude": 39.468239,
+        "longitude": -0.324186,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 4,
+          "day": 1,
+          "hour": 15,
+          "minute": 20,
+          "second": 36,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:04:01 15:20:36",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.468239,-0.324186",
+        "alt": null
+      },
+      {
+        "filename": "Street Art Mann in Valencia.jpg",
+        "latitude": 39.473506,
+        "longitude": -0.384342,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 3,
+          "day": 30,
+          "hour": 21,
+          "minute": 10,
+          "second": 39,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:03:30 21:10:39",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.473506,-0.384342",
+        "alt": null
+      },
+      {
+        "filename": "Street Art Salamander.jpg",
+        "latitude": 39.473131,
+        "longitude": -0.384878,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 3,
+          "day": 30,
+          "hour": 21,
+          "minute": 10,
+          "second": 6,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:03:30 21:10:06",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.473131,-0.384878",
+        "alt": null
+      },
+      {
+        "filename": "U-Bahn Station mit bunten Fliesen.jpg",
+        "latitude": 39.470592,
+        "longitude": -0.406297,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 4,
+          "day": 2,
+          "hour": 18,
+          "minute": 9,
+          "second": 12,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:04:02 18:09:12",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.470592,-0.406297",
+        "alt": null
+      },
+      {
+        "filename": "Umgefallener Stein-Poller.jpg",
+        "latitude": 39.475447,
+        "longitude": -0.383894,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 3,
+          "day": 30,
+          "hour": 23,
+          "minute": 20,
+          "second": 55,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:03:30 23:20:55",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.475447,-0.383894",
+        "alt": null
+      },
+      {
+        "filename": "Valencia Station North von Innen.jpg",
+        "latitude": 39.466914,
+        "longitude": -0.376903,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 3,
+          "day": 31,
+          "hour": 18,
+          "minute": 53,
+          "second": 26,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:03:31 18:53:26",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.466914,-0.376903",
+        "alt": null
+      },
+      {
+        "filename": "Zwei Buffallos liegen in der Weide am Tiergarten Valencia.jpg",
+        "latitude": 39.479428,
+        "longitude": -0.410625,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2023,
+          "month": 4,
+          "day": 2,
+          "hour": 15,
+          "minute": 36,
+          "second": 48,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2023:04:02 15:36:48",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.479428,-0.410625",
+        "alt": null
+      }
+    ],
+    "timeframe": "30. März 2023 - 2. April 2023",
+    "imageCount": 17
+  },
+  {
     "name": "waidhofen",
     "slug": "waidhofen",
     "title": "Waidhofen",
@@ -9419,7 +10109,7 @@ export const galleries = [
     "description": "An den Grenzen der Stadt & am Ende der Dinge sieht man das schöne. Einmal mit der 71er hin- und retour.",
     "images": [
       {
-        "filename": "Adler Grab Zentralfriedhof Wien.jpg",
+        "filename": "Adler Grab am Zentralfriedhof Wien.jpg",
         "latitude": 48.152783,
         "longitude": 16.435778,
         "createDate": {
@@ -9436,26 +10126,6 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.152783,16.435778",
-        "alt": null
-      },
-      {
-        "filename": "Altar Kirche Zentralfriedhof Wien.jpg",
-        "latitude": 48.156844,
-        "longitude": 16.439061,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 29,
-          "hour": 13,
-          "minute": 14,
-          "second": 5,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:29 13:14:05",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156844,16.439061",
         "alt": null
       },
       {
@@ -9479,14 +10149,34 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Arkaden Zentralfriedhof Wien.jpg",
+        "filename": "Altar der Kirche am Zentralfriedhof Wien.jpg",
+        "latitude": 48.156844,
+        "longitude": 16.439061,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 29,
+          "hour": 13,
+          "minute": 14,
+          "second": 5,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:29 13:14:05",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156844,16.439061",
+        "alt": null
+      },
+      {
+        "filename": "Arkaden am Zentralfriedhof Wien.jpg",
         "latitude": null,
         "longitude": null,
         "googleMapsUrl": null,
         "alt": null
       },
       {
-        "filename": "Ausseansicht Tor 1 Zentralfriedhof Wien.jpg",
+        "filename": "Ausseansicht von Tor 1 am Zentralfriedhof Wien.jpg",
         "latitude": 48.159,
         "longitude": 16.431983,
         "createDate": {
@@ -9506,9 +10196,29 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bänke Detail Kirche Zentralfriedhof Wien.jpg",
-        "latitude": 48.150864,
-        "longitude": 16.4381,
+        "filename": "Blau-Goldene Kuppel Seitlich in der Kirche am Zentralfriedhof Wien.jpg",
+        "latitude": 48.151558,
+        "longitude": 16.437939,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 29,
+          "hour": 13,
+          "minute": 12,
+          "second": 59,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:29 13:12:59",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151558,16.437939",
+        "alt": null
+      },
+      {
+        "filename": "Blau-Goldene Kuppel der Kirche am Zentralfriedhof Wien.jpg",
+        "latitude": 48.150914,
+        "longitude": 16.437881,
         "createDate": {
           "_ctor": "ExifDateTime",
           "year": 2025,
@@ -9516,53 +10226,13 @@ export const galleries = [
           "day": 29,
           "hour": 13,
           "minute": 11,
-          "second": 9,
+          "second": 48,
           "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:29 13:11:09",
+          "rawValue": "2025:06:29 13:11:48",
           "zoneName": "UTC+2",
           "inferredZone": true
         },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150864,16.4381",
-        "alt": null
-      },
-      {
-        "filename": "Bänke Kirche Zentralfriedhof Wien.jpg",
-        "latitude": 48.158069,
-        "longitude": 16.437931,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 29,
-          "hour": 13,
-          "minute": 13,
-          "second": 32,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:29 13:13:32",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158069,16.437931",
-        "alt": null
-      },
-      {
-        "filename": "Bänke Seitlich Kirche Zentralfriedhof Wien.jpg",
-        "latitude": 48.150867,
-        "longitude": 16.438186,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 29,
-          "hour": 13,
-          "minute": 11,
-          "second": 25,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:29 13:11:25",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150867,16.438186",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150914,16.437881",
         "alt": null
       },
       {
@@ -9603,6 +10273,66 @@ export const galleries = [
           "inferredZone": true
         },
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1511,16.4386",
+        "alt": null
+      },
+      {
+        "filename": "Bänke im Detail in der Kirche am Zentralfriedhof Wien.jpg",
+        "latitude": 48.150864,
+        "longitude": 16.4381,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 29,
+          "hour": 13,
+          "minute": 11,
+          "second": 9,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:29 13:11:09",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150864,16.4381",
+        "alt": null
+      },
+      {
+        "filename": "Bänke in der Kirche am Zentralfriedhof Wien.jpg",
+        "latitude": 48.158069,
+        "longitude": 16.437931,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 29,
+          "hour": 13,
+          "minute": 13,
+          "second": 32,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:29 13:13:32",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158069,16.437931",
+        "alt": null
+      },
+      {
+        "filename": "Bänke von der Seite in der Kirche am Zentralfriedhof Wien.jpg",
+        "latitude": 48.150867,
+        "longitude": 16.438186,
+        "createDate": {
+          "_ctor": "ExifDateTime",
+          "year": 2025,
+          "month": 6,
+          "day": 29,
+          "hour": 13,
+          "minute": 11,
+          "second": 25,
+          "tzoffsetMinutes": 120,
+          "rawValue": "2025:06:29 13:11:25",
+          "zoneName": "UTC+2",
+          "inferredZone": true
+        },
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150867,16.438186",
         "alt": null
       },
       {
@@ -9786,47 +10516,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kuppel Seitlich Zentralfriedhof Wien.jpg",
-        "latitude": 48.151558,
-        "longitude": 16.437939,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 29,
-          "hour": 13,
-          "minute": 12,
-          "second": 59,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:29 13:12:59",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151558,16.437939",
-        "alt": null
-      },
-      {
-        "filename": "Kuppel Zentral Zentralfriedhof Wien.jpg",
-        "latitude": 48.150914,
-        "longitude": 16.437881,
-        "createDate": {
-          "_ctor": "ExifDateTime",
-          "year": 2025,
-          "month": 6,
-          "day": 29,
-          "hour": 13,
-          "minute": 11,
-          "second": 48,
-          "tzoffsetMinutes": 120,
-          "rawValue": "2025:06:29 13:11:48",
-          "zoneName": "UTC+2",
-          "inferredZone": true
-        },
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150914,16.437881",
-        "alt": null
-      },
-      {
-        "filename": "Lorenzo's Grab Zentralfriedhof Wien.jpg",
+        "filename": "Lorenzo's Grab am Zentralfriedhof Wien.jpg",
         "latitude": 48.153328,
         "longitude": 16.437883,
         "createDate": {
@@ -9846,7 +10536,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Priester-Statue Kirche Zentralfriedhof Wien.jpg",
+        "filename": "Priester-Statue in der Kirche am Zentralfriedhof Wien.jpg",
         "latitude": 48.15685,
         "longitude": 16.439056,
         "createDate": {
@@ -9866,7 +10556,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Seitengang Kirche Zentralfriedhof Wien.jpg",
+        "filename": "Seitengang der Kirche am Zentralfriedhof Wien.jpg",
         "latitude": 48.156892,
         "longitude": 16.438922,
         "createDate": {
@@ -9906,7 +10596,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Zwischengang Kirche Zentralfriedhof Wien.jpg",
+        "filename": "Zwischengang der Kirche am Zentralfriedhof Wien.jpg",
         "latitude": 48.156886,
         "longitude": 16.438947,
         "createDate": {

@@ -13,6 +13,7 @@ import { cn } from "../../utils/cn";
 import { getImageUrl } from "../../utils/image";
 import Href from "../ui/Href";
 import { slugify } from "../../utils/slugify";
+import { Clock, MapPin } from "lucide-react";
 
 interface SortFilterBarProps {
   searchTerm: string;
@@ -334,7 +335,9 @@ const ListPage = () => {
                 className="w-full lg:w-1/2"
                 key={`${image.gallerySlug}-${image.filename}`}>
                 <div className="flex lg:flex-row items-center gap-4 py-2">
-                  <Link to={`/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
+                  <Link
+                    className="block min-w-24 min-h-24 lg:w-24 lg:h-24 flex-shrink-0"
+                    to={`/gallery/${image.gallerySlug}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
                     <img
                       loading="lazy"
                       src={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), 380)}
@@ -344,24 +347,33 @@ const ListPage = () => {
                       className="min-w-24 w-24 min-h-24 h-24 lg:w-24 lg:h-24 object-cover aspect-square"
                     />
                   </Link>
-                  <div className="text-sm">
-                    <h3 className="truncate text-base">{image.filename.replaceAll(".jpg", "")}</h3>
-                    <p className="truncate text-xs">Erstellt: {parseCreateDate(image.createDate)?.toLocaleString() || "Ungültiges Datum"}</p>
+                  <div className="text-sm md:pr-4">
+                    <Link to={`/gallery/${image.gallerySlug}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
+                      <h3 className="truncate text-base">{image.filename.replaceAll(".jpg", "")}</h3>
+                    </Link>
+                    <p className="flex items-center gap-2 text-xs mt-1">
+                      <Clock size={12} />{" "}
+                      <Href
+                        hasDecoration={true}
+                        to={`/app/timeline?scrollTo=${parseCreateDate(image.createDate)?.toISOString().split("T")[0]}`}>
+                        {parseCreateDate(image.createDate)?.toLocaleString() || "Ungültiges Datum"}
+                      </Href>
+                    </p>
                     {image.latitude && image.longitude ? (
-                      <>
-                        <span className="text-xs">Koordinaten: </span>
+                      <p className="flex items-center gap-2 text-xs mt-1">
+                        <MapPin size={12} />
                         <Href
                           target="_self"
                           className="text-xs"
-                          href={`/app/map?gallery=${image.gallerySlug}&image=${slugify(image.filename)}`}>
-                          {`${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}`}
+                          href={`/app/map?gallery=${image.gallerySlug}&image=${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
+                          {`${image.latitude.toFixed(3)}, ${image.longitude.toFixed(3)}`}
                         </Href>
-                      </>
+                      </p>
                     ) : (
                       <p className="truncate">Koordinaten: N/V</p>
                     )}
                     <Href
-                      className="flex items-center gap-1 text-xs"
+                      className="flex items-center gap-2 text-xs mt-1"
                       href={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), "original")}
                       download>
                       <Download size={12} />
