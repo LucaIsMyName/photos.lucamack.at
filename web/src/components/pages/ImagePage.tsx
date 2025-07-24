@@ -294,7 +294,7 @@ const ImagePage = () => {
       </div>
 
       {relatedImages.length > 0 && (
-        <div className="w-full max-w-4xl mt-8 pt-8 border-t border-neutral-500/50 border-dotted">
+        <div className="w-full pb-8 md:pb-0 max-w-4xl mt-8 pt-8 border-t border-neutral-500/50 border-dotted">
           <h2 className="text-base mb-4">Weitere Bilder</h2>
           <div className="grid grid-cols-3 md:grid-cols-6 gap-4">
             {relatedImages.map((relatedImage) => (
