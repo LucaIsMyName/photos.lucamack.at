@@ -114,7 +114,7 @@ const TimelinePage = () => {
   const dotInnerClasses = cn(`${theme === "dark" ? "bg-red-300 border border-white" : "bg-red-600 border border-black"} h-2 w-2 `);
 
   return (
-    <div className={`p-4 pl-7 sm:pl-4 md:pl-0 md:pt-6  ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
+    <div className={`p-4  pl-7 sm:pl-4 md:pl-0 md:pt-6  ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
       <title>{`Timeline | ${CONFIG.meta.title}`}</title>
       <meta
         name="description"
