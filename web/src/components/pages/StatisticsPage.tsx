@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { MapPin } from "lucide-react";
 import { getImageUrl } from "../../utils/image";
 import { cn } from "../../utils/cn";
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from "recharts";
+import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid, LineChart, Line } from "recharts";
 import MapGL, { Marker, type MapRef } from "react-map-gl/mapbox";
 import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../../galleries";
@@ -16,7 +16,6 @@ import { parseCreateDate } from "../../utils/date";
 type ImageType = (typeof galleries)[0]["images"][0] & { gallery: string; latitude: number; longitude: number };
 type CountryData = { name: string; value: number }[];
 
-
 const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }) => {
   const { theme } = useTheme();
   if (!image) return null;
@@ -25,7 +24,7 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
     <div className={cn(`border  ${theme === "dark" ? "" : ""} p-0 flex flex-col`)}>
       <Link to={`/gallery/${image.gallery}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
         <img
-          src={getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 640)}
+          src={getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 380)}
           alt={image.alt || title}
           className={cn("w-full h-40 object-cover")}
         />
@@ -93,12 +92,12 @@ const StatisticsPage = () => {
       mapRef.current.flyTo({
         center: [allImagesWithGps[0].longitude, allImagesWithGps[0].latitude],
         zoom: 10,
-        duration: 1000
+        duration: 1000,
       });
     } else {
       // Calculate bounds to fit all images
-      const longitudes = allImagesWithGps.map(img => img.longitude);
-      const latitudes = allImagesWithGps.map(img => img.latitude);
+      const longitudes = allImagesWithGps.map((img) => img.longitude);
+      const latitudes = allImagesWithGps.map((img) => img.latitude);
 
       const minLng = Math.min(...longitudes);
       const maxLng = Math.max(...longitudes);
@@ -109,14 +108,29 @@ const StatisticsPage = () => {
       mapRef.current.fitBounds(
         [
           [minLng, minLat],
-          [maxLng, maxLat]
+          [maxLng, maxLat],
         ],
         { padding: 80, duration: 1000 }
       );
     }
   }, [allImagesWithGps]);
 
-  const stats = useMemo(() => {
+  const stats = useMemo<{
+    weekdayData: { name: string; Fotos: number }[];
+    hourData: { name: string; Fotos: number }[];
+    extremePhotos: {
+      north?: ImageType;
+      south?: ImageType;
+      east?: ImageType;
+      west?: ImageType;
+    };
+    galleryData: { name: string; value: number }[];
+    seasonData: { name: string; Fotos: number }[];
+    monthData: { name: string; Fotos: number }[];
+    averageCoords: { latitude: number; longitude: number };
+    dayWithMostPhotos: { date: Date; count: number } | null;
+    dailyActivityData: { date: string; Fotos: number }[];
+  }>(() => {
     const galleryCounts: { [key: string]: number } = {};
     galleries.forEach((gallery) => {
       galleryCounts[gallery.title] = gallery.images.length;
@@ -191,7 +205,7 @@ const StatisticsPage = () => {
       if (!image.createDate) return;
       const date = parseCreateDate(image.createDate);
       if (!date) return;
-      
+
       const month = date.getMonth() + 1; // getMonth() is 0-indexed
       if (month >= 3 && month <= 5) {
         seasonCounts["Frühling"]++;
@@ -224,7 +238,74 @@ const StatisticsPage = () => {
       Fotos: count,
     }));
 
-    return { weekdayData, hourData, extremePhotos, galleryData, seasonData, monthData, averageCoords };
+    // Calculate the day with most photos
+    const dayPhotoCounts = new Map<string, { count: number; date: Date }>();
+
+    allImages.forEach((image) => {
+      if (!image.createDate) return;
+      const date = parseCreateDate(image.createDate);
+      if (!date) return;
+
+      // Format as YYYY-MM-DD to group by day
+      const dayKey = date.toISOString().split("T")[0];
+
+      if (dayPhotoCounts.has(dayKey)) {
+        dayPhotoCounts.get(dayKey)!.count++;
+      } else {
+        dayPhotoCounts.set(dayKey, { count: 1, date });
+      }
+    });
+
+    // Find the day with the most photos
+    let dayWithMostPhotos: { date: Date; count: number } | null = null;
+
+    dayPhotoCounts.forEach((data) => {
+      if (!dayWithMostPhotos || data.count > dayWithMostPhotos.count) {
+        dayWithMostPhotos = data;
+      }
+    });
+
+    // Create daily activity data for line chart
+    // First, find min and max dates
+    let minDate: Date | null = null;
+    let maxDate: Date | null = null;
+
+    dayPhotoCounts.forEach((data) => {
+      if (!minDate || data.date < minDate) minDate = data.date;
+      if (!maxDate || data.date > maxDate) maxDate = data.date;
+    });
+
+    // Create array of all days between min and max
+    const dailyActivityData: { date: string; Fotos: number }[] = [];
+
+    if (minDate && maxDate) {
+      const currentDate = new Date(minDate);
+      const endDate = new Date(maxDate);
+      while (currentDate <= endDate) {
+        const dayKey = currentDate.toISOString().split("T")[0];
+        const count = dayPhotoCounts.get(dayKey)?.count || 0;
+
+        dailyActivityData.push({
+          date: dayKey,
+          Fotos: count,
+        });
+
+        // Move to next day
+        currentDate.setDate(currentDate.getDate() + 1);
+      }
+    }
+
+    return {
+      weekdayData,
+      hourData,
+      extremePhotos,
+      galleryData,
+      seasonData,
+      monthData,
+      averageCoords,
+      dayWithMostPhotos,
+      dailyActivityData,
+    };
   }, [allImages, allImagesWithGps]);
 
   return (
@@ -289,7 +370,7 @@ const StatisticsPage = () => {
                 </div>
               </div>
             </Marker>
-            
+
             {/* Individual photo markers */}
             {allImagesWithGps.map((image, index) => (
               <Marker
@@ -470,6 +551,73 @@ const StatisticsPage = () => {
           </ResponsiveContainer>
         </div>
       </div>
+      {stats.dayWithMostPhotos && (
+        <div className="mt-8 py-4 border-y">
+          <h2 className=" mb-2">Tag mit den meisten Fotos</h2>
+          <div className="">
+            <span className="">{stats.dayWithMostPhotos.count}</span> Fotos am{" "}
+            {stats.dayWithMostPhotos.date.toLocaleDateString("de-DE", {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+              weekday: "long",
+            })}
+          </div>
+        </div>
+      )}
+
+      <div className="mt-8">
+        <h2 className="text-xl mb-4">Foto-Aktivität über Zeit</h2>
+        <div className="text-xs mb-2">
+          Von {stats.dailyActivityData[0]?.date} bis {stats.dailyActivityData[stats.dailyActivityData.length - 1]?.date}
+        </div>
+        <ResponsiveContainer
+          width="100%"
+          height={300}>
+          <LineChart
+            data={stats.dailyActivityData}
+            margin={{ top: 5, right: 20, left: 5, bottom: 5 }}>
+            <CartesianGrid
+              strokeDasharray="3 3"
+              stroke={theme === "dark" ? "#444" : "#ccc"}
+            />
+            <XAxis
+              dataKey="date"
+              stroke={theme === "dark" ? "#fff" : "#000"}
+              tickFormatter={(value) => {
+                // Only show some dates to avoid overcrowding
+                const date = new Date(value);
+                return date.getDate() === 1 ? `${date.getDate()}.${date.getMonth() + 1}` : "";
+              }}
+            />
+            <YAxis stroke={theme === "dark" ? "#fff" : "#000"} />
+            <Tooltip
+              labelFormatter={(value) => {
+                const date = new Date(value);
+                return date.toLocaleDateString("de-DE", {
+                  year: "numeric",
+                  month: "short",
+                  day: "numeric",
+                });
+              }}
+              contentStyle={{
+                backgroundColor: theme === "dark" ? "#222" : "#fff",
+                border: `1px solid ${theme === "dark" ? "#444" : "#ccc"}`,
+                borderRadius: "0px",
+              }}
+            />
+            <Line
+              type="monotone"
+              dataKey="Fotos"
+              stroke={theme === "dark" ? "#FCA5A5" : "#DC2626"}
+              strokeWidth={2}
+              dot={{ r: 1 }}
+              activeDot={{ r: 5 }}
+            />
+          </LineChart>
+        </ResponsiveContainer>
+      </div>
+
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
         <div>
           <h2 className="text-xl mb-4">Jahreszeiten-Vergleich</h2>

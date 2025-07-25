@@ -340,7 +340,7 @@ const ListPage = () => {
                     to={`/gallery/${image.gallerySlug}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
                     <img
                       loading="lazy"
-                      src={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), 380)}
+                      src={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), 160)}
                       alt={image.alt || `${image.galleryTitle} - ${image.filename}`}
                       width={128}
                       height={128}
@@ -422,7 +422,7 @@ const ListPage = () => {
                     {randomImage ? (
                       <img
                         loading="lazy"
-                        src={getImageUrl(gallery.slug, randomImage.filename.replaceAll(" ", "_"), 380)}
+                        src={getImageUrl(gallery.slug, randomImage.filename.replaceAll(" ", "_"), 160)}
                         alt={gallery.title}
                         width={128}
                         height={128}

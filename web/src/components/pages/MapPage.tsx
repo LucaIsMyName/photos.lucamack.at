@@ -313,13 +313,13 @@ const MapPage = () => {
             latitude={Number(popupInfo.image.latitude)}
             onClose={() => setPopupInfo(null)}
             closeButton={false}
-            className="z-10">
+            className="z-10 ">
             <div className={`relative bg-white text-black`}>
               <div className="relative group ">
                 <Link to={`/gallery/${popupInfo.gallery.slug}/image/${slugify(popupInfo.image.filename.replace(/\.[^/.]+$/, ""))}`}>
                   <img
                     className="w-40 md:w-64 w-full h-auto"
-                    src={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename.replaceAll(" ", "_"), 640)}
+                    src={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename.replaceAll(" ", "_"), 380)}
                     alt={popupInfo.image.alt || popupInfo.image.filename.replaceAll("_", " ").replace(".jpg", "")}
                     loading="lazy"
                   />

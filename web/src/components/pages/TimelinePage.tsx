@@ -153,14 +153,14 @@ const TimelinePage = () => {
                   <div className={dotInnerClasses}></div>
                 </div>
                 <h2 className={`sm:text-lg mb-4 sticky top-0 py-2 z-50 ${theme === "dark" ? "bg-black" : "bg-white"}`}>{new Date(date).toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" })}</h2>
-                <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-6 lg:grid-cols-7 xl:grid-cols-8 gap-2 sm:gap-4">
+                <div className="grid grid-cols-4 sm:grid-cols-6 md:grid-cols-7 lg:grid-cols-8 xl:grid-cols-10 gap-2 sm:gap-4">
                   {images.map((image) => (
                     <Link
                       to={`/gallery/${image.gallerySlug}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
                       key={image.filename}
                       className="relative group block">
                       <img
-                        src={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), 380)}
+                        src={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), 160)}
                         alt={image.alt || image.filename}
                         loading="lazy"
                         className="w-full h-full object-cover aspect-square"

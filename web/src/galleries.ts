@@ -396,6 +396,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "EIn Mensch sitzt vor einem Gebäude in der Erdbergstrasse nahe Rochusmarkt Wien.jpg",
+        "latitude": 48.202733,
+        "longitude": 16.391633,
+        "createDate": "2025-07-25T11:45:06.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202733,16.391633",
+        "alt": null
+      },
+      {
         "filename": "Echoes Schriftzug Hauptbibliothek Wien.jpg",
         "latitude": 48.203186,
         "longitude": 16.337078,
@@ -465,6 +473,14 @@ export const galleries = [
         "longitude": 16.382642,
         "createDate": "2025-05-02T15:15:17.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198947,16.382642",
+        "alt": null
+      },
+      {
+        "filename": "Eingang zu einem Gemeindebau in Wien Landstrasse nahe Rochusmarkt.jpg",
+        "latitude": 48.202319,
+        "longitude": 16.395164,
+        "createDate": "2025-07-25T11:48:30.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202319,16.395164",
         "alt": null
       },
       {
@@ -697,6 +713,14 @@ export const galleries = [
         "longitude": 16.364239,
         "createDate": "2025-07-12T15:51:41.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.249478,16.364239",
+        "alt": null
+      },
+      {
+        "filename": "Keiner-Stuben Cafe und Bar und Fussgängerdurchgang nahe Kardinal-Nagl-Platz in Wien Landstrasse.jpg",
+        "latitude": 48.198822,
+        "longitude": 16.399586,
+        "createDate": "2025-07-25T11:53:59.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198822,16.399586",
         "alt": null
       },
       {
@@ -1084,7 +1108,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Votiv von Blick Richtung Schottentor.jpg",
+        "filename": "Votivkirche von Blick Richtung Schottentor Innere Stadt Wien.jpg",
         "latitude": 48.214017,
         "longitude": 16.361797,
         "createDate": "2025-04-21T13:08:04.000Z",
@@ -1108,7 +1132,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wien Leuchtet.jpg",
+        "filename": "Wien Leuchtet Schriftzug nahe Handelskai Brigittenau.jpg",
         "latitude": 48.242217,
         "longitude": 16.384361,
         "createDate": "2025-07-15T17:17:16.000Z",
@@ -1172,6 +1196,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Wohnhaus nahe Rochusmarkt Wien Landstrasse.jpg",
+        "latitude": 48.202356,
+        "longitude": 16.394811,
+        "createDate": "2025-07-25T11:47:52.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202356,16.394811",
+        "alt": null
+      },
+      {
         "filename": "Würstelstand Burggasse Rudolfsheim-Fünfhaus Gürtel Wien.jpg",
         "latitude": 48.202117,
         "longitude": 16.337203,
@@ -1196,8 +1228,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "7. Juni 2024 - 15. Juli 2025",
-    "imageCount": 121
+    "timeframe": "7. Juni 2024 - 25. Juli 2025",
+    "imageCount": 125
   },
   {
     "name": "graz",
@@ -3498,7 +3530,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Steine am Atlantik Porto.jpg",
+        "filename": "Steine am Strand Miramar am Atlantik in Porto.jpg",
         "latitude": 41.064475,
         "longitude": -8.657561,
         "createDate": "2025-04-01T12:05:31.000Z",
@@ -3506,7 +3538,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Steine am Meer Porto.jpg",
+        "filename": "Steine am Strand Miramar in Porto.jpg",
         "latitude": 41.067256,
         "longitude": -8.657744,
         "createDate": "2025-04-01T11:45:07.000Z",
@@ -4076,7 +4108,7 @@ export const galleries = [
     "description": "Blues, Katzen & Muddy Waters.",
     "images": [
       {
-        "filename": "Chillen and der Thaya undter Trauerweiden in Waidhofen.jpg",
+        "filename": "Chillen and der Thaya unter den Trauerweiden in Waidhofen.jpg",
         "latitude": 48.811233,
         "longitude": 15.289903,
         "createDate": "2025-06-28T18:19:19.000Z",

@@ -16,7 +16,7 @@ const publicContentDir = path.join(publicDir, 'content');
 const publicGalleriesDir = path.join(publicContentDir, 'galleries');
 const apiDir = path.join(publicDir, 'api');
 
-const responsiveSizes = [380, 640, 1440];
+const responsiveSizes = [160, 380, 640, 1440];
 const baseUrl = "https://photos.lucamack.at";
 
 function slugify(text) {
