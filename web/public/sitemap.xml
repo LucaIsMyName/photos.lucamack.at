@@ -266,22 +266,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/ein-mensch-sitzt-vor-einem-gebaude-in-der-erdbergstrasse-nahe-rochusmarkt-wien</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/echoes-schriftzug-hauptbibliothek-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/ein-weg-am-donaukanal-in-wien</loc>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/ein-mensch-sitzt-vor-einem-gebaude-in-der-erdbergstrasse-nahe-rochusmarkt-in-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/ein-weg-zum-im-hyblerpark</loc>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/ein-weg-am-donaukanal-in-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -386,7 +381,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/gemma-lugner-schriftzug-gurtel-wien</loc>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/gemma-lugner-schriftzug-am-neubau-gurtel-in-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -401,7 +396,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/graffitti-tag-in-wien</loc>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/graffitti-tag-gurk-in-rudolfsheim-funfhaus-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -716,6 +711,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/weg-zum-im-hyblerpark-richtung-gasometer</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/westbahnpark-jetzt-sticker</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -791,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/graz/image/24h-shop-in-graz</loc>
+    <loc>https://photos.lucamack.at/gallery/graz/image/24h-shop-am-griesplatz-in-graz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -811,17 +811,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/graz/image/blick-auf-graz-in-der-nacht</loc>
+    <loc>https://photos.lucamack.at/gallery/graz/image/blick-auf-graz-mit-baumen-davor-bei-sonnenuntergang</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/graz/image/blick-auf-graz-und-baume</loc>
+    <loc>https://photos.lucamack.at/gallery/graz/image/blick-auf-die-grazer-innenstadt-bei-nacht</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/graz/image/blick-auf-graz-vom-schlossberg</loc>
+    <loc>https://photos.lucamack.at/gallery/graz/image/blick-auf-die-grazer-innenstandt-vom-schlossberg</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -846,7 +846,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/graz/image/fabriksgelande-bei-nacht</loc>
+    <loc>https://photos.lucamack.at/gallery/graz/image/fabriksgelande-in-der-josef-huber-gasse-bei-nacht</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/graz/image/fahnen-und-statuen-auf-dem-rathaus-der-stadt-graz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -857,11 +862,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/graz/image/grell-ausgeleuchtetes-antiquitaten-geschaft-schaufenster-bei-nacht-graz</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/graz/image/hauptplatz-fahnen-graz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -906,11 +906,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/graz/image/park-bei-nacht-graz</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/graz/image/puntigamer-laternen-graz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -926,7 +921,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/graz/image/sonnenterasse-schlossberg-graz</loc>
+    <loc>https://photos.lucamack.at/gallery/graz/image/sonnenterasse-am-schlossberg-in-graz-bei-sonnenuntergang</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/graz/image/spielplatz-josef-huber-park-nahe-eggenberger-gurtel-graz-bei-nacht</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -941,12 +941,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/graz/image/turm-am-schlossberg-graz</loc>
+    <loc>https://photos.lucamack.at/gallery/graz/image/turm-am-schlossberg-in-graz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/graz/image/uhrturm-nahaufnahme</loc>
+    <loc>https://photos.lucamack.at/gallery/graz/image/uhrturm-nahaufnahme-graz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1086,7 +1086,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/kaernten-koroska/image/kapelle-auf-einem-berg-mallnitz-karnten</loc>
+    <loc>https://photos.lucamack.at/gallery/kaernten-koroska/image/kapelle-auf-einem-berg-bei-mallnitz-in-karnten</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1281,6 +1281,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/mayday/image/hoch-der-erste-mai-am-rathausplatz-wien-innere-stadt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/mayday/image/wir-in-wien-halten-zusammen-banner-am-rathaus-in-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/mayday/image/48er-auf-der-ringstrasse-vor-dem-parlament</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1357,11 +1367,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/mayday/image/go-card-fahren-wurstelprater-wien</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/mayday/image/hoch-der-erste-mai-rathausplatz-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1457,11 +1462,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/mayday/image/turbo-autodrom-mit-familien-davor-im-wurstelprater-wien</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/mayday/image/wir-in-wien-halten-zusammen-banner-am-rathaus-in-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

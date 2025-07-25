@@ -94,7 +94,7 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, size
       className="w-full h-full">
       <img
         id={id}
-        src={imageUrl.replaceAll(" ", "_")}
+        src={encodeURI(imageUrl.replaceAll(" ", "_"))}
         srcSet={srcSet}
         sizes={sizes}
         alt={alt}

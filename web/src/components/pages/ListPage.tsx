@@ -130,6 +130,8 @@ const ListPage = () => {
   const debouncedStartDate = useDebounce(startDate, 300);
   const debouncedEndDate = useDebounce(endDate, 300);
 
+  const { theme } = useTheme();
+
   useEffect(() => {
     const newSearchParams = new URLSearchParams();
 
@@ -344,7 +346,7 @@ const ListPage = () => {
                       alt={image.alt || `${image.galleryTitle} - ${image.filename}`}
                       width={128}
                       height={128}
-                      className="min-w-24 w-24 min-h-24 h-24 lg:w-24 lg:h-24 object-cover aspect-square"
+                      className={cn(`${theme === "dark" ? "text-white bg-white/10" : "text-black bg-black/10"} lg:w-24 lg:h-24 min-w-24 min-h-24 w-24 h-24 object-cover `)}
                     />
                   </Link>
                   <div className="text-sm md:pr-4">
@@ -370,7 +372,10 @@ const ListPage = () => {
                         </Href>
                       </p>
                     ) : (
-                      <p className="truncate">Koordinaten: N/V</p>
+                      <p className="flex items-center gap-2 text-xs mt-1">
+                        <MapPin size={12} />
+                        <span className="truncate">N/A</span>
+                      </p>
                     )}
                     <Href
                       className="flex items-center gap-2 text-xs mt-1"
@@ -426,7 +431,7 @@ const ListPage = () => {
                         alt={gallery.title}
                         width={128}
                         height={128}
-                        className="lg:w-24 lg:h-24 min-w-24 min-h-24 w-24 h-24 object-cover "
+                        className={cn(`${theme === "dark" ? "text-white bg-white/10" : "text-black bg-black/10"} lg:w-24 lg:h-24 min-w-24 min-h-24 w-24 h-24 object-cover `)}
                       />
                     ) : (
                       <div className="lg:w-24 lg:h-24 w-24 h-24 bg-gray-200 dark:bg-gray-700 flex items-center justify-center">

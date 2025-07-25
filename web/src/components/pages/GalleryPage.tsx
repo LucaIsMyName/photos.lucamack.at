@@ -89,7 +89,6 @@ const GalleryPage = () => {
           name="description"
           content="Fotoserien nicht gefunden"
         />
-        <h1>Fotoserie nicht gefunden</h1>
         <div className={`text-lg py-6 text-left`}>{CONFIG.systemMessages.noGalleryFound}</div>
       </>
     );
@@ -108,11 +107,11 @@ const GalleryPage = () => {
       />
       <meta
         name="image"
-        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename.replaceAll(" ", "_"), 640)}`}
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(gallery.images[Math.floor(Math.random() * gallery.images.length)].filename.replaceAll(" ", "_")), 1440)}`}
       />
       <meta
         name="og:image"
-        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename.replaceAll(" ", "_"), 640)}`}
+        content={`${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(gallery.images[Math.floor(Math.random() * gallery.images.length)].filename.replaceAll(" ", "_")), 1440)}`}
       />
       <meta
         name="og:title"
@@ -123,8 +122,8 @@ const GalleryPage = () => {
         content={gallery.description || `Fotoserie: ${gallery.title || gallery.name}.`}
       />
       <meta
-        name="og:url"
-        content={`${CONFIG.url}${getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename.replaceAll(" ", "_"), 640)}`}
+        name="og:type"
+        content="website"
       />
       <div className="px-4 md:px-0">
         <div className="flex flex-col items-start">

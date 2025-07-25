@@ -716,21 +716,6 @@
         }
       },
       {
-        "latitude": 48.202733,
-        "longitude": 16.391633,
-        "createDate": "2025-07-25T11:45:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202733,16.391633",
-        "alt": null,
-        "name": "EIn Mensch sitzt vor einem Gebäude in der Erdbergstrasse nahe Rochusmarkt Wien.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/EIn_Mensch_sitzt_vor_einem_Gebäude_in_der_Erdbergstrasse_nahe_Rochusmarkt_Wien.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/EIn_Mensch_sitzt_vor_einem_Gebäude_in_der_Erdbergstrasse_nahe_Rochusmarkt_Wien-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/EIn_Mensch_sitzt_vor_einem_Gebäude_in_der_Erdbergstrasse_nahe_Rochusmarkt_Wien-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/EIn_Mensch_sitzt_vor_einem_Gebäude_in_der_Erdbergstrasse_nahe_Rochusmarkt_Wien-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/EIn_Mensch_sitzt_vor_einem_Gebäude_in_der_Erdbergstrasse_nahe_Rochusmarkt_Wien-1440w.jpg"
-        }
-      },
-      {
         "latitude": 48.203186,
         "longitude": 16.337078,
         "createDate": "2025-05-03T11:37:10.000Z",
@@ -746,6 +731,21 @@
         }
       },
       {
+        "latitude": 48.202733,
+        "longitude": 16.391633,
+        "createDate": "2025-07-25T11:45:06.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202733,16.391633",
+        "alt": null,
+        "name": "Ein Mensch sitzt vor einem Gebäude in der Erdbergstrasse nahe Rochusmarkt in Wien.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Mensch_sitzt_vor_einem_Gebäude_in_der_Erdbergstrasse_nahe_Rochusmarkt_in_Wien.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Mensch_sitzt_vor_einem_Gebäude_in_der_Erdbergstrasse_nahe_Rochusmarkt_in_Wien-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Mensch_sitzt_vor_einem_Gebäude_in_der_Erdbergstrasse_nahe_Rochusmarkt_in_Wien-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Mensch_sitzt_vor_einem_Gebäude_in_der_Erdbergstrasse_nahe_Rochusmarkt_in_Wien-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Mensch_sitzt_vor_einem_Gebäude_in_der_Erdbergstrasse_nahe_Rochusmarkt_in_Wien-1440w.jpg"
+        }
+      },
+      {
         "latitude": 48.226181,
         "longitude": 16.366172,
         "createDate": "2025-07-15T18:57:54.000Z",
@@ -758,21 +758,6 @@
           "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Weg_am_Donaukanal_in_Wien-380w.jpg",
           "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Weg_am_Donaukanal_in_Wien-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Weg_am_Donaukanal_in_Wien-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.181714,
-        "longitude": 16.412022,
-        "createDate": "2025-04-23T17:36:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181714,16.412022",
-        "alt": null,
-        "name": "Ein Weg zum im Hyblerpark.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Weg_zum_im_Hyblerpark.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Weg_zum_im_Hyblerpark-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Weg_zum_im_Hyblerpark-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Weg_zum_im_Hyblerpark-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Weg_zum_im_Hyblerpark-1440w.jpg"
         }
       },
       {
@@ -1081,13 +1066,13 @@
         "createDate": "2025-05-03T11:36:06.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204003,16.336544",
         "alt": null,
-        "name": "Gemma Lugner Schriftzug Gürtel Wien.jpg",
+        "name": "Gemma Lugner Schriftzug am Neubau-Gürtel in Wien.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemma_Lugner_Schriftzug_Gürtel_Wien.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemma_Lugner_Schriftzug_Gürtel_Wien-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemma_Lugner_Schriftzug_Gürtel_Wien-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemma_Lugner_Schriftzug_Gürtel_Wien-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemma_Lugner_Schriftzug_Gürtel_Wien-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemma_Lugner_Schriftzug_am_Neubau-Gürtel_in_Wien.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemma_Lugner_Schriftzug_am_Neubau-Gürtel_in_Wien-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemma_Lugner_Schriftzug_am_Neubau-Gürtel_in_Wien-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemma_Lugner_Schriftzug_am_Neubau-Gürtel_in_Wien-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemma_Lugner_Schriftzug_am_Neubau-Gürtel_in_Wien-1440w.jpg"
         }
       },
       {
@@ -1126,13 +1111,13 @@
         "createDate": null,
         "googleMapsUrl": null,
         "alt": null,
-        "name": "Graffitti-Tag in Wien.jpg",
+        "name": "Graffitti-Tag 'Gurk' in Rudolfsheim-Fünfhaus Wien.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_in_Wien.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_in_Wien-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_in_Wien-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_in_Wien-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_in_Wien-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus_Wien.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus_Wien-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus_Wien-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus_Wien-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus_Wien-1440w.jpg"
         }
       },
       {
@@ -2066,6 +2051,21 @@
         }
       },
       {
+        "latitude": 48.181714,
+        "longitude": 16.412022,
+        "createDate": "2025-04-23T17:36:15.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181714,16.412022",
+        "alt": null,
+        "name": "Weg zum im Hyblerpark Richtung Gasometer.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Weg_zum_im_Hyblerpark_Richtung_Gasometer.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Weg_zum_im_Hyblerpark_Richtung_Gasometer-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Weg_zum_im_Hyblerpark_Richtung_Gasometer-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Weg_zum_im_Hyblerpark_Richtung_Gasometer-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Weg_zum_im_Hyblerpark_Richtung_Gasometer-1440w.jpg"
+        }
+      },
+      {
         "latitude": 48.194,
         "longitude": 16.326,
         "createDate": "2024-07-21T12:34:46.000Z",
@@ -2291,13 +2291,13 @@
         "createDate": "2025-07-21T20:56:02.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066758,15.428022",
         "alt": null,
-        "name": "24h Shop in Graz.jpg",
+        "name": "24h Shop am Griesplatz in Graz.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/graz/24h_Shop_in_Graz.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/graz/24h_Shop_in_Graz-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/graz/24h_Shop_in_Graz-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/graz/24h_Shop_in_Graz-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/graz/24h_Shop_in_Graz-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/graz/24h_Shop_am_Griesplatz_in_Graz.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/graz/24h_Shop_am_Griesplatz_in_Graz-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/graz/24h_Shop_am_Griesplatz_in_Graz-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/graz/24h_Shop_am_Griesplatz_in_Graz-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/graz/24h_Shop_am_Griesplatz_in_Graz-1440w.jpg"
         }
       },
       {
@@ -2346,33 +2346,33 @@
         }
       },
       {
-        "latitude": 47.074317,
-        "longitude": 15.4366,
-        "createDate": "2025-07-21T20:22:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074317,15.4366",
-        "alt": null,
-        "name": "Blick auf Graz in der Nacht.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_in_der_Nacht.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_in_der_Nacht-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_in_der_Nacht-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_in_der_Nacht-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_in_der_Nacht-1440w.jpg"
-        }
-      },
-      {
         "latitude": 47.073394,
         "longitude": 15.437331,
         "createDate": "2025-07-21T17:55:20.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073394,15.437331",
         "alt": null,
-        "name": "Blick auf Graz und Bäume.jpg",
+        "name": "Blick auf Graz mit Bäumen davor bei Sonnenuntergang.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_und_Bäume.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_und_Bäume-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_und_Bäume-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_und_Bäume-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_und_Bäume-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_mit_Bäumen_davor_bei_Sonnenuntergang.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_mit_Bäumen_davor_bei_Sonnenuntergang-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_mit_Bäumen_davor_bei_Sonnenuntergang-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_mit_Bäumen_davor_bei_Sonnenuntergang-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_mit_Bäumen_davor_bei_Sonnenuntergang-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 47.074317,
+        "longitude": 15.4366,
+        "createDate": "2025-07-21T20:22:12.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074317,15.4366",
+        "alt": null,
+        "name": "Blick auf die Grazer Innenstadt bei Nacht.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_die_Grazer_Innenstadt_bei_Nacht.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_die_Grazer_Innenstadt_bei_Nacht-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_die_Grazer_Innenstadt_bei_Nacht-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_die_Grazer_Innenstadt_bei_Nacht-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_die_Grazer_Innenstadt_bei_Nacht-1440w.jpg"
         }
       },
       {
@@ -2381,13 +2381,13 @@
         "createDate": "2025-07-21T17:56:50.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073506,15.436625",
         "alt": null,
-        "name": "Blick auf Graz vom Schlossberg.jpg",
+        "name": "Blick auf die Grazer Innenstandt vom Schlossberg.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_vom_Schlossberg.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_vom_Schlossberg-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_vom_Schlossberg-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_vom_Schlossberg-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_Graz_vom_Schlossberg-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_die_Grazer_Innenstandt_vom_Schlossberg.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_die_Grazer_Innenstandt_vom_Schlossberg-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_die_Grazer_Innenstandt_vom_Schlossberg-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_die_Grazer_Innenstandt_vom_Schlossberg-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/graz/Blick_auf_die_Grazer_Innenstandt_vom_Schlossberg-1440w.jpg"
         }
       },
       {
@@ -2456,13 +2456,28 @@
         "createDate": "2025-07-21T21:04:00.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065747,15.422117",
         "alt": null,
-        "name": "Fabriksgelände bei Nacht.jpg",
+        "name": "Fabriksgelände in der Josef-Huber-Gasse bei Nacht.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/graz/Fabriksgelände_bei_Nacht.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/graz/Fabriksgelände_bei_Nacht-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/graz/Fabriksgelände_bei_Nacht-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/graz/Fabriksgelände_bei_Nacht-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/graz/Fabriksgelände_bei_Nacht-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/graz/Fabriksgelände_in_der_Josef-Huber-Gasse_bei_Nacht.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/graz/Fabriksgelände_in_der_Josef-Huber-Gasse_bei_Nacht-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/graz/Fabriksgelände_in_der_Josef-Huber-Gasse_bei_Nacht-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/graz/Fabriksgelände_in_der_Josef-Huber-Gasse_bei_Nacht-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/graz/Fabriksgelände_in_der_Josef-Huber-Gasse_bei_Nacht-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 47.070775,
+        "longitude": 15.43835,
+        "createDate": "2025-07-21T16:49:24.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.070775,15.43835",
+        "alt": null,
+        "name": "Fahnen und Statuen auf dem Rathaus der Stadt Graz.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/graz/Fahnen_und_Statuen_auf_dem_Rathaus_der_Stadt_Graz.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/graz/Fahnen_und_Statuen_auf_dem_Rathaus_der_Stadt_Graz-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/graz/Fahnen_und_Statuen_auf_dem_Rathaus_der_Stadt_Graz-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/graz/Fahnen_und_Statuen_auf_dem_Rathaus_der_Stadt_Graz-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/graz/Fahnen_und_Statuen_auf_dem_Rathaus_der_Stadt_Graz-1440w.jpg"
         }
       },
       {
@@ -2493,21 +2508,6 @@
           "w380": "https://photos.lucamack.at/content/galleries/graz/Grell_ausgeleuchtetes_Antiquitäten-Geschäft-Schaufenster_bei_Nacht_Graz-380w.jpg",
           "w640": "https://photos.lucamack.at/content/galleries/graz/Grell_ausgeleuchtetes_Antiquitäten-Geschäft-Schaufenster_bei_Nacht_Graz-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/graz/Grell_ausgeleuchtetes_Antiquitäten-Geschäft-Schaufenster_bei_Nacht_Graz-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 47.070775,
-        "longitude": 15.43835,
-        "createDate": "2025-07-21T16:49:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.070775,15.43835",
-        "alt": null,
-        "name": "Hauptplatz Fahnen Graz.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/graz/Hauptplatz_Fahnen_Graz.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/graz/Hauptplatz_Fahnen_Graz-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/graz/Hauptplatz_Fahnen_Graz-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/graz/Hauptplatz_Fahnen_Graz-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/graz/Hauptplatz_Fahnen_Graz-1440w.jpg"
         }
       },
       {
@@ -2631,21 +2631,6 @@
         }
       },
       {
-        "latitude": 47.065997,
-        "longitude": 15.422139,
-        "createDate": "2025-07-21T21:05:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065997,15.422139",
-        "alt": null,
-        "name": "Park bei Nacht Graz.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/graz/Park_bei_Nacht_Graz.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/graz/Park_bei_Nacht_Graz-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/graz/Park_bei_Nacht_Graz-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/graz/Park_bei_Nacht_Graz-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/graz/Park_bei_Nacht_Graz-1440w.jpg"
-        }
-      },
-      {
         "latitude": 47.066433,
         "longitude": 15.431408,
         "createDate": "2025-07-21T20:53:20.000Z",
@@ -2696,13 +2681,28 @@
         "createDate": "2025-07-21T17:59:40.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074836,15.437069",
         "alt": null,
-        "name": "Sonnenterasse Schlossberg Graz.jpg",
+        "name": "Sonnenterasse am Schlossberg in Graz bei Sonnenuntergang.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/graz/Sonnenterasse_Schlossberg_Graz.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/graz/Sonnenterasse_Schlossberg_Graz-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/graz/Sonnenterasse_Schlossberg_Graz-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/graz/Sonnenterasse_Schlossberg_Graz-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/graz/Sonnenterasse_Schlossberg_Graz-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/graz/Sonnenterasse_am_Schlossberg_in_Graz_bei_Sonnenuntergang.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/graz/Sonnenterasse_am_Schlossberg_in_Graz_bei_Sonnenuntergang-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/graz/Sonnenterasse_am_Schlossberg_in_Graz_bei_Sonnenuntergang-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/graz/Sonnenterasse_am_Schlossberg_in_Graz_bei_Sonnenuntergang-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/graz/Sonnenterasse_am_Schlossberg_in_Graz_bei_Sonnenuntergang-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 47.065997,
+        "longitude": 15.422139,
+        "createDate": "2025-07-21T21:05:06.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065997,15.422139",
+        "alt": null,
+        "name": "Spielplatz Josef-Huber-Park nähe Eggenberger Gürtel Graz bei Nacht.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/graz/Spielplatz_Josef-Huber-Park_nähe_Eggenberger_Gürtel_Graz_bei_Nacht.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/graz/Spielplatz_Josef-Huber-Park_nähe_Eggenberger_Gürtel_Graz_bei_Nacht-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/graz/Spielplatz_Josef-Huber-Park_nähe_Eggenberger_Gürtel_Graz_bei_Nacht-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/graz/Spielplatz_Josef-Huber-Park_nähe_Eggenberger_Gürtel_Graz_bei_Nacht-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/graz/Spielplatz_Josef-Huber-Park_nähe_Eggenberger_Gürtel_Graz_bei_Nacht-1440w.jpg"
         }
       },
       {
@@ -2741,13 +2741,13 @@
         "createDate": "2025-07-21T18:01:39.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.075886,15.437569",
         "alt": null,
-        "name": "Turm am Schlossberg Graz.jpg",
+        "name": "Turm am Schlossberg in Graz.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_Graz.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_Graz-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_Graz-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_Graz-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_Graz-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_in_Graz.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_in_Graz-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_in_Graz-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_in_Graz-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_in_Graz-1440w.jpg"
         }
       },
       {
@@ -2756,13 +2756,13 @@
         "createDate": "2025-07-21T17:56:56.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073611,15.437589",
         "alt": null,
-        "name": "Uhrturm Nahaufnahme.jpg",
+        "name": "Uhrturm Nahaufnahme Graz.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/graz/Uhrturm_Nahaufnahme.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/graz/Uhrturm_Nahaufnahme-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/graz/Uhrturm_Nahaufnahme-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/graz/Uhrturm_Nahaufnahme-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/graz/Uhrturm_Nahaufnahme-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/graz/Uhrturm_Nahaufnahme_Graz.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/graz/Uhrturm_Nahaufnahme_Graz-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/graz/Uhrturm_Nahaufnahme_Graz-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/graz/Uhrturm_Nahaufnahme_Graz-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/graz/Uhrturm_Nahaufnahme_Graz-1440w.jpg"
         }
       },
       {
@@ -3171,13 +3171,13 @@
         "createDate": "2025-07-19T10:15:03.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.967381,13.193314",
         "alt": null,
-        "name": "Kapelle. auf einem Berg Mallnitz Kärnten.jpg",
+        "name": "Kapelle auf einem Berg bei Mallnitz in Kärnten.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Kapelle._auf_einem_Berg_Mallnitz_Kärnten.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Kapelle._auf_einem_Berg_Mallnitz_Kärnten-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Kapelle._auf_einem_Berg_Mallnitz_Kärnten-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Kapelle._auf_einem_Berg_Mallnitz_Kärnten-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Kapelle._auf_einem_Berg_Mallnitz_Kärnten-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Kapelle_auf_einem_Berg_bei_Mallnitz_in_Kärnten.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Kapelle_auf_einem_Berg_bei_Mallnitz_in_Kärnten-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Kapelle_auf_einem_Berg_bei_Mallnitz_in_Kärnten-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Kapelle_auf_einem_Berg_bei_Mallnitz_in_Kärnten-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Kapelle_auf_einem_Berg_bei_Mallnitz_in_Kärnten-1440w.jpg"
         }
       },
       {
@@ -3736,6 +3736,36 @@
     "description": "Der 1. Mai am Wiener-Rathausplatz & im Wurstelprater. Langos, Bier & Freundschaft.",
     "images": [
       {
+        "latitude": 48.210525,
+        "longitude": 16.358989,
+        "createDate": "2025-05-01T09:22:18.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.210525,16.358989",
+        "alt": null,
+        "name": "'Hoch der erste Mai' am Rathausplatz Wien Innere Stadt.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/mayday/'Hoch_der_erste_Mai'_am_Rathausplatz_Wien_Innere_Stadt.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/mayday/'Hoch_der_erste_Mai'_am_Rathausplatz_Wien_Innere_Stadt-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/mayday/'Hoch_der_erste_Mai'_am_Rathausplatz_Wien_Innere_Stadt-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/mayday/'Hoch_der_erste_Mai'_am_Rathausplatz_Wien_Innere_Stadt-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/mayday/'Hoch_der_erste_Mai'_am_Rathausplatz_Wien_Innere_Stadt-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.211181,
+        "longitude": 16.35855,
+        "createDate": "2025-05-01T09:51:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211181,16.35855",
+        "alt": null,
+        "name": "'Wir in Wien halten zusammen' Banner am Rathaus in Wien.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/mayday/'Wir_in_Wien_halten_zusammen'_Banner_am_Rathaus_in_Wien.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/mayday/'Wir_in_Wien_halten_zusammen'_Banner_am_Rathaus_in_Wien-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/mayday/'Wir_in_Wien_halten_zusammen'_Banner_am_Rathaus_in_Wien-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/mayday/'Wir_in_Wien_halten_zusammen'_Banner_am_Rathaus_in_Wien-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/mayday/'Wir_in_Wien_halten_zusammen'_Banner_am_Rathaus_in_Wien-1440w.jpg"
+        }
+      },
+      {
         "latitude": 48.207958,
         "longitude": 16.359894,
         "createDate": "2025-05-01T09:01:48.000Z",
@@ -3973,21 +4003,6 @@
           "w380": "https://photos.lucamack.at/content/galleries/mayday/Go-Card_fahren_Wurstelprater_Wien-380w.jpg",
           "w640": "https://photos.lucamack.at/content/galleries/mayday/Go-Card_fahren_Wurstelprater_Wien-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/mayday/Go-Card_fahren_Wurstelprater_Wien-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.210525,
-        "longitude": 16.358989,
-        "createDate": "2025-05-01T09:22:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.210525,16.358989",
-        "alt": null,
-        "name": "Hoch der erste Mai Rathausplatz Wien.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/mayday/Hoch_der_erste_Mai_Rathausplatz_Wien.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/mayday/Hoch_der_erste_Mai_Rathausplatz_Wien-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/mayday/Hoch_der_erste_Mai_Rathausplatz_Wien-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/mayday/Hoch_der_erste_Mai_Rathausplatz_Wien-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/mayday/Hoch_der_erste_Mai_Rathausplatz_Wien-1440w.jpg"
         }
       },
       {
@@ -4273,21 +4288,6 @@
           "w380": "https://photos.lucamack.at/content/galleries/mayday/Turbo_Autodrom_mit_Familien_davor_im_Wurstelprater_Wien-380w.jpg",
           "w640": "https://photos.lucamack.at/content/galleries/mayday/Turbo_Autodrom_mit_Familien_davor_im_Wurstelprater_Wien-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/mayday/Turbo_Autodrom_mit_Familien_davor_im_Wurstelprater_Wien-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.211181,
-        "longitude": 16.35855,
-        "createDate": "2025-05-01T09:51:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211181,16.35855",
-        "alt": null,
-        "name": "Wir in Wien halten zusammen Banner am Rathaus in Wien.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/mayday/Wir_in_Wien_halten_zusammen_Banner_am_Rathaus_in_Wien.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/mayday/Wir_in_Wien_halten_zusammen_Banner_am_Rathaus_in_Wien-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/mayday/Wir_in_Wien_halten_zusammen_Banner_am_Rathaus_in_Wien-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/mayday/Wir_in_Wien_halten_zusammen_Banner_am_Rathaus_in_Wien-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/mayday/Wir_in_Wien_halten_zusammen_Banner_am_Rathaus_in_Wien-1440w.jpg"
         }
       },
       {

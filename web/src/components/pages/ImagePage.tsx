@@ -61,9 +61,13 @@ const ImagePage = () => {
       };
     }
   }, [foundImage]);
-
   if (!foundImage) {
-    return <div className="py-10 text-left">Bild nicht gefunden.</div>;
+    return (
+      <>
+        <div className={cn(`py-6 text-left`, CONFIG.theme.headline.one)}>Foto nicht gefunden.</div>
+        <Href to={`/gallery/${window.location.pathname.split("/")[2]}`}>Zurück zur Galerie</Href>
+      </>
+    );
   }
 
   const { image, gallery } = foundImage;
@@ -156,7 +160,7 @@ const ImagePage = () => {
       />
       <meta
         name="description"
-        content={`${image.alt || gallery.title}`}
+        content={`${gallery.title} - ${image.filename.replace(".jpg", "")}`}
       />
       <meta
         name="image"
@@ -176,7 +180,7 @@ const ImagePage = () => {
       />
       <meta
         name="og:url"
-        content={`${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), 640)}`}
+        content={`${window.location.origin}/gallery/${gallery.slug}/image/${slugify(image.filename)}`}
       />
       <div className="w-full max-w-4xl flex flex-col gap-4">
         <div className="flex items-center h-auto md:h-[85vh]">

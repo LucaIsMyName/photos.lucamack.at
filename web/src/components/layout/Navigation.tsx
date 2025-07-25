@@ -4,7 +4,7 @@ import { galleries } from "../../galleries";
 import { pages } from "../../pages";
 import type { Gallery, Page } from "../../types";
 import { useTheme } from "../../contexts/ThemeContext";
-import { Sun, Moon, ChevronUp, ChevronDown } from "lucide-react";
+import { Sun, Moon, X, ChevronUp, ChevronDown } from "lucide-react";
 import Logo from "../ui/Logo";
 
 const Navigation = () => {
@@ -72,7 +72,7 @@ const Navigation = () => {
   return (
     <>
       {/* Mobile Header */}
-      <header className={`md:hidden pt-4 px-4 flex justify-between items-center sticky top-0 z-10 ${theme === "light" ? "bg-white text-black" : "dark:bg-black dark:text-white"}`}>
+      <header className={`md:hidden py-4 px-4 flex justify-between items-center sticky top-0 z-10 ${theme === "light" ? "bg-white text-black" : "dark:bg-black dark:text-white"}`}>
         <NavLink
           to="/"
           className="text-md font-bold">
@@ -118,18 +118,7 @@ const Navigation = () => {
               onClick={() => setIsMobileMenuOpen(false)}
               className="cursor-pointer p-0"
               aria-label="Close menu">
-              <svg
-                className="w-6 h-6"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24">
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth="2"
-                  d="M6 18L18 6M6 6l12 12"
-                />
-              </svg>
+              <X size={24} />
             </button>
           </div>
           <div className="flex-grow overflow-y-auto pb-4 no-scrollbar">

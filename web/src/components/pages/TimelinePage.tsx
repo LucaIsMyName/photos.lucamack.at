@@ -158,7 +158,7 @@ const TimelinePage = () => {
                     <Link
                       to={`/gallery/${image.gallerySlug}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
                       key={image.filename}
-                      className="relative group block">
+                      className={cn(`${theme === "dark" ? "text-white bg-white/10" : "text-black bg-black/10"} relative group block`)}  >
                       <img
                         src={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), 160)}
                         alt={image.alt || image.filename}

@@ -551,72 +551,7 @@ const StatisticsPage = () => {
           </ResponsiveContainer>
         </div>
       </div>
-      {stats.dayWithMostPhotos && (
-        <div className="mt-8 py-4 border-y">
-          <h2 className=" mb-2">Tag mit den meisten Fotos</h2>
-          <div className="">
-            <span className="">{stats.dayWithMostPhotos.count}</span> Fotos am{" "}
-            {stats.dayWithMostPhotos.date.toLocaleDateString("de-DE", {
-              year: "numeric",
-              month: "long",
-              day: "numeric",
-              weekday: "long",
-            })}
-          </div>
-        </div>
-      )}
-
-      <div className="mt-8">
-        <h2 className="text-xl mb-4">Foto-Aktivität über Zeit</h2>
-        <div className="text-xs mb-2">
-          Von {stats.dailyActivityData[0]?.date} bis {stats.dailyActivityData[stats.dailyActivityData.length - 1]?.date}
-        </div>
-        <ResponsiveContainer
-          width="100%"
-          height={300}>
-          <LineChart
-            data={stats.dailyActivityData}
-            margin={{ top: 5, right: 20, left: 5, bottom: 5 }}>
-            <CartesianGrid
-              strokeDasharray="3 3"
-              stroke={theme === "dark" ? "#444" : "#ccc"}
-            />
-            <XAxis
-              dataKey="date"
-              stroke={theme === "dark" ? "#fff" : "#000"}
-              tickFormatter={(value) => {
-                // Only show some dates to avoid overcrowding
-                const date = new Date(value);
-                return date.getDate() === 1 ? `${date.getDate()}.${date.getMonth() + 1}` : "";
-              }}
-            />
-            <YAxis stroke={theme === "dark" ? "#fff" : "#000"} />
-            <Tooltip
-              labelFormatter={(value) => {
-                const date = new Date(value);
-                return date.toLocaleDateString("de-DE", {
-                  year: "numeric",
-                  month: "short",
-                  day: "numeric",
-                });
-              }}
-              contentStyle={{
-                backgroundColor: theme === "dark" ? "#222" : "#fff",
-                border: `1px solid ${theme === "dark" ? "#444" : "#ccc"}`,
-                borderRadius: "0px",
-              }}
-            />
-            <Line
-              type="monotone"
-              dataKey="Fotos"
-              stroke={theme === "dark" ? "#FCA5A5" : "#DC2626"}
-              strokeWidth={2}
-              dot={{ r: 1 }}
-              activeDot={{ r: 5 }}
-            />
-          </LineChart>
-        </ResponsiveContainer>
-      </div>
+      
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
         <div>
@@ -685,6 +620,72 @@ const StatisticsPage = () => {
             </BarChart>
           </ResponsiveContainer>
         </div>
+      </div>
+      {stats.dayWithMostPhotos && (
+        <div className="mt-8 py-4 border-y">
+          <h2 className=" mb-2">Tag mit den meisten Fotos</h2>
+          <div className="">
+            <span className="">{stats.dayWithMostPhotos.count}</span> Fotos am{" "}
+            {stats.dayWithMostPhotos.date.toLocaleDateString("de-DE", {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+              weekday: "long",
+            })}
+          </div>
+        </div>
+      )}
+
+      <div className="mt-8">
+        <h2 className="text-xl mb-4">Foto-Aktivität über Zeit</h2>
+        <div className="text-xs mb-2">
+          Von {stats.dailyActivityData[0]?.date} bis {stats.dailyActivityData[stats.dailyActivityData.length - 1]?.date}
+        </div>
+        <ResponsiveContainer
+          width="100%"
+          height={300}>
+          <LineChart
+            data={stats.dailyActivityData}
+            margin={{ top: 5, right: 20, left: 5, bottom: 5 }}>
+            <CartesianGrid
+              strokeDasharray="3 3"
+              stroke={theme === "dark" ? "#444" : "#ccc"}
+            />
+            <XAxis
+              dataKey="date"
+              stroke={theme === "dark" ? "#fff" : "#000"}
+              tickFormatter={(value) => {
+                // Only show some dates to avoid overcrowding
+                const date = new Date(value);
+                return date.getDate() === 1 ? `${date.getDate()}.${date.getMonth() + 1}` : "";
+              }}
+            />
+            <YAxis stroke={theme === "dark" ? "#fff" : "#000"} />
+            <Tooltip
+              labelFormatter={(value) => {
+                const date = new Date(value);
+                return date.toLocaleDateString("de-DE", {
+                  year: "numeric",
+                  month: "short",
+                  day: "numeric",
+                });
+              }}
+              contentStyle={{
+                backgroundColor: theme === "dark" ? "#222" : "#fff",
+                border: `1px solid ${theme === "dark" ? "#444" : "#ccc"}`,
+                borderRadius: "0px",
+              }}
+            />
+            <Line
+              type="monotone"
+              dataKey="Fotos"
+              stroke={theme === "dark" ? "#FCA5A5" : "#DC2626"}
+              strokeWidth={2}
+              dot={{ r: 1 }}
+              activeDot={{ r: 5 }}
+            />
+          </LineChart>
+        </ResponsiveContainer>
       </div>
     </div>
   );

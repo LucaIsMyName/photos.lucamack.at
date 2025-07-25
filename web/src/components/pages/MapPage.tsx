@@ -122,7 +122,7 @@ const MapPage = () => {
     points,
     bounds,
     zoom: viewState.zoom,
-    options: { radius: 75, maxZoom: 13 },
+    options: { radius: 75, maxZoom: 11 },
   });
 
   const handleMapLoad = useCallback(() => {
@@ -194,7 +194,7 @@ const MapPage = () => {
   }, []);
 
   return (
-    <div className="w-full h-screen relative overflow-hidden">
+    <div className="w-full h-full md:h-screen relative overflow-hidden">
       <title>{`Foto Karte | ${CONFIG.meta.title}`}</title>
       <meta
         name="title"

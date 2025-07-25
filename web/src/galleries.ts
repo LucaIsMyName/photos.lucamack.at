@@ -396,14 +396,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "EIn Mensch sitzt vor einem Gebäude in der Erdbergstrasse nahe Rochusmarkt Wien.jpg",
-        "latitude": 48.202733,
-        "longitude": 16.391633,
-        "createDate": "2025-07-25T11:45:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202733,16.391633",
-        "alt": null
-      },
-      {
         "filename": "Echoes Schriftzug Hauptbibliothek Wien.jpg",
         "latitude": 48.203186,
         "longitude": 16.337078,
@@ -412,19 +404,19 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Ein Mensch sitzt vor einem Gebäude in der Erdbergstrasse nahe Rochusmarkt in Wien.jpg",
+        "latitude": 48.202733,
+        "longitude": 16.391633,
+        "createDate": "2025-07-25T11:45:06.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202733,16.391633",
+        "alt": null
+      },
+      {
         "filename": "Ein Weg am Donaukanal in Wien.jpg",
         "latitude": 48.226181,
         "longitude": 16.366172,
         "createDate": "2025-07-15T18:57:54.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.226181,16.366172",
-        "alt": null
-      },
-      {
-        "filename": "Ein Weg zum im Hyblerpark.jpg",
-        "latitude": 48.181714,
-        "longitude": 16.412022,
-        "createDate": "2025-04-23T17:36:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181714,16.412022",
         "alt": null
       },
       {
@@ -588,7 +580,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gemma Lugner Schriftzug Gürtel Wien.jpg",
+        "filename": "Gemma Lugner Schriftzug am Neubau-Gürtel in Wien.jpg",
         "latitude": 48.204003,
         "longitude": 16.336544,
         "createDate": "2025-05-03T11:36:06.000Z",
@@ -612,7 +604,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Graffitti-Tag in Wien.jpg",
+        "filename": "Graffitti-Tag 'Gurk' in Rudolfsheim-Fünfhaus Wien.jpg",
         "latitude": null,
         "longitude": null,
         "createDate": null,
@@ -1116,6 +1108,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Weg zum im Hyblerpark Richtung Gasometer.jpg",
+        "latitude": 48.181714,
+        "longitude": 16.412022,
+        "createDate": "2025-04-23T17:36:15.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181714,16.412022",
+        "alt": null
+      },
+      {
         "filename": "Westbahnpark Jetzt Sticker.jpg",
         "latitude": 48.194,
         "longitude": 16.326,
@@ -1238,7 +1238,7 @@ export const galleries = [
     "description": "Hauptplatz, viele Stufen & 1 Regenbogen.",
     "images": [
       {
-        "filename": "24h Shop in Graz.jpg",
+        "filename": "24h Shop am Griesplatz in Graz.jpg",
         "latitude": 47.066758,
         "longitude": 15.428022,
         "createDate": "2025-07-21T20:56:02.000Z",
@@ -1270,15 +1270,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Blick auf Graz in der Nacht.jpg",
-        "latitude": 47.074317,
-        "longitude": 15.4366,
-        "createDate": "2025-07-21T20:22:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074317,15.4366",
-        "alt": null
-      },
-      {
-        "filename": "Blick auf Graz und Bäume.jpg",
+        "filename": "Blick auf Graz mit Bäumen davor bei Sonnenuntergang.jpg",
         "latitude": 47.073394,
         "longitude": 15.437331,
         "createDate": "2025-07-21T17:55:20.000Z",
@@ -1286,7 +1278,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Blick auf Graz vom Schlossberg.jpg",
+        "filename": "Blick auf die Grazer Innenstadt bei Nacht.jpg",
+        "latitude": 47.074317,
+        "longitude": 15.4366,
+        "createDate": "2025-07-21T20:22:12.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074317,15.4366",
+        "alt": null
+      },
+      {
+        "filename": "Blick auf die Grazer Innenstandt vom Schlossberg.jpg",
         "latitude": 47.073506,
         "longitude": 15.436625,
         "createDate": "2025-07-21T17:56:50.000Z",
@@ -1326,11 +1326,19 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fabriksgelände bei Nacht.jpg",
+        "filename": "Fabriksgelände in der Josef-Huber-Gasse bei Nacht.jpg",
         "latitude": 47.065747,
         "longitude": 15.422117,
         "createDate": "2025-07-21T21:04:00.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065747,15.422117",
+        "alt": null
+      },
+      {
+        "filename": "Fahnen und Statuen auf dem Rathaus der Stadt Graz.jpg",
+        "latitude": 47.070775,
+        "longitude": 15.43835,
+        "createDate": "2025-07-21T16:49:24.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.070775,15.43835",
         "alt": null
       },
       {
@@ -1347,14 +1355,6 @@ export const galleries = [
         "longitude": 15.436306,
         "createDate": "2025-07-21T20:32:15.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.072839,15.436306",
-        "alt": null
-      },
-      {
-        "filename": "Hauptplatz Fahnen Graz.jpg",
-        "latitude": 47.070775,
-        "longitude": 15.43835,
-        "createDate": "2025-07-21T16:49:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.070775,15.43835",
         "alt": null
       },
       {
@@ -1422,14 +1422,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Park bei Nacht Graz.jpg",
-        "latitude": 47.065997,
-        "longitude": 15.422139,
-        "createDate": "2025-07-21T21:05:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065997,15.422139",
-        "alt": null
-      },
-      {
         "filename": "Puntigamer Laternen Graz.jpg",
         "latitude": 47.066433,
         "longitude": 15.431408,
@@ -1454,11 +1446,19 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Sonnenterasse Schlossberg Graz.jpg",
+        "filename": "Sonnenterasse am Schlossberg in Graz bei Sonnenuntergang.jpg",
         "latitude": 47.074836,
         "longitude": 15.437069,
         "createDate": "2025-07-21T17:59:40.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074836,15.437069",
+        "alt": null
+      },
+      {
+        "filename": "Spielplatz Josef-Huber-Park nähe Eggenberger Gürtel Graz bei Nacht.jpg",
+        "latitude": 47.065997,
+        "longitude": 15.422139,
+        "createDate": "2025-07-21T21:05:06.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065997,15.422139",
         "alt": null
       },
       {
@@ -1478,7 +1478,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Turm am Schlossberg Graz.jpg",
+        "filename": "Turm am Schlossberg in Graz.jpg",
         "latitude": 47.075886,
         "longitude": 15.437569,
         "createDate": "2025-07-21T18:01:39.000Z",
@@ -1486,7 +1486,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Uhrturm Nahaufnahme.jpg",
+        "filename": "Uhrturm Nahaufnahme Graz.jpg",
         "latitude": 47.073611,
         "longitude": 15.437589,
         "createDate": "2025-07-21T17:56:56.000Z",
@@ -1712,7 +1712,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kapelle. auf einem Berg Mallnitz Kärnten.jpg",
+        "filename": "Kapelle auf einem Berg bei Mallnitz in Kärnten.jpg",
         "latitude": 46.967381,
         "longitude": 13.193314,
         "createDate": "2025-07-19T10:15:03.000Z",
@@ -2030,6 +2030,22 @@ export const galleries = [
     "description": "Der 1. Mai am Wiener-Rathausplatz & im Wurstelprater. Langos, Bier & Freundschaft.",
     "images": [
       {
+        "filename": "'Hoch der erste Mai' am Rathausplatz Wien Innere Stadt.jpg",
+        "latitude": 48.210525,
+        "longitude": 16.358989,
+        "createDate": "2025-05-01T09:22:18.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.210525,16.358989",
+        "alt": null
+      },
+      {
+        "filename": "'Wir in Wien halten zusammen' Banner am Rathaus in Wien.jpg",
+        "latitude": 48.211181,
+        "longitude": 16.35855,
+        "createDate": "2025-05-01T09:51:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211181,16.35855",
+        "alt": null
+      },
+      {
         "filename": "48er auf der Ringstrasse vor dem Parlament.jpg",
         "latitude": 48.207958,
         "longitude": 16.359894,
@@ -2155,14 +2171,6 @@ export const galleries = [
         "longitude": 16.397525,
         "createDate": "2025-05-01T10:29:32.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216286,16.397525",
-        "alt": null
-      },
-      {
-        "filename": "Hoch der erste Mai Rathausplatz Wien.jpg",
-        "latitude": 48.210525,
-        "longitude": 16.358989,
-        "createDate": "2025-05-01T09:22:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.210525,16.358989",
         "alt": null
       },
       {
@@ -2315,14 +2323,6 @@ export const galleries = [
         "longitude": 16.399642,
         "createDate": "2025-05-01T10:34:53.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215039,16.399642",
-        "alt": null
-      },
-      {
-        "filename": "Wir in Wien halten zusammen Banner am Rathaus in Wien.jpg",
-        "latitude": 48.211181,
-        "longitude": 16.35855,
-        "createDate": "2025-05-01T09:51:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211181,16.35855",
         "alt": null
       },
       {
