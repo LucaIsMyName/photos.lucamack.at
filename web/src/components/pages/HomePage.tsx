@@ -55,7 +55,7 @@ const HomePage = () => {
             className="block w-full h-full">
             <Image
               src={imageDetails.src}
-              alt={imageDetails.src.split("/").pop()?.replace(".jpg", "") || ""}
+              alt={(imageDetails.src.split("/").pop()?.replace(".jpg", "") + " / " || "") + "Fotoserie: " + (galleries.find((g) => g.slug === imageDetails.slug)?.title || "")}
               width={imageDetails.width || 1920}
               height={imageDetails.height || 1080}
               sizes="100vw"
@@ -64,7 +64,7 @@ const HomePage = () => {
             />
           </Link>
         ) : (
-          <div className="text-center">Lade Foto...</div>
+          <div className="absolute inset-0 flex items-center justify-center">Lade Foto...</div>
         )}
       </div>
     </div>

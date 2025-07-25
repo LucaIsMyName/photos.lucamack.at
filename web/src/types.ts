@@ -1,3 +1,4 @@
+// Legacy format - will be replaced with string format
 export interface ExifDateTime {
   _ctor: string;
   year: number;
@@ -12,6 +13,9 @@ export interface ExifDateTime {
   inferredZone: boolean;
 }
 
+// New type that allows both the legacy object format and the new string format
+export type DateFormat = ExifDateTime | string | null;
+
 export interface Image {
   width?: number;
   height?: number;
@@ -20,7 +24,7 @@ export interface Image {
   longitude?: number | null;
   date?: string;
   camera?: string;
-  createDate?: ExifDateTime;
+  createDate?: DateFormat;
   gallery?: string; // The slug of the gallery this image belongs to
   googleMapsUrl?: string | null;
   alt?: string | null;
@@ -35,7 +39,7 @@ export interface Gallery {
   images: Image[];
   timeframe?: string;
   imageCount?: number;
-  createDate?: ExifDateTime;
+  createDate?: DateFormat;
 }
 
 export interface Page {
@@ -47,4 +51,5 @@ export interface Page {
 export interface RelatedImage extends Image {
   gallerySlug: string;
   distance?: number;
+  isRandomPick?: boolean;
 }

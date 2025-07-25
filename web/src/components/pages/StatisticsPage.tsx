@@ -1,52 +1,21 @@
-import { useMemo, useState, useEffect } from "react";
+import { useMemo, useState, useEffect, useRef, useCallback } from "react";
 import { Link } from "react-router-dom";
 import { MapPin } from "lucide-react";
 import { getImageUrl } from "../../utils/image";
 import { cn } from "../../utils/cn";
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid, Treemap } from "recharts";
-import MapGL, { Marker } from "react-map-gl/mapbox";
+import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from "recharts";
+import MapGL, { Marker, type MapRef } from "react-map-gl/mapbox";
 import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../../galleries";
 import { useTheme } from "../../contexts/ThemeContext";
 import { CONFIG } from "../../config";
 import { groupImagesByCountry } from "../../utils/geocoding";
 import { slugify } from "../../utils/slugify";
+import { parseCreateDate } from "../../utils/date";
 
 type ImageType = (typeof galleries)[0]["images"][0] & { gallery: string; latitude: number; longitude: number };
 type CountryData = { name: string; value: number }[];
 
-const CustomizedContent = (props: any) => {
-  const { x, y, width, height, name } = props;
-
-  return (
-    <g>
-      <rect
-        x={x}
-        y={y}
-        width={width}
-        height={height}
-        style={{
-          fill: props.theme === "dark" ? "#FCA5A5" : "#DC2626",
-          stroke: props.theme === "dark" ? "#000" : "#fff",
-          strokeWidth: 2,
-          strokeOpacity: 1,
-        }}
-      />
-      {width > 80 && height > 25 && (
-        <text
-          x={x + width / 2}
-          y={y + height / 2 + 7}
-          textAnchor="middle"
-          fill={"#fff"}
-          fontSize={9}
-          style={{ textTransform: "uppercase" }}
-          stroke="none">
-          {name}
-        </text>
-      )}
-    </g>
-  );
-};
 
 const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }) => {
   const { theme } = useTheme();
@@ -62,20 +31,19 @@ const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }
         />
       </Link>
       <div className="p-3 relative">
-        <h3 className="text-[11px]">
-          {title}</h3>
+        <h3 className="text-[11px]">{title}</h3>
         <p className=" my-2 text-base leading-4 truncate">{image.filename}</p>
-        <div className="flex items-center mt-2">
-          <div className="text-xs mt-1">
-            <p>
+        <div className="flex items-center gap-2 mt-2">
+          <Link
+            className=""
+            to={`/app/map?gallery=${image.gallery}&image=${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
+            <MapPin size={12} />
+          </Link>
+          <div className="text-[11px] mt-1 flex items-center">
+            <p className="truncate ">
               Lat: {image.latitude.toFixed(6)}, {image.longitude.toFixed(6)}
             </p>
           </div>
-          <Link
-            className="absolute bottom-4 right-4"
-            to={`/app/map?gallery=${image.gallery}&image=${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
-            <MapPin size={14} />
-          </Link>
         </div>
       </div>
     </div>
@@ -86,6 +54,7 @@ const StatisticsPage = () => {
   const { theme } = useTheme();
   const [countryData, setCountryData] = useState<CountryData>([]);
   const [isLoadingCountries, setIsLoadingCountries] = useState(true);
+  const mapRef = useRef<MapRef>(null);
 
   const allImages = useMemo(() => {
     return galleries.flatMap((gallery) =>
@@ -113,6 +82,37 @@ const StatisticsPage = () => {
 
     if (allImagesWithGps.length > 0) {
       fetchCountryData();
+    }
+  }, [allImagesWithGps]);
+
+  const handleMapLoad = useCallback(() => {
+    if (!mapRef.current || allImagesWithGps.length === 0) return;
+
+    if (allImagesWithGps.length === 1) {
+      // If only one image, center on it with a reasonable zoom
+      mapRef.current.flyTo({
+        center: [allImagesWithGps[0].longitude, allImagesWithGps[0].latitude],
+        zoom: 10,
+        duration: 1000
+      });
+    } else {
+      // Calculate bounds to fit all images
+      const longitudes = allImagesWithGps.map(img => img.longitude);
+      const latitudes = allImagesWithGps.map(img => img.latitude);
+
+      const minLng = Math.min(...longitudes);
+      const maxLng = Math.max(...longitudes);
+      const minLat = Math.min(...latitudes);
+      const maxLat = Math.max(...latitudes);
+
+      // Fit bounds with padding
+      mapRef.current.fitBounds(
+        [
+          [minLng, minLat],
+          [maxLng, maxLat]
+        ],
+        { padding: 80, duration: 1000 }
+      );
     }
   }, [allImagesWithGps]);
 
@@ -167,12 +167,8 @@ const StatisticsPage = () => {
 
     allImages.forEach((image) => {
       if (!image.createDate) return;
-      const date = new Date(
-        image.createDate.year,
-        image.createDate.month - 1, // Month is 0-indexed in JS Date
-        image.createDate.day,
-        image.createDate.hour
-      );
+      const date = parseCreateDate(image.createDate);
+      if (!date) return;
       weekdayCounts[date.getDay()]++;
       hourCounts[date.getHours()]++;
     });
@@ -193,7 +189,10 @@ const StatisticsPage = () => {
 
     allImages.forEach((image) => {
       if (!image.createDate) return;
-      const month = image.createDate.month;
+      const date = parseCreateDate(image.createDate);
+      if (!date) return;
+      
+      const month = date.getMonth() + 1; // getMonth() is 0-indexed
       if (month >= 3 && month <= 5) {
         seasonCounts["Frühling"]++;
       } else if (month >= 6 && month <= 8) {
@@ -214,7 +213,9 @@ const StatisticsPage = () => {
     const monthCounts = Array(12).fill(0);
     allImages.forEach((image) => {
       if (!image.createDate) return;
-      monthCounts[image.createDate.month - 1]++;
+      const date = parseCreateDate(image.createDate);
+      if (!date) return;
+      monthCounts[date.getMonth()]++;
     });
 
     const monthNames = ["Jan", "Feb", "Mär", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"];
@@ -267,21 +268,37 @@ const StatisticsPage = () => {
           className="border"
           style={{ height: "400px" }}>
           <MapGL
+            ref={mapRef}
             initialViewState={{
               longitude: stats.averageCoords.longitude,
               latitude: stats.averageCoords.latitude,
               zoom: 5,
             }}
+            onLoad={handleMapLoad}
             style={{ width: "100%", height: "100%" }}
             mapStyle={theme === "dark" ? CONFIG.mapbox.style.dark : CONFIG.mapbox.style.light}
             mapboxAccessToken={CONFIG.mapbox.accessToken}>
+            {/* Center marker */}
             <Marker
               longitude={stats.averageCoords.longitude}
               latitude={stats.averageCoords.latitude}>
-              <div className=" border">
-                <div className="w-3 h-3 bg-red-500 "></div>
+              <div className="">
+                <div className="w-8 h-8 relative">
+                  <div className={`w-[1.5px] h-full rounded-full ${theme === "dark" ? "bg-white" : "bg-black"} rotate-45 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2`}></div>
+                  <div className={`w-[1.5px] h-full rounded-full ${theme === "dark" ? "bg-white" : "bg-black"} -rotate-45 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2`}></div>
+                </div>
               </div>
             </Marker>
+            
+            {/* Individual photo markers */}
+            {allImagesWithGps.map((image, index) => (
+              <Marker
+                key={`photo-marker-${index}`}
+                longitude={image.longitude}
+                latitude={image.latitude}>
+                <div className={cn(`w-1.5 h-1.5 rounded-full rotate-45 opacity-50`, theme === "dark" ? "bg-red-300" : "bg-red-600")}></div>
+              </Marker>
+            ))}
           </MapGL>
         </div>
       </div>
@@ -290,12 +307,41 @@ const StatisticsPage = () => {
         <ResponsiveContainer
           width="100%"
           height={400}>
-          <Treemap
+          <BarChart
             data={stats.galleryData}
-            dataKey="value"
-            nameKey="name"
-            content={<CustomizedContent theme={theme} />}
-          />
+            margin={{ top: 5, right: 20, left: 20, bottom: 5 }}>
+            <CartesianGrid
+              strokeWidth={1}
+              strokeDasharray="3 3"
+              stroke={theme === "dark" ? "#fff" : "#000"}
+            />
+            <XAxis
+              dataKey="name"
+              stroke={theme === "dark" ? "#fff" : "#000"}
+              angle={-45}
+              textAnchor="end"
+              height={100}
+              interval={0}
+            />
+            <YAxis
+              strokeWidth={1}
+              stroke={theme === "dark" ? "#fff" : "#000"}
+            />
+            <Tooltip
+              cursor={{ fill: "rgba(128, 128, 128, 0.2)" }}
+              contentStyle={{
+                backgroundColor: theme === "dark" ? "#222" : "#fff",
+                border: `1px solid ${theme === "dark" ? "#444" : "#ccc"}`,
+                borderRadius: "0px",
+              }}
+            />
+            <Bar
+              dataKey="value"
+              name="Fotos"
+              fill={theme === "dark" ? "#FCA5A5" : "#DC2626"}
+              radius={[0, 0, 0, 0]}
+            />
+          </BarChart>
         </ResponsiveContainer>
       </div>
 
@@ -307,12 +353,41 @@ const StatisticsPage = () => {
           {isLoadingCountries ? (
             <div className="flex items-center justify-center h-full">Lade Länderdaten...</div>
           ) : (
-            <Treemap
+            <BarChart
               data={countryData}
-              dataKey="value"
-              nameKey="name"
-              content={<CustomizedContent theme={theme} />}
-            />
+              margin={{ top: 5, right: 20, left: 20, bottom: 5 }}>
+              <CartesianGrid
+                strokeWidth={1}
+                strokeDasharray="3 3"
+                stroke={theme === "dark" ? "#fff" : "#000"}
+              />
+              <XAxis
+                dataKey="name"
+                stroke={theme === "dark" ? "#fff" : "#000"}
+                angle={-45}
+                textAnchor="end"
+                height={100}
+                interval={0}
+              />
+              <YAxis
+                strokeWidth={1}
+                stroke={theme === "dark" ? "#fff" : "#000"}
+              />
+              <Tooltip
+                cursor={{ fill: "rgba(128, 128, 128, 0.2)" }}
+                contentStyle={{
+                  backgroundColor: theme === "dark" ? "#222" : "#fff",
+                  border: `1px solid ${theme === "dark" ? "#444" : "#ccc"}`,
+                  borderRadius: "0px",
+                }}
+              />
+              <Bar
+                dataKey="value"
+                name="Fotos"
+                fill={theme === "dark" ? "#FCA5A5" : "#DC2626"}
+                radius={[0, 0, 0, 0]}
+              />
+            </BarChart>
           )}
         </ResponsiveContainer>
       </div>

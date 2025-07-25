@@ -2,6 +2,9 @@
   RewriteEngine On
   RewriteBase /
   
+  # Redirect old image URLs to homepage (permanent redirect)
+  RewriteRule ^image/(.*)$ / [R=301,L]
+  
   # Redirects for legacy routes to new /app/ routes
   RewriteRule ^map/?$ /app/map [R=301,L]
   RewriteRule ^list/?$ /app/list [R=301,L]

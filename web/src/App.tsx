@@ -27,7 +27,7 @@ function App() {
   }, [location]);
 
   return (
-    <div className={`bg-black font-geist h-screen w-screen flex flex-col md:flex-row gap-4 md:gap-8 ${theme === "light" ? "bg-white text-black" : "bg-black text-white"}`}>
+    <div className={`bg-black font-geist overflow-hidden  h-screen w-screen flex flex-col md:flex-row gap-4 md:gap-8 ${theme === "light" ? "bg-white text-black" : "bg-black text-white"}`}>
       <Navigation />
       <main
         ref={mainRef}

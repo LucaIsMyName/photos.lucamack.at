@@ -141,7 +141,11 @@ async function generateGalleries() {
               latitude = tags.GPSLatitude;
               longitude = tags.GPSLongitude;
             }
-            createDate = tags.DateTimeOriginal || tags.CreateDate;
+            const exifDate = tags.DateTimeOriginal || tags.CreateDate;
+            // Convert ExifDateTime object to ISO string format
+            if (exifDate) {
+              createDate = exifDate.toDate().toISOString();
+            }
             const comment = tags.UserComment || tags.ImageDescription || tags.Description || tags.Comment;
             alt = typeof comment === 'string' && comment.trim() !== '' ? comment.trim() : null;
           }
@@ -164,7 +168,16 @@ async function generateGalleries() {
     });
 
     const dates = uniqueImageFilesData
-      .map(img => (img.createDate ? img.createDate.toDate() : null))
+      .map(img => {
+        if (!img.createDate) return null;
+        // Handle both string format and legacy object format
+        if (typeof img.createDate === 'string') {
+          return new Date(img.createDate);
+        } else if (img.createDate.toDate) {
+          return img.createDate.toDate();
+        }
+        return null;
+      })
       .filter(Boolean);
 
     let timeframe = '';

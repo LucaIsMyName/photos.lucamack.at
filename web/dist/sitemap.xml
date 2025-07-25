@@ -1531,7 +1531,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/nhm/image/schaukasten-in-einem-ausstelungsraum</loc>
+    <loc>https://photos.lucamack.at/gallery/nhm/image/schaukasten-in-einem-ausstellungsraum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1881,7 +1881,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/parks/image/ein-metallzaun-vor-eiener-klien-hutte-in-wien-simmering</loc>
+    <loc>https://photos.lucamack.at/gallery/parks/image/ein-metallzaun-vor-einer-kleinen-hutte-in-wien-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1902,6 +1902,16 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/parks/image/park-simmering-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/parks/image/votivkirche-mit-fussganger-und-hund-davor</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/parks/image/votivkirche-und-grunflache-mit-fussweg-und-den-dahinterliegenden-hausern</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1946,22 +1956,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/porto/image/blume-porto</loc>
+    <loc>https://photos.lucamack.at/gallery/porto/image/blume-am-strand-miramar-in-porto</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/porto/image/casa-de-musica-porto-2</loc>
+    <loc>https://photos.lucamack.at/gallery/porto/image/casa-de-musica-porto-seitlich</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/porto/image/casa-de-musica-porto-3</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/porto/image/casa-de-musica-porto</loc>
+    <loc>https://photos.lucamack.at/gallery/porto/image/casa-de-musica-porto-sudeingang</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2011,7 +2016,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/porto/image/jugendstil-mcdonalds-in-porto</loc>
+    <loc>https://photos.lucamack.at/gallery/porto/image/jugendstil-imperialer-mcdonalds-in-porto</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2036,12 +2041,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/porto/image/platz-baume-porto</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/porto/image/platz-harry-potter-bucherei-porto</loc>
+    <loc>https://photos.lucamack.at/gallery/porto/image/platz-aliados-mit-baumen-in-porto</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2051,7 +2051,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/porto/image/platz-mit-palmen-porto</loc>
+    <loc>https://photos.lucamack.at/gallery/porto/image/platz-mit-palmen-in-porto</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/porto/image/platz-nahe-harry-potter-bucherei-in-porto</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2206,7 +2211,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/porto/image/super-bock-werbung-am-flughafen-porto</loc>
+    <loc>https://photos.lucamack.at/gallery/porto/image/super-bock-werbe-banner-am-flughafen-porto</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2291,6 +2296,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/salzburg/image/ausblick-uber-salzburg-stadt-von-der-imlauer-sky-bar</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/salzburg/image/baptisten-kirche-in-lehen-salzburg</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -2331,7 +2341,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/salzburg/image/kunst-salzburg</loc>
+    <loc>https://photos.lucamack.at/gallery/salzburg/image/kunst-in-der-nahe-der-stiegl-brauerei-in-salzburg</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2376,7 +2386,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/einkaufswagerl-wien</loc>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/durch-den-turspion-in-simmering-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2396,7 +2406,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/henry-kissinger-portraits-in-der-diplomatischen-akademie-wien-kunstlerisch-gedreht</loc>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/henry-kissinger-portraits-in-der-diplomatischen-akademie-in-wien-kunstlerisch-gedreht</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2431,7 +2441,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/turspion-simmering-wien</loc>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/umgefallenes-einkaufswagerl-in-der-geiselbergstrasse-simmeringwien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
