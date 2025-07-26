@@ -8,7 +8,7 @@ export const galleries = [
     "description": "Spazierengehen - Vom Hauptbahnhof nach Simmering. Technologie, Bäume & Panzer.",
     "images": [
       {
-        "filename": "Altes Backsteingebäude - Wien.jpg",
+        "filename": "Altes Backsteingebäude.jpg",
         "latitude": 48.183372,
         "longitude": 16.392936,
         "createDate": "2025-04-20T09:37:08.000Z",
@@ -16,7 +16,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bürohaus und Zaun - Wien.jpg",
+        "filename": "Bürohaus und Zaun.jpg",
         "latitude": 48.182872,
         "longitude": 16.391942,
         "createDate": "2025-04-20T09:35:42.000Z",
@@ -24,7 +24,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gebäude und 3 Fahnenmäste - Wien.jpg",
+        "filename": "Gebäude und 3 Fahnenmäste.jpg",
         "latitude": 48.182206,
         "longitude": 16.390731,
         "createDate": "2025-04-20T09:34:16.000Z",
@@ -32,7 +32,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gebäude und Bäume - Wien.jpg",
+        "filename": "Gebäude und Bäume.jpg",
         "latitude": 48.182494,
         "longitude": 16.391122,
         "createDate": "2025-04-20T09:34:43.000Z",
@@ -40,7 +40,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gebäude und Fussgängerweg - Wien.jpg",
+        "filename": "Gebäude und Fussgängerweg.jpg",
         "latitude": 48.181928,
         "longitude": 16.390136,
         "createDate": "2025-04-20T09:33:23.000Z",
@@ -48,7 +48,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Panzer vor einer Garage - Wien.jpg",
+        "filename": "Panzer vor einer Garage.jpg",
         "latitude": 48.1827,
         "longitude": 16.394,
         "createDate": "2025-04-20T09:38:46.000Z",
@@ -56,7 +56,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Radioturm Arsenal - Wien.jpg",
+        "filename": "Radioturm Arsenal.jpg",
         "latitude": 48.181961,
         "longitude": 16.390197,
         "createDate": "2025-04-20T09:33:32.000Z",
@@ -64,7 +64,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Radioturm mit Auto davor - Wien.jpg",
+        "filename": "Radioturm mit Auto davor.jpg",
         "latitude": 48.183189,
         "longitude": 16.393117,
         "createDate": "2025-04-20T09:37:36.000Z",
@@ -72,7 +72,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Rote Wand und Bäume Arsenal - Wien.jpg",
+        "filename": "Rote Wand und Bäume Arsenal.jpg",
         "latitude": 48.183075,
         "longitude": 16.392044,
         "createDate": "2025-04-20T09:35:58.000Z",
@@ -80,7 +80,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Weg im Arsenal mit Laterne - Wien.jpg",
+        "filename": "Weg im Arsenal mit Laterne.jpg",
         "latitude": 48.182044,
         "longitude": 16.390392,
         "createDate": "2025-04-20T09:33:45.000Z",
@@ -88,7 +88,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Zaun mit Gebäude - Wien.jpg",
+        "filename": "Zaun mit Gebäude.jpg",
         "latitude": 48.182694,
         "longitude": 16.391783,
         "createDate": "2025-04-20T09:35:20.000Z",
@@ -228,7 +228,39 @@ export const galleries = [
     "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner, Licht & Schatten.",
     "images": [
       {
-        "filename": "3 Müllcontainer, eine Mauer und Himmel Lorystrasse Simmering Wien.jpg",
+        "filename": "'Ruhe' Graffitti in der Simmeringer-Hauptstrasse.jpg",
+        "latitude": 48.173625,
+        "longitude": 16.417025,
+        "createDate": "2025-07-14T18:46:56.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173625,16.417025",
+        "alt": null
+      },
+      {
+        "filename": "'Simmering Regiert' Graffitti.jpg",
+        "latitude": 48.168475,
+        "longitude": 16.417436,
+        "createDate": "2025-05-02T15:45:41.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168475,16.417436",
+        "alt": null
+      },
+      {
+        "filename": "'Westbahnpark Jetzt' Sticker.jpg",
+        "latitude": 48.194,
+        "longitude": 16.326,
+        "createDate": "2024-07-21T12:34:46.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194,16.326",
+        "alt": null
+      },
+      {
+        "filename": "'Wienliebe' Schriftzug Rathauspark.jpg",
+        "latitude": 48.209703,
+        "longitude": 16.359542,
+        "createDate": "2025-05-05T07:40:03.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209703,16.359542",
+        "alt": null
+      },
+      {
+        "filename": "3 Müllcontainer, eine Mauer und Himmel in der Lorystrasse.jpg",
         "latitude": 48.169175,
         "longitude": 16.416547,
         "createDate": "2025-05-02T15:47:03.000Z",
@@ -236,7 +268,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Albertina Dachterasse Clubbing und Statue Innere Stadt Wien.jpg",
+        "filename": "Albertina Dachterasse Clubbing und Statue.jpg",
         "latitude": 48.204525,
         "longitude": 16.368617,
         "createDate": "2025-05-28T17:41:54.000Z",
@@ -244,19 +276,19 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Anton-Schmid-Hof Wien Landstrasse 2.jpg",
-        "latitude": 48.199006,
-        "longitude": 16.378989,
-        "createDate": "2025-05-02T15:18:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199006,16.378989",
-        "alt": null
-      },
-      {
-        "filename": "Anton-Schmid-Hof Wien Landstrasse.jpg",
+        "filename": "Anton-Schmid-Hof Wien .jpg",
         "latitude": 48.199047,
         "longitude": 16.380219,
         "createDate": "2025-05-02T15:17:15.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199047,16.380219",
+        "alt": null
+      },
+      {
+        "filename": "Anton-Schmid-Hof Wien 2.jpg",
+        "latitude": 48.199006,
+        "longitude": 16.378989,
+        "createDate": "2025-05-02T15:18:12.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199006,16.378989",
         "alt": null
       },
       {
@@ -284,7 +316,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Auto-Auffahrt Wien Simmering.jpg",
+        "filename": "Auto-Auffahrt.jpg",
         "latitude": 48.160858,
         "longitude": 16.430958,
         "createDate": "2025-06-01T06:33:11.000Z",
@@ -292,7 +324,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "BIM Station und Neubau-Gürtel Burggasse Rudolfsheim-Fünfhaus .jpg",
+        "filename": "BIM Station und Neubau-Gürtel bei der Burggasse.jpg",
         "latitude": 48.201878,
         "longitude": 16.337144,
         "createDate": "2025-05-03T11:40:59.000Z",
@@ -300,7 +332,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Basketballkäfig Wien Simmering.jpg",
+        "filename": "Basketballkäfig.jpg",
         "latitude": 48.168469,
         "longitude": 16.418028,
         "createDate": "2025-07-15T06:00:21.000Z",
@@ -308,7 +340,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Baum und Basketball-Käfig in Wien Simmering.jpg",
+        "filename": "Baum und Basketball-Käfig.jpg",
         "latitude": 48.168353,
         "longitude": 16.417556,
         "createDate": "2025-05-02T14:32:45.000Z",
@@ -316,7 +348,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Baustelle Wien Leopoldstadt Wien.jpg",
+        "filename": "Baustelle Wien.jpg",
         "latitude": 48.223858,
         "longitude": 16.393481,
         "createDate": "2025-07-15T16:37:12.000Z",
@@ -332,7 +364,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Beachvolleyball am Donaukanal Wien.jpg",
+        "filename": "Beachvolleyball am Donaukanal.jpg",
         "latitude": 48.22055,
         "longitude": 16.367939,
         "createDate": "2025-07-15T19:06:07.000Z",
@@ -348,7 +380,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bier Werbeaufsteller Wien Brigittenau.jpg",
+        "filename": "Bier Werbeaufsteller.jpg",
         "latitude": 48.231892,
         "longitude": 16.390422,
         "createDate": "2025-07-15T16:49:41.000Z",
@@ -356,7 +388,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Blume in Aschenbecher Simmering Wien.jpg",
+        "filename": "Blume in Aschenbecher.jpg",
         "latitude": 48.169839,
         "longitude": 16.420197,
         "createDate": "2025-05-29T06:47:21.000Z",
@@ -364,7 +396,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Brücke auf Donauinsel Wien.jpg",
+        "filename": "Brücke zur Donauinsel.jpg",
         "latitude": 48.254253,
         "longitude": 16.380364,
         "createDate": "2025-05-10T12:33:48.000Z",
@@ -372,7 +404,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bus beim Enkplatz:Zentrum Simmering.jpg",
+        "filename": "Bus beim Enkplatz.jpg",
         "latitude": 48.174133,
         "longitude": 16.416464,
         "createDate": "2025-04-25T15:39:08.000Z",
@@ -380,7 +412,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bäume und Dächer am Donaukanal Innere Stadt Wien.jpg",
+        "filename": "Bäume und Dächer am Donaukanal.jpg",
         "latitude": 48.221325,
         "longitude": 16.367619,
         "createDate": "2025-07-15T19:04:59.000Z",
@@ -396,6 +428,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Der Karl-Marx-Hof.jpg",
+        "latitude": 48.249478,
+        "longitude": 16.364239,
+        "createDate": "2025-07-12T15:51:41.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.249478,16.364239",
+        "alt": null
+      },
+      {
         "filename": "Echoes Schriftzug Hauptbibliothek Wien.jpg",
         "latitude": 48.203186,
         "longitude": 16.337078,
@@ -404,7 +444,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Ein Mensch sitzt vor einem Gebäude in der Erdbergstrasse nahe Rochusmarkt in Wien.jpg",
+        "filename": "Ein Mensch sitzt vor einem Gebäude in der Erdbergstrasse.jpg",
         "latitude": 48.202733,
         "longitude": 16.391633,
         "createDate": "2025-07-25T11:45:06.000Z",
@@ -412,7 +452,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Ein Weg am Donaukanal in Wien.jpg",
+        "filename": "Ein Weg am Donaukanal.jpg",
         "latitude": 48.226181,
         "longitude": 16.366172,
         "createDate": "2025-07-15T18:57:54.000Z",
@@ -420,7 +460,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eingang Belvedere am Rennweg - Wien 2.jpg",
+        "filename": "Eingang Belvedere am Rennweg 2.jpg",
         "latitude": 48.197028,
         "longitude": 16.380692,
         "createDate": "2025-05-02T15:22:49.000Z",
@@ -428,19 +468,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eingang Belvedere am Rennweg - Wien.jpg",
+        "filename": "Eingang Belvedere am Rennweg.jpg",
         "latitude": 48.197242,
         "longitude": 16.379769,
         "createDate": "2025-05-02T15:21:55.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.197242,16.379769",
-        "alt": null
-      },
-      {
-        "filename": "Eingang Gemeindebau Wien Simmering.jpg",
-        "latitude": 48.1684,
-        "longitude": 16.423244,
-        "createDate": "2025-06-29T10:35:58.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1684,16.423244",
         "alt": null
       },
       {
@@ -452,6 +484,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Eingang Gemeindebau.jpg",
+        "latitude": 48.1684,
+        "longitude": 16.423244,
+        "createDate": "2025-06-29T10:35:58.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1684,16.423244",
+        "alt": null
+      },
+      {
         "filename": "Eingang und Wand-Uhr des Wiener Westbahnhofes.jpg",
         "latitude": 48.19725,
         "longitude": 16.337719,
@@ -460,7 +500,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eingang zu einem Gemeindebau Innenhof und Park Wien.jpg",
+        "filename": "Eingang zu einem Gemeindebau Innenhof und Park.jpg",
         "latitude": 48.198947,
         "longitude": 16.382642,
         "createDate": "2025-05-02T15:15:17.000Z",
@@ -468,7 +508,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eingang zu einem Gemeindebau in Wien Landstrasse nahe Rochusmarkt.jpg",
+        "filename": "Eingang zu einem Gemeindebau nahe Rochusmarkt.jpg",
         "latitude": 48.202319,
         "longitude": 16.395164,
         "createDate": "2025-07-25T11:48:30.000Z",
@@ -476,7 +516,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eingangstor Gemeindebau Wien Simmering Lorystrasse.jpg",
+        "filename": "Eingangstor uz einem Gemeindebau in der Lorystrasse.jpg",
         "latitude": 48.169717,
         "longitude": 16.416008,
         "createDate": "2025-07-13T13:28:32.000Z",
@@ -484,7 +524,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Engel-Statuen in Wien Landstrassse.jpg",
+        "filename": "Engel-Statuen.jpg",
         "latitude": 48.200011,
         "longitude": 16.387772,
         "createDate": "2025-05-02T15:09:08.000Z",
@@ -492,7 +532,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Evangelische Kirche Wien Simmering - Ehamgasse.jpg",
+        "filename": "Evangelische Kirche Simmering.jpg",
         "latitude": 48.169978,
         "longitude": 16.414044,
         "createDate": "2025-07-13T13:26:15.000Z",
@@ -500,7 +540,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fabriksgelände in Wien Brigittenau.jpg",
+        "filename": "Fabriksgelände in Brigittenau.jpg",
         "latitude": 48.236172,
         "longitude": 16.385681,
         "createDate": "2025-07-15T16:57:28.000Z",
@@ -508,7 +548,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fassade Cafe Weidinger am Neubau-Gürtel in Rudolfsheim-Fünfhaus Wien.jpg",
+        "filename": "Fassade Cafe Weidinger am Neubau-Gürtel.jpg",
         "latitude": 48.20415,
         "longitude": 16.336481,
         "createDate": "2025-05-03T11:35:35.000Z",
@@ -516,15 +556,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fassade Haus Wien Ottakring.jpg",
-        "latitude": 48.207714,
-        "longitude": 16.309044,
-        "createDate": "2025-06-07T15:53:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207714,16.309044",
-        "alt": null
-      },
-      {
-        "filename": "Fassade eine Wohnhauses in Wien Landstrasse.jpg",
+        "filename": "Fassade eine Wohnhauses in der Landstrasse.jpg",
         "latitude": 48.199825,
         "longitude": 16.387606,
         "createDate": "2025-05-02T15:09:24.000Z",
@@ -532,7 +564,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fassade und Baum Widholz-Hof Simmering Wien.jpg",
+        "filename": "Fassade eines Hauses in Ottakring.jpg",
+        "latitude": 48.207714,
+        "longitude": 16.309044,
+        "createDate": "2025-06-07T15:53:35.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207714,16.309044",
+        "alt": null
+      },
+      {
+        "filename": "Fassade und Baum Widholz-Hof.jpg",
         "latitude": 48.174494,
         "longitude": 16.410661,
         "createDate": "2025-05-10T11:24:28.000Z",
@@ -540,19 +580,19 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fussgängerweg Lorystrasse Simmering Wien.jpg",
-        "latitude": 48.168872,
-        "longitude": 16.416753,
-        "createDate": "2025-05-02T14:31:53.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168872,16.416753",
-        "alt": null
-      },
-      {
-        "filename": "Fussgängerweg Simmering Wien.jpg",
+        "filename": "Fussgängerweg Simmering.jpg",
         "latitude": 48.168983,
         "longitude": 16.418758,
         "createDate": "2025-05-04T05:09:06.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168983,16.418758",
+        "alt": null
+      },
+      {
+        "filename": "Fussgängerweg neben der Lorystrasse.jpg",
+        "latitude": 48.168872,
+        "longitude": 16.416753,
+        "createDate": "2025-05-02T14:31:53.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168872,16.416753",
         "alt": null
       },
       {
@@ -572,7 +612,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gemeindebau Wien.jpg",
+        "filename": "Gemeindebau in Wien.jpg",
         "latitude": 48.198017,
         "longitude": 16.335486,
         "createDate": "2025-05-03T10:58:21.000Z",
@@ -580,7 +620,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gemma Lugner Schriftzug am Neubau-Gürtel in Wien.jpg",
+        "filename": "Gemma Lugner Schriftzug am Neubau-Gürtel.jpg",
         "latitude": 48.204003,
         "longitude": 16.336544,
         "createDate": "2025-05-03T11:36:06.000Z",
@@ -588,7 +628,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Geschlossene Trafik in der U-Bahn Station Volkstheater Wien.jpg",
+        "filename": "Geschlossene Trafik in der U-Bahn Station Volkstheater.jpg",
         "latitude": 48.2066,
         "longitude": 16.360278,
         "createDate": "2025-07-14T18:17:11.000Z",
@@ -596,7 +636,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gleise und Radioturm in Wien in der nähe des Hauptbahnhofes Wien.jpg",
+        "filename": "Gleise und Radioturm in Wien in der nähe des Hauptbahnhofes.jpg",
         "latitude": 48.182247,
         "longitude": 16.384303,
         "createDate": "2025-04-20T09:24:05.000Z",
@@ -604,7 +644,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Graffitti-Tag 'Gurk' in Rudolfsheim-Fünfhaus Wien.jpg",
+        "filename": "Graffitti-Tag 'Gurk' in Rudolfsheim-Fünfhaus.jpg",
         "latitude": null,
         "longitude": null,
         "createDate": null,
@@ -612,7 +652,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Grünfläche, Bäume und Wohnhaus am Kanal Simmering Wien.jpg",
+        "filename": "Grünfläche, Bäume und Wohnhaus am Kanal Simmering.jpg",
         "latitude": 48.158444,
         "longitude": 16.424008,
         "createDate": "2025-05-29T08:20:20.000Z",
@@ -628,7 +668,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Handelskai Durchgang Wehlistrasse - Wien.jpg",
+        "filename": "Handelskai Durchgang Wehlistrasse.jpg",
         "latitude": 48.241619,
         "longitude": 16.384619,
         "createDate": "2025-04-21T16:29:50.000Z",
@@ -644,7 +684,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Handelskai S-Bahnstation Außenansicht Brigittenau Wien.jpg",
+        "filename": "Handelskai S-Bahnstation Außenansicht Brigittenau.jpg",
         "latitude": 48.241947,
         "longitude": 16.384497,
         "createDate": "2025-05-10T15:27:25.000Z",
@@ -660,7 +700,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Hauptbibliothek und U-Bahn Burggasse Gürtel Wien.jpg",
+        "filename": "Hauptbibliothek und U-Bahn Burggasse Gürtel.jpg",
         "latitude": 48.203336,
         "longitude": 16.337169,
         "createDate": "2025-05-03T11:36:57.000Z",
@@ -684,7 +724,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Innenansicht Albert Schweitzer Haus in Wien Alsergrund auf die Garnisongasse - Alser Strasse.jpg",
+        "filename": "Innenansicht Albert Schweitzer Haus auf die Garnisongasse.jpg",
         "latitude": 48.216494,
         "longitude": 16.356881,
         "createDate": "2025-05-02T10:48:43.000Z",
@@ -692,7 +732,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kaos Graffitti in Wien Brigittenau.jpg",
+        "filename": "Kaos Graffitti in Brigittenau.jpg",
         "latitude": 48.239161,
         "longitude": 16.384072,
         "createDate": "2025-07-15T17:03:01.000Z",
@@ -700,15 +740,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Karl-Marx-Hof in Wien.jpg",
-        "latitude": 48.249478,
-        "longitude": 16.364239,
-        "createDate": "2025-07-12T15:51:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.249478,16.364239",
-        "alt": null
-      },
-      {
-        "filename": "Keiner-Stuben Cafe und Bar und Fussgängerdurchgang nahe Kardinal-Nagl-Platz in Wien Landstrasse.jpg",
+        "filename": "Keiner-Stuben Cafe und Bar und Fussgängerdurchgang nahe Kardinal-Nagl-Platz.jpg",
         "latitude": 48.198822,
         "longitude": 16.399586,
         "createDate": "2025-07-25T11:53:59.000Z",
@@ -724,7 +756,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kleines Haus Simmering Wien.jpg",
+        "filename": "Kleines Haus in Simmering.jpg",
         "latitude": 48.160958,
         "longitude": 16.430558,
         "createDate": "2025-05-29T08:48:57.000Z",
@@ -732,7 +764,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kleines Materl und Graffitti Geiselbergstrasse Simmering Wien.jpg",
+        "filename": "Kleines Materl und Graffitti in der Geiselbergstrasse .jpg",
         "latitude": 48.174889,
         "longitude": 16.407264,
         "createDate": "2025-05-10T11:27:15.000Z",
@@ -740,7 +772,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Krankenhauseingang in Wien Brigittenau.jpg",
+        "filename": "Krankenhauseingang in Brigittenau.jpg",
         "latitude": 48.237469,
         "longitude": 16.383744,
         "createDate": "2025-07-15T16:59:57.000Z",
@@ -756,7 +788,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "LKW Schottentor Wien.jpg",
+        "filename": "LKW beim Schottentor .jpg",
         "latitude": 48.213772,
         "longitude": 16.362475,
         "createDate": "2025-06-02T06:38:55.000Z",
@@ -764,7 +796,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Laterne auf Betonplatz Wien Brigittenau.jpg",
+        "filename": "Laterne auf Betonplatz Brigittenau.jpg",
         "latitude": 48.231597,
         "longitude": 16.390483,
         "createDate": "2025-07-15T16:49:03.000Z",
@@ -780,7 +812,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Lorystrasse 77 Simmering Wien.jpg",
+        "filename": "Lorystrasse 77 in Simmering .jpg",
         "latitude": 48.168781,
         "longitude": 16.417067,
         "createDate": "2025-05-02T15:46:13.000Z",
@@ -812,7 +844,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Neubaugürtel und BIM Station Burggasse Rudolfsheim-Fünfhaus Wien.jpg",
+        "filename": "Neubaugürtel und BIM Station bei Burggasse in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.201675,
         "longitude": 16.336906,
         "createDate": "2025-05-03T11:39:26.000Z",
@@ -820,7 +852,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Obst-Stand Rochhusgasse Landstrasse Wien.jpg",
+        "filename": "Obst-Stand bei der Rochhusgasse.jpg",
         "latitude": 48.202786,
         "longitude": 16.391031,
         "createDate": "2025-05-22T06:15:35.000Z",
@@ -860,14 +892,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Ruhe Graffitti Wien Simmering.jpg",
-        "latitude": 48.173625,
-        "longitude": 16.417025,
-        "createDate": "2025-07-14T18:46:56.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173625,16.417025",
-        "alt": null
-      },
-      {
         "filename": "S-Bahn Station Grillgassse.jpg",
         "latitude": 48.167317,
         "longitude": 16.407628,
@@ -884,7 +908,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "S-Bahn Unterführung Fahrradweg Simmering Wien.jpg",
+        "filename": "S-Bahn Unterführung Fahrradweg.jpg",
         "latitude": 48.166492,
         "longitude": 16.413928,
         "createDate": "2025-05-25T16:23:31.000Z",
@@ -892,7 +916,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Schaufenster Magistrat Rudolfsheim-Fünfhaus Wien.jpg",
+        "filename": "Schaufenster des Magistrats in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.204619,
         "longitude": 16.332464,
         "createDate": "2025-05-03T11:12:53.000Z",
@@ -900,7 +924,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Schild der Garage Capricorn am Schwedenplatz Wien.jpg",
+        "filename": "Schild der Garage Capricorn am Schwedenplatz.jpg",
         "latitude": 48.211242,
         "longitude": 16.379222,
         "createDate": "2025-04-26T14:45:27.000Z",
@@ -908,7 +932,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Schottenring Richtung Leopolstadt Wien.jpg",
+        "filename": "Schottenring Richtung Leopolstadt.jpg",
         "latitude": 48.218053,
         "longitude": 16.369561,
         "createDate": "2025-07-15T19:10:43.000Z",
@@ -916,7 +940,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Schottenring Wien.jpg",
+        "filename": "Schottenring.jpg",
         "latitude": 48.217422,
         "longitude": 16.370125,
         "createDate": "2025-07-15T19:12:19.000Z",
@@ -924,19 +948,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Schriftzug Salvador-Allende-Hof Simmering Wien.jpg",
+        "filename": "Schriftzug Salvador-Allende-Hof in Simmering .jpg",
         "latitude": 48.162964,
         "longitude": 16.427539,
         "createDate": "2025-06-01T06:38:19.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.162964,16.427539",
-        "alt": null
-      },
-      {
-        "filename": "Simmering Regiert Graffitti Wien.jpg",
-        "latitude": 48.168475,
-        "longitude": 16.417436,
-        "createDate": "2025-05-02T15:45:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168475,16.417436",
         "alt": null
       },
       {
@@ -948,7 +964,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Sonnenschutzkonstruke Burggasse Rudolfsheim-Fünfhaus Wien.jpg",
+        "filename": "Sonnenschutzkonstruke bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.201789,
         "longitude": 16.337164,
         "createDate": "2025-05-03T11:40:07.000Z",
@@ -956,7 +972,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Spielplatz Wien Donaukanal.jpg",
+        "filename": "Spielplatz am Donaukanal.jpg",
         "latitude": 48.224244,
         "longitude": 16.367244,
         "createDate": "2025-07-15T19:00:46.000Z",
@@ -964,7 +980,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Statue Garnisongasse Wien.jpg",
+        "filename": "Statue Garnisongasse.jpg",
         "latitude": 48.216647,
         "longitude": 16.356478,
         "createDate": "2025-07-07T08:17:24.000Z",
@@ -980,7 +996,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Statuen auf einem Gemeindebau in Wien.jpg",
+        "filename": "Statuen auf einem Gemeindebau.jpg",
         "latitude": 48.199325,
         "longitude": 16.383333,
         "createDate": "2025-05-02T15:14:35.000Z",
@@ -988,7 +1004,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Stiege und Brücke Wien Brigittenau.jpg",
+        "filename": "Stiege und Brücke in Brigittenau.jpg",
         "latitude": 48.231067,
         "longitude": 16.391083,
         "createDate": "2025-07-15T16:48:10.000Z",
@@ -996,7 +1012,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Stillgelegte Fabrik Wien Brigittenau.jpg",
+        "filename": "Stillgelegte Fabrik in Brigittenau.jpg",
         "latitude": 48.235122,
         "longitude": 16.386739,
         "createDate": "2025-07-15T16:55:38.000Z",
@@ -1020,7 +1036,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Strasse und Grünfläche Geiereckstrasse Wien Simmering.jpg",
+        "filename": "Strasse und Grünfläche in der Geiereckstrasse.jpg",
         "latitude": 48.186092,
         "longitude": 16.413206,
         "createDate": "2025-06-01T13:40:51.000Z",
@@ -1028,7 +1044,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Strasse und Unterführung in Wien Landstrasse.jpg",
+        "filename": "Strasse und Unterführung in Landstrasse.jpg",
         "latitude": 48.198953,
         "longitude": 16.38115,
         "createDate": "2025-05-02T15:16:41.000Z",
@@ -1044,7 +1060,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Südtirolerplatz - Hauptbahnhof Wien.jpg",
+        "filename": "Südtirolerplatz - Hauptbahnhof.jpg",
         "latitude": 48.185756,
         "longitude": 16.375636,
         "createDate": "2025-06-05T17:40:07.000Z",
@@ -1052,7 +1068,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Tankstelle Wien Zentralfriedhof Simmering.jpg",
+        "filename": "Tankstelle Wien Zentralfriedhof in Simmering.jpg",
         "latitude": 48.1596,
         "longitude": 16.432486,
         "createDate": "2025-06-03T17:44:10.000Z",
@@ -1060,7 +1076,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Treppe Hauptbibliothek Burggasse Rudolfsheim-Fünfhaus Wien.jpg",
+        "filename": "Treppe Hauptbibliothek bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.202117,
         "longitude": 16.337203,
         "createDate": "2025-05-03T11:41:49.000Z",
@@ -1068,7 +1084,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "U-Bahn Quader Symbol Burggase Rudolfsheim-Fünfhaus Wien.jpg",
+        "filename": "U-Bahn Quader Symbol bei der Burggase in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.201886,
         "longitude": 16.337122,
         "createDate": "2025-05-03T11:40:48.000Z",
@@ -1100,7 +1116,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Votivkirche von Blick Richtung Schottentor Innere Stadt Wien.jpg",
+        "filename": "Votivkirche von Blick Richtung Schottentor.jpg",
         "latitude": 48.214017,
         "longitude": 16.361797,
         "createDate": "2025-04-21T13:08:04.000Z",
@@ -1113,14 +1129,6 @@ export const galleries = [
         "longitude": 16.412022,
         "createDate": "2025-04-23T17:36:15.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181714,16.412022",
-        "alt": null
-      },
-      {
-        "filename": "Westbahnpark Jetzt Sticker.jpg",
-        "latitude": 48.194,
-        "longitude": 16.326,
-        "createDate": "2024-07-21T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194,16.326",
         "alt": null
       },
       {
@@ -1164,14 +1172,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wienliebe Schriftzug Rathauspark Innere Stadt Wien.jpg",
-        "latitude": 48.209703,
-        "longitude": 16.359542,
-        "createDate": "2025-05-05T07:40:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209703,16.359542",
-        "alt": null
-      },
-      {
         "filename": "Wohnhaus Wien Simmering Braunhubergasse.jpg",
         "latitude": 48.169789,
         "longitude": 16.412914,
@@ -1196,7 +1196,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wohnhaus nahe Rochusmarkt Wien Landstrasse.jpg",
+        "filename": "Wohnhaus nahe Rochusmarkt in der Landstrasse.jpg",
         "latitude": 48.202356,
         "longitude": 16.394811,
         "createDate": "2025-07-25T11:47:52.000Z",
@@ -1204,7 +1204,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Würstelstand Burggasse Rudolfsheim-Fünfhaus Gürtel Wien.jpg",
+        "filename": "Würstelstand bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.202117,
         "longitude": 16.337203,
         "createDate": "2025-05-03T11:41:45.000Z",
@@ -1238,7 +1238,15 @@ export const galleries = [
     "description": "Hauptplatz, viele Stufen & 1 Regenbogen.",
     "images": [
       {
-        "filename": "24h Shop am Griesplatz in Graz.jpg",
+        "filename": "'Würde' Graffitti Schriftzug.jpg",
+        "latitude": 47.065875,
+        "longitude": 15.423422,
+        "createDate": "2025-07-21T21:20:39.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065875,15.423422",
+        "alt": null
+      },
+      {
+        "filename": "24h Shop am Griesplatz .jpg",
         "latitude": 47.066758,
         "longitude": 15.428022,
         "createDate": "2025-07-21T20:56:02.000Z",
@@ -1251,6 +1259,14 @@ export const galleries = [
         "longitude": 15.444769,
         "createDate": "2025-07-21T17:05:09.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.068131,15.444769",
+        "alt": null
+      },
+      {
+        "filename": "Aufgang über Schlossbergstiege zum Uhrturm und Kasematten.jpg",
+        "latitude": 47.073247,
+        "longitude": 15.436944,
+        "createDate": "2025-07-21T17:52:02.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073247,15.436944",
         "alt": null
       },
       {
@@ -1310,7 +1326,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Chinesischer Pavillon am Schlossberg Graz.jpg",
+        "filename": "Chinesischer Pavillon am Schlossberg.jpg",
         "latitude": 47.074708,
         "longitude": 15.437128,
         "createDate": "2025-07-21T17:59:21.000Z",
@@ -1342,7 +1358,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Geschäftslokal Baustelle Graz.jpg",
+        "filename": "Geschäftslokal Baustelle in der Innenstadt.jpg",
         "latitude": 47.069631,
         "longitude": 15.438239,
         "createDate": "2025-07-21T20:39:44.000Z",
@@ -1350,7 +1366,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Grell ausgeleuchtetes Antiquitäten-Geschäft-Schaufenster bei Nacht Graz.jpg",
+        "filename": "Grell ausgeleuchtetes Antiquitäten-Geschäft-Schaufenster bei Nacht.jpg",
         "latitude": 47.072839,
         "longitude": 15.436306,
         "createDate": "2025-07-21T20:32:15.000Z",
@@ -1358,7 +1374,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Hauptplatz Graz bei Nacht.jpg",
+        "filename": "Hauptplatz bei Nacht.jpg",
         "latitude": 47.0708,
         "longitude": 15.438069,
         "createDate": "2025-07-21T20:37:39.000Z",
@@ -1366,15 +1382,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Häuser Schlossbergstiege bei Nacht Graz.jpg",
-        "latitude": 47.073219,
-        "longitude": 15.437003,
-        "createDate": "2025-07-21T20:30:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073219,15.437003",
-        "alt": null
-      },
-      {
-        "filename": "Hochhaus in Graz.jpg",
+        "filename": "Hochhaus am Griesplatz.jpg",
         "latitude": 47.066406,
         "longitude": 15.431294,
         "createDate": "2025-07-21T20:53:17.000Z",
@@ -1382,15 +1390,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Jakominiplatz Graz.jpg",
-        "latitude": 47.067531,
-        "longitude": 15.442253,
-        "createDate": "2025-07-21T17:02:29.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.067531,15.442253",
+        "filename": "Häuser Schlossbergstiege bei Nacht.jpg",
+        "latitude": 47.073219,
+        "longitude": 15.437003,
+        "createDate": "2025-07-21T20:30:49.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073219,15.437003",
         "alt": null
       },
       {
-        "filename": "Jakominiplatz bei Regen Graz.jpg",
+        "filename": "Jakominiplatz bei Regen.jpg",
         "latitude": 47.066986,
         "longitude": 15.441636,
         "createDate": "2025-07-21T17:43:58.000Z",
@@ -1398,7 +1406,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kasematten Konzert Graz.jpg",
+        "filename": "Jakominiplatz.jpg",
+        "latitude": 47.067531,
+        "longitude": 15.442253,
+        "createDate": "2025-07-21T17:02:29.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.067531,15.442253",
+        "alt": null
+      },
+      {
+        "filename": "Kasematten Konzert.jpg",
         "latitude": 47.076211,
         "longitude": 15.437172,
         "createDate": "2025-07-21T19:08:39.000Z",
@@ -1414,7 +1430,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Ortsschild Graz Autobahnabfahrt Süd Graz.jpg",
+        "filename": "Ortsschild Graz Autobahnabfahrt Süd.jpg",
         "latitude": 47.032167,
         "longitude": 15.412222,
         "createDate": "2025-07-21T13:57:03.000Z",
@@ -1422,7 +1438,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Puntigamer Laternen Graz.jpg",
+        "filename": "Puntigamer Laternen.jpg",
         "latitude": 47.066433,
         "longitude": 15.431408,
         "createDate": "2025-07-21T20:53:20.000Z",
@@ -1435,14 +1451,6 @@ export const galleries = [
         "longitude": 15.437558,
         "createDate": "2025-07-21T17:57:13.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073692,15.437558",
-        "alt": null
-      },
-      {
-        "filename": "Schlossbergstiege Graz.jpg",
-        "latitude": 47.073247,
-        "longitude": 15.436944,
-        "createDate": "2025-07-21T17:52:02.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073247,15.436944",
         "alt": null
       },
       {
@@ -1462,7 +1470,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Statue Hauptplatz Graz.jpg",
+        "filename": "Statue am Hauptplatz.jpg",
         "latitude": 47.071042,
         "longitude": 15.438156,
         "createDate": "2025-07-21T16:50:43.000Z",
@@ -1470,7 +1478,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Tennis Graffitti Graz.jpg",
+        "filename": "Tennis Graffitti.jpg",
         "latitude": 47.065986,
         "longitude": 15.423369,
         "createDate": "2025-07-21T21:00:59.000Z",
@@ -1478,7 +1486,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Turm am Schlossberg in Graz.jpg",
+        "filename": "Turm am Schlossberg in.jpg",
         "latitude": 47.075886,
         "longitude": 15.437569,
         "createDate": "2025-07-21T18:01:39.000Z",
@@ -1486,7 +1494,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Uhrturm Nahaufnahme Graz.jpg",
+        "filename": "Uhrturm Nahaufnahme.jpg",
         "latitude": 47.073611,
         "longitude": 15.437589,
         "createDate": "2025-07-21T17:56:56.000Z",
@@ -1494,7 +1502,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Uhrturm von Graz bei Nacht.jpg",
+        "filename": "Uhrturm bei Nacht.jpg",
         "latitude": 47.07385,
         "longitude": 15.437303,
         "createDate": "2025-07-21T20:25:43.000Z",
@@ -1502,7 +1510,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Uhrturm von der Innenstadt aus Graz.jpg",
+        "filename": "Uhrturm von der Innenstadt aus.jpg",
         "latitude": 47.072767,
         "longitude": 15.436361,
         "createDate": "2025-07-21T20:32:45.000Z",
@@ -1510,19 +1518,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "WWF Beton Plakate Graz.jpg",
+        "filename": "WWF Beton Plakate.jpg",
         "latitude": 47.066281,
         "longitude": 15.425953,
         "createDate": "2025-07-21T20:58:28.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066281,15.425953",
-        "alt": null
-      },
-      {
-        "filename": "Würde Graffitti Graz.jpg",
-        "latitude": 47.065875,
-        "longitude": 15.423422,
-        "createDate": "2025-07-21T21:20:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065875,15.423422",
         "alt": null
       }
     ],
@@ -1536,7 +1536,15 @@ export const galleries = [
     "description": "Ab in den Süden. *Proti jugu.*",
     "images": [
       {
-        "filename": "A1 Hauptzentrale Feuerstiegen Klagenfurt Kärnten.jpg",
+        "filename": "'Ich liebe dich' Graffitti Klagenfurt.jpg",
+        "latitude": 46.616161,
+        "longitude": 14.308681,
+        "createDate": "2025-07-20T18:06:55.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.616161,14.308681",
+        "alt": null
+      },
+      {
+        "filename": "A1 Hauptzentrale Feuerstiegen in Klagenfurt.jpg",
         "latitude": 46.621958,
         "longitude": 14.305153,
         "createDate": "2025-07-20T17:43:42.000Z",
@@ -1544,7 +1552,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Arkardenhof Klagenfurt Kärnten.jpg",
+        "filename": "Arkardenhof Klagenfurt.jpg",
         "latitude": 46.625503,
         "longitude": 14.307908,
         "createDate": "2025-07-21T07:35:22.000Z",
@@ -1552,7 +1560,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Basketballkorb über einer Haustür Klagenfurt Kärnten.jpg",
+        "filename": "Basketballkorb über einer Haustür Klagenfurt.jpg",
         "latitude": 46.626483,
         "longitude": 14.3065,
         "createDate": "2025-07-20T15:26:54.000Z",
@@ -1560,7 +1568,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Benediktinerkirche Klagenfurt Kärnten.jpg",
+        "filename": "Benediktinerkirche in Klagenfurt.jpg",
         "latitude": 46.626183,
         "longitude": 14.3074,
         "createDate": "2025-07-21T07:09:19.000Z",
@@ -1568,7 +1576,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Benediktinermarkt Uhr Klagenfurt Kärnten.jpg",
+        "filename": "Benediktinermarkt Uhr in Klagenfurt.jpg",
         "latitude": 46.622872,
         "longitude": 14.306,
         "createDate": "2025-07-21T08:33:50.000Z",
@@ -1576,7 +1584,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Buchhandlung Gute Nachricht Klagenfurt Kärnten.jpg",
+        "filename": "Buchhandlung Gute Nachricht Klagenfurt.jpg",
         "latitude": 46.626369,
         "longitude": 14.311086,
         "createDate": "2025-07-20T12:38:54.000Z",
@@ -1584,7 +1592,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bus Hauptbahnhof Klagenfurt Kärnten.jpg",
+        "filename": "Bus Hauptbahnhof Klagenfurt.jpg",
         "latitude": 46.6166,
         "longitude": 14.311928,
         "createDate": "2025-07-21T11:59:17.000Z",
@@ -1592,19 +1600,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bushaltestelle Wörthersee Klagenfurt Kärnten.jpg",
+        "filename": "Bushaltestelle am Wörthersee in Klagenfurt.jpg",
         "latitude": 46.622703,
         "longitude": 14.255239,
         "createDate": "2025-07-20T14:31:23.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622703,14.255239",
-        "alt": null
-      },
-      {
-        "filename": "Chaos in Klagenfurt Kärnten.jpg",
-        "latitude": 46.622986,
-        "longitude": 14.304922,
-        "createDate": "2025-07-20T17:45:05.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622986,14.304922",
         "alt": null
       },
       {
@@ -1624,7 +1624,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fischer-Statue Benediktinermarkt Klagenfurt Kärnten.jpg",
+        "filename": "Fischer-Statue Benediktinermarkt Klagenfurt.jpg",
         "latitude": 46.622792,
         "longitude": 14.306056,
         "createDate": "2025-07-21T08:31:23.000Z",
@@ -1632,7 +1632,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fischerwirt St Margareten Kärnten.jpg",
+        "filename": "Fischerwirt St Margareten bei Wolfsberg.jpg",
         "latitude": 46.865619,
         "longitude": 14.782633,
         "createDate": "2025-07-19T18:10:12.000Z",
@@ -1640,7 +1640,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Garageneinfahrt und Park Klagenfurt Kärnten.jpg",
+        "filename": "Garageneinfahrt und Park Klagenfurt.jpg",
         "latitude": 46.623997,
         "longitude": 14.302508,
         "createDate": "2025-07-20T15:33:49.000Z",
@@ -1648,7 +1648,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gasflaschen Fischerwirt St. Margarethen Kärnten.jpg",
+        "filename": "Gasflaschen im Fischerwirt St. Margarethen bei Wolfsberg.jpg",
         "latitude": 46.865806,
         "longitude": 14.782853,
         "createDate": "2025-07-19T18:09:00.000Z",
@@ -1656,7 +1656,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gemälde Jesus Kapelle Klagenfurt Kärnten.jpg",
+        "filename": "Gebäude bei Nacht.jpg",
+        "latitude": 41.145661,
+        "longitude": -8.614147,
+        "createDate": "2025-03-31T21:22:17.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145661,-8.614147",
+        "alt": null
+      },
+      {
+        "filename": "Gemälde Jesus Kapelle Klagenfurt.jpg",
         "latitude": 46.622708,
         "longitude": 14.306478,
         "createDate": "2025-07-21T08:38:54.000Z",
@@ -1664,7 +1672,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Graffitti Auslage Klagenfurt Kärnten.jpg",
+        "filename": "Graffitti Auslage Klagenfurt.jpg",
         "latitude": 46.62515,
         "longitude": 14.309306,
         "createDate": "2025-07-20T12:33:13.000Z",
@@ -1672,7 +1680,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Hauptbahnhof Klagenfurt Kärnten.jpg",
+        "filename": "Hauptbahnhof Klagenfurt.jpg",
         "latitude": 46.616233,
         "longitude": 14.313658,
         "createDate": "2025-07-21T11:30:09.000Z",
@@ -1680,7 +1688,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Hauseingang Klagenfurt Kärnten.jpg",
+        "filename": "Hauseingang Klagenfurt.jpg",
         "latitude": 46.626025,
         "longitude": 14.306869,
         "createDate": "2025-07-21T07:15:24.000Z",
@@ -1688,19 +1696,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Holzfisch Fischerwirt St Margareten Kärnten.jpg",
+        "filename": "Holzfisch Fischerwirt St Margareten.jpg",
         "latitude": 46.865739,
         "longitude": 14.782789,
         "createDate": "2025-07-19T18:09:26.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.865739,14.782789",
-        "alt": null
-      },
-      {
-        "filename": "Ich liebe dich Graffitti Klagenfurt Kärnten.jpg",
-        "latitude": 46.616161,
-        "longitude": 14.308681,
-        "createDate": "2025-07-20T18:06:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.616161,14.308681",
         "alt": null
       },
       {
@@ -1856,6 +1856,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Vertreuten Koffer mit Büchern vor eine Geschäft in Klagenfurt.jpg",
+        "latitude": 46.622986,
+        "longitude": 14.304922,
+        "createDate": "2025-07-20T17:45:05.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622986,14.304922",
+        "alt": null
+      },
+      {
         "filename": "Wasser Wörthersee Klagenfurt Kärnten.jpg",
         "latitude": 46.622769,
         "longitude": 14.252847,
@@ -1880,8 +1888,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "19. Juli 2025 - 21. Juli 2025",
-    "imageCount": 43
+    "timeframe": "31. März 2025 - 21. Juli 2025",
+    "imageCount": 44
   },
   {
     "name": "kleinlobming",
@@ -1890,7 +1898,7 @@ export const galleries = [
     "description": "Keine Menschen, viele Bäume",
     "images": [
       {
-        "filename": "Blick über Kleinlobmingtal in der Steiermark.jpg",
+        "filename": "Blick über das Kleinlobmingtal.jpg",
         "latitude": 47.133819,
         "longitude": 14.874467,
         "createDate": "2024-08-24T09:13:06.000Z",
@@ -1898,7 +1906,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bäume auf einem Berg im Kleinlobmingtal Steiermark.jpg",
+        "filename": "Bäume auf einem Berg im Kleinlobmingtal.jpg",
         "latitude": 47.133167,
         "longitude": 14.874389,
         "createDate": "2024-08-24T09:34:44.000Z",
@@ -1906,7 +1914,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Ferienhaus und Liegestühle Kleinlobming Steiermark.jpg",
+        "filename": "Ferienhaus in einer Lichtung mit Liegestühlen.jpg",
         "latitude": 47.134494,
         "longitude": 14.869739,
         "createDate": "2024-08-26T05:15:28.000Z",
@@ -1932,7 +1940,7 @@ export const galleries = [
     "description": "Vale a pena a viagem, possivelmente com uma passagem só de ida.",
     "images": [
       {
-        "filename": "Arzul-Fliesen in Lissabon.jpg",
+        "filename": "Azul-Fliesen in Grün und Blau.jpg",
         "latitude": 38.710667,
         "longitude": -9.141656,
         "createDate": "2018-11-20T10:00:05.000Z",
@@ -1940,7 +1948,15 @@ export const galleries = [
         "alt": "Hisilicon Balong"
       },
       {
-        "filename": "Brücke über einen Fluss mit Blick auf Lissabon.jpg",
+        "filename": "Blau-leuchtende Qualle im Ozeanium.jpg",
+        "latitude": 38.763369,
+        "longitude": -9.093719,
+        "createDate": "2018-11-22T12:03:04.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.763369,-9.093719",
+        "alt": "Hisilicon Balong"
+      },
+      {
+        "filename": "Brücke über den Tajo Fluss mit Blick auf Lissabon.jpg",
         "latitude": 38.678614,
         "longitude": -9.171356,
         "createDate": "2018-11-20T16:03:29.000Z",
@@ -1972,7 +1988,7 @@ export const galleries = [
         "alt": "Hisilicon Balong"
       },
       {
-        "filename": "Hausfassade in der Altstadt von Lissabon.jpg",
+        "filename": "Hausfassade mit Satelliten-Schüsseln in der Altstadt von Lissabon.jpg",
         "latitude": 38.709792,
         "longitude": -9.136431,
         "createDate": "2018-11-19T13:55:18.000Z",
@@ -1988,15 +2004,7 @@ export const galleries = [
         "alt": "Hisilicon Balong"
       },
       {
-        "filename": "Qualle im Ozeanium von Lissabon.jpg",
-        "latitude": 38.763369,
-        "longitude": -9.093719,
-        "createDate": "2018-11-22T12:03:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.763369,-9.093719",
-        "alt": "Hisilicon Balong"
-      },
-      {
-        "filename": "Schmale Gasse und BIM Gleise in Lissabon.jpg",
+        "filename": "Schmale Gasse und BIM Gleise.jpg",
         "latitude": 38.707842,
         "longitude": -9.138886,
         "createDate": "2018-11-20T09:27:08.000Z",
@@ -2004,7 +2012,7 @@ export const galleries = [
         "alt": "Hisilicon Balong"
       },
       {
-        "filename": "Statuen in Lissabon.jpg",
+        "filename": "Statuen Frontansicht.jpg",
         "latitude": 38.715592,
         "longitude": -9.145636,
         "createDate": "2018-11-20T09:53:24.000Z",
@@ -2012,7 +2020,7 @@ export const galleries = [
         "alt": "Hisilicon Balong"
       },
       {
-        "filename": "Statuen von hinten, nummeriert und beschriftet.jpg",
+        "filename": "Statuen, nummeriert und beschriftet.jpg",
         "latitude": 38.715592,
         "longitude": -9.145636,
         "createDate": "2018-11-20T09:52:59.000Z",
@@ -2078,7 +2086,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Autodrom Wurstelprater Wien.jpg",
+        "filename": "Autodrom Wurstelprater.jpg",
         "latitude": 48.216861,
         "longitude": 16.396319,
         "createDate": "2025-05-01T15:46:00.000Z",
@@ -2086,7 +2094,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Ball Ball Wurstelprater Wien.jpg",
+        "filename": "Ball Ball Wurstelprater.jpg",
         "latitude": 48.216019,
         "longitude": 16.398375,
         "createDate": "2025-05-01T10:31:50.000Z",
@@ -2094,7 +2102,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Burgtheater Wien.jpg",
+        "filename": "Burgtheater.jpg",
         "latitude": 48.209867,
         "longitude": 16.360381,
         "createDate": "2025-05-01T09:04:40.000Z",
@@ -2102,7 +2110,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Die gesengte Sau Wurstelprater Wien.jpg",
+        "filename": "Die gesengte Sau Wurstelprater.jpg",
         "latitude": 48.215764,
         "longitude": 16.398489,
         "createDate": "2025-05-01T10:32:23.000Z",
@@ -2110,7 +2118,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Die wilde Maus Totalansicht Wurstelprater Wien.jpg",
+        "filename": "Die wilde Maus Totalansicht Wurstelprater.jpg",
         "latitude": 48.2151,
         "longitude": 16.399356,
         "createDate": "2025-05-01T10:34:18.000Z",
@@ -2118,7 +2126,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Die wilde Maus Wurstelprater Wien.jpg",
+        "filename": "Die wilde Maus Wurstelprater.jpg",
         "latitude": 48.215069,
         "longitude": 16.399456,
         "createDate": "2025-05-01T10:34:31.000Z",
@@ -2126,7 +2134,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Eine Achterbahn und das Riesenrad im Prater von Wien.jpg",
+        "filename": "Eine Achterbahn und das Riesenrad im Prater.jpg",
         "latitude": 48.216039,
         "longitude": 16.397747,
         "createDate": "2025-05-01T10:30:34.000Z",
@@ -2134,7 +2142,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fahrradfahrer und Demo auf Ringstrasse Wien.jpg",
+        "filename": "Fahrradfahrer und Demo auf Ringstrasse.jpg",
         "latitude": 48.207492,
         "longitude": 16.359689,
         "createDate": "2025-05-01T09:00:40.000Z",
@@ -2142,7 +2150,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Fontäne Wurstelprater Wien.jpg",
+        "filename": "Fontäne Wurstelprater.jpg",
         "latitude": 48.216233,
         "longitude": 16.398181,
         "createDate": "2025-05-01T10:31:20.000Z",
@@ -2150,7 +2158,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Freundschaft Rathausplatz Wien.jpg",
+        "filename": "Freundschaft Rathausplatz.jpg",
         "latitude": 48.210561,
         "longitude": 16.360014,
         "createDate": "2025-05-01T09:06:09.000Z",
@@ -2158,7 +2166,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Geiselbergstrasse Wien.jpg",
+        "filename": "Geiselbergstrasse.jpg",
         "latitude": 48.174572,
         "longitude": 16.410278,
         "createDate": "2025-05-01T16:36:11.000Z",
@@ -2166,7 +2174,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Go-Card fahren Wurstelprater Wien.jpg",
+        "filename": "Go-Card fahren Wurstelprater.jpg",
         "latitude": 48.216286,
         "longitude": 16.397525,
         "createDate": "2025-05-01T10:29:32.000Z",
@@ -2182,7 +2190,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Karussell Wurstelprater Wien.jpg",
+        "filename": "Karussell Wurstelprater.jpg",
         "latitude": 48.217328,
         "longitude": 16.395811,
         "createDate": "2025-05-01T15:47:19.000Z",
@@ -2190,7 +2198,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Liliputbahn Wurstelprater Wien.jpg",
+        "filename": "Liliputbahn Wurstelprater.jpg",
         "latitude": 48.215917,
         "longitude": 16.396686,
         "createDate": "2025-05-01T15:38:43.000Z",
@@ -2198,7 +2206,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Prater Hauptalle Wien 3.jpg",
+        "filename": "Prater Hauptalle 3.jpg",
         "latitude": 48.214419,
         "longitude": 16.397739,
         "createDate": "2025-05-01T15:35:44.000Z",
@@ -2206,7 +2214,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Prater Hauptallee Wien 2.jpg",
+        "filename": "Prater Hauptallee 2.jpg",
         "latitude": 48.213722,
         "longitude": 16.398669,
         "createDate": "2025-05-01T15:34:04.000Z",
@@ -2214,7 +2222,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Prater Hauptallee Wien.jpg",
+        "filename": "Prater Hauptallee.jpg",
         "latitude": 48.213733,
         "longitude": 16.398706,
         "createDate": "2025-05-01T15:33:59.000Z",
@@ -2222,7 +2230,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Prater Schriftzug Wien.jpg",
+        "filename": "Prater Schriftzug.jpg",
         "latitude": 48.217383,
         "longitude": 16.395767,
         "createDate": "2025-05-01T15:47:27.000Z",
@@ -2230,7 +2238,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Praterstern BIM Station Wien.jpg",
+        "filename": "Praterstern BIM Station.jpg",
         "latitude": 48.218267,
         "longitude": 16.391383,
         "createDate": "2025-05-01T15:58:02.000Z",
@@ -2238,7 +2246,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Praterstern S-Bahn Bahnsteig Wien 2.jpg",
+        "filename": "Praterstern S-Bahn Bahnsteig 2.jpg",
         "latitude": 48.218892,
         "longitude": 16.391956,
         "createDate": "2025-05-01T16:05:14.000Z",
@@ -2246,7 +2254,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Praterstern S-Bahn Bahnsteig Wien.jpg",
+        "filename": "Praterstern S-Bahn Bahnsteig.jpg",
         "latitude": 48.218922,
         "longitude": 16.391997,
         "createDate": "2025-05-01T16:04:40.000Z",
@@ -2262,15 +2270,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Ringstrasse Autofrei Wien.jpg",
-        "latitude": 48.205731,
-        "longitude": 16.361333,
-        "createDate": "2025-05-01T08:56:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205731,16.361333",
-        "alt": null
-      },
-      {
-        "filename": "Ringstrasse Parlament Wien.jpg",
+        "filename": "Ringstrasse Parlament.jpg",
         "latitude": 48.206608,
         "longitude": 16.360297,
         "createDate": "2025-05-01T08:58:34.000Z",
@@ -2278,7 +2278,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Ringstrasse Volkstheater Parlament Wien.jpg",
+        "filename": "Ringstrasse Volkstheater Parlament.jpg",
         "latitude": 48.206844,
         "longitude": 16.360006,
         "createDate": "2025-05-01T08:58:55.000Z",
@@ -2286,7 +2286,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Ringstrasse vor dem Parlament Wien.jpg",
+        "filename": "Ringstrasse autofrei am ersten Mai.jpg",
+        "latitude": 48.205731,
+        "longitude": 16.361333,
+        "createDate": "2025-05-01T08:56:55.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205731,16.361333",
+        "alt": null
+      },
+      {
+        "filename": "Ringstrasse vor dem Parlament.jpg",
         "latitude": 48.2075,
         "longitude": 16.359675,
         "createDate": "2025-05-01T09:00:34.000Z",
@@ -2326,7 +2334,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wurstelprater Wien 2.jpg",
+        "filename": "Wurstelprater 2.jpg",
         "latitude": 48.217022,
         "longitude": 16.396231,
         "createDate": "2025-05-01T15:46:22.000Z",
@@ -2334,19 +2342,19 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wurstelprater Wien.jpg",
-        "latitude": 48.216628,
-        "longitude": 16.397244,
-        "createDate": "2025-05-01T15:43:23.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216628,16.397244",
-        "alt": null
-      },
-      {
-        "filename": "Wurstelprater mit Drachen Wien.jpg",
+        "filename": "Wurstelprater mit Drachen.jpg",
         "latitude": 48.216175,
         "longitude": 16.398031,
         "createDate": "2025-05-01T10:31:06.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216175,16.398031",
+        "alt": null
+      },
+      {
+        "filename": "Wurstelprater.jpg",
+        "latitude": 48.216628,
+        "longitude": 16.397244,
+        "createDate": "2025-05-01T15:43:23.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216628,16.397244",
         "alt": null
       }
     ],
@@ -2498,7 +2506,7 @@ export const galleries = [
     "description": "Tschu Tschu, Brum Brum, *Quietsch*, Tschu Tschu",
     "images": [
       {
-        "filename": "71er Fenster Schwarzenbergplatz Wien.jpg",
+        "filename": "71er Fenster zum Schwarzenbergplatz.jpg",
         "latitude": 48.2011,
         "longitude": 16.374708,
         "createDate": "2025-04-23T05:20:37.000Z",
@@ -2506,7 +2514,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Alte BIM Innen Wien.jpg",
+        "filename": "Alte BIM von Innen .jpg",
         "latitude": 48.209511,
         "longitude": 16.360369,
         "createDate": "2025-05-20T15:00:21.000Z",
@@ -2514,7 +2522,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Aufgang Wetsbahntrasse Fussgängersteg Wien.jpg",
+        "filename": "Aufgang Westbahntrasse zum Fussgängersteg.jpg",
         "latitude": 48.193394,
         "longitude": 16.326389,
         "createDate": "2024-04-11T18:01:38.000Z",
@@ -2522,7 +2530,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "BIM Retunda Simmering Wien.jpg",
+        "filename": "BIM Retunda in Simmering.jpg",
         "latitude": 48.166503,
         "longitude": 16.424153,
         "createDate": "2025-06-01T06:43:17.000Z",
@@ -2530,7 +2538,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "BIM Station Schottentor Wien.jpg",
+        "filename": "BIM Station beim Schottentor.jpg",
         "latitude": 48.214,
         "longitude": 16.361961,
         "createDate": "2025-04-21T13:06:17.000Z",
@@ -2538,7 +2546,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "BIM Station Simmering Wien.jpg",
+        "filename": "BIM Station in Simmering.jpg",
         "latitude": 48.170239,
         "longitude": 16.420364,
         "createDate": "2025-05-25T09:40:44.000Z",
@@ -2554,7 +2562,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bahnsteige Simmering S-Bahn StationWien.jpg",
+        "filename": "Bahnsteige Simmering S-Bahn Station.jpg",
         "latitude": 48.169972,
         "longitude": 16.419542,
         "createDate": "2025-05-16T09:53:03.000Z",
@@ -2562,7 +2570,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bahnsteige und Gleise am Hauptbahnhof Wien.jpg",
+        "filename": "Bahnsteige und Gleise am Hauptbahnhof.jpg",
         "latitude": 48.184964,
         "longitude": 16.376628,
         "createDate": "2025-05-18T16:35:49.000Z",
@@ -2570,7 +2578,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Blick über die Wetsbahntrasse und die Schmelzbrücke in Rudolfsheim-Fünfhaus Wien.jpg",
+        "filename": "Blick über die Wetsbahntrasse und die Schmelzbrücke in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.194561,
         "longitude": 16.330406,
         "createDate": "2024-05-01T09:13:09.000Z",
@@ -2578,7 +2586,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Donaustadtbrücke U-Bahn Station Wien.jpg",
+        "filename": "Donaustadtbrücke U-Bahn Station.jpg",
         "latitude": 48.211761,
         "longitude": 16.440106,
         "createDate": "2024-07-21T16:32:51.000Z",
@@ -2586,7 +2594,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gersthof S-Bahn Station im Jugendstil von Otto Wagner Wien 2.jpg",
+        "filename": "Gersthof S-Bahn Station im Jugendstil von Otto Wagner 2.jpg",
         "latitude": 48.230983,
         "longitude": 16.329208,
         "createDate": "2025-04-21T16:04:21.000Z",
@@ -2594,7 +2602,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gersthof S-Bahn Station im Jugendstil von Otto Wagner Wien Wien.jpg",
+        "filename": "Gersthof S-Bahn Station im Jugendstil von Otto Wagner.jpg",
         "latitude": 48.231044,
         "longitude": 16.329044,
         "createDate": "2025-04-21T16:02:40.000Z",
@@ -2602,19 +2610,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gleise am Hauptbahnhof Wien.jpg",
+        "filename": "Gleise am Hauptbahnhof.jpg",
         "latitude": 48.180231,
         "longitude": 16.386892,
         "createDate": "2025-04-20T09:28:57.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.180231,16.386892",
-        "alt": null
-      },
-      {
-        "filename": "Haltestelle Neue Donau Wien.jpg",
-        "latitude": 48.246381,
-        "longitude": 16.394939,
-        "createDate": "2024-04-24T18:18:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.246381,16.394939",
         "alt": null
       },
       {
@@ -2778,7 +2778,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "U-Bahn Station Landstrasse U2 U4 Wien.jpg",
+        "filename": "U-Bahn Station 'Neue Donau'.jpg",
+        "latitude": 48.246381,
+        "longitude": 16.394939,
+        "createDate": "2024-04-24T18:18:14.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.246381,16.394939",
+        "alt": null
+      },
+      {
+        "filename": "U-Bahn Station Landstrasse U2 und U4.jpg",
         "latitude": 48.213592,
         "longitude": 16.37625,
         "createDate": "2025-07-15T19:26:22.000Z",
@@ -2786,7 +2794,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "U-Bahn Station Rossauer Lände Alsergrund Wien.jpg",
+        "filename": "U-Bahn Station Rossauer Lände Alsergrund.jpg",
         "latitude": 48.22185,
         "longitude": 16.367456,
         "createDate": "2025-07-15T19:04:10.000Z",
@@ -2794,7 +2802,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "U-Bahn Station Rossauer Lände Aussen Alsergrund Wien.jpg",
+        "filename": "U-Bahn Station Rossauer Lände Aussen Alsergrund.jpg",
         "latitude": 48.223083,
         "longitude": 16.367325,
         "createDate": "2025-07-15T19:02:25.000Z",
@@ -2802,7 +2810,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "U-Bahn Station Rossauer Lände Eingang Alsergrund Wien.jpg",
+        "filename": "U-Bahn Station Rossauer Lände Eingang Alsergrund.jpg",
         "latitude": 48.222844,
         "longitude": 16.367392,
         "createDate": "2025-07-15T19:02:44.000Z",
@@ -2810,7 +2818,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "U-Bahn Station Simmering Aussen Wien.jpg",
+        "filename": "U-Bahn Station Simmering Aussen.jpg",
         "latitude": 48.169936,
         "longitude": 16.420114,
         "createDate": "2025-05-02T15:41:31.000Z",
@@ -2818,7 +2826,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "U-Bahn Station Volkstheater Wandmosaik Wien.jpg",
+        "filename": "U-Bahn Station Volkstheater Wandmosaik.jpg",
         "latitude": 48.206589,
         "longitude": 16.360236,
         "createDate": "2025-05-28T19:45:52.000Z",
@@ -2834,7 +2842,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "U3 Bahnsteig Gasometer Wien.jpg",
+        "filename": "U3 Bahnsteig Gasometer.jpg",
         "latitude": 48.185486,
         "longitude": 16.417503,
         "createDate": "2025-06-01T13:48:24.000Z",
@@ -2842,7 +2850,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Universität Wien Schottentor Innere Stadt Wien.jpg",
+        "filename": "Universität Wien Schottentor Innere Stadt.jpg",
         "latitude": 48.214081,
         "longitude": 16.361719,
         "createDate": "2025-04-21T13:08:58.000Z",
@@ -2850,7 +2858,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wien Hauptbahnhof Schriftzug Südtiroler Platz Favoriten Wien.jpg",
+        "filename": "Wien Hauptbahnhof Schriftzug Südtiroler Platz Favoriten.jpg",
         "latitude": 48.185878,
         "longitude": 16.375197,
         "createDate": "2025-05-16T10:11:28.000Z",
@@ -2858,7 +2866,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Zentralfriedhof S-Bahn Station Simmering Wien.jpg",
+        "filename": "Zentralfriedhof S-Bahn Station Simmering.jpg",
         "latitude": 48.154747,
         "longitude": 16.42505,
         "createDate": "2025-06-01T06:03:26.000Z",
@@ -2866,7 +2874,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Zwei U-Bahn Garnituren auf Gleisen und ein Bahnsteig davor - Wien.jpg",
+        "filename": "Zwei U-Bahn Garnituren auf Gleisen und ein Bahnsteig davor.jpg",
         "latitude": 48.225656,
         "longitude": 16.349564,
         "createDate": "2024-04-19T15:49:32.000Z",
@@ -2884,7 +2892,7 @@ export const galleries = [
     "description": "Stralsund, Rügen & Greifswald",
     "images": [
       {
-        "filename": "Bademeister-Hütte auf einem Ostsee-Strand bei Wampen Mecklenburg-Vorpommern.jpg",
+        "filename": "Bademeister-Hütte auf einem Ostsee-Strand bei Wampen.jpg",
         "latitude": 54.133667,
         "longitude": 13.430883,
         "createDate": "2019-04-01T09:14:17.000Z",
@@ -2900,7 +2908,7 @@ export const galleries = [
         "alt": "Hisilicon Balong"
       },
       {
-        "filename": "Sandboden und die Ostsee in Sassnitz Rügen Mecklenburg-Vorpommern.jpg",
+        "filename": "Sandboden und die Ostsee in Sassnitz auf Rügen.jpg",
         "latitude": 54.514506,
         "longitude": 13.639711,
         "createDate": "2019-04-01T09:15:36.000Z",
@@ -2908,7 +2916,7 @@ export const galleries = [
         "alt": "Hisilicon Balong"
       },
       {
-        "filename": "St.-Nikolai-Kirche von Stralsund Mecklenburg-Vorpommern.jpg",
+        "filename": "St.-Nikolai-Kirche von Stralsund.jpg",
         "latitude": 54.315369,
         "longitude": 13.091519,
         "createDate": "2019-04-01T16:42:46.000Z",
@@ -2916,7 +2924,7 @@ export const galleries = [
         "alt": "Hisilicon Balong"
       },
       {
-        "filename": "Verwaiste Ferienanlage Prora auf Rügen Mecklenburg-Vorpommern.jpg",
+        "filename": "Verwaiste Ferienanlage Prora auf Rügen.jpg",
         "latitude": 54.442672,
         "longitude": 13.566181,
         "createDate": "2019-03-31T15:48:57.000Z",
@@ -2924,7 +2932,7 @@ export const galleries = [
         "alt": "Hisilicon Balong"
       },
       {
-        "filename": "Werbeplakate für Tabakwaren und Graffitti-Gekritzel in der Innenstadt von Stralsund (Mecklenburg-Vorpommern) bei Nacht.jpg",
+        "filename": "Werbeplakate für Tabakwaren und Graffitti-Gekritzel in der Innenstadt von Stralsund bei Nacht.jpg",
         "latitude": 54.314908,
         "longitude": 13.095556,
         "createDate": "2019-03-31T20:16:07.000Z",
@@ -2942,15 +2950,7 @@ export const galleries = [
     "description": "Die Zeit - zurückgedreht.",
     "images": [
       {
-        "filename": "Kegelbahn Innen Ottenstein.jpg",
-        "latitude": 48.590606,
-        "longitude": 15.336908,
-        "createDate": "2025-06-10T18:28:25.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590606,15.336908",
-        "alt": null
-      },
-      {
-        "filename": "Kegelbahn Innen Quer Ottenstein.jpg",
+        "filename": "Kegelbahn Innen Quer.jpg",
         "latitude": 48.590603,
         "longitude": 15.336911,
         "createDate": "2025-06-10T18:28:32.000Z",
@@ -2958,7 +2958,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kegelbahnen Aussen Ottenstein.jpg",
+        "filename": "Kegelbahn Innen.jpg",
+        "latitude": 48.590606,
+        "longitude": 15.336908,
+        "createDate": "2025-06-10T18:28:25.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590606,15.336908",
+        "alt": null
+      },
+      {
+        "filename": "Kegelbahnen Aussen.jpg",
         "latitude": 48.59065,
         "longitude": 15.336872,
         "createDate": "2025-06-10T18:22:34.000Z",
@@ -2966,7 +2974,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Statue Mann mit Kind in Ottenstein.jpg",
+        "filename": "Statue Mann mit Kind .jpg",
         "latitude": 48.590442,
         "longitude": 15.336358,
         "createDate": "2025-06-10T12:28:09.000Z",
@@ -3106,7 +3114,7 @@ export const galleries = [
     "description": "Essa cidade é muito bonita, muita subida e descida.",
     "images": [
       {
-        "filename": "Alte Häuser bei Sao Bento Porto.jpg",
+        "filename": "Alte Häuser bei Sao Bento.jpg",
         "latitude": 41.145497,
         "longitude": -8.610367,
         "createDate": "2025-03-30T09:46:56.000Z",
@@ -3114,7 +3122,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Alte und moderne Architektur Porto.jpg",
+        "filename": "Alte und moderne Architektur.jpg",
         "latitude": 41.145125,
         "longitude": -8.610692,
         "createDate": "2025-03-30T09:45:33.000Z",
@@ -3122,7 +3130,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Altes Gebäude Porto.jpg",
+        "filename": "Altes Gebäude.jpg",
         "latitude": 41.145006,
         "longitude": -8.616325,
         "createDate": "2025-03-29T21:52:11.000Z",
@@ -3138,7 +3146,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Altstadt Modern Porto.jpg",
+        "filename": "Altstadt Modern.jpg",
         "latitude": 41.143172,
         "longitude": -8.611656,
         "createDate": "2025-04-02T10:53:39.000Z",
@@ -3146,7 +3154,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Ausblick Balkon Laranjas Porto.jpg",
+        "filename": "Ausblick Balkon Laranjas.jpg",
         "latitude": 41.150781,
         "longitude": -8.610925,
         "createDate": "2025-03-29T16:38:00.000Z",
@@ -3154,7 +3162,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Blume am Strand Miramar in Porto.jpg",
+        "filename": "Blume am Strand Miramar in.jpg",
         "latitude": 41.0652,
         "longitude": -8.656564,
         "createDate": "2025-04-01T12:25:14.000Z",
@@ -3162,7 +3170,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Casa de Musica Porto Seitlich.jpg",
+        "filename": "Casa de Musica Seitlich.jpg",
         "latitude": 41.1585,
         "longitude": -8.63095,
         "createDate": "2025-03-31T13:14:33.000Z",
@@ -3170,15 +3178,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Casa de Musica Porto Südeingang.jpg",
-        "latitude": 41.158731,
-        "longitude": -8.630008,
-        "createDate": "2025-03-31T13:09:53.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.158731,-8.630008",
-        "alt": null
-      },
-      {
-        "filename": "Casa de Musica Skater Porto.jpg",
+        "filename": "Casa de Musica Skater.jpg",
         "latitude": 41.158439,
         "longitude": -8.630994,
         "createDate": "2025-03-31T13:13:38.000Z",
@@ -3186,7 +3186,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Casa de Musica Totale Porto.jpg",
+        "filename": "Casa de Musica Südeingang.jpg",
+        "latitude": 41.158731,
+        "longitude": -8.630008,
+        "createDate": "2025-03-31T13:09:53.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.158731,-8.630008",
+        "alt": null
+      },
+      {
+        "filename": "Casa de Musica Totale.jpg",
         "latitude": 41.158486,
         "longitude": -8.631186,
         "createDate": "2025-03-31T13:14:08.000Z",
@@ -3194,7 +3202,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Dunkle Gasse in der Nacht Porto.jpg",
+        "filename": "Dunkle Gasse in der Nacht.jpg",
         "latitude": 41.145639,
         "longitude": -8.614683,
         "createDate": "2025-03-31T21:21:36.000Z",
@@ -3218,7 +3226,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Flughafen-Halle Porto.jpg",
+        "filename": "Flughafen-Halle.jpg",
         "latitude": 41.237064,
         "longitude": -8.670583,
         "createDate": "2025-04-02T13:21:25.000Z",
@@ -3234,15 +3242,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gebäude bei Nacht Porto.jpg",
-        "latitude": 41.145661,
-        "longitude": -8.614147,
-        "createDate": "2025-03-31T21:22:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145661,-8.614147",
-        "alt": null
-      },
-      {
-        "filename": "Häuser und Stadt-Blick in Porto.jpg",
+        "filename": "Häuser und Stadt-Blick.jpg",
         "latitude": 41.143153,
         "longitude": -8.611278,
         "createDate": "2025-04-02T10:45:13.000Z",
@@ -3250,7 +3250,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Jugendstil - Imperialer McDonalds in Porto.jpg",
+        "filename": "Jugendstil - Imperialer McDonalds.jpg",
         "latitude": 41.146733,
         "longitude": -8.611031,
         "createDate": "2025-03-30T09:13:47.000Z",
@@ -3258,7 +3258,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kapelle am Atlantik Porto.jpg",
+        "filename": "Jugendstil-Bahnsteig-Uhr in Sao Bento.jpg",
+        "latitude": 41.145539,
+        "longitude": -8.610378,
+        "createDate": "2025-04-02T10:36:17.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145539,-8.610378",
+        "alt": null
+      },
+      {
+        "filename": "Kapelle am Strand Miramar an der Atlantikküste.jpg",
         "latitude": 41.068703,
         "longitude": -8.656689,
         "createDate": "2025-04-01T12:33:42.000Z",
@@ -3266,7 +3274,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Moderne Struktur Porto.jpg",
+        "filename": "Moderne Struktur.jpg",
         "latitude": 41.14355,
         "longitude": -8.611039,
         "createDate": "2025-04-02T10:43:16.000Z",
@@ -3274,15 +3282,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Öffis Porto Eingang.jpg",
-        "latitude": 41.152272,
-        "longitude": -8.609019,
-        "createDate": "2025-04-02T12:45:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.152272,-8.609019",
-        "alt": null
-      },
-      {
-        "filename": "Palacio de la Justice Porto.jpg",
+        "filename": "Palacio de la Justice.jpg",
         "latitude": 41.1446,
         "longitude": -8.617233,
         "createDate": "2025-03-31T21:18:09.000Z",
@@ -3290,7 +3290,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Platz Aliados mit Bäumen in Porto.jpg",
+        "filename": "Platz Aliados mit Bäumen.jpg",
         "latitude": 41.147258,
         "longitude": -8.611131,
         "createDate": "2025-03-29T18:13:07.000Z",
@@ -3298,7 +3298,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Platz mit Kirche Porto.jpg",
+        "filename": "Platz mit Kirche.jpg",
         "latitude": 41.1469,
         "longitude": -8.615383,
         "createDate": "2025-03-30T18:09:23.000Z",
@@ -3306,7 +3306,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Platz mit Palmen in Porto.jpg",
+        "filename": "Platz mit Palmen.jpg",
         "latitude": 41.146897,
         "longitude": -8.615392,
         "createDate": "2025-03-30T18:09:21.000Z",
@@ -3314,7 +3314,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Platz nahe Harry Potter Bücherei in Porto.jpg",
+        "filename": "Platz nahe Harry Potter Bücherei.jpg",
         "latitude": 41.147042,
         "longitude": -8.615519,
         "createDate": "2025-03-30T18:17:28.000Z",
@@ -3362,7 +3362,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Rua de Almada Porto.jpg",
+        "filename": "Rua de Almada bei Nacht.jpg",
         "latitude": 41.15285,
         "longitude": -8.612036,
         "createDate": "2025-03-30T21:35:00.000Z",
@@ -3370,7 +3370,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Rua de Almada bei Nacht Porto.jpg",
+        "filename": "Rua de Almada.jpg",
         "latitude": 41.15285,
         "longitude": -8.612036,
         "createDate": "2025-03-30T21:35:00.000Z",
@@ -3378,7 +3378,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Rua de Flores Porto 2.jpg",
+        "filename": "Rua de Flores 2.jpg",
         "latitude": 41.145231,
         "longitude": -8.611053,
         "createDate": "2025-04-02T10:26:54.000Z",
@@ -3386,7 +3386,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Rua de Flores Porto.jpg",
+        "filename": "Rua de Flores.jpg",
         "latitude": 41.145217,
         "longitude": -8.611039,
         "createDate": "2025-04-02T10:27:32.000Z",
@@ -3410,7 +3410,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Sao Bento Bahnsteige Porto 2.jpg",
+        "filename": "Sao Bento Bahnsteige 2.jpg",
         "latitude": 41.145458,
         "longitude": -8.610133,
         "createDate": "2025-04-02T10:33:28.000Z",
@@ -3418,7 +3418,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Sao Bento Bahnsteige Porto.jpg",
+        "filename": "Sao Bento Bahnsteige.jpg",
         "latitude": 41.145631,
         "longitude": -8.610269,
         "createDate": "2025-04-02T10:34:01.000Z",
@@ -3426,7 +3426,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Sao Bento Fenster Porto.jpg",
+        "filename": "Sao Bento Fenster.jpg",
         "latitude": 41.145533,
         "longitude": -8.610381,
         "createDate": "2025-04-02T10:36:01.000Z",
@@ -3434,7 +3434,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Sao Bento Fliesen Porto.jpg",
+        "filename": "Sao Bento Fliesen.jpg",
         "latitude": 41.145489,
         "longitude": -8.6106,
         "createDate": "2025-04-02T10:36:48.000Z",
@@ -3442,7 +3442,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Sao Bento Innen Porto.jpg",
+        "filename": "Sao Bento Innen.jpg",
         "latitude": 41.145467,
         "longitude": -8.610458,
         "createDate": "2025-04-02T10:32:51.000Z",
@@ -3450,7 +3450,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Sao Bento Schriftzug U-Bahn Porto.jpg",
+        "filename": "Sao Bento Schriftzug U-Bahn.jpg",
         "latitude": 41.145175,
         "longitude": -8.610939,
         "createDate": "2025-04-02T12:20:27.000Z",
@@ -3458,15 +3458,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Sao Bento Uhr Porto.jpg",
-        "latitude": 41.145539,
-        "longitude": -8.610378,
-        "createDate": "2025-04-02T10:36:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145539,-8.610378",
-        "alt": null
-      },
-      {
-        "filename": "Sao Bento und alte Gebäude daneben Porto.jpg",
+        "filename": "Sao Bento und alte Gebäude.jpg",
         "latitude": 41.145447,
         "longitude": -8.611025,
         "createDate": "2025-03-30T09:25:34.000Z",
@@ -3490,7 +3482,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Sessel in Strandbar Porto.jpg",
+        "filename": "Sessel in Strandbar am Atlantik.jpg",
         "latitude": 41.069214,
         "longitude": -8.656706,
         "createDate": "2025-04-01T12:45:03.000Z",
@@ -3498,19 +3490,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Stadtansicht Porto 2.jpg",
+        "filename": "Stadtansicht 2.jpg",
         "latitude": 41.143119,
         "longitude": -8.611456,
         "createDate": "2025-04-02T10:46:24.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143119,-8.611456",
-        "alt": null
-      },
-      {
-        "filename": "Stadtansicht Porto.jpg",
-        "latitude": 41.143117,
-        "longitude": -8.611461,
-        "createDate": "2025-04-02T10:46:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143117,-8.611461",
         "alt": null
       },
       {
@@ -3522,7 +3506,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Statue Se de Porto Stadtansicht Porto.jpg",
+        "filename": "Stadtansicht.jpg",
+        "latitude": 41.143117,
+        "longitude": -8.611461,
+        "createDate": "2025-04-02T10:46:11.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143117,-8.611461",
+        "alt": null
+      },
+      {
+        "filename": "Statue bei Se de Porto und Stadtansicht.jpg",
         "latitude": 41.142964,
         "longitude": -8.611731,
         "createDate": "2025-03-30T10:56:34.000Z",
@@ -3530,15 +3522,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Steine am Strand Miramar am Atlantik in Porto.jpg",
-        "latitude": 41.064475,
-        "longitude": -8.657561,
-        "createDate": "2025-04-01T12:05:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.064475,-8.657561",
-        "alt": null
-      },
-      {
-        "filename": "Steine am Strand Miramar in Porto.jpg",
+        "filename": "Steine am Strand Miramar .jpg",
         "latitude": 41.067256,
         "longitude": -8.657744,
         "createDate": "2025-04-01T11:45:07.000Z",
@@ -3546,7 +3530,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Strasse mit Ampeln Porto.jpg",
+        "filename": "Steine am Strand Miramar am Atlantik.jpg",
+        "latitude": 41.064475,
+        "longitude": -8.657561,
+        "createDate": "2025-04-01T12:05:31.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.064475,-8.657561",
+        "alt": null
+      },
+      {
+        "filename": "Strasse mit Ampeln.jpg",
         "latitude": 41.150239,
         "longitude": -8.610989,
         "createDate": "2025-03-29T17:38:46.000Z",
@@ -3554,7 +3546,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Street Art Katze in Porto.jpg",
+        "filename": "Street Art Katze in Blau auf einer Hauswand in der Innenstadt.jpg",
         "latitude": 41.144675,
         "longitude": -8.612403,
         "createDate": "2025-03-30T18:39:51.000Z",
@@ -3562,7 +3554,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Super Bock Werbe-Banner am Flughafen Porto.jpg",
+        "filename": "Super Bock Werbe-Banner am Flughafen.jpg",
         "latitude": 41.243625,
         "longitude": -8.670739,
         "createDate": "2025-03-29T15:16:45.000Z",
@@ -3570,7 +3562,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Trinidad Auto-Parkhaus Porto.jpg",
+        "filename": "Trindade Auto-Parkhaus mit verweilenden Menschen.jpg",
         "latitude": 41.151147,
         "longitude": -8.608889,
         "createDate": "2025-04-02T12:31:13.000Z",
@@ -3586,7 +3578,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Zaun und Stadtansicht Nacht Porto.jpg",
+        "filename": "Zaun und Stadtansicht bei Nacht.jpg",
         "latitude": 41.144489,
         "longitude": -8.618378,
         "createDate": "2025-04-01T22:04:40.000Z",
@@ -3594,16 +3586,24 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Zimmer im Hotel Laranjas Porto.jpg",
+        "filename": "Zimmer im Hotel Laranjas.jpg",
         "latitude": 41.149792,
         "longitude": -8.612272,
         "createDate": "2025-03-29T17:16:56.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.149792,-8.612272",
         "alt": null
+      },
+      {
+        "filename": "Öffis Eingang.jpg",
+        "latitude": 41.152272,
+        "longitude": -8.609019,
+        "createDate": "2025-04-02T12:45:47.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.152272,-8.609019",
+        "alt": null
       }
     ],
     "timeframe": "29. März 2025 - 2. April 2025",
-    "imageCount": 62
+    "imageCount": 61
   },
   {
     "name": "pride",
@@ -3612,7 +3612,7 @@ export const galleries = [
     "description": "Ain't no rain on my parade.",
     "images": [
       {
-        "filename": "48er Aufräumarbeiten nach der Pride in der Inneren Stadt Wien.jpg",
+        "filename": "48er Aufräumarbeiten nach der Pride.jpg",
         "latitude": 48.204486,
         "longitude": 16.377731,
         "createDate": "2025-06-14T13:50:11.000Z",
@@ -3620,7 +3620,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Mensch mit Fahnen auf der Pride Innere Stadt Wien.jpg",
+        "filename": "Mensch mit Fahnen.jpg",
         "latitude": 48.203475,
         "longitude": 16.364478,
         "createDate": "2025-06-14T12:46:18.000Z",
@@ -3628,15 +3628,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Menschemenge auf der Pride Wien.jpg",
-        "latitude": 48.202825,
-        "longitude": 16.376075,
-        "createDate": "2025-06-14T13:35:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202825,16.376075",
-        "alt": null
-      },
-      {
-        "filename": "Menschemenge und Wagen Pride Wien.jpg",
+        "filename": "Menschemenge und Wagen.jpg",
         "latitude": 48.2024,
         "longitude": 16.375597,
         "createDate": "2025-06-14T13:29:05.000Z",
@@ -3644,11 +3636,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Menschenmenge auf der Pride Parade mit Wagen Wien.jpg",
-        "latitude": 48.205611,
-        "longitude": 16.361461,
-        "createDate": "2025-06-14T12:37:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205611,16.361461",
+        "filename": "Menschemenge.jpg",
+        "latitude": 48.202825,
+        "longitude": 16.376075,
+        "createDate": "2025-06-14T13:35:35.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202825,16.376075",
         "alt": null
       },
       {
@@ -3668,7 +3660,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Menschenmenge und Wagen mit Nebelmaschine Wien.jpg",
+        "filename": "Menschenmenge und Wagen 2.jpg",
+        "latitude": 48.205611,
+        "longitude": 16.361461,
+        "createDate": "2025-06-14T12:37:15.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205611,16.361461",
+        "alt": null
+      },
+      {
+        "filename": "Menschenmenge und Wagen mit Nebelmaschine.jpg",
         "latitude": 48.202019,
         "longitude": 16.375325,
         "createDate": "2025-06-14T13:27:33.000Z",
@@ -3676,7 +3676,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Menschenmenge vor dem Gartenbaukino auf der Pride Wien.jpg",
+        "filename": "Menschenmenge vor dem Gartenbaukino.jpg",
         "latitude": 48.205414,
         "longitude": 16.378797,
         "createDate": "2025-06-14T13:52:49.000Z",
@@ -3694,7 +3694,7 @@ export const galleries = [
     "description": "Johann Bernhard Fischer von Erlach wird man hier nicht finden.",
     "images": [
       {
-        "filename": "Aganigi Naganigi Kebab Salzburg.jpg",
+        "filename": "Aganigi Naganigi Kebab.jpg",
         "latitude": 47.811672,
         "longitude": 13.025536,
         "createDate": "2025-05-17T18:15:51.000Z",
@@ -3710,7 +3710,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Baptisten Kirche in Lehen Salzburg.jpg",
+        "filename": "Baptisten Kirche in Lehen.jpg",
         "latitude": 47.814172,
         "longitude": 13.026403,
         "createDate": "2025-05-17T18:21:47.000Z",
@@ -3726,7 +3726,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Blick auf die Bäume Salzburg.jpg",
+        "filename": "Blick auf die Bäume.jpg",
         "latitude": 47.816656,
         "longitude": 13.025656,
         "createDate": "2025-05-17T17:19:35.000Z",
@@ -3734,15 +3734,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Gebäude Lehen Salzburg.jpg",
-        "latitude": 47.815106,
-        "longitude": 13.025831,
-        "createDate": "2025-05-17T18:23:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.815106,13.025831",
+        "filename": "Der Südtiroler-Platz am Hauptbahnhof.jpg",
+        "latitude": 47.813194,
+        "longitude": 13.044628,
+        "createDate": "2025-05-18T09:32:51.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.813194,13.044628",
         "alt": null
       },
       {
-        "filename": "Glan in Lehen Salzburg.jpg",
+        "filename": "Die Glan in Lehen.jpg",
         "latitude": 47.817222,
         "longitude": 13.026694,
         "createDate": "2025-05-17T17:49:45.000Z",
@@ -3750,7 +3750,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Glanbrücke Stadtauswärts Lehen Salzburg.jpg",
+        "filename": "Die Glanbrücke stadtauswärts in Lehen.jpg",
         "latitude": 47.817139,
         "longitude": 13.026803,
         "createDate": "2025-05-17T17:50:03.000Z",
@@ -3758,7 +3758,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Graffitti Salzburg.jpg",
+        "filename": "Gebäude in Lehen.jpg",
+        "latitude": 47.815106,
+        "longitude": 13.025831,
+        "createDate": "2025-05-17T18:23:41.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.815106,13.025831",
+        "alt": null
+      },
+      {
+        "filename": "Gekritzel in Maxglan.jpg",
         "latitude": 47.796172,
         "longitude": 13.025944,
         "createDate": "2025-05-18T11:49:32.000Z",
@@ -3766,7 +3774,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Haus in Lehen Salzburg.jpg",
+        "filename": "Haus in Lehen.jpg",
         "latitude": 47.814,
         "longitude": 13.031281,
         "createDate": "2025-05-17T17:57:38.000Z",
@@ -3774,7 +3782,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kunst in der Nähe der Stiegl-Brauerei in Salzburg.jpg",
+        "filename": "Kunst in der Nähe der Stiegl-Brauerei.jpg",
         "latitude": 47.794317,
         "longitude": 13.024908,
         "createDate": "2025-05-18T10:35:54.000Z",
@@ -3782,15 +3790,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Neue MItte Lehen Vordach Salzburg.jpg",
-        "latitude": 47.813147,
-        "longitude": 13.026411,
-        "createDate": "2025-05-18T08:11:26.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.813147,13.026411",
-        "alt": null
-      },
-      {
-        "filename": "Parkplatz Ignaz-Harrer-Strasse Lehen Salzburg.jpg",
+        "filename": "Parkplatz Ignaz-Harrer-Strasse Lehen.jpg",
         "latitude": 47.811531,
         "longitude": 13.025461,
         "createDate": "2025-05-17T18:16:17.000Z",
@@ -3798,7 +3798,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Spielplatz Lehen Salzburg.jpg",
+        "filename": "Spielplatz in Lehen.jpg",
         "latitude": 47.815144,
         "longitude": 13.030261,
         "createDate": "2025-05-17T17:55:46.000Z",
@@ -3806,11 +3806,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Südtiroler-Platz - Hauptbahnhof Salzburg.jpg",
-        "latitude": 47.813194,
-        "longitude": 13.044628,
-        "createDate": "2025-05-18T09:32:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.813194,13.044628",
+        "filename": "Vordach der Neuen MItte Lehen und das Haus in Blau-Gelb gegenüber.jpg",
+        "latitude": 47.813147,
+        "longitude": 13.026411,
+        "createDate": "2025-05-18T08:11:26.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.813147,13.026411",
         "alt": null
       },
       {
@@ -3904,15 +3904,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kleingröpfritz 2.jpg",
-        "latitude": 48.861561,
-        "longitude": 15.213328,
-        "createDate": "2024-07-12T20:05:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.861561,15.213328",
-        "alt": null
-      },
-      {
-        "filename": "Schöne Fassade Burghausen.jpg",
+        "filename": "Schöne Fassade.jpg",
         "latitude": 48.158839,
         "longitude": 12.833075,
         "createDate": "2025-05-16T17:00:56.000Z",
@@ -3953,7 +3945,7 @@ export const galleries = [
       }
     ],
     "timeframe": "18. Februar 2024 - 6. Juli 2025",
-    "imageCount": 15
+    "imageCount": 14
   },
   {
     "name": "valencia",
@@ -3962,7 +3954,7 @@ export const galleries = [
     "description": "Gute Paella & mediterrane Elektrik.",
     "images": [
       {
-        "filename": "Aussen-Elektrik-Verkabelung in Valencia.jpg",
+        "filename": "Aussen-Elektrik-Verkabelung.jpg",
         "latitude": 39.466347,
         "longitude": -0.330372,
         "createDate": "2023-04-01T15:46:04.000Z",
@@ -3970,7 +3962,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Blick über die Dächer der Innenstand von Valencia.jpg",
+        "filename": "Blick über die Dächer der Innenstand.jpg",
         "latitude": 39.475719,
         "longitude": -0.383778,
         "createDate": "2023-04-02T08:41:28.000Z",
@@ -3994,7 +3986,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Flamingos vor einem Back im Tiergarten von Valencia.jpg",
+        "filename": "Flamingos vor einem Back im Tiergarten.jpg",
         "latitude": 39.478083,
         "longitude": -0.410333,
         "createDate": "2023-04-02T13:12:54.000Z",
@@ -4010,7 +4002,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Hauptplatz und Markt in Valencia.jpg",
+        "filename": "Hauptplatz und Markt.jpg",
         "latitude": 39.474261,
         "longitude": -0.379144,
         "createDate": "2023-04-02T08:57:52.000Z",
@@ -4018,7 +4010,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Hauptplatz und Palmen in Valencia.jpg",
+        "filename": "Hauptplatz und Palmen.jpg",
         "latitude": 39.474286,
         "longitude": -0.378867,
         "createDate": "2023-04-02T08:57:49.000Z",
@@ -4034,7 +4026,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Modernes Gebäude am Hafen in Valencia.jpg",
+        "filename": "Modernes Gebäude am Hafen.jpg",
         "latitude": 39.461644,
         "longitude": -0.323592,
         "createDate": "2023-04-01T15:18:43.000Z",
@@ -4042,7 +4034,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Strandpromenade von Valencia.jpg",
+        "filename": "Strandpromenade.jpg",
         "latitude": 39.468239,
         "longitude": -0.324186,
         "createDate": "2023-04-01T13:20:36.000Z",
@@ -4050,7 +4042,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Street Art Mann in Valencia.jpg",
+        "filename": "Street Art Mann.jpg",
         "latitude": 39.473506,
         "longitude": -0.384342,
         "createDate": "2023-03-30T19:10:39.000Z",
@@ -4090,7 +4082,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Zwei Buffallos liegen in der Weide am Tiergarten Valencia.jpg",
+        "filename": "Zwei Buffallos liegen in der Weide am Tiergarten.jpg",
         "latitude": 39.479428,
         "longitude": -0.410625,
         "createDate": "2023-04-02T13:36:48.000Z",
@@ -4108,7 +4100,7 @@ export const galleries = [
     "description": "Blues, Katzen & Muddy Waters.",
     "images": [
       {
-        "filename": "Chillen and der Thaya unter den Trauerweiden in Waidhofen.jpg",
+        "filename": "Chillen and der Thaya unter den Trauerweiden.jpg",
         "latitude": 48.811233,
         "longitude": 15.289903,
         "createDate": "2025-06-28T18:19:19.000Z",
@@ -4116,7 +4108,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Foto-Kunst neben Thayabühne Waidhofen.jpg",
+        "filename": "Foto-Kunst neben Thayabühne.jpg",
         "latitude": 48.811478,
         "longitude": 15.290239,
         "createDate": "2025-06-27T18:22:07.000Z",
@@ -4124,7 +4116,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Rettungsring  an der Thaya in Waidhofen.jpg",
+        "filename": "Rettungsring  an der Thaya.jpg",
         "latitude": 48.811428,
         "longitude": 15.290214,
         "createDate": "2025-06-27T18:22:32.000Z",
@@ -4132,7 +4124,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Saxophon Konzert Hauptbühne Waidhofen.jpg",
+        "filename": "Saxophon Konzert Hauptbühne.jpg",
         "latitude": 48.810967,
         "longitude": 15.289403,
         "createDate": "2025-06-27T19:37:13.000Z",
@@ -4140,7 +4132,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Schnupperabend Bridge und Katzen Schaufenster in Waidhofen.jpg",
+        "filename": "Schnupperabend Bridge und Katzen Schaufenster.jpg",
         "latitude": 48.814175,
         "longitude": 15.285006,
         "createDate": "2025-06-28T08:07:17.000Z",
@@ -4148,7 +4140,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Thayabühne auf den Musiktagen Waidhofen.jpg",
+        "filename": "Thayabühne auf den Musiktagen.jpg",
         "latitude": 48.811347,
         "longitude": 15.290106,
         "createDate": "2025-06-27T18:20:20.000Z",
@@ -4156,7 +4148,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Verlassenes Gebäude Waidhofen.jpg",
+        "filename": "Verlassenes Gebäude.jpg",
         "latitude": 48.812633,
         "longitude": 15.28045,
         "createDate": "2025-06-28T07:56:47.000Z",
@@ -4174,7 +4166,7 @@ export const galleries = [
     "description": "Viele Taferl, viele Exemplare & viele Räume. Schönes Museum. Gratis.",
     "images": [
       {
-        "filename": "Schriftzug Museum der Stadt Wien.jpg",
+        "filename": "Schriftzug 'Museum der Stadt Wien'.jpg",
         "latitude": 48.199192,
         "longitude": 16.372353,
         "createDate": "2025-05-14T14:14:08.000Z",
@@ -4182,15 +4174,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Schriftzug Südbahnhof Wien Museum.jpg",
-        "latitude": 48.199169,
-        "longitude": 16.372769,
-        "createDate": "2025-05-14T15:05:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199169,16.372769",
-        "alt": null
-      },
-      {
-        "filename": "Schriftzug Zuerst schließen wir die Augen dann sehen wir weiter Wien Museum.jpg",
+        "filename": "Schriftzug 'Zuerst schließen wir die Augen dann sehen wir weiter'.jpg",
         "latitude": 48.199092,
         "longitude": 16.372906,
         "createDate": "2025-05-14T15:07:25.000Z",
@@ -4198,15 +4182,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wal Wien Museum.jpg",
-        "latitude": 48.199161,
-        "longitude": 16.372772,
-        "createDate": "2025-05-14T15:28:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199161,16.372772",
+        "filename": "Schriftzug Südbahnhof.jpg",
+        "latitude": 48.199169,
+        "longitude": 16.372769,
+        "createDate": "2025-05-14T15:05:40.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199169,16.372769",
         "alt": null
       },
       {
-        "filename": "Wal und Kutsche Wien Museum.jpg",
+        "filename": "Stahl-Wal und Kutsche.jpg",
         "latitude": 48.199161,
         "longitude": 16.372861,
         "createDate": "2025-05-14T15:28:25.000Z",
@@ -4214,11 +4198,19 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wal, Kutsche und Statuen Wien Museum.jpg",
+        "filename": "Stahl-Wal, Kutsche und Statuen.jpg",
         "latitude": 48.199367,
         "longitude": 16.372703,
         "createDate": "2025-05-14T15:27:21.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199367,16.372703",
+        "alt": null
+      },
+      {
+        "filename": "Von der Decke hängender Stahl-Wahl.jpg",
+        "latitude": 48.199161,
+        "longitude": 16.372772,
+        "createDate": "2025-05-14T15:28:03.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199161,16.372772",
         "alt": null
       }
     ],
@@ -4232,7 +4224,7 @@ export const galleries = [
     "description": "An den Grenzen der Stadt & am Ende der Dinge sieht man das schöne. Einmal mit der 71er hin- und retour.",
     "images": [
       {
-        "filename": "Adler Grab am Zentralfriedhof Wien.jpg",
+        "filename": "Adler Grab.jpg",
         "latitude": 48.152783,
         "longitude": 16.435778,
         "createDate": "2025-06-29T11:02:23.000Z",
@@ -4240,7 +4232,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Altar Seitlich Kirche Zentralfriedhof Wien.jpg",
+        "filename": "Altar Seitlich Kirche.jpg",
         "latitude": 48.158069,
         "longitude": 16.437931,
         "createDate": "2025-06-29T11:13:46.000Z",
@@ -4248,7 +4240,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Altar der Kirche am Zentralfriedhof Wien.jpg",
+        "filename": "Altar der Kirche.jpg",
         "latitude": 48.156844,
         "longitude": 16.439061,
         "createDate": "2025-06-29T11:14:05.000Z",
@@ -4256,7 +4248,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Arkaden am Zentralfriedhof Wien.jpg",
+        "filename": "Arkaden neben der Kirche.jpg",
         "latitude": null,
         "longitude": null,
         "createDate": null,
@@ -4264,7 +4256,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Ausseansicht von Tor 1 am Zentralfriedhof Wien.jpg",
+        "filename": "Aussenansicht von Tor 1.jpg",
         "latitude": 48.159,
         "longitude": 16.431983,
         "createDate": "2025-05-30T16:18:48.000Z",
@@ -4272,7 +4264,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Blau-Goldene Kuppel Seitlich in der Kirche am Zentralfriedhof Wien.jpg",
+        "filename": "Blau-Goldene Kuppel Seitlich in der Kirche.jpg",
         "latitude": 48.151558,
         "longitude": 16.437939,
         "createDate": "2025-06-29T11:12:59.000Z",
@@ -4280,7 +4272,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Blau-Goldene Kuppel der Kirche am Zentralfriedhof Wien.jpg",
+        "filename": "Blau-Goldene Kuppel der Kirche.jpg",
         "latitude": 48.150914,
         "longitude": 16.437881,
         "createDate": "2025-06-29T11:11:48.000Z",
@@ -4288,7 +4280,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Blumenstand Tor 11 Zentralfriedhof Wien.jpg",
+        "filename": "Blumenstand am Tor 11.jpg",
         "latitude": 48.151947,
         "longitude": 16.427978,
         "createDate": "2025-06-01T06:06:36.000Z",
@@ -4296,7 +4288,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bundespräsidentengräber Zentralfriedhof Wien.jpg",
+        "filename": "Bundespräsidentengräber und Kirche.jpg",
         "latitude": 48.1511,
         "longitude": 16.4386,
         "createDate": "2025-06-29T11:09:07.000Z",
@@ -4304,7 +4296,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bänke im Detail in der Kirche am Zentralfriedhof Wien.jpg",
+        "filename": "Bänke im Detail in der Kirche.jpg",
         "latitude": 48.150864,
         "longitude": 16.4381,
         "createDate": "2025-06-29T11:11:09.000Z",
@@ -4312,7 +4304,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bänke in der Kirche am Zentralfriedhof Wien.jpg",
+        "filename": "Bänke in der Kirche.jpg",
         "latitude": 48.158069,
         "longitude": 16.437931,
         "createDate": "2025-06-29T11:13:32.000Z",
@@ -4320,7 +4312,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Bänke von der Seite in der Kirche am Zentralfriedhof Wien.jpg",
+        "filename": "Bänke von der Seite in der Kirche.jpg",
         "latitude": 48.150867,
         "longitude": 16.438186,
         "createDate": "2025-06-29T11:11:25.000Z",
@@ -4328,11 +4320,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Denkmal Zentralfriedhof Wien.jpg",
-        "latitude": 48.148553,
-        "longitude": 16.436297,
-        "createDate": "2025-05-29T08:31:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.148553,16.436297",
+        "filename": "Der Weg zur Kirche.jpg",
+        "latitude": 48.152878,
+        "longitude": 16.437461,
+        "createDate": "2025-06-29T11:04:29.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.152878,16.437461",
         "alt": null
       },
       {
@@ -4352,7 +4344,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Jesus-Statue Kirche Zentralfriedhof Wien.jpg",
+        "filename": "Jesus-Statue in einem Seitenschiff der Kirche.jpg",
         "latitude": 48.156361,
         "longitude": 16.439128,
         "createDate": "2025-06-29T11:15:30.000Z",
@@ -4360,11 +4352,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kirche Baum Zentralfriedhof Wien.jpg",
-        "latitude": 48.151644,
-        "longitude": 16.438939,
-        "createDate": "2025-05-21T16:11:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151644,16.438939",
+        "filename": "Kirche Aussenansicht.jpg",
+        "latitude": 48.151353,
+        "longitude": 16.438828,
+        "createDate": "2025-06-29T11:08:36.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151353,16.438828",
         "alt": null
       },
       {
@@ -4384,7 +4376,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kirche Trauerweiden Zentralfriedhof Wien.jpg",
+        "filename": "Kirche und Baum.jpg",
+        "latitude": 48.151644,
+        "longitude": 16.438939,
+        "createDate": "2025-05-21T16:11:55.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151644,16.438939",
+        "alt": null
+      },
+      {
+        "filename": "Kirche und Trauerweiden.jpg",
         "latitude": 48.150586,
         "longitude": 16.436633,
         "createDate": "2025-06-01T06:16:12.000Z",
@@ -4392,15 +4392,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kirche Zentralfriedhof Wien.jpg",
-        "latitude": 48.151353,
-        "longitude": 16.438828,
-        "createDate": "2025-06-29T11:08:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151353,16.438828",
-        "alt": null
-      },
-      {
-        "filename": "Lorenzo's Grab am Zentralfriedhof Wien.jpg",
+        "filename": "Lorenzo's Grab.jpg",
         "latitude": 48.153328,
         "longitude": 16.437883,
         "createDate": "2025-05-21T16:08:49.000Z",
@@ -4408,7 +4400,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Priester-Statue in der Kirche am Zentralfriedhof Wien.jpg",
+        "filename": "Priester-Statue in einem Seitenschiff der Kirche.jpg",
         "latitude": 48.15685,
         "longitude": 16.439056,
         "createDate": "2025-06-29T11:16:24.000Z",
@@ -4416,7 +4408,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Seitengang der Kirche am Zentralfriedhof Wien.jpg",
+        "filename": "Seitengang der Kirche.jpg",
         "latitude": 48.156892,
         "longitude": 16.438922,
         "createDate": "2025-06-29T11:17:00.000Z",
@@ -4424,15 +4416,15 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Weg zur Kirche Zentralfriedhof Wien.jpg",
-        "latitude": 48.152878,
-        "longitude": 16.437461,
-        "createDate": "2025-06-29T11:04:29.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.152878,16.437461",
+        "filename": "Sowjetisches-Denkmal.jpg",
+        "latitude": 48.148553,
+        "longitude": 16.436297,
+        "createDate": "2025-05-29T08:31:01.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.148553,16.436297",
         "alt": null
       },
       {
-        "filename": "Zwischengang der Kirche am Zentralfriedhof Wien.jpg",
+        "filename": "Zwischengang der Kirche.jpg",
         "latitude": 48.156886,
         "longitude": 16.438947,
         "createDate": "2025-06-29T11:16:40.000Z",

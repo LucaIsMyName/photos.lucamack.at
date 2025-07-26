@@ -17,6 +17,9 @@ interface HrefProps {
 
 const Href = ({ asChild = false, href, to, hasDecoration = true, children, onClick, className, target = "_blank", rel = "noopener noreferrer", download, ...props }: HrefProps) => {
   const { theme } = useTheme();
+
+  const baseClasses = cn(hasDecoration ? "underline underline-offset-4 " : "", theme === "dark" ? "text-white hover:decoration-white decoration-red-300" : "text-black hover:decoration-black decoration-red-600", className);
+
   if (to !== undefined && href === undefined) {
     return (
       <Link
@@ -24,7 +27,7 @@ const Href = ({ asChild = false, href, to, hasDecoration = true, children, onCli
         rel={rel}
         onClick={onClick}
         {...props}
-        className={cn(hasDecoration ? "underline underline-offset-4 " : "", theme === "dark" ? "text-white hover:decoration-white decoration-red-300" : "text-black hover:decoration-black decoration-red-600", className)}>
+        className={baseClasses}>
         {children}
       </Link>
     );
@@ -34,11 +37,24 @@ const Href = ({ asChild = false, href, to, hasDecoration = true, children, onCli
       <div
         onClick={onClick}
         {...props}
-        className={cn(hasDecoration ? "underline underline-offset-4 " : "", theme === "dark" ? "text-white hover:decoration-white decoration-red-300" : "text-black hover:decoration-black decoration-red-600", className)}>
+        className={baseClasses}>
         {children}
       </div>
     );
   }
+  if (href === undefined && to !== undefined) {
+    return (
+      <Link
+        to={to}
+        rel={rel}
+        onClick={onClick}
+        {...props}
+        className={baseClasses}>
+        {children}
+      </Link>
+    );
+  }
+  
   return (
     <a
       href={href}
@@ -46,7 +62,7 @@ const Href = ({ asChild = false, href, to, hasDecoration = true, children, onCli
       rel={rel}
       onClick={onClick}
       {...props}
-      className={cn(hasDecoration ? "underline underline-offset-4 " : "", theme === "dark" ? "text-white hover:decoration-white decoration-red-300" : "text-black hover:decoration-black decoration-red-600", className)}>
+      className={baseClasses}>
       {children}
     </a>
   );

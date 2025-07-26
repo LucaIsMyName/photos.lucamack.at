@@ -201,7 +201,7 @@ const ImagePage = () => {
               className={cn(`flex items-center gap-2  ${theme === "dark" ? "" : ""}`)}
               to={`/gallery/${gallery.slug}`}>
               <img
-                src={getImageUrl(gallery.slug, encodeURI(gallery.images[0].filename.replaceAll(" ", "_")), 380)}
+                src={getImageUrl(gallery.slug, encodeURI(gallery.images[0].filename.replaceAll(" ", "_")), 160)}
                 alt={gallery.title}
                 className="w-7 h-7 object-cover"
               />
@@ -347,8 +347,8 @@ const ImagePage = () => {
                 <img
                   src={getImageUrl(relatedImage.gallerySlug, relatedImage.filename.replaceAll(" ", "_"), 380)}
                   alt={relatedImage.filename.replaceAll("_", " ").replace(".jpg", "").trim()}
-                  width={380}
-                  height={380}
+                  width={160}
+                  height={160}
                   sizes="(max-width: 768px) 50vw, 20vw"
                   className={cn("aspect-square object-cover w-full h-full", relatedImage.isRandomPick && "")}
                 />

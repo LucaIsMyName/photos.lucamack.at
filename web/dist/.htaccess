@@ -1,24 +1,21 @@
-<IfModule mod_rewrite.c># Enable URL rewriting
-RewriteEngine On
-
-# Redirect domain/galleryName to domain.com/gallery/galleryName
-# Only if the galleryName is not already in a path with /gallery/ prefix
-RewriteCond %{REQUEST_URI} !^/gallery/ [NC]
-RewriteCond %{REQUEST_URI} !^/(app|css|js|images|assets|api)/ [NC]
-RewriteCond %{REQUEST_URI} !^/index\.html$ [NC]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^([^/]+)/?$ /gallery/$1 [R=301,L]
-
-# Redirect domain.com/galleryName/imageName to domain.com/gallery/galleryName/image/imageName
-# Only if the URL doesn't already contain /image/ and isn't already in the correct format
-RewriteCond %{REQUEST_URI} !^/gallery/[^/]+/image/ [NC]
-RewriteCond %{REQUEST_URI} !^/(app|css|js|images|assets|api)/ [NC]
-RewriteRule ^([^/]+)/([^/]+)/?$ /gallery/$1/image/$2 [R=301,L]
-
-# If using HTML5 history mode in a SPA, add this to handle direct URL access:
-# This sends all requests that don't match an actual file or directory to index.html
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^ index.html [L]
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  
+  # Redirect old image URLs to homepage (permanent redirect)
+  RewriteRule ^image/(.*)$ / [R=301,L]
+  
+  # Redirects for legacy routes to new /app/ routes
+  RewriteRule ^map/?$ /app/map [R=301,L]
+  RewriteRule ^list/?$ /app/list [R=301,L]
+  RewriteRule ^timeline/?$ /app/timeline [R=301,L]
+  RewriteRule ^postcard/?$ /app/postcard [R=301,L]
+  RewriteRule ^statistics/?$ /app/statistics [R=301,L]
+  
+  # Default SPA handling
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteRule . /index.html [L]
 </IfModule>

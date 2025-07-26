@@ -6,6 +6,8 @@ import Image from "../layout/Image";
 import { cn } from "../../utils/cn";
 import { getImageUrl } from "../../utils/image";
 import { CONFIG } from "../../config";
+import Href from "../ui/Href";
+import { slugify } from "../../utils/slugify";
 
 const HomePage = () => {
   const [randomImage, setRandomImage] = useState<{ gallery: Gallery; image: ImageType } | null>(null);
@@ -37,7 +39,7 @@ const HomePage = () => {
   const imageDetails = getImageDetails();
 
   return (
-    <div className="h-full w-full relative">
+    <div className="h-full w-full relative overflow-hidden">
       <title>{`Fotos | ${CONFIG.meta.title}`}</title>
       <meta
         name="title"
@@ -48,21 +50,28 @@ const HomePage = () => {
         content={`Momente und Fotoserien von ${CONFIG.meta.title}.`}
       />
 
-      <div className={cn("absolute inset-0 p-8 md:p-16")}>
+      <div className={cn("absolute inset-0 py-12 pb-24 px-8 md:p-20 lg:p-24")}>
         {imageDetails ? (
-          <Link
-            to={`/gallery/${imageDetails.slug}`}
-            className="block w-full h-full">
-            <Image
-              src={imageDetails.src}
-              alt={(imageDetails.src.split("/").pop()?.replace(".jpg", "") + " / " || "") + "Fotoserie: " + (galleries.find((g) => g.slug === imageDetails.slug)?.title || "")}
-              width={imageDetails.width || 1920}
-              height={imageDetails.height || 1080}
-              sizes="100vw"
-              loading="eager"
-              className={cn("object-contain w-full h-full")}
-            />
-          </Link>
+          <>
+            <Link
+              to={`/gallery/${imageDetails.slug}`}
+              className="block w-full h-full">
+              <Image
+                src={imageDetails.src}
+                alt={(imageDetails.src.split("/").pop()?.replace(".jpg", "") + " / " || "") + "Fotoserie: " + (galleries.find((g) => g.slug === imageDetails.slug)?.title || "")}
+                width={imageDetails.width || 1920}
+                height={imageDetails.height || 1080}
+                sizes="100vw"
+                loading="eager"
+                className={cn("object-contain w-full h-full")}
+              />
+            </Link>
+            <section className="absolute md:text-center bottom-0 right-0 left-0 p-4 md:py-6 text-balance">
+              <div className="max-w-[50vh] md:max-w-[65ch] md:mx-auto text-xs">
+                <Href to={`/gallery/${imageDetails.slug}/image/${slugify(imageDetails.src.split("/").pop()?.replace(".jpg", "") || "")}`}>{imageDetails.src.split("/").pop()?.replace(".jpg", "")}</Href> aus der Fotoserie <Href to={`/gallery/${imageDetails.slug}`}>{galleries.find((g) => g.slug === imageDetails.slug)?.title}</Href>
+              </div>
+            </section>
+          </>
         ) : (
           <div className="absolute inset-0 flex items-center justify-center">Lade Foto...</div>
         )}

@@ -1,4 +1,4 @@
-import { useMemo } from "react";
+import { useMemo, useState, useEffect } from "react";
 import { useSearchParams } from "react-router-dom";
 import { useTheme } from "../../contexts/ThemeContext";
 import HorizontalScroller from "../layout/HorizontalScroller";
@@ -14,6 +14,7 @@ import { getImageUrl } from "../../utils/image";
 import Href from "../ui/Href";
 import { slugify } from "../../utils/slugify";
 import { Clock, MapPin } from "lucide-react";
+import useDebounce from "../../hooks/useDebounce";
 
 interface SortFilterBarProps {
   searchTerm: string;
@@ -47,15 +48,21 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
       </div>
 
       <div className={`flex-shrink-0 flex items-center gap-4 p-2 px-4 border-r ${borderClass}`}>
-        <span className="whitespace-nowrap">Filter von</span>
+        <label
+          htmlFor="startDate"
+          className="whitespace-nowrap">
+          Filter von
+        </label>
         <input
+          id="startDate"
           type="date"
           value={startDate}
           onChange={(e) => setStartDate(e.target.value)}
           className="bg-transparent focus:outline-none uppercase"
         />
-        <span>bis</span>
+        <label htmlFor="endDate">bis</label>
         <input
+          id="endDate"
           type="date"
           value={endDate}
           onChange={(e) => setEndDate(e.target.value)}
@@ -67,6 +74,7 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
         <span className="whitespace-nowrap">Sortieren nach</span>
         <Select.Root
           value={sortKey}
+          aria-label="Sortieren nach"
           onValueChange={setSortKey}>
           <Select.Trigger className={`inline-flex items-center justify-center gap-2 bg-transparent focus:outline-none`}>
             <Select.Value />
@@ -84,6 +92,7 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
                   <Select.Item
                     key={option.value}
                     value={option.value}
+                    aria-label={option.label}
                     className={`text-sm leading-none flex items-center h-6 pr-8 pl-6 relative select-none data-[highlighted]:outline-none ${theme === "dark" ? "data-[highlighted]:bg-red-300 data-[highlighted]:text-black" : "data-[highlighted]:bg-red-600 data-[highlighted]:text-white"}`}>
                     <Select.ItemText>{option.label}</Select.ItemText>
                   </Select.Item>
@@ -97,6 +106,7 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
         </Select.Root>
         <button
           onClick={() => setSortOrder(sortOrder === "asc" ? "desc" : "asc")}
+          aria-label="Sortieren nach"
           className="whitespace-nowrap">
           {sortOrder === "asc" ? "(Aufsteigend)" : "(Absteigend)"}
         </button>
@@ -104,6 +114,7 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
       <div className="flex-shrink-0 p-2 px-4">
         <button
           onClick={onClearFilters}
+          aria-label="Alle Filter löschen"
           className={`${theme === "dark" ? "text-red-300" : "text-red-600"} underline underline-offset-4 whitespace-nowrap hover:underline`}>
           Filter löschen
         </button>
@@ -111,9 +122,6 @@ const SortFilterBar = ({ searchTerm, setSearchTerm, sortKey, setSortKey, sortOpt
     </div>
   );
 };
-
-import { useState, useEffect } from "react";
-import useDebounce from "../../hooks/useDebounce";
 
 const ListPage = () => {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -361,22 +369,24 @@ const ListPage = () => {
                         {parseCreateDate(image.createDate)?.toLocaleString() || "Ungültiges Datum"}
                       </Href>
                     </p>
-                    {image.latitude && image.longitude ? (
-                      <p className="flex items-center gap-2 text-xs mt-1">
-                        <MapPin size={12} />
-                        <Href
-                          target="_self"
-                          className="text-xs"
-                          href={`/app/map?gallery=${image.gallerySlug}&image=${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
-                          {`${image.latitude.toFixed(3)}, ${image.longitude.toFixed(3)}`}
-                        </Href>
-                      </p>
-                    ) : (
-                      <p className="flex items-center gap-2 text-xs mt-1">
-                        <MapPin size={12} />
-                        <span className="truncate">N/A</span>
-                      </p>
-                    )}
+                    <p className="flex items-center gap-2 text-xs mt-1">
+                      {image.latitude && image.longitude ? (
+                        <>
+                          <MapPin size={12} />
+                          <Href
+                            target="_self"
+                            className="text-xs"
+                            href={`/app/map?gallery=${image.gallerySlug}&image=${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
+                            {`${image.latitude.toFixed(3)}, ${image.longitude.toFixed(3)}`}
+                          </Href>
+                        </>
+                      ) : (
+                        <>
+                          <MapPin size={12} />
+                          <span className="truncate">N/A</span>
+                        </>
+                      )}
+                    </p>
                     <Href
                       className="flex items-center gap-2 text-xs mt-1"
                       href={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), "original")}
