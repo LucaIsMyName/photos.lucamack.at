@@ -11,7 +11,7 @@ const PageComponent = () => {
   const page: Page | undefined = pages.find((p: Page) => p.slug === slug);
 
   if (!page) {
-    return <div className="md:py-6 py-4 text-left ">Seite nicht gefunden.</div>;
+    return <div className="md:py-6 py-4 md:pl-8 text-left ">Seite nicht gefunden.</div>;
   }
 
   return (
@@ -26,12 +26,12 @@ const PageComponent = () => {
         content={`${page.content.replaceAll("\n", " ").replace("#", "").trim().substring(0, 160)}`}
       />
 
-      <div className="px-4 md:px-0 pt-0 pt-3">
+      <div className="px-4  md:pl-8  md:px-0 pt-0 pt-3">
         <div
           className="flex flex-col items-start"
           data-wysiwyg>
           <div
-            className={`w-full md:max-w-[calc(var(--content-width)/2)] text-sm md:text-lg leading-8 my-4 leading-tight prose ${theme === "dark" ? "prose-invert" : ""}`}
+            className={`w-full md:max-w-[calc(var(--content-width)/1.5)] text-sm md:text-lg leading-8 my-4 leading-tight prose ${theme === "dark" ? "prose-invert" : ""}`}
             dangerouslySetInnerHTML={{ __html: marked(page.content) }}></div>
         </div>
       </div>

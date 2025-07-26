@@ -32,7 +32,7 @@ const Href = ({ asChild = false, href, to, hasDecoration = true, children, onCli
       </Link>
     );
   }
-  if (asChild || href === undefined && to === undefined) {
+  if (asChild || (href === undefined && to === undefined)) {
     return (
       <div
         onClick={onClick}
@@ -54,7 +54,7 @@ const Href = ({ asChild = false, href, to, hasDecoration = true, children, onCli
       </Link>
     );
   }
-  
+
   return (
     <a
       href={href}

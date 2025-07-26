@@ -83,8 +83,9 @@ All content is managed locally using a simple file and folder structure. After a
 
 1.  **Create a Folder**: Add a new folder inside `web/content/galleries/`. The folder name will become the gallery's URL slug (e.g., `new-york-trip`).
 2.  **Add Images**: Place your images (`.jpg`, `.jpeg`, `.png`, `.heic`) inside the new folder. The script automatically handles `HEIC` to `JPEG` conversion.
-3.  **(Optional) Add a Description**: Create an `index.md` file inside the gallery folder. The script will use the first H1 heading (`#`) as the gallery title and the first paragraph as its description.
-4.  **Generate Gallery Data**: Run the gallery generation script:
+3.  **Image Naming**: Name your images in a descriptive way, The Name is set as the alt text, for the URLs: Image names are sluggified into the url. 
+4.  **(Optional) Add a Description**: Create an `index.md` file inside the gallery folder. The script will use the first H1 heading (`#`) as the gallery title and the first paragraph as its description.
+5.  **Generate Gallery Data**: Run the gallery generation script:
 
     ```bash
     node generate-galleries.mjs
@@ -163,15 +164,3 @@ interface Image {
 -   `node generate-pages.mjs`: Scans the `content/pages` directory, reads Markdown files, and generates `src/pages.ts`.
 
 ---
-
-## Future Work
-
-- **List.tsx** & **Timeline.tsx**: Implement Ajax Loading for images or some kind of virtualization, there are about 400 image (and growing) loaded
-- **System Messages**: Insert `CONFIG.systemMessages` from `config.ts` file instead of hardcoding standard texts
-- **StatisticsPage.tsx**: North/South/East/West-Image -> Link to Image Page instead of gallery
-- **List.tsx**: Make 2 Column Layout more defensive / truncate text early, set image width and height the *hard* way
-- **HorizontalScroll.tsx**: Implement Progressive Blur on the gradient bg filter
-- **MakePostcardPage.tsx**: 
-  - A Strict Masonry/Strict Layout option
-  - different text pacement strategies (drag'n'drop, text align (left/center/right))
-- **ImagePage.tsx** & **Map.tsx**: When i navigate from Image-Page to Map-Page (via Link at the bottom next to Apple and Google Maps) the markers are not initialized, only once i zoom in/out or drag mapbox canvas it displays them

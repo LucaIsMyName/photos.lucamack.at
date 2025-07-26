@@ -7,6 +7,7 @@ import { useEffect, useMemo } from "react";
 import { useLocation } from "react-router-dom";
 import { CONFIG } from "../../config";
 import { getImageUrl } from "../../utils/image";
+import CopyButton from "../ui/CopyButton";
 
 const GalleryPage = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -125,20 +126,20 @@ const GalleryPage = () => {
         name="og:type"
         content="website"
       />
-      <div className="px-4 md:px-0">
+      <div className="px-4  md:pl-8 md:px-0">
         <div className="flex flex-col items-start">
-          <h1 className={`${CONFIG.theme.headline.one} w-full max-w-[560px] text-wrap-balance md:pt-8 pt-6 pb-4  `}>{gallery.title || gallery.name}</h1>
+          <h1 className={`${CONFIG.theme.headline.one} w-full max-w-[calc(var(--content-width)/(21/13))] text-wrap-balance md:pt-8 pt-6 pb-4  `}>{gallery.title || gallery.name}</h1>
 
           {gallery.description && (
             <div
-              className="w-full max-w-[calc(var(--content-width)/2)] text-wrap-balance text-sm md:text-lg leading-8 my-4 pb-4 leading-tight"
+              className="w-full max-w-[calc(var(--content-width)/(21/13))] text-wrap-balance text-sm md:text-lg leading-8 my-4 pb-4 leading-tight"
               dangerouslySetInnerHTML={{ __html: marked(gallery.description) }}
             />
           )}
         </div>
 
         {shuffledImages.length > 0 ? (
-          <div className="max-w-[var(--content-width)] lg:pr-4 flex flex-wrap justify-center items-center gap-8 md:gap-0 pb-4">
+          <div className="md:max-w-[calc(var(--content-width))] lg:pr-4 flex flex-wrap justify-center items-center gap-8 md:gap-0 pb-4">
             {shuffledImages.map((image) => (
               <GalleryItem
                 key={image.filename}
@@ -151,13 +152,16 @@ const GalleryPage = () => {
         ) : (
           <p className="text-left">{CONFIG.systemMessages.noImagesFound}</p>
         )}
-        {gallery.timeframe || gallery.imageCount ? (
-          <div className="max-w-[calc(1024px)] flex w-full  my-8 py-8 flex flex-col md:flex-row justify-between items-center text-sm">
+        <div className="md:max-w-[calc(var(--content-width))] w-full gap-4 my-8 py-8 flex flex-col justify-between items-center text-sm">
+          {gallery.timeframe || gallery.imageCount ? (
             <div className="text-left flex justify-center gap-4 w-full">
               {gallery.timeframe ? <p>{gallery.timeframe} </p> : <p>N/A</p>} | {gallery.imageCount ? <p>{gallery.imageCount} Fotos</p> : <p>N/A</p>}
             </div>
+          ) : null}
+          <div className="flex justify-center">
+            <CopyButton textToCopy={window.location.href}><span className="font-mono">Link Kopieren</span></CopyButton>
           </div>
-        ) : null}
+        </div>
       </div>
     </div>
   );

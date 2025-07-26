@@ -66,9 +66,9 @@ const HomePage = () => {
                 className={cn("object-contain w-full h-full")}
               />
             </Link>
-            <section className="absolute md:text-center bottom-0 right-0 left-0 p-4 md:py-6 text-balance">
-              <div className="max-w-[50vh] md:max-w-[65ch] md:mx-auto text-xs">
-                <Href to={`/gallery/${imageDetails.slug}/image/${slugify(imageDetails.src.split("/").pop()?.replace(".jpg", "") || "")}`}>{imageDetails.src.split("/").pop()?.replace(".jpg", "")}</Href> aus der Fotoserie <Href to={`/gallery/${imageDetails.slug}`}>{galleries.find((g) => g.slug === imageDetails.slug)?.title}</Href>
+            <section className="absolute md:text-right bottom-0 right-0 left-0 p-4 md:pr-8 md:py-6 text-balance">
+              <div className=" md:mx-auto md:text-xs leading-5">
+                <Href className="max-w-[50vh] md:max-w-[65ch]" to={`/gallery/${imageDetails.slug}/image/${slugify(imageDetails.src.split("/").pop()?.replace(".jpg", "") || "")}`}>{imageDetails.src.split("/").pop()?.replace(".jpg", "")}</Href> aus der Fotoserie <Href to={`/gallery/${imageDetails.slug}`}>{galleries.find((g) => g.slug === imageDetails.slug)?.title}</Href>
               </div>
             </section>
           </>

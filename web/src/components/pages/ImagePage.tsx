@@ -152,7 +152,7 @@ const ImagePage = () => {
   }, [foundImage]);
 
   return (
-    <div className="w-full max-w-[var(--content-width)] p-4 md:p-8 flex flex-col items-center">
+    <div className="w-full md:max-w-[var(--content-width)] p-4 md:py-8 md:px-0  md:px-8  flex flex-col items-center">
       <title>{`${image.filename.replace("_", " ").replace(".jpg", "").trim()} | ${gallery.title} | ${CONFIG.meta.title}`}</title>
       <meta
         name="title"
@@ -194,34 +194,56 @@ const ImagePage = () => {
           />
         </div>
         <div className="flex flex-col gap-0 w-full">
-          <h1 className="text-base md:text-3xl mb-4">{image.filename.replaceAll("_", " ").replace(".jpg", "").trim()}</h1>
+          <h1 className="text-base md:text-3xl mb-4 text-balance">{image.filename.replaceAll("_", " ").replace(".jpg", "").trim()}</h1>
 
-          <div className="flex justify-between items-center gap-4 my-4 border-t border-neutral-500/50 border-dotted pt-8">
-            <Link
-              className={cn(`flex items-center gap-2  ${theme === "dark" ? "" : ""}`)}
-              to={`/gallery/${gallery.slug}`}>
-              <img
-                src={getImageUrl(gallery.slug, encodeURI(gallery.images[0].filename.replaceAll(" ", "_")), 160)}
-                alt={gallery.title}
-                className="w-7 h-7 object-cover"
-              />
-              <Href className="text-[11px] truncate">{gallery.title}</Href>
-            </Link>
-
+          <div className={`flex w-full justify-between items-center gap-4 my-4 ${CONFIG.theme.border.top} pt-8`}>
+            <div className="flex justify-start items-center gap-1 text-[11px] leading-[20px]">
+              <div className={cn(`flex-1 flex justify-between  w-full items-center gap-4  ${theme === "dark" ? "" : ""}`)}>
+                <Link to={`/gallery/${gallery.slug}`}>
+                  <img
+                    src={getImageUrl(gallery.slug, encodeURI(gallery.images[0].filename.replaceAll(" ", "_")), 160)}
+                    alt={gallery.title}
+                    className="w-16 h-16 object-cover"
+                  />
+                </Link>
+                <div>
+                  <div>
+                    <Href
+                      to={`/gallery/${gallery.slug}`}
+                      className="text-base truncate"
+                      hasDecoration={false}>
+                      {gallery.title}
+                    </Href>
+                  </div>
+                  {image.createDate && parseCreateDate(image.createDate) && (
+                    <Href
+                      to={`/app/timeline?scrollTo=${parseCreateDate(image.createDate)?.toISOString().split("T")[0]}`}
+                      className={cn("text-[11px] font-mono truncate")}>
+                      {parseCreateDate(image.createDate) &&
+                        new Date(parseCreateDate(image.createDate)!).toLocaleDateString("de-DE", {
+                          year: "numeric",
+                          month: "long",
+                          day: "numeric",
+                        })}
+                    </Href>
+                  )}
+                </div>
+              </div>
+            </div>
             <CopyButton
-              className="min-h-4 sm:flex-row-reverse"
+              className=" min-h-4 min-w-4 sm:flex-row-reverse"
               iconToRight={false}
               textToCopy={window.location.href}>
-              <span className="text-[11px] text-nowrap hidden sm:block truncate">Kopieren</span>
+              <span className="text-[11px] text-nowrap hidden sm:block truncate font-mono">URL Kopieren</span>
             </CopyButton>
           </div>
 
-          <div className="flex flex-col lg:flex-row-reverse gap-8 mt-4 border-t border-neutral-500/50 pt-4 md:pt-8 border-dotted">
+          <div className={`flex flex-col lg:flex-row-reverse gap-8 mt-4 ${CONFIG.theme.border.top} pt-4 md:pt-8`}>
             <div className="flex-1">
               <h3 className="text-base mb-2">URLs</h3>
               <div className="grid grid-cols-1 md:grid-cols-[100px,1fr] gap-x-4 gap-y-3 text-sm">
-                <div className="text-[10px] tracking-wider font-mono">Original</div>
-                <div className="flex items-center gap-2 font-mono">
+                <div className={`text-[10px] tracking-wider font-mono pt-4 ${CONFIG.theme.border.top}`}>Original</div>
+                <div className={cn(`  flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
                   <Href
                     href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), "original")}
                     hasDecoration={false}
@@ -235,7 +257,7 @@ const ImagePage = () => {
                 </div>
 
                 <div className="text-[10px] tracking-wider font-mono">1440 px</div>
-                <div className="flex items-center gap-2 font-mono">
+                <div className={cn(`flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
                   <Href
                     href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 1440)}
                     hasDecoration={false}
@@ -246,7 +268,7 @@ const ImagePage = () => {
                 </div>
 
                 <div className="text-[10px] tracking-wider font-mono">640 px</div>
-                <div className="flex items-center gap-2 font-mono">
+                <div className={cn(`flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
                   <Href
                     href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 640)}
                     hasDecoration={false}
@@ -256,7 +278,7 @@ const ImagePage = () => {
                   <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), 640)}`} />
                 </div>
                 <div className="text-[10px] tracking-wider font-mono">380 px</div>
-                <div className="flex items-center gap-2 font-mono">
+                <div className={cn(`flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
                   <Href
                     href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 380)}
                     hasDecoration={false}
@@ -265,23 +287,16 @@ const ImagePage = () => {
                   </Href>
                   <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), 380)}`} />
                 </div>
-
-                {image.createDate && (
-                  <>
-                    <h3 className="text-base mt-4">Datum & Uhrzeit</h3>
-                    <Link
-                      to={`/app/timeline?scrollTo=${parseCreateDate(image.createDate)!.toISOString().split("T")[0]}`}
-                      className={cn("text-xs underline underline-offset-4", theme === "dark" ? "hover:text-red-300 decoration-red-300" : "hover:text-red-600 decoration-red-600")}>
-                      {new Date(parseCreateDate(image.createDate)!).toLocaleDateString("de-DE", {
-                        year: "numeric",
-                        month: "long",
-                        day: "numeric",
-                        hour: "2-digit",
-                        minute: "2-digit",
-                      })}
-                    </Link>
-                  </>
-                )}
+                <div className="text-[10px] tracking-wider font-mono">160 px</div>
+                <div className={cn(`flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
+                  <Href
+                    href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 160)}
+                    hasDecoration={false}
+                    className={cn("truncate font-mono text-xs max-w-[calc(100%-40px)]")}>
+                    {`${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), 160)}`}
+                  </Href>
+                  <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), 160)}`} />
+                </div>
               </div>
             </div>
 

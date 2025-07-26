@@ -4,11 +4,34 @@ import { galleries } from "../../galleries";
 import { pages } from "../../pages";
 import type { Gallery, Page } from "../../types";
 import { useTheme } from "../../contexts/ThemeContext";
-import { Sun, Moon, X, ChevronUp, ChevronDown } from "lucide-react";
+import { Sun, Moon, X, Menu, ChevronUp, ChevronDown } from "lucide-react";
 import Logo from "../ui/Logo";
+import CmdkButton from "../ui/CmdkButton";
+import { CONFIG } from "../../config";
 
-const Navigation = () => {
-  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+interface NavigationProps {
+  onOpenCommandPalette?: () => void;
+  setMobileMenuOpen?: (isOpen: boolean) => void;
+  mobileMenuOpen?: boolean;
+}
+
+const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobileMenuOpen, mobileMenuOpen }: NavigationProps) => {
+  const [isMobileMenuOpen, setIsMobileMenuOpenInternal] = useState(false);
+  
+  // Use this function to update the mobile menu state
+  const setIsMobileMenuOpen = (isOpen: boolean) => {
+    setIsMobileMenuOpenInternal(isOpen);
+    if (externalSetMobileMenuOpen) {
+      externalSetMobileMenuOpen(isOpen);
+    }
+  };
+  
+  // Sync with external mobile menu state if provided
+  useEffect(() => {
+    if (mobileMenuOpen !== undefined) {
+      setIsMobileMenuOpenInternal(mobileMenuOpen);
+    }
+  }, [mobileMenuOpen]);
   const navRef = useRef<HTMLElement>(null);
   const [showTopGradient, setShowTopGradient] = useState(false);
   const [showBottomGradient, setShowBottomGradient] = useState(false);
@@ -59,13 +82,20 @@ const Navigation = () => {
   }, [galleries]);
 
   const themeToggle = (
-    <div className="p-2">
-      <button
-        onClick={toggleTheme}
-        className="cursor-pointer w-full flex items-center justify-start p-2 cursor-pointer"
-        aria-label={`Switch to ${theme === "light" ? "dark" : "light"} mode`}>
-        {theme === "light" ? <Moon size={20} /> : <Sun size={20} />}
-      </button>
+    <div className="flex items-center justify-between gap-2">
+      {onOpenCommandPalette && (
+        <div className="p-1">
+          <CmdkButton onOpen={onOpenCommandPalette} />
+        </div>
+      )}
+      <div className="p-2">
+        <button
+          onClick={toggleTheme}
+          className="cursor-pointer flex items-center justify-start p-2"
+          aria-label={`Farmodus auf ${theme === "light" ? "Dunkel" : "Hell"} wechseln`}>
+          {theme === "light" ? <Moon size={16} /> : <Sun size={16} />}
+        </button>
+      </div>
     </div>
   );
 
@@ -75,6 +105,7 @@ const Navigation = () => {
       <header className={`md:hidden py-4 px-4 flex justify-between items-center sticky top-0 z-10 ${theme === "light" ? "bg-white text-black" : "dark:bg-black dark:text-white"}`}>
         <NavLink
           to="/"
+          title="Startseite"
           className="text-md font-bold">
           <Logo
             className=""
@@ -86,18 +117,10 @@ const Navigation = () => {
           onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
           className="cursor-pointer p-0"
           aria-label="Toggle menu">
-          <svg
-            className="w-6 h-6"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24">
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth="2"
-              d="M4 6h16M4 12h16M4 18h16"
-            />
-          </svg>
+          <Menu
+            size={24}
+            strokeWidth={1.5}
+          />
         </button>
       </header>
 
@@ -107,6 +130,7 @@ const Navigation = () => {
           <div className="flex-shrink-0 flex justify-between items-center p-4">
             <NavLink
               to="/"
+              title="Startseite"
               className="text-md"
               onClick={handleLinkClick}>
               <Logo
@@ -118,7 +142,10 @@ const Navigation = () => {
               onClick={() => setIsMobileMenuOpen(false)}
               className="cursor-pointer p-0"
               aria-label="Close menu">
-              <X size={24} />
+              <X
+                size={24}
+                strokeWidth={1.5}
+              />
             </button>
           </div>
           <div className="flex-grow overflow-y-auto pb-4 no-scrollbar">
@@ -126,6 +153,7 @@ const Navigation = () => {
               {galleries.map((gallery: Gallery) => (
                 <NavLink
                   key={gallery.slug}
+                  title={`Fotoserie: ${gallery.title || gallery.name}`}
                   to={`/gallery/${gallery.slug}`}
                   className={({ isActive }) => navLinkClasses(isActive)}
                   onClick={handleLinkClick}>
@@ -137,6 +165,7 @@ const Navigation = () => {
               <section className="flex gap-0 mb-4 px-4 gap-4">
                 <NavLink
                   to="/app/map"
+                  title="Alle Fotos auf einer Karte anzeigen"
                   className={({ isActive }) => navLinkClasses(isActive, false, false)}
                   onClick={handleLinkClick}>
                   Karte
@@ -144,6 +173,7 @@ const Navigation = () => {
 
                 <NavLink
                   to="/app/list"
+                  title="Alle Fotos als Liste anzeigen"
                   className={({ isActive }) => navLinkClasses(isActive, false, false)}
                   onClick={handleLinkClick}>
                   Liste
@@ -151,6 +181,7 @@ const Navigation = () => {
 
                 <NavLink
                   to="/app/timeline"
+                  title="Alle Fotos als Timeline anzeigen"
                   className={({ isActive }) => navLinkClasses(isActive, false, false)}
                   onClick={handleLinkClick}>
                   Timeline
@@ -160,22 +191,24 @@ const Navigation = () => {
                 <NavLink
                   key={page.slug}
                   to={`/page/${page.slug}`}
+                  title={page.title}
                   className={({ isActive }) => navLinkClasses(isActive, true)}
                   onClick={handleLinkClick}>
                   {page.title}
                 </NavLink>
               ))}
             </div>
-            {themeToggle}
+            <div className=" mr-2">{themeToggle}</div>
           </div>
         </div>
       )}
 
       {/* Desktop Sidebar */}
-      <aside className="hidden md:flex mt-4 md:flex-col md:w-[var(--sidebar-width)] flex-shrink-0 h-[calc(100vh-1rem)]">
+      <aside className={`hidden ${CONFIG.theme.border.right} md:flex pt-4 md:flex-col md:w-[var(--sidebar-width)] flex-shrink-0 h-[calc(100vh)]`}>
         <div className="flex-shrink-0">
           <NavLink
             to="/"
+            title="Startseite"
             className={({ isActive }) => navLinkClasses(isActive) + " flex items-center gap-2"}
             end>
             <Logo
@@ -191,6 +224,7 @@ const Navigation = () => {
             className="h-full overflow-y-auto no-scrollbar">
             {galleries.map((gallery: Gallery) => (
               <NavLink
+                title={`Fotoserie: ${gallery.title || gallery.name}`}
                 key={gallery.slug}
                 to={`/gallery/${gallery.slug}`}
                 className={({ isActive }) => navLinkClasses(isActive)}>
@@ -221,6 +255,7 @@ const Navigation = () => {
           <section className="flex gap-4 px-4 mb-2 sm:mb-6">
             <NavLink
               to="/app/map"
+              title="Alle Fotos auf einer Karte anzeigen"
               className={({ isActive }) => navLinkClasses(isActive, true, false)}
               onClick={handleLinkClick}>
               Karte
@@ -228,6 +263,7 @@ const Navigation = () => {
 
             <NavLink
               to="/app/list"
+              title="Alle Fotos als Such- und Filterbare Liste"
               className={({ isActive }) => navLinkClasses(isActive, true, false)}
               onClick={handleLinkClick}>
               Liste
@@ -235,6 +271,7 @@ const Navigation = () => {
 
             <NavLink
               to="/app/timeline"
+              title="Alle Fotos als Timeline anzeigen"
               className={({ isActive }) => navLinkClasses(isActive, true, false)}
               onClick={handleLinkClick}>
               Timeline
@@ -244,6 +281,7 @@ const Navigation = () => {
             <NavLink
               key={page.slug}
               to={`/page/${page.slug}`}
+              title={page.title}
               className={({ isActive }) => navLinkClasses(isActive, true)}>
               {page.title}
             </NavLink>

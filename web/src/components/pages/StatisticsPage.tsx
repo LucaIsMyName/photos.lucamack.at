@@ -309,7 +309,7 @@ const StatisticsPage = () => {
   }, [allImages, allImagesWithGps]);
 
   return (
-    <div className={cn("p-4 md:pt-8 md:pl-0", theme === "dark" ? "bg-black text-white" : "bg-white text-black")}>
+    <div className={cn("p-4 md:pt-8 md:pl-8", theme === "dark" ? "bg-black text-white" : "bg-white text-black")}>
       <title>{`Statistiken | ${CONFIG.meta.title}`}</title>
       <meta
         name="description"
@@ -376,8 +376,8 @@ const StatisticsPage = () => {
               <Marker
                 key={`photo-marker-${index}`}
                 longitude={image.longitude}
-                latitude={image.latitude}>
-                <div className={cn(`w-1.5 h-1.5 rounded-full rotate-45 opacity-50`, theme === "dark" ? "bg-red-300" : "bg-red-600")}></div>
+                latitude={image.latitude} className="">
+                <div className={cn(`w-4 h-4 opacity-10 blur-sm rotate-0`, theme === "dark" ? "bg-red-300" : "bg-red-600")}></div>
               </Marker>
             ))}
           </MapGL>

@@ -2,7 +2,7 @@ import { useState, useMemo, useRef, useCallback, useEffect } from "react";
 import MapGL, { Marker, Popup, type MapRef } from "react-map-gl/mapbox";
 import useSupercluster from "use-supercluster";
 import { Link, useSearchParams } from "react-router-dom";
-import { Download, X, Layers, Eye } from "lucide-react";
+import { X, Layers, Eye } from "lucide-react";
 import "mapbox-gl/dist/mapbox-gl.css";
 import { galleries } from "../../galleries";
 import { CONFIG } from "../../config";
@@ -235,9 +235,7 @@ const MapPage = () => {
                   <div className={cn(`w-3 h-3 min-w-3 min-h-3 flex-shrink-0 border ${galleryColors.get(gallery.slug)}`, theme === "dark" ? "border-white" : "border-black")} />
                   <span className="truncate text-xs">{gallery.title}</span>
                 </div>
-                <div className="opacity-0 group-hover:opacity-100 transition-opacity">
-                  {hiddenGalleries.has(gallery.slug) ? <Eye size={12} /> : <X size={12} />}
-                </div>
+                <div className="opacity-0 group-hover:opacity-100 transition-opacity">{hiddenGalleries.has(gallery.slug) ? <Eye size={12} /> : <X size={12} />}</div>
               </li>
             ))}
           </ul>
@@ -314,32 +312,24 @@ const MapPage = () => {
             onClose={() => setPopupInfo(null)}
             closeButton={false}
             className="z-10 ">
-            <div className={`relative bg-white text-black`}>
-              <div className="relative group ">
-                <Link to={`/gallery/${popupInfo.gallery.slug}/image/${slugify(popupInfo.image.filename.replace(/\.[^/.]+$/, ""))}`}>
+            <Link to={`/gallery/${popupInfo.gallery.slug}/image/${slugify(popupInfo.image.filename.replace(/\.[^/.]+$/, ""))}`}>
+              <div className={`relative bg-[white] text-black`}>
+                <div className="relative group ">
                   <img
                     className="w-40 md:w-64 w-full h-auto"
                     src={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename.replaceAll(" ", "_"), 380)}
                     alt={popupInfo.image.alt || popupInfo.image.filename.replaceAll("_", " ").replace(".jpg", "")}
                     loading="lazy"
                   />
-                </Link>
-              </div>
-              <section className={`flex items-start justify-between gap-2`}>
-                <div className={cn(`font-geist p-2 pt-4 text-base truncate`)}>
-                  <p className="text-sm truncate">{popupInfo.image.filename.replaceAll("_", " ")}</p>
-                  <p className="text-xs truncate">{popupInfo.gallery.title}</p>
                 </div>
-                <Href
-                  href={getImageUrl(popupInfo.gallery.slug, popupInfo.image.filename.replaceAll(" ", "_"), "original")}
-                  download
-                  onClick={(e: any) => e.stopPropagation()}
-                  className={cn(`p-2 pt-4 px-3 mt-1 mr-2 text-black`)}
-                  aria-label={`Download ${popupInfo.image.filename}`}>
-                  <Download size={16} />
-                </Href>
-              </section>
-            </div>
+                <section className={`flex items-start justify-between gap-2`}>
+                  <div className={cn(`font-geist p-2 pt-4 text-base truncate`)}>
+                    <p className="text-sm truncate">{popupInfo.image.filename.replaceAll("_", " ").replace(".jpg", "")}</p>
+                    <Href to={`/gallery/${popupInfo.gallery.slug}`} className="text-[11px] truncate !text-black">{popupInfo.gallery.title}</Href>
+                  </div>
+                </section>
+              </div>{" "}
+            </Link>
           </Popup>
         )}
       </MapGL>

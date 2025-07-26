@@ -244,6 +244,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "'Unter der Kirche' Strassenschild Simmering.jpg",
+        "latitude": 48.169353,
+        "longitude": 16.423528,
+        "createDate": "2025-07-26T12:06:15.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169353,16.423528",
+        "alt": null
+      },
+      {
         "filename": "'Westbahnpark Jetzt' Sticker.jpg",
         "latitude": 48.194,
         "longitude": 16.326,
@@ -393,6 +401,14 @@ export const galleries = [
         "longitude": 16.420197,
         "createDate": "2025-05-29T06:47:21.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169839,16.420197",
+        "alt": null
+      },
+      {
+        "filename": "Blumen-Buquets vor einem Asphaltboden in Simmering.jpg",
+        "latitude": 48.169933,
+        "longitude": 16.427206,
+        "createDate": "2025-07-26T12:26:37.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169933,16.427206",
         "alt": null
       },
       {
@@ -649,6 +665,14 @@ export const galleries = [
         "longitude": null,
         "createDate": null,
         "googleMapsUrl": null,
+        "alt": null
+      },
+      {
+        "filename": "Grillhendl-Wagen auf einem Parkplatz.jpg",
+        "latitude": 48.170364,
+        "longitude": 16.425317,
+        "createDate": "2025-07-26T12:08:19.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170364,16.425317",
         "alt": null
       },
       {
@@ -1172,6 +1196,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Wohnhaus Durchgang zu Innenhof und weiteren Wohnungen.jpg",
+        "latitude": 48.170964,
+        "longitude": 16.426986,
+        "createDate": "2025-07-26T12:23:12.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170964,16.426986",
+        "alt": null
+      },
+      {
         "filename": "Wohnhaus Wien Simmering Braunhubergasse.jpg",
         "latitude": 48.169789,
         "longitude": 16.412914,
@@ -1228,8 +1260,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "7. Juni 2024 - 25. Juli 2025",
-    "imageCount": 125
+    "timeframe": "7. Juni 2024 - 26. Juli 2025",
+    "imageCount": 129
   },
   {
     "name": "graz",
@@ -1568,6 +1600,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Benediktinerkirche Klagenfurt 2.jpg",
+        "latitude": 46.626228,
+        "longitude": 14.307481,
+        "createDate": "2025-07-21T07:08:57.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626228,14.307481",
+        "alt": null
+      },
+      {
         "filename": "Benediktinerkirche in Klagenfurt.jpg",
         "latitude": 46.626183,
         "longitude": 14.3074,
@@ -1725,14 +1765,6 @@ export const galleries = [
         "longitude": 14.307467,
         "createDate": "2025-07-21T07:09:13.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626228,14.307467",
-        "alt": null
-      },
-      {
-        "filename": "Kirche Klagenfurt Kärnten.jpg",
-        "latitude": 46.626228,
-        "longitude": 14.307481,
-        "createDate": "2025-07-21T07:08:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626228,14.307481",
         "alt": null
       },
       {
@@ -1940,6 +1972,14 @@ export const galleries = [
     "description": "Vale a pena a viagem, possivelmente com uma passagem só de ida.",
     "images": [
       {
+        "filename": "'Hello World' Neon-Schriftzug vor Häusern und Brücke.jpg",
+        "latitude": 38.703011,
+        "longitude": -9.178928,
+        "createDate": "2018-11-21T16:31:17.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.703011,-9.178928",
+        "alt": "Hisilicon Balong"
+      },
+      {
         "filename": "Azul-Fliesen in Grün und Blau.jpg",
         "latitude": 38.710667,
         "longitude": -9.141656,
@@ -1980,7 +2020,7 @@ export const galleries = [
         "alt": "Hisilicon Balong"
       },
       {
-        "filename": "Dom-Kuppel in Lissabon.jpg",
+        "filename": "Dom-Kuppel in Se de Lisboa.jpg",
         "latitude": 38.713175,
         "longitude": -9.127778,
         "createDate": "2018-11-19T15:31:20.000Z",
@@ -1993,14 +2033,6 @@ export const galleries = [
         "longitude": -9.136431,
         "createDate": "2018-11-19T13:55:18.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.709792,-9.136431",
-        "alt": "Hisilicon Balong"
-      },
-      {
-        "filename": "Hello World Neon-Schriftzug vor Häusern und Brücke.jpg",
-        "latitude": 38.703011,
-        "longitude": -9.178928,
-        "createDate": "2018-11-21T16:31:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.703011,-9.178928",
         "alt": "Hisilicon Balong"
       },
       {
@@ -2043,6 +2075,14 @@ export const galleries = [
         "longitude": 16.358989,
         "createDate": "2025-05-01T09:22:18.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.210525,16.358989",
+        "alt": null
+      },
+      {
+        "filename": "'Kaptalismus entsorgen' Plakat und Demonstranten auf der Ringstrasse.jpg",
+        "latitude": 48.207139,
+        "longitude": 16.3597,
+        "createDate": "2025-05-01T08:59:34.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207139,16.3597",
         "alt": null
       },
       {
@@ -2182,14 +2222,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kaptalismus entsorgen Plakat und Demonstrannten auf der Ringstrasse in Wien.jpg",
-        "latitude": 48.207139,
-        "longitude": 16.3597,
-        "createDate": "2025-05-01T08:59:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207139,16.3597",
-        "alt": null
-      },
-      {
         "filename": "Karussell Wurstelprater.jpg",
         "latitude": 48.217328,
         "longitude": 16.395811,
@@ -2302,7 +2334,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Rutschen Wurstelprater Wien.jpg",
+        "filename": "Rot-Weisse Rutschen im Wurstelprater.jpg",
         "latitude": 48.215286,
         "longitude": 16.399131,
         "createDate": "2025-05-01T10:33:41.000Z",
@@ -2326,7 +2358,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Turbo Autodrom mit Familien davor im Wurstelprater Wien.jpg",
+        "filename": "Turbo Autodrom mit Familien davor im Wurstelprater.jpg",
         "latitude": 48.215039,
         "longitude": 16.399642,
         "createDate": "2025-05-01T10:34:53.000Z",
@@ -2506,6 +2538,14 @@ export const galleries = [
     "description": "Tschu Tschu, Brum Brum, *Quietsch*, Tschu Tschu",
     "images": [
       {
+        "filename": "'Marchegg' Schild in einem Zug am Hauptbahnhof.jpg",
+        "latitude": 48.185244,
+        "longitude": 16.379136,
+        "createDate": "2025-05-04T14:14:04.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185244,16.379136",
+        "alt": null
+      },
+      {
         "filename": "71er Fenster zum Schwarzenbergplatz.jpg",
         "latitude": 48.2011,
         "longitude": 16.374708,
@@ -2514,7 +2554,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Alte BIM von Innen .jpg",
+        "filename": "Alte BIM von Innen.jpg",
         "latitude": 48.209511,
         "longitude": 16.360369,
         "createDate": "2025-05-20T15:00:21.000Z",
@@ -2658,14 +2698,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Marchegg Schild in einem Zug am Hauptbahnhof Wien.jpg",
-        "latitude": 48.185244,
-        "longitude": 16.379136,
-        "createDate": "2025-05-04T14:14:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185244,16.379136",
-        "alt": null
-      },
-      {
         "filename": "Praterstern Austria Campus Wien.jpg",
         "latitude": 48.218517,
         "longitude": 16.392872,
@@ -2674,7 +2706,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Praterstern Bahnsteig Wien.jpg",
+        "filename": "Praterstern Bahnsteig.jpg",
         "latitude": 48.217828,
         "longitude": 16.392806,
         "createDate": "2025-04-21T16:44:26.000Z",
@@ -2682,7 +2714,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Raucherbereich Hauptbahnhof Wien.jpg",
+        "filename": "Raucherbereich Hauptbahnhof in Favoriten.jpg",
         "latitude": 48.183956,
         "longitude": 16.376364,
         "createDate": "2025-05-18T16:40:29.000Z",
@@ -2690,7 +2722,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Rolltreppe Bahnsteige Simmering S-Bahn Station Wien.jpg",
+        "filename": "Rolltreppe Bahnsteige Simmering S-Bahn Station.jpg",
         "latitude": 48.170064,
         "longitude": 16.419656,
         "createDate": "2025-05-04T13:36:26.000Z",
@@ -2698,7 +2730,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Rolltreppe Kamera Volkstheater Wien.jpg",
+        "filename": "Rolltreppe Kamera Volkstheater.jpg",
         "latitude": 48.218486,
         "longitude": 16.391533,
         "createDate": "2025-07-15T16:07:46.000Z",
@@ -2711,6 +2743,14 @@ export const galleries = [
         "longitude": 16.420075,
         "createDate": "2025-05-02T14:35:57.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170056,16.420075",
+        "alt": null
+      },
+      {
+        "filename": "S- und U-Bahn Station Simmering Wien.jpg",
+        "latitude": 48.170203,
+        "longitude": 16.42005,
+        "createDate": "2025-06-01T12:17:46.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170203,16.42005",
         "alt": null
       },
       {
@@ -2754,14 +2794,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Station Simmering Wien.jpg",
-        "latitude": 48.170203,
-        "longitude": 16.42005,
-        "createDate": "2025-06-01T12:17:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170203,16.42005",
-        "alt": null
-      },
-      {
         "filename": "Südtiroler Platz Hauptbahnhof Wien.jpg",
         "latitude": 48.185858,
         "longitude": 16.375167,
@@ -2770,7 +2802,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Trafik Station Simmering Wien.jpg",
+        "filename": "Trafik Station U-Bahn Station Simmering.jpg",
         "latitude": 48.1702,
         "longitude": 16.420436,
         "createDate": "2025-05-24T16:34:29.000Z",
@@ -2950,19 +2982,19 @@ export const galleries = [
     "description": "Die Zeit - zurückgedreht.",
     "images": [
       {
-        "filename": "Kegelbahn Innen Quer.jpg",
-        "latitude": 48.590603,
-        "longitude": 15.336911,
-        "createDate": "2025-06-10T18:28:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590603,15.336911",
-        "alt": null
-      },
-      {
-        "filename": "Kegelbahn Innen.jpg",
+        "filename": "Kegelbahn Innenaufnahme mit Kegelmaschine.jpg",
         "latitude": 48.590606,
         "longitude": 15.336908,
         "createDate": "2025-06-10T18:28:25.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590606,15.336908",
+        "alt": null
+      },
+      {
+        "filename": "Kegelbahn Innenaufnahme mit Kugeln.jpg",
+        "latitude": 48.590603,
+        "longitude": 15.336911,
+        "createDate": "2025-06-10T18:28:32.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590603,15.336911",
         "alt": null
       },
       {
@@ -2974,7 +3006,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Statue Mann mit Kind .jpg",
+        "filename": "Statue eines Mannes mit Kind auf seinen Schultern.jpg",
         "latitude": 48.590442,
         "longitude": 15.336358,
         "createDate": "2025-06-10T12:28:09.000Z",
@@ -3628,19 +3660,19 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Menschemenge auf der Ringstrasse.jpg",
+        "latitude": 48.202825,
+        "longitude": 16.376075,
+        "createDate": "2025-06-14T13:35:35.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202825,16.376075",
+        "alt": null
+      },
+      {
         "filename": "Menschemenge und Wagen.jpg",
         "latitude": 48.2024,
         "longitude": 16.375597,
         "createDate": "2025-06-14T13:29:05.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2024,16.375597",
-        "alt": null
-      },
-      {
-        "filename": "Menschemenge.jpg",
-        "latitude": 48.202825,
-        "longitude": 16.376075,
-        "createDate": "2025-06-14T13:35:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202825,16.376075",
         "alt": null
       },
       {
@@ -3928,7 +3960,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Umgefallenes Einkaufswagerl in der Geiselbergstrasse SimmeringWien.jpg",
+        "filename": "Umgefallenes Einkaufswagerl in der Geiselbergstrasse.jpg",
         "latitude": 48.174739,
         "longitude": 16.406886,
         "createDate": "2024-07-28T15:47:54.000Z",
@@ -4352,14 +4384,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kirche Aussenansicht.jpg",
-        "latitude": 48.151353,
-        "longitude": 16.438828,
-        "createDate": "2025-06-29T11:08:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151353,16.438828",
-        "alt": null
-      },
-      {
         "filename": "Kirche Frontal Zentralfriedhof Wien.jpg",
         "latitude": 48.151425,
         "longitude": 16.438867,
@@ -4373,14 +4397,6 @@ export const galleries = [
         "longitude": 16.438922,
         "createDate": "2025-06-29T11:17:14.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156892,16.438922",
-        "alt": null
-      },
-      {
-        "filename": "Kirche und Baum.jpg",
-        "latitude": 48.151644,
-        "longitude": 16.438939,
-        "createDate": "2025-05-21T16:11:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151644,16.438939",
         "alt": null
       },
       {
@@ -4433,6 +4449,6 @@ export const galleries = [
       }
     ],
     "timeframe": "21. Mai 2025 - 29. Juni 2025",
-    "imageCount": 26
+    "imageCount": 24
   }
 ];

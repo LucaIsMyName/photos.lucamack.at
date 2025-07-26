@@ -8,6 +8,15 @@ export const CONFIG = {
     title: "Luca Mack",
   },
   theme: {
+    border: {
+      default: "border border-neutral-500/50 border-dotted",
+      top: "border-t border-neutral-500/50 border-dotted",
+      bottom: "border-b border-neutral-500/50 border-dotted",
+      left: "border-l border-neutral-500/50 border-dotted",
+      right: "border-r border-neutral-500/50 border-dotted",
+      x: "border-x border-neutral-500/50 border-dotted",
+      y: "border-y border-neutral-500/50 border-dotted",
+    },
     headline: {
       one: "text-4xl md:text-5xl"
     },
