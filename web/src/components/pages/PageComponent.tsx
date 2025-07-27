@@ -4,6 +4,7 @@ import { pages } from "../../pages";
 import { marked } from "marked";
 import type { Page } from "../../types";
 import { CONFIG } from "../../config";
+import NotFoundPage from "./NotFoundPage";
 
 const PageComponent = () => {
   const { theme } = useTheme();
@@ -11,7 +12,7 @@ const PageComponent = () => {
   const page: Page | undefined = pages.find((p: Page) => p.slug === slug);
 
   if (!page) {
-    return <div className="md:py-6 py-4 md:pl-8 text-left ">Seite nicht gefunden.</div>;
+    return <NotFoundPage title="Seite nicht gefunden" text="Seite nicht gefunden" />;
   }
 
   return (

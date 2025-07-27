@@ -1,9 +1,9 @@
 import { useMemo, useState, useEffect } from "react";
 import { useSearchParams } from "react-router-dom";
 import { useTheme } from "../../contexts/ThemeContext";
-import HorizontalScroller from "../layout/HorizontalScroller";
+import HorizontalScroller from "../ui/HorizontalScroller";
 import { Link } from "react-router-dom";
-import { Download } from "lucide-react";
+import { Download, Image } from "lucide-react";
 // import * as Select from "@radix-ui/react-select";
 import { galleries } from "../../galleries";
 import { parseCreateDate } from "../../utils/date";
@@ -255,13 +255,23 @@ const ListPage = () => {
                     <Link to={`/gallery/${image.gallerySlug}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
                       <h3 className="truncate text-base">{image.filename.replaceAll(".jpg", "")}</h3>
                     </Link>
-                    <div className="flex items-center gap-2 sm:gap-3 lg:gap-4 flex-wrap">
+                    <div className="flex items-center  space-x-2  flex-wrap">
+                      <p className="flex items-center gap-1 text-[11px] mt-1">
+                        <Image size={12} />
+                        <Href to={`/gallery/${image.gallerySlug}`}>{image.galleryTitle}</Href>
+                      </p>
                       <p className="flex items-center gap-1 text-[11px] mt-1">
                         <Clock size={12} />{" "}
                         <Href
                           hasDecoration={true}
                           to={`/app/timeline?scrollTo=${parseCreateDate(image.createDate)?.toISOString().split("T")[0]}`}>
-                          {parseCreateDate(image.createDate)?.toLocaleString("de-AT") || "Ungültiges Datum"}
+                          {/*parseCreateDate(image.createDate)?.toLocaleString("de-AT") || "Ungültiges Datum"*/}
+                          {parseCreateDate(image.createDate) &&
+                            new Date(parseCreateDate(image.createDate)!).toLocaleDateString("de-DE", {
+                              year: "numeric",
+                              month: "long",
+                              day: "numeric",
+                            })}
                         </Href>
                       </p>
                       <p className="flex items-center gap-1 text-[11px] mt-1">

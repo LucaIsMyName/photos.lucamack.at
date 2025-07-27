@@ -24,10 +24,10 @@ body {
 :root {
   --default-font-family: "Geist", sans-serif;
   --sidebar-width: clamp(280px, 30vw, 360px);
-  --content-width: clamp(769px, calc(var(--sidebar-width) * 2.5), 1024px);
+  --content-width: clamp(769px, calc(var(--sidebar-width) * 2.66), 1280px);
   --font-mono: "Geist Mono", monospace;
-  --color-black: #0d0d0d;
-  --color-white: #f3f3f3;
+  --color-black: #000;
+  --color-white: #fff;
 }
 
 .mapboxgl-map {

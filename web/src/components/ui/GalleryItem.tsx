@@ -25,7 +25,7 @@ const GalleryItem = ({ alt, gallerySlug, imageFilename }: GalleryItemProps) => {
 
   const getFlexClasses = () => {
     const base = "w-full"; // Always full-width on mobile
-    if (!orientation) return `${base} md:w-1/2`; // Default to portrait to prevent layout jumps
+    if (!orientation) return `${base} md:w-1/2 flex-grow-1 max-w-[calc(var(--content-width)/1.5)]`;
 
     switch (orientation) {
       case "landscape":
@@ -33,7 +33,7 @@ const GalleryItem = ({ alt, gallerySlug, imageFilename }: GalleryItemProps) => {
       case "portrait":
       case "square":
       default:
-        return `${base} md:w-1/2`;
+        return `${base} md:w-1/2 flex-grow-1 max-w-[calc(var(--content-width)/1.5)]`;
     }
   };
 

@@ -228,11 +228,19 @@ export const galleries = [
     "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner, Licht & Schatten.",
     "images": [
       {
-        "filename": "'Ruhe' Graffitti in der Simmeringer-Hauptstrasse.jpg",
-        "latitude": 48.173625,
-        "longitude": 16.417025,
-        "createDate": "2025-07-14T18:46:56.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173625,16.417025",
+        "filename": "'Einfahrt freihalten' Schild auf einem Zaun vor einem Baugrund.jpg",
+        "latitude": 48.173267,
+        "longitude": 16.407208,
+        "createDate": "2025-07-26T15:44:11.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173267,16.407208",
+        "alt": null
+      },
+      {
+        "filename": "'Gartenbaukino' Schriftzug am Stubenring.jpg",
+        "latitude": 48.205733,
+        "longitude": 16.378619,
+        "createDate": "2025-07-27T08:41:57.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205733,16.378619",
         "alt": null
       },
       {
@@ -244,35 +252,19 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "'Unter der Kirche' Strassenschild Simmering.jpg",
-        "latitude": 48.169353,
-        "longitude": 16.423528,
-        "createDate": "2025-07-26T12:06:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169353,16.423528",
-        "alt": null
-      },
-      {
-        "filename": "'Westbahnpark Jetzt' Sticker.jpg",
-        "latitude": 48.194,
-        "longitude": 16.326,
-        "createDate": "2024-07-21T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194,16.326",
-        "alt": null
-      },
-      {
-        "filename": "'Wienliebe' Schriftzug Rathauspark.jpg",
-        "latitude": 48.209703,
-        "longitude": 16.359542,
-        "createDate": "2025-05-05T07:40:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209703,16.359542",
-        "alt": null
-      },
-      {
         "filename": "3 Müllcontainer, eine Mauer und Himmel in der Lorystrasse.jpg",
         "latitude": 48.169175,
         "longitude": 16.416547,
         "createDate": "2025-05-02T15:47:03.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169175,16.416547",
+        "alt": null
+      },
+      {
+        "filename": "76A Bus in der nähe des Enkplatz.jpg",
+        "latitude": 48.174133,
+        "longitude": 16.416464,
+        "createDate": "2025-04-25T15:39:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174133,16.416464",
         "alt": null
       },
       {
@@ -332,6 +324,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Autobahnauffahrt und Grünfläche in der nähe der Geiereckstrasse.jpg",
+        "latitude": 48.186092,
+        "longitude": 16.413206,
+        "createDate": "2025-06-01T13:40:51.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.186092,16.413206",
+        "alt": null
+      },
+      {
         "filename": "BIM Station und Neubau-Gürtel bei der Burggasse.jpg",
         "latitude": 48.201878,
         "longitude": 16.337144,
@@ -364,11 +364,27 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Baustelle mit Bau-Zaun und Skulptur dahinter.jpg",
+        "latitude": 48.162914,
+        "longitude": 16.429156,
+        "createDate": "2025-07-27T13:36:27.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.162914,16.429156",
+        "alt": null
+      },
+      {
         "filename": "Bäume und Büsche an der Simmeringer S-Bahn.jpg",
         "latitude": 48.169014,
         "longitude": 16.416828,
         "createDate": "2024-07-23T06:01:32.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169014,16.416828",
+        "alt": null
+      },
+      {
+        "filename": "Bäume und Dächer am Donaukanal während der Dämmerung.jpg",
+        "latitude": 48.221325,
+        "longitude": 16.367619,
+        "createDate": "2025-07-15T19:04:59.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.221325,16.367619",
         "alt": null
       },
       {
@@ -380,27 +396,19 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Beschmiertes Karl-Lueger-Denkmal am Stubenring.jpg",
+        "latitude": 48.207589,
+        "longitude": 16.380006,
+        "createDate": "2025-07-27T08:38:49.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207589,16.380006",
+        "alt": null
+      },
+      {
         "filename": "Bezirksmuseum Wien Landstrasse.jpg",
         "latitude": 48.201386,
         "longitude": 16.387961,
         "createDate": "2025-05-02T15:07:19.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201386,16.387961",
-        "alt": null
-      },
-      {
-        "filename": "Bier Werbeaufsteller.jpg",
-        "latitude": 48.231892,
-        "longitude": 16.390422,
-        "createDate": "2025-07-15T16:49:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231892,16.390422",
-        "alt": null
-      },
-      {
-        "filename": "Blume in Aschenbecher.jpg",
-        "latitude": 48.169839,
-        "longitude": 16.420197,
-        "createDate": "2025-05-29T06:47:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169839,16.420197",
         "alt": null
       },
       {
@@ -412,27 +420,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Brücke zur Donauinsel.jpg",
+        "filename": "Brücke über die Donauinsel in Brigittenau.jpg",
         "latitude": 48.254253,
         "longitude": 16.380364,
         "createDate": "2025-05-10T12:33:48.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.254253,16.380364",
-        "alt": null
-      },
-      {
-        "filename": "Bus beim Enkplatz.jpg",
-        "latitude": 48.174133,
-        "longitude": 16.416464,
-        "createDate": "2025-04-25T15:39:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174133,16.416464",
-        "alt": null
-      },
-      {
-        "filename": "Bäume und Dächer am Donaukanal.jpg",
-        "latitude": 48.221325,
-        "longitude": 16.367619,
-        "createDate": "2025-07-15T19:04:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.221325,16.367619",
         "alt": null
       },
       {
@@ -444,7 +436,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Der Karl-Marx-Hof.jpg",
+        "filename": "Der Karl-Marx-Hof Gemeindebau in Heiligenstadt.jpg",
         "latitude": 48.249478,
         "longitude": 16.364239,
         "createDate": "2025-07-12T15:51:41.000Z",
@@ -457,6 +449,14 @@ export const galleries = [
         "longitude": 16.337078,
         "createDate": "2025-05-03T11:37:10.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203186,16.337078",
+        "alt": null
+      },
+      {
+        "filename": "Ein Gebäude mit einem 'Nimm dein Sackerl fürs Gackerl' Papp-Aufsteller davor.jpg",
+        "latitude": 48.176692,
+        "longitude": 16.409042,
+        "createDate": "2025-07-26T15:36:03.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176692,16.409042",
         "alt": null
       },
       {
@@ -572,6 +572,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Fassade des Salvador-Allende-Hofs in Simmering .jpg",
+        "latitude": 48.162964,
+        "longitude": 16.427539,
+        "createDate": "2025-06-01T06:38:19.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.162964,16.427539",
+        "alt": null
+      },
+      {
         "filename": "Fassade eine Wohnhauses in der Landstrasse.jpg",
         "latitude": 48.199825,
         "longitude": 16.387606,
@@ -628,11 +636,35 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Gemeindebau im 1. Bezirk.jpg",
+        "latitude": 48.204853,
+        "longitude": 16.372997,
+        "createDate": "2025-07-27T08:48:31.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204853,16.372997",
+        "alt": null
+      },
+      {
         "filename": "Gemeindebau in Wien.jpg",
         "latitude": 48.198017,
         "longitude": 16.335486,
         "createDate": "2025-05-03T10:58:21.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198017,16.335486",
+        "alt": null
+      },
+      {
+        "filename": "Gemeindebau in der Kaiser-Ebersdorfer-Strasse.jpg",
+        "latitude": 48.165367,
+        "longitude": 16.430989,
+        "createDate": "2025-07-27T13:32:18.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.165367,16.430989",
+        "alt": null
+      },
+      {
+        "filename": "Gemeindebau, Baum und Grünfläche in Simmering.jpg",
+        "latitude": 48.168206,
+        "longitude": 16.412992,
+        "createDate": "2025-07-26T15:58:18.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168206,16.412992",
         "alt": null
       },
       {
@@ -657,22 +689,6 @@ export const galleries = [
         "longitude": 16.384303,
         "createDate": "2025-04-20T09:24:05.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182247,16.384303",
-        "alt": null
-      },
-      {
-        "filename": "Graffitti-Tag 'Gurk' in Rudolfsheim-Fünfhaus.jpg",
-        "latitude": null,
-        "longitude": null,
-        "createDate": null,
-        "googleMapsUrl": null,
-        "alt": null
-      },
-      {
-        "filename": "Grillhendl-Wagen auf einem Parkplatz.jpg",
-        "latitude": 48.170364,
-        "longitude": 16.425317,
-        "createDate": "2025-07-26T12:08:19.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170364,16.425317",
         "alt": null
       },
       {
@@ -756,11 +772,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kaos Graffitti in Brigittenau.jpg",
-        "latitude": 48.239161,
-        "longitude": 16.384072,
-        "createDate": "2025-07-15T17:03:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.239161,16.384072",
+        "filename": "Innenansicht Heidi Horten Collection.jpg",
+        "latitude": 48.203903,
+        "longitude": 16.367511,
+        "createDate": "2025-07-27T09:48:01.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203903,16.367511",
         "alt": null
       },
       {
@@ -804,19 +820,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kursalon Hübner Eingang - Gesperrt wegen Bauarbeiten.jpg",
-        "latitude": 48.203533,
-        "longitude": 16.377142,
-        "createDate": "2025-07-14T16:03:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203533,16.377142",
-        "alt": null
-      },
-      {
-        "filename": "LKW beim Schottentor .jpg",
-        "latitude": 48.213772,
-        "longitude": 16.362475,
-        "createDate": "2025-06-02T06:38:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213772,16.362475",
+        "filename": "Kreisverkehr beim Zentralfriedhof Tor 11.jpg",
+        "latitude": 48.154797,
+        "longitude": 16.426722,
+        "createDate": "2025-05-29T08:23:55.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.154797,16.426722",
         "alt": null
       },
       {
@@ -836,19 +844,19 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Lila getsrichenes Wohnhaus in der Braunhubergasse.jpg",
+        "latitude": 48.169789,
+        "longitude": 16.412914,
+        "createDate": "2025-07-13T13:24:51.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169789,16.412914",
+        "alt": null
+      },
+      {
         "filename": "Lorystrasse 77 in Simmering .jpg",
         "latitude": 48.168781,
         "longitude": 16.417067,
         "createDate": "2025-05-02T15:46:13.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168781,16.417067",
-        "alt": null
-      },
-      {
-        "filename": "Mama Graffitti in Simmering.jpg",
-        "latitude": 48.176483,
-        "longitude": 16.424428,
-        "createDate": "2024-08-17T13:26:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176483,16.424428",
         "alt": null
       },
       {
@@ -868,7 +876,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Neubaugürtel und BIM Station bei Burggasse in Rudolfsheim-Fünfhaus.jpg",
+        "filename": "Neubaugürtel und BIM Station bei der Burggasse.jpg",
         "latitude": 48.201675,
         "longitude": 16.336906,
         "createDate": "2025-05-03T11:39:26.000Z",
@@ -916,6 +924,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Roy Lichetnstein Gemälde und Innerum der Heidi Horten Collection.jpg",
+        "latitude": 48.203994,
+        "longitude": 16.367664,
+        "createDate": "2025-07-27T09:19:43.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203994,16.367664",
+        "alt": null
+      },
+      {
         "filename": "S-Bahn Station Grillgassse.jpg",
         "latitude": 48.167317,
         "longitude": 16.407628,
@@ -932,27 +948,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "S-Bahn Unterführung Fahrradweg.jpg",
-        "latitude": 48.166492,
-        "longitude": 16.413928,
-        "createDate": "2025-05-25T16:23:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.166492,16.413928",
-        "alt": null
-      },
-      {
-        "filename": "Schaufenster des Magistrats in Rudolfsheim-Fünfhaus.jpg",
-        "latitude": 48.204619,
-        "longitude": 16.332464,
-        "createDate": "2025-05-03T11:12:53.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204619,16.332464",
-        "alt": null
-      },
-      {
-        "filename": "Schild der Garage Capricorn am Schwedenplatz.jpg",
-        "latitude": 48.211242,
-        "longitude": 16.379222,
-        "createDate": "2025-04-26T14:45:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211242,16.379222",
+        "filename": "Schmetterling-Attrapen an der Glas-Decke des Zentrum Simmering.jpg",
+        "latitude": 48.173319,
+        "longitude": 16.416597,
+        "createDate": "2025-07-25T15:44:01.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173319,16.416597",
         "alt": null
       },
       {
@@ -969,14 +969,6 @@ export const galleries = [
         "longitude": 16.370125,
         "createDate": "2025-07-15T19:12:19.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217422,16.370125",
-        "alt": null
-      },
-      {
-        "filename": "Schriftzug Salvador-Allende-Hof in Simmering .jpg",
-        "latitude": 48.162964,
-        "longitude": 16.427539,
-        "createDate": "2025-06-01T06:38:19.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.162964,16.427539",
         "alt": null
       },
       {
@@ -1028,6 +1020,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Statuen benannt nach österreichischen Flüssen nahe Albertina.jpg",
+        "latitude": 48.204211,
+        "longitude": 16.368397,
+        "createDate": "2025-07-27T10:05:36.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204211,16.368397",
+        "alt": null
+      },
+      {
         "filename": "Stiege und Brücke in Brigittenau.jpg",
         "latitude": 48.231067,
         "longitude": 16.391083,
@@ -1060,27 +1060,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Strasse und Grünfläche in der Geiereckstrasse.jpg",
-        "latitude": 48.186092,
-        "longitude": 16.413206,
-        "createDate": "2025-06-01T13:40:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.186092,16.413206",
-        "alt": null
-      },
-      {
-        "filename": "Strasse und Unterführung in Landstrasse.jpg",
+        "filename": "Strasse und Unterführung in der Landstrasse.jpg",
         "latitude": 48.198953,
         "longitude": 16.38115,
         "createDate": "2025-05-02T15:16:41.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198953,16.38115",
-        "alt": null
-      },
-      {
-        "filename": "Strassen beim Zentralfriedhof Tor 11.jpg",
-        "latitude": 48.154797,
-        "longitude": 16.426722,
-        "createDate": "2025-05-29T08:23:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.154797,16.426722",
         "alt": null
       },
       {
@@ -1124,6 +1108,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "U-Bahn Station Stubentor Stiegen und Lifte durch Glas.jpg",
+        "latitude": 48.207092,
+        "longitude": 16.380056,
+        "createDate": "2025-07-27T08:39:38.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207092,16.380056",
+        "alt": null
+      },
+      {
         "filename": "Universität Wien von Blick Richtung S-Bahn Station Schottentor.jpg",
         "latitude": null,
         "longitude": null,
@@ -1156,19 +1148,19 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Weisse Rose in einem Aschenbecher.jpg",
+        "latitude": 48.169839,
+        "longitude": 16.420197,
+        "createDate": "2025-05-29T06:47:21.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169839,16.420197",
+        "alt": null
+      },
+      {
         "filename": "Wien Energie Kraftwerk in Simmering.jpg",
         "latitude": 48.181389,
         "longitude": 16.398206,
         "createDate": "2025-04-20T09:44:40.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181389,16.398206",
-        "alt": null
-      },
-      {
-        "filename": "Wien Leuchtet Schriftzug nahe Handelskai Brigittenau.jpg",
-        "latitude": 48.242217,
-        "longitude": 16.384361,
-        "createDate": "2025-07-15T17:17:16.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.242217,16.384361",
         "alt": null
       },
       {
@@ -1204,11 +1196,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wohnhaus Wien Simmering Braunhubergasse.jpg",
-        "latitude": 48.169789,
-        "longitude": 16.412914,
-        "createDate": "2025-07-13T13:24:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169789,16.412914",
+        "filename": "Wohnhaus im Sonneschein.jpg",
+        "latitude": 48.172869,
+        "longitude": 16.409564,
+        "createDate": "2024-07-19T15:24:07.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172869,16.409564",
         "alt": null
       },
       {
@@ -1220,15 +1212,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Wohnhaus in Wien.jpg",
-        "latitude": 48.172869,
-        "longitude": 16.409564,
-        "createDate": "2024-07-19T15:24:07.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172869,16.409564",
-        "alt": null
-      },
-      {
-        "filename": "Wohnhaus nahe Rochusmarkt in der Landstrasse.jpg",
+        "filename": "Wohnhaus mit Balkonen beim Rochusmarkt.jpg",
         "latitude": 48.202356,
         "longitude": 16.394811,
         "createDate": "2025-07-25T11:47:52.000Z",
@@ -1244,24 +1228,24 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Zebrastreifen Wien Mitte Richtung Stubentor und Stadtpark.jpg",
-        "latitude": 48.206467,
-        "longitude": 16.383042,
-        "createDate": "2025-07-14T15:55:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206467,16.383042",
-        "alt": null
-      },
-      {
         "filename": "Zebrastreifen in Wien Simmering.jpg",
         "latitude": 48.178458,
         "longitude": 16.394178,
         "createDate": "2025-04-20T09:52:13.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.178458,16.394178",
         "alt": null
+      },
+      {
+        "filename": "Zebrastreifen vor dem Wienfluss in der nähe von Wien Mitte.jpg",
+        "latitude": 48.206467,
+        "longitude": 16.383042,
+        "createDate": "2025-07-14T15:55:18.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206467,16.383042",
+        "alt": null
       }
     ],
-    "timeframe": "7. Juni 2024 - 26. Juli 2025",
-    "imageCount": 129
+    "timeframe": "7. Juni 2024 - 27. Juli 2025",
+    "imageCount": 127
   },
   {
     "name": "graz",
@@ -1518,7 +1502,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Turm am Schlossberg in.jpg",
+        "filename": "Turm am Schlossberg.jpg",
         "latitude": 47.075886,
         "longitude": 15.437569,
         "createDate": "2025-07-21T18:01:39.000Z",
@@ -1693,14 +1677,6 @@ export const galleries = [
         "longitude": 14.782853,
         "createDate": "2025-07-19T18:09:00.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.865806,14.782853",
-        "alt": null
-      },
-      {
-        "filename": "Gebäude bei Nacht.jpg",
-        "latitude": 41.145661,
-        "longitude": -8.614147,
-        "createDate": "2025-03-31T21:22:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145661,-8.614147",
         "alt": null
       },
       {
@@ -1920,8 +1896,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "31. März 2025 - 21. Juli 2025",
-    "imageCount": 44
+    "timeframe": "19. Juli 2025 - 21. Juli 2025",
+    "imageCount": 43
   },
   {
     "name": "kleinlobming",
@@ -2924,7 +2900,7 @@ export const galleries = [
     "description": "Stralsund, Rügen & Greifswald",
     "images": [
       {
-        "filename": "Bademeister-Hütte auf einem Ostsee-Strand bei Wampen.jpg",
+        "filename": "Bademeister-Hütte auf einem Ostsee-Strand bei Wampen.jpg",
         "latitude": 54.133667,
         "longitude": 13.430883,
         "createDate": "2019-04-01T09:14:17.000Z",
@@ -2932,7 +2908,7 @@ export const galleries = [
         "alt": "Hisilicon Balong"
       },
       {
-        "filename": "Hotel Neptun im Rostock mit Strand bei klaren blauen Himmel.jpg",
+        "filename": "Hotel Neptun im Rostock-Warnemünde mit Strand bei klaren blauen Himmel.jpg",
         "latitude": 54.178906,
         "longitude": 12.0779,
         "createDate": "2019-03-30T06:35:26.000Z",
@@ -3888,19 +3864,19 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Eine Luftaufnahme von Stammersdorf als Wandbild in einem Heurigen in Stammersdorf.jpg",
+        "latitude": 48.298211,
+        "longitude": 16.422322,
+        "createDate": "2024-04-24T16:09:36.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.298211,16.422322",
+        "alt": null
+      },
+      {
         "filename": "Elster im tschechischen Wald.jpg",
         "latitude": 49.013631,
         "longitude": 13.901269,
         "createDate": "2024-02-18T08:09:11.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=49.013631,13.901269",
-        "alt": null
-      },
-      {
-        "filename": "Graffitti Smiley auf einer Mauer Litschau.jpg",
-        "latitude": 48.948892,
-        "longitude": 15.044311,
-        "createDate": "2024-07-13T13:15:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.948892,15.044311",
         "alt": null
       },
       {
@@ -3920,19 +3896,221 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Heuriger Stammersdorf Wien.jpg",
-        "latitude": 48.298211,
-        "longitude": 16.422322,
-        "createDate": "2024-04-24T16:09:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.298211,16.422322",
-        "alt": null
-      },
-      {
         "filename": "Kleingöpfritz.jpg",
         "latitude": 48.860578,
         "longitude": 15.211486,
         "createDate": "2024-07-12T19:40:39.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.860578,15.211486",
+        "alt": null
+      },
+      {
+        "filename": "Toi Toi auf Holz-Baugerüst in Wien.jpg",
+        "latitude": 48.185386,
+        "longitude": 16.326622,
+        "createDate": "2024-06-28T14:37:32.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185386,16.326622",
+        "alt": null
+      },
+      {
+        "filename": "Umgefallenes Einkaufswagerl in der Geiselbergstrasse.jpg",
+        "latitude": 48.174739,
+        "longitude": 16.406886,
+        "createDate": "2024-07-28T15:47:54.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174739,16.406886",
+        "alt": null
+      }
+    ],
+    "timeframe": "18. Februar 2024 - 6. Juli 2025",
+    "imageCount": 10
+  },
+  {
+    "name": "symbole",
+    "slug": "symbole",
+    "title": "Symbole",
+    "description": "Buchstaben, Kunst & Rechtschreibfehler.",
+    "images": [
+      {
+        "filename": "'Mama' Graffitti in Simmering.jpg",
+        "latitude": 48.176483,
+        "longitude": 16.424428,
+        "createDate": "2024-08-17T13:26:27.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176483,16.424428",
+        "alt": null
+      },
+      {
+        "filename": "'Metropolis' Plakat Heidi Horten Collection.jpg",
+        "latitude": 48.203983,
+        "longitude": 16.367647,
+        "createDate": "2025-07-27T09:31:49.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203983,16.367647",
+        "alt": null
+      },
+      {
+        "filename": "'Ruhe' Graffitti in der Simmeringer-Hauptstrasse.jpg",
+        "latitude": 48.173625,
+        "longitude": 16.417025,
+        "createDate": "2025-07-14T18:46:56.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173625,16.417025",
+        "alt": null
+      },
+      {
+        "filename": "'Thailändische Spezialitäte' Auslage in der Kaiser-Ebersdorfer-Strasse.jpg",
+        "latitude": 48.168872,
+        "longitude": 16.424133,
+        "createDate": "2025-07-27T13:18:21.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168872,16.424133",
+        "alt": null
+      },
+      {
+        "filename": "'Unter der Kirche' Strassenschild Simmering.jpg",
+        "latitude": 48.169353,
+        "longitude": 16.423528,
+        "createDate": "2025-07-26T12:06:15.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169353,16.423528",
+        "alt": null
+      },
+      {
+        "filename": "'Westbahnpark Jetzt' Sticker.jpg",
+        "latitude": 48.194,
+        "longitude": 16.326,
+        "createDate": "2024-07-21T12:34:46.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194,16.326",
+        "alt": null
+      },
+      {
+        "filename": "'Wienliebe' Schriftzug Rathauspark.jpg",
+        "latitude": 48.209703,
+        "longitude": 16.359542,
+        "createDate": "2025-05-05T07:40:03.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209703,16.359542",
+        "alt": null
+      },
+      {
+        "filename": "Bier Plastik-Werbeaufsteller auf einer kleinen Hütte.jpg",
+        "latitude": 48.231892,
+        "longitude": 16.390422,
+        "createDate": "2025-07-15T16:49:41.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231892,16.390422",
+        "alt": null
+      },
+      {
+        "filename": "Erwin Wurm Skulptur im Hanuschhof.jpg",
+        "latitude": 48.203919,
+        "longitude": 16.367383,
+        "createDate": "2025-07-27T10:03:35.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203919,16.367383",
+        "alt": null
+      },
+      {
+        "filename": "Goldener Apfel im Hanuschhof.jpg",
+        "latitude": 48.204108,
+        "longitude": 16.367386,
+        "createDate": "2025-07-27T10:03:57.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204108,16.367386",
+        "alt": null
+      },
+      {
+        "filename": "Graffitti 'Fuck Love' und Hunde-Bild auf einer Well-Blech-Wand.jpg",
+        "latitude": 48.175575,
+        "longitude": 16.407339,
+        "createDate": "2025-07-26T15:39:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.175575,16.407339",
+        "alt": null
+      },
+      {
+        "filename": "Graffitti 'Kek' in der Lorystrasse.jpg",
+        "latitude": 48.167661,
+        "longitude": 16.418339,
+        "createDate": "2025-07-27T13:52:10.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.167661,16.418339",
+        "alt": null
+      },
+      {
+        "filename": "Graffitti Smiley auf einer Mauer Litschau.jpg",
+        "latitude": 48.948892,
+        "longitude": 15.044311,
+        "createDate": "2024-07-13T13:15:40.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.948892,15.044311",
+        "alt": null
+      },
+      {
+        "filename": "Graffitti-Tag 'Gurk' in Rudolfsheim-Fünfhaus.jpg",
+        "latitude": null,
+        "longitude": null,
+        "createDate": null,
+        "googleMapsUrl": null,
+        "alt": null
+      },
+      {
+        "filename": "Graffitti-Tags auf einer Well-Blech-Wand.jpg",
+        "latitude": 48.176256,
+        "longitude": 16.407767,
+        "createDate": "2025-07-26T15:38:04.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176256,16.407767",
+        "alt": null
+      },
+      {
+        "filename": "Grillhendl-Wagen auf einem Parkplatz.jpg",
+        "latitude": 48.170364,
+        "longitude": 16.425317,
+        "createDate": "2025-07-26T12:08:19.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170364,16.425317",
+        "alt": null
+      },
+      {
+        "filename": "Kaos Graffitti in Brigittenau.jpg",
+        "latitude": 48.239161,
+        "longitude": 16.384072,
+        "createDate": "2025-07-15T17:03:01.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.239161,16.384072",
+        "alt": null
+      },
+      {
+        "filename": "Kinderwagenraum-Schild mit Videoüberwachungsinformation.jpg",
+        "latitude": 48.164417,
+        "longitude": 16.422269,
+        "createDate": "2025-07-27T13:47:00.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.164417,16.422269",
+        "alt": null
+      },
+      {
+        "filename": "Kursalon Hübner Eingang - Gesperrt wegen Bauarbeiten.jpg",
+        "latitude": 48.203533,
+        "longitude": 16.377142,
+        "createDate": "2025-07-14T16:03:17.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203533,16.377142",
+        "alt": null
+      },
+      {
+        "filename": "LKW 'Schön ist es ein Ziel zu haben' nähe Schottentor.jpg",
+        "latitude": 48.213772,
+        "longitude": 16.362475,
+        "createDate": "2025-06-02T06:38:55.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213772,16.362475",
+        "alt": null
+      },
+      {
+        "filename": "S-Bahn Unterführung Fahrradweg.jpg",
+        "latitude": 48.166492,
+        "longitude": 16.413928,
+        "createDate": "2025-05-25T16:23:31.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.166492,16.413928",
+        "alt": null
+      },
+      {
+        "filename": "Schaufenster des Magistrats in Rudolfsheim-Fünfhaus.jpg",
+        "latitude": 48.204619,
+        "longitude": 16.332464,
+        "createDate": "2025-05-03T11:12:53.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204619,16.332464",
+        "alt": null
+      },
+      {
+        "filename": "Schild der Garage Capricorn am Schwedenplatz.jpg",
+        "latitude": 48.211242,
+        "longitude": 16.379222,
+        "createDate": "2025-04-26T14:45:27.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211242,16.379222",
         "alt": null
       },
       {
@@ -3952,32 +4130,24 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Toi Toi auf Holz-Baugerüst in Wien.jpg",
-        "latitude": 48.185386,
-        "longitude": 16.326622,
-        "createDate": "2024-06-28T14:37:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185386,16.326622",
-        "alt": null
-      },
-      {
-        "filename": "Umgefallenes Einkaufswagerl in der Geiselbergstrasse.jpg",
-        "latitude": 48.174739,
-        "longitude": 16.406886,
-        "createDate": "2024-07-28T15:47:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174739,16.406886",
-        "alt": null
-      },
-      {
         "filename": "Veränderung ist schwer Schriftzug Simmering Wien.jpg",
         "latitude": 48.169697,
         "longitude": 16.416206,
         "createDate": "2024-05-29T14:39:48.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169697,16.416206",
         "alt": null
+      },
+      {
+        "filename": "Wien Leuchtet Schriftzug nahe Handelskai Brigittenau.jpg",
+        "latitude": 48.242217,
+        "longitude": 16.384361,
+        "createDate": "2025-07-15T17:17:16.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.242217,16.384361",
+        "alt": null
       }
     ],
-    "timeframe": "18. Februar 2024 - 6. Juli 2025",
-    "imageCount": 14
+    "timeframe": "11. April 2024 - 27. Juli 2025",
+    "imageCount": 27
   },
   {
     "name": "valencia",

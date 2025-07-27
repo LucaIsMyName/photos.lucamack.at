@@ -400,18 +400,34 @@
     "gallery": "berlin"
   },
   {
-    "latitude": 48.173625,
-    "longitude": 16.417025,
-    "createDate": "2025-07-14T18:46:56.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173625,16.417025",
+    "latitude": 48.173267,
+    "longitude": 16.407208,
+    "createDate": "2025-07-26T15:44:11.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173267,16.407208",
     "alt": null,
-    "name": "'Ruhe' Graffitti in der Simmeringer-Hauptstrasse.jpg",
+    "name": "'Einfahrt freihalten' Schild auf einem Zaun vor einem Baugrund.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Einfahrt_freihalten'_Schild_auf_einem_Zaun_vor_einem_Baugrund.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Einfahrt_freihalten'_Schild_auf_einem_Zaun_vor_einem_Baugrund-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Einfahrt_freihalten'_Schild_auf_einem_Zaun_vor_einem_Baugrund-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Einfahrt_freihalten'_Schild_auf_einem_Zaun_vor_einem_Baugrund-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Einfahrt_freihalten'_Schild_auf_einem_Zaun_vor_einem_Baugrund-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.205733,
+    "longitude": 16.378619,
+    "createDate": "2025-07-27T08:41:57.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205733,16.378619",
+    "alt": null,
+    "name": "'Gartenbaukino' Schriftzug am Stubenring.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Gartenbaukino'_Schriftzug_am_Stubenring.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Gartenbaukino'_Schriftzug_am_Stubenring-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Gartenbaukino'_Schriftzug_am_Stubenring-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Gartenbaukino'_Schriftzug_am_Stubenring-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Gartenbaukino'_Schriftzug_am_Stubenring-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -432,54 +448,6 @@
     "gallery": "beton-und-struktur"
   },
   {
-    "latitude": 48.169353,
-    "longitude": 16.423528,
-    "createDate": "2025-07-26T12:06:15.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169353,16.423528",
-    "alt": null,
-    "name": "'Unter der Kirche' Strassenschild Simmering.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Unter_der_Kirche'_Strassenschild_Simmering.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Unter_der_Kirche'_Strassenschild_Simmering-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Unter_der_Kirche'_Strassenschild_Simmering-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Unter_der_Kirche'_Strassenschild_Simmering-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Unter_der_Kirche'_Strassenschild_Simmering-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.194,
-    "longitude": 16.326,
-    "createDate": "2024-07-21T12:34:46.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194,16.326",
-    "alt": null,
-    "name": "'Westbahnpark Jetzt' Sticker.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Westbahnpark_Jetzt'_Sticker.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Westbahnpark_Jetzt'_Sticker-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Westbahnpark_Jetzt'_Sticker-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Westbahnpark_Jetzt'_Sticker-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Westbahnpark_Jetzt'_Sticker-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.209703,
-    "longitude": 16.359542,
-    "createDate": "2025-05-05T07:40:03.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209703,16.359542",
-    "alt": null,
-    "name": "'Wienliebe' Schriftzug Rathauspark.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Wienliebe'_Schriftzug_Rathauspark.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Wienliebe'_Schriftzug_Rathauspark-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Wienliebe'_Schriftzug_Rathauspark-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Wienliebe'_Schriftzug_Rathauspark-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Wienliebe'_Schriftzug_Rathauspark-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
     "latitude": 48.169175,
     "longitude": 16.416547,
     "createDate": "2025-05-02T15:47:03.000Z",
@@ -492,6 +460,22 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/3_Müllcontainer,_eine_Mauer_und_Himmel_in_der_Lorystrasse-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/3_Müllcontainer,_eine_Mauer_und_Himmel_in_der_Lorystrasse-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/3_Müllcontainer,_eine_Mauer_und_Himmel_in_der_Lorystrasse-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.174133,
+    "longitude": 16.416464,
+    "createDate": "2025-04-25T15:39:08.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174133,16.416464",
+    "alt": null,
+    "name": "76A Bus in der nähe des Enkplatz.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/76A_Bus_in_der_nähe_des_Enkplatz.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/76A_Bus_in_der_nähe_des_Enkplatz-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/76A_Bus_in_der_nähe_des_Enkplatz-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/76A_Bus_in_der_nähe_des_Enkplatz-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/76A_Bus_in_der_nähe_des_Enkplatz-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -608,6 +592,22 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.186092,
+    "longitude": 16.413206,
+    "createDate": "2025-06-01T13:40:51.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.186092,16.413206",
+    "alt": null,
+    "name": "Autobahnauffahrt und Grünfläche in der nähe der Geiereckstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Autobahnauffahrt_und_Grünfläche_in_der_nähe_der_Geiereckstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Autobahnauffahrt_und_Grünfläche_in_der_nähe_der_Geiereckstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Autobahnauffahrt_und_Grünfläche_in_der_nähe_der_Geiereckstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Autobahnauffahrt_und_Grünfläche_in_der_nähe_der_Geiereckstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Autobahnauffahrt_und_Grünfläche_in_der_nähe_der_Geiereckstrasse-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.201878,
     "longitude": 16.337144,
     "createDate": "2025-05-03T11:40:59.000Z",
@@ -672,6 +672,22 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.162914,
+    "longitude": 16.429156,
+    "createDate": "2025-07-27T13:36:27.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.162914,16.429156",
+    "alt": null,
+    "name": "Baustelle mit Bau-Zaun und Skulptur dahinter.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Baustelle_mit_Bau-Zaun_und_Skulptur_dahinter.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Baustelle_mit_Bau-Zaun_und_Skulptur_dahinter-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Baustelle_mit_Bau-Zaun_und_Skulptur_dahinter-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Baustelle_mit_Bau-Zaun_und_Skulptur_dahinter-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Baustelle_mit_Bau-Zaun_und_Skulptur_dahinter-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.169014,
     "longitude": 16.416828,
     "createDate": "2024-07-23T06:01:32.000Z",
@@ -684,6 +700,22 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Büsche_an_der_Simmeringer_S-Bahn-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Büsche_an_der_Simmeringer_S-Bahn-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Büsche_an_der_Simmeringer_S-Bahn-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.221325,
+    "longitude": 16.367619,
+    "createDate": "2025-07-15T19:04:59.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.221325,16.367619",
+    "alt": null,
+    "name": "Bäume und Dächer am Donaukanal während der Dämmerung.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Dächer_am_Donaukanal_während_der_Dämmerung.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Dächer_am_Donaukanal_während_der_Dämmerung-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Dächer_am_Donaukanal_während_der_Dämmerung-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Dächer_am_Donaukanal_während_der_Dämmerung-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Dächer_am_Donaukanal_während_der_Dämmerung-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -704,6 +736,22 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.207589,
+    "longitude": 16.380006,
+    "createDate": "2025-07-27T08:38:49.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207589,16.380006",
+    "alt": null,
+    "name": "Beschmiertes Karl-Lueger-Denkmal am Stubenring.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Beschmiertes_Karl-Lueger-Denkmal_am_Stubenring.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Beschmiertes_Karl-Lueger-Denkmal_am_Stubenring-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Beschmiertes_Karl-Lueger-Denkmal_am_Stubenring-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Beschmiertes_Karl-Lueger-Denkmal_am_Stubenring-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Beschmiertes_Karl-Lueger-Denkmal_am_Stubenring-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.201386,
     "longitude": 16.387961,
     "createDate": "2025-05-02T15:07:19.000Z",
@@ -716,38 +764,6 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bezirksmuseum_Wien_Landstrasse-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bezirksmuseum_Wien_Landstrasse-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bezirksmuseum_Wien_Landstrasse-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.231892,
-    "longitude": 16.390422,
-    "createDate": "2025-07-15T16:49:41.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231892,16.390422",
-    "alt": null,
-    "name": "Bier Werbeaufsteller.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bier_Werbeaufsteller.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bier_Werbeaufsteller-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bier_Werbeaufsteller-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bier_Werbeaufsteller-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bier_Werbeaufsteller-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.169839,
-    "longitude": 16.420197,
-    "createDate": "2025-05-29T06:47:21.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169839,16.420197",
-    "alt": null,
-    "name": "Blume in Aschenbecher.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Blume_in_Aschenbecher.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Blume_in_Aschenbecher-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Blume_in_Aschenbecher-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Blume_in_Aschenbecher-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Blume_in_Aschenbecher-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -773,45 +789,13 @@
     "createDate": "2025-05-10T12:33:48.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.254253,16.380364",
     "alt": null,
-    "name": "Brücke zur Donauinsel.jpg",
+    "name": "Brücke über die Donauinsel in Brigittenau.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Brücke_zur_Donauinsel.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Brücke_zur_Donauinsel-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Brücke_zur_Donauinsel-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Brücke_zur_Donauinsel-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Brücke_zur_Donauinsel-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.174133,
-    "longitude": 16.416464,
-    "createDate": "2025-04-25T15:39:08.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174133,16.416464",
-    "alt": null,
-    "name": "Bus beim Enkplatz.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bus_beim_Enkplatz.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bus_beim_Enkplatz-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bus_beim_Enkplatz-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bus_beim_Enkplatz-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bus_beim_Enkplatz-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.221325,
-    "longitude": 16.367619,
-    "createDate": "2025-07-15T19:04:59.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.221325,16.367619",
-    "alt": null,
-    "name": "Bäume und Dächer am Donaukanal.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Dächer_am_Donaukanal.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Dächer_am_Donaukanal-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Dächer_am_Donaukanal-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Dächer_am_Donaukanal-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bäume_und_Dächer_am_Donaukanal-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Brücke_über_die_Donauinsel_in_Brigittenau.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Brücke_über_die_Donauinsel_in_Brigittenau-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Brücke_über_die_Donauinsel_in_Brigittenau-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Brücke_über_die_Donauinsel_in_Brigittenau-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Brücke_über_die_Donauinsel_in_Brigittenau-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -837,13 +821,13 @@
     "createDate": "2025-07-12T15:51:41.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.249478,16.364239",
     "alt": null,
-    "name": "Der Karl-Marx-Hof.jpg",
+    "name": "Der Karl-Marx-Hof Gemeindebau in Heiligenstadt.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Der_Karl-Marx-Hof.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Der_Karl-Marx-Hof-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Der_Karl-Marx-Hof-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Der_Karl-Marx-Hof-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Der_Karl-Marx-Hof-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Der_Karl-Marx-Hof_Gemeindebau_in_Heiligenstadt.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Der_Karl-Marx-Hof_Gemeindebau_in_Heiligenstadt-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Der_Karl-Marx-Hof_Gemeindebau_in_Heiligenstadt-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Der_Karl-Marx-Hof_Gemeindebau_in_Heiligenstadt-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Der_Karl-Marx-Hof_Gemeindebau_in_Heiligenstadt-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -860,6 +844,22 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Echoes_Schriftzug_Hauptbibliothek_Wien-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Echoes_Schriftzug_Hauptbibliothek_Wien-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Echoes_Schriftzug_Hauptbibliothek_Wien-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.176692,
+    "longitude": 16.409042,
+    "createDate": "2025-07-26T15:36:03.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176692,16.409042",
+    "alt": null,
+    "name": "Ein Gebäude mit einem 'Nimm dein Sackerl fürs Gackerl' Papp-Aufsteller davor.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Gebäude_mit_einem_'Nimm_dein_Sackerl_fürs_Gackerl'_Papp-Aufsteller_davor.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Gebäude_mit_einem_'Nimm_dein_Sackerl_fürs_Gackerl'_Papp-Aufsteller_davor-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Gebäude_mit_einem_'Nimm_dein_Sackerl_fürs_Gackerl'_Papp-Aufsteller_davor-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Gebäude_mit_einem_'Nimm_dein_Sackerl_fürs_Gackerl'_Papp-Aufsteller_davor-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Gebäude_mit_einem_'Nimm_dein_Sackerl_fürs_Gackerl'_Papp-Aufsteller_davor-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -1088,6 +1088,22 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.162964,
+    "longitude": 16.427539,
+    "createDate": "2025-06-01T06:38:19.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.162964,16.427539",
+    "alt": null,
+    "name": "Fassade des Salvador-Allende-Hofs in Simmering .jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_des_Salvador-Allende-Hofs_in_Simmering_.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_des_Salvador-Allende-Hofs_in_Simmering_-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_des_Salvador-Allende-Hofs_in_Simmering_-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_des_Salvador-Allende-Hofs_in_Simmering_-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_des_Salvador-Allende-Hofs_in_Simmering_-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.199825,
     "longitude": 16.387606,
     "createDate": "2025-05-02T15:09:24.000Z",
@@ -1200,6 +1216,22 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.204853,
+    "longitude": 16.372997,
+    "createDate": "2025-07-27T08:48:31.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204853,16.372997",
+    "alt": null,
+    "name": "Gemeindebau im 1. Bezirk.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_im_1._Bezirk.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_im_1._Bezirk-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_im_1._Bezirk-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_im_1._Bezirk-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_im_1._Bezirk-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.198017,
     "longitude": 16.335486,
     "createDate": "2025-05-03T10:58:21.000Z",
@@ -1212,6 +1244,38 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_in_Wien-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_in_Wien-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_in_Wien-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.165367,
+    "longitude": 16.430989,
+    "createDate": "2025-07-27T13:32:18.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.165367,16.430989",
+    "alt": null,
+    "name": "Gemeindebau in der Kaiser-Ebersdorfer-Strasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_in_der_Kaiser-Ebersdorfer-Strasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_in_der_Kaiser-Ebersdorfer-Strasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_in_der_Kaiser-Ebersdorfer-Strasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_in_der_Kaiser-Ebersdorfer-Strasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_in_der_Kaiser-Ebersdorfer-Strasse-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.168206,
+    "longitude": 16.412992,
+    "createDate": "2025-07-26T15:58:18.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168206,16.412992",
+    "alt": null,
+    "name": "Gemeindebau, Baum und Grünfläche in Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau,_Baum_und_Grünfläche_in_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau,_Baum_und_Grünfläche_in_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau,_Baum_und_Grünfläche_in_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau,_Baum_und_Grünfläche_in_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau,_Baum_und_Grünfläche_in_Simmering-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -1260,38 +1324,6 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": null,
-    "longitude": null,
-    "createDate": null,
-    "googleMapsUrl": null,
-    "alt": null,
-    "name": "Graffitti-Tag 'Gurk' in Rudolfsheim-Fünfhaus.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.170364,
-    "longitude": 16.425317,
-    "createDate": "2025-07-26T12:08:19.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170364,16.425317",
-    "alt": null,
-    "name": "Grillhendl-Wagen auf einem Parkplatz.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Grillhendl-Wagen_auf_einem_Parkplatz.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Grillhendl-Wagen_auf_einem_Parkplatz-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Grillhendl-Wagen_auf_einem_Parkplatz-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Grillhendl-Wagen_auf_einem_Parkplatz-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Grillhendl-Wagen_auf_einem_Parkplatz-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -1456,18 +1488,18 @@
     "gallery": "beton-und-struktur"
   },
   {
-    "latitude": 48.239161,
-    "longitude": 16.384072,
-    "createDate": "2025-07-15T17:03:01.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.239161,16.384072",
+    "latitude": 48.203903,
+    "longitude": 16.367511,
+    "createDate": "2025-07-27T09:48:01.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203903,16.367511",
     "alt": null,
-    "name": "Kaos Graffitti in Brigittenau.jpg",
+    "name": "Innenansicht Heidi Horten Collection.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kaos_Graffitti_in_Brigittenau.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kaos_Graffitti_in_Brigittenau-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kaos_Graffitti_in_Brigittenau-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kaos_Graffitti_in_Brigittenau-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kaos_Graffitti_in_Brigittenau-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Innenansicht_Heidi_Horten_Collection.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Innenansicht_Heidi_Horten_Collection-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Innenansicht_Heidi_Horten_Collection-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Innenansicht_Heidi_Horten_Collection-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Innenansicht_Heidi_Horten_Collection-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -1552,34 +1584,18 @@
     "gallery": "beton-und-struktur"
   },
   {
-    "latitude": 48.203533,
-    "longitude": 16.377142,
-    "createDate": "2025-07-14T16:03:17.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203533,16.377142",
+    "latitude": 48.154797,
+    "longitude": 16.426722,
+    "createDate": "2025-05-29T08:23:55.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.154797,16.426722",
     "alt": null,
-    "name": "Kursalon Hübner Eingang - Gesperrt wegen Bauarbeiten.jpg",
+    "name": "Kreisverkehr beim Zentralfriedhof Tor 11.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kursalon_Hübner_Eingang_-_Gesperrt_wegen_Bauarbeiten.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kursalon_Hübner_Eingang_-_Gesperrt_wegen_Bauarbeiten-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kursalon_Hübner_Eingang_-_Gesperrt_wegen_Bauarbeiten-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kursalon_Hübner_Eingang_-_Gesperrt_wegen_Bauarbeiten-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kursalon_Hübner_Eingang_-_Gesperrt_wegen_Bauarbeiten-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.213772,
-    "longitude": 16.362475,
-    "createDate": "2025-06-02T06:38:55.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213772,16.362475",
-    "alt": null,
-    "name": "LKW beim Schottentor .jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/LKW_beim_Schottentor_.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/LKW_beim_Schottentor_-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/LKW_beim_Schottentor_-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/LKW_beim_Schottentor_-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/LKW_beim_Schottentor_-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kreisverkehr_beim_Zentralfriedhof_Tor_11.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kreisverkehr_beim_Zentralfriedhof_Tor_11-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kreisverkehr_beim_Zentralfriedhof_Tor_11-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kreisverkehr_beim_Zentralfriedhof_Tor_11-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kreisverkehr_beim_Zentralfriedhof_Tor_11-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -1616,6 +1632,22 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.169789,
+    "longitude": 16.412914,
+    "createDate": "2025-07-13T13:24:51.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169789,16.412914",
+    "alt": null,
+    "name": "Lila getsrichenes Wohnhaus in der Braunhubergasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lila_getsrichenes_Wohnhaus_in_der_Braunhubergasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lila_getsrichenes_Wohnhaus_in_der_Braunhubergasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lila_getsrichenes_Wohnhaus_in_der_Braunhubergasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lila_getsrichenes_Wohnhaus_in_der_Braunhubergasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lila_getsrichenes_Wohnhaus_in_der_Braunhubergasse-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.168781,
     "longitude": 16.417067,
     "createDate": "2025-05-02T15:46:13.000Z",
@@ -1628,22 +1660,6 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lorystrasse_77_in_Simmering_-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lorystrasse_77_in_Simmering_-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lorystrasse_77_in_Simmering_-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.176483,
-    "longitude": 16.424428,
-    "createDate": "2024-08-17T13:26:27.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176483,16.424428",
-    "alt": null,
-    "name": "Mama Graffitti in Simmering.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mama_Graffitti_in_Simmering.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mama_Graffitti_in_Simmering-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mama_Graffitti_in_Simmering-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mama_Graffitti_in_Simmering-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mama_Graffitti_in_Simmering-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -1685,13 +1701,13 @@
     "createDate": "2025-05-03T11:39:26.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201675,16.336906",
     "alt": null,
-    "name": "Neubaugürtel und BIM Station bei Burggasse in Rudolfsheim-Fünfhaus.jpg",
+    "name": "Neubaugürtel und BIM Station bei der Burggasse.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Neubaugürtel_und_BIM_Station_bei_Burggasse_in_Rudolfsheim-Fünfhaus.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Neubaugürtel_und_BIM_Station_bei_Burggasse_in_Rudolfsheim-Fünfhaus-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Neubaugürtel_und_BIM_Station_bei_Burggasse_in_Rudolfsheim-Fünfhaus-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Neubaugürtel_und_BIM_Station_bei_Burggasse_in_Rudolfsheim-Fünfhaus-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Neubaugürtel_und_BIM_Station_bei_Burggasse_in_Rudolfsheim-Fünfhaus-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Neubaugürtel_und_BIM_Station_bei_der_Burggasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Neubaugürtel_und_BIM_Station_bei_der_Burggasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Neubaugürtel_und_BIM_Station_bei_der_Burggasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Neubaugürtel_und_BIM_Station_bei_der_Burggasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Neubaugürtel_und_BIM_Station_bei_der_Burggasse-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -1776,6 +1792,22 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.203994,
+    "longitude": 16.367664,
+    "createDate": "2025-07-27T09:19:43.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203994,16.367664",
+    "alt": null,
+    "name": "Roy Lichetnstein Gemälde und Innerum der Heidi Horten Collection.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Roy_Lichetnstein_Gemälde_und_Innerum_der_Heidi_Horten_Collection.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Roy_Lichetnstein_Gemälde_und_Innerum_der_Heidi_Horten_Collection-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Roy_Lichetnstein_Gemälde_und_Innerum_der_Heidi_Horten_Collection-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Roy_Lichetnstein_Gemälde_und_Innerum_der_Heidi_Horten_Collection-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Roy_Lichetnstein_Gemälde_und_Innerum_der_Heidi_Horten_Collection-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.167317,
     "longitude": 16.407628,
     "createDate": "2025-04-13T11:53:17.000Z",
@@ -1808,50 +1840,18 @@
     "gallery": "beton-und-struktur"
   },
   {
-    "latitude": 48.166492,
-    "longitude": 16.413928,
-    "createDate": "2025-05-25T16:23:31.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.166492,16.413928",
+    "latitude": 48.173319,
+    "longitude": 16.416597,
+    "createDate": "2025-07-25T15:44:01.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173319,16.416597",
     "alt": null,
-    "name": "S-Bahn Unterführung Fahrradweg.jpg",
+    "name": "Schmetterling-Attrapen an der Glas-Decke des Zentrum Simmering.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/S-Bahn_Unterführung_Fahrradweg.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/S-Bahn_Unterführung_Fahrradweg-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/S-Bahn_Unterführung_Fahrradweg-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/S-Bahn_Unterführung_Fahrradweg-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/S-Bahn_Unterführung_Fahrradweg-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.204619,
-    "longitude": 16.332464,
-    "createDate": "2025-05-03T11:12:53.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204619,16.332464",
-    "alt": null,
-    "name": "Schaufenster des Magistrats in Rudolfsheim-Fünfhaus.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schaufenster_des_Magistrats_in_Rudolfsheim-Fünfhaus.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schaufenster_des_Magistrats_in_Rudolfsheim-Fünfhaus-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schaufenster_des_Magistrats_in_Rudolfsheim-Fünfhaus-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schaufenster_des_Magistrats_in_Rudolfsheim-Fünfhaus-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schaufenster_des_Magistrats_in_Rudolfsheim-Fünfhaus-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.211242,
-    "longitude": 16.379222,
-    "createDate": "2025-04-26T14:45:27.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211242,16.379222",
-    "alt": null,
-    "name": "Schild der Garage Capricorn am Schwedenplatz.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schild_der_Garage_Capricorn_am_Schwedenplatz.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schild_der_Garage_Capricorn_am_Schwedenplatz-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schild_der_Garage_Capricorn_am_Schwedenplatz-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schild_der_Garage_Capricorn_am_Schwedenplatz-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schild_der_Garage_Capricorn_am_Schwedenplatz-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schmetterling-Attrapen_an_der_Glas-Decke_des_Zentrum_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schmetterling-Attrapen_an_der_Glas-Decke_des_Zentrum_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schmetterling-Attrapen_an_der_Glas-Decke_des_Zentrum_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schmetterling-Attrapen_an_der_Glas-Decke_des_Zentrum_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schmetterling-Attrapen_an_der_Glas-Decke_des_Zentrum_Simmering-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -1884,22 +1884,6 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schottenring-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schottenring-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schottenring-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.162964,
-    "longitude": 16.427539,
-    "createDate": "2025-06-01T06:38:19.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.162964,16.427539",
-    "alt": null,
-    "name": "Schriftzug Salvador-Allende-Hof in Simmering .jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schriftzug_Salvador-Allende-Hof_in_Simmering_.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schriftzug_Salvador-Allende-Hof_in_Simmering_-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schriftzug_Salvador-Allende-Hof_in_Simmering_-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schriftzug_Salvador-Allende-Hof_in_Simmering_-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Schriftzug_Salvador-Allende-Hof_in_Simmering_-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -2000,6 +1984,22 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.204211,
+    "longitude": 16.368397,
+    "createDate": "2025-07-27T10:05:36.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204211,16.368397",
+    "alt": null,
+    "name": "Statuen benannt nach österreichischen Flüssen nahe Albertina.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statuen_benannt_nach_österreichischen_Flüssen_nahe_Albertina.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statuen_benannt_nach_österreichischen_Flüssen_nahe_Albertina-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statuen_benannt_nach_österreichischen_Flüssen_nahe_Albertina-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statuen_benannt_nach_österreichischen_Flüssen_nahe_Albertina-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statuen_benannt_nach_österreichischen_Flüssen_nahe_Albertina-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.231067,
     "longitude": 16.391083,
     "createDate": "2025-07-15T16:48:10.000Z",
@@ -2064,50 +2064,18 @@
     "gallery": "beton-und-struktur"
   },
   {
-    "latitude": 48.186092,
-    "longitude": 16.413206,
-    "createDate": "2025-06-01T13:40:51.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.186092,16.413206",
-    "alt": null,
-    "name": "Strasse und Grünfläche in der Geiereckstrasse.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Grünfläche_in_der_Geiereckstrasse.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Grünfläche_in_der_Geiereckstrasse-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Grünfläche_in_der_Geiereckstrasse-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Grünfläche_in_der_Geiereckstrasse-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Grünfläche_in_der_Geiereckstrasse-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
     "latitude": 48.198953,
     "longitude": 16.38115,
     "createDate": "2025-05-02T15:16:41.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198953,16.38115",
     "alt": null,
-    "name": "Strasse und Unterführung in Landstrasse.jpg",
+    "name": "Strasse und Unterführung in der Landstrasse.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Unterführung_in_Landstrasse.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Unterführung_in_Landstrasse-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Unterführung_in_Landstrasse-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Unterführung_in_Landstrasse-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Unterführung_in_Landstrasse-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.154797,
-    "longitude": 16.426722,
-    "createDate": "2025-05-29T08:23:55.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.154797,16.426722",
-    "alt": null,
-    "name": "Strassen beim Zentralfriedhof Tor 11.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strassen_beim_Zentralfriedhof_Tor_11.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strassen_beim_Zentralfriedhof_Tor_11-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strassen_beim_Zentralfriedhof_Tor_11-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strassen_beim_Zentralfriedhof_Tor_11-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strassen_beim_Zentralfriedhof_Tor_11-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Unterführung_in_der_Landstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Unterführung_in_der_Landstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Unterführung_in_der_Landstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Unterführung_in_der_Landstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Strasse_und_Unterführung_in_der_Landstrasse-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -2192,6 +2160,22 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.207092,
+    "longitude": 16.380056,
+    "createDate": "2025-07-27T08:39:38.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207092,16.380056",
+    "alt": null,
+    "name": "U-Bahn Station Stubentor Stiegen und Lifte durch Glas.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_Stubentor_Stiegen_und_Lifte_durch_Glas.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_Stubentor_Stiegen_und_Lifte_durch_Glas-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_Stubentor_Stiegen_und_Lifte_durch_Glas-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_Stubentor_Stiegen_und_Lifte_durch_Glas-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_Stubentor_Stiegen_und_Lifte_durch_Glas-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": null,
     "longitude": null,
     "createDate": null,
@@ -2256,6 +2240,22 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.169839,
+    "longitude": 16.420197,
+    "createDate": "2025-05-29T06:47:21.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169839,16.420197",
+    "alt": null,
+    "name": "Weisse Rose in einem Aschenbecher.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Weisse_Rose_in_einem_Aschenbecher.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Weisse_Rose_in_einem_Aschenbecher-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Weisse_Rose_in_einem_Aschenbecher-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Weisse_Rose_in_einem_Aschenbecher-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Weisse_Rose_in_einem_Aschenbecher-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.181389,
     "longitude": 16.398206,
     "createDate": "2025-04-20T09:44:40.000Z",
@@ -2268,22 +2268,6 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wien_Energie_Kraftwerk_in_Simmering-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wien_Energie_Kraftwerk_in_Simmering-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wien_Energie_Kraftwerk_in_Simmering-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
-    "latitude": 48.242217,
-    "longitude": 16.384361,
-    "createDate": "2025-07-15T17:17:16.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.242217,16.384361",
-    "alt": null,
-    "name": "Wien Leuchtet Schriftzug nahe Handelskai Brigittenau.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wien_Leuchtet_Schriftzug_nahe_Handelskai_Brigittenau.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wien_Leuchtet_Schriftzug_nahe_Handelskai_Brigittenau-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wien_Leuchtet_Schriftzug_nahe_Handelskai_Brigittenau-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wien_Leuchtet_Schriftzug_nahe_Handelskai_Brigittenau-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wien_Leuchtet_Schriftzug_nahe_Handelskai_Brigittenau-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -2352,18 +2336,18 @@
     "gallery": "beton-und-struktur"
   },
   {
-    "latitude": 48.169789,
-    "longitude": 16.412914,
-    "createDate": "2025-07-13T13:24:51.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169789,16.412914",
+    "latitude": 48.172869,
+    "longitude": 16.409564,
+    "createDate": "2024-07-19T15:24:07.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172869,16.409564",
     "alt": null,
-    "name": "Wohnhaus Wien Simmering Braunhubergasse.jpg",
+    "name": "Wohnhaus im Sonneschein.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_Wien_Simmering_Braunhubergasse.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_Wien_Simmering_Braunhubergasse-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_Wien_Simmering_Braunhubergasse-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_Wien_Simmering_Braunhubergasse-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_Wien_Simmering_Braunhubergasse-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_im_Sonneschein.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_im_Sonneschein-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_im_Sonneschein-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_im_Sonneschein-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_im_Sonneschein-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -2384,34 +2368,18 @@
     "gallery": "beton-und-struktur"
   },
   {
-    "latitude": 48.172869,
-    "longitude": 16.409564,
-    "createDate": "2024-07-19T15:24:07.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172869,16.409564",
-    "alt": null,
-    "name": "Wohnhaus in Wien.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_in_Wien.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_in_Wien-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_in_Wien-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_in_Wien-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_in_Wien-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
     "latitude": 48.202356,
     "longitude": 16.394811,
     "createDate": "2025-07-25T11:47:52.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202356,16.394811",
     "alt": null,
-    "name": "Wohnhaus nahe Rochusmarkt in der Landstrasse.jpg",
+    "name": "Wohnhaus mit Balkonen beim Rochusmarkt.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_nahe_Rochusmarkt_in_der_Landstrasse.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_nahe_Rochusmarkt_in_der_Landstrasse-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_nahe_Rochusmarkt_in_der_Landstrasse-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_nahe_Rochusmarkt_in_der_Landstrasse-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_nahe_Rochusmarkt_in_der_Landstrasse-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_mit_Balkonen_beim_Rochusmarkt.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_mit_Balkonen_beim_Rochusmarkt-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_mit_Balkonen_beim_Rochusmarkt-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_mit_Balkonen_beim_Rochusmarkt-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Wohnhaus_mit_Balkonen_beim_Rochusmarkt-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -2432,22 +2400,6 @@
     "gallery": "beton-und-struktur"
   },
   {
-    "latitude": 48.206467,
-    "longitude": 16.383042,
-    "createDate": "2025-07-14T15:55:18.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206467,16.383042",
-    "alt": null,
-    "name": "Zebrastreifen Wien Mitte Richtung Stubentor und Stadtpark.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_Wien_Mitte_Richtung_Stubentor_und_Stadtpark.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_Wien_Mitte_Richtung_Stubentor_und_Stadtpark-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_Wien_Mitte_Richtung_Stubentor_und_Stadtpark-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_Wien_Mitte_Richtung_Stubentor_und_Stadtpark-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_Wien_Mitte_Richtung_Stubentor_und_Stadtpark-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
     "latitude": 48.178458,
     "longitude": 16.394178,
     "createDate": "2025-04-20T09:52:13.000Z",
@@ -2460,6 +2412,22 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_in_Wien_Simmering-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_in_Wien_Simmering-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_in_Wien_Simmering-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.206467,
+    "longitude": 16.383042,
+    "createDate": "2025-07-14T15:55:18.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206467,16.383042",
+    "alt": null,
+    "name": "Zebrastreifen vor dem Wienfluss in der nähe von Wien Mitte.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_vor_dem_Wienfluss_in_der_nähe_von_Wien_Mitte.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_vor_dem_Wienfluss_in_der_nähe_von_Wien_Mitte-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_vor_dem_Wienfluss_in_der_nähe_von_Wien_Mitte-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_vor_dem_Wienfluss_in_der_nähe_von_Wien_Mitte-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_vor_dem_Wienfluss_in_der_nähe_von_Wien_Mitte-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -2965,13 +2933,13 @@
     "createDate": "2025-07-21T18:01:39.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.075886,15.437569",
     "alt": null,
-    "name": "Turm am Schlossberg in.jpg",
+    "name": "Turm am Schlossberg.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_in.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_in-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_in-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_in-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg_in-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/graz/Turm_am_Schlossberg-1440w.jpg"
     },
     "gallery": "graz"
   },
@@ -3292,22 +3260,6 @@
       "w380": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Gasflaschen_im_Fischerwirt_St._Margarethen_bei_Wolfsberg-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Gasflaschen_im_Fischerwirt_St._Margarethen_bei_Wolfsberg-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Gasflaschen_im_Fischerwirt_St._Margarethen_bei_Wolfsberg-1440w.jpg"
-    },
-    "gallery": "kaernten-koroska"
-  },
-  {
-    "latitude": 41.145661,
-    "longitude": -8.614147,
-    "createDate": "2025-03-31T21:22:17.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145661,-8.614147",
-    "alt": null,
-    "name": "Gebäude bei Nacht.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Gebäude_bei_Nacht.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Gebäude_bei_Nacht-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Gebäude_bei_Nacht-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Gebäude_bei_Nacht-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/kaernten-koroska/Gebäude_bei_Nacht-1440w.jpg"
     },
     "gallery": "kaernten-koroska"
   },
@@ -5637,13 +5589,13 @@
     "createDate": "2019-04-01T09:14:17.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.133667,13.430883",
     "alt": "Hisilicon Balong",
-    "name": "Bademeister-Hütte auf einem Ostsee-Strand bei Wampen.jpg",
+    "name": "Bademeister-Hütte auf einem Ostsee-Strand bei Wampen.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/ostsee/Bademeister-Hütte_auf_einem_Ostsee-Strand_bei_Wampen.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/ostsee/Bademeister-Hütte_auf_einem_Ostsee-Strand_bei_Wampen-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/ostsee/Bademeister-Hütte_auf_einem_Ostsee-Strand_bei_Wampen-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/ostsee/Bademeister-Hütte_auf_einem_Ostsee-Strand_bei_Wampen-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/ostsee/Bademeister-Hütte_auf_einem_Ostsee-Strand_bei_Wampen-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/ostsee/Bademeister-Hütte_auf_einem_Ostsee-Strand_bei_Wampen.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/ostsee/Bademeister-Hütte_auf_einem_Ostsee-Strand_bei_Wampen-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/ostsee/Bademeister-Hütte_auf_einem_Ostsee-Strand_bei_Wampen-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/ostsee/Bademeister-Hütte_auf_einem_Ostsee-Strand_bei_Wampen-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/ostsee/Bademeister-Hütte_auf_einem_Ostsee-Strand_bei_Wampen-1440w.jpg"
     },
     "gallery": "ostsee"
   },
@@ -5653,13 +5605,13 @@
     "createDate": "2019-03-30T06:35:26.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.178906,12.0779",
     "alt": "Hisilicon Balong",
-    "name": "Hotel Neptun im Rostock mit Strand bei klaren blauen Himmel.jpg",
+    "name": "Hotel Neptun im Rostock-Warnemünde mit Strand bei klaren blauen Himmel.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/ostsee/Hotel_Neptun_im_Rostock_mit_Strand_bei_klaren_blauen_Himmel.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/ostsee/Hotel_Neptun_im_Rostock_mit_Strand_bei_klaren_blauen_Himmel-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/ostsee/Hotel_Neptun_im_Rostock_mit_Strand_bei_klaren_blauen_Himmel-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/ostsee/Hotel_Neptun_im_Rostock_mit_Strand_bei_klaren_blauen_Himmel-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/ostsee/Hotel_Neptun_im_Rostock_mit_Strand_bei_klaren_blauen_Himmel-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/ostsee/Hotel_Neptun_im_Rostock-Warnemünde_mit_Strand_bei_klaren_blauen_Himmel.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/ostsee/Hotel_Neptun_im_Rostock-Warnemünde_mit_Strand_bei_klaren_blauen_Himmel-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/ostsee/Hotel_Neptun_im_Rostock-Warnemünde_mit_Strand_bei_klaren_blauen_Himmel-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/ostsee/Hotel_Neptun_im_Rostock-Warnemünde_mit_Strand_bei_klaren_blauen_Himmel-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/ostsee/Hotel_Neptun_im_Rostock-Warnemünde_mit_Strand_bei_klaren_blauen_Himmel-1440w.jpg"
     },
     "gallery": "ostsee"
   },
@@ -7440,6 +7392,22 @@
     "gallery": "sonstwo-und-allfaelliges"
   },
   {
+    "latitude": 48.298211,
+    "longitude": 16.422322,
+    "createDate": "2024-04-24T16:09:36.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.298211,16.422322",
+    "alt": null,
+    "name": "Eine Luftaufnahme von Stammersdorf als Wandbild in einem Heurigen in Stammersdorf.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Eine_Luftaufnahme_von_Stammersdorf_als_Wandbild_in_einem_Heurigen_in_Stammersdorf.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Eine_Luftaufnahme_von_Stammersdorf_als_Wandbild_in_einem_Heurigen_in_Stammersdorf-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Eine_Luftaufnahme_von_Stammersdorf_als_Wandbild_in_einem_Heurigen_in_Stammersdorf-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Eine_Luftaufnahme_von_Stammersdorf_als_Wandbild_in_einem_Heurigen_in_Stammersdorf-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Eine_Luftaufnahme_von_Stammersdorf_als_Wandbild_in_einem_Heurigen_in_Stammersdorf-1440w.jpg"
+    },
+    "gallery": "sonstwo-und-allfaelliges"
+  },
+  {
     "latitude": 49.013631,
     "longitude": 13.901269,
     "createDate": "2024-02-18T08:09:11.000Z",
@@ -7452,22 +7420,6 @@
       "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Elster_im_tschechischen_Wald-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Elster_im_tschechischen_Wald-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Elster_im_tschechischen_Wald-1440w.jpg"
-    },
-    "gallery": "sonstwo-und-allfaelliges"
-  },
-  {
-    "latitude": 48.948892,
-    "longitude": 15.044311,
-    "createDate": "2024-07-13T13:15:40.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.948892,15.044311",
-    "alt": null,
-    "name": "Graffitti Smiley auf einer Mauer Litschau.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Graffitti_Smiley_auf_einer_Mauer_Litschau.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Graffitti_Smiley_auf_einer_Mauer_Litschau-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Graffitti_Smiley_auf_einer_Mauer_Litschau-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Graffitti_Smiley_auf_einer_Mauer_Litschau-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Graffitti_Smiley_auf_einer_Mauer_Litschau-1440w.jpg"
     },
     "gallery": "sonstwo-und-allfaelliges"
   },
@@ -7504,22 +7456,6 @@
     "gallery": "sonstwo-und-allfaelliges"
   },
   {
-    "latitude": 48.298211,
-    "longitude": 16.422322,
-    "createDate": "2024-04-24T16:09:36.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.298211,16.422322",
-    "alt": null,
-    "name": "Heuriger Stammersdorf Wien.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Heuriger_Stammersdorf_Wien.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Heuriger_Stammersdorf_Wien-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Heuriger_Stammersdorf_Wien-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Heuriger_Stammersdorf_Wien-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Heuriger_Stammersdorf_Wien-1440w.jpg"
-    },
-    "gallery": "sonstwo-und-allfaelliges"
-  },
-  {
     "latitude": 48.860578,
     "longitude": 15.211486,
     "createDate": "2024-07-12T19:40:39.000Z",
@@ -7532,38 +7468,6 @@
       "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Kleingöpfritz-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Kleingöpfritz-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Kleingöpfritz-1440w.jpg"
-    },
-    "gallery": "sonstwo-und-allfaelliges"
-  },
-  {
-    "latitude": 48.158839,
-    "longitude": 12.833075,
-    "createDate": "2025-05-16T17:00:56.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158839,12.833075",
-    "alt": null,
-    "name": "Schöne Fassade.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Schöne_Fassade.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Schöne_Fassade-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Schöne_Fassade-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Schöne_Fassade-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Schöne_Fassade-1440w.jpg"
-    },
-    "gallery": "sonstwo-und-allfaelliges"
-  },
-  {
-    "latitude": 48.185794,
-    "longitude": 16.319944,
-    "createDate": "2024-04-11T17:25:26.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185794,16.319944",
-    "alt": null,
-    "name": "Tafelspitz Schild bei Schönbrunn Wien.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Tafelspitz_Schild_bei_Schönbrunn_Wien.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Tafelspitz_Schild_bei_Schönbrunn_Wien-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Tafelspitz_Schild_bei_Schönbrunn_Wien-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Tafelspitz_Schild_bei_Schönbrunn_Wien-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Tafelspitz_Schild_bei_Schönbrunn_Wien-1440w.jpg"
     },
     "gallery": "sonstwo-und-allfaelliges"
   },
@@ -7600,6 +7504,406 @@
     "gallery": "sonstwo-und-allfaelliges"
   },
   {
+    "latitude": 48.176483,
+    "longitude": 16.424428,
+    "createDate": "2024-08-17T13:26:27.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176483,16.424428",
+    "alt": null,
+    "name": "'Mama' Graffitti in Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Mama'_Graffitti_in_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Mama'_Graffitti_in_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Mama'_Graffitti_in_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Mama'_Graffitti_in_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Mama'_Graffitti_in_Simmering-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.203983,
+    "longitude": 16.367647,
+    "createDate": "2025-07-27T09:31:49.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203983,16.367647",
+    "alt": null,
+    "name": "'Metropolis' Plakat Heidi Horten Collection.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Metropolis'_Plakat_Heidi_Horten_Collection.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Metropolis'_Plakat_Heidi_Horten_Collection-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Metropolis'_Plakat_Heidi_Horten_Collection-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Metropolis'_Plakat_Heidi_Horten_Collection-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Metropolis'_Plakat_Heidi_Horten_Collection-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.173625,
+    "longitude": 16.417025,
+    "createDate": "2025-07-14T18:46:56.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173625,16.417025",
+    "alt": null,
+    "name": "'Ruhe' Graffitti in der Simmeringer-Hauptstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.168872,
+    "longitude": 16.424133,
+    "createDate": "2025-07-27T13:18:21.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168872,16.424133",
+    "alt": null,
+    "name": "'Thailändische Spezialitäte' Auslage in der Kaiser-Ebersdorfer-Strasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.169353,
+    "longitude": 16.423528,
+    "createDate": "2025-07-26T12:06:15.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169353,16.423528",
+    "alt": null,
+    "name": "'Unter der Kirche' Strassenschild Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Unter_der_Kirche'_Strassenschild_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Unter_der_Kirche'_Strassenschild_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Unter_der_Kirche'_Strassenschild_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Unter_der_Kirche'_Strassenschild_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Unter_der_Kirche'_Strassenschild_Simmering-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.194,
+    "longitude": 16.326,
+    "createDate": "2024-07-21T12:34:46.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194,16.326",
+    "alt": null,
+    "name": "'Westbahnpark Jetzt' Sticker.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Westbahnpark_Jetzt'_Sticker.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Westbahnpark_Jetzt'_Sticker-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Westbahnpark_Jetzt'_Sticker-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Westbahnpark_Jetzt'_Sticker-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Westbahnpark_Jetzt'_Sticker-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.209703,
+    "longitude": 16.359542,
+    "createDate": "2025-05-05T07:40:03.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209703,16.359542",
+    "alt": null,
+    "name": "'Wienliebe' Schriftzug Rathauspark.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Wienliebe'_Schriftzug_Rathauspark.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Wienliebe'_Schriftzug_Rathauspark-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Wienliebe'_Schriftzug_Rathauspark-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Wienliebe'_Schriftzug_Rathauspark-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Wienliebe'_Schriftzug_Rathauspark-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.231892,
+    "longitude": 16.390422,
+    "createDate": "2025-07-15T16:49:41.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231892,16.390422",
+    "alt": null,
+    "name": "Bier Plastik-Werbeaufsteller auf einer kleinen Hütte.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Bier_Plastik-Werbeaufsteller_auf_einer_kleinen_Hütte.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Bier_Plastik-Werbeaufsteller_auf_einer_kleinen_Hütte-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Bier_Plastik-Werbeaufsteller_auf_einer_kleinen_Hütte-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Bier_Plastik-Werbeaufsteller_auf_einer_kleinen_Hütte-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Bier_Plastik-Werbeaufsteller_auf_einer_kleinen_Hütte-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.203919,
+    "longitude": 16.367383,
+    "createDate": "2025-07-27T10:03:35.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203919,16.367383",
+    "alt": null,
+    "name": "Erwin Wurm Skulptur im Hanuschhof.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Erwin_Wurm_Skulptur_im_Hanuschhof.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Erwin_Wurm_Skulptur_im_Hanuschhof-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Erwin_Wurm_Skulptur_im_Hanuschhof-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Erwin_Wurm_Skulptur_im_Hanuschhof-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Erwin_Wurm_Skulptur_im_Hanuschhof-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.204108,
+    "longitude": 16.367386,
+    "createDate": "2025-07-27T10:03:57.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204108,16.367386",
+    "alt": null,
+    "name": "Goldener Apfel im Hanuschhof.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Goldener_Apfel_im_Hanuschhof.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Goldener_Apfel_im_Hanuschhof-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Goldener_Apfel_im_Hanuschhof-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Goldener_Apfel_im_Hanuschhof-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Goldener_Apfel_im_Hanuschhof-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.175575,
+    "longitude": 16.407339,
+    "createDate": "2025-07-26T15:39:08.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.175575,16.407339",
+    "alt": null,
+    "name": "Graffitti 'Fuck Love' und Hunde-Bild auf einer Well-Blech-Wand.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_'Fuck_Love'_und_Hunde-Bild_auf_einer_Well-Blech-Wand.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_'Fuck_Love'_und_Hunde-Bild_auf_einer_Well-Blech-Wand-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_'Fuck_Love'_und_Hunde-Bild_auf_einer_Well-Blech-Wand-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_'Fuck_Love'_und_Hunde-Bild_auf_einer_Well-Blech-Wand-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_'Fuck_Love'_und_Hunde-Bild_auf_einer_Well-Blech-Wand-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.167661,
+    "longitude": 16.418339,
+    "createDate": "2025-07-27T13:52:10.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.167661,16.418339",
+    "alt": null,
+    "name": "Graffitti 'Kek' in der Lorystrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_'Kek'_in_der_Lorystrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_'Kek'_in_der_Lorystrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_'Kek'_in_der_Lorystrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_'Kek'_in_der_Lorystrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_'Kek'_in_der_Lorystrasse-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.948892,
+    "longitude": 15.044311,
+    "createDate": "2024-07-13T13:15:40.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.948892,15.044311",
+    "alt": null,
+    "name": "Graffitti Smiley auf einer Mauer Litschau.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_Smiley_auf_einer_Mauer_Litschau.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_Smiley_auf_einer_Mauer_Litschau-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_Smiley_auf_einer_Mauer_Litschau-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_Smiley_auf_einer_Mauer_Litschau-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Graffitti_Smiley_auf_einer_Mauer_Litschau-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": null,
+    "longitude": null,
+    "createDate": null,
+    "googleMapsUrl": null,
+    "alt": null,
+    "name": "Graffitti-Tag 'Gurk' in Rudolfsheim-Fünfhaus.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.176256,
+    "longitude": 16.407767,
+    "createDate": "2025-07-26T15:38:04.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176256,16.407767",
+    "alt": null,
+    "name": "Graffitti-Tags auf einer Well-Blech-Wand.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tags_auf_einer_Well-Blech-Wand.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tags_auf_einer_Well-Blech-Wand-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tags_auf_einer_Well-Blech-Wand-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tags_auf_einer_Well-Blech-Wand-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tags_auf_einer_Well-Blech-Wand-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.170364,
+    "longitude": 16.425317,
+    "createDate": "2025-07-26T12:08:19.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170364,16.425317",
+    "alt": null,
+    "name": "Grillhendl-Wagen auf einem Parkplatz.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Grillhendl-Wagen_auf_einem_Parkplatz.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Grillhendl-Wagen_auf_einem_Parkplatz-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Grillhendl-Wagen_auf_einem_Parkplatz-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Grillhendl-Wagen_auf_einem_Parkplatz-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Grillhendl-Wagen_auf_einem_Parkplatz-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.239161,
+    "longitude": 16.384072,
+    "createDate": "2025-07-15T17:03:01.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.239161,16.384072",
+    "alt": null,
+    "name": "Kaos Graffitti in Brigittenau.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Kaos_Graffitti_in_Brigittenau.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Kaos_Graffitti_in_Brigittenau-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Kaos_Graffitti_in_Brigittenau-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Kaos_Graffitti_in_Brigittenau-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Kaos_Graffitti_in_Brigittenau-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.164417,
+    "longitude": 16.422269,
+    "createDate": "2025-07-27T13:47:00.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.164417,16.422269",
+    "alt": null,
+    "name": "Kinderwagenraum-Schild mit Videoüberwachungsinformation.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Kinderwagenraum-Schild_mit_Videoüberwachungsinformation.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Kinderwagenraum-Schild_mit_Videoüberwachungsinformation-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Kinderwagenraum-Schild_mit_Videoüberwachungsinformation-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Kinderwagenraum-Schild_mit_Videoüberwachungsinformation-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Kinderwagenraum-Schild_mit_Videoüberwachungsinformation-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.203533,
+    "longitude": 16.377142,
+    "createDate": "2025-07-14T16:03:17.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203533,16.377142",
+    "alt": null,
+    "name": "Kursalon Hübner Eingang - Gesperrt wegen Bauarbeiten.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Kursalon_Hübner_Eingang_-_Gesperrt_wegen_Bauarbeiten.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Kursalon_Hübner_Eingang_-_Gesperrt_wegen_Bauarbeiten-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Kursalon_Hübner_Eingang_-_Gesperrt_wegen_Bauarbeiten-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Kursalon_Hübner_Eingang_-_Gesperrt_wegen_Bauarbeiten-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Kursalon_Hübner_Eingang_-_Gesperrt_wegen_Bauarbeiten-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.213772,
+    "longitude": 16.362475,
+    "createDate": "2025-06-02T06:38:55.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213772,16.362475",
+    "alt": null,
+    "name": "LKW 'Schön ist es ein Ziel zu haben' nähe Schottentor.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/LKW_'Schön_ist_es_ein_Ziel_zu_haben'_nähe_Schottentor.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/LKW_'Schön_ist_es_ein_Ziel_zu_haben'_nähe_Schottentor-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/LKW_'Schön_ist_es_ein_Ziel_zu_haben'_nähe_Schottentor-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/LKW_'Schön_ist_es_ein_Ziel_zu_haben'_nähe_Schottentor-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/LKW_'Schön_ist_es_ein_Ziel_zu_haben'_nähe_Schottentor-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.166492,
+    "longitude": 16.413928,
+    "createDate": "2025-05-25T16:23:31.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.166492,16.413928",
+    "alt": null,
+    "name": "S-Bahn Unterführung Fahrradweg.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/S-Bahn_Unterführung_Fahrradweg.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/S-Bahn_Unterführung_Fahrradweg-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/S-Bahn_Unterführung_Fahrradweg-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/S-Bahn_Unterführung_Fahrradweg-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/S-Bahn_Unterführung_Fahrradweg-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.204619,
+    "longitude": 16.332464,
+    "createDate": "2025-05-03T11:12:53.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204619,16.332464",
+    "alt": null,
+    "name": "Schaufenster des Magistrats in Rudolfsheim-Fünfhaus.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Schaufenster_des_Magistrats_in_Rudolfsheim-Fünfhaus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Schaufenster_des_Magistrats_in_Rudolfsheim-Fünfhaus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Schaufenster_des_Magistrats_in_Rudolfsheim-Fünfhaus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Schaufenster_des_Magistrats_in_Rudolfsheim-Fünfhaus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Schaufenster_des_Magistrats_in_Rudolfsheim-Fünfhaus-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.211242,
+    "longitude": 16.379222,
+    "createDate": "2025-04-26T14:45:27.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211242,16.379222",
+    "alt": null,
+    "name": "Schild der Garage Capricorn am Schwedenplatz.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Schild_der_Garage_Capricorn_am_Schwedenplatz.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Schild_der_Garage_Capricorn_am_Schwedenplatz-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Schild_der_Garage_Capricorn_am_Schwedenplatz-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Schild_der_Garage_Capricorn_am_Schwedenplatz-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Schild_der_Garage_Capricorn_am_Schwedenplatz-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.158839,
+    "longitude": 12.833075,
+    "createDate": "2025-05-16T17:00:56.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158839,12.833075",
+    "alt": null,
+    "name": "Schöne Fassade.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Schöne_Fassade.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Schöne_Fassade-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Schöne_Fassade-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Schöne_Fassade-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Schöne_Fassade-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.185794,
+    "longitude": 16.319944,
+    "createDate": "2024-04-11T17:25:26.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185794,16.319944",
+    "alt": null,
+    "name": "Tafelspitz Schild bei Schönbrunn Wien.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Tafelspitz_Schild_bei_Schönbrunn_Wien.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Tafelspitz_Schild_bei_Schönbrunn_Wien-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Tafelspitz_Schild_bei_Schönbrunn_Wien-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Tafelspitz_Schild_bei_Schönbrunn_Wien-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Tafelspitz_Schild_bei_Schönbrunn_Wien-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
     "latitude": 48.169697,
     "longitude": 16.416206,
     "createDate": "2024-05-29T14:39:48.000Z",
@@ -7607,13 +7911,29 @@
     "alt": null,
     "name": "Veränderung ist schwer Schriftzug Simmering Wien.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Veränderung_ist_schwer_Schriftzug_Simmering_Wien.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Veränderung_ist_schwer_Schriftzug_Simmering_Wien-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Veränderung_ist_schwer_Schriftzug_Simmering_Wien-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Veränderung_ist_schwer_Schriftzug_Simmering_Wien-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Veränderung_ist_schwer_Schriftzug_Simmering_Wien-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Veränderung_ist_schwer_Schriftzug_Simmering_Wien.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Veränderung_ist_schwer_Schriftzug_Simmering_Wien-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Veränderung_ist_schwer_Schriftzug_Simmering_Wien-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Veränderung_ist_schwer_Schriftzug_Simmering_Wien-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Veränderung_ist_schwer_Schriftzug_Simmering_Wien-1440w.jpg"
     },
-    "gallery": "sonstwo-und-allfaelliges"
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.242217,
+    "longitude": 16.384361,
+    "createDate": "2025-07-15T17:17:16.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.242217,16.384361",
+    "alt": null,
+    "name": "Wien Leuchtet Schriftzug nahe Handelskai Brigittenau.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/Wien_Leuchtet_Schriftzug_nahe_Handelskai_Brigittenau.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/Wien_Leuchtet_Schriftzug_nahe_Handelskai_Brigittenau-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/Wien_Leuchtet_Schriftzug_nahe_Handelskai_Brigittenau-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/Wien_Leuchtet_Schriftzug_nahe_Handelskai_Brigittenau-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Wien_Leuchtet_Schriftzug_nahe_Handelskai_Brigittenau-1440w.jpg"
+    },
+    "gallery": "symbole"
   },
   {
     "latitude": 39.466347,

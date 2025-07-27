@@ -2,12 +2,13 @@ import { useParams } from "react-router-dom";
 import { galleries } from "../../galleries";
 import { marked } from "marked";
 import type { Gallery as GalleryType } from "../../types";
-import GalleryItem from "../layout/GalleryItem";
+import GalleryItem from "../ui/GalleryItem";
 import { useEffect, useMemo } from "react";
 import { useLocation } from "react-router-dom";
 import { CONFIG } from "../../config";
 import { getImageUrl } from "../../utils/image";
 import CopyButton from "../ui/CopyButton";
+import NotFoundPage from "./NotFoundPage";
 
 const GalleryPage = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -90,7 +91,7 @@ const GalleryPage = () => {
           name="description"
           content="Fotoserien nicht gefunden"
         />
-        <div className={`text-lg py-6 text-left`}>{CONFIG.systemMessages.noGalleryFound}</div>
+        <NotFoundPage />
       </>
     );
   }

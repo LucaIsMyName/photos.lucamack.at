@@ -5,9 +5,8 @@ import { pages } from "../../pages";
 import type { Gallery, Page } from "../../types";
 import { useTheme } from "../../contexts/ThemeContext";
 import { Sun, Moon, X, Menu, ChevronUp, ChevronDown } from "lucide-react";
-import Logo from "../ui/Logo";
-import CmdkButton from "../ui/CmdkButton";
-import { CONFIG } from "../../config";
+import Logo from "./Logo";
+import CmdkButton from "./CmdkButton";
 
 interface NavigationProps {
   onOpenCommandPalette?: () => void;
@@ -204,7 +203,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
       )}
 
       {/* Desktop Sidebar */}
-      <aside className={`hidden ${CONFIG.theme.border.right} md:flex pt-4 md:flex-col md:w-[var(--sidebar-width)] flex-shrink-0 h-[calc(100vh)]`}>
+      <aside className={`hidden md:flex pt-4 md:flex-col md:w-[var(--sidebar-width)] flex-shrink-0 h-[calc(100vh)]`}>
         <div className="flex-shrink-0">
           <NavLink
             to="/"

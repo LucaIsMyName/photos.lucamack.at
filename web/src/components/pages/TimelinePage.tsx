@@ -108,13 +108,13 @@ const TimelinePage = () => {
       .sort((a, b) => b.startDate.getTime() - a.startDate.getTime());
   }, []);
 
-  const tabClasses = (isActive: boolean) => `text-4xl md:text-5xl py-2   ${isActive === true ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : (useTheme().theme === "dark" ? "text-white" : "text-black")}`;
-  const lineClasses = cn(`absolute sm:left-2 left-0 top-4.5 h-full w-px ${theme === "dark" ? "bg-white" : "bg-black"}`);
+  const tabClasses = (isActive: boolean) => `text-4xl md:text-5xl py-2   ${isActive === true ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : useTheme().theme === "dark" ? "text-white" : "text-black"}`;
+  const lineClasses = cn(`absolute sm:left-2 left-0 top-4.5 h-full w-0 ${CONFIG.theme.border.left}`);
   const dotClasses = cn(`absolute -left-[32px] sm:-left-[23.4px] top-4.5 transform -translate-x-1/2 flex items-center`);
-  const dotInnerClasses = cn(`${theme === "dark" ? "bg-red-300 border border-white" : "bg-red-600 border border-black"} h-2 w-2 `);
+  const dotInnerClasses = cn(CONFIG.theme.border.default ,`${theme === "dark" ? "bg-red-300" : "bg-red-600"} border-none h-2 w-2`);
 
   return (
-    <div className={`p-4  pl-7 sm:pl-4  md:px-8  md:pt-6  ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
+    <div className={`p-4  pl-7 sm:pl-4  md:px-8  md:pt-6 h-full  ${theme === "light" ? "bg-white text-gray-800" : "bg-black text-gray-200"}`}>
       <title>{`Timeline | ${CONFIG.meta.title}`}</title>
       <meta
         name="description"
@@ -158,7 +158,7 @@ const TimelinePage = () => {
                     <Link
                       to={`/gallery/${image.gallerySlug}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
                       key={image.filename}
-                      className={cn(`${theme === "dark" ? "text-white bg-white/10" : "text-black bg-black/10"} relative group block`)}  >
+                      className={cn(`${theme === "dark" ? "text-white bg-white/10" : "text-black bg-black/10"} relative group block`)}>
                       <img
                         src={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), 160)}
                         alt={image.alt || image.filename}

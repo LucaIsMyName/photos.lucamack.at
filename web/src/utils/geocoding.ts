@@ -7,6 +7,13 @@ const geocodingClient = mbxGeocoding({ accessToken: CONFIG.mapbox.accessToken })
 const geoCache = new Map<string, string>();
 
 /**
+ * Reset the geoCache - used for testing purposes only
+ */
+export const _resetGeoCache = () => {
+  geoCache.clear();
+};
+
+/**
  * Determines the country for a given latitude/longitude coordinate using Mapbox API.
  * @param latitude The latitude coordinate.
  * @param longitude The longitude coordinate.

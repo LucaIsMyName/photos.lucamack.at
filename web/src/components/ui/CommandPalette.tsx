@@ -25,7 +25,7 @@ const appRoutes = [
   { name: "Liste", path: "/app/list", icon: <Layout size={16} /> },
   { name: "Timeline", path: "/app/timeline", icon: <Layout size={16} /> },
   // { name: "Postkarten Designer", path: "/app/postcard", icon: <Layout size={16} /> },
-  // { name: "Statistik", path: "/app/statistics", icon: <Layout size={16} /> },
+  // { name: "Statistiken", path: "/app/statistics", icon: <Layout size={16} /> },
 ];
 
 interface CommandPaletteProps {
@@ -132,7 +132,7 @@ export default function CommandPalette({ open, onClose, setMobileMenuOpen }: Com
                 e.target.select();
               }}
               placeholder="Seiten, Serien oder Fotos suchen ..."
-              className={`w-full !text-[16px] py-4 font-mono outline-none ${theme === "light" ? "text-black bg-white" : "text-white bg-black"}`}
+              className={`w-full py-4 outline-none ${theme === "light" ? "text-black bg-white" : "text-white bg-black"}`}
               value={search}
               onValueChange={setSearch}
             />
@@ -194,7 +194,7 @@ export default function CommandPalette({ open, onClose, setMobileMenuOpen }: Com
               ))}
             </Command.Group>
 
-            {/* Images (limit to first 20 matches for performance) */}
+            {/* Images (limit to first 50 matches for performance) */}
             <Command.Group heading={<CommandHeading title="Fotos" />}>
               {/* Show random images when search is empty, otherwise show filtered images */}
               {(search ? allImages.filter((image) => image.filename.toLowerCase().includes(search.toLowerCase()) || image.galleryTitle.toLowerCase().includes(search.toLowerCase())).slice(0, 50) : randomImages).map((image, index) => (

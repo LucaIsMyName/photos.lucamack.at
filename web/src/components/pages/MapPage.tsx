@@ -55,7 +55,7 @@ const MapPage = () => {
   }, [hiddenGalleries]);
 
   const galleryColors = useMemo(() => {
-    const colors = ["bg-rose-300", "bg-fuchsia-300", "bg-indigo-300", "bg-sky-300", "bg-emerald-300", "bg-amber-300", "bg-red-300", "bg-violet-300", "bg-cyan-300", "bg-lime-300", "bg-pink-300", "bg-blue-300", "bg-green-300", "bg-yellow-300", "bg-purple-300", "bg-teal-300"];
+    const colors = ["bg-rose-300", "bg-rose-200", "bg-fuchsia-300", "bg-fuchsia-200", "bg-indigo-300", "bg-indigo-200", "bg-sky-300", "bg-sky-200", "bg-emerald-300", "bg-emerald-200", "bg-amber-300", "bg-amber-200", "bg-red-300", "bg-red-200", "bg-violet-300", "bg-violet-200", "bg-cyan-300", "bg-cyan-200", "bg-lime-300", "bg-lime-200", "bg-pink-300", "bg-pink-200", "bg-blue-300", "bg-blue-200", "bg-green-300", "bg-green-200", "bg-yellow-300", "bg-yellow-200", "bg-purple-300", "bg-purple-200", "bg-teal-300", "bg-teal-200"];
     const colorMap: Map<string, string> = new Map();
     galleries.forEach((gallery, index) => {
       colorMap.set(gallery.slug, colors[index % colors.length]);
@@ -216,7 +216,7 @@ const MapPage = () => {
       {isLegendOpen && (
         <div
           ref={legendRef}
-          className={cn("border z-[100000] absolute top-12 right-4 p-4 w-[calc(100%-2rem)] md:w-auto md:max-w-lg", theme === "dark" ? "bg-black text-white" : "bg-white text-black")}>
+          className={cn("border z-[100000] absolute top-12 right-4 p-4 w-[calc(100%-2rem)] max-h-[60vh] overflow-y-auto md:w-auto md:max-w-lg", theme === "dark" ? "bg-black text-white" : "bg-white text-black")}>
           <button
             onClick={() => setIsLegendOpen(false)}
             className="absolute top-2 right-2 p-1"
@@ -325,7 +325,11 @@ const MapPage = () => {
                 <section className={`flex items-start justify-between gap-2`}>
                   <div className={cn(`font-geist p-2 pt-4 text-base truncate`)}>
                     <p className="text-sm truncate">{popupInfo.image.filename.replaceAll("_", " ").replace(".jpg", "")}</p>
-                    <Href to={`/gallery/${popupInfo.gallery.slug}`} className="text-[11px] truncate !text-black">{popupInfo.gallery.title}</Href>
+                    <Href
+                      to={`/gallery/${popupInfo.gallery.slug}`}
+                      className="text-[11px] truncate !text-black">
+                      {popupInfo.gallery.title}
+                    </Href>
                   </div>
                 </section>
               </div>{" "}

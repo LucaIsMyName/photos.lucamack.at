@@ -344,7 +344,8 @@ const StatisticsPage = () => {
       </div>
 
       <div className="mt-8">
-        <h2 className="text-lg mb-4">Geografischer Mittelpunkt aller Fotos</h2>
+        <h2 className="text-lg ">Geografischer Mittelpunkt aller Fotos</h2>
+        <p className="text-[11px] font-mono mb-4">{stats.averageCoords.latitude.toFixed(6)}, {stats.averageCoords.longitude.toFixed(6)}</p>
         <div
           className="border"
           style={{ height: "400px" }}>
@@ -360,7 +361,18 @@ const StatisticsPage = () => {
             mapStyle={theme === "dark" ? CONFIG.mapbox.style.dark : CONFIG.mapbox.style.light}
             mapboxAccessToken={CONFIG.mapbox.accessToken}>
             {/* Center marker */}
+            {/* Individual photo markers */}
+            {allImagesWithGps.map((image, index) => (
+              <Marker
+                className="z-10"
+                key={`photo-marker-${index}`}
+                longitude={image.longitude}
+                latitude={image.latitude}>
+                <div className={cn(`w-1 h-1 rounded-full`, theme === "dark" ? "bg-red-300" : "bg-red-600")}></div>
+              </Marker>
+            ))}
             <Marker
+              className="z-20"
               longitude={stats.averageCoords.longitude}
               latitude={stats.averageCoords.latitude}>
               <div className="">
@@ -370,16 +382,6 @@ const StatisticsPage = () => {
                 </div>
               </div>
             </Marker>
-
-            {/* Individual photo markers */}
-            {allImagesWithGps.map((image, index) => (
-              <Marker
-                key={`photo-marker-${index}`}
-                longitude={image.longitude}
-                latitude={image.latitude} className="">
-                <div className={cn(`w-4 h-4 opacity-10 blur-sm rotate-0`, theme === "dark" ? "bg-red-300" : "bg-red-600")}></div>
-              </Marker>
-            ))}
           </MapGL>
         </div>
       </div>
@@ -551,7 +553,6 @@ const StatisticsPage = () => {
           </ResponsiveContainer>
         </div>
       </div>
-      
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
         <div>

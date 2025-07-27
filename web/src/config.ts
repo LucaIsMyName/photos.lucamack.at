@@ -1,5 +1,14 @@
-/** Still to be implemented */
-
+/**
+ * Configuration object for the application.
+ * 
+ * @property {string} author - The author of the application.
+ * @property {string} description - The description of the application.
+ * @property {string} url - The URL of the application.
+ * @property {Object} meta - The meta information of the application.
+ * @property {Object} theme - The theme of the application.
+ * @property {Object} mapbox - The mapbox configuration of the application.
+ * @property {Object} systemMessages - The system messages of the application.
+ */
 export const CONFIG = {
   author: "Luca Mack",
   description: "Luca Mack | Fotos",

@@ -3,7 +3,7 @@ import { useTheme } from "../../contexts/ThemeContext";
 import MapGL, { Marker } from "react-map-gl/mapbox";
 import { CONFIG } from "../../config";
 import { cn } from "../../utils/cn";
-import Image from "../layout/Image";
+import Image from "../ui/Image";
 import { getImageUrl } from "../../utils/image";
 import { useImage } from "../../hooks/useImage";
 import { useEffect } from "react";
@@ -14,6 +14,7 @@ import { galleries } from "../../galleries";
 import { useMemo } from "react";
 import type { RelatedImage } from "../../types";
 import { slugify } from "../../utils/slugify";
+import NotFoundPage from "./NotFoundPage";
 
 const ImagePage = () => {
   const { theme } = useTheme();
@@ -64,8 +65,7 @@ const ImagePage = () => {
   if (!foundImage) {
     return (
       <>
-        <div className={cn(`py-6 text-left`, CONFIG.theme.headline.one)}>Foto nicht gefunden.</div>
-        <Href to={`/gallery/${window.location.pathname.split("/")[2]}`}>Zurück zur Galerie</Href>
+        <NotFoundPage title="Foto nicht gefunden" /> 
       </>
     );
   }

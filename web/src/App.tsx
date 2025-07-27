@@ -1,6 +1,6 @@
 import { Routes, Route, useLocation } from "react-router-dom";
 import { useRef, lazy, Suspense, useEffect, useState } from "react";
-import Navigation from "./components/layout/Navigation";
+import Navigation from "./components/ui/Navigation";
 import { useTheme } from "./contexts/ThemeContext";
 import CommandPalette from "./components/ui/CommandPalette";
 
@@ -32,18 +32,18 @@ function App() {
   // Handle keyboard shortcut to open command palette
   useEffect(() => {
     const down = (e: KeyboardEvent) => {
-      if (e.key === 'k' && (e.metaKey || e.ctrlKey)) {
+      if (e.key === "k" && (e.metaKey || e.ctrlKey)) {
         e.preventDefault();
         // Close mobile menu when opening command palette
         if (isMobileMenuOpen) {
           setIsMobileMenuOpen(false);
         }
-        setCommandPaletteOpen(prevState => !prevState);
+        setCommandPaletteOpen((prevState) => !prevState);
       }
     };
-    
-    document.addEventListener('keydown', down);
-    return () => document.removeEventListener('keydown', down);
+
+    document.addEventListener("keydown", down);
+    return () => document.removeEventListener("keydown", down);
   }, [isMobileMenuOpen]);
 
   // Function to handle opening the command palette
@@ -56,62 +56,62 @@ function App() {
   };
 
   return (
-    <div className={`bg-black font-geist overflow-hidden  h-screen w-screen flex flex-col md:flex-row gap-0  ${theme === "light" ? "bg-white text-black" : "bg-black text-white"}`}>
-      <Navigation 
+    <div className={`bg-black font-geist overflow-hidden  h-screen w-screen flex flex-col md:flex-row gap-0 ${theme === "light" ? "bg-white text-black" : "bg-black text-white"}`}>
+      <Navigation
         onOpenCommandPalette={handleOpenCommandPalette}
         setMobileMenuOpen={setIsMobileMenuOpen}
         mobileMenuOpen={isMobileMenuOpen}
       />
-      <CommandPalette 
-        open={commandPaletteOpen} 
+      <CommandPalette
+        open={commandPaletteOpen}
         onClose={() => setCommandPaletteOpen(false)}
         setMobileMenuOpen={setIsMobileMenuOpen}
       />
       <main
         ref={mainRef}
-        className={`flex-1 overflow-y-auto ${theme === "light" ? "bg-white" : "bg-black"}`}>
+        className={`max-h-screen overflow-x-hidden flex-1 overflow-y-auto ${theme === "light" ? "bg-white" : "bg-black"}`}>
         <Suspense fallback={<div className="p-4 pt-8">Laden ...</div>}>
           <Routes>
-              <Route
-                path="/"
-                element={<HomePage />}
-              />
-              <Route
-                path="/gallery/:slug"
-                element={<GalleryPage />}
-              />
-              <Route
-                path="/gallery/:gallerySlug/image/:slug"
-                element={<ImagePage />}
-              />
-              <Route
-                path="/page/:slug"
-                element={<PageComponent />}
-              />
-              <Route
-                path="/app/map"
-                element={<MapPage />}
-              />
-              <Route
-                path="/app/list"
-                element={<ListPage />}
-              />
-              <Route
-                path="/app/timeline"
-                element={<TimelinePage />}
-              />
-              <Route
-                path="/app/postcard"
-                element={<MakePostcardPage />}
-              />
-              <Route
-                path="/app/statistics"
-                element={<StatisticsPage />}
-              />
-              <Route
-                path="*"
-                element={<NotFoundPage />}
-              />
+            <Route
+              path="/"
+              element={<HomePage />}
+            />
+            <Route
+              path="/gallery/:slug"
+              element={<GalleryPage />}
+            />
+            <Route
+              path="/gallery/:gallerySlug/image/:slug"
+              element={<ImagePage />}
+            />
+            <Route
+              path="/page/:slug"
+              element={<PageComponent />}
+            />
+            <Route
+              path="/app/map"
+              element={<MapPage />}
+            />
+            <Route
+              path="/app/list"
+              element={<ListPage />}
+            />
+            <Route
+              path="/app/timeline"
+              element={<TimelinePage />}
+            />
+            <Route
+              path="/app/postcard"
+              element={<MakePostcardPage />}
+            />
+            <Route
+              path="/app/statistics"
+              element={<StatisticsPage />}
+            />
+            <Route
+              path="*"
+              element={<NotFoundPage />}
+            />
           </Routes>
         </Suspense>
       </main>

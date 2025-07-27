@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { galleries } from "../../galleries";
 import type { Gallery, Image as ImageType } from "../../types";
-import Image from "../layout/Image";
+import Image from "../ui/Image";
 import { cn } from "../../utils/cn";
 import { getImageUrl } from "../../utils/image";
 import { CONFIG } from "../../config";
