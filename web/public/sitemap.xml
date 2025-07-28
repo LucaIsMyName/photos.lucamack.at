@@ -716,11 +716,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/universitat-wien-von-blick-richtung-s-bahn-station-schottentor</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/vhs-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -2521,7 +2516,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/graffitti-tag-gurk-in-rudolfsheim-funfhaus</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/graffitti-tag-gurk-auf-der-schmelzrampe</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

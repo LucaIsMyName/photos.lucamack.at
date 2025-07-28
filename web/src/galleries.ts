@@ -1116,14 +1116,6 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Universität Wien von Blick Richtung S-Bahn Station Schottentor.jpg",
-        "latitude": null,
-        "longitude": null,
-        "createDate": null,
-        "googleMapsUrl": null,
-        "alt": null
-      },
-      {
         "filename": "VHS Simmering.jpg",
         "latitude": 48.174267,
         "longitude": 16.41165,
@@ -1245,7 +1237,7 @@ export const galleries = [
       }
     ],
     "timeframe": "7. Juni 2024 - 27. Juli 2025",
-    "imageCount": 127
+    "imageCount": 126
   },
   {
     "name": "graz",
@@ -4034,11 +4026,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Graffitti-Tag 'Gurk' in Rudolfsheim-Fünfhaus.jpg",
-        "latitude": null,
-        "longitude": null,
-        "createDate": null,
-        "googleMapsUrl": null,
+        "filename": "Graffitti-Tag 'Gurk' auf der Schmelzrampe.jpg",
+        "latitude": 48.194328,
+        "longitude": 16.330344,
+        "createDate": "2025-07-21T12:34:46.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194328,16.330344",
         "alt": null
       },
       {
@@ -4451,10 +4443,10 @@ export const galleries = [
       },
       {
         "filename": "Arkaden neben der Kirche.jpg",
-        "latitude": null,
-        "longitude": null,
-        "createDate": null,
-        "googleMapsUrl": null,
+        "latitude": 48.150856,
+        "longitude": 16.438381,
+        "createDate": "2025-07-06T06:20:59.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150856,16.438381",
         "alt": null
       },
       {
@@ -4618,7 +4610,7 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "21. Mai 2025 - 29. Juni 2025",
+    "timeframe": "21. Mai 2025 - 6. Juli 2025",
     "imageCount": 24
   }
 ];

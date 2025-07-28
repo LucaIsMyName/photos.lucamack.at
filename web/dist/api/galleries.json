@@ -2066,21 +2066,6 @@
         }
       },
       {
-        "latitude": null,
-        "longitude": null,
-        "createDate": null,
-        "googleMapsUrl": null,
-        "alt": null,
-        "name": "Universität Wien von Blick Richtung S-Bahn Station Schottentor.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Universität_Wien_von_Blick_Richtung_S-Bahn_Station_Schottentor.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Universität_Wien_von_Blick_Richtung_S-Bahn_Station_Schottentor-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Universität_Wien_von_Blick_Richtung_S-Bahn_Station_Schottentor-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Universität_Wien_von_Blick_Richtung_S-Bahn_Station_Schottentor-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Universität_Wien_von_Blick_Richtung_S-Bahn_Station_Schottentor-1440w.jpg"
-        }
-      },
-      {
         "latitude": 48.174267,
         "longitude": 16.41165,
         "createDate": "2025-05-10T16:03:19.000Z",
@@ -2307,7 +2292,7 @@
       }
     ],
     "timeframe": "7. Juni 2024 - 27. Juli 2025",
-    "imageCount": 127
+    "imageCount": 126
   },
   {
     "name": "graz",
@@ -7406,18 +7391,18 @@
         }
       },
       {
-        "latitude": null,
-        "longitude": null,
-        "createDate": null,
-        "googleMapsUrl": null,
+        "latitude": 48.194328,
+        "longitude": 16.330344,
+        "createDate": "2025-07-21T12:34:46.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194328,16.330344",
         "alt": null,
-        "name": "Graffitti-Tag 'Gurk' in Rudolfsheim-Fünfhaus.jpg",
+        "name": "Graffitti-Tag 'Gurk' auf der Schmelzrampe.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_in_Rudolfsheim-Fünfhaus-1440w.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_auf_der_Schmelzrampe.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_auf_der_Schmelzrampe-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_auf_der_Schmelzrampe-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_auf_der_Schmelzrampe-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/symbole/Graffitti-Tag_'Gurk'_auf_der_Schmelzrampe-1440w.jpg"
         }
       },
       {
@@ -8151,10 +8136,10 @@
         }
       },
       {
-        "latitude": null,
-        "longitude": null,
-        "createDate": null,
-        "googleMapsUrl": null,
+        "latitude": 48.150856,
+        "longitude": 16.438381,
+        "createDate": "2025-07-06T06:20:59.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150856,16.438381",
         "alt": null,
         "name": "Arkaden neben der Kirche.jpg",
         "urls": {
@@ -8466,7 +8451,7 @@
         }
       }
     ],
-    "timeframe": "21. Mai 2025 - 29. Juni 2025",
+    "timeframe": "21. Mai 2025 - 6. Juli 2025",
     "imageCount": 24
   }
 ]
