@@ -151,7 +151,7 @@ const GalleryPage = () => {
             ))}
           </div>
         ) : (
-          <p className="text-left">{CONFIG.systemMessages.noImagesFound}</p>
+          <p className="text-left">Keine Fotos in der Serie gefunden</p>
         )}
         <div className="md:max-w-[calc(var(--content-width))] w-full gap-4 my-8 py-8 flex flex-col justify-between items-center text-sm">
           {gallery.timeframe || gallery.imageCount ? (

@@ -47,6 +47,7 @@ export const CONFIG = {
       light: "mapbox://styles/luma1992/cmcrp4svj045g01r17lvz89bx",
     },
   },
+  // not used right now
   systemMessages: {
     noImagesFound: "Es scheint, dass keine Bilder gefunden wurden.",
     noGalleriesFound: "Es scheint, dass keine Galerien gefunden wurden.",

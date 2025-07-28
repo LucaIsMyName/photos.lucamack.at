@@ -52,4 +52,7 @@ export interface RelatedImage extends Image {
   gallerySlug: string;
   distance?: number;
   isRandomPick?: boolean;
+  isNearestPick?: boolean;
+  isSameGalleryPick?: boolean;
+  isAdditionalRandomPick?: boolean;
 }

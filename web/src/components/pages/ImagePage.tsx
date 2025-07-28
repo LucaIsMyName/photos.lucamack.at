@@ -76,78 +76,135 @@ const ImagePage = () => {
     if (!foundImage) return [];
 
     const { image: currentImage, gallery: currentGallery } = foundImage;
-
-    // 1. First priority: Get nearest images by longitude/latitude
-    let nearbyImages: RelatedImage[] = [];
+    
+    // Helper function to get distance between two points
+    const getDistance = (lat1: number, lon1: number, lat2: number, lon2: number) => {
+      const R = 6371; // Radius of the earth in km
+      const dLat = (lat2 - lat1) * (Math.PI / 180);
+      const dLon = (lon2 - lon1) * (Math.PI / 180);
+      const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos(lat1 * (Math.PI / 180)) * Math.cos(lat2 * (Math.PI / 180)) * Math.sin(dLon / 2) * Math.sin(dLon / 2);
+      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+      return R * c; // Distance in km
+    };
+    
+    // Track selected images to avoid duplicates
+    const selectedImageFilenames = new Set<string>();
+    selectedImageFilenames.add(currentImage.filename);
+    
+    // Result array to store our 6 images
+    const result: RelatedImage[] = [];
+    
+    // Create a pool of all available images (excluding current)
+    const allImagesPool = galleries
+      .flatMap((g) => g.images.map((img) => ({ ...img, gallerySlug: g.slug })))
+      .filter((img) => img.filename !== currentImage.filename);
+    
+    // 1. Get 2 nearest images by distance (any gallery)
     if (currentImage.latitude && currentImage.longitude) {
-      const getDistance = (lat1: number, lon1: number, lat2: number, lon2: number) => {
-        const R = 6371; // Radius of the earth in km
-        const dLat = (lat2 - lat1) * (Math.PI / 180);
-        const dLon = (lon2 - lon1) * (Math.PI / 180);
-        const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos(lat1 * (Math.PI / 180)) * Math.cos(lat2 * (Math.PI / 180)) * Math.sin(dLon / 2) * Math.sin(dLon / 2);
-        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-        return R * c; // Distance in km
-      };
-
-      nearbyImages = galleries
-        .flatMap((g) => g.images.map((img) => ({ ...img, gallerySlug: g.slug })))
-        .filter((img) => img.filename !== currentImage.filename && img.latitude && img.longitude)
+      const nearbyImages = allImagesPool
+        .filter((img) => !selectedImageFilenames.has(img.filename) && img.latitude && img.longitude)
         .map((img) => ({
           ...img,
           distance: getDistance(currentImage.latitude!, currentImage.longitude!, img.latitude!, img.longitude!),
+          isNearestPick: true,
         }))
-        .sort((a, b) => a.distance - b.distance);
+        .sort((a, b) => a.distance - b.distance)
+        .slice(0, 2);
+      
+      // Add to results and track selected images
+      nearbyImages.forEach(img => {
+        result.push(img);
+        selectedImageFilenames.add(img.filename);
+      });
     }
-
-    // No early return - we always want to include a random image
-    // if (nearbyImages.length >= 6) {
-    //   return nearbyImages.slice(0, 6);
-    // }
-
-    // 2. Fallback: Get other images from the same gallery
-    let fromSameGallery = currentGallery.images.filter((img) => img.filename !== currentImage.filename).map((img) => ({ ...img, gallerySlug: currentGallery.slug }));
-
-    // 3. Get one random image from a DIFFERENT gallery
-    // This ensures more variety
-    const imagesFromOtherGalleries = galleries
-      .filter((g) => g.slug !== currentGallery.slug) // Only images from different galleries
-      .flatMap((g) => g.images.map((img) => ({ ...img, gallerySlug: g.slug })))
-      .filter((img) => img.filename !== currentImage.filename);
-
-    // Fallback to all images if no other galleries are available
-    const randomPool = imagesFromOtherGalleries.length > 0 ? imagesFromOtherGalleries : galleries.flatMap((g) => g.images.map((img) => ({ ...img, gallerySlug: g.slug }))).filter((img) => img.filename !== currentImage.filename);
-
-    // Get a truly random image
-    let randomImage: RelatedImage | null = null;
+    
+    // 2. Get 2 images from the same gallery (any distance)
+    const sameGalleryImages = currentGallery.images
+      .filter(img => !selectedImageFilenames.has(img.filename))
+      .map(img => ({
+        ...img,
+        gallerySlug: currentGallery.slug,
+        isSameGalleryPick: true
+      } as RelatedImage));
+    
+    // If we have more than 2 images from the same gallery, select 2 random ones
+    if (sameGalleryImages.length > 2) {
+      // Shuffle the array
+      for (let i = sameGalleryImages.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [sameGalleryImages[i], sameGalleryImages[j]] = [sameGalleryImages[j], sameGalleryImages[i]];
+      }
+    }
+    
+    // Take up to 2 images from the same gallery
+    const selectedSameGallery = sameGalleryImages.slice(0, 2);
+    selectedSameGallery.forEach(img => {
+      result.push(img);
+      selectedImageFilenames.add(img.filename);
+    });
+    
+    // 3. Get 2 random images from any gallery (excluding already selected)
+    const randomPool = allImagesPool
+      .filter((img) => !selectedImageFilenames.has(img.filename));
+    
+    // If we have random images available
     if (randomPool.length > 0) {
-      // Force a different random image each time by using timestamp as seed
-      const timestamp = new Date().getTime();
-      const randomIndex = Math.floor(((timestamp % randomPool.length) + randomPool.length) % randomPool.length);
-      randomImage = {
-        ...randomPool[randomIndex],
-        // Add a flag to identify this as the random image
-        isRandomPick: true,
-      } as RelatedImage;
-
-      // Log to verify random image is selected
-      console.log("RANDOM IMAGE SELECTED:", randomImage.filename, "from gallery:", randomImage.gallerySlug);
+      // Shuffle the array
+      for (let i = randomPool.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [randomPool[i], randomPool[j]] = [randomPool[j], randomPool[i]];
+      }
+      
+      // Take up to 2 random images
+      const randomImages = randomPool.slice(0, 2).map(img => ({
+        ...img,
+        isRandomPick: true
+      } as RelatedImage));
+      
+      randomImages.forEach(img => {
+        result.push(img);
+        selectedImageFilenames.add(img.filename);
+      });
     }
-
-    // 4. Combine and ensure 6 images (5 from logic + 1 random)
-    const combined = [...nearbyImages, ...fromSameGallery];
-    // Remove any image that matches our random pick to avoid duplicates
-    const filteredCombined = randomImage ? combined.filter((img) => img.filename !== randomImage.filename) : combined;
-
-    const unique = Array.from(new Map(filteredCombined.map((item) => [item.filename, item])).values());
-
-    // Take only 5 from the combined results
-    const result = unique.slice(0, 5);
-
-    // Always add the random image if we have one
-    if (randomImage) {
-      result.push(randomImage);
+    
+    // 4. Fill remaining slots with additional random images if needed
+    // We want exactly 6 images total
+    if (result.length < 6) {
+      const remainingNeeded = 6 - result.length;
+      
+      // Get more random images to fill the remaining slots
+      const additionalRandomPool = allImagesPool
+        .filter((img) => !selectedImageFilenames.has(img.filename));
+      
+      if (additionalRandomPool.length > 0) {
+        // Shuffle the array
+        for (let i = additionalRandomPool.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [additionalRandomPool[i], additionalRandomPool[j]] = [additionalRandomPool[j], additionalRandomPool[i]];
+        }
+        
+        // Take as many as needed to reach 6 total
+        const additionalRandomImages = additionalRandomPool
+          .slice(0, remainingNeeded)
+          .map(img => ({
+            ...img,
+            isRandomPick: true,
+            isAdditionalRandomPick: true // Mark these as additional random picks
+          } as RelatedImage));
+        
+        additionalRandomImages.forEach(img => {
+          result.push(img);
+          selectedImageFilenames.add(img.filename);
+        });
+      }
     }
-
+    
+    // 5. Shuffle the final result array
+    for (let i = result.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [result[i], result[j]] = [result[j], result[i]];
+    }
+    
     return result;
   }, [foundImage]);
 
