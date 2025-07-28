@@ -9,6 +9,7 @@ import { CONFIG } from "../../config";
 import { getImageUrl } from "../../utils/image";
 import CopyButton from "../ui/CopyButton";
 import NotFoundPage from "./NotFoundPage";
+import { parseCreateDate } from "../../utils/date";
 
 const GalleryPage = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -44,27 +45,35 @@ const GalleryPage = () => {
       script.type = "application/ld+json";
       script.id = "gallery-structured-data";
 
+      // Create enhanced structured data for each image in the gallery
       const structuredData = gallery.images
-        .filter((image) => image.latitude && image.longitude && image.googleMapsUrl)
+        .filter((image) => image.latitude && image.longitude)
         .map((image) => ({
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          name: image.filename,
-          description: image.alt || `A photo from the gallery: ${gallery.title}`,
+          name: image.filename.replaceAll("_", " ").replace(".jpg", "").trim(),
+          description: `A photo from the gallery: ${gallery.title}`,
           contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), "original")}`,
+          width: "1920", // Default width - could be dynamic if available
+          height: "1080", // Default height - could be dynamic if available
+          datePublished: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split("T")[0] || new Date().toISOString().split("T")[0] : new Date().toISOString().split("T")[0],
+          dateCreated: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split("T")[0] || new Date().toISOString().split("T")[0] : new Date().toISOString().split("T")[0],
           author: {
             "@type": "Person",
-            name: CONFIG.meta.title,
+            name: CONFIG.author,
+            url: CONFIG.url,
           },
-          location: {
-            "@type": "Place",
-            geo: {
-              "@type": "GeoCoordinates",
-              latitude: image.latitude,
-              longitude: image.longitude,
-            },
-            sameAs: image.googleMapsUrl,
+          copyrightHolder: {
+            "@type": "Person",
+            name: CONFIG.author,
           },
+          license: "https://creativecommons.org/licenses/by-nc/4.0/",
+          geo: {
+            "@type": "GeoCoordinates",
+            latitude: image.latitude,
+            longitude: image.longitude,
+          },
+          ...(image.googleMapsUrl && { sameAs: image.googleMapsUrl }),
         }));
 
       script.innerHTML = JSON.stringify(structuredData);
@@ -160,7 +169,9 @@ const GalleryPage = () => {
             </div>
           ) : null}
           <div className="flex justify-center">
-            <CopyButton textToCopy={window.location.href}><span className="font-mono">Link Kopieren</span></CopyButton>
+            <CopyButton textToCopy={window.location.href}>
+              <span className="font-mono">Link Kopieren</span>
+            </CopyButton>
           </div>
         </div>
       </div>

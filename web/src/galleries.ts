@@ -2950,7 +2950,15 @@ export const galleries = [
     "description": "Die Zeit - zurückgedreht.",
     "images": [
       {
-        "filename": "Kegelbahn Innenaufnahme mit Kegelmaschine.jpg",
+        "filename": "Kegelbahn Aussenaufnahme.jpg",
+        "latitude": 48.59065,
+        "longitude": 15.336872,
+        "createDate": "2025-06-10T18:22:34.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.59065,15.336872",
+        "alt": null
+      },
+      {
+        "filename": "Kegelbahn mit Kegelmaschine.jpg",
         "latitude": 48.590606,
         "longitude": 15.336908,
         "createDate": "2025-06-10T18:28:25.000Z",
@@ -2958,19 +2966,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kegelbahn Innenaufnahme mit Kugeln.jpg",
+        "filename": "Kegelbahn mit Kugeln.jpg",
         "latitude": 48.590603,
         "longitude": 15.336911,
         "createDate": "2025-06-10T18:28:32.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590603,15.336911",
-        "alt": null
-      },
-      {
-        "filename": "Kegelbahnen Aussen.jpg",
-        "latitude": 48.59065,
-        "longitude": 15.336872,
-        "createDate": "2025-06-10T18:22:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.59065,15.336872",
         "alt": null
       },
       {

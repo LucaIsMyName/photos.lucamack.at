@@ -20,6 +20,8 @@ const ImagePage = () => {
   const { theme } = useTheme();
   const foundImage = useImage();
 
+
+
   useEffect(() => {
     if (foundImage) {
       const { image, gallery } = foundImage;
@@ -30,25 +32,32 @@ const ImagePage = () => {
       const structuredData = {
         "@context": "https://schema.org",
         "@type": "ImageObject",
-        name: image.filename,
-        description: image.alt || `A photo from the gallery: ${gallery.title}`,
+        name: image.filename.replaceAll("_", " ").replace(".jpg", "").trim(),
+        description: `A photo from the gallery: ${gallery.title}`,
         contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), "original")}`,
+        width: "1920", // Default width - could be dynamic if available
+        height: "1080", // Default height - could be dynamic if available
+        datePublished: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split('T')[0] || new Date().toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
+        dateCreated: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split('T')[0] || new Date().toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
         author: {
           "@type": "Person",
-          name: CONFIG.meta.title,
+          name: CONFIG.author,
+          url: CONFIG.url
         },
+        copyrightHolder: {
+          "@type": "Person",
+          name: CONFIG.author
+        },
+        license: "https://creativecommons.org/licenses/by-nc/4.0/",
         ...(image.latitude &&
           image.longitude && {
-            location: {
-              "@type": "Place",
-              geo: {
-                "@type": "GeoCoordinates",
-                latitude: image.latitude,
-                longitude: image.longitude,
-              },
-              ...(image.googleMapsUrl && { sameAs: image.googleMapsUrl }),
+            geo: {
+              "@type": "GeoCoordinates",
+              latitude: image.latitude,
+              longitude: image.longitude,
             },
           }),
+        ...(image.googleMapsUrl && { sameAs: image.googleMapsUrl }),
       };
 
       script.innerHTML = JSON.stringify(structuredData);

@@ -5664,18 +5664,34 @@
     "gallery": "ostsee"
   },
   {
+    "latitude": 48.59065,
+    "longitude": 15.336872,
+    "createDate": "2025-06-10T18:22:34.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.59065,15.336872",
+    "alt": null,
+    "name": "Kegelbahn Aussenaufnahme.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Aussenaufnahme.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Aussenaufnahme-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Aussenaufnahme-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Aussenaufnahme-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Aussenaufnahme-1440w.jpg"
+    },
+    "gallery": "ottenstein"
+  },
+  {
     "latitude": 48.590606,
     "longitude": 15.336908,
     "createDate": "2025-06-10T18:28:25.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590606,15.336908",
     "alt": null,
-    "name": "Kegelbahn Innenaufnahme mit Kegelmaschine.jpg",
+    "name": "Kegelbahn mit Kegelmaschine.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Innenaufnahme_mit_Kegelmaschine.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Innenaufnahme_mit_Kegelmaschine-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Innenaufnahme_mit_Kegelmaschine-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Innenaufnahme_mit_Kegelmaschine-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Innenaufnahme_mit_Kegelmaschine-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_mit_Kegelmaschine.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_mit_Kegelmaschine-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_mit_Kegelmaschine-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_mit_Kegelmaschine-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_mit_Kegelmaschine-1440w.jpg"
     },
     "gallery": "ottenstein"
   },
@@ -5685,29 +5701,13 @@
     "createDate": "2025-06-10T18:28:32.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590603,15.336911",
     "alt": null,
-    "name": "Kegelbahn Innenaufnahme mit Kugeln.jpg",
+    "name": "Kegelbahn mit Kugeln.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Innenaufnahme_mit_Kugeln.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Innenaufnahme_mit_Kugeln-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Innenaufnahme_mit_Kugeln-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Innenaufnahme_mit_Kugeln-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_Innenaufnahme_mit_Kugeln-1440w.jpg"
-    },
-    "gallery": "ottenstein"
-  },
-  {
-    "latitude": 48.59065,
-    "longitude": 15.336872,
-    "createDate": "2025-06-10T18:22:34.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.59065,15.336872",
-    "alt": null,
-    "name": "Kegelbahnen Aussen.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahnen_Aussen.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahnen_Aussen-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahnen_Aussen-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahnen_Aussen-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahnen_Aussen-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_mit_Kugeln.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_mit_Kugeln-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_mit_Kugeln-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_mit_Kugeln-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/ottenstein/Kegelbahn_mit_Kugeln-1440w.jpg"
     },
     "gallery": "ottenstein"
   },
