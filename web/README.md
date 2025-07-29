@@ -95,8 +95,9 @@ All content is managed locally using a simple file and folder structure. After a
 
 ### How to Add a New Page
 
-1.  **Create a Folder**: Add a new folder inside `web/content/pages/`. The folder name becomes the page's URL slug (e.g., `about-me`).
+1.  **Create a Folder**: Add a new folder inside `web/content/pages/`. The folder name becomes the page's URL slug (e.g., `about-me`). Names only Work as slugs, so DONT use accents, spaces or any special characters. "Über mich" -> 'ueber-mich' -> Folders dont get sluggified during build process so needs to be done by dev mannually
 2.  **Create Markdown File**: Inside the new folder, create a file named `index.md`.
+    1.  The file accepts only 1 H1 and a Paragraphs
 3.  **Add Content**: Write your page content in Markdown. The page title is automatically extracted from the first H1 heading (e.g., `# About Me`).
 4.  **Generate Page Data**: Run the page generation script:
 
@@ -107,6 +108,8 @@ All content is managed locally using a simple file and folder structure. After a
     This command updates `src/pages.ts`.
 
 ---
+
+*Note*: Allowed Filetypes are: `.jpg`, `.jpeg`, `.png`, `.heic`,  
 
 ## API Documentation
 
@@ -147,12 +150,15 @@ interface Image {
   gallery: string;         // Slug of the parent gallery
   urls: {
     original: string;    // URL to the full-resolution image
+    w160: string;        // URL to the 160px wide version
+    w380: string;        // URL to the 380px wide version
     w640: string;        // URL to the 640px wide version
     w1440: string;       // URL to the 1440px wide version
   }
 }
 ```
 
+This acts as a static api any dev could fetch to use the images on another website.
 ---
 
 ## Scripts

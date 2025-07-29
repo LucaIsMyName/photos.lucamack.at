@@ -4546,7 +4546,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kirche Frontal Zentralfriedhof Wien.jpg",
+        "filename": "Karl-Lueger-Gedächtniskirche am Zentralfriedhof Wien.jpg",
         "latitude": 48.151425,
         "longitude": 16.438867,
         "createDate": "2025-06-29T11:08:09.000Z",
@@ -4554,19 +4554,19 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Kirche Seitelich Zentralfriedhof Wien.jpg",
-        "latitude": 48.156892,
-        "longitude": 16.438922,
-        "createDate": "2025-06-29T11:17:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156892,16.438922",
-        "alt": null
-      },
-      {
-        "filename": "Kirche und Trauerweiden.jpg",
+        "filename": "Kirche, Gräber und Trauerweiden im Sonnenschein.jpg",
         "latitude": 48.150586,
         "longitude": 16.436633,
         "createDate": "2025-06-01T06:16:12.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150586,16.436633",
+        "alt": null
+      },
+      {
+        "filename": "Kirchenbänke und Jugendstil-Fassade.jpg",
+        "latitude": 48.156892,
+        "longitude": 16.438922,
+        "createDate": "2025-06-29T11:17:14.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156892,16.438922",
         "alt": null
       },
       {

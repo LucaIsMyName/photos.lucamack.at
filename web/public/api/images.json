@@ -8661,29 +8661,13 @@
     "createDate": "2025-06-29T11:08:09.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151425,16.438867",
     "alt": null,
-    "name": "Kirche Frontal Zentralfriedhof Wien.jpg",
+    "name": "Karl-Lueger-Gedächtniskirche am Zentralfriedhof Wien.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_Frontal_Zentralfriedhof_Wien.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_Frontal_Zentralfriedhof_Wien-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_Frontal_Zentralfriedhof_Wien-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_Frontal_Zentralfriedhof_Wien-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_Frontal_Zentralfriedhof_Wien-1440w.jpg"
-    },
-    "gallery": "zentralfriedhof"
-  },
-  {
-    "latitude": 48.156892,
-    "longitude": 16.438922,
-    "createDate": "2025-06-29T11:17:14.000Z",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156892,16.438922",
-    "alt": null,
-    "name": "Kirche Seitelich Zentralfriedhof Wien.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_Seitelich_Zentralfriedhof_Wien.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_Seitelich_Zentralfriedhof_Wien-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_Seitelich_Zentralfriedhof_Wien-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_Seitelich_Zentralfriedhof_Wien-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_Seitelich_Zentralfriedhof_Wien-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Karl-Lueger-Gedächtniskirche_am_Zentralfriedhof_Wien.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Karl-Lueger-Gedächtniskirche_am_Zentralfriedhof_Wien-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Karl-Lueger-Gedächtniskirche_am_Zentralfriedhof_Wien-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Karl-Lueger-Gedächtniskirche_am_Zentralfriedhof_Wien-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Karl-Lueger-Gedächtniskirche_am_Zentralfriedhof_Wien-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -8693,13 +8677,29 @@
     "createDate": "2025-06-01T06:16:12.000Z",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150586,16.436633",
     "alt": null,
-    "name": "Kirche und Trauerweiden.jpg",
+    "name": "Kirche, Gräber und Trauerweiden im Sonnenschein.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_und_Trauerweiden.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_und_Trauerweiden-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_und_Trauerweiden-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_und_Trauerweiden-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche_und_Trauerweiden-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche,_Gräber_und_Trauerweiden_im_Sonnenschein.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche,_Gräber_und_Trauerweiden_im_Sonnenschein-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche,_Gräber_und_Trauerweiden_im_Sonnenschein-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche,_Gräber_und_Trauerweiden_im_Sonnenschein-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirche,_Gräber_und_Trauerweiden_im_Sonnenschein-1440w.jpg"
+    },
+    "gallery": "zentralfriedhof"
+  },
+  {
+    "latitude": 48.156892,
+    "longitude": 16.438922,
+    "createDate": "2025-06-29T11:17:14.000Z",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156892,16.438922",
+    "alt": null,
+    "name": "Kirchenbänke und Jugendstil-Fassade.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirchenbänke_und_Jugendstil-Fassade.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirchenbänke_und_Jugendstil-Fassade-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirchenbänke_und_Jugendstil-Fassade-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirchenbänke_und_Jugendstil-Fassade-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Kirchenbänke_und_Jugendstil-Fassade-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
