@@ -32,7 +32,7 @@ const PageComponent = () => {
           className="flex flex-col items-start"
           data-wysiwyg>
           <div
-            className={`w-full md:max-w-[calc(var(--content-width)/1.5)] text-sm md:text-lg leading-8 my-4 leading-tight prose ${theme === "dark" ? "prose-invert" : ""}`}
+            className={`w-full md:max-w-[calc(var(--content-width)/2)] text-sm md:text-lg leading-8 my-4 leading-tight prose ${theme === "dark" ? "prose-invert" : ""}`}
             dangerouslySetInnerHTML={{ __html: marked(page.content) }}></div>
         </div>
       </div>

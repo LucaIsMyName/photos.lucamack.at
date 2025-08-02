@@ -1,4 +1,4 @@
-import { useMemo, useState, useEffect } from "react";
+import { useMemo, useState, useEffect, useRef, useCallback } from "react";
 import { useSearchParams } from "react-router-dom";
 import { useTheme } from "../../contexts/ThemeContext";
 import HorizontalScroller from "../ui/HorizontalScroller";
@@ -27,6 +27,11 @@ const ListPage = () => {
   const [sortOrder, setSortOrder] = useState<"asc" | "desc">((searchParams.get("sortOrder") as "asc" | "desc") || "desc");
   const [startDate, setStartDate] = useState(searchParams.get("startDate") || "");
   const [endDate, setEndDate] = useState(searchParams.get("endDate") || "");
+  
+  // Incremental loading state
+  const [visibleImageCount, setVisibleImageCount] = useState(50);
+  const loadMoreRef = useRef<HTMLDivElement>(null);
+  const isLoadingMore = useRef(false);
 
   const debouncedSearchTerm = useDebounce(searchTerm, 300);
   const debouncedStartDate = useDebounce(startDate, 300);
@@ -46,6 +51,9 @@ const ListPage = () => {
     if (debouncedEndDate) newSearchParams.set("endDate", debouncedEndDate);
 
     setSearchParams(newSearchParams, { replace: true });
+    
+    // Reset visible count when search params change
+    setVisibleImageCount(50);
   }, [activeTab, debouncedSearchTerm, sortKey, gallerySortKey, sortOrder, debouncedStartDate, debouncedEndDate, setSearchParams]);
 
   const handleClearFilters = () => {
@@ -55,6 +63,7 @@ const ListPage = () => {
     setSortOrder("desc");
     setStartDate("");
     setEndDate("");
+    setVisibleImageCount(50); // Reset visible count when filters are cleared
   };
 
   const allImages = useMemo(() => {
@@ -110,6 +119,47 @@ const ListPage = () => {
       return 0;
     });
   }, [allImages, searchTerm, sortKey, sortOrder, startDate, endDate]);
+  
+  // Get only the visible subset of images
+  const visibleImages = useMemo(() => {
+    return filteredAndSortedImages.slice(0, visibleImageCount);
+  }, [filteredAndSortedImages, visibleImageCount]);
+  
+  // Intersection observer for infinite scrolling
+  const handleObserver = useCallback((entries: IntersectionObserverEntry[]) => {
+    const [entry] = entries;
+    if (entry.isIntersecting && !isLoadingMore.current) {
+      isLoadingMore.current = true;
+      
+      // Add a small delay to prevent rapid loading
+      setTimeout(() => {
+        setVisibleImageCount(prev => {
+          const newCount = prev + 50;
+          return Math.min(newCount, filteredAndSortedImages.length);
+        });
+        isLoadingMore.current = false;
+      }, 300);
+    }
+  }, [filteredAndSortedImages.length]);
+  
+  // Set up the intersection observer
+  useEffect(() => {
+    const observer = new IntersectionObserver(handleObserver, {
+      root: null,
+      rootMargin: '0px',
+      threshold: 0.1,
+    });
+    
+    if (loadMoreRef.current) {
+      observer.observe(loadMoreRef.current);
+    }
+    
+    return () => {
+      if (loadMoreRef.current) {
+        observer.unobserve(loadMoreRef.current);
+      }
+    };
+  }, [handleObserver]);
 
   const filteredAndSortedGalleries = useMemo(() => {
     let filtered: (Gallery & { createDate?: any })[] = galleries.map((g) => ({
@@ -232,9 +282,12 @@ const ListPage = () => {
           </HorizontalScroller>
           <div className="py-4 text-xs">
             {filteredAndSortedImages.length} {filteredAndSortedImages.length === 1 ? "Foto" : "Fotos"} gefunden
+            {visibleImageCount < filteredAndSortedImages.length && (
+              <span className="ml-2 text-gray-500">(Zeige {visibleImageCount} von {filteredAndSortedImages.length})</span>
+            )}
           </div>
           <div className="flex flex-col lg:flex-row lg:flex-wrap">
-            {filteredAndSortedImages.map((image) => (
+            {visibleImages.map((image) => (
               <div
                 className="w-full lg:w-1/2"
                 key={`${image.gallerySlug}-${image.filename}`}>
@@ -304,6 +357,15 @@ const ListPage = () => {
                 </div>
               </div>
             ))}
+            {/* Load more trigger element */}
+            {visibleImageCount < filteredAndSortedImages.length && (
+              <div 
+                ref={loadMoreRef} 
+                className="w-full py-4 text-center text-sm text-gray-500"
+              >
+                Weitere Fotos werden geladen...
+              </div>
+            )}
           </div>
         </div>
       )}

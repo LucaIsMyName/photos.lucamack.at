@@ -65,7 +65,7 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, size
     return (
       <div
         ref={ref}
-        className="w-full aspect-[4/3] flex items-center justify-center bg-gray-200 text-red-500 font-medium">
+        className={cn("w-full aspect-[4/3] flex items-center justify-center bg-neutral-500/20", theme === "dark" ? "text-white" : "text-black")}>
         {error}
       </div>
     );
@@ -101,7 +101,7 @@ const Image = ({ id = "", src, loading, alt, className, style, onImageLoad, size
         width={width}
         height={height}
         loading={loading !== undefined ? loading : "lazy"}
-        className={`${className} transition-opacity duration-300 ease-in ${isLoaded ? "opacity-100" : "opacity-0"}`}
+        className={cn(`transition-opacity duration-300 ease-in ${isLoaded ? "opacity-100" : "opacity-0"}`, className)}
         style={style}
         onLoad={handleLoad}
       />

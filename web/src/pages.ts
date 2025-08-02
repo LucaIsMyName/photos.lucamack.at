@@ -6,7 +6,7 @@ export const pages: Page[] = [
   {
     "title": "Anmerkungen",
     "slug": "anmerkungen",
-    "content": "# Anmerkungen\n\nNicht jeder Weg ist gerade,<br> \nnicht jeder Würstelstand kann gute Bosna &<br> \nnicht jedes Foto ist immer schön.\n\nManchmal macht man's trotzdem."
+    "content": "# Anmerkungen\n\nNicht jeder Weg ist gerade,<br> \nnicht jeder Würstelstand kann gute Bosna &<br> \nnicht jedes Foto ist immer schön.\n\nMomente festgehalten von [Luca Mack](https://lucamack.at)"
   },
   {
     "title": "Datenschutz",

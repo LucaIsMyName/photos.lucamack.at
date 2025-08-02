@@ -65,7 +65,7 @@ describe('getImageUrl', () => {
 
   it('should handle filenames with spaces', () => {
     expect(getImageUrl('gallery-1', 'my image.jpg', 640))
-      .toBe('/content/galleries/gallery-1/my image-640w.jpg');
+      .toBe('/content/galleries/gallery-1/my_image-640w.jpg');
   });
 
   it('should be case insensitive for extensions', () => {

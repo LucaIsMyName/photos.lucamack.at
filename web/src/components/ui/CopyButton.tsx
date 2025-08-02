@@ -25,6 +25,8 @@ const CopyButton = ({ textToCopy, className, children, ariaLabel, iconToRight = 
     }
   };
 
+  const iconBaseClasses = cn("min-w-[16px] w-[16px] h-[16px] min-h-[16px]", theme === "dark" ? "text-red-300" : "text-red-600");
+
   return (
     <button
       onClick={handleCopy}
@@ -34,11 +36,11 @@ const CopyButton = ({ textToCopy, className, children, ariaLabel, iconToRight = 
         <Check
           size={16}
           strokeWidth={2}
-          className={cn("min-w-[16px] w-[16px] h-[16px] min-h-[16px]", theme === "dark" ? "text-red-300" : "text-red-600")}
+          className={iconBaseClasses}
         />
       ) : (
         <Copy
-          className={cn("min-w-[16px] w-[16px] h-[16px] min-h-[16px]", theme === "dark" ? "text-red-300" : "text-red-600")}
+          className={iconBaseClasses}
           size={16}
         />
       )}

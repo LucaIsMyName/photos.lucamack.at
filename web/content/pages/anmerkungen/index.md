@@ -4,4 +4,4 @@ Nicht jeder Weg ist gerade,<br>
 nicht jeder Würstelstand kann gute Bosna &<br> 
 nicht jedes Foto ist immer schön.
 
-Manchmal macht man's trotzdem.
+Momente festgehalten von [Luca Mack](https://lucamack.at)

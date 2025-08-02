@@ -2554,7 +2554,7 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "'Der Weg nach Europa' Kunstwerk in der U-Bahn Station Westbahnhof.jpg",
+        "filename": "'Der Weg nach Europa' Metallfries in der U-Bahn Station Westbahnhof.jpg",
         "latitude": 48.196022,
         "longitude": 16.340636,
         "createDate": "2025-07-30T18:30:02.000Z",

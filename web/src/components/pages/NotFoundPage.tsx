@@ -4,7 +4,7 @@ import { useTheme } from "../../contexts/ThemeContext";
 import Href from "../ui/Href";
 import { useLocation } from "react-router-dom";
 import { galleries } from "../../galleries";
-import { useEffect, useMemo } from "react";
+import { useMemo } from "react";
 
 const NotFoundPage = ({ title, text }: { title?: string; text?: string }) => {
   const { theme } = useTheme();

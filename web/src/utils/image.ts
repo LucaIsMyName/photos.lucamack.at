@@ -15,8 +15,9 @@ export type ImageSize = "original" | 160 | 380 | 640 | 1440;
  * @returns The URL of the image
  */
 export const getImageUrl = (gallerySlug: string, filename: string, size: ImageSize = "original"): string => {
+  filename = filename.replaceAll(" ", "_");
   if (size === "original") {
-    return  `/content/galleries/${gallerySlug}/${filename}`;
+    return `/content/galleries/${gallerySlug}/${filename}`;
   }
 
   const sizedFilename = filename.replace(/\.(heic|jpg|jpeg|png|webp)$/i, `-${size}w.jpg`).trim();
