@@ -27,7 +27,11 @@
     "generate:sitemap": "node generate-sitemap.mjs",
     "test": "vitest run",
     "test:watch": "vitest",
-    "test:coverage": "vitest run --coverage"
+    "test:coverage": "vitest run --coverage",
+    "scan": "react-scan",
+    "scan:components": "react-scan --analysis components",
+    "scan:hooks": "react-scan --analysis hooks",
+    "scan:performance": "react-scan --analysis performance"
   },
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.16.1",
@@ -83,6 +87,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jsdom": "^26.1.0",
     "postcss": "^8.5.6",
+    "react-scan": "^0.4.3",
     "rimraf": "^6.0.1",
     "rollup-plugin-visualizer": "^6.0.3",
     "sharp": "^0.33.5",

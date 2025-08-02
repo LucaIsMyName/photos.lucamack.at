@@ -22,7 +22,7 @@ const CmdkButton = ({ iconToRight = false, hasKeyboardShortcut = true, iconSize 
       <Search size={iconSize} />
       {hasKeyboardShortcut && (
         <kbd className={`ml-auto inline-flex select-none items-center gap-1 font-mono text-xs font-medium opacity-30 ${theme === "light" ? "" : ""}`}>
-          <span className="text-[1.5em]">⌘</span>+ K
+          <span className="text-[1.3em]">⌘</span>+ K
         </kbd>
       )}
     </button>

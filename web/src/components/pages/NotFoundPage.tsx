@@ -4,7 +4,7 @@ import { useTheme } from "../../contexts/ThemeContext";
 import Href from "../ui/Href";
 import { useLocation } from "react-router-dom";
 import { galleries } from "../../galleries";
-import { useMemo } from "react";
+import { useEffect, useMemo } from "react";
 
 const NotFoundPage = ({ title, text }: { title?: string; text?: string }) => {
   const { theme } = useTheme();
@@ -48,7 +48,7 @@ const NotFoundPage = ({ title, text }: { title?: string; text?: string }) => {
 
         {galleryInfo.isValidGallery ? (
           <>
-            <p className="text-base mt-2 mb-4">{text || `Das Bild wurde nicht gefunden, aber die Galerie '${galleryInfo.galleryTitle}' existiert.`}</p>
+            <p className="text-base mt-2 mb-4">{text || `Das Foto wurde nicht gefunden, aber die Serie '${galleryInfo.galleryTitle}' existiert.`}</p>
             <Href
               to={`/gallery/${galleryInfo.gallerySlug}`}
               className={cn("mt-2", theme === "dark" ? "text-white" : "text-black")}>

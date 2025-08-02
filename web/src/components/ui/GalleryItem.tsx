@@ -52,11 +52,12 @@ const GalleryItem = ({ alt, gallerySlug, imageFilename }: GalleryItemProps) => {
       className={getFlexClasses()}>
       <div className="p-0 pr-0 lg:pr-4 sm:pb-4 md:pr-4 md:py-6">
         <Link
+          title={`Link zum Foto: ${alt}`}
           to={imagePageLink}
           className="block">
           <Image
             src={getImageUrl(gallerySlug, imageFilename)}
-            alt={alt || ""}
+            alt={alt}
             width={640}
             height={orientation === "landscape" ? 427 : orientation === "portrait" ? 960 : 640}
             onImageLoad={handleImageLoad}

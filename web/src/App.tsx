@@ -3,6 +3,9 @@ import { useRef, lazy, Suspense, useEffect, useState } from "react";
 import Navigation from "./components/ui/Navigation";
 import { useTheme } from "./contexts/ThemeContext";
 import CommandPalette from "./components/ui/CommandPalette";
+import { scan } from "react-scan";
+
+scan()
 
 // Lazy load page components for code splitting
 const HomePage = lazy(() => import("./components/pages/HomePage"));
