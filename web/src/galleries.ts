@@ -225,8 +225,16 @@ export const galleries = [
     "name": "beton-und-struktur",
     "slug": "beton-und-struktur",
     "title": "Beton & Struktur",
-    "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner, Licht & Schatten.",
+    "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner & Lueger, Licht & Schatten.",
     "images": [
+      {
+        "filename": "'Damen - Hair Laser - Herren' Schriftzug in der Grillgasse.jpg",
+        "latitude": 48.174511,
+        "longitude": 16.409864,
+        "createDate": "2025-08-02T11:23:30.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174511,16.409864",
+        "alt": null
+      },
       {
         "filename": "'Einfahrt freihalten' Schild auf einem Zaun vor einem Baugrund.jpg",
         "latitude": 48.173267,
@@ -305,22 +313,6 @@ export const galleries = [
         "longitude": 16.412656,
         "createDate": "2025-04-23T18:59:52.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.187514,16.412656",
-        "alt": null
-      },
-      {
-        "filename": "Arsenalsteg mit Blick auf Hauptbahnhof.jpg",
-        "latitude": 48.180686,
-        "longitude": 16.387744,
-        "createDate": "2025-04-20T09:29:58.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.180686,16.387744",
-        "alt": null
-      },
-      {
-        "filename": "Arsenalsteg und Radioturm.jpg",
-        "latitude": 48.179886,
-        "longitude": 16.386161,
-        "createDate": "2025-04-20T09:28:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.179886,16.386161",
         "alt": null
       },
       {
@@ -588,6 +580,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Fassade der Volkshochschule Simmering Close-Up.jpg",
+        "latitude": 48.173972,
+        "longitude": 16.411875,
+        "createDate": "2025-08-02T11:25:13.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173972,16.411875",
+        "alt": null
+      },
+      {
         "filename": "Fassade der Votivkirche und Park davor.jpg",
         "latitude": 48.215033,
         "longitude": 16.358572,
@@ -705,14 +705,6 @@ export const galleries = [
         "longitude": 16.360278,
         "createDate": "2025-07-14T18:17:11.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2066,16.360278",
-        "alt": null
-      },
-      {
-        "filename": "Gleise und Radioturm in Wien in der nähe des Hauptbahnhofes.jpg",
-        "latitude": 48.182247,
-        "longitude": 16.384303,
-        "createDate": "2025-04-20T09:24:05.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182247,16.384303",
         "alt": null
       },
       {
@@ -881,6 +873,22 @@ export const galleries = [
         "longitude": 16.417067,
         "createDate": "2025-05-02T15:46:13.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168781,16.417067",
+        "alt": null
+      },
+      {
+        "filename": "Max Wopenka Hof Wandgemälde.jpg",
+        "latitude": 48.174794,
+        "longitude": 16.403611,
+        "createDate": "2025-08-02T11:17:57.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174794,16.403611",
+        "alt": null
+      },
+      {
+        "filename": "Max Wopenka Hof in der Geiselbergstrasse.jpg",
+        "latitude": 48.174664,
+        "longitude": 16.403953,
+        "createDate": "2025-08-02T11:18:23.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174664,16.403953",
         "alt": null
       },
       {
@@ -1274,10 +1282,166 @@ export const galleries = [
         "createDate": "2025-07-14T15:55:18.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206467,16.383042",
         "alt": null
+      },
+      {
+        "filename": "Zugekleblte Auslage mit Spiegeleungen in der Geiselbergstrasse.jpg",
+        "latitude": 48.174808,
+        "longitude": 16.405831,
+        "createDate": "2025-08-02T11:19:56.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174808,16.405831",
+        "alt": null
       }
     ],
     "timeframe": "7. Juni 2024 - 2. August 2025",
-    "imageCount": 131
+    "imageCount": 133
+  },
+  {
+    "name": "einkaufswagerl",
+    "slug": "einkaufswagerl",
+    "title": "Einkaufswagerl",
+    "description": "Umgefallene, alleingelassene oder andere Einkaufswagerl in Wien",
+    "images": [
+      {
+        "filename": "2 umgefallene Einkaufswagerl in der Lorystrasse - Braunhubergasse.jpg",
+        "latitude": 48.171383,
+        "longitude": 16.414478,
+        "createDate": "2025-06-30T14:57:37.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.171383,16.414478",
+        "alt": null
+      },
+      {
+        "filename": "Umgefallenes Einkaufswagerl in Simmering.jpg",
+        "latitude": 48.164283,
+        "longitude": 16.418681,
+        "createDate": "2025-08-02T05:11:00.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.164283,16.418681",
+        "alt": null
+      },
+      {
+        "filename": "Umgefallenes Einkaufswagerl in der Geiselbergstrasse.jpg",
+        "latitude": 48.174739,
+        "longitude": 16.406886,
+        "createDate": "2024-07-28T15:47:54.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174739,16.406886",
+        "alt": null
+      }
+    ],
+    "timeframe": "28. Juli 2024 - 2. August 2025",
+    "imageCount": 3
+  },
+  {
+    "name": "favoriten",
+    "slug": "favoriten",
+    "title": "Favoriten",
+    "description": "1100 Wien",
+    "images": [
+      {
+        "filename": "'Alles da' Allzweck-Geschäft, Bauzäune und ein Wohnhaus.jpg",
+        "latitude": 48.182542,
+        "longitude": 16.374708,
+        "createDate": "2025-08-02T10:28:14.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182542,16.374708",
+        "alt": null
+      },
+      {
+        "filename": "Amalienbad Frontale Reumannplatz.jpg",
+        "latitude": 48.174417,
+        "longitude": 16.378242,
+        "createDate": "2025-08-02T11:00:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174417,16.378242",
+        "alt": null
+      },
+      {
+        "filename": "Amalienbad und Grünfläche am Reumannplatz.jpg",
+        "latitude": 48.173636,
+        "longitude": 16.37805,
+        "createDate": "2025-08-02T10:57:27.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173636,16.37805",
+        "alt": null
+      },
+      {
+        "filename": "Arsenalsteg mit Blick auf Hauptbahnhof.jpg",
+        "latitude": 48.180686,
+        "longitude": 16.387744,
+        "createDate": "2025-04-20T09:29:58.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.180686,16.387744",
+        "alt": null
+      },
+      {
+        "filename": "Arsenalsteg und Radioturm.jpg",
+        "latitude": 48.179886,
+        "longitude": 16.386161,
+        "createDate": "2025-04-20T09:28:03.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.179886,16.386161",
+        "alt": null
+      },
+      {
+        "filename": "Geschäftsauslage und Johannes-Kepler-Statue in der Favoritenstrasse.jpg",
+        "latitude": 48.179225,
+        "longitude": 16.376092,
+        "createDate": "2025-08-02T10:39:54.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.179225,16.376092",
+        "alt": null
+      },
+      {
+        "filename": "Gleise und Radioturm in Wien in der nähe des Hauptbahnhofes.jpg",
+        "latitude": 48.182247,
+        "longitude": 16.384303,
+        "createDate": "2025-04-20T09:24:05.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182247,16.384303",
+        "alt": null
+      },
+      {
+        "filename": "Mahnmal den Opfern des Faschismus.jpg",
+        "latitude": 48.173653,
+        "longitude": 16.377711,
+        "createDate": "2025-08-02T10:57:02.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173653,16.377711",
+        "alt": null
+      },
+      {
+        "filename": "Marktgebiet Anfang & Ende Schilder Viktor-Adler-Markt.jpg",
+        "latitude": 48.176811,
+        "longitude": 16.377103,
+        "createDate": "2025-08-02T10:48:33.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176811,16.377103",
+        "alt": null
+      },
+      {
+        "filename": "Regenbogen Belüftung Reumannpatz.jpg",
+        "latitude": 48.173406,
+        "longitude": 16.378533,
+        "createDate": "2025-08-02T10:58:29.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173406,16.378533",
+        "alt": null
+      },
+      {
+        "filename": "Rudy's Imbiss am Viktor-Adler-Markt.jpg",
+        "latitude": 48.176931,
+        "longitude": 16.377056,
+        "createDate": "2025-08-02T10:51:26.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176931,16.377056",
+        "alt": null
+      },
+      {
+        "filename": "Tichy am Reumannplatz.jpg",
+        "latitude": 48.173997,
+        "longitude": 16.377714,
+        "createDate": "2025-08-02T10:56:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173997,16.377714",
+        "alt": null
+      },
+      {
+        "filename": "U-Bahn Abgang Station Keplerplatz.jpg",
+        "latitude": 48.178025,
+        "longitude": 16.376411,
+        "createDate": "2025-08-02T10:42:06.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.178025,16.376411",
+        "alt": null
+      }
+    ],
+    "timeframe": "20. April 2025 - 2. August 2025",
+    "imageCount": 13
   },
   {
     "name": "graz",
@@ -2570,6 +2734,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "'ÖBB' Logo vor dem Hauptbahnhof und dem Icon Vienna.jpg",
+        "latitude": 48.184097,
+        "longitude": 16.376269,
+        "createDate": "2025-08-02T10:23:51.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.184097,16.376269",
+        "alt": null
+      },
+      {
         "filename": "3 Telefone in der BIM Station Schottentor.jpg",
         "latitude": 48.214,
         "longitude": 16.362003,
@@ -2666,6 +2838,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Durchgang Hauptbahnhof-Favoritenstrasse.jpg",
+        "latitude": 48.185756,
+        "longitude": 16.375083,
+        "createDate": "2025-08-02T10:21:01.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185756,16.375083",
+        "alt": null
+      },
+      {
         "filename": "Gersthof S-Bahn Station im Jugendstil von Otto Wagner 2.jpg",
         "latitude": 48.230983,
         "longitude": 16.329208,
@@ -2735,6 +2915,14 @@ export const galleries = [
         "longitude": 16.420058,
         "createDate": "2025-05-02T15:41:46.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169933,16.420058",
+        "alt": null
+      },
+      {
+        "filename": "Löwen-Statue in der Halle des Hauptbahnhof.jpg",
+        "latitude": 48.185822,
+        "longitude": 16.375806,
+        "createDate": "2025-08-02T10:15:47.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185822,16.375806",
         "alt": null
       },
       {
@@ -2954,8 +3142,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "11. April 2024 - 1. August 2025",
-    "imageCount": 51
+    "timeframe": "11. April 2024 - 2. August 2025",
+    "imageCount": 54
   },
   {
     "name": "ostsee",
@@ -3982,26 +4170,10 @@ export const galleries = [
         "createDate": "2024-06-28T14:37:32.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185386,16.326622",
         "alt": null
-      },
-      {
-        "filename": "Umgefallenes Einkaufswagerl in Simmering.jpg",
-        "latitude": 48.164283,
-        "longitude": 16.418681,
-        "createDate": "2025-08-02T05:11:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.164283,16.418681",
-        "alt": null
-      },
-      {
-        "filename": "Umgefallenes Einkaufswagerl in der Geiselbergstrasse.jpg",
-        "latitude": 48.174739,
-        "longitude": 16.406886,
-        "createDate": "2024-07-28T15:47:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174739,16.406886",
-        "alt": null
       }
     ],
-    "timeframe": "18. Februar 2024 - 2. August 2025",
-    "imageCount": 11
+    "timeframe": "18. Februar 2024 - 6. Juli 2025",
+    "imageCount": 9
   },
   {
     "name": "symbole",
@@ -4448,15 +4620,15 @@ export const galleries = [
     "description": "Viele Taferl, viele Exemplare & viele Räume. Schönes Museum. Gratis.",
     "images": [
       {
-        "filename": "Schriftzug 'Museum der Stadt Wien'.jpg",
-        "latitude": 48.199192,
-        "longitude": 16.372353,
-        "createDate": "2025-05-14T14:14:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199192,16.372353",
+        "filename": "'Südbahnhof' Schild und Stiege.jpg",
+        "latitude": 48.199169,
+        "longitude": 16.372769,
+        "createDate": "2025-05-14T15:05:40.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199169,16.372769",
         "alt": null
       },
       {
-        "filename": "Schriftzug 'Zuerst schließen wir die Augen dann sehen wir weiter'.jpg",
+        "filename": "'Zuerst schließen wir die Augen dann sehen wir weiter' Sticker.jpg",
         "latitude": 48.199092,
         "longitude": 16.372906,
         "createDate": "2025-05-14T15:07:25.000Z",
@@ -4464,11 +4636,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Schriftzug Südbahnhof.jpg",
-        "latitude": 48.199169,
-        "longitude": 16.372769,
-        "createDate": "2025-05-14T15:05:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199169,16.372769",
+        "filename": "Schriftzug 'Museum der Stadt Wien'.jpg",
+        "latitude": 48.199192,
+        "longitude": 16.372353,
+        "createDate": "2025-05-14T14:14:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199192,16.372353",
         "alt": null
       },
       {

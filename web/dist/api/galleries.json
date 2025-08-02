@@ -398,8 +398,23 @@
     "name": "beton-und-struktur",
     "slug": "beton-und-struktur",
     "title": "Beton & Struktur",
-    "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner, Licht & Schatten.",
+    "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner & Lueger, Licht & Schatten.",
     "images": [
+      {
+        "latitude": 48.174511,
+        "longitude": 16.409864,
+        "createDate": "2025-08-02T11:23:30.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174511,16.409864",
+        "alt": null,
+        "name": "'Damen - Hair Laser - Herren' Schriftzug in der Grillgasse.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Damen_-_Hair_Laser_-_Herren'_Schriftzug_in_der_Grillgasse.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Damen_-_Hair_Laser_-_Herren'_Schriftzug_in_der_Grillgasse-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Damen_-_Hair_Laser_-_Herren'_Schriftzug_in_der_Grillgasse-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Damen_-_Hair_Laser_-_Herren'_Schriftzug_in_der_Grillgasse-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'Damen_-_Hair_Laser_-_Herren'_Schriftzug_in_der_Grillgasse-1440w.jpg"
+        }
+      },
       {
         "latitude": 48.173267,
         "longitude": 16.407208,
@@ -548,36 +563,6 @@
           "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arena_Wien_bei_Nacht-380w.jpg",
           "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arena_Wien_bei_Nacht-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arena_Wien_bei_Nacht-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.180686,
-        "longitude": 16.387744,
-        "createDate": "2025-04-20T09:29:58.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.180686,16.387744",
-        "alt": null,
-        "name": "Arsenalsteg mit Blick auf Hauptbahnhof.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arsenalsteg_mit_Blick_auf_Hauptbahnhof.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arsenalsteg_mit_Blick_auf_Hauptbahnhof-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arsenalsteg_mit_Blick_auf_Hauptbahnhof-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arsenalsteg_mit_Blick_auf_Hauptbahnhof-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arsenalsteg_mit_Blick_auf_Hauptbahnhof-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.179886,
-        "longitude": 16.386161,
-        "createDate": "2025-04-20T09:28:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.179886,16.386161",
-        "alt": null,
-        "name": "Arsenalsteg und Radioturm.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arsenalsteg_und_Radioturm.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arsenalsteg_und_Radioturm-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arsenalsteg_und_Radioturm-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arsenalsteg_und_Radioturm-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Arsenalsteg_und_Radioturm-1440w.jpg"
         }
       },
       {
@@ -1076,6 +1061,21 @@
         }
       },
       {
+        "latitude": 48.173972,
+        "longitude": 16.411875,
+        "createDate": "2025-08-02T11:25:13.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173972,16.411875",
+        "alt": null,
+        "name": "Fassade der Volkshochschule Simmering Close-Up.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_der_Volkshochschule_Simmering_Close-Up.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_der_Volkshochschule_Simmering_Close-Up-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_der_Volkshochschule_Simmering_Close-Up-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_der_Volkshochschule_Simmering_Close-Up-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_der_Volkshochschule_Simmering_Close-Up-1440w.jpg"
+        }
+      },
+      {
         "latitude": 48.215033,
         "longitude": 16.358572,
         "createDate": "2025-07-29T07:03:47.000Z",
@@ -1298,21 +1298,6 @@
           "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Geschlossene_Trafik_in_der_U-Bahn_Station_Volkstheater-380w.jpg",
           "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Geschlossene_Trafik_in_der_U-Bahn_Station_Volkstheater-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Geschlossene_Trafik_in_der_U-Bahn_Station_Volkstheater-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.182247,
-        "longitude": 16.384303,
-        "createDate": "2025-04-20T09:24:05.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182247,16.384303",
-        "alt": null,
-        "name": "Gleise und Radioturm in Wien in der nähe des Hauptbahnhofes.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-1440w.jpg"
         }
       },
       {
@@ -1628,6 +1613,36 @@
           "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lorystrasse_77_in_Simmering_-380w.jpg",
           "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lorystrasse_77_in_Simmering_-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lorystrasse_77_in_Simmering_-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.174794,
+        "longitude": 16.403611,
+        "createDate": "2025-08-02T11:17:57.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174794,16.403611",
+        "alt": null,
+        "name": "Max Wopenka Hof Wandgemälde.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Max_Wopenka_Hof_Wandgemälde.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Max_Wopenka_Hof_Wandgemälde-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Max_Wopenka_Hof_Wandgemälde-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Max_Wopenka_Hof_Wandgemälde-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Max_Wopenka_Hof_Wandgemälde-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.174664,
+        "longitude": 16.403953,
+        "createDate": "2025-08-02T11:18:23.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174664,16.403953",
+        "alt": null,
+        "name": "Max Wopenka Hof in der Geiselbergstrasse.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Max_Wopenka_Hof_in_der_Geiselbergstrasse.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Max_Wopenka_Hof_in_der_Geiselbergstrasse-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Max_Wopenka_Hof_in_der_Geiselbergstrasse-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Max_Wopenka_Hof_in_der_Geiselbergstrasse-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Max_Wopenka_Hof_in_der_Geiselbergstrasse-1440w.jpg"
         }
       },
       {
@@ -2364,10 +2379,285 @@
           "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_vor_dem_Wienfluss_in_der_nähe_von_Wien_Mitte-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zebrastreifen_vor_dem_Wienfluss_in_der_nähe_von_Wien_Mitte-1440w.jpg"
         }
+      },
+      {
+        "latitude": 48.174808,
+        "longitude": 16.405831,
+        "createDate": "2025-08-02T11:19:56.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174808,16.405831",
+        "alt": null,
+        "name": "Zugekleblte Auslage mit Spiegeleungen in der Geiselbergstrasse.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugekleblte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugekleblte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugekleblte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugekleblte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugekleblte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-1440w.jpg"
+        }
       }
     ],
     "timeframe": "7. Juni 2024 - 2. August 2025",
-    "imageCount": 131
+    "imageCount": 133
+  },
+  {
+    "name": "einkaufswagerl",
+    "slug": "einkaufswagerl",
+    "title": "Einkaufswagerl",
+    "description": "Umgefallene, alleingelassene oder andere Einkaufswagerl in Wien",
+    "images": [
+      {
+        "latitude": 48.171383,
+        "longitude": 16.414478,
+        "createDate": "2025-06-30T14:57:37.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.171383,16.414478",
+        "alt": null,
+        "name": "2 umgefallene Einkaufswagerl in der Lorystrasse - Braunhubergasse.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/einkaufswagerl/2_umgefallene_Einkaufswagerl_in_der_Lorystrasse_-_Braunhubergasse.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/einkaufswagerl/2_umgefallene_Einkaufswagerl_in_der_Lorystrasse_-_Braunhubergasse-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/einkaufswagerl/2_umgefallene_Einkaufswagerl_in_der_Lorystrasse_-_Braunhubergasse-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/einkaufswagerl/2_umgefallene_Einkaufswagerl_in_der_Lorystrasse_-_Braunhubergasse-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/einkaufswagerl/2_umgefallene_Einkaufswagerl_in_der_Lorystrasse_-_Braunhubergasse-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.164283,
+        "longitude": 16.418681,
+        "createDate": "2025-08-02T05:11:00.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.164283,16.418681",
+        "alt": null,
+        "name": "Umgefallenes Einkaufswagerl in Simmering.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Umgefallenes_Einkaufswagerl_in_Simmering.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Umgefallenes_Einkaufswagerl_in_Simmering-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Umgefallenes_Einkaufswagerl_in_Simmering-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Umgefallenes_Einkaufswagerl_in_Simmering-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Umgefallenes_Einkaufswagerl_in_Simmering-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.174739,
+        "longitude": 16.406886,
+        "createDate": "2024-07-28T15:47:54.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174739,16.406886",
+        "alt": null,
+        "name": "Umgefallenes Einkaufswagerl in der Geiselbergstrasse.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Umgefallenes_Einkaufswagerl_in_der_Geiselbergstrasse.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Umgefallenes_Einkaufswagerl_in_der_Geiselbergstrasse-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Umgefallenes_Einkaufswagerl_in_der_Geiselbergstrasse-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Umgefallenes_Einkaufswagerl_in_der_Geiselbergstrasse-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Umgefallenes_Einkaufswagerl_in_der_Geiselbergstrasse-1440w.jpg"
+        }
+      }
+    ],
+    "timeframe": "28. Juli 2024 - 2. August 2025",
+    "imageCount": 3
+  },
+  {
+    "name": "favoriten",
+    "slug": "favoriten",
+    "title": "Favoriten",
+    "description": "1100 Wien",
+    "images": [
+      {
+        "latitude": 48.182542,
+        "longitude": 16.374708,
+        "createDate": "2025-08-02T10:28:14.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182542,16.374708",
+        "alt": null,
+        "name": "'Alles da' Allzweck-Geschäft, Bauzäune und ein Wohnhaus.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.174417,
+        "longitude": 16.378242,
+        "createDate": "2025-08-02T11:00:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174417,16.378242",
+        "alt": null,
+        "name": "Amalienbad Frontale Reumannplatz.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/Amalienbad_Frontale_Reumannplatz.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/Amalienbad_Frontale_Reumannplatz-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/Amalienbad_Frontale_Reumannplatz-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/Amalienbad_Frontale_Reumannplatz-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Amalienbad_Frontale_Reumannplatz-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.173636,
+        "longitude": 16.37805,
+        "createDate": "2025-08-02T10:57:27.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173636,16.37805",
+        "alt": null,
+        "name": "Amalienbad und Grünfläche am Reumannplatz.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/Amalienbad_und_Grünfläche_am_Reumannplatz.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/Amalienbad_und_Grünfläche_am_Reumannplatz-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/Amalienbad_und_Grünfläche_am_Reumannplatz-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/Amalienbad_und_Grünfläche_am_Reumannplatz-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Amalienbad_und_Grünfläche_am_Reumannplatz-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.180686,
+        "longitude": 16.387744,
+        "createDate": "2025-04-20T09:29:58.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.180686,16.387744",
+        "alt": null,
+        "name": "Arsenalsteg mit Blick auf Hauptbahnhof.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/Arsenalsteg_mit_Blick_auf_Hauptbahnhof.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/Arsenalsteg_mit_Blick_auf_Hauptbahnhof-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/Arsenalsteg_mit_Blick_auf_Hauptbahnhof-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/Arsenalsteg_mit_Blick_auf_Hauptbahnhof-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Arsenalsteg_mit_Blick_auf_Hauptbahnhof-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.179886,
+        "longitude": 16.386161,
+        "createDate": "2025-04-20T09:28:03.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.179886,16.386161",
+        "alt": null,
+        "name": "Arsenalsteg und Radioturm.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/Arsenalsteg_und_Radioturm.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/Arsenalsteg_und_Radioturm-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/Arsenalsteg_und_Radioturm-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/Arsenalsteg_und_Radioturm-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Arsenalsteg_und_Radioturm-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.179225,
+        "longitude": 16.376092,
+        "createDate": "2025-08-02T10:39:54.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.179225,16.376092",
+        "alt": null,
+        "name": "Geschäftsauslage und Johannes-Kepler-Statue in der Favoritenstrasse.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/Geschäftsauslage_und_Johannes-Kepler-Statue_in_der_Favoritenstrasse.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/Geschäftsauslage_und_Johannes-Kepler-Statue_in_der_Favoritenstrasse-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/Geschäftsauslage_und_Johannes-Kepler-Statue_in_der_Favoritenstrasse-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/Geschäftsauslage_und_Johannes-Kepler-Statue_in_der_Favoritenstrasse-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Geschäftsauslage_und_Johannes-Kepler-Statue_in_der_Favoritenstrasse-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.182247,
+        "longitude": 16.384303,
+        "createDate": "2025-04-20T09:24:05.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182247,16.384303",
+        "alt": null,
+        "name": "Gleise und Radioturm in Wien in der nähe des Hauptbahnhofes.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.173653,
+        "longitude": 16.377711,
+        "createDate": "2025-08-02T10:57:02.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173653,16.377711",
+        "alt": null,
+        "name": "Mahnmal den Opfern des Faschismus.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.176811,
+        "longitude": 16.377103,
+        "createDate": "2025-08-02T10:48:33.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176811,16.377103",
+        "alt": null,
+        "name": "Marktgebiet Anfang & Ende Schilder Viktor-Adler-Markt.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/Marktgebiet_Anfang_&_Ende_Schilder_Viktor-Adler-Markt.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/Marktgebiet_Anfang_&_Ende_Schilder_Viktor-Adler-Markt-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/Marktgebiet_Anfang_&_Ende_Schilder_Viktor-Adler-Markt-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/Marktgebiet_Anfang_&_Ende_Schilder_Viktor-Adler-Markt-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Marktgebiet_Anfang_&_Ende_Schilder_Viktor-Adler-Markt-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.173406,
+        "longitude": 16.378533,
+        "createDate": "2025-08-02T10:58:29.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173406,16.378533",
+        "alt": null,
+        "name": "Regenbogen Belüftung Reumannpatz.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/Regenbogen_Belüftung_Reumannpatz.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/Regenbogen_Belüftung_Reumannpatz-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/Regenbogen_Belüftung_Reumannpatz-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/Regenbogen_Belüftung_Reumannpatz-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Regenbogen_Belüftung_Reumannpatz-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.176931,
+        "longitude": 16.377056,
+        "createDate": "2025-08-02T10:51:26.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176931,16.377056",
+        "alt": null,
+        "name": "Rudy's Imbiss am Viktor-Adler-Markt.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/Rudy's_Imbiss_am_Viktor-Adler-Markt.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/Rudy's_Imbiss_am_Viktor-Adler-Markt-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/Rudy's_Imbiss_am_Viktor-Adler-Markt-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/Rudy's_Imbiss_am_Viktor-Adler-Markt-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Rudy's_Imbiss_am_Viktor-Adler-Markt-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.173997,
+        "longitude": 16.377714,
+        "createDate": "2025-08-02T10:56:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173997,16.377714",
+        "alt": null,
+        "name": "Tichy am Reumannplatz.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_am_Reumannplatz.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_am_Reumannplatz-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_am_Reumannplatz-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_am_Reumannplatz-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_am_Reumannplatz-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.178025,
+        "longitude": 16.376411,
+        "createDate": "2025-08-02T10:42:06.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.178025,16.376411",
+        "alt": null,
+        "name": "U-Bahn Abgang Station Keplerplatz.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz-1440w.jpg"
+        }
+      }
+    ],
+    "timeframe": "20. April 2025 - 2. August 2025",
+    "imageCount": 13
   },
   {
     "name": "graz",
@@ -4731,6 +5021,21 @@
         }
       },
       {
+        "latitude": 48.184097,
+        "longitude": 16.376269,
+        "createDate": "2025-08-02T10:23:51.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.184097,16.376269",
+        "alt": null,
+        "name": "'ÖBB' Logo vor dem Hauptbahnhof und dem Icon Vienna.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/oeffis/'ÖBB'_Logo_vor_dem_Hauptbahnhof_und_dem_Icon_Vienna.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/oeffis/'ÖBB'_Logo_vor_dem_Hauptbahnhof_und_dem_Icon_Vienna-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/oeffis/'ÖBB'_Logo_vor_dem_Hauptbahnhof_und_dem_Icon_Vienna-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/oeffis/'ÖBB'_Logo_vor_dem_Hauptbahnhof_und_dem_Icon_Vienna-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/oeffis/'ÖBB'_Logo_vor_dem_Hauptbahnhof_und_dem_Icon_Vienna-1440w.jpg"
+        }
+      },
+      {
         "latitude": 48.214,
         "longitude": 16.362003,
         "createDate": "2025-08-01T13:12:49.000Z",
@@ -4911,6 +5216,21 @@
         }
       },
       {
+        "latitude": 48.185756,
+        "longitude": 16.375083,
+        "createDate": "2025-08-02T10:21:01.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185756,16.375083",
+        "alt": null,
+        "name": "Durchgang Hauptbahnhof-Favoritenstrasse.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/oeffis/Durchgang_Hauptbahnhof-Favoritenstrasse.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/oeffis/Durchgang_Hauptbahnhof-Favoritenstrasse-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/oeffis/Durchgang_Hauptbahnhof-Favoritenstrasse-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/oeffis/Durchgang_Hauptbahnhof-Favoritenstrasse-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/oeffis/Durchgang_Hauptbahnhof-Favoritenstrasse-1440w.jpg"
+        }
+      },
+      {
         "latitude": 48.230983,
         "longitude": 16.329208,
         "createDate": "2025-04-21T16:04:21.000Z",
@@ -5043,6 +5363,21 @@
           "w380": "https://photos.lucamack.at/content/galleries/oeffis/Imbiss_Endstation_Simmering_U-Bahn_Station_Wien-380w.jpg",
           "w640": "https://photos.lucamack.at/content/galleries/oeffis/Imbiss_Endstation_Simmering_U-Bahn_Station_Wien-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/oeffis/Imbiss_Endstation_Simmering_U-Bahn_Station_Wien-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.185822,
+        "longitude": 16.375806,
+        "createDate": "2025-08-02T10:15:47.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185822,16.375806",
+        "alt": null,
+        "name": "Löwen-Statue in der Halle des Hauptbahnhof.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/oeffis/Löwen-Statue_in_der_Halle_des_Hauptbahnhof.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/oeffis/Löwen-Statue_in_der_Halle_des_Hauptbahnhof-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/oeffis/Löwen-Statue_in_der_Halle_des_Hauptbahnhof-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/oeffis/Löwen-Statue_in_der_Halle_des_Hauptbahnhof-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/oeffis/Löwen-Statue_in_der_Halle_des_Hauptbahnhof-1440w.jpg"
         }
       },
       {
@@ -5451,8 +5786,8 @@
         }
       }
     ],
-    "timeframe": "11. April 2024 - 1. August 2025",
-    "imageCount": 51
+    "timeframe": "11. April 2024 - 2. August 2025",
+    "imageCount": 54
   },
   {
     "name": "ostsee",
@@ -7319,40 +7654,10 @@
           "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Toi_Toi_auf_Holz-Baugerüst_in_Wien-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Toi_Toi_auf_Holz-Baugerüst_in_Wien-1440w.jpg"
         }
-      },
-      {
-        "latitude": 48.164283,
-        "longitude": 16.418681,
-        "createDate": "2025-08-02T05:11:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.164283,16.418681",
-        "alt": null,
-        "name": "Umgefallenes Einkaufswagerl in Simmering.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Umgefallenes_Einkaufswagerl_in_Simmering.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Umgefallenes_Einkaufswagerl_in_Simmering-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Umgefallenes_Einkaufswagerl_in_Simmering-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Umgefallenes_Einkaufswagerl_in_Simmering-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Umgefallenes_Einkaufswagerl_in_Simmering-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.174739,
-        "longitude": 16.406886,
-        "createDate": "2024-07-28T15:47:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174739,16.406886",
-        "alt": null,
-        "name": "Umgefallenes Einkaufswagerl in der Geiselbergstrasse.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Umgefallenes_Einkaufswagerl_in_der_Geiselbergstrasse.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Umgefallenes_Einkaufswagerl_in_der_Geiselbergstrasse-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Umgefallenes_Einkaufswagerl_in_der_Geiselbergstrasse-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Umgefallenes_Einkaufswagerl_in_der_Geiselbergstrasse-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Umgefallenes_Einkaufswagerl_in_der_Geiselbergstrasse-1440w.jpg"
-        }
       }
     ],
-    "timeframe": "18. Februar 2024 - 2. August 2025",
-    "imageCount": 11
+    "timeframe": "18. Februar 2024 - 6. Juli 2025",
+    "imageCount": 9
   },
   {
     "name": "symbole",
@@ -8156,6 +8461,36 @@
     "description": "Viele Taferl, viele Exemplare & viele Räume. Schönes Museum. Gratis.",
     "images": [
       {
+        "latitude": 48.199169,
+        "longitude": 16.372769,
+        "createDate": "2025-05-14T15:05:40.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199169,16.372769",
+        "alt": null,
+        "name": "'Südbahnhof' Schild und Stiege.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/wien-museum/'Südbahnhof'_Schild_und_Stiege.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/wien-museum/'Südbahnhof'_Schild_und_Stiege-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/wien-museum/'Südbahnhof'_Schild_und_Stiege-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/wien-museum/'Südbahnhof'_Schild_und_Stiege-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/wien-museum/'Südbahnhof'_Schild_und_Stiege-1440w.jpg"
+        }
+      },
+      {
+        "latitude": 48.199092,
+        "longitude": 16.372906,
+        "createDate": "2025-05-14T15:07:25.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199092,16.372906",
+        "alt": null,
+        "name": "'Zuerst schließen wir die Augen dann sehen wir weiter' Sticker.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/wien-museum/'Zuerst_schließen_wir_die_Augen_dann_sehen_wir_weiter'_Sticker.jpg",
+          "w160": "https://photos.lucamack.at/content/galleries/wien-museum/'Zuerst_schließen_wir_die_Augen_dann_sehen_wir_weiter'_Sticker-160w.jpg",
+          "w380": "https://photos.lucamack.at/content/galleries/wien-museum/'Zuerst_schließen_wir_die_Augen_dann_sehen_wir_weiter'_Sticker-380w.jpg",
+          "w640": "https://photos.lucamack.at/content/galleries/wien-museum/'Zuerst_schließen_wir_die_Augen_dann_sehen_wir_weiter'_Sticker-640w.jpg",
+          "w1440": "https://photos.lucamack.at/content/galleries/wien-museum/'Zuerst_schließen_wir_die_Augen_dann_sehen_wir_weiter'_Sticker-1440w.jpg"
+        }
+      },
+      {
         "latitude": 48.199192,
         "longitude": 16.372353,
         "createDate": "2025-05-14T14:14:08.000Z",
@@ -8168,36 +8503,6 @@
           "w380": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_'Museum_der_Stadt_Wien'-380w.jpg",
           "w640": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_'Museum_der_Stadt_Wien'-640w.jpg",
           "w1440": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_'Museum_der_Stadt_Wien'-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.199092,
-        "longitude": 16.372906,
-        "createDate": "2025-05-14T15:07:25.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199092,16.372906",
-        "alt": null,
-        "name": "Schriftzug 'Zuerst schließen wir die Augen dann sehen wir weiter'.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_'Zuerst_schließen_wir_die_Augen_dann_sehen_wir_weiter'.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_'Zuerst_schließen_wir_die_Augen_dann_sehen_wir_weiter'-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_'Zuerst_schließen_wir_die_Augen_dann_sehen_wir_weiter'-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_'Zuerst_schließen_wir_die_Augen_dann_sehen_wir_weiter'-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_'Zuerst_schließen_wir_die_Augen_dann_sehen_wir_weiter'-1440w.jpg"
-        }
-      },
-      {
-        "latitude": 48.199169,
-        "longitude": 16.372769,
-        "createDate": "2025-05-14T15:05:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199169,16.372769",
-        "alt": null,
-        "name": "Schriftzug Südbahnhof.jpg",
-        "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_Südbahnhof.jpg",
-          "w160": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_Südbahnhof-160w.jpg",
-          "w380": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_Südbahnhof-380w.jpg",
-          "w640": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_Südbahnhof-640w.jpg",
-          "w1440": "https://photos.lucamack.at/content/galleries/wien-museum/Schriftzug_Südbahnhof-1440w.jpg"
         }
       },
       {

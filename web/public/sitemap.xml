@@ -161,6 +161,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/damen-hair-laser-herren-schriftzug-in-der-grillgasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/einfahrt-freihalten-schild-auf-einem-zaun-vor-einem-baugrund</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -207,16 +212,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/arena-wien-bei-nacht</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/arsenalsteg-mit-blick-auf-hauptbahnhof</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/arsenalsteg-und-radioturm</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -386,6 +381,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/fassade-der-volkshochschule-simmering-close-up</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/fassade-der-votivkirche-und-park-davor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -457,11 +457,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/geschlossene-trafik-in-der-u-bahn-station-volkstheater</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/gleise-und-radioturm-in-wien-in-der-nahe-des-hauptbahnhofes</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -567,6 +562,16 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/lorystrasse-77-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/max-wopenka-hof-wandgemalde</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/max-wopenka-hof-in-der-geiselbergstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -812,6 +817,101 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/zebrastreifen-vor-dem-wienfluss-in-der-nahe-von-wien-mitte</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/zugekleblte-auslage-mit-spiegeleungen-in-der-geiselbergstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/2-umgefallene-einkaufswagerl-in-der-lorystrasse-braunhubergasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/umgefallenes-einkaufswagerl-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/umgefallenes-einkaufswagerl-in-der-geiselbergstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/alles-da-allzweck-geschaft-bauzaune-und-ein-wohnhaus</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/amalienbad-frontale-reumannplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/amalienbad-und-grunflache-am-reumannplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/arsenalsteg-mit-blick-auf-hauptbahnhof</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/arsenalsteg-und-radioturm</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/geschaftsauslage-und-johannes-kepler-statue-in-der-favoritenstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/gleise-und-radioturm-in-wien-in-der-nahe-des-hauptbahnhofes</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/mahnmal-den-opfern-des-faschismus</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/marktgebiet-anfang-ende-schilder-viktor-adler-markt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/regenbogen-beluftung-reumannpatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/rudys-imbiss-am-viktor-adler-markt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/tichy-am-reumannplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/u-bahn-abgang-station-keplerplatz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1616,6 +1716,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/obb-logo-vor-dem-hauptbahnhof-und-dem-icon-vienna</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/3-telefone-in-der-bim-station-schottentor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1676,6 +1781,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/durchgang-hauptbahnhof-favoritenstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/gersthof-s-bahn-station-im-jugendstil-von-otto-wagner-2</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1717,6 +1827,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/imbiss-endstation-simmering-u-bahn-station-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/lowen-statue-in-der-halle-des-hauptbahnhof</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2491,16 +2606,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/umgefallenes-einkaufswagerl-in-simmering</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/umgefallenes-einkaufswagerl-in-der-geiselbergstrasse</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/symbole</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2776,17 +2881,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien-museum/image/sudbahnhof-schild-und-stiege</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien-museum/image/zuerst-schlieen-wir-die-augen-dann-sehen-wir-weiter-sticker</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien-museum/image/schriftzug-museum-der-stadt-wien</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/wien-museum/image/schriftzug-zuerst-schlieen-wir-die-augen-dann-sehen-wir-weiter</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/wien-museum/image/schriftzug-sudbahnhof</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

@@ -30,7 +30,7 @@ const CopyButton = ({ textToCopy, className, children, ariaLabel, iconToRight = 
   return (
     <button
       onClick={handleCopy}
-      className={cn(`text-xs p-1 bg-transparent flex ${iconToRight ? `flex-row-reverse` : ""} items-center gap-2`, className)}
+      className={cn(`text-xs p-1 bg-transparent flex ${iconToRight ? `flex-row-reverse` : ""} items-center gap-2 ${isCopied ? "text-red-300" : "text-red-600"}`, className)}
       aria-label={ariaLabel || "Kopieren"}>
       {isCopied ? (
         <Check
