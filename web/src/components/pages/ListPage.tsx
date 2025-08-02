@@ -189,14 +189,14 @@ const ListPage = () => {
 
   return (
     <div className="p-4 md:px-8">
-      <title>{`Liste aller Fotos und Galerien | ${CONFIG.meta.title}`}</title>
+      <title>{`Liste aller Fotos und Fotoserien | ${CONFIG.meta.title}`}</title>
       <meta
         name="title"
-        content={`Liste aller Fotos und Galerien | ${CONFIG.meta.title}`}
+        content={`Liste aller Fotos und Fotoserien | ${CONFIG.meta.title}`}
       />
       <meta
         name="description"
-        content="Eine Liste aller Fotos und Galerien. Sortierbar und Filterbar."
+        content="Eine Liste aller Fotos und Fotoserien. Sortierbar und Filterbar."
       />
 
       <div className={`flex gap-4 ${CONFIG.theme.border.bottom}`}>
@@ -327,7 +327,7 @@ const ListPage = () => {
             />
           </HorizontalScroller>
           <div className="py-4 text-xs">
-            {filteredAndSortedGalleries.length} {filteredAndSortedGalleries.length === 1 ? "Galerie" : "Galerien"} gefunden
+            {filteredAndSortedGalleries.length} {filteredAndSortedGalleries.length === 1 ? "Fotoserie" : "Fotoserien"} gefunden
           </div>
           <div className="flex flex-col lg:flex-row lg:flex-wrap">
             {filteredAndSortedGalleries.map((gallery, index) => {
@@ -356,8 +356,8 @@ const ListPage = () => {
                     )}
                     <div className="text-sm">
                       <h3 className="truncate text-lg ">{gallery.title}</h3>
-                      <p className="truncate">{gallery.images?.length || 0} Bilder</p>
-                      <p className="truncate">Erstellt: {parseCreateDate(gallery.createDate)?.toLocaleDateString() || "N/V"}</p>
+                      <p className="truncate text-xs">{gallery.images?.length || 0} Bilder</p>
+                      <p className="truncate text-xs">Datum: {parseCreateDate(gallery.createDate)?.toLocaleDateString() || "N/V"}</p>
                     </div>
                   </Link>
                   {index < filteredAndSortedGalleries.length - 1 && ""}

@@ -191,6 +191,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/albin-hirsch-platz-und-grunflache-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/anton-schmid-hof-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -222,6 +227,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/autobahnauffahrt-und-grunflache-in-der-nahe-der-geiereckstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/auere-mariahilfer-strasse-richtung-penzing</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -372,6 +382,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/fassade-cafe-weidinger-am-neubau-gurtel</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/fassade-der-votivkirche-und-park-davor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -641,6 +656,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/spielplatz-bei-der-wohnanlage-hasenleiten</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/statue-garnisongasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -772,6 +792,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/wohnhaus-mit-balkonen-beim-rochusmarkt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/wohnhausanlage-in-der-lorystrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1136,6 +1161,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/kaernten-koroska/image/offener-reisekoffer-mit-buchern-verstreut-vor-einem-geschaft-in-klagenfurt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/kaernten-koroska/image/park-und-hauser-klagenfurt-karnten</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1172,11 +1202,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/kaernten-koroska/image/udo-jurgens-promenade-klagenfurt-karnten</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/kaernten-koroska/image/vertreuten-koffer-mit-buchern-vor-eine-geschaft-in-klagenfurt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1576,7 +1601,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/bitte-alle-einstiege-benutzen-schriftzug-in-u-bahn-station</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/der-weg-nach-europa-kunstwerk-in-der-u-bahn-station-westbahnhof</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/marchegg-schild-in-einem-zug-am-hauptbahnhof</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/3-telefone-in-der-bim-station-schottentor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1642,6 +1682,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/gersthof-s-bahn-station-im-jugendstil-von-otto-wagner</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/glasfassade-der-u-bahn-station-rochusgasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1927,6 +1972,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/parks/image/park-simmering-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/parks/image/park-und-yoga-gruppe-im-auer-wellsbach-park</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2437,6 +2487,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/toi-toi-auf-holz-baugerust-in-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/umgefallenes-einkaufswagerl-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

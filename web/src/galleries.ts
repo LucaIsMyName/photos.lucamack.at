@@ -276,6 +276,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Albin-Hirsch-Platz und Grünfläche in Simmering.jpg",
+        "latitude": 48.167781,
+        "longitude": 16.417983,
+        "createDate": "2025-08-02T05:06:09.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.167781,16.417983",
+        "alt": null
+      },
+      {
         "filename": "Anton-Schmid-Hof Wien .jpg",
         "latitude": 48.199047,
         "longitude": 16.380219,
@@ -329,6 +337,14 @@ export const galleries = [
         "longitude": 16.413206,
         "createDate": "2025-06-01T13:40:51.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.186092,16.413206",
+        "alt": null
+      },
+      {
+        "filename": "Äußere Mariahilfer-Strasse Richtung Penzing.jpg",
+        "latitude": 48.191886,
+        "longitude": 16.332106,
+        "createDate": "2025-07-30T15:29:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.191886,16.332106",
         "alt": null
       },
       {
@@ -569,6 +585,14 @@ export const galleries = [
         "longitude": 16.336481,
         "createDate": "2025-05-03T11:35:35.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.20415,16.336481",
+        "alt": null
+      },
+      {
+        "filename": "Fassade der Votivkirche und Park davor.jpg",
+        "latitude": 48.215033,
+        "longitude": 16.358572,
+        "createDate": "2025-07-29T07:03:47.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215033,16.358572",
         "alt": null
       },
       {
@@ -996,6 +1020,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Spielplatz bei der Wohnanlage Hasenleiten.jpg",
+        "latitude": 48.165025,
+        "longitude": 16.416342,
+        "createDate": "2025-08-02T05:13:51.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.165025,16.416342",
+        "alt": null
+      },
+      {
         "filename": "Statue Garnisongasse.jpg",
         "latitude": 48.216647,
         "longitude": 16.356478,
@@ -1212,6 +1244,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Wohnhausanlage in der Lorystrasse.jpg",
+        "latitude": 48.167044,
+        "longitude": 16.418656,
+        "createDate": "2025-08-02T05:07:23.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.167044,16.418656",
+        "alt": null
+      },
+      {
         "filename": "Würstelstand bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.202117,
         "longitude": 16.337203,
@@ -1236,8 +1276,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "7. Juni 2024 - 27. Juli 2025",
-    "imageCount": 126
+    "timeframe": "7. Juni 2024 - 2. August 2025",
+    "imageCount": 131
   },
   {
     "name": "graz",
@@ -1792,6 +1832,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Offener Reisekoffer mit Büchern verstreut vor einem Geschäft in Klagenfurt.jpg",
+        "latitude": 46.622986,
+        "longitude": 14.304922,
+        "createDate": "2025-07-20T17:45:05.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622986,14.304922",
+        "alt": null
+      },
+      {
         "filename": "Park und Häuser Klagenfurt Kärnten.jpg",
         "latitude": 46.621825,
         "longitude": 14.303786,
@@ -1848,19 +1896,11 @@ export const galleries = [
         "alt": null
       },
       {
-        "filename": "Udo-Jürgens Promenade Klagenfurt Kärnten.jpg",
+        "filename": "Udo-Jürgens-Promenade Klagenfurt Kärnten.jpg",
         "latitude": 46.623086,
         "longitude": 14.252092,
         "createDate": "2025-07-20T14:19:51.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.623086,14.252092",
-        "alt": null
-      },
-      {
-        "filename": "Vertreuten Koffer mit Büchern vor eine Geschäft in Klagenfurt.jpg",
-        "latitude": 46.622986,
-        "longitude": 14.304922,
-        "createDate": "2025-07-20T17:45:05.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622986,14.304922",
         "alt": null
       },
       {
@@ -2506,11 +2546,35 @@ export const galleries = [
     "description": "Tschu Tschu, Brum Brum, *Quietsch*, Tschu Tschu",
     "images": [
       {
+        "filename": "'Bitte alle Einstiege benützen' Schriftzug in U-Bahn Station.jpg",
+        "latitude": 48.208156,
+        "longitude": 16.371689,
+        "createDate": "2025-08-01T13:31:40.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.208156,16.371689",
+        "alt": null
+      },
+      {
+        "filename": "'Der Weg nach Europa' Kunstwerk in der U-Bahn Station Westbahnhof.jpg",
+        "latitude": 48.196022,
+        "longitude": 16.340636,
+        "createDate": "2025-07-30T18:30:02.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.196022,16.340636",
+        "alt": null
+      },
+      {
         "filename": "'Marchegg' Schild in einem Zug am Hauptbahnhof.jpg",
         "latitude": 48.185244,
         "longitude": 16.379136,
         "createDate": "2025-05-04T14:14:04.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185244,16.379136",
+        "alt": null
+      },
+      {
+        "filename": "3 Telefone in der BIM Station Schottentor.jpg",
+        "latitude": 48.214,
+        "longitude": 16.362003,
+        "createDate": "2025-08-01T13:12:49.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.214,16.362003",
         "alt": null
       },
       {
@@ -2615,6 +2679,14 @@ export const galleries = [
         "longitude": 16.329044,
         "createDate": "2025-04-21T16:02:40.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231044,16.329044",
+        "alt": null
+      },
+      {
+        "filename": "Glasfassade der U-Bahn-Station Rochusgasse.jpg",
+        "latitude": 48.202764,
+        "longitude": 16.391256,
+        "createDate": "2025-08-01T06:22:12.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202764,16.391256",
         "alt": null
       },
       {
@@ -2882,8 +2954,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "11. April 2024 - 15. Juli 2025",
-    "imageCount": 47
+    "timeframe": "11. April 2024 - 1. August 2025",
+    "imageCount": 51
   },
   {
     "name": "ostsee",
@@ -3080,6 +3152,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Park und Yoga-Gruppe im Auer-Wellsbach-Park.jpg",
+        "latitude": 48.186328,
+        "longitude": 16.318358,
+        "createDate": "2025-07-30T17:03:42.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.186328,16.318358",
+        "alt": null
+      },
+      {
         "filename": "Votivkirche mit Fussgänger und Hund davor.jpg",
         "latitude": 48.215353,
         "longitude": 16.359267,
@@ -3104,8 +3184,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "27. März 2024 - 9. Juli 2025",
-    "imageCount": 14
+    "timeframe": "27. März 2024 - 30. Juli 2025",
+    "imageCount": 15
   },
   {
     "name": "porto",
@@ -3904,6 +3984,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Umgefallenes Einkaufswagerl in Simmering.jpg",
+        "latitude": 48.164283,
+        "longitude": 16.418681,
+        "createDate": "2025-08-02T05:11:00.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.164283,16.418681",
+        "alt": null
+      },
+      {
         "filename": "Umgefallenes Einkaufswagerl in der Geiselbergstrasse.jpg",
         "latitude": 48.174739,
         "longitude": 16.406886,
@@ -3912,8 +4000,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "18. Februar 2024 - 6. Juli 2025",
-    "imageCount": 10
+    "timeframe": "18. Februar 2024 - 2. August 2025",
+    "imageCount": 11
   },
   {
     "name": "symbole",

@@ -184,9 +184,9 @@ export default function CommandPalette({ open, onClose, setMobileMenuOpen }: Com
                     className={`min-w-0 flex-shrink-0 ${imageSizeClasses} object-cover`}
                     src={getImageUrl(gallery.slug, gallery.images[0].filename.replaceAll(" ", "_"), 160)}
                   />
-                  <div>
+                  <div className="truncate">
                     <p className="truncate text-sm">{gallery.title || gallery.name}</p>
-                    <p className="text-[11px] opacity-70 truncate">
+                    <p className="text-[11px]  opacity-70 truncate">
                       {gallery.imageCount} Fotos | {gallery.timeframe}
                     </p>
                   </div>
@@ -210,7 +210,7 @@ export default function CommandPalette({ open, onClose, setMobileMenuOpen }: Com
                   />
                   <div className="flex flex-col">
                     <span className="truncate text-sm">{image.filename.replace(".jpg", "").replace(".png", "").replace(".webp", "")}</span>
-                    <span className="text-[11px] opacity-70">
+                    <span className="text-[11px] opacity-70 truncate">
                       {parseCreateDate(image.createDate) &&
                         new Date(parseCreateDate(image.createDate)!).toLocaleDateString("de-DE", {
                           year: "numeric",
@@ -226,8 +226,7 @@ export default function CommandPalette({ open, onClose, setMobileMenuOpen }: Com
           </Command.List>
 
           <div className={`p-2 ${CONFIG.theme.border.top}`}>
-            <div className="px-2 text-[11px] opacity-70 md:flex justify-between font-mono">
-              <p className="truncate hidden md:block">↑ ↓ Mit den Pfeiltasten navigieren</p>
+            <div className="px-2 text-[11px] opacity-70 md:flex justify-end font-mono">
               <p className="truncate text-right">Mit 'ESC' schließen</p>
             </div>
           </div>

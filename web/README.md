@@ -170,3 +170,8 @@ This acts as a static api any dev could fetch to use the images on another websi
 -   `node generate-pages.mjs`: Scans the `content/pages` directory, reads Markdown files, and generates `src/pages.ts`.
 
 ---
+
+## Development Ideas
+
+- Can the whole website somehow be connected to eg. Instagram and automatically fill the IG whenever  new images are uploaded/published on the website? -> Check IG API/Docs/Whateva for this
+- store the order of the gallery when navigated to an image, and if the user does use the "back" button of the browser -> instead of loading the gallery new -> go the the exact viewport in the same order (cached version of the gallery before). only if the user clicks on the same gallery via the naviagtion should shuffle again

@@ -115,7 +115,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
         <button
           onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
           className="cursor-pointer p-0"
-          aria-label="Toggle menu">
+          aria-label="Navigation öffnen">
           <Menu
             size={24}
             strokeWidth={1.5}
@@ -140,7 +140,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
             <button
               onClick={() => setIsMobileMenuOpen(false)}
               className="cursor-pointer p-0"
-              aria-label="Close menu">
+              aria-label="Navigation schließen">
               <X
                 size={24}
                 strokeWidth={1.5}

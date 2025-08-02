@@ -18,7 +18,7 @@ const CmdkButton = ({ iconToRight = false, hasKeyboardShortcut = true, iconSize 
     <button
       onClick={onOpen}
       className={cn(`flex items-center gap-2 px-3 py-1.5 text-sm`, `${iconToRight ? "flex-row-reverse" : ""}`, className)}
-      aria-label={ariaLabel || "Suche öffnen"}>
+      aria-label={ariaLabel || "Suche nach Fotos, Serien, Apps und Seiten öffnen"}>
       <Search size={iconSize} />
       {hasKeyboardShortcut && (
         <kbd className={`ml-auto inline-flex select-none items-center gap-1 font-mono text-xs font-medium opacity-30 ${theme === "light" ? "" : ""}`}>

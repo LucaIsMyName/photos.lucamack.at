@@ -16,7 +16,7 @@ import { parseCreateDate } from "../../utils/date";
 type ImageType = (typeof galleries)[0]["images"][0] & { gallery: string; latitude: number; longitude: number };
 type CountryData = { name: string; value: number }[];
 
-const ExtremePhotoCard = ({ title, image }: { title: string; image?: ImageType }) => {
+const ExtremePhotoCard: React.FC<{ title: string; image?: ImageType }> = ({ title, image }) => {
   const { theme } = useTheme();
   if (!image) return null;
 
@@ -313,7 +313,7 @@ const StatisticsPage = () => {
       <title>{`Statistiken | ${CONFIG.meta.title}`}</title>
       <meta
         name="description"
-        content="Statistiken von allen Fotos & Galerien"
+        content="Statistiken von allen Fotos & Fotoserien"
       />
       <meta
         name="title"

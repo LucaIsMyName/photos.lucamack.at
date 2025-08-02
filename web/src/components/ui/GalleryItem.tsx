@@ -37,8 +37,6 @@ const GalleryItem = ({ alt, gallerySlug, imageFilename }: GalleryItemProps) => {
     }
   };
 
-    
-
   const sizes =
     orientation === "landscape"
       ? // Landscape images are full-width of the content area (max 1024px on large screens).
@@ -48,10 +46,9 @@ const GalleryItem = ({ alt, gallerySlug, imageFilename }: GalleryItemProps) => {
 
   const imageName = imageFilename.replace(/\.[^/.]+$/, "");
   const imagePageLink = `/gallery/${gallerySlug}/image/${slugify(imageName)}`;
-
   return (
     <div
-      id={`image-${imageName}`}
+      id={`${slugify(imageName)}`}
       className={getFlexClasses()}>
       <div className="p-0 pr-0 lg:pr-4 sm:pb-4 md:pr-4 md:py-6">
         <Link

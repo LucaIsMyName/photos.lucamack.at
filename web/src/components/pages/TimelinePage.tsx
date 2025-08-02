@@ -118,7 +118,7 @@ const TimelinePage = () => {
       <title>{`Timeline | ${CONFIG.meta.title}`}</title>
       <meta
         name="description"
-        content="Timeline von allen Fotos & Galerien"
+        content="Timeline aller Fotos"
       />
       <meta
         name="title"

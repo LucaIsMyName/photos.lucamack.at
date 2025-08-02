@@ -50,11 +50,11 @@ export const CONFIG = {
   // not used right now
   systemMessages: {
     noImagesFound: "Es scheint, dass keine Bilder gefunden wurden.",
-    noGalleriesFound: "Es scheint, dass keine Galerien gefunden wurden.",
+    noGalleriesFound: "Es scheint, dass keine Fotoserie gefunden wurden.",
     noPagesFound: "Es scheint, dass keine Seiten gefunden wurden.",
     noMapFound: "Es scheint, dass keine Karte gefunden wurde.",
     noThemeFound: "Es scheint, dass kein Theme gefunden wurde.",
-    noGalleryFound: "Es scheint, dass keine Galerie gefunden wurde.",
+    noGalleryFound: "Es scheint, dass keine Fotoserie gefunden wurde.",
     noImageFound: "Es scheint, dass kein Bild gefunden wurde.",
     noPageFound: "Es scheint, dass keine Seite gefunden wurde.",
   },

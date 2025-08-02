@@ -224,7 +224,7 @@ const MapPage = () => {
             <X className="h-4 w-4" />
           </button>
           <h3 className="font-bold text-lg mb-2">Legende</h3>
-          <h4 className="text-[11px] mb-4 opacity-90">Galerien via Farbe, Klick auf Galerie um zu verstecken oder einzublenden</h4>
+          <h4 className="text-[11px] mb-4 opacity-90">Fotoserie via Farbe, Klick auf Galerie um zu verstecken oder einzublenden</h4>
           <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-x-6 gap-y-2 text-sm">
             {galleries.map((gallery) => (
               <li
