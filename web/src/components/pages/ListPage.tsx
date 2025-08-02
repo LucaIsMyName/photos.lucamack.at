@@ -361,7 +361,7 @@ const ListPage = () => {
             {visibleImageCount < filteredAndSortedImages.length && (
               <div 
                 ref={loadMoreRef} 
-                className="w-full py-4 text-center text-sm text-gray-500"
+                className="w-full py-6 text-center text-xs text-neutral-500 font-mono"
               >
                 Weitere Fotos werden geladen...
               </div>

@@ -91,7 +91,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
         <button
           onClick={toggleTheme}
           className="cursor-pointer flex items-center justify-start p-2"
-          aria-label={`Farmodus auf ${theme === "light" ? "Dunkel" : "Hell"} wechseln`}>
+          aria-label={`Farbmodus auf ${theme === "light" ? "Dunkel" : "Hell"} wechseln`}>
           {theme === "light" ? <Moon size={16} /> : <Sun size={16} />}
         </button>
       </div>

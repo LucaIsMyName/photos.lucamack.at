@@ -242,7 +242,7 @@ const ImagePage = () => {
       />
       <meta
         name="og:description"
-        content={`${image.alt || gallery.title}`}
+        content={`${image.filename.replaceAll("_", " ").replace(".jpg", "").trim()}`}
       />
       <meta
         name="og:url"
