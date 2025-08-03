@@ -460,7 +460,7 @@ const ImagePage = () => {
                     className="w-10 md:w-12 h-10 md:h-12 border border-neutral-500/20"
                     style={{ backgroundColor: color.hex }}
                   />
-                  <div className="text-[7px] md:text-[9px] font-mono absolute inset-0 p-1 opacity-0 group-hover:opacity-100 text-white transition-opacity">{color.hex}</div>
+                  <div className="text-[6px] font-mono absolute inset-0 p-1 opacity-0 group-hover:opacity-100 text-white transition-opacity">{color.hex}</div>
                 </div>
               );
             })}
