@@ -284,6 +284,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Albin Hirsch Patz in der Lorystrasse.jpg",
+        "latitude": 48.167053,
+        "longitude": 16.417942,
+        "createDate": "2025-08-02T16:40:05.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.167053,16.417942",
+        "alt": null
+      },
+      {
         "filename": "Albin-Hirsch-Platz und Grünfläche in Simmering.jpg",
         "latitude": 48.167781,
         "longitude": 16.417983,
@@ -940,6 +948,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Plastikfaser-Zaun, Mülltonnen und ein Haus dahinter.jpg",
+        "latitude": 48.165992,
+        "longitude": 16.414008,
+        "createDate": "2025-08-02T16:33:48.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.165992,16.414008",
+        "alt": null
+      },
+      {
         "filename": "Ringstrasse im Regen.jpg",
         "latitude": 48.206025,
         "longitude": 16.360444,
@@ -1033,6 +1049,14 @@ export const galleries = [
         "longitude": 16.416342,
         "createDate": "2025-08-02T05:13:51.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.165025,16.416342",
+        "alt": null
+      },
+      {
+        "filename": "Statue 4 Kinder in der Lorystrasse.jpg",
+        "latitude": 48.173278,
+        "longitude": 16.41265,
+        "createDate": "2025-04-21T17:05:57.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173278,16.41265",
         "alt": null
       },
       {
@@ -1153,6 +1177,14 @@ export const galleries = [
         "longitude": 16.380056,
         "createDate": "2025-07-27T08:39:38.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207092,16.380056",
+        "alt": null
+      },
+      {
+        "filename": "Überdachung eines Fabriksgeländes mit Sperrmüll.jpg",
+        "latitude": 48.1679,
+        "longitude": 16.411825,
+        "createDate": "2025-08-02T16:30:44.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1679,16.411825",
         "alt": null
       },
       {
@@ -1293,7 +1325,7 @@ export const galleries = [
       }
     ],
     "timeframe": "7. Juni 2024 - 2. August 2025",
-    "imageCount": 133
+    "imageCount": 137
   },
   {
     "name": "einkaufswagerl",
@@ -1301,6 +1333,14 @@ export const galleries = [
     "title": "Einkaufswagerl",
     "description": "Umgefallene, alleingelassene oder andere Einkaufswagerl in Wien",
     "images": [
+      {
+        "filename": "2 Einkaufswagerl in Simmering.jpg",
+        "latitude": 48.171322,
+        "longitude": 16.411978,
+        "createDate": "2025-08-02T16:19:57.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.171322,16.411978",
+        "alt": null
+      },
       {
         "filename": "2 umgefallene Einkaufswagerl in der Lorystrasse - Braunhubergasse.jpg",
         "latitude": 48.171383,
@@ -1327,7 +1367,7 @@ export const galleries = [
       }
     ],
     "timeframe": "28. Juli 2024 - 2. August 2025",
-    "imageCount": 3
+    "imageCount": 4
   },
   {
     "name": "favoriten",
@@ -1392,6 +1432,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Kaugummi- und Zuckerlautomat Favoritenstrasse - Keplerplatz.jpg",
+        "latitude": 48.181156,
+        "longitude": 16.3755,
+        "createDate": "2025-08-02T10:30:21.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181156,16.3755",
+        "alt": null
+      },
+      {
         "filename": "Mahnmal den Opfern des Faschismus.jpg",
         "latitude": 48.173653,
         "longitude": 16.377711,
@@ -1441,7 +1489,7 @@ export const galleries = [
       }
     ],
     "timeframe": "20. April 2025 - 2. August 2025",
-    "imageCount": 13
+    "imageCount": 14
   },
   {
     "name": "graz",
@@ -4222,6 +4270,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "'Vorsicht Starkstrom' Schild.jpg",
+        "latitude": 48.169353,
+        "longitude": 16.416106,
+        "createDate": "2025-08-02T11:31:53.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169353,16.416106",
+        "alt": null
+      },
+      {
         "filename": "'Westbahnpark Jetzt' Sticker.jpg",
         "latitude": 48.194,
         "longitude": 16.326,
@@ -4398,8 +4454,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "11. April 2024 - 27. Juli 2025",
-    "imageCount": 27
+    "timeframe": "11. April 2024 - 2. August 2025",
+    "imageCount": 28
   },
   {
     "name": "valencia",
