@@ -260,6 +260,38 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "3 Hochhäuser und Fuss- und Fahrradgeländer bei Prater-Erdberg.jpg",
+        "latitude": 48.191436,
+        "longitude": 16.420508,
+        "createDate": "2025-08-03T11:23:21.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.191436,16.420508",
+        "alt": null
+      },
+      {
+        "filename": "3 Hochhäuser und die Autobahn bei Prater-Erdberg.jpg",
+        "latitude": 48.191222,
+        "longitude": 16.420647,
+        "createDate": "2025-08-03T11:24:31.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.191222,16.420647",
+        "alt": null
+      },
+      {
+        "filename": "3 Hochhäuser und ein Fussgängerweg in Erdberg.jpg",
+        "latitude": 48.190628,
+        "longitude": 16.419808,
+        "createDate": "2025-08-03T11:25:44.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.190628,16.419808",
+        "alt": null
+      },
+      {
+        "filename": "3 Hochhäuser und eine Fahrradauffahrt in Erdberg.jpg",
+        "latitude": 48.188961,
+        "longitude": 16.417464,
+        "createDate": "2025-08-03T11:29:14.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.188961,16.417464",
+        "alt": null
+      },
+      {
         "filename": "3 Müllcontainer, eine Mauer und Himmel in der Lorystrasse.jpg",
         "latitude": 48.169175,
         "longitude": 16.416547,
@@ -852,6 +884,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Kuppel vom Gasomter 1.jpg",
+        "latitude": 48.185208,
+        "longitude": 16.417856,
+        "createDate": "2025-08-03T11:49:39.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185208,16.417856",
+        "alt": null
+      },
+      {
         "filename": "Laterne auf Betonplatz Brigittenau.jpg",
         "latitude": 48.231597,
         "longitude": 16.390483,
@@ -921,6 +961,14 @@ export const galleries = [
         "longitude": 16.336906,
         "createDate": "2025-05-03T11:39:26.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201675,16.336906",
+        "alt": null
+      },
+      {
+        "filename": "Notausgang Gasometer 1 - 1. Stock.jpg",
+        "latitude": 48.185208,
+        "longitude": 16.417864,
+        "createDate": "2025-08-03T11:47:55.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185208,16.417864",
         "alt": null
       },
       {
@@ -1324,8 +1372,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "7. Juni 2024 - 2. August 2025",
-    "imageCount": 137
+    "timeframe": "7. Juni 2024 - 3. August 2025",
+    "imageCount": 143
   },
   {
     "name": "einkaufswagerl",
@@ -1334,19 +1382,19 @@ export const galleries = [
     "description": "Umgefallene, alleingelassene oder andere Einkaufswagerl in Wien",
     "images": [
       {
-        "filename": "2 Einkaufswagerl in Simmering.jpg",
-        "latitude": 48.171322,
-        "longitude": 16.411978,
-        "createDate": "2025-08-02T16:19:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.171322,16.411978",
-        "alt": null
-      },
-      {
         "filename": "2 umgefallene Einkaufswagerl in der Lorystrasse - Braunhubergasse.jpg",
         "latitude": 48.171383,
         "longitude": 16.414478,
         "createDate": "2025-06-30T14:57:37.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.171383,16.414478",
+        "alt": null
+      },
+      {
+        "filename": "3 Einkaufswagerl in Simmering.jpg",
+        "latitude": 48.171322,
+        "longitude": 16.411978,
+        "createDate": "2025-08-02T16:19:57.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.171322,16.411978",
         "alt": null
       },
       {
@@ -3022,6 +3070,14 @@ export const galleries = [
         "alt": null
       },
       {
+        "filename": "Rolltreppe U-Bahn Station Enkplatz.jpg",
+        "latitude": 48.176975,
+        "longitude": 16.415219,
+        "createDate": "2025-08-03T11:57:58.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176975,16.415219",
+        "alt": null
+      },
+      {
         "filename": "S- und U-Bahn Station Simmering Wien.jpg",
         "latitude": 48.170203,
         "longitude": 16.42005,
@@ -3083,6 +3139,14 @@ export const galleries = [
         "longitude": 16.420436,
         "createDate": "2025-05-24T16:34:29.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1702,16.420436",
+        "alt": null
+      },
+      {
+        "filename": "U-Bahn Sonderzug vor 3 Hochhäuser in Erdberg.jpg",
+        "latitude": 48.189086,
+        "longitude": 16.417819,
+        "createDate": "2025-08-03T11:28:31.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.189086,16.417819",
         "alt": null
       },
       {
@@ -3190,8 +3254,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "11. April 2024 - 2. August 2025",
-    "imageCount": 54
+    "timeframe": "11. April 2024 - 3. August 2025",
+    "imageCount": 56
   },
   {
     "name": "ostsee",
@@ -3922,6 +3986,120 @@ export const galleries = [
     "imageCount": 61
   },
   {
+    "name": "prater",
+    "slug": "prater",
+    "title": "Prater",
+    "description": "",
+    "images": [
+      {
+        "filename": "'Donau Business Center' Praterkai.jpg",
+        "latitude": 48.202706,
+        "longitude": 16.435603,
+        "createDate": "2025-08-03T10:47:09.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202706,16.435603",
+        "alt": null
+      },
+      {
+        "filename": "'Stadtwanderweg 9' Schild in der Hauptallee.jpg",
+        "latitude": 48.197228,
+        "longitude": 16.430431,
+        "createDate": "2025-08-03T11:04:59.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.197228,16.430431",
+        "alt": null
+      },
+      {
+        "filename": "'Volkswohnhaus' Schriftzug Gemeinwohnbau-Fassade.jpg",
+        "latitude": 48.200969,
+        "longitude": 16.437844,
+        "createDate": "2025-08-03T10:53:25.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.200969,16.437844",
+        "alt": null
+      },
+      {
+        "filename": "Beschmierte Betonwand mit Baum davor im Prater.jpg",
+        "latitude": 48.193561,
+        "longitude": 16.419475,
+        "createDate": "2025-08-03T11:21:18.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.193561,16.419475",
+        "alt": null
+      },
+      {
+        "filename": "Blick auf Bäume zwischen Autobahnbrücke und Schotterweg.jpg",
+        "latitude": 48.198228,
+        "longitude": 16.424553,
+        "createDate": "2025-08-03T11:12:11.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198228,16.424553",
+        "alt": null
+      },
+      {
+        "filename": "Blick über das Obere Heustadlwasser .jpg",
+        "latitude": 48.198094,
+        "longitude": 16.423783,
+        "createDate": "2025-08-03T11:13:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198094,16.423783",
+        "alt": null
+      },
+      {
+        "filename": "Ein leeres Fussballfeld mit einem Tor und einer Laufbahn im Prater.jpg",
+        "latitude": 48.191547,
+        "longitude": 16.420361,
+        "createDate": "2025-08-03T11:23:34.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.191547,16.420361",
+        "alt": null
+      },
+      {
+        "filename": "Eine Bank vor einem Gehweg und Spielplatz.jpg",
+        "latitude": 48.200825,
+        "longitude": 16.437839,
+        "createDate": "2025-08-03T10:53:38.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.200825,16.437839",
+        "alt": null
+      },
+      {
+        "filename": "Stiege auf Gehweg und Wiese.jpg",
+        "latitude": 48.201942,
+        "longitude": 16.436128,
+        "createDate": "2025-08-03T10:51:38.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201942,16.436128",
+        "alt": null
+      },
+      {
+        "filename": "Strommast beim einem Kleingartenverein.jpg",
+        "latitude": 48.199567,
+        "longitude": 16.437506,
+        "createDate": "2025-08-03T10:56:04.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199567,16.437506",
+        "alt": null
+      },
+      {
+        "filename": "Unteres Heustadlwasser Baäume und Refelxionen im Wasser.jpg",
+        "latitude": 48.19925,
+        "longitude": 16.434586,
+        "createDate": "2025-08-03T10:58:49.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.19925,16.434586",
+        "alt": null
+      },
+      {
+        "filename": "Weg mit Bäumen und blauem Himmel.jpg",
+        "latitude": 48.194358,
+        "longitude": 16.418822,
+        "createDate": "2025-08-03T11:19:13.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194358,16.418822",
+        "alt": null
+      },
+      {
+        "filename": "Zwei Bänke & ein Aschenbecher vor einem Bürohaus am Praterkai.jpg",
+        "latitude": 48.203106,
+        "longitude": 16.434919,
+        "createDate": "2025-08-03T10:48:00.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203106,16.434919",
+        "alt": null
+      }
+    ],
+    "timeframe": "3. August 2025",
+    "imageCount": 13
+  },
+  {
     "name": "pride",
     "slug": "pride",
     "title": "Pride Parade",
@@ -4230,6 +4408,14 @@ export const galleries = [
     "description": "Buchstaben, Kunst & Rechtschreibfehler.",
     "images": [
       {
+        "filename": "'Low' & 'Nr' Graffitti und Wiese davor.jpg",
+        "latitude": 48.195586,
+        "longitude": 16.420492,
+        "createDate": "2025-08-03T11:17:20.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.195586,16.420492",
+        "alt": null
+      },
+      {
         "filename": "'Mama' Graffitti in Simmering.jpg",
         "latitude": 48.176483,
         "longitude": 16.424428,
@@ -4243,6 +4429,14 @@ export const galleries = [
         "longitude": 16.367647,
         "createDate": "2025-07-27T09:31:49.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203983,16.367647",
+        "alt": null
+      },
+      {
+        "filename": "'Normal' Graffitti auf Betonstempen.jpg",
+        "latitude": 48.198944,
+        "longitude": 16.426036,
+        "createDate": "2025-08-03T11:10:08.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198944,16.426036",
         "alt": null
       },
       {
@@ -4307,6 +4501,14 @@ export const galleries = [
         "longitude": 16.367383,
         "createDate": "2025-07-27T10:03:35.000Z",
         "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203919,16.367383",
+        "alt": null
+      },
+      {
+        "filename": "Gelber Postkasten beim Gasometer.jpg",
+        "latitude": 48.185264,
+        "longitude": 16.417744,
+        "createDate": "2025-08-03T11:51:13.000Z",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185264,16.417744",
         "alt": null
       },
       {
@@ -4454,8 +4656,8 @@ export const galleries = [
         "alt": null
       }
     ],
-    "timeframe": "11. April 2024 - 2. August 2025",
-    "imageCount": 28
+    "timeframe": "11. April 2024 - 3. August 2025",
+    "imageCount": 31
   },
   {
     "name": "valencia",

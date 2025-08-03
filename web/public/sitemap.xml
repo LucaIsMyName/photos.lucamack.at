@@ -181,6 +181,26 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/3-hochhauser-und-fuss-und-fahrradgelander-bei-prater-erdberg</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/3-hochhauser-und-die-autobahn-bei-prater-erdberg</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/3-hochhauser-und-ein-fussgangerweg-in-erdberg</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/3-hochhauser-und-eine-fahrradauffahrt-in-erdberg</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/3-mullcontainer-eine-mauer-und-himmel-in-der-lorystrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -551,6 +571,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/kuppel-vom-gasomter-1</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/laterne-auf-betonplatz-brigittenau</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -592,6 +617,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/neubaugurtel-und-bim-station-bei-der-burggasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/notausgang-gasometer-1-1-stock</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -851,12 +881,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/2-einkaufswagerl-in-simmering</loc>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/2-umgefallene-einkaufswagerl-in-der-lorystrasse-braunhubergasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/2-umgefallene-einkaufswagerl-in-der-lorystrasse-braunhubergasse</loc>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/3-einkaufswagerl-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1896,6 +1926,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/rolltreppe-u-bahn-station-enkplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/s-und-u-bahn-station-simmering-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1932,6 +1967,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/trafik-station-u-bahn-station-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/u-bahn-sonderzug-vor-3-hochhauser-in-erdberg</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2451,6 +2491,76 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/prater</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/donau-business-center-praterkai</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/stadtwanderweg-9-schild-in-der-hauptallee</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/volkswohnhaus-schriftzug-gemeinwohnbau-fassade</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/beschmierte-betonwand-mit-baum-davor-im-prater</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/blick-auf-baume-zwischen-autobahnbrucke-und-schotterweg</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/blick-uber-das-obere-heustadlwasser</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/ein-leeres-fussballfeld-mit-einem-tor-und-einer-laufbahn-im-prater</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/eine-bank-vor-einem-gehweg-und-spielplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/stiege-auf-gehweg-und-wiese</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/strommast-beim-einem-kleingartenverein</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/unteres-heustadlwasser-baaume-und-refelxionen-im-wasser</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/weg-mit-baumen-und-blauem-himmel</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/prater/image/zwei-banke-ein-aschenbecher-vor-einem-burohaus-am-praterkai</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/pride</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2641,12 +2751,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/low-nr-graffitti-und-wiese-davor</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/mama-graffitti-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/metropolis-plakat-heidi-horten-collection</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/normal-graffitti-auf-betonstempen</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2687,6 +2807,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/erwin-wurm-skulptur-im-hanuschhof</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/gelber-postkasten-beim-gasometer</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
