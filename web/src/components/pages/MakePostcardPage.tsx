@@ -32,9 +32,9 @@ const MakePostcardPage = () => {
   type TextAlign = "top-left" | "top-right" | "bottom-left" | "bottom-right";
   const [textAlign, setTextAlign] = useState<TextAlign>("bottom-right");
   const [textColor, setTextColor] = useState<"white" | "black">("white");
-  const [fontFamily, setFontFamily] = useState("serif");
+  const [fontFamily, setFontFamily] = useState(`'Geist', sans-serif`);
   const [fontSize, setFontSize] = useState(24);
-  const [textPadding, setTextPadding] = useState(32);
+  const [textPadding, setTextPadding] = useState(24);
   const [loading, setLoading] = useState(false);
   const [isDownloading, setIsDownloading] = useState(false);
 
@@ -107,7 +107,7 @@ const MakePostcardPage = () => {
       return;
     }
     setIsDownloading(true);
-    toJpeg(postcardRef.current, { cacheBust: true, quality: 1, pixelRatio: 4 })
+    toJpeg(postcardRef.current, { cacheBust: true, quality: 1, pixelRatio: 6 })
       .then((dataUrl) => {
         const link = document.createElement("a");
         link.download = `postkarte-${style}Images-${size}-${orientation}Format-${new Date().toISOString().replaceAll(",", "").replaceAll(":", "").replaceAll("-", "")}.jpg`;
@@ -232,11 +232,11 @@ const MakePostcardPage = () => {
                   value={fontFamily}
                   onValueChange={setFontFamily}
                   placeholder="Schriftart wählen">
-                  <SelectItem value="serif">Serif</SelectItem>
-                  <SelectItem value="sans-serif">Sans-serif</SelectItem>
-                  <SelectItem value="monospace">Monospace</SelectItem>
-                  <SelectItem value="Comic Sans MS">Comic Sans</SelectItem>
-                  <SelectItem value="cursive">Cursive</SelectItem>
+                  <SelectItem value={`'Garamond', serif`}>Serif</SelectItem>
+                  <SelectItem value={`'Geist', sans-serif`}>Sans-serif</SelectItem>
+                  <SelectItem value={`'Geist Mono', monospace`}>Monospace</SelectItem>
+                  <SelectItem value={`Comic Sans MS`}>Comic Sans</SelectItem>
+                  <SelectItem value={`cursive`}>Cursive</SelectItem>
                 </StyledSelect>
               </Field>
             </div>

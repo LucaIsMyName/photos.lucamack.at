@@ -457,16 +457,16 @@ const ImagePage = () => {
                     setTimeout(() => document.body.removeChild(el), 1000);
                   }}>
                   <div
-                    className="w-10 md:w-12 h-10 md:h-12"
+                    className="w-10 md:w-12 h-10 md:h-12 border border-neutral-500/20"
                     style={{ backgroundColor: color.hex }}
                   />
-                  <div className="text-[9px] font-mono absolute inset-0 p-1 opacity-0 group-hover:opacity-100 text-white transition-opacity">{color.hex}</div>
+                  <div className="text-[7px] md:text-[9px] font-mono absolute inset-0 p-1 opacity-0 group-hover:opacity-100 text-white transition-opacity">{color.hex}</div>
                 </div>
               );
             })}
           </div>
           {image.colorData.colorfulness !== undefined && (
-            <p className="text-[11px] mb-4 font-mono">
+            <p className="text-[11px] mb-0 font-mono">
               Farbwert: <span className="">{image.colorData.colorfulness.toFixed(2)}%</span>
             </p>
           )}

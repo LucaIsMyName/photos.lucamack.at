@@ -10,9 +10,12 @@ Lorystrassse 71/56\
 Sofern nicht anders angegeben, stehen alle Fotos auf diesem Blog unter der Lizenz Creative Commons Namensnennung – Nicht kommerziell 4.0 International (CC BY-NC 4.0).
 
 Das bedeutet:
-- Du darfst die Fotos herunterladen, teilen und für private oder nicht-kommerzielle Projekte verwenden. (zB. als private Sammlung, einen Wikipedia Artikel damit befüllen, ...)
-- Bei der Verwendung der Bilder ist das Copyright-Auszeichnung des Autors (zB. "CC BY-NC 4.0 by Luca Mack") zu beachten.
-- Die kommerzielle Nutzung oder der Verkauf meiner Fotos ist nicht erlaubt. Solltest du die Fotos kommerziell nutzen wollen, wende dich bitte an mich via [Mail](mailto:lucamack3@gmail.com).
+
+Du darfst die Fotos herunterladen, teilen und für private oder nicht-kommerzielle Projekte verwenden. (zB. als private Sammlung, einen Wikipedia Artikel damit befüllen, ...)
+
+Bei der Verwendung der Bilder ist das Copyright-Auszeichnung des Autors (zB. "CC BY-NC 4.0 by Luca Mack" oder "&copy; Luca Mack (CC BY-NC 4.0)") zu beachten.
+
+Die kommerzielle Nutzung oder der Verkauf meiner Fotos ist nicht erlaubt. Solltest du die Fotos kommerziell nutzen wollen, wende dich bitte an mich via [Mail](mailto:lucamack3@gmail.com).
 
 [Mehr Infos zur Lizenz](https://creativecommons.org/licenses/by-nc/4.0/deed.de)
 
