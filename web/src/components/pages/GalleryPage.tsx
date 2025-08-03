@@ -10,10 +10,12 @@ import { getImageUrl } from "../../utils/image";
 import CopyButton from "../ui/CopyButton";
 import NotFoundPage from "./NotFoundPage";
 import { parseCreateDate } from "../../utils/date";
+import { useTheme } from "../../contexts/ThemeContext";
 
 const GalleryPage = () => {
+  const { theme } = useTheme();
   const { slug } = useParams<{ slug: string }>();
-  const gallery: GalleryType | undefined = galleries.find((g) => g.slug === slug);
+  const gallery: GalleryType | undefined | any = galleries.find((g) => g.slug === slug);
   const location = useLocation();
 
   const shuffledImages = useMemo(() => {
@@ -47,8 +49,8 @@ const GalleryPage = () => {
 
       // Create enhanced structured data for each image in the gallery
       const structuredData = gallery.images
-        .filter((image) => image.latitude && image.longitude)
-        .map((image) => ({
+        .filter((image: any) => image.latitude && image.longitude)
+        .map((image: any) => ({
           "@context": "https://schema.org",
           "@type": "ImageObject",
           name: image.filename.replaceAll("_", " ").replace(".jpg", "").trim(),
@@ -98,7 +100,7 @@ const GalleryPage = () => {
         <title>Fotoserien nicht gefunden | {CONFIG.meta.title}</title>
         <meta
           name="description"
-          content="Fotoserien nicht gefunden"
+          content="Fotoserie nicht gefunden"
         />
         <NotFoundPage />
       </>
@@ -170,7 +172,7 @@ const GalleryPage = () => {
           ) : null}
           <div className="flex justify-center">
             <CopyButton textToCopy={window.location.href}>
-              <span className="font-mono">Link Kopieren</span>
+              <span className={`font-mono ${theme === "dark" ? "text-white" : "text-black"}`}>Link Kopieren</span>
             </CopyButton>
           </div>
         </div>

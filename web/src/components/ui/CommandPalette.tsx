@@ -41,8 +41,8 @@ export default function CommandPalette({ open, onClose, setMobileMenuOpen }: Com
 
   // Get all images from all galleries
   const allImages = useMemo(() => {
-    return galleries.flatMap((gallery: Gallery) =>
-      gallery.images.map((image: ImageType) => ({
+    return galleries.flatMap((gallery: Gallery | any) =>
+      gallery.images.map((image: ImageType | any) => ({
         ...image,
         gallerySlug: gallery.slug,
         galleryTitle: gallery.title || gallery.name,
@@ -174,7 +174,7 @@ export default function CommandPalette({ open, onClose, setMobileMenuOpen }: Com
             </Command.Group>
             {/* Galleries */}
             <Command.Group heading={<CommandHeading title="Fotoserien" />}>
-              {galleries.map((gallery: Gallery) => (
+              {galleries.map((gallery: Gallery | any) => (
                 <Command.Item
                   key={gallery.slug}
                   value={`/gallery/${gallery.slug} ${gallery.title || gallery.name}`}

@@ -70,7 +70,7 @@ const ListPage = () => {
     const images: (ImageType & { galleryTitle: string; gallerySlug: string; index: number })[] = [];
     galleries.forEach((gallery) => {
       gallery.images?.forEach((image, index) => {
-        images.push({ ...image, galleryTitle: gallery.title, gallerySlug: gallery.slug, index: index + 1 });
+        images.push({ ...image, galleryTitle: gallery.title, gallerySlug: gallery.slug, index: index + 1 } as any);
       });
     });
     return images;
@@ -165,7 +165,7 @@ const ListPage = () => {
     let filtered: (Gallery & { createDate?: any })[] = galleries.map((g) => ({
       ...g,
       createDate: g.images?.[0]?.createDate,
-    }));
+    } as any));
 
     if (searchTerm) {
       const lowerCaseSearchTerm = searchTerm.toLowerCase();
@@ -219,7 +219,7 @@ const ListPage = () => {
     const imageMap: { [key: string]: ImageType | null } = {};
     galleries.forEach((gallery) => {
       if (gallery.images && gallery.images.length > 0) {
-        imageMap[gallery.slug] = gallery.images[Math.floor(Math.random() * gallery.images.length)];
+        imageMap[gallery.slug] = gallery.images[Math.floor(Math.random() * gallery.images.length)] as any;
       } else {
         imageMap[gallery.slug] = null;
       }

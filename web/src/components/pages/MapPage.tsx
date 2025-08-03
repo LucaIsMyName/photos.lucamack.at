@@ -46,7 +46,7 @@ const MapPage = () => {
       if (!hiddenGalleries.has(gallery.slug)) {
         gallery.images?.forEach((image, index) => {
           if (image.latitude && image.longitude) {
-            allImages.push({ image: { ...image, index }, gallery });
+            allImages.push({ image: { ...image, index }, gallery } as any);
           }
         });
       }
@@ -139,7 +139,7 @@ const MapPage = () => {
       if (gallery) {
         const image = gallery.images?.find((img) => slugify(img.filename.replace(/\.[^/.]+$/, "")) === imageSlug);
         if (image && image.latitude && image.longitude) {
-          foundItem = { image, gallery };
+          foundItem = { image: image as any, gallery: gallery as any };
         }
       }
 
@@ -262,7 +262,7 @@ const MapPage = () => {
             const { point_count: pointCount, cluster_id } = point.properties;
             return (
               <Marker
-                key={` cluster-${cluster_id}`}
+                key={`cluster-${cluster_id}`}
                 latitude={latitude}
                 longitude={longitude}>
                 <div

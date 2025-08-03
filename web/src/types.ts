@@ -29,6 +29,14 @@ export interface Image {
   googleMapsUrl?: string | null;
   alt?: string | null;
   index?: number;
+  colorData?: {
+    dominantColors: {
+      rgb: [number, number, number];
+      hex: string;
+      percentage: number;
+    }[];
+    colorfulness: number;
+  };
 }
 
 export interface Gallery {

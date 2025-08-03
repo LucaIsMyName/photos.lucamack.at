@@ -17,7 +17,7 @@ const HomePage = () => {
     if (galleriesWithImages.length > 0) {
       const randomGallery = galleriesWithImages[Math.floor(Math.random() * galleriesWithImages.length)];
       const randomImageObject = randomGallery.images[Math.floor(Math.random() * randomGallery.images.length)];
-      setRandomImage({ gallery: randomGallery, image: randomImageObject });
+      setRandomImage({ gallery: randomGallery as any, image: randomImageObject as any });
     }
   }, []);
 

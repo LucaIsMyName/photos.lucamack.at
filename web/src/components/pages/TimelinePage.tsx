@@ -53,9 +53,9 @@ const TimelinePage = () => {
 
   const allImages = useMemo(() => {
     const images: (ImageType & { galleryTitle: string; gallerySlug: string; index: number })[] = [];
-    galleries.forEach((gallery) => {
-      gallery.images?.forEach((image, index) => {
-        images.push({ ...image, galleryTitle: gallery.title, gallerySlug: gallery.slug, index: index + 1 });
+    galleries.forEach((gallery: any) => {
+      gallery.images?.forEach((image: ImageType | any, index: number) => {
+        images.push({ ...image as any, galleryTitle: gallery.title, gallerySlug: gallery.slug, index: index + 1 });
       });
     });
     return images;

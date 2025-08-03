@@ -16,7 +16,7 @@ interface NavigationProps {
 
 const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobileMenuOpen, mobileMenuOpen }: NavigationProps) => {
   const [isMobileMenuOpen, setIsMobileMenuOpenInternal] = useState(false);
-  
+
   // Use this function to update the mobile menu state
   const setIsMobileMenuOpen = (isOpen: boolean) => {
     setIsMobileMenuOpenInternal(isOpen);
@@ -24,7 +24,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
       externalSetMobileMenuOpen(isOpen);
     }
   };
-  
+
   // Sync with external mobile menu state if provided
   useEffect(() => {
     if (mobileMenuOpen !== undefined) {
@@ -149,7 +149,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
           </div>
           <div className="flex-grow overflow-y-auto pb-4 no-scrollbar">
             <nav>
-              {galleries.map((gallery: Gallery) => (
+              {galleries.map((gallery: Gallery | any) => (
                 <NavLink
                   key={gallery.slug}
                   title={`Fotoserie: ${gallery.title || gallery.name}`}
@@ -221,7 +221,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
           <nav
             ref={navRef}
             className="h-full overflow-y-auto no-scrollbar">
-            {galleries.map((gallery: Gallery) => (
+            {galleries.map((gallery: Gallery | any) => (
               <NavLink
                 title={`Fotoserie: ${gallery.title || gallery.name}`}
                 key={gallery.slug}

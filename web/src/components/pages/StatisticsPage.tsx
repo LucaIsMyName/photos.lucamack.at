@@ -12,8 +12,9 @@ import { CONFIG } from "../../config";
 import { groupImagesByCountry } from "../../utils/geocoding";
 import { slugify } from "../../utils/slugify";
 import { parseCreateDate } from "../../utils/date";
+import type { Image } from "../../types";
 
-type ImageType = (typeof galleries)[0]["images"][0] & { gallery: string; latitude: number; longitude: number };
+type ImageType = Image & { gallery: string; latitude: number; longitude: number };
 type CountryData = { name: string; value: number }[];
 
 const ExtremePhotoCard: React.FC<{ title: string; image?: ImageType }> = ({ title, image }) => {
@@ -130,6 +131,11 @@ const StatisticsPage = () => {
     averageCoords: { latitude: number; longitude: number };
     dayWithMostPhotos: { date: Date; count: number } | null;
     dailyActivityData: { date: string; Fotos: number }[];
+    // Color analysis data
+    colorPalette: { color: string; count: number }[];
+    colorfulPhotos: ((typeof allImages)[0] & { colorfulness: number })[];
+    monochromaticPhotos: ((typeof allImages)[0] & { colorfulness: number })[];
+    seasonalColors: { season: string; colors: string[] }[];
   }>(() => {
     const galleryCounts: { [key: string]: number } = {};
     galleries.forEach((gallery) => {
@@ -156,23 +162,41 @@ const StatisticsPage = () => {
     } = {};
 
     if (allImagesWithGps.length > 0) {
-      extremePhotos.north = allImagesWithGps[0];
-      extremePhotos.south = allImagesWithGps[0];
-      extremePhotos.east = allImagesWithGps[0];
-      extremePhotos.west = allImagesWithGps[0];
+      // Fix the rgb type to match the expected [number, number, number] tuple
+      const fixedImage = { ...allImagesWithGps[0] };
+      if (fixedImage.colorData?.dominantColors) {
+        fixedImage.colorData.dominantColors = fixedImage.colorData.dominantColors.map((color) => ({
+          ...color,
+          rgb: color.rgb.slice(0, 3) as [number, number, number],
+        }));
+      }
+
+      extremePhotos.north = fixedImage as any;
+      extremePhotos.south = fixedImage as any;
+      extremePhotos.east = fixedImage as any;
+      extremePhotos.west = fixedImage as any;
 
       for (const image of allImagesWithGps) {
+        // Create a fixed copy of the image with proper rgb type
+        const fixedImage = { ...image };
+        if (fixedImage.colorData?.dominantColors) {
+          fixedImage.colorData.dominantColors = fixedImage.colorData.dominantColors.map((color) => ({
+            ...color,
+            rgb: color.rgb.slice(0, 3) as [number, number, number],
+          }));
+        }
+
         if (image.latitude > extremePhotos.north!.latitude) {
-          extremePhotos.north = image;
+          extremePhotos.north = fixedImage as any;
         }
         if (image.latitude < extremePhotos.south!.latitude) {
-          extremePhotos.south = image;
+          extremePhotos.south = fixedImage as any;
         }
         if (image.longitude > extremePhotos.east!.longitude) {
-          extremePhotos.east = image;
+          extremePhotos.east = fixedImage as any;
         }
         if (image.longitude < extremePhotos.west!.longitude) {
-          extremePhotos.west = image;
+          extremePhotos.west = fixedImage as any;
         }
       }
     }
@@ -295,6 +319,88 @@ const StatisticsPage = () => {
       }
     }
 
+    // Color palette across all images
+    const colorMap: Record<string, number> = {};
+    allImages.forEach((image) => {
+      // Use type assertion to handle colorData property
+      const imageWithColor = image as ImageType & { colorData?: { dominantColors: { hex: string; percentage: number }[]; colorfulness: number } };
+      if (imageWithColor.colorData?.dominantColors) {
+        imageWithColor.colorData.dominantColors.forEach((color: { hex: string; percentage: number }) => {
+          colorMap[color.hex] = (colorMap[color.hex] || 0) + color.percentage;
+        });
+      }
+    });
+
+    const colorPalette = Object.entries(colorMap)
+      .map(([color, count]) => ({ color, count }))
+      .sort((a, b) => b.count - a.count)
+      .slice(0, 20); // Top 20 colors
+
+    // Most colorful and monochromatic photos
+    const imagesWithColorfulness = allImages
+      .filter((img) => {
+        const imgWithColor = img as ImageType & { colorData?: { colorfulness: number } };
+        return imgWithColor.colorData?.colorfulness !== undefined;
+      })
+      .map((img) => {
+        const imgWithColor = img as ImageType & { colorData?: { colorfulness: number } };
+        return { ...img, colorfulness: imgWithColor.colorData!.colorfulness };
+      });
+
+    const colorfulPhotos = [...imagesWithColorfulness].sort((a, b) => b.colorfulness - a.colorfulness).slice(0, 5);
+
+    const monochromaticPhotos = [...imagesWithColorfulness].sort((a, b) => a.colorfulness - b.colorfulness).slice(0, 5);
+
+    // Seasonal color trends
+    const seasonalColors: { season: string; colors: string[] }[] = [
+      { season: "Frühling", colors: [] },
+      { season: "Sommer", colors: [] },
+      { season: "Herbst", colors: [] },
+      { season: "Winter", colors: [] },
+    ];
+
+    // Group colors by season
+    allImages.forEach((image) => {
+      const imageWithColor = image as ImageType & { colorData?: { dominantColors?: { hex: string }[] } };
+      if (!image.createDate || !imageWithColor.colorData?.dominantColors?.length) return;
+
+      const date = parseCreateDate(image.createDate);
+      if (!date) return;
+
+      const month = date.getMonth() + 1;
+      let seasonIndex = 0;
+
+      if (month >= 3 && month <= 5) {
+        seasonIndex = 0; // Spring
+      } else if (month >= 6 && month <= 8) {
+        seasonIndex = 1; // Summer
+      } else if (month >= 9 && month <= 11) {
+        seasonIndex = 2; // Fall
+      } else {
+        seasonIndex = 3; // Winter
+      }
+
+      // Add dominant color to season
+      const dominantColor = imageWithColor.colorData.dominantColors[0]?.hex;
+      if (dominantColor) {
+        seasonalColors[seasonIndex].colors.push(dominantColor);
+      }
+    });
+
+    // Calculate most common colors per season
+    seasonalColors.forEach((season) => {
+      const colorCounts: Record<string, number> = {};
+      season.colors.forEach((color) => {
+        colorCounts[color] = (colorCounts[color] || 0) + 1;
+      });
+
+      // Keep only top 5 colors
+      season.colors = Object.entries(colorCounts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 5)
+        .map(([color]) => color);
+    });
+
     return {
       weekdayData,
       hourData,
@@ -305,7 +411,11 @@ const StatisticsPage = () => {
       averageCoords,
       dayWithMostPhotos,
       dailyActivityData,
-    };
+      colorPalette,
+      colorfulPhotos,
+      monochromaticPhotos,
+      seasonalColors,
+    } as any;
   }, [allImages, allImagesWithGps]);
 
   return (
@@ -345,7 +455,9 @@ const StatisticsPage = () => {
 
       <div className="mt-8">
         <h2 className="text-lg ">Geografischer Mittelpunkt aller Fotos</h2>
-        <p className="text-[11px] font-mono mb-4">{stats.averageCoords.latitude.toFixed(6)}, {stats.averageCoords.longitude.toFixed(6)}</p>
+        <p className="text-[11px] font-mono mb-4">
+          {stats.averageCoords.latitude.toFixed(6)}, {stats.averageCoords.longitude.toFixed(6)}
+        </p>
         <div
           className="border"
           style={{ height: "400px" }}>
@@ -368,7 +480,7 @@ const StatisticsPage = () => {
                 key={`photo-marker-${index}`}
                 longitude={image.longitude}
                 latitude={image.latitude}>
-                <div className={cn(`w-1 h-1 rounded-full`, theme === "dark" ? "bg-red-300" : "bg-red-600")}></div>
+                <div className={cn(`w-3 h-3 blur-sm opacity-[0.1] rounded-full`, theme === "dark" ? "bg-red-300" : "bg-red-600")}></div>
               </Marker>
             ))}
             <Marker
@@ -475,6 +587,85 @@ const StatisticsPage = () => {
         </ResponsiveContainer>
       </div>
 
+      {/* Color Palette Section */}
+      <div className={`mt-8 pt-8 ${CONFIG.theme.border.top}`}>
+        <h2 className="text-xl mb-4">Farbpalette aller Serien</h2>
+        <div className="flex flex-wrap gap-2">
+          {stats.colorPalette.map((item, index) => (
+            <div
+              key={index}
+              className="w-8 h-8 relative border"
+              style={{ backgroundColor: item.color }}
+              title={`${item.color} (${(item.count * 100).toFixed(1)}%)`}
+            />
+          ))}
+        </div>
+      </div>
+
+      {/* Seasonal Color Trends */}
+      <div className={`mt-8 pt-8 ${CONFIG.theme.border.top}`}>
+        <h2 className="text-xl mb-4">Saisonale Farbtrends</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+          {stats.seasonalColors.map((season, index) => (
+            <div
+              key={index}
+              className="">
+              <h3 className="text-lg mb-2">{season.season}</h3>
+              <div className="flex gap-2">
+                {season.colors.map((color, colorIndex) => (
+                  <div
+                    key={colorIndex}
+                    className="w-4 min-w-4 h-4 min-h-4 border"
+                    style={{ backgroundColor: color }}
+                    title={color}
+                  />
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* Most Colorful Photos */}
+      <div className={`my-8 py-8 ${CONFIG.theme.border.y}`}>
+        <h2 className="text-xl mb-4">Farbenfrohste Fotos</h2>
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+          {stats.colorfulPhotos.map((image, index) => (
+            <Link
+              key={index}
+              to={`/gallery/${image.gallery}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
+              className="block">
+              <img
+                src={getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 380)}
+                alt={image.alt || image.filename}
+                className="w-full h-auto object-cover aspect-square"
+              />
+             <div className="text-[11px] mt-1 font-mono">Farbwert: {image.colorfulness.toFixed(1)}%</div>
+            </Link>
+          ))}
+        </div>
+      </div>
+
+      {/* Most Monochromatic Photos */}
+      <div className={`mb-8 pb-8 ${CONFIG.theme.border.bottom}`}>
+        <h2 className="text-xl mb-4">Monochromatischste Fotos</h2>
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+          {stats.monochromaticPhotos.map((image, index) => (
+            <Link
+              key={index}
+              to={`/gallery/${image.gallery}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
+              className="block">
+              <img
+                src={getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 380)}
+                alt={image.alt || image.filename}
+                className="w-full h-auto object-cover aspect-square"
+              />
+              <div className="text-[11px] mt-1 font-mono">Farbwert: {image.colorfulness.toFixed(1)}%</div>
+            </Link>
+          ))}
+        </div>
+      </div>
+
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
         <div>
           <h2 className="text-xl mb-4">Fotos pro Wochentag</h2>
@@ -528,9 +719,10 @@ const StatisticsPage = () => {
                 stroke={theme === "dark" ? "#fff" : "#000"}
               />
               <XAxis
-                strokeWidth={1}
                 dataKey="name"
                 stroke={theme === "dark" ? "#fff" : "#000"}
+                strokeWidth={1}
+                interval={1}
               />
               <YAxis
                 strokeWidth={1}

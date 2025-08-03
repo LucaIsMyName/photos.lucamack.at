@@ -25,25 +25,27 @@ const CopyButton = ({ textToCopy, className, children, ariaLabel, iconToRight = 
     }
   };
 
-  const iconBaseClasses = cn("min-w-[16px] w-[16px] h-[16px] min-h-[16px]", theme === "dark" ? "text-red-300" : "text-red-600");
+  const iconBaseClasses = cn("min-w-[16px] w-[16px] h-[16px] min-h-[16px]");
 
   return (
     <button
       onClick={handleCopy}
-      className={cn(`text-xs p-1 bg-transparent flex ${iconToRight ? `flex-row-reverse` : ""} items-center gap-2 ${isCopied ? "text-red-300" : "text-red-600"}`, className)}
+      className={cn(`text-xs p-1 bg-transparent flex ${iconToRight ? `flex-row-reverse` : ""} items-center gap-2`, className)}
       aria-label={ariaLabel || "Kopieren"}>
-      {isCopied ? (
-        <Check
-          size={16}
-          strokeWidth={2}
-          className={iconBaseClasses}
-        />
-      ) : (
-        <Copy
-          className={iconBaseClasses}
-          size={16}
-        />
-      )}
+      <div className={cn(theme === "dark" ? "text-red-300" : "text-red-600")}>
+        {isCopied ? (
+          <Check
+            size={16}
+            strokeWidth={2}
+            className={iconBaseClasses}
+          />
+        ) : (
+          <Copy
+            className={iconBaseClasses}
+            size={16}
+          />
+        )}
+      </div>
       <span>{children}</span>
     </button>
   );

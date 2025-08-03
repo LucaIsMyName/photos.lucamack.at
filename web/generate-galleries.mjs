@@ -154,7 +154,19 @@ async function generateGalleries() {
         }
 
         const googleMapsUrl = latitude && longitude ? `https://www.google.com/maps/search/?api=1&query=${latitude},${longitude}` : null;
-        return { filename, latitude, longitude, createDate, googleMapsUrl, alt };
+        
+        // Extract color data
+        let colorData = null;
+        try {
+          const processPath = path.join(publicGalleryDir, filename.replace(/ /g, '_'));
+          if (fs.existsSync(processPath)) {
+            colorData = await extractColors(processPath);
+          }
+        } catch (err) {
+          console.error('Error extracting colors for', filename, err);
+        }
+        
+        return { filename, latitude, longitude, createDate, googleMapsUrl, alt, colorData };
       })
     );
 
@@ -263,6 +275,150 @@ async function generateGalleries() {
   fs.writeFileSync(imagesJSONPath, JSON.stringify(allImagesForJSON, null, 2), 'utf-8');
   console.log(`Successfully generated images.json with ${allImagesForJSON.length} images.`);
   await exiftool.end();
+}
+
+/**
+ * Extract dominant colors and calculate colorfulness from an image
+ * @param {string} imagePath - Path to the image file
+ * @param {number} numColors - Number of dominant colors to extract
+ * @returns {Object} Object containing dominant colors and colorfulness
+ */
+async function extractColors(imagePath, numColors = 5) {
+  try {
+    // Load image and resize for faster processing
+    const { data, info } = await sharp(imagePath)
+      .resize(100, 100, { fit: 'inside' })
+      .raw()
+      .toBuffer({ resolveWithObject: true });
+    
+    // Extract pixels
+    const pixels = [];
+    for (let i = 0; i < data.length; i += info.channels) {
+      pixels.push({
+        r: data[i],
+        g: data[i + 1],
+        b: data[i + 2],
+      });
+    }
+    
+    // Simple color quantization
+    const colorCounts = {};
+    pixels.forEach(pixel => {
+      // Reduce precision to group similar colors (10 is the bucket size)
+      const key = `${Math.floor(pixel.r/10)},${Math.floor(pixel.g/10)},${Math.floor(pixel.b/10)}`;
+      colorCounts[key] = (colorCounts[key] || 0) + 1;
+    });
+    
+    // Convert to RGB colors with counts
+    const initialColors = Object.entries(colorCounts)
+      .map(([key, count]) => {
+        const [r, g, b] = key.split(',').map(v => parseInt(v) * 10);
+        return { 
+          rgb: [r, g, b], 
+          hex: `#${r.toString(16).padStart(2, '0')}${g.toString(16).padStart(2, '0')}${b.toString(16).padStart(2, '0')}`,
+          count,
+          percentage: count / pixels.length
+        };
+      })
+      .sort((a, b) => b.count - a.count);
+    
+    // Group similar colors using a more sophisticated approach
+    // Function to calculate color distance (Euclidean distance in RGB space)
+    const colorDistance = (color1, color2) => {
+      return Math.sqrt(
+        Math.pow(color1.rgb[0] - color2.rgb[0], 2) +
+        Math.pow(color1.rgb[1] - color2.rgb[1], 2) +
+        Math.pow(color1.rgb[2] - color2.rgb[2], 2)
+      );
+    };
+    
+    // Group similar colors
+    const similarityThreshold = 60; // Adjust this threshold as needed
+    const colorGroups = [];
+    
+    // Process each color
+    initialColors.forEach(color => {
+      // Check if this color is similar to any existing group
+      const similarGroupIndex = colorGroups.findIndex(group => {
+        // Compare with colors in the group
+        return group.some(groupColor => colorDistance(color, groupColor) < similarityThreshold);
+      });
+      
+      if (similarGroupIndex >= 0) {
+        // Add to existing group
+        colorGroups[similarGroupIndex].push(color);
+      } else {
+        // Create new group
+        colorGroups.push([color]);
+      }
+    });
+    
+    // Select representative color from each group (the one with highest count)
+    const representativeColors = colorGroups.map(group => 
+      group.reduce((prev, current) => (prev.count > current.count) ? prev : current)
+    );
+    
+    // Sort representative colors by count and take top colors
+    const dominantColors = representativeColors
+      .sort((a, b) => b.count - a.count)
+      .slice(0, numColors)
+      .map(color => ({
+        rgb: color.rgb,
+        hex: color.hex,
+        percentage: color.percentage
+      }));
+    
+    // Calculate colorfulness using standard deviation
+    const colorfulness = calculateColorfulness(pixels);
+    
+    return { 
+      dominantColors,
+      colorfulness
+    };
+  } catch (error) {
+    console.error(`Error extracting colors from ${imagePath}:`, error);
+    return { dominantColors: [], colorfulness: 0 };
+  }
+}
+
+/**
+ * Calculate image colorfulness using standard deviation across color channels
+ * @param {Array} pixels - Array of pixel objects with r,g,b values
+ * @returns {number} Colorfulness score
+ */
+function calculateColorfulness(pixels) {
+  // Calculate standard deviation across color channels
+  const rValues = pixels.map(p => p.r);
+  const gValues = pixels.map(p => p.g);
+  const bValues = pixels.map(p => p.b);
+  
+  const rStdDev = standardDeviation(rValues);
+  const gStdDev = standardDeviation(gValues);
+  const bStdDev = standardDeviation(bValues);
+  
+  // Calculate color differences (higher values indicate more colorful images)
+  const rgDiff = pixels.map(p => Math.abs(p.r - p.g));
+  const rbDiff = pixels.map(p => Math.abs(p.r - p.b));
+  const gbDiff = pixels.map(p => Math.abs(p.g - p.b));
+  
+  const rgStdDev = standardDeviation(rgDiff);
+  const rbStdDev = standardDeviation(rbDiff);
+  const gbStdDev = standardDeviation(gbDiff);
+  
+  // Combine metrics (higher value = more colorful)
+  return (rStdDev + gStdDev + bStdDev + rgStdDev + rbStdDev + gbStdDev) / 6;
+}
+
+/**
+ * Calculate standard deviation of an array of numbers
+ * @param {Array} values - Array of numbers
+ * @returns {number} Standard deviation
+ */
+function standardDeviation(values) {
+  const avg = values.reduce((sum, val) => sum + val, 0) / values.length;
+  const squareDiffs = values.map(value => Math.pow(value - avg, 2));
+  const avgSquareDiff = squareDiffs.reduce((sum, val) => sum + val, 0) / squareDiffs.length;
+  return Math.sqrt(avgSquareDiff);
 }
 
 generateGalleries().catch(error => {

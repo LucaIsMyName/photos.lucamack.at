@@ -20,8 +20,6 @@ const ImagePage = () => {
   const { theme } = useTheme();
   const foundImage = useImage();
 
-
-
   useEffect(() => {
     if (foundImage) {
       const { image, gallery } = foundImage;
@@ -37,16 +35,16 @@ const ImagePage = () => {
         contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), "original")}`,
         width: "1920", // Default width - could be dynamic if available
         height: "1080", // Default height - could be dynamic if available
-        datePublished: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split('T')[0] || new Date().toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
-        dateCreated: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split('T')[0] || new Date().toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
+        datePublished: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split("T")[0] || new Date().toISOString().split("T")[0] : new Date().toISOString().split("T")[0],
+        dateCreated: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split("T")[0] || new Date().toISOString().split("T")[0] : new Date().toISOString().split("T")[0],
         author: {
           "@type": "Person",
           name: CONFIG.author,
-          url: CONFIG.url
+          url: CONFIG.url,
         },
         copyrightHolder: {
           "@type": "Person",
-          name: CONFIG.author
+          name: CONFIG.author,
         },
         license: "https://creativecommons.org/licenses/by-nc/4.0/",
         ...(image.latitude &&
@@ -74,7 +72,7 @@ const ImagePage = () => {
   if (!foundImage) {
     return (
       <>
-        <NotFoundPage title="Foto nicht gefunden" /> 
+        <NotFoundPage title="Foto nicht gefunden" />
       </>
     );
   }
@@ -85,7 +83,7 @@ const ImagePage = () => {
     if (!foundImage) return [];
 
     const { image: currentImage, gallery: currentGallery } = foundImage;
-    
+
     // Helper function to get distance between two points
     const getDistance = (lat1: number, lon1: number, lat2: number, lon2: number) => {
       const R = 6371; // Radius of the earth in km
@@ -95,19 +93,17 @@ const ImagePage = () => {
       const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
       return R * c; // Distance in km
     };
-    
+
     // Track selected images to avoid duplicates
     const selectedImageFilenames = new Set<string>();
     selectedImageFilenames.add(currentImage.filename);
-    
+
     // Result array to store our 6 images
     const result: RelatedImage[] = [];
-    
+
     // Create a pool of all available images (excluding current)
-    const allImagesPool = galleries
-      .flatMap((g) => g.images.map((img) => ({ ...img, gallerySlug: g.slug })))
-      .filter((img) => img.filename !== currentImage.filename);
-    
+    const allImagesPool = galleries.flatMap((g) => g.images.map((img) => ({ ...img, gallerySlug: g.slug }))).filter((img) => img.filename !== currentImage.filename);
+
     // 1. Get 2 nearest images by distance (any gallery)
     if (currentImage.latitude && currentImage.longitude) {
       const nearbyImages = allImagesPool
@@ -119,23 +115,33 @@ const ImagePage = () => {
         }))
         .sort((a, b) => a.distance - b.distance)
         .slice(0, 2);
-      
+
       // Add to results and track selected images
-      nearbyImages.forEach(img => {
-        result.push(img);
+      nearbyImages.forEach((img) => {
+        // Fix the rgb type to match the expected [number, number, number] tuple
+        if (img.colorData?.dominantColors) {
+          img.colorData.dominantColors = img.colorData.dominantColors.map((color) => ({
+            ...color,
+            rgb: color.rgb.slice(0, 3) as [number, number, number],
+          }));
+        }
+        result.push(img as any);
         selectedImageFilenames.add(img.filename);
       });
     }
-    
+
     // 2. Get 2 images from the same gallery (any distance)
     const sameGalleryImages = currentGallery.images
-      .filter(img => !selectedImageFilenames.has(img.filename))
-      .map(img => ({
-        ...img,
-        gallerySlug: currentGallery.slug,
-        isSameGalleryPick: true
-      } as RelatedImage));
-    
+      .filter((img: any) => !selectedImageFilenames.has(img.filename))
+      .map(
+        (img: any) =>
+          ({
+            ...img,
+            gallerySlug: currentGallery.slug,
+            isSameGalleryPick: true,
+          } as RelatedImage)
+      );
+
     // If we have more than 2 images from the same gallery, select 2 random ones
     if (sameGalleryImages.length > 2) {
       // Shuffle the array
@@ -144,18 +150,24 @@ const ImagePage = () => {
         [sameGalleryImages[i], sameGalleryImages[j]] = [sameGalleryImages[j], sameGalleryImages[i]];
       }
     }
-    
+
     // Take up to 2 images from the same gallery
     const selectedSameGallery = sameGalleryImages.slice(0, 2);
-    selectedSameGallery.forEach(img => {
+    selectedSameGallery.forEach((img: any) => {
+      // Fix the rgb type to match the expected [number, number, number] tuple
+      if (img.colorData?.dominantColors) {
+        img.colorData.dominantColors = img.colorData.dominantColors.map((color: any) => ({
+          ...color,
+          rgb: color.rgb.slice(0, 3) as [number, number, number],
+        }));
+      }
       result.push(img);
       selectedImageFilenames.add(img.filename);
     });
-    
+
     // 3. Get 2 random images from any gallery (excluding already selected)
-    const randomPool = allImagesPool
-      .filter((img) => !selectedImageFilenames.has(img.filename));
-    
+    const randomPool = allImagesPool.filter((img) => !selectedImageFilenames.has(img.filename));
+
     // If we have random images available
     if (randomPool.length > 0) {
       // Shuffle the array
@@ -163,57 +175,67 @@ const ImagePage = () => {
         const j = Math.floor(Math.random() * (i + 1));
         [randomPool[i], randomPool[j]] = [randomPool[j], randomPool[i]];
       }
-      
+
       // Take up to 2 random images
-      const randomImages = randomPool.slice(0, 2).map(img => ({
-        ...img,
-        isRandomPick: true
-      } as RelatedImage));
-      
-      randomImages.forEach(img => {
+      const randomImages = randomPool.slice(0, 2).map(
+        (img) =>
+          ({
+            ...img,
+            isRandomPick: true,
+          } as RelatedImage)
+      );
+
+      randomImages.forEach((img) => {
+        // Fix the rgb type to match the expected [number, number, number] tuple
+        if (img.colorData?.dominantColors) {
+          img.colorData.dominantColors = img.colorData.dominantColors.map((color) => ({
+            ...color,
+            rgb: color.rgb.slice(0, 3) as [number, number, number],
+          }));
+        }
         result.push(img);
         selectedImageFilenames.add(img.filename);
       });
     }
-    
+
     // 4. Fill remaining slots with additional random images if needed
     // We want exactly 6 images total
     if (result.length < 6) {
       const remainingNeeded = 6 - result.length;
-      
+
       // Get more random images to fill the remaining slots
-      const additionalRandomPool = allImagesPool
-        .filter((img) => !selectedImageFilenames.has(img.filename));
-      
+      const additionalRandomPool = allImagesPool.filter((img) => !selectedImageFilenames.has(img.filename));
+
       if (additionalRandomPool.length > 0) {
         // Shuffle the array
         for (let i = additionalRandomPool.length - 1; i > 0; i--) {
           const j = Math.floor(Math.random() * (i + 1));
           [additionalRandomPool[i], additionalRandomPool[j]] = [additionalRandomPool[j], additionalRandomPool[i]];
         }
-        
+
         // Take as many as needed to reach 6 total
-        const additionalRandomImages = additionalRandomPool
-          .slice(0, remainingNeeded)
-          .map(img => ({
-            ...img,
-            isRandomPick: true,
-            isAdditionalRandomPick: true // Mark these as additional random picks
-          } as RelatedImage));
-        
-        additionalRandomImages.forEach(img => {
+        const additionalRandomImages = additionalRandomPool.slice(0, remainingNeeded).map(
+          (img) =>
+            ({
+              ...img,
+              isRandomPick: true,
+              isAdditionalRandomPick: true, // Mark these as additional random picks
+            } as RelatedImage)
+        );
+
+        additionalRandomImages.forEach((img) => {
           result.push(img);
           selectedImageFilenames.add(img.filename);
         });
       }
     }
-    
+
     // 5. Shuffle the final result array
     for (let i = result.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [result[i], result[j]] = [result[j], result[i]];
     }
-    
+
     return result;
   }, [foundImage]);
 
@@ -309,7 +331,7 @@ const ImagePage = () => {
               <h3 className="text-base mb-2">URLs</h3>
               <div className="grid grid-cols-1 md:grid-cols-[100px,1fr] gap-x-4 gap-y-3 text-sm">
                 <div className={`text-[10px] tracking-wider font-mono pt-4 ${CONFIG.theme.border.top}`}>Original</div>
-                <div className={cn(`  flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
+                <div className={cn(`w-full justify-between flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
                   <Href
                     href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), "original")}
                     hasDecoration={false}
@@ -323,7 +345,7 @@ const ImagePage = () => {
                 </div>
 
                 <div className="text-[10px] tracking-wider font-mono">1440 px</div>
-                <div className={cn(`flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
+                <div className={cn(`w-full justify-between flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
                   <Href
                     href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 1440)}
                     hasDecoration={false}
@@ -334,7 +356,7 @@ const ImagePage = () => {
                 </div>
 
                 <div className="text-[10px] tracking-wider font-mono">640 px</div>
-                <div className={cn(`flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
+                <div className={cn(`w-full justify-between flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
                   <Href
                     href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 640)}
                     hasDecoration={false}
@@ -344,7 +366,7 @@ const ImagePage = () => {
                   <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), 640)}`} />
                 </div>
                 <div className="text-[10px] tracking-wider font-mono">380 px</div>
-                <div className={cn(`flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
+                <div className={cn(`w-full justify-between flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
                   <Href
                     href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 380)}
                     hasDecoration={false}
@@ -354,7 +376,7 @@ const ImagePage = () => {
                   <CopyButton textToCopy={`${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), 380)}`} />
                 </div>
                 <div className="text-[10px] tracking-wider font-mono">160 px</div>
-                <div className={cn(`flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
+                <div className={cn(`w-full justify-between flex items-center gap-2 font-mono pb-4 ${CONFIG.theme.border.bottom}`)}>
                   <Href
                     href={getImageUrl(gallery.slug, image.filename.replaceAll(" ", "_"), 160)}
                     hasDecoration={false}
@@ -370,7 +392,7 @@ const ImagePage = () => {
               <div className="flex-1 mb-8 md:mb-4">
                 <h2 className="text-base mb-2">Standort & Karte</h2>
                 <p className="text-xs mb-2 font-mono text-[11px]">{`${image.latitude.toFixed(4)}, ${image.longitude.toFixed(4)}`}</p>
-                <div className="border aspect-square w-full overflow-hidden">
+                <div className=" aspect-square w-full overflow-hidden">
                   <MapGL
                     key={image.filename} // Add key to force re-render
                     initialViewState={{
@@ -415,6 +437,41 @@ const ImagePage = () => {
           </div>
         </div>
       </div>
+
+      {/* Color Palette Section */}
+      {image.colorData?.dominantColors && image.colorData.dominantColors.length > 0 && (
+        <div className="w-full pb-0 md:pb-0 max-w-4xl mt-8 pt-8 border-t border-neutral-500/50 border-dotted">
+          <h2 className="text-base mb-4">Farbpalette</h2>
+          <div className="flex flex-wrap gap-4 mb-4">
+            {image.colorData.dominantColors.map((color: any, index: any) => {
+              return (
+                <div
+                  key={index}
+                  className="relative group cursor-pointer"
+                  title={`${color.hex} (${Math.round(color.percentage * 100)}%)`}
+                  onClick={() => {
+                    navigator.clipboard.writeText(color.hex);
+                    // Optional: Add a visual feedback for copy
+                    const el = document.createElement("div");
+                    document.body.appendChild(el);
+                    setTimeout(() => document.body.removeChild(el), 1000);
+                  }}>
+                  <div
+                    className="w-10 md:w-12 h-10 md:h-12"
+                    style={{ backgroundColor: color.hex }}
+                  />
+                  <div className="text-[9px] font-mono absolute inset-0 p-1 opacity-0 group-hover:opacity-100 text-white transition-opacity">{color.hex}</div>
+                </div>
+              );
+            })}
+          </div>
+          {image.colorData.colorfulness !== undefined && (
+            <p className="text-[11px] mb-4 font-mono">
+              Farbwert: <span className="">{image.colorData.colorfulness.toFixed(2)}%</span>
+            </p>
+          )}
+        </div>
+      )}
 
       {relatedImages.length > 0 && (
         <div className="w-full pb-8 md:pb-0 max-w-4xl mt-8 pt-8 border-t border-neutral-500/50 border-dotted">

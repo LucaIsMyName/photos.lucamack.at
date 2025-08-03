@@ -84,7 +84,7 @@ const MakePostcardPage = () => {
     }
     const shuffled = [...allImages].sort(() => 0.5 - Math.random());
     const selectedImages = shuffled.slice(0, numImages);
-    setImages(selectedImages);
+    setImages(selectedImages as any);
   }, [allImages, style]);
 
   useEffect(() => {
