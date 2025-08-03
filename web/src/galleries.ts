@@ -22469,7 +22469,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Unteres Heustadlwasser Baäume und Refelxionen im Wasser.jpg",
+        "filename": "Unteres Heustadlwasser - Bäume und Reflexionen im Wasser.jpg",
         "latitude": 48.19925,
         "longitude": 16.434586,
         "createDate": "2025-08-03T10:58:49.000Z",
