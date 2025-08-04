@@ -5,18 +5,19 @@ import { useTheme } from "./contexts/ThemeContext";
 import CommandPalette from "./components/layout/global/CommandPalette";
 import { scan } from "react-scan";
 
-scan()
+scan();
 
 // Lazy load page components for code splitting
 const Home = lazy(() => import("./components/pages/Home"));
 const Gallery = lazy(() => import("./components/pages/Gallery"));
 const Page = lazy(() => import("./components/pages/Page"));
-const AllImagesMap = lazy(() => import("./components/pages/Map"));
+const AllImagesMap = lazy(() => import("./components/pages/AllImagesMap"));
 const List = lazy(() => import("./components/pages/List"));
 const Timeline = lazy(() => import("./components/pages/Timeline"));
 const MakePostcard = lazy(() => import("./components/pages/MakePostcard"));
 const Statistics = lazy(() => import("./components/pages/Statistics"));
-const ImageDetails = lazy(() => import("./components/pages/Image"));
+const Filter = lazy(() => import("./components/pages/Filter"));
+const ImageDetails = lazy(() => import("./components/pages/ImageDetails"));
 const NotFound = lazy(() => import("./components/pages/NotFound"));
 
 function App() {
@@ -110,6 +111,10 @@ function App() {
             <Route
               path="/app/statistics"
               element={<Statistics />}
+            />
+            <Route
+              path="/app/filter"
+              element={<Filter />}
             />
             <Route
               path="*"
