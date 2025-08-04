@@ -91,7 +91,8 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
         <button
           onClick={toggleTheme}
           className="cursor-pointer flex items-center justify-start p-2"
-          aria-label={`Farbmodus auf ${theme === "light" ? "Dunkel" : "Hell"} wechseln`}>
+          aria-label={`Farbmodus auf ${theme === "light" ? "Dunkel" : "Hell"} wechseln`}
+          title={`Farbmodus auf ${theme === "light" ? "Dunkel" : "Hell"} wechseln`}>
           {theme === "light" ? <Moon size={16} /> : <Sun size={16} />}
         </button>
       </div>
@@ -163,21 +164,26 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
             <div className="mt-4">
               <section className="flex gap-0 mb-4 px-4 gap-4">
                 <NavLink
-                  to="/app/map"
-                  title="Alle Fotos auf einer Karte anzeigen"
-                  className={({ isActive }) => navLinkClasses(isActive, false, false)}
-                  onClick={handleLinkClick}>
-                  Karte
-                </NavLink>
-
-                <NavLink
                   to="/app/list"
                   title="Alle Fotos als Liste anzeigen"
                   className={({ isActive }) => navLinkClasses(isActive, false, false)}
                   onClick={handleLinkClick}>
                   Liste
                 </NavLink>
-
+                <NavLink
+                  to="/app/map"
+                  title="Alle Fotos auf einer Karte anzeigen"
+                  className={({ isActive }) => navLinkClasses(isActive, false, false)}
+                  onClick={handleLinkClick}>
+                  Karte
+                </NavLink>
+                <NavLink
+                  to="/app/filter"
+                  title="Alle Fotos nach Farbe und / oder Standort Filtern"
+                  className={({ isActive }) => navLinkClasses(isActive, false, false)}
+                  onClick={handleLinkClick}>
+                  Filter
+                </NavLink>
                 <NavLink
                   to="/app/timeline"
                   title="Alle Fotos als Timeline anzeigen"
@@ -253,21 +259,26 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
         <div className="flex-shrink-0">
           <section className="flex gap-4 px-4 mb-2 sm:mb-6">
             <NavLink
-              to="/app/map"
-              title="Alle Fotos auf einer Karte anzeigen"
-              className={({ isActive }) => navLinkClasses(isActive, true, false)}
-              onClick={handleLinkClick}>
-              Karte
-            </NavLink>
-
-            <NavLink
               to="/app/list"
               title="Alle Fotos als Such- und Filterbare Liste"
               className={({ isActive }) => navLinkClasses(isActive, true, false)}
               onClick={handleLinkClick}>
               Liste
             </NavLink>
-
+            <NavLink
+              to="/app/map"
+              title="Alle Fotos auf einer Karte anzeigen"
+              className={({ isActive }) => navLinkClasses(isActive, true, false)}
+              onClick={handleLinkClick}>
+              Karte
+            </NavLink>
+            <NavLink
+              to="/app/filter"
+              title="Alle Fotos nach Farbe und / oder Standort filtern"
+              className={({ isActive }) => navLinkClasses(isActive, true, false)}
+              onClick={handleLinkClick}>
+              Filter
+            </NavLink>
             <NavLink
               to="/app/timeline"
               title="Alle Fotos als Timeline anzeigen"

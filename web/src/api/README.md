@@ -65,6 +65,7 @@ Each object in the array represents a single image and has the following structu
     "w640": "string",
     "w1440": "string"
   },
+  "colorData": "object | null",
   "gallery": "string"
 }
 ```
@@ -73,6 +74,7 @@ Each object in the array represents a single image and has the following structu
 -   `createDate`: An object containing the photo's creation timestamp.
 -   `name`: The filename of the image.
 -   `urls`: An object containing direct links to the image at different resolutions.
+-   `colorData`: An object containing color data extracted from the image.
 -   `gallery`: The `slug` of the gallery this image belongs to.
 
 ---

@@ -13,6 +13,7 @@ import CopyButton from "../ui/CopyButton";
 import NotFoundPage from "./NotFound";
 import SeoHead from "../ui/SeoHead";
 import { Copyright } from "lucide-react";
+import Href from "../ui/Href";
 import { cn } from "../../utils/cn";
 
 const Gallery = () => {
@@ -151,16 +152,18 @@ const Gallery = () => {
               </span>
             </div>
           ) : null}
-          <div className="flex flex-col md:flex-row md:gap-4 justify-center items-center space-y-4 md:space-y-0">
+          <div className="flex flex-col md:flex-row md:gap-6 gap-0 justify-center items-center space-y-4 md:space-y-0">
             <CopyButton textToCopy={window.location.href}>
               <span className={`font-mono ${theme === "dark" ? "text-white" : "text-black"}`}>Link Kopieren</span>
             </CopyButton>
-            <div className="flex items-center gap-1">
+            <div className="flex items-center gap-2">
               <Copyright
                 size={16}
-                className={cn(theme === "dark" ? "text-red-300" : "text-red-600")}
+                className={cn(theme === "dark" ? "text-neutral-400" : "text-neutral-500")}
               />
-              <span className={`text-xs font-mono ${theme === "dark" ? "text-white" : "text-black"}`}>{CONFIG.author} - CC BY-NC</span>
+              <span className={`text-xs font-mono ${theme === "dark" ? "text-white" : "text-black"}`}>
+                <Href to="/page/imprint">{CONFIG.author}</Href>
+              </span>
             </div>
           </div>
         </div>

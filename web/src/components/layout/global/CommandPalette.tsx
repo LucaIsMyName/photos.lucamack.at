@@ -21,11 +21,10 @@ const CommandHeading = ({ title }: { title: string }) => {
 
 // Define the app routes
 const appRoutes = [
-  { name: "Karte", path: "/app/map", icon: <Layout size={16} /> },
   { name: "Liste", path: "/app/list", icon: <Layout size={16} /> },
-  { name: "Timeline", path: "/app/timeline", icon: <Layout size={16} /> },
-  // { name: "Postkarten Designer", path: "/app/postcard", icon: <Layout size={16} /> },
-  // { name: "Statistiken", path: "/app/statistics", icon: <Layout size={16} /> },
+  { name: "Karte", path: "/app/map", icon: <Layout size={16} /> },
+  { name: "Filter", path: "/app/filter", icon: <Layout size={16} /> },
+  { name: "Timeline", path: "/app/timeline", icon: <Layout size={16} /> }
 ];
 
 interface CommandPaletteProps {

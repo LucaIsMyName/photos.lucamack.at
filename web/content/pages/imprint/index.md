@@ -5,7 +5,7 @@ Lorystrassse 71/56\
 1110 Wien\
 [Mail](mailto:lucamack3@gmail.com)
 
-## Foto-Lizenzen
+## <span id="lizenz">Foto-Lizenzen</span>
 
 Sofern nicht anders angegeben, stehen alle Fotos auf diesem Blog unter der Lizenz Creative Commons Namensnennung – Nicht kommerziell 4.0 International (CC BY-NC 4.0).
 

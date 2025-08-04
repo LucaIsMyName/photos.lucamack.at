@@ -11,6 +11,7 @@
   RewriteRule ^timeline/?$ /app/timeline [R=301,L]
   RewriteRule ^postcard/?$ /app/postcard [R=301,L]
   RewriteRule ^statistics/?$ /app/statistics [R=301,L]
+  RewriteRule ^filter/?$ /app/filter [R=301,L]
   
   # Default SPA handling
   RewriteRule ^index\.html$ - [L]

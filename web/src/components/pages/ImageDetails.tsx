@@ -14,9 +14,15 @@ import Subheading from "../layout/image-page/Subheading";
 import ColorPallette from "../layout/image-page/ColorPallette";
 import ImagesRow from "../layout/global/ImagesRow";
 import SeoHead from "../ui/SeoHead";
+import { Copyright } from "lucide-react";
+import { useTheme } from "../../contexts/ThemeContext";
+import Href from "../ui/Href";
+import { cn } from "../../utils/cn";
 
 const ImageDetails = () => {
   const foundImage = useImage();
+
+  const theme = useTheme().theme;
 
   useEffect(() => {
     if (foundImage) {
@@ -257,7 +263,15 @@ const ImageDetails = () => {
         </div>
         <div className="flex flex-col gap-0 w-full">
           <h1 className="text-base md:text-3xl mb-4 text-balance">{image.filename.replaceAll("_", " ").replace(".jpg", "").trim()}</h1>
-
+          <div className="flex items-center gap-2">
+              <Copyright
+                size={16}
+                className={cn(theme === "dark" ? "text-neutral-400" : "text-neutral-500")}
+              />
+              <span className={`text-[11px] md:text-xs font-mono `}>
+                <Href to="/page/imprint">{CONFIG.author}</Href>
+              </span>
+            </div>
           <Subheading
             image={image}
             gallery={gallery}

@@ -21,6 +21,10 @@ body {
   min-width: 0;
 }
 
+body {
+  overflow: hidden;
+}
+
 :root {
   --default-font-family: "Geist", sans-serif;
   --sidebar-width: clamp(280px, 30vw, 360px);
