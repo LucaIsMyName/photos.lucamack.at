@@ -153,7 +153,7 @@ async function generateGalleries() {
           console.error('Error reading exif for', file, err);
         }
 
-        const googleMapsUrl = latitude && longitude ? `https://www.google.com/maps/search/?api=1&query=${latitude},${longitude}` : null;
+        // Google Maps URL is now generated in the frontend
         
         // Extract color data
         let colorData = null;
@@ -166,7 +166,7 @@ async function generateGalleries() {
           console.error('Error extracting colors for', filename, err);
         }
         
-        return { filename, latitude, longitude, createDate, googleMapsUrl, alt, colorData };
+        return { filename, latitude, longitude, createDate, colorData };
       })
     );
 
@@ -365,11 +365,11 @@ async function extractColors(imagePath, numColors = 5) {
       .map(color => ({
         rgb: color.rgb,
         hex: color.hex,
-        percentage: color.percentage
+        percentage: color.percentage.toFixed(3)
       }));
     
     // Calculate colorfulness using standard deviation
-    const colorfulness = calculateColorfulness(pixels);
+    const colorfulness = calculateColorfulness(pixels).toFixed(3);
     
     return { 
       dominantColors,

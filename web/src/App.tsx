@@ -1,23 +1,23 @@
 import { Routes, Route, useLocation } from "react-router-dom";
 import { useRef, lazy, Suspense, useEffect, useState } from "react";
-import Navigation from "./components/ui/Navigation";
+import Navigation from "./components/layout/global/Navigation";
 import { useTheme } from "./contexts/ThemeContext";
-import CommandPalette from "./components/ui/CommandPalette";
+import CommandPalette from "./components/layout/global/CommandPalette";
 import { scan } from "react-scan";
 
 scan()
 
 // Lazy load page components for code splitting
-const HomePage = lazy(() => import("./components/pages/HomePage"));
-const GalleryPage = lazy(() => import("./components/pages/GalleryPage"));
-const PageComponent = lazy(() => import("./components/pages/PageComponent"));
-const MapPage = lazy(() => import("./components/pages/MapPage"));
-const ListPage = lazy(() => import("./components/pages/ListPage"));
-const TimelinePage = lazy(() => import("./components/pages/TimelinePage"));
-const MakePostcardPage = lazy(() => import("./components/pages/MakePostcardPage"));
-const StatisticsPage = lazy(() => import("./components/pages/StatisticsPage"));
-const ImagePage = lazy(() => import("./components/pages/ImagePage"));
-const NotFoundPage = lazy(() => import("./components/pages/NotFoundPage"));
+const Home = lazy(() => import("./components/pages/Home"));
+const Gallery = lazy(() => import("./components/pages/Gallery"));
+const Page = lazy(() => import("./components/pages/Page"));
+const AllImagesMap = lazy(() => import("./components/pages/Map"));
+const List = lazy(() => import("./components/pages/List"));
+const Timeline = lazy(() => import("./components/pages/Timeline"));
+const MakePostcard = lazy(() => import("./components/pages/MakePostcard"));
+const Statistics = lazy(() => import("./components/pages/Statistics"));
+const ImageDetails = lazy(() => import("./components/pages/Image"));
+const NotFound = lazy(() => import("./components/pages/NotFound"));
 
 function App() {
   const { theme } = useTheme();
@@ -77,43 +77,43 @@ function App() {
           <Routes>
             <Route
               path="/"
-              element={<HomePage />}
+              element={<Home />}
             />
             <Route
               path="/gallery/:slug"
-              element={<GalleryPage />}
+              element={<Gallery />}
             />
             <Route
               path="/gallery/:gallerySlug/image/:slug"
-              element={<ImagePage />}
+              element={<ImageDetails />}
             />
             <Route
               path="/page/:slug"
-              element={<PageComponent />}
+              element={<Page />}
             />
             <Route
               path="/app/map"
-              element={<MapPage />}
+              element={<AllImagesMap />}
             />
             <Route
               path="/app/list"
-              element={<ListPage />}
+              element={<List />}
             />
             <Route
               path="/app/timeline"
-              element={<TimelinePage />}
+              element={<Timeline />}
             />
             <Route
               path="/app/postcard"
-              element={<MakePostcardPage />}
+              element={<MakePostcard />}
             />
             <Route
               path="/app/statistics"
-              element={<StatisticsPage />}
+              element={<Statistics />}
             />
             <Route
               path="*"
-              element={<NotFoundPage />}
+              element={<NotFound />}
             />
           </Routes>
         </Suspense>

@@ -12,8 +12,6 @@ export const galleries = [
         "latitude": 48.183372,
         "longitude": 16.392936,
         "createDate": "2025-04-20T09:37:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.183372,16.392936",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23,7 +21,7 @@ export const galleries = [
                 210
               ],
               "hex": "#1e96d2",
-              "percentage": 0.037160493827160496
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -32,7 +30,7 @@ export const galleries = [
                 40
               ],
               "hex": "#786e28",
-              "percentage": 0.01839506172839506
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -41,7 +39,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.012222222222222223
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -50,7 +48,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.00654320987654321
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -59,10 +57,10 @@ export const galleries = [
                 140
               ],
               "hex": "#5a788c",
-              "percentage": 0.0008641975308641976
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 50.933222555169046
+          "colorfulness": "50.933"
         }
       },
       {
@@ -70,8 +68,6 @@ export const galleries = [
         "latitude": 48.182872,
         "longitude": 16.391942,
         "createDate": "2025-04-20T09:35:42.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182872,16.391942",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -81,7 +77,7 @@ export const galleries = [
                 230
               ],
               "hex": "#78bee6",
-              "percentage": 0.03333333333333333
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -90,7 +86,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.013555555555555555
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -99,7 +95,7 @@ export const galleries = [
                 120
               ],
               "hex": "#827878",
-              "percentage": 0.007666666666666666
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -108,7 +104,7 @@ export const galleries = [
                 70
               ],
               "hex": "#a09646",
-              "percentage": 0.003
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -117,10 +113,10 @@ export const galleries = [
                 170
               ],
               "hex": "#c8c8aa",
-              "percentage": 0.0006666666666666666
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 45.716415987482485
+          "colorfulness": "45.716"
         }
       },
       {
@@ -128,8 +124,6 @@ export const galleries = [
         "latitude": 48.182206,
         "longitude": 16.390731,
         "createDate": "2025-04-20T09:34:16.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182206,16.390731",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -139,7 +133,7 @@ export const galleries = [
                 240
               ],
               "hex": "#6ebef0",
-              "percentage": 0.03986666666666667
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -148,7 +142,7 @@ export const galleries = [
                 30
               ],
               "hex": "#3c281e",
-              "percentage": 0.0128
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -157,7 +151,7 @@ export const galleries = [
                 60
               ],
               "hex": "#78643c",
-              "percentage": 0.010933333333333333
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -166,10 +160,10 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.002
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 46.560307137530486
+          "colorfulness": "46.560"
         }
       },
       {
@@ -177,8 +171,6 @@ export const galleries = [
         "latitude": 48.182494,
         "longitude": 16.391122,
         "createDate": "2025-04-20T09:34:43.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182494,16.391122",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -188,7 +180,7 @@ export const galleries = [
                 10
               ],
               "hex": "#3c280a",
-              "percentage": 0.017746478873239435
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -197,7 +189,7 @@ export const galleries = [
                 140
               ],
               "hex": "#d2b48c",
-              "percentage": 0.008309859154929577
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -206,7 +198,7 @@ export const galleries = [
                 0
               ],
               "hex": "#8c1400",
-              "percentage": 0.005352112676056338
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -215,7 +207,7 @@ export const galleries = [
                 210
               ],
               "hex": "#6eb4d2",
-              "percentage": 0.00042253521126760566
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -224,10 +216,10 @@ export const galleries = [
                 170
               ],
               "hex": "#5a8caa",
-              "percentage": 0.00028169014084507044
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 37.08795638950874
+          "colorfulness": "37.088"
         }
       },
       {
@@ -235,8 +227,6 @@ export const galleries = [
         "latitude": 48.181928,
         "longitude": 16.390136,
         "createDate": "2025-04-20T09:33:23.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181928,16.390136",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -246,7 +236,7 @@ export const galleries = [
                 200
               ],
               "hex": "#f0dcc8",
-              "percentage": 0.022535211267605635
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -255,7 +245,7 @@ export const galleries = [
                 30
               ],
               "hex": "#6e5a1e",
-              "percentage": 0.009014084507042254
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -264,7 +254,7 @@ export const galleries = [
                 150
               ],
               "hex": "#968c96",
-              "percentage": 0.008450704225352112
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -273,7 +263,7 @@ export const galleries = [
                 0
               ],
               "hex": "#320000",
-              "percentage": 0.0043661971830985915
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -282,10 +272,10 @@ export const galleries = [
                 240
               ],
               "hex": "#82c8f0",
-              "percentage": 0.002112676056338028
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 38.80713692892909
+          "colorfulness": "38.807"
         }
       },
       {
@@ -293,8 +283,6 @@ export const galleries = [
         "latitude": 48.1827,
         "longitude": 16.394,
         "createDate": "2025-04-20T09:38:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1827,16.394",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -304,7 +292,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.04716666666666667
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -313,7 +301,7 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.028333333333333332
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -322,7 +310,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.027833333333333335
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -331,10 +319,10 @@ export const galleries = [
                 40
               ],
               "hex": "#503228",
-              "percentage": 0.026
+              "percentage": "0.026"
             }
           ],
-          "colorfulness": 46.82406080041781
+          "colorfulness": "46.824"
         }
       },
       {
@@ -342,8 +330,6 @@ export const galleries = [
         "latitude": 48.181961,
         "longitude": 16.390197,
         "createDate": "2025-04-20T09:33:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181961,16.390197",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -353,7 +339,7 @@ export const galleries = [
                 240
               ],
               "hex": "#82c8f0",
-              "percentage": 0.062142857142857146
+              "percentage": "0.062"
             },
             {
               "rgb": [
@@ -362,7 +348,7 @@ export const galleries = [
                 180
               ],
               "hex": "#1e82b4",
-              "percentage": 0.025857142857142856
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -371,7 +357,7 @@ export const galleries = [
                 70
               ],
               "hex": "#463c46",
-              "percentage": 0.017857142857142856
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -380,7 +366,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.0018571428571428571
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -389,10 +375,10 @@ export const galleries = [
                 170
               ],
               "hex": "#aaaaaa",
-              "percentage": 0.0014285714285714286
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 50.76800372227415
+          "colorfulness": "50.768"
         }
       },
       {
@@ -400,8 +386,6 @@ export const galleries = [
         "latitude": 48.183189,
         "longitude": 16.393117,
         "createDate": "2025-04-20T09:37:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.183189,16.393117",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -411,7 +395,7 @@ export const galleries = [
                 240
               ],
               "hex": "#6ebef0",
-              "percentage": 0.04118421052631579
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -420,7 +404,7 @@ export const galleries = [
                 10
               ],
               "hex": "#281e0a",
-              "percentage": 0.013026315789473684
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -429,10 +413,10 @@ export const galleries = [
                 130
               ],
               "hex": "#787882",
-              "percentage": 0.0043421052631578945
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 49.75289246243409
+          "colorfulness": "49.753"
         }
       },
       {
@@ -440,8 +424,6 @@ export const galleries = [
         "latitude": 48.183075,
         "longitude": 16.392044,
         "createDate": "2025-04-20T09:35:58.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.183075,16.392044",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -451,7 +433,7 @@ export const galleries = [
                 180
               ],
               "hex": "#fad2b4",
-              "percentage": 0.05491525423728814
+              "percentage": "0.055"
             },
             {
               "rgb": [
@@ -460,10 +442,10 @@ export const galleries = [
                 50
               ],
               "hex": "#3c3232",
-              "percentage": 0.030508474576271188
+              "percentage": "0.031"
             }
           ],
-          "colorfulness": 45.69027357546972
+          "colorfulness": "45.690"
         }
       },
       {
@@ -471,8 +453,6 @@ export const galleries = [
         "latitude": 48.182044,
         "longitude": 16.390392,
         "createDate": "2025-04-20T09:33:45.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182044,16.390392",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -482,7 +462,7 @@ export const galleries = [
                 190
               ],
               "hex": "#e6d2be",
-              "percentage": 0.02986842105263158
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -491,7 +471,7 @@ export const galleries = [
                 60
               ],
               "hex": "#463c3c",
-              "percentage": 0.02973684210526316
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -500,7 +480,7 @@ export const galleries = [
                 240
               ],
               "hex": "#78c8f0",
-              "percentage": 0.02618421052631579
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -509,10 +489,10 @@ export const galleries = [
                 110
               ],
               "hex": "#8c786e",
-              "percentage": 0.005131578947368421
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 44.9603215071376
+          "colorfulness": "44.960"
         }
       },
       {
@@ -520,8 +500,6 @@ export const galleries = [
         "latitude": 48.182694,
         "longitude": 16.391783,
         "createDate": "2025-04-20T09:35:20.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182694,16.391783",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -531,7 +509,7 @@ export const galleries = [
                 90
               ],
               "hex": "#8c6e5a",
-              "percentage": 0.007625
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -540,10 +518,10 @@ export const galleries = [
                 20
               ],
               "hex": "#502814",
-              "percentage": 0.0075
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 33.5572972459674
+          "colorfulness": "33.557"
         }
       }
     ],
@@ -561,8 +539,6 @@ export const galleries = [
         "latitude": 52.523789,
         "longitude": 13.369997,
         "createDate": "2023-08-15T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.523789,13.369997",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -572,7 +548,7 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": 0.036477272727272726
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -581,7 +557,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.03272727272727273
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -590,7 +566,7 @@ export const galleries = [
                 70
               ],
               "hex": "#6e5046",
-              "percentage": 0.01965909090909091
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -599,10 +575,10 @@ export const galleries = [
                 130
               ],
               "hex": "#968c82",
-              "percentage": 0.013863636363636364
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 44.04906591260155
+          "colorfulness": "44.049"
         }
       },
       {
@@ -610,8 +586,6 @@ export const galleries = [
         "latitude": 52.524533,
         "longitude": 13.369892,
         "createDate": "2023-08-15T06:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.524533,13.369892",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -621,7 +595,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.07824324324324325
+              "percentage": "0.078"
             },
             {
               "rgb": [
@@ -630,7 +604,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.020945945945945947
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -639,10 +613,10 @@ export const galleries = [
                 90
               ],
               "hex": "#78645a",
-              "percentage": 0.014864864864864866
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 41.085815311930496
+          "colorfulness": "41.086"
         }
       },
       {
@@ -650,8 +624,6 @@ export const galleries = [
         "latitude": 52.518742,
         "longitude": 13.408022,
         "createDate": "2023-08-14T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.518742,13.408022",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -661,7 +633,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.14414893617021277
+              "percentage": "0.144"
             },
             {
               "rgb": [
@@ -670,7 +642,7 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.005212765957446809
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -679,7 +651,7 @@ export const galleries = [
                 70
               ],
               "hex": "#6e5046",
-              "percentage": 0.004361702127659574
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -688,10 +660,10 @@ export const galleries = [
                 170
               ],
               "hex": "#1482aa",
-              "percentage": 0.0002127659574468085
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 49.15287911844437
+          "colorfulness": "49.153"
         }
       },
       {
@@ -699,8 +671,6 @@ export const galleries = [
         "latitude": 52.494972,
         "longitude": 13.421853,
         "createDate": "2023-08-14T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.494972,13.421853",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -710,7 +680,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.03169491525423729
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -719,7 +689,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0f0dc",
-              "percentage": 0.01677966101694915
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -728,7 +698,7 @@ export const galleries = [
                 110
               ],
               "hex": "#96786e",
-              "percentage": 0.00983050847457627
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -737,7 +707,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.006610169491525424
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -746,10 +716,10 @@ export const galleries = [
                 180
               ],
               "hex": "#3296b4",
-              "percentage": 0.00016949152542372882
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 43.13615336887647
+          "colorfulness": "43.136"
         }
       },
       {
@@ -757,8 +727,6 @@ export const galleries = [
         "latitude": 52.518097,
         "longitude": 13.406433,
         "createDate": "2023-08-15T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.518097,13.406433",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -768,7 +736,7 @@ export const galleries = [
                 190
               ],
               "hex": "#0082be",
-              "percentage": 0.09786666666666667
+              "percentage": "0.098"
             },
             {
               "rgb": [
@@ -777,7 +745,7 @@ export const galleries = [
                 230
               ],
               "hex": "#3cbee6",
-              "percentage": 0.023866666666666668
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -786,7 +754,7 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.0092
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -795,7 +763,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.008266666666666667
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -804,10 +772,10 @@ export const galleries = [
                 100
               ],
               "hex": "#465064",
-              "percentage": 0.002266666666666667
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 54.053702297928176
+          "colorfulness": "54.054"
         }
       },
       {
@@ -815,8 +783,6 @@ export const galleries = [
         "latitude": 52.492272,
         "longitude": 13.416881,
         "createDate": "2023-08-15T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.492272,13.416881",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -826,7 +792,7 @@ export const galleries = [
                 190
               ],
               "hex": "#c8c8be",
-              "percentage": 0.124
+              "percentage": "0.124"
             },
             {
               "rgb": [
@@ -835,7 +801,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0000",
-              "percentage": 0.030307692307692306
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -844,10 +810,10 @@ export const galleries = [
                 0
               ],
               "hex": "#d20000",
-              "percentage": 0.0024615384615384616
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 42.79335990129636
+          "colorfulness": "42.793"
         }
       },
       {
@@ -855,8 +821,6 @@ export const galleries = [
         "latitude": 52.404192,
         "longitude": 13.038433,
         "createDate": "2023-08-16T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.404192,13.038433",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -866,7 +830,7 @@ export const galleries = [
                 200
               ],
               "hex": "#0096c8",
-              "percentage": 0.028767123287671233
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -875,7 +839,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.013424657534246575
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -884,7 +848,7 @@ export const galleries = [
                 40
               ],
               "hex": "#8c7828",
-              "percentage": 0.012465753424657534
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -893,10 +857,10 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.009452054794520548
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 60.13914914355177
+          "colorfulness": "60.139"
         }
       },
       {
@@ -904,8 +868,6 @@ export const galleries = [
         "latitude": 52.505053,
         "longitude": 13.332972,
         "createDate": "2023-08-16T12:34:45.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.505053,13.332972",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -915,7 +877,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.02666666666666667
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -924,7 +886,7 @@ export const galleries = [
                 50
               ],
               "hex": "#643c32",
-              "percentage": 0.01954022988505747
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -933,7 +895,7 @@ export const galleries = [
                 100
               ],
               "hex": "#8c6e64",
-              "percentage": 0.01908045977011494
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -942,10 +904,10 @@ export const galleries = [
                 180
               ],
               "hex": "#64a0b4",
-              "percentage": 0.015862068965517243
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 40.969263005320876
+          "colorfulness": "40.969"
         }
       },
       {
@@ -953,8 +915,6 @@ export const galleries = [
         "latitude": 52.504758,
         "longitude": 13.335239,
         "createDate": "2023-08-14T12:34:45.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.504758,13.335239",
-        "alt": "A picture of the Berlin TV Tower",
         "colorData": {
           "dominantColors": [
             {
@@ -964,7 +924,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.0491566265060241
+              "percentage": "0.049"
             },
             {
               "rgb": [
@@ -973,7 +933,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.02927710843373494
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -982,10 +942,10 @@ export const galleries = [
                 170
               ],
               "hex": "#b4aaaa",
-              "percentage": 0.00891566265060241
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 45.568133888415474
+          "colorfulness": "45.568"
         }
       },
       {
@@ -993,8 +953,6 @@ export const galleries = [
         "latitude": 52.501736,
         "longitude": 13.341056,
         "createDate": "2023-08-16T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.501736,13.341056",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1004,7 +962,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0000",
-              "percentage": 0.03797752808988764
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -1013,7 +971,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.036853932584269666
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -1022,7 +980,7 @@ export const galleries = [
                 220
               ],
               "hex": "#00b4dc",
-              "percentage": 0.034269662921348316
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -1031,10 +989,10 @@ export const galleries = [
                 40
               ],
               "hex": "#5a3228",
-              "percentage": 0.00853932584269663
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 63.65730131847476
+          "colorfulness": "63.657"
         }
       },
       {
@@ -1042,8 +1000,6 @@ export const galleries = [
         "latitude": 52.495617,
         "longitude": 13.420594,
         "createDate": "2023-08-13T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.495617,13.420594",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1053,7 +1009,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.09135802469135802
+              "percentage": "0.091"
             },
             {
               "rgb": [
@@ -1062,7 +1018,7 @@ export const galleries = [
                 210
               ],
               "hex": "#c8d2d2",
-              "percentage": 0.03901234567901234
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -1071,10 +1027,10 @@ export const galleries = [
                 120
               ],
               "hex": "#8c8278",
-              "percentage": 0.008024691358024692
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 47.56054331164452
+          "colorfulness": "47.561"
         }
       },
       {
@@ -1082,8 +1038,6 @@ export const galleries = [
         "latitude": 52.522811,
         "longitude": 13.413103,
         "createDate": "2023-08-14T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.522811,13.413103",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1093,7 +1047,7 @@ export const galleries = [
                 230
               ],
               "hex": "#00c8e6",
-              "percentage": 0.06126984126984127
+              "percentage": "0.061"
             },
             {
               "rgb": [
@@ -1102,7 +1056,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.050793650793650794
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -1111,7 +1065,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.02142857142857143
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -1120,7 +1074,7 @@ export const galleries = [
                 120
               ],
               "hex": "#827878",
-              "percentage": 0.005873015873015873
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -1129,10 +1083,10 @@ export const galleries = [
                 230
               ],
               "hex": "#6ed2e6",
-              "percentage": 0.005396825396825397
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 59.91309163606422
+          "colorfulness": "59.913"
         }
       },
       {
@@ -1140,8 +1094,6 @@ export const galleries = [
         "latitude": 52.404192,
         "longitude": 13.038433,
         "createDate": "2023-08-16T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.404192,13.038433",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1151,7 +1103,7 @@ export const galleries = [
                 180
               ],
               "hex": "#e6c8b4",
-              "percentage": 0.1318840579710145
+              "percentage": "0.132"
             },
             {
               "rgb": [
@@ -1160,7 +1112,7 @@ export const galleries = [
                 170
               ],
               "hex": "#0078aa",
-              "percentage": 0.06826086956521739
+              "percentage": "0.068"
             },
             {
               "rgb": [
@@ -1169,10 +1121,10 @@ export const galleries = [
                 40
               ],
               "hex": "#784628",
-              "percentage": 0.00463768115942029
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 55.30596489624016
+          "colorfulness": "55.306"
         }
       },
       {
@@ -1180,8 +1132,6 @@ export const galleries = [
         "latitude": 52.4988,
         "longitude": 13.418322,
         "createDate": "2023-08-13T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52.4988,13.418322",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1191,7 +1141,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0000",
-              "percentage": 0.3284375
+              "percentage": "0.328"
             },
             {
               "rgb": [
@@ -1200,7 +1150,7 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.0234375
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -1209,7 +1159,7 @@ export const galleries = [
                 80
               ],
               "hex": "#785a50",
-              "percentage": 0.0053125
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -1218,10 +1168,10 @@ export const galleries = [
                 220
               ],
               "hex": "#00bedc",
-              "percentage": 0.00265625
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 54.17293672364682
+          "colorfulness": "54.173"
         }
       }
     ],
@@ -1239,8 +1189,6 @@ export const galleries = [
         "latitude": 48.174511,
         "longitude": 16.409864,
         "createDate": "2025-08-02T11:23:30.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174511,16.409864",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1250,7 +1198,7 @@ export const galleries = [
                 110
               ],
               "hex": "#8c786e",
-              "percentage": 0.05
+              "percentage": "0.050"
             },
             {
               "rgb": [
@@ -1259,7 +1207,7 @@ export const galleries = [
                 150
               ],
               "hex": "#508c96",
-              "percentage": 0.02517241379310345
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -1268,7 +1216,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.01896551724137931
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -1277,10 +1225,10 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.0015517241379310344
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 31.173712725750367
+          "colorfulness": "31.174"
         }
       },
       {
@@ -1288,8 +1236,6 @@ export const galleries = [
         "latitude": 48.173267,
         "longitude": 16.407208,
         "createDate": "2025-07-26T15:44:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173267,16.407208",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1299,7 +1245,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.02625
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -1308,7 +1254,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.017954545454545456
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -1317,7 +1263,7 @@ export const galleries = [
                 150
               ],
               "hex": "#c8aa96",
-              "percentage": 0.010568181818181819
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -1326,10 +1272,10 @@ export const galleries = [
                 30
               ],
               "hex": "#c8a01e",
-              "percentage": 0.0011363636363636363
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 39.90295996195925
+          "colorfulness": "39.903"
         }
       },
       {
@@ -1337,8 +1283,6 @@ export const galleries = [
         "latitude": 48.205733,
         "longitude": 16.378619,
         "createDate": "2025-07-27T08:41:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205733,16.378619",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1348,7 +1292,7 @@ export const galleries = [
                 220
               ],
               "hex": "#bed2dc",
-              "percentage": 0.036075949367088606
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -1357,7 +1301,7 @@ export const galleries = [
                 30
               ],
               "hex": "#321e1e",
-              "percentage": 0.03189873417721519
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -1366,7 +1310,7 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.015316455696202531
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -1375,10 +1319,10 @@ export const galleries = [
                 80
               ],
               "hex": "#002850",
-              "percentage": 0.0020253164556962027
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 38.756766157615125
+          "colorfulness": "38.757"
         }
       },
       {
@@ -1386,8 +1330,6 @@ export const galleries = [
         "latitude": 48.168475,
         "longitude": 16.417436,
         "createDate": "2025-05-02T15:45:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168475,16.417436",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1397,7 +1339,7 @@ export const galleries = [
                 180
               ],
               "hex": "#e6d2b4",
-              "percentage": 0.18450704225352113
+              "percentage": "0.185"
             },
             {
               "rgb": [
@@ -1406,10 +1348,10 @@ export const galleries = [
                 100
               ],
               "hex": "#967864",
-              "percentage": 0.004788732394366197
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 16.951693189698556
+          "colorfulness": "16.952"
         }
       },
       {
@@ -1417,8 +1359,6 @@ export const galleries = [
         "latitude": 48.191436,
         "longitude": 16.420508,
         "createDate": "2025-08-03T11:23:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.191436,16.420508",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1428,7 +1368,7 @@ export const galleries = [
                 130
               ],
               "hex": "#8c8282",
-              "percentage": 0.04652173913043478
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -1437,10 +1377,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.03101449275362319
+              "percentage": "0.031"
             }
           ],
-          "colorfulness": 30.94443224084581
+          "colorfulness": "30.944"
         }
       },
       {
@@ -1448,8 +1388,6 @@ export const galleries = [
         "latitude": 48.191222,
         "longitude": 16.420647,
         "createDate": "2025-08-03T11:24:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.191222,16.420647",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1459,7 +1397,7 @@ export const galleries = [
                 210
               ],
               "hex": "#46a0d2",
-              "percentage": 0.015657894736842107
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -1468,7 +1406,7 @@ export const galleries = [
                 110
               ],
               "hex": "#8c786e",
-              "percentage": 0.013947368421052632
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -1477,7 +1415,7 @@ export const galleries = [
                 220
               ],
               "hex": "#82bedc",
-              "percentage": 0.013289473684210526
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -1486,7 +1424,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.012763157894736843
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -1495,10 +1433,10 @@ export const galleries = [
                 220
               ],
               "hex": "#c8d2dc",
-              "percentage": 0.0075
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 44.45356342082681
+          "colorfulness": "44.454"
         }
       },
       {
@@ -1506,8 +1444,6 @@ export const galleries = [
         "latitude": 48.190628,
         "longitude": 16.419808,
         "createDate": "2025-08-03T11:25:44.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.190628,16.419808",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1517,7 +1453,7 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.01925531914893617
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -1526,7 +1462,7 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.015212765957446809
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -1535,7 +1471,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.013404255319148937
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -1544,7 +1480,7 @@ export const galleries = [
                 230
               ],
               "hex": "#dce6e6",
-              "percentage": 0.013085106382978724
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -1553,10 +1489,10 @@ export const galleries = [
                 120
               ],
               "hex": "#827878",
-              "percentage": 0.010212765957446808
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 46.6982002069899
+          "colorfulness": "46.698"
         }
       },
       {
@@ -1564,8 +1500,6 @@ export const galleries = [
         "latitude": 48.188961,
         "longitude": 16.417464,
         "createDate": "2025-08-03T11:29:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.188961,16.417464",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1575,7 +1509,7 @@ export const galleries = [
                 200
               ],
               "hex": "#a0b4c8",
-              "percentage": 0.03763888888888889
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -1584,7 +1518,7 @@ export const galleries = [
                 30
               ],
               "hex": "#281e1e",
-              "percentage": 0.02722222222222222
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -1593,10 +1527,10 @@ export const galleries = [
                 120
               ],
               "hex": "#6e6e78",
-              "percentage": 0.02263888888888889
+              "percentage": "0.023"
             }
           ],
-          "colorfulness": 36.34265808876103
+          "colorfulness": "36.343"
         }
       },
       {
@@ -1604,8 +1538,6 @@ export const galleries = [
         "latitude": 48.169175,
         "longitude": 16.416547,
         "createDate": "2025-05-02T15:47:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169175,16.416547",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1615,7 +1547,7 @@ export const galleries = [
                 230
               ],
               "hex": "#96c8e6",
-              "percentage": 0.04566666666666667
+              "percentage": "0.046"
             },
             {
               "rgb": [
@@ -1624,7 +1556,7 @@ export const galleries = [
                 170
               ],
               "hex": "#a0a0aa",
-              "percentage": 0.0285
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -1633,10 +1565,10 @@ export const galleries = [
                 50
               ],
               "hex": "#1e2832",
-              "percentage": 0.026
+              "percentage": "0.026"
             }
           ],
-          "colorfulness": 40.933618813403065
+          "colorfulness": "40.934"
         }
       },
       {
@@ -1644,8 +1576,6 @@ export const galleries = [
         "latitude": 48.174133,
         "longitude": 16.416464,
         "createDate": "2025-04-25T15:39:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174133,16.416464",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1655,7 +1585,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.09178082191780822
+              "percentage": "0.092"
             },
             {
               "rgb": [
@@ -1664,7 +1594,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.049178082191780825
+              "percentage": "0.049"
             },
             {
               "rgb": [
@@ -1673,7 +1603,7 @@ export const galleries = [
                 100
               ],
               "hex": "#a08264",
-              "percentage": 0.008493150684931507
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -1682,10 +1612,10 @@ export const galleries = [
                 40
               ],
               "hex": "#6e4628",
-              "percentage": 0.008493150684931507
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 47.5689075272606
+          "colorfulness": "47.569"
         }
       },
       {
@@ -1693,8 +1623,6 @@ export const galleries = [
         "latitude": 48.204525,
         "longitude": 16.368617,
         "createDate": "2025-05-28T17:41:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204525,16.368617",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1704,7 +1632,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.06373333333333334
+              "percentage": "0.064"
             },
             {
               "rgb": [
@@ -1713,7 +1641,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.06253333333333333
+              "percentage": "0.063"
             },
             {
               "rgb": [
@@ -1722,7 +1650,7 @@ export const galleries = [
                 100
               ],
               "hex": "#8c6e64",
-              "percentage": 0.017866666666666666
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -1731,10 +1659,10 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.0096
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 40.8115828220455
+          "colorfulness": "40.812"
         }
       },
       {
@@ -1742,8 +1670,6 @@ export const galleries = [
         "latitude": 48.167053,
         "longitude": 16.417942,
         "createDate": "2025-08-02T16:40:05.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.167053,16.417942",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1753,7 +1679,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.038214285714285715
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -1762,10 +1688,10 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.025595238095238095
+              "percentage": "0.026"
             }
           ],
-          "colorfulness": 37.83728685867271
+          "colorfulness": "37.837"
         }
       },
       {
@@ -1773,8 +1699,6 @@ export const galleries = [
         "latitude": 48.167781,
         "longitude": 16.417983,
         "createDate": "2025-08-02T05:06:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.167781,16.417983",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1784,7 +1708,7 @@ export const galleries = [
                 170
               ],
               "hex": "#b4aaaa",
-              "percentage": 0.022820512820512822
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -1793,7 +1717,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e1400",
-              "percentage": 0.01987179487179487
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -1802,7 +1726,7 @@ export const galleries = [
                 100
               ],
               "hex": "#aa9664",
-              "percentage": 0.009615384615384616
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -1811,10 +1735,10 @@ export const galleries = [
                 180
               ],
               "hex": "#2882b4",
-              "percentage": 0.0005128205128205128
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 38.81378333776862
+          "colorfulness": "38.814"
         }
       },
       {
@@ -1822,8 +1746,6 @@ export const galleries = [
         "latitude": 48.199047,
         "longitude": 16.380219,
         "createDate": "2025-05-02T15:17:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199047,16.380219",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1833,7 +1755,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.024415584415584415
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -1842,7 +1764,7 @@ export const galleries = [
                 200
               ],
               "hex": "#dcd2c8",
-              "percentage": 0.01935064935064935
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -1851,7 +1773,7 @@ export const galleries = [
                 120
               ],
               "hex": "#8c7878",
-              "percentage": 0.014935064935064935
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -1860,10 +1782,10 @@ export const galleries = [
                 230
               ],
               "hex": "#64b4e6",
-              "percentage": 0.001038961038961039
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 38.15953058233719
+          "colorfulness": "38.160"
         }
       },
       {
@@ -1871,8 +1793,6 @@ export const galleries = [
         "latitude": 48.199006,
         "longitude": 16.378989,
         "createDate": "2025-05-02T15:18:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199006,16.378989",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1882,7 +1802,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.04085106382978723
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -1891,10 +1811,10 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.0374468085106383
+              "percentage": "0.037"
             }
           ],
-          "colorfulness": 42.132048438085754
+          "colorfulness": "42.132"
         }
       },
       {
@@ -1902,8 +1822,6 @@ export const galleries = [
         "latitude": 48.187514,
         "longitude": 16.412656,
         "createDate": "2025-04-23T18:59:52.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.187514,16.412656",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1913,7 +1831,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.22093023255813954
+              "percentage": "0.221"
             },
             {
               "rgb": [
@@ -1922,7 +1840,7 @@ export const galleries = [
                 10
               ],
               "hex": "#be960a",
-              "percentage": 0.009534883720930233
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -1931,7 +1849,7 @@ export const galleries = [
                 170
               ],
               "hex": "#fad2aa",
-              "percentage": 0.0008139534883720931
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -1940,7 +1858,7 @@ export const galleries = [
                 210
               ],
               "hex": "#be64d2",
-              "percentage": 0.0003488372093023256
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -1949,10 +1867,10 @@ export const galleries = [
                 200
               ],
               "hex": "#aabec8",
-              "percentage": 0.00011627906976744187
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 54.43254434929719
+          "colorfulness": "54.433"
         }
       },
       {
@@ -1960,8 +1878,6 @@ export const galleries = [
         "latitude": 48.160858,
         "longitude": 16.430958,
         "createDate": "2025-06-01T06:33:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.160858,16.430958",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -1971,7 +1887,7 @@ export const galleries = [
                 230
               ],
               "hex": "#dce6e6",
-              "percentage": 0.025866666666666666
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -1980,7 +1896,7 @@ export const galleries = [
                 70
               ],
               "hex": "#504646",
-              "percentage": 0.020133333333333333
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -1989,10 +1905,10 @@ export const galleries = [
                 140
               ],
               "hex": "#968c8c",
-              "percentage": 0.0188
+              "percentage": "0.019"
             }
           ],
-          "colorfulness": 40.08665749741576
+          "colorfulness": "40.087"
         }
       },
       {
@@ -2000,8 +1916,6 @@ export const galleries = [
         "latitude": 48.186092,
         "longitude": 16.413206,
         "createDate": "2025-06-01T13:40:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.186092,16.413206",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2011,7 +1925,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.01661764705882353
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -2020,7 +1934,7 @@ export const galleries = [
                 30
               ],
               "hex": "#46321e",
-              "percentage": 0.013088235294117647
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -2029,10 +1943,10 @@ export const galleries = [
                 70
               ],
               "hex": "#b4a046",
-              "percentage": 0.003823529411764706
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 41.57795447331767
+          "colorfulness": "41.578"
         }
       },
       {
@@ -2040,8 +1954,6 @@ export const galleries = [
         "latitude": 48.191886,
         "longitude": 16.332106,
         "createDate": "2025-07-30T15:29:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.191886,16.332106",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2051,7 +1963,7 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.0224
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -2060,7 +1972,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.0113
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -2069,7 +1981,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.0111
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -2078,10 +1990,10 @@ export const galleries = [
                 160
               ],
               "hex": "#0a3ca0",
-              "percentage": 0.0001
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 37.0954938368773
+          "colorfulness": "37.095"
         }
       },
       {
@@ -2089,8 +2001,6 @@ export const galleries = [
         "latitude": 48.201878,
         "longitude": 16.337144,
         "createDate": "2025-05-03T11:40:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201878,16.337144",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2100,7 +2010,7 @@ export const galleries = [
                 190
               ],
               "hex": "#e6d2be",
-              "percentage": 0.04191919191919192
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -2109,7 +2019,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.0397979797979798
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -2118,7 +2028,7 @@ export const galleries = [
                 0
               ],
               "hex": "#be8200",
-              "percentage": 0.00030303030303030303
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -2127,10 +2037,10 @@ export const galleries = [
                 0
               ],
               "hex": "#dc0a00",
-              "percentage": 0.00010101010101010101
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 45.40204953686938
+          "colorfulness": "45.402"
         }
       },
       {
@@ -2138,8 +2048,6 @@ export const galleries = [
         "latitude": 48.168469,
         "longitude": 16.418028,
         "createDate": "2025-07-15T06:00:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168469,16.418028",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2149,7 +2057,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.016344086021505378
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -2158,7 +2066,7 @@ export const galleries = [
                 50
               ],
               "hex": "#645a32",
-              "percentage": 0.00913978494623656
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -2167,10 +2075,10 @@ export const galleries = [
                 230
               ],
               "hex": "#82c8e6",
-              "percentage": 0.003010752688172043
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 40.224238945897056
+          "colorfulness": "40.224"
         }
       },
       {
@@ -2178,8 +2086,6 @@ export const galleries = [
         "latitude": 48.168353,
         "longitude": 16.417556,
         "createDate": "2025-05-02T14:32:45.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168353,16.417556",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2189,7 +2095,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.026551724137931033
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -2198,10 +2104,10 @@ export const galleries = [
                 200
               ],
               "hex": "#fae6c8",
-              "percentage": 0.0032758620689655174
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 36.02268373634087
+          "colorfulness": "36.023"
         }
       },
       {
@@ -2209,8 +2115,6 @@ export const galleries = [
         "latitude": 48.223858,
         "longitude": 16.393481,
         "createDate": "2025-07-15T16:37:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.223858,16.393481",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2220,7 +2124,7 @@ export const galleries = [
                 190
               ],
               "hex": "#bebebe",
-              "percentage": 0.06166666666666667
+              "percentage": "0.062"
             },
             {
               "rgb": [
@@ -2229,10 +2133,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.05615384615384615
+              "percentage": "0.056"
             }
           ],
-          "colorfulness": 41.52005325540317
+          "colorfulness": "41.520"
         }
       },
       {
@@ -2240,8 +2144,6 @@ export const galleries = [
         "latitude": 48.162914,
         "longitude": 16.429156,
         "createDate": "2025-07-27T13:36:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.162914,16.429156",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2251,7 +2153,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.04044117647058824
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -2260,7 +2162,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.03294117647058824
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -2269,10 +2171,10 @@ export const galleries = [
                 10
               ],
               "hex": "#32280a",
-              "percentage": 0.013088235294117647
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 37.45439232359491
+          "colorfulness": "37.454"
         }
       },
       {
@@ -2280,8 +2182,6 @@ export const galleries = [
         "latitude": 48.169014,
         "longitude": 16.416828,
         "createDate": "2024-07-23T06:01:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169014,16.416828",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2291,7 +2191,7 @@ export const galleries = [
                 10
               ],
               "hex": "#3c320a",
-              "percentage": 0.015324675324675324
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -2300,7 +2200,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.012077922077922078
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -2309,10 +2209,10 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.003246753246753247
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 37.42015567510598
+          "colorfulness": "37.420"
         }
       },
       {
@@ -2320,8 +2220,6 @@ export const galleries = [
         "latitude": 48.221325,
         "longitude": 16.367619,
         "createDate": "2025-07-15T19:04:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.221325,16.367619",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2331,7 +2229,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.07882352941176471
+              "percentage": "0.079"
             },
             {
               "rgb": [
@@ -2340,7 +2238,7 @@ export const galleries = [
                 230
               ],
               "hex": "#82bee6",
-              "percentage": 0.02235294117647059
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -2349,7 +2247,7 @@ export const galleries = [
                 130
               ],
               "hex": "#6e7882",
-              "percentage": 0.0038823529411764705
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -2358,10 +2256,10 @@ export const galleries = [
                 60
               ],
               "hex": "#c8823c",
-              "percentage": 0.0024705882352941176
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 41.83263727641863
+          "colorfulness": "41.833"
         }
       },
       {
@@ -2369,8 +2267,6 @@ export const galleries = [
         "latitude": 48.22055,
         "longitude": 16.367939,
         "createDate": "2025-07-15T19:06:07.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.22055,16.367939",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2380,7 +2276,7 @@ export const galleries = [
                 110
               ],
               "hex": "#f0b46e",
-              "percentage": 0.025714285714285714
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -2389,7 +2285,7 @@ export const galleries = [
                 50
               ],
               "hex": "#784632",
-              "percentage": 0.0175
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -2398,7 +2294,7 @@ export const galleries = [
                 230
               ],
               "hex": "#0a96e6",
-              "percentage": 0.01607142857142857
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -2407,7 +2303,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321414",
-              "percentage": 0.012142857142857143
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -2416,10 +2312,10 @@ export const galleries = [
                 150
               ],
               "hex": "#326e96",
-              "percentage": 0.004761904761904762
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 51.225518571563946
+          "colorfulness": "51.226"
         }
       },
       {
@@ -2427,8 +2323,6 @@ export const galleries = [
         "latitude": 48.207589,
         "longitude": 16.380006,
         "createDate": "2025-07-27T08:38:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207589,16.380006",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2438,7 +2332,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.18142857142857144
+              "percentage": "0.181"
             },
             {
               "rgb": [
@@ -2447,7 +2341,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.03936507936507937
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -2456,10 +2350,10 @@ export const galleries = [
                 160
               ],
               "hex": "#beaaa0",
-              "percentage": 0.0077777777777777776
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 45.49456205199649
+          "colorfulness": "45.495"
         }
       },
       {
@@ -2467,8 +2361,6 @@ export const galleries = [
         "latitude": 48.201386,
         "longitude": 16.387961,
         "createDate": "2025-05-02T15:07:19.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201386,16.387961",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2478,7 +2370,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.018295454545454545
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -2487,7 +2379,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.016363636363636365
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -2496,7 +2388,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.01534090909090909
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -2505,10 +2397,10 @@ export const galleries = [
                 210
               ],
               "hex": "#a0bed2",
-              "percentage": 0.009431818181818182
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 33.98595297659093
+          "colorfulness": "33.986"
         }
       },
       {
@@ -2516,8 +2408,6 @@ export const galleries = [
         "latitude": 48.169933,
         "longitude": 16.427206,
         "createDate": "2025-07-26T12:26:37.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169933,16.427206",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2527,7 +2417,7 @@ export const galleries = [
                 210
               ],
               "hex": "#bec8d2",
-              "percentage": 0.04711340206185567
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -2536,7 +2426,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.01618556701030928
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -2545,7 +2435,7 @@ export const galleries = [
                 150
               ],
               "hex": "#789696",
-              "percentage": 0.015463917525773196
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -2554,10 +2444,10 @@ export const galleries = [
                 40
               ],
               "hex": "#6e5a28",
-              "percentage": 0.010618556701030927
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 41.692011740307024
+          "colorfulness": "41.692"
         }
       },
       {
@@ -2565,8 +2455,6 @@ export const galleries = [
         "latitude": 48.254253,
         "longitude": 16.380364,
         "createDate": "2025-05-10T12:33:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.254253,16.380364",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2576,7 +2464,7 @@ export const galleries = [
                 200
               ],
               "hex": "#3296c8",
-              "percentage": 0.03585365853658536
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -2585,7 +2473,7 @@ export const galleries = [
                 60
               ],
               "hex": "#8c823c",
-              "percentage": 0.02048780487804878
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -2594,7 +2482,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.0071951219512195125
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -2603,7 +2491,7 @@ export const galleries = [
                 170
               ],
               "hex": "#aaaaaa",
-              "percentage": 0.0028048780487804877
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -2612,10 +2500,10 @@ export const galleries = [
                 240
               ],
               "hex": "#f0f0f0",
-              "percentage": 0.0021951219512195124
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 47.365047963557544
+          "colorfulness": "47.365"
         }
       },
       {
@@ -2623,8 +2511,6 @@ export const galleries = [
         "latitude": 48.208242,
         "longitude": 16.359903,
         "createDate": "2025-05-05T07:37:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.208242,16.359903",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2634,7 +2520,7 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.14411764705882352
+              "percentage": "0.144"
             },
             {
               "rgb": [
@@ -2643,7 +2529,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.06764705882352941
+              "percentage": "0.068"
             },
             {
               "rgb": [
@@ -2652,10 +2538,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.0009411764705882353
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 26.30343061380799
+          "colorfulness": "26.303"
         }
       },
       {
@@ -2663,8 +2549,6 @@ export const galleries = [
         "latitude": 48.249478,
         "longitude": 16.364239,
         "createDate": "2025-07-12T15:51:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.249478,16.364239",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2674,7 +2558,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.06642857142857143
+              "percentage": "0.066"
             },
             {
               "rgb": [
@@ -2683,7 +2567,7 @@ export const galleries = [
                 100
               ],
               "hex": "#b48264",
-              "percentage": 0.05085714285714286
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -2692,10 +2576,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.027285714285714285
+              "percentage": "0.027"
             }
           ],
-          "colorfulness": 43.81823667041442
+          "colorfulness": "43.818"
         }
       },
       {
@@ -2703,8 +2587,6 @@ export const galleries = [
         "latitude": 48.203186,
         "longitude": 16.337078,
         "createDate": "2025-05-03T11:37:10.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203186,16.337078",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2714,7 +2596,7 @@ export const galleries = [
                 80
               ],
               "hex": "#6e5a50",
-              "percentage": 0.05621621621621622
+              "percentage": "0.056"
             },
             {
               "rgb": [
@@ -2723,7 +2605,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.05243243243243243
+              "percentage": "0.052"
             },
             {
               "rgb": [
@@ -2732,7 +2614,7 @@ export const galleries = [
                 160
               ],
               "hex": "#e6bea0",
-              "percentage": 0.016891891891891893
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -2741,10 +2623,10 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.008648648648648649
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 40.04953497300669
+          "colorfulness": "40.050"
         }
       },
       {
@@ -2752,8 +2634,6 @@ export const galleries = [
         "latitude": 48.176692,
         "longitude": 16.409042,
         "createDate": "2025-07-26T15:36:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176692,16.409042",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2763,7 +2643,7 @@ export const galleries = [
                 90
               ],
               "hex": "#96785a",
-              "percentage": 0.015185185185185185
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -2772,7 +2652,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.015061728395061728
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -2781,7 +2661,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.013333333333333334
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -2790,10 +2670,10 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.010246913580246913
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 33.63556082843433
+          "colorfulness": "33.636"
         }
       },
       {
@@ -2801,8 +2681,6 @@ export const galleries = [
         "latitude": 48.202733,
         "longitude": 16.391633,
         "createDate": "2025-07-25T11:45:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202733,16.391633",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2812,7 +2690,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.07756410256410257
+              "percentage": "0.078"
             },
             {
               "rgb": [
@@ -2821,10 +2699,10 @@ export const galleries = [
                 90
               ],
               "hex": "#8c6e5a",
-              "percentage": 0.011282051282051283
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 36.89532752057457
+          "colorfulness": "36.895"
         }
       },
       {
@@ -2832,8 +2710,6 @@ export const galleries = [
         "latitude": 48.226181,
         "longitude": 16.366172,
         "createDate": "2025-07-15T18:57:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.226181,16.366172",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2843,7 +2719,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.06541666666666666
+              "percentage": "0.065"
             },
             {
               "rgb": [
@@ -2852,10 +2728,10 @@ export const galleries = [
                 230
               ],
               "hex": "#8cbee6",
-              "percentage": 0.011145833333333334
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 35.38081051539361
+          "colorfulness": "35.381"
         }
       },
       {
@@ -2863,8 +2739,6 @@ export const galleries = [
         "latitude": 48.197028,
         "longitude": 16.380692,
         "createDate": "2025-05-02T15:22:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.197028,16.380692",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2874,7 +2748,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281414",
-              "percentage": 0.02851851851851852
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -2883,7 +2757,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.023580246913580245
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -2892,7 +2766,7 @@ export const galleries = [
                 240
               ],
               "hex": "#50bef0",
-              "percentage": 0.014567901234567901
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -2901,10 +2775,10 @@ export const galleries = [
                 20
               ],
               "hex": "#faaa14",
-              "percentage": 0.0001234567901234568
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 54.90712596120588
+          "colorfulness": "54.907"
         }
       },
       {
@@ -2912,8 +2786,6 @@ export const galleries = [
         "latitude": 48.197242,
         "longitude": 16.379769,
         "createDate": "2025-05-02T15:21:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.197242,16.379769",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2923,7 +2795,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.02554054054054054
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -2932,7 +2804,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.023783783783783784
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -2941,7 +2813,7 @@ export const galleries = [
                 240
               ],
               "hex": "#5abef0",
-              "percentage": 0.01972972972972973
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -2950,7 +2822,7 @@ export const galleries = [
                 210
               ],
               "hex": "#faf0d2",
-              "percentage": 0.005135135135135135
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -2959,10 +2831,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.0013513513513513514
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 43.56328478467098
+          "colorfulness": "43.563"
         }
       },
       {
@@ -2970,8 +2842,6 @@ export const galleries = [
         "latitude": 48.233425,
         "longitude": 16.388417,
         "createDate": "2025-07-15T16:52:52.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.233425,16.388417",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -2981,7 +2851,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.025569620253164557
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -2990,7 +2860,7 @@ export const galleries = [
                 190
               ],
               "hex": "#8cbebe",
-              "percentage": 0.015949367088607596
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -2999,7 +2869,7 @@ export const galleries = [
                 20
               ],
               "hex": "#462814",
-              "percentage": 0.010632911392405063
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -3008,10 +2878,10 @@ export const galleries = [
                 90
               ],
               "hex": "#aa825a",
-              "percentage": 0.010253164556962025
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 37.61010026546073
+          "colorfulness": "37.610"
         }
       },
       {
@@ -3019,8 +2889,6 @@ export const galleries = [
         "latitude": 48.1684,
         "longitude": 16.423244,
         "createDate": "2025-06-29T10:35:58.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1684,16.423244",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3030,7 +2898,7 @@ export const galleries = [
                 50
               ],
               "hex": "#5a3c32",
-              "percentage": 0.021847826086956523
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -3039,7 +2907,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.010217391304347826
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -3048,7 +2916,7 @@ export const galleries = [
                 190
               ],
               "hex": "#fae6be",
-              "percentage": 0.009347826086956522
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -3057,7 +2925,7 @@ export const galleries = [
                 30
               ],
               "hex": "#f0e61e",
-              "percentage": 0.0005434782608695652
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -3066,10 +2934,10 @@ export const galleries = [
                 0
               ],
               "hex": "#fa1e00",
-              "percentage": 0.00010869565217391305
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 36.03225172184673
+          "colorfulness": "36.032"
         }
       },
       {
@@ -3077,8 +2945,6 @@ export const galleries = [
         "latitude": 48.19725,
         "longitude": 16.337719,
         "createDate": "2024-06-07T15:33:56.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.19725,16.337719",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3088,7 +2954,7 @@ export const galleries = [
                 180
               ],
               "hex": "#f0d2b4",
-              "percentage": 0.04033898305084746
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -3097,7 +2963,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.03966101694915254
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -3106,10 +2972,10 @@ export const galleries = [
                 40
               ],
               "hex": "#5a3c28",
-              "percentage": 0.02135593220338983
+              "percentage": "0.021"
             }
           ],
-          "colorfulness": 35.73719183903797
+          "colorfulness": "35.737"
         }
       },
       {
@@ -3117,8 +2983,6 @@ export const galleries = [
         "latitude": 48.198947,
         "longitude": 16.382642,
         "createDate": "2025-05-02T15:15:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198947,16.382642",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3128,7 +2992,7 @@ export const galleries = [
                 90
               ],
               "hex": "#b4825a",
-              "percentage": 0.025053763440860216
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -3137,7 +3001,7 @@ export const galleries = [
                 10
               ],
               "hex": "#6e3c0a",
-              "percentage": 0.01967741935483871
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -3146,7 +3010,7 @@ export const galleries = [
                 160
               ],
               "hex": "#aaa0a0",
-              "percentage": 0.018494623655913978
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -3155,10 +3019,10 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.011720430107526882
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 35.685453368307414
+          "colorfulness": "35.685"
         }
       },
       {
@@ -3166,8 +3030,6 @@ export const galleries = [
         "latitude": 48.202319,
         "longitude": 16.395164,
         "createDate": "2025-07-25T11:48:30.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202319,16.395164",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3177,7 +3039,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.029487179487179487
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -3186,7 +3048,7 @@ export const galleries = [
                 100
               ],
               "hex": "#967864",
-              "percentage": 0.02923076923076923
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -3195,7 +3057,7 @@ export const galleries = [
                 50
               ],
               "hex": "#5a3c32",
-              "percentage": 0.019487179487179488
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -3204,10 +3066,10 @@ export const galleries = [
                 20
               ],
               "hex": "#d29614",
-              "percentage": 0.0002564102564102564
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 31.56699226788308
+          "colorfulness": "31.567"
         }
       },
       {
@@ -3215,8 +3077,6 @@ export const galleries = [
         "latitude": 48.169717,
         "longitude": 16.416008,
         "createDate": "2025-07-13T13:28:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169717,16.416008",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3226,7 +3086,7 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.08341176470588235
+              "percentage": "0.083"
             },
             {
               "rgb": [
@@ -3235,7 +3095,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.03447058823529412
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -3244,7 +3104,7 @@ export const galleries = [
                 110
               ],
               "hex": "#a0d26e",
-              "percentage": 0.012
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -3253,10 +3113,10 @@ export const galleries = [
                 80
               ],
               "hex": "#6e5a50",
-              "percentage": 0.004470588235294118
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 45.02742787756805
+          "colorfulness": "45.027"
         }
       },
       {
@@ -3264,8 +3124,6 @@ export const galleries = [
         "latitude": 48.200011,
         "longitude": 16.387772,
         "createDate": "2025-05-02T15:09:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.200011,16.387772",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3275,7 +3133,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.01628205128205128
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -3284,7 +3142,7 @@ export const galleries = [
                 90
               ],
               "hex": "#8c6e5a",
-              "percentage": 0.012051282051282051
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -3293,10 +3151,10 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.006538461538461538
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 33.32006554622351
+          "colorfulness": "33.320"
         }
       },
       {
@@ -3304,8 +3162,6 @@ export const galleries = [
         "latitude": 48.169978,
         "longitude": 16.414044,
         "createDate": "2025-07-13T13:26:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169978,16.414044",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3315,7 +3171,7 @@ export const galleries = [
                 190
               ],
               "hex": "#1482be",
-              "percentage": 0.06268817204301075
+              "percentage": "0.063"
             },
             {
               "rgb": [
@@ -3324,7 +3180,7 @@ export const galleries = [
                 130
               ],
               "hex": "#aa9682",
-              "percentage": 0.03602150537634408
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -3333,7 +3189,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.03032258064516129
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -3342,10 +3198,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.012150537634408601
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 53.571594462354575
+          "colorfulness": "53.572"
         }
       },
       {
@@ -3353,8 +3209,6 @@ export const galleries = [
         "latitude": 48.236172,
         "longitude": 16.385681,
         "createDate": "2025-07-15T16:57:28.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.236172,16.385681",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3364,7 +3218,7 @@ export const galleries = [
                 110
               ],
               "hex": "#aa8c6e",
-              "percentage": 0.03774193548387097
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -3373,7 +3227,7 @@ export const galleries = [
                 210
               ],
               "hex": "#a0bed2",
-              "percentage": 0.016236559139784945
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -3382,10 +3236,10 @@ export const galleries = [
                 50
               ],
               "hex": "#503c32",
-              "percentage": 0.007956989247311828
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 28.635305746553176
+          "colorfulness": "28.635"
         }
       },
       {
@@ -3393,8 +3247,6 @@ export const galleries = [
         "latitude": 48.20415,
         "longitude": 16.336481,
         "createDate": "2025-05-03T11:35:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.20415,16.336481",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3404,7 +3256,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.029390243902439023
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -3413,7 +3265,7 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.025365853658536587
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -3422,10 +3274,10 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.016585365853658537
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": 37.68658259825197
+          "colorfulness": "37.687"
         }
       },
       {
@@ -3433,8 +3285,6 @@ export const galleries = [
         "latitude": 48.173972,
         "longitude": 16.411875,
         "createDate": "2025-08-02T11:25:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173972,16.411875",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3444,7 +3294,7 @@ export const galleries = [
                 50
               ],
               "hex": "#5a3c32",
-              "percentage": 0.047448979591836735
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -3453,10 +3303,10 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.042346938775510205
+              "percentage": "0.042"
             }
           ],
-          "colorfulness": 29.94411258072394
+          "colorfulness": "29.944"
         }
       },
       {
@@ -3464,8 +3314,6 @@ export const galleries = [
         "latitude": 48.215033,
         "longitude": 16.358572,
         "createDate": "2025-07-29T07:03:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215033,16.358572",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3475,7 +3323,7 @@ export const galleries = [
                 10
               ],
               "hex": "#281e0a",
-              "percentage": 0.01925
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -3484,7 +3332,7 @@ export const galleries = [
                 110
               ],
               "hex": "#beb46e",
-              "percentage": 0.01775
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -3493,10 +3341,10 @@ export const galleries = [
                 200
               ],
               "hex": "#dcd2c8",
-              "percentage": 0.01175
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 40.74999921362526
+          "colorfulness": "40.750"
         }
       },
       {
@@ -3504,8 +3352,6 @@ export const galleries = [
         "latitude": 48.162964,
         "longitude": 16.427539,
         "createDate": "2025-06-01T06:38:19.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.162964,16.427539",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3515,7 +3361,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.15835164835164836
+              "percentage": "0.158"
             },
             {
               "rgb": [
@@ -3524,7 +3370,7 @@ export const galleries = [
                 80
               ],
               "hex": "#6e6450",
-              "percentage": 0.035164835164835165
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -3533,10 +3379,10 @@ export const galleries = [
                 150
               ],
               "hex": "#aaa096",
-              "percentage": 0.03307692307692308
+              "percentage": "0.033"
             }
           ],
-          "colorfulness": 35.278583350566734
+          "colorfulness": "35.279"
         }
       },
       {
@@ -3544,8 +3390,6 @@ export const galleries = [
         "latitude": 48.199825,
         "longitude": 16.387606,
         "createDate": "2025-05-02T15:09:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199825,16.387606",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3555,7 +3399,7 @@ export const galleries = [
                 120
               ],
               "hex": "#827878",
-              "percentage": 0.027466666666666667
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -3564,10 +3408,10 @@ export const galleries = [
                 230
               ],
               "hex": "#e6f0e6",
-              "percentage": 0.008
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 27.62635749997466
+          "colorfulness": "27.626"
         }
       },
       {
@@ -3575,8 +3419,6 @@ export const galleries = [
         "latitude": 48.207714,
         "longitude": 16.309044,
         "createDate": "2025-06-07T15:53:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207714,16.309044",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3586,7 +3428,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.08868686868686869
+              "percentage": "0.089"
             },
             {
               "rgb": [
@@ -3595,7 +3437,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.06323232323232324
+              "percentage": "0.063"
             },
             {
               "rgb": [
@@ -3604,7 +3446,7 @@ export const galleries = [
                 130
               ],
               "hex": "#8c8282",
-              "percentage": 0.008585858585858586
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -3613,10 +3455,10 @@ export const galleries = [
                 90
               ],
               "hex": "#645a5a",
-              "percentage": 0.007171717171717172
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 46.41313383633699
+          "colorfulness": "46.413"
         }
       },
       {
@@ -3624,8 +3466,6 @@ export const galleries = [
         "latitude": 48.174494,
         "longitude": 16.410661,
         "createDate": "2025-05-10T11:24:28.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174494,16.410661",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3635,7 +3475,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.0156
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -3644,7 +3484,7 @@ export const galleries = [
                 110
               ],
               "hex": "#96826e",
-              "percentage": 0.01
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -3653,7 +3493,7 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.007866666666666666
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -3662,10 +3502,10 @@ export const galleries = [
                 240
               ],
               "hex": "#96d2f0",
-              "percentage": 0.0008
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 33.586356535195115
+          "colorfulness": "33.586"
         }
       },
       {
@@ -3673,8 +3513,6 @@ export const galleries = [
         "latitude": 48.168983,
         "longitude": 16.418758,
         "createDate": "2025-05-04T05:09:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168983,16.418758",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3684,7 +3522,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.06
+              "percentage": "0.060"
             },
             {
               "rgb": [
@@ -3693,7 +3531,7 @@ export const galleries = [
                 220
               ],
               "hex": "#c8d2dc",
-              "percentage": 0.02527027027027027
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -3702,7 +3540,7 @@ export const galleries = [
                 10
               ],
               "hex": "#281e0a",
-              "percentage": 0.010675675675675676
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -3711,7 +3549,7 @@ export const galleries = [
                 50
               ],
               "hex": "#786432",
-              "percentage": 0.007162162162162162
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -3720,10 +3558,10 @@ export const galleries = [
                 60
               ],
               "hex": "#b4323c",
-              "percentage": 0.00013513513513513514
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 39.86926252798
+          "colorfulness": "39.869"
         }
       },
       {
@@ -3731,8 +3569,6 @@ export const galleries = [
         "latitude": 48.168872,
         "longitude": 16.416753,
         "createDate": "2025-05-02T14:31:53.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168872,16.416753",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3742,7 +3578,7 @@ export const galleries = [
                 180
               ],
               "hex": "#e6d2b4",
-              "percentage": 0.03582089552238806
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -3751,7 +3587,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.026865671641791045
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -3760,7 +3596,7 @@ export const galleries = [
                 70
               ],
               "hex": "#504646",
-              "percentage": 0.024029850746268656
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -3769,7 +3605,7 @@ export const galleries = [
                 220
               ],
               "hex": "#1ea0dc",
-              "percentage": 0.011194029850746268
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -3778,10 +3614,10 @@ export const galleries = [
                 80
               ],
               "hex": "#a09650",
-              "percentage": 0.010895522388059702
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 47.764578803109174
+          "colorfulness": "47.765"
         }
       },
       {
@@ -3789,8 +3625,6 @@ export const galleries = [
         "latitude": 48.241303,
         "longitude": 16.380889,
         "createDate": "2025-04-26T17:25:29.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241303,16.380889",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3800,7 +3634,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.07075
+              "percentage": "0.071"
             },
             {
               "rgb": [
@@ -3809,7 +3643,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.021875
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -3818,7 +3652,7 @@ export const galleries = [
                 160
               ],
               "hex": "#aaa0a0",
-              "percentage": 0.012875
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -3827,10 +3661,10 @@ export const galleries = [
                 90
               ],
               "hex": "#6e5a5a",
-              "percentage": 0.007875
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 41.6265366127621
+          "colorfulness": "41.627"
         }
       },
       {
@@ -3838,8 +3672,6 @@ export const galleries = [
         "latitude": 48.222558,
         "longitude": 16.367436,
         "createDate": "2025-07-15T19:03:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.222558,16.367436",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3849,7 +3681,7 @@ export const galleries = [
                 240
               ],
               "hex": "#82bef0",
-              "percentage": 0.06342105263157895
+              "percentage": "0.063"
             },
             {
               "rgb": [
@@ -3858,7 +3690,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.05092105263157895
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -3867,10 +3699,10 @@ export const galleries = [
                 110
               ],
               "hex": "#82786e",
-              "percentage": 0.006447368421052631
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 48.543900682850534
+          "colorfulness": "48.544"
         }
       },
       {
@@ -3878,8 +3710,6 @@ export const galleries = [
         "latitude": 48.204853,
         "longitude": 16.372997,
         "createDate": "2025-07-27T08:48:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204853,16.372997",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3889,7 +3719,7 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.1136
+              "percentage": "0.114"
             },
             {
               "rgb": [
@@ -3898,7 +3728,7 @@ export const galleries = [
                 60
               ],
               "hex": "#64503c",
-              "percentage": 0.0064
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -3907,10 +3737,10 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.002266666666666667
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 29.929848316167092
+          "colorfulness": "29.930"
         }
       },
       {
@@ -3918,8 +3748,6 @@ export const galleries = [
         "latitude": 48.198017,
         "longitude": 16.335486,
         "createDate": "2025-05-03T10:58:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198017,16.335486",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3929,7 +3757,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beb496",
-              "percentage": 0.05960526315789474
+              "percentage": "0.060"
             },
             {
               "rgb": [
@@ -3938,7 +3766,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.04065789473684211
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -3947,7 +3775,7 @@ export const galleries = [
                 110
               ],
               "hex": "#826e6e",
-              "percentage": 0.015526315789473685
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -3956,7 +3784,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140a00",
-              "percentage": 0.013947368421052632
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -3965,10 +3793,10 @@ export const galleries = [
                 190
               ],
               "hex": "#78a0be",
-              "percentage": 0.0007894736842105263
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 35.6692082225364
+          "colorfulness": "35.669"
         }
       },
       {
@@ -3976,8 +3804,6 @@ export const galleries = [
         "latitude": 48.165367,
         "longitude": 16.430989,
         "createDate": "2025-07-27T13:32:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.165367,16.430989",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -3987,7 +3813,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.058875
+              "percentage": "0.059"
             },
             {
               "rgb": [
@@ -3996,7 +3822,7 @@ export const galleries = [
                 130
               ],
               "hex": "#968c82",
-              "percentage": 0.018875
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -4005,10 +3831,10 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.016125
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 40.994136443829156
+          "colorfulness": "40.994"
         }
       },
       {
@@ -4016,8 +3842,6 @@ export const galleries = [
         "latitude": 48.168206,
         "longitude": 16.412992,
         "createDate": "2025-07-26T15:58:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168206,16.412992",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4027,7 +3851,7 @@ export const galleries = [
                 20
               ],
               "hex": "#322814",
-              "percentage": 0.013448275862068966
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -4036,7 +3860,7 @@ export const galleries = [
                 60
               ],
               "hex": "#82823c",
-              "percentage": 0.01310344827586207
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -4045,10 +3869,10 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.007126436781609196
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 30.61381935593489
+          "colorfulness": "30.614"
         }
       },
       {
@@ -4056,8 +3880,6 @@ export const galleries = [
         "latitude": 48.204003,
         "longitude": 16.336544,
         "createDate": "2025-05-03T11:36:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204003,16.336544",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4067,7 +3889,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.05893617021276596
+              "percentage": "0.059"
             },
             {
               "rgb": [
@@ -4076,7 +3898,7 @@ export const galleries = [
                 120
               ],
               "hex": "#827878",
-              "percentage": 0.02574468085106383
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -4085,10 +3907,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.007553191489361702
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 38.35867130055713
+          "colorfulness": "38.359"
         }
       },
       {
@@ -4096,8 +3918,6 @@ export const galleries = [
         "latitude": 48.2066,
         "longitude": 16.360278,
         "createDate": "2025-07-14T18:17:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2066,16.360278",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4107,7 +3927,7 @@ export const galleries = [
                 70
               ],
               "hex": "#785a46",
-              "percentage": 0.042222222222222223
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -4116,7 +3936,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.03588888888888889
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -4125,10 +3945,10 @@ export const galleries = [
                 80
               ],
               "hex": "#dc6450",
-              "percentage": 0.0006666666666666666
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 30.64609771975897
+          "colorfulness": "30.646"
         }
       },
       {
@@ -4136,8 +3956,6 @@ export const galleries = [
         "latitude": 48.158444,
         "longitude": 16.424008,
         "createDate": "2025-05-29T08:20:20.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158444,16.424008",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4147,7 +3965,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.04533333333333334
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -4156,7 +3974,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.026333333333333334
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -4165,10 +3983,10 @@ export const galleries = [
                 100
               ],
               "hex": "#b49664",
-              "percentage": 0.009666666666666667
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 41.97793201790436
+          "colorfulness": "41.978"
         }
       },
       {
@@ -4176,8 +3994,6 @@ export const galleries = [
         "latitude": 48.240156,
         "longitude": 16.385886,
         "createDate": "2025-07-15T17:06:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.240156,16.385886",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4187,7 +4003,7 @@ export const galleries = [
                 70
               ],
               "hex": "#645046",
-              "percentage": 0.04369047619047619
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -4196,7 +4012,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.03845238095238095
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -4205,10 +4021,10 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.025238095238095237
+              "percentage": "0.025"
             }
           ],
-          "colorfulness": 34.88919975944474
+          "colorfulness": "34.889"
         }
       },
       {
@@ -4216,8 +4032,6 @@ export const galleries = [
         "latitude": 48.241619,
         "longitude": 16.384619,
         "createDate": "2025-04-21T16:29:50.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241619,16.384619",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4227,7 +4041,7 @@ export const galleries = [
                 110
               ],
               "hex": "#82786e",
-              "percentage": 0.027142857142857142
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -4236,7 +4050,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.022307692307692306
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -4245,7 +4059,7 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.017802197802197803
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -4254,7 +4068,7 @@ export const galleries = [
                 250
               ],
               "hex": "#fafafa",
-              "percentage": 0.0035164835164835165
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -4263,10 +4077,10 @@ export const galleries = [
                 100
               ],
               "hex": "#faf064",
-              "percentage": 0.00032967032967032967
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 35.9477552968924
+          "colorfulness": "35.948"
         }
       },
       {
@@ -4274,8 +4088,6 @@ export const galleries = [
         "latitude": 48.242469,
         "longitude": 16.385989,
         "createDate": "2025-05-10T15:17:29.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.242469,16.385989",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4285,7 +4097,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.04524390243902439
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -4294,7 +4106,7 @@ export const galleries = [
                 210
               ],
               "hex": "#78b4d2",
-              "percentage": 0.01926829268292683
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -4303,7 +4115,7 @@ export const galleries = [
                 230
               ],
               "hex": "#c8dce6",
-              "percentage": 0.016829268292682928
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -4312,10 +4124,10 @@ export const galleries = [
                 90
               ],
               "hex": "#6e645a",
-              "percentage": 0.008658536585365854
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 45.285892268551756
+          "colorfulness": "45.286"
         }
       },
       {
@@ -4323,8 +4135,6 @@ export const galleries = [
         "latitude": 48.241947,
         "longitude": 16.384497,
         "createDate": "2025-05-10T15:27:25.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241947,16.384497",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4334,7 +4144,7 @@ export const galleries = [
                 140
               ],
               "hex": "#82828c",
-              "percentage": 0.05014925373134328
+              "percentage": "0.050"
             },
             {
               "rgb": [
@@ -4343,10 +4153,10 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.007761194029850746
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 28.602828527688526
+          "colorfulness": "28.603"
         }
       },
       {
@@ -4354,8 +4164,6 @@ export const galleries = [
         "latitude": 48.241558,
         "longitude": 16.384994,
         "createDate": "2025-05-10T15:25:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241558,16.384994",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4365,7 +4173,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.059130434782608696
+              "percentage": "0.059"
             },
             {
               "rgb": [
@@ -4374,7 +4182,7 @@ export const galleries = [
                 100
               ],
               "hex": "#967864",
-              "percentage": 0.02608695652173913
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -4383,10 +4191,10 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.014782608695652174
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 35.066759602671375
+          "colorfulness": "35.067"
         }
       },
       {
@@ -4394,8 +4202,6 @@ export const galleries = [
         "latitude": 48.203336,
         "longitude": 16.337169,
         "createDate": "2025-05-03T11:36:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203336,16.337169",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4405,7 +4211,7 @@ export const galleries = [
                 180
               ],
               "hex": "#f0d2b4",
-              "percentage": 0.04467391304347826
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -4414,7 +4220,7 @@ export const galleries = [
                 170
               ],
               "hex": "#aaaaaa",
-              "percentage": 0.01956521739130435
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -4423,10 +4229,10 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.015434782608695652
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 45.19780630268165
+          "colorfulness": "45.198"
         }
       },
       {
@@ -4434,8 +4240,6 @@ export const galleries = [
         "latitude": 48.185806,
         "longitude": 16.413911,
         "createDate": "2025-04-23T20:40:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185806,16.413911",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4445,7 +4249,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.08287671232876713
+              "percentage": "0.083"
             },
             {
               "rgb": [
@@ -4454,7 +4258,7 @@ export const galleries = [
                 50
               ],
               "hex": "#785032",
-              "percentage": 0.026164383561643835
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -4463,10 +4267,10 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.000273972602739726
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 25.535556289685857
+          "colorfulness": "25.536"
         }
       },
       {
@@ -4474,8 +4278,6 @@ export const galleries = [
         "latitude": 48.181586,
         "longitude": 16.411972,
         "createDate": "2025-04-23T17:35:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181586,16.411972",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4485,7 +4287,7 @@ export const galleries = [
                 10
               ],
               "hex": "#281e0a",
-              "percentage": 0.07091954022988506
+              "percentage": "0.071"
             },
             {
               "rgb": [
@@ -4494,7 +4296,7 @@ export const galleries = [
                 210
               ],
               "hex": "#bec8d2",
-              "percentage": 0.014022988505747127
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -4503,7 +4305,7 @@ export const galleries = [
                 160
               ],
               "hex": "#788ca0",
-              "percentage": 0.00896551724137931
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -4512,7 +4314,7 @@ export const galleries = [
                 90
               ],
               "hex": "#78645a",
-              "percentage": 0.007471264367816092
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -4521,10 +4323,10 @@ export const galleries = [
                 180
               ],
               "hex": "#fadcb4",
-              "percentage": 0.006551724137931035
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 44.101232741329085
+          "colorfulness": "44.101"
         }
       },
       {
@@ -4532,8 +4334,6 @@ export const galleries = [
         "latitude": 48.216494,
         "longitude": 16.356881,
         "createDate": "2025-05-02T10:48:43.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216494,16.356881",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4543,7 +4343,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.051014492753623186
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -4552,7 +4352,7 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.027391304347826086
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -4561,7 +4361,7 @@ export const galleries = [
                 50
               ],
               "hex": "#e62832",
-              "percentage": 0.015942028985507246
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -4570,7 +4370,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.015217391304347827
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -4579,10 +4379,10 @@ export const galleries = [
                 240
               ],
               "hex": "#aadcf0",
-              "percentage": 0.012028985507246378
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 52.46902618235859
+          "colorfulness": "52.469"
         }
       },
       {
@@ -4590,8 +4390,6 @@ export const galleries = [
         "latitude": 48.203903,
         "longitude": 16.367511,
         "createDate": "2025-07-27T09:48:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203903,16.367511",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4601,7 +4399,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.038902439024390244
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -4610,7 +4408,7 @@ export const galleries = [
                 230
               ],
               "hex": "#d2e6e6",
-              "percentage": 0.022560975609756097
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -4619,10 +4417,10 @@ export const galleries = [
                 100
               ],
               "hex": "#826e64",
-              "percentage": 0.013902439024390244
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 35.34077243356546
+          "colorfulness": "35.341"
         }
       },
       {
@@ -4630,8 +4428,6 @@ export const galleries = [
         "latitude": 48.198822,
         "longitude": 16.399586,
         "createDate": "2025-07-25T11:53:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198822,16.399586",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4641,7 +4437,7 @@ export const galleries = [
                 110
               ],
               "hex": "#aa826e",
-              "percentage": 0.04838383838383838
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -4650,7 +4446,7 @@ export const galleries = [
                 200
               ],
               "hex": "#dcd2c8",
-              "percentage": 0.034444444444444444
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -4659,7 +4455,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.00808080808080808
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -4668,7 +4464,7 @@ export const galleries = [
                 50
               ],
               "hex": "#503c32",
-              "percentage": 0.0077777777777777776
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -4677,10 +4473,10 @@ export const galleries = [
                 60
               ],
               "hex": "#dc323c",
-              "percentage": 0.0009090909090909091
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 36.65048231897305
+          "colorfulness": "36.650"
         }
       },
       {
@@ -4688,8 +4484,6 @@ export const galleries = [
         "latitude": 48.201831,
         "longitude": 16.308058,
         "createDate": "2025-06-07T20:14:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201831,16.308058",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4699,7 +4493,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.32285714285714284
+              "percentage": "0.323"
             },
             {
               "rgb": [
@@ -4708,7 +4502,7 @@ export const galleries = [
                 120
               ],
               "hex": "#aa8c78",
-              "percentage": 0.0035714285714285713
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -4717,10 +4511,10 @@ export const galleries = [
                 70
               ],
               "hex": "#785a46",
-              "percentage": 0.0033928571428571428
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 34.12395981753683
+          "colorfulness": "34.124"
         }
       },
       {
@@ -4728,8 +4522,6 @@ export const galleries = [
         "latitude": 48.160958,
         "longitude": 16.430558,
         "createDate": "2025-05-29T08:48:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.160958,16.430558",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4739,7 +4531,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.0946938775510204
+              "percentage": "0.095"
             },
             {
               "rgb": [
@@ -4748,7 +4540,7 @@ export const galleries = [
                 30
               ],
               "hex": "#3c321e",
-              "percentage": 0.014285714285714285
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -4757,7 +4549,7 @@ export const galleries = [
                 120
               ],
               "hex": "#8c8278",
-              "percentage": 0.009387755102040816
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -4766,10 +4558,10 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.009183673469387756
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 41.9830930252233
+          "colorfulness": "41.983"
         }
       },
       {
@@ -4777,8 +4569,6 @@ export const galleries = [
         "latitude": 48.174889,
         "longitude": 16.407264,
         "createDate": "2025-05-10T11:27:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174889,16.407264",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4788,7 +4578,7 @@ export const galleries = [
                 190
               ],
               "hex": "#e6d2be",
-              "percentage": 0.07182926829268292
+              "percentage": "0.072"
             },
             {
               "rgb": [
@@ -4797,7 +4587,7 @@ export const galleries = [
                 70
               ],
               "hex": "#463c46",
-              "percentage": 0.023048780487804878
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -4806,7 +4596,7 @@ export const galleries = [
                 210
               ],
               "hex": "#1496d2",
-              "percentage": 0.016585365853658537
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -4815,7 +4605,7 @@ export const galleries = [
                 230
               ],
               "hex": "#50b4e6",
-              "percentage": 0.01548780487804878
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -4824,10 +4614,10 @@ export const galleries = [
                 90
               ],
               "hex": "#fac85a",
-              "percentage": 0.008902439024390243
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 52.28846158846333
+          "colorfulness": "52.288"
         }
       },
       {
@@ -4835,8 +4625,6 @@ export const galleries = [
         "latitude": 48.237469,
         "longitude": 16.383744,
         "createDate": "2025-07-15T16:59:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.237469,16.383744",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4846,7 +4634,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.10474226804123711
+              "percentage": "0.105"
             },
             {
               "rgb": [
@@ -4855,7 +4643,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.03288659793814433
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -4864,10 +4652,10 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.014020618556701031
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 35.31956869618327
+          "colorfulness": "35.320"
         }
       },
       {
@@ -4875,8 +4663,6 @@ export const galleries = [
         "latitude": 48.154797,
         "longitude": 16.426722,
         "createDate": "2025-05-29T08:23:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.154797,16.426722",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4886,7 +4672,7 @@ export const galleries = [
                 220
               ],
               "hex": "#dcdcdc",
-              "percentage": 0.05942528735632184
+              "percentage": "0.059"
             },
             {
               "rgb": [
@@ -4895,7 +4681,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.015172413793103448
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -4904,10 +4690,10 @@ export const galleries = [
                 110
               ],
               "hex": "#8c786e",
-              "percentage": 0.00896551724137931
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 40.96574604008544
+          "colorfulness": "40.966"
         }
       },
       {
@@ -4915,8 +4701,6 @@ export const galleries = [
         "latitude": 48.185208,
         "longitude": 16.417856,
         "createDate": "2025-08-03T11:49:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185208,16.417856",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4926,7 +4710,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.0477
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -4935,10 +4719,10 @@ export const galleries = [
                 110
               ],
               "hex": "#786e6e",
-              "percentage": 0.0183
+              "percentage": "0.018"
             }
           ],
-          "colorfulness": 36.4325853286447
+          "colorfulness": "36.433"
         }
       },
       {
@@ -4946,8 +4730,6 @@ export const galleries = [
         "latitude": 48.231597,
         "longitude": 16.390483,
         "createDate": "2025-07-15T16:49:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231597,16.390483",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4957,7 +4739,7 @@ export const galleries = [
                 210
               ],
               "hex": "#bec8d2",
-              "percentage": 0.052597402597402594
+              "percentage": "0.053"
             },
             {
               "rgb": [
@@ -4966,10 +4748,10 @@ export const galleries = [
                 30
               ],
               "hex": "#50321e",
-              "percentage": 0.014545454545454545
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 39.976365706159605
+          "colorfulness": "39.976"
         }
       },
       {
@@ -4977,8 +4759,6 @@ export const galleries = [
         "latitude": 48.181872,
         "longitude": 16.413875,
         "createDate": "2025-04-18T10:09:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181872,16.413875",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -4988,7 +4768,7 @@ export const galleries = [
                 230
               ],
               "hex": "#dcdce6",
-              "percentage": 0.06890243902439025
+              "percentage": "0.069"
             },
             {
               "rgb": [
@@ -4997,7 +4777,7 @@ export const galleries = [
                 0
               ],
               "hex": "#000000",
-              "percentage": 0.006585365853658536
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -5006,10 +4786,10 @@ export const galleries = [
                 30
               ],
               "hex": "#28281e",
-              "percentage": 0.005853658536585366
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 36.22851913120228
+          "colorfulness": "36.229"
         }
       },
       {
@@ -5017,8 +4797,6 @@ export const galleries = [
         "latitude": 48.169789,
         "longitude": 16.412914,
         "createDate": "2025-07-13T13:24:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169789,16.412914",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5028,7 +4806,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.023285714285714285
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -5037,7 +4815,7 @@ export const galleries = [
                 120
               ],
               "hex": "#786e78",
-              "percentage": 0.014571428571428572
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -5046,7 +4824,7 @@ export const galleries = [
                 80
               ],
               "hex": "#beb450",
-              "percentage": 0.013
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -5055,10 +4833,10 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.011714285714285714
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 41.26292020968706
+          "colorfulness": "41.263"
         }
       },
       {
@@ -5066,8 +4844,6 @@ export const galleries = [
         "latitude": 48.168781,
         "longitude": 16.417067,
         "createDate": "2025-05-02T15:46:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168781,16.417067",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5077,7 +4853,7 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.032424242424242425
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -5086,7 +4862,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.029393939393939392
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -5095,10 +4871,10 @@ export const galleries = [
                 160
               ],
               "hex": "#d2bea0",
-              "percentage": 0.005454545454545455
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 50.39017114574446
+          "colorfulness": "50.390"
         }
       },
       {
@@ -5106,8 +4882,6 @@ export const galleries = [
         "latitude": 48.174794,
         "longitude": 16.403611,
         "createDate": "2025-08-02T11:17:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174794,16.403611",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5117,7 +4891,7 @@ export const galleries = [
                 160
               ],
               "hex": "#beb4a0",
-              "percentage": 0.08290322580645161
+              "percentage": "0.083"
             },
             {
               "rgb": [
@@ -5126,7 +4900,7 @@ export const galleries = [
                 140
               ],
               "hex": "#1e648c",
-              "percentage": 0.01564516129032258
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -5135,7 +4909,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.012258064516129033
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -5144,10 +4918,10 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.011612903225806452
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 39.30056700105887
+          "colorfulness": "39.301"
         }
       },
       {
@@ -5155,8 +4929,6 @@ export const galleries = [
         "latitude": 48.174664,
         "longitude": 16.403953,
         "createDate": "2025-08-02T11:18:23.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174664,16.403953",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5166,7 +4938,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.036923076923076927
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -5175,7 +4947,7 @@ export const galleries = [
                 130
               ],
               "hex": "#aa9682",
-              "percentage": 0.0367032967032967
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -5184,10 +4956,10 @@ export const galleries = [
                 20
               ],
               "hex": "#3c2814",
-              "percentage": 0.011318681318681318
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 38.03507092721953
+          "colorfulness": "38.035"
         }
       },
       {
@@ -5195,8 +4967,6 @@ export const galleries = [
         "latitude": 48.216675,
         "longitude": 16.35685,
         "createDate": "2025-07-09T07:58:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216675,16.35685",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5206,7 +4976,7 @@ export const galleries = [
                 60
               ],
               "hex": "#82503c",
-              "percentage": 0.07140845070422536
+              "percentage": "0.071"
             },
             {
               "rgb": [
@@ -5215,7 +4985,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.023380281690140847
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -5224,10 +4994,10 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.021549295774647887
+              "percentage": "0.022"
             }
           ],
-          "colorfulness": 34.08835059342255
+          "colorfulness": "34.088"
         }
       },
       {
@@ -5235,8 +5005,6 @@ export const galleries = [
         "latitude": 48.243858,
         "longitude": 16.390128,
         "createDate": "2025-05-10T15:10:45.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.243858,16.390128",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5246,7 +5014,7 @@ export const galleries = [
                 200
               ],
               "hex": "#64a0c8",
-              "percentage": 0.03349206349206349
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -5255,7 +5023,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.029682539682539682
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -5264,7 +5032,7 @@ export const galleries = [
                 60
               ],
               "hex": "#3c323c",
-              "percentage": 0.010634920634920634
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -5273,7 +5041,7 @@ export const galleries = [
                 120
               ],
               "hex": "#a08278",
-              "percentage": 0.010158730158730159
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -5282,10 +5050,10 @@ export const galleries = [
                 90
               ],
               "hex": "#645a5a",
-              "percentage": 0.009523809523809525
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 39.04207963056827
+          "colorfulness": "39.042"
         }
       },
       {
@@ -5293,8 +5061,6 @@ export const galleries = [
         "latitude": 48.201675,
         "longitude": 16.336906,
         "createDate": "2025-05-03T11:39:26.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201675,16.336906",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5304,7 +5070,7 @@ export const galleries = [
                 120
               ],
               "hex": "#a08c78",
-              "percentage": 0.03086021505376344
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -5313,7 +5079,7 @@ export const galleries = [
                 180
               ],
               "hex": "#82a0b4",
-              "percentage": 0.023548387096774193
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -5322,7 +5088,7 @@ export const galleries = [
                 180
               ],
               "hex": "#d2c8b4",
-              "percentage": 0.015376344086021506
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -5331,10 +5097,10 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.010752688172043012
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 32.55580411481526
+          "colorfulness": "32.556"
         }
       },
       {
@@ -5342,8 +5108,6 @@ export const galleries = [
         "latitude": 48.185208,
         "longitude": 16.417864,
         "createDate": "2025-08-03T11:47:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185208,16.417864",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5353,10 +5117,10 @@ export const galleries = [
                 130
               ],
               "hex": "#aa8c82",
-              "percentage": 0.03621212121212121
+              "percentage": "0.036"
             }
           ],
-          "colorfulness": 25.03245273886424
+          "colorfulness": "25.032"
         }
       },
       {
@@ -5364,8 +5128,6 @@ export const galleries = [
         "latitude": 48.202786,
         "longitude": 16.391031,
         "createDate": "2025-05-22T06:15:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202786,16.391031",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5375,7 +5137,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.04376470588235294
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -5384,7 +5146,7 @@ export const galleries = [
                 150
               ],
               "hex": "#aaa096",
-              "percentage": 0.03623529411764706
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -5393,7 +5155,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.016352941176470587
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -5402,10 +5164,10 @@ export const galleries = [
                 170
               ],
               "hex": "#328caa",
-              "percentage": 0.00023529411764705883
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 42.07437007069873
+          "colorfulness": "42.074"
         }
       },
       {
@@ -5413,8 +5175,6 @@ export const galleries = [
         "latitude": 48.204869,
         "longitude": 16.378467,
         "createDate": "2025-07-14T16:00:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204869,16.378467",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5424,7 +5184,7 @@ export const galleries = [
                 170
               ],
               "hex": "#c8b4aa",
-              "percentage": 0.059571428571428574
+              "percentage": "0.060"
             },
             {
               "rgb": [
@@ -5433,10 +5193,10 @@ export const galleries = [
                 30
               ],
               "hex": "#3c321e",
-              "percentage": 0.013428571428571429
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 34.05810136783439
+          "colorfulness": "34.058"
         }
       },
       {
@@ -5444,8 +5204,6 @@ export const galleries = [
         "latitude": 48.208453,
         "longitude": 16.359864,
         "createDate": "2025-05-05T07:37:38.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.208453,16.359864",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5455,7 +5213,7 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.19545454545454546
+              "percentage": "0.195"
             },
             {
               "rgb": [
@@ -5464,7 +5222,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.06147727272727273
+              "percentage": "0.061"
             },
             {
               "rgb": [
@@ -5473,10 +5231,10 @@ export const galleries = [
                 110
               ],
               "hex": "#8c786e",
-              "percentage": 0.02181818181818182
+              "percentage": "0.022"
             }
           ],
-          "colorfulness": 29.28633147304795
+          "colorfulness": "29.286"
         }
       },
       {
@@ -5484,8 +5242,6 @@ export const galleries = [
         "latitude": 48.165992,
         "longitude": 16.414008,
         "createDate": "2025-08-02T16:33:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.165992,16.414008",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5495,7 +5251,7 @@ export const galleries = [
                 60
               ],
               "hex": "#64503c",
-              "percentage": 0.042638888888888886
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -5504,10 +5260,10 @@ export const galleries = [
                 20
               ],
               "hex": "#281414",
-              "percentage": 0.014444444444444444
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 18.950997848233047
+          "colorfulness": "18.951"
         }
       },
       {
@@ -5515,8 +5271,6 @@ export const galleries = [
         "latitude": 48.206025,
         "longitude": 16.360444,
         "createDate": "2025-06-07T13:27:29.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206025,16.360444",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5526,7 +5280,7 @@ export const galleries = [
                 210
               ],
               "hex": "#d2dcd2",
-              "percentage": 0.11257731958762887
+              "percentage": "0.113"
             },
             {
               "rgb": [
@@ -5535,7 +5289,7 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.014639175257731958
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -5544,7 +5298,7 @@ export const galleries = [
                 140
               ],
               "hex": "#a0968c",
-              "percentage": 0.01134020618556701
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -5553,10 +5307,10 @@ export const galleries = [
                 190
               ],
               "hex": "#3c96be",
-              "percentage": 0.0002061855670103093
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 39.15540261908051
+          "colorfulness": "39.155"
         }
       },
       {
@@ -5564,8 +5318,6 @@ export const galleries = [
         "latitude": 48.218628,
         "longitude": 16.368933,
         "createDate": "2025-07-15T19:09:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218628,16.368933",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5575,7 +5327,7 @@ export const galleries = [
                 70
               ],
               "hex": "#825a46",
-              "percentage": 0.027894736842105264
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -5584,7 +5336,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.026421052631578946
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -5593,10 +5345,10 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.02368421052631579
+              "percentage": "0.024"
             }
           ],
-          "colorfulness": 36.53783168608157
+          "colorfulness": "36.538"
         }
       },
       {
@@ -5604,8 +5356,6 @@ export const galleries = [
         "latitude": 48.203994,
         "longitude": 16.367664,
         "createDate": "2025-07-27T09:19:43.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203994,16.367664",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5615,7 +5365,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.16371134020618558
+              "percentage": "0.164"
             },
             {
               "rgb": [
@@ -5624,7 +5374,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4aa96",
-              "percentage": 0.0188659793814433
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -5633,7 +5383,7 @@ export const galleries = [
                 20
               ],
               "hex": "#643214",
-              "percentage": 0.012989690721649485
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -5642,7 +5392,7 @@ export const galleries = [
                 0
               ],
               "hex": "#0a0000",
-              "percentage": 0.004536082474226804
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -5651,10 +5401,10 @@ export const galleries = [
                 0
               ],
               "hex": "#be3c00",
-              "percentage": 0.0006185567010309278
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 43.704788951241824
+          "colorfulness": "43.705"
         }
       },
       {
@@ -5662,8 +5412,6 @@ export const galleries = [
         "latitude": 48.167317,
         "longitude": 16.407628,
         "createDate": "2025-04-13T11:53:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.167317,16.407628",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5673,7 +5421,7 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.09376470588235294
+              "percentage": "0.094"
             },
             {
               "rgb": [
@@ -5682,7 +5430,7 @@ export const galleries = [
                 10
               ],
               "hex": "#283c0a",
-              "percentage": 0.015411764705882352
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -5691,7 +5439,7 @@ export const galleries = [
                 90
               ],
               "hex": "#5a5a5a",
-              "percentage": 0.009294117647058824
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -5700,10 +5448,10 @@ export const galleries = [
                 160
               ],
               "hex": "#a0a0a0",
-              "percentage": 0.0037647058823529413
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 44.413335597403865
+          "colorfulness": "44.413"
         }
       },
       {
@@ -5711,8 +5459,6 @@ export const galleries = [
         "latitude": 48.169953,
         "longitude": 16.419403,
         "createDate": "2025-05-11T13:28:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169953,16.419403",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5722,7 +5468,7 @@ export const galleries = [
                 40
               ],
               "hex": "#503c28",
-              "percentage": 0.03246575342465753
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -5731,10 +5477,10 @@ export const galleries = [
                 220
               ],
               "hex": "#6eb4dc",
-              "percentage": 0.02287671232876712
+              "percentage": "0.023"
             }
           ],
-          "colorfulness": 39.503109959551466
+          "colorfulness": "39.503"
         }
       },
       {
@@ -5742,8 +5488,6 @@ export const galleries = [
         "latitude": 48.173319,
         "longitude": 16.416597,
         "createDate": "2025-07-25T15:44:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173319,16.416597",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5753,7 +5497,7 @@ export const galleries = [
                 210
               ],
               "hex": "#d2dcd2",
-              "percentage": 0.04765432098765432
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -5762,7 +5506,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.018271604938271607
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -5771,7 +5515,7 @@ export const galleries = [
                 90
               ],
               "hex": "#6e645a",
-              "percentage": 0.014567901234567901
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -5780,10 +5524,10 @@ export const galleries = [
                 140
               ],
               "hex": "#96968c",
-              "percentage": 0.01271604938271605
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 40.07343051007553
+          "colorfulness": "40.073"
         }
       },
       {
@@ -5791,8 +5535,6 @@ export const galleries = [
         "latitude": 48.218053,
         "longitude": 16.369561,
         "createDate": "2025-07-15T19:10:43.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218053,16.369561",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5802,7 +5544,7 @@ export const galleries = [
                 180
               ],
               "hex": "#5a8cb4",
-              "percentage": 0.026705882352941177
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -5811,10 +5553,10 @@ export const galleries = [
                 60
               ],
               "hex": "#825a3c",
-              "percentage": 0.02176470588235294
+              "percentage": "0.022"
             }
           ],
-          "colorfulness": 35.59336036141041
+          "colorfulness": "35.593"
         }
       },
       {
@@ -5822,8 +5564,6 @@ export const galleries = [
         "latitude": 48.217422,
         "longitude": 16.370125,
         "createDate": "2025-07-15T19:12:19.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217422,16.370125",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5833,7 +5573,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.050434782608695654
+              "percentage": "0.050"
             },
             {
               "rgb": [
@@ -5842,7 +5582,7 @@ export const galleries = [
                 210
               ],
               "hex": "#1e96d2",
-              "percentage": 0.014492753623188406
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -5851,7 +5591,7 @@ export const galleries = [
                 40
               ],
               "hex": "#8c5028",
-              "percentage": 0.014492753623188406
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -5860,10 +5600,10 @@ export const galleries = [
                 240
               ],
               "hex": "#78c8f0",
-              "percentage": 0.00608695652173913
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 45.56927304178813
+          "colorfulness": "45.569"
         }
       },
       {
@@ -5871,8 +5611,6 @@ export const galleries = [
         "latitude": 48.169636,
         "longitude": 16.420636,
         "createDate": "2025-05-02T15:40:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169636,16.420636",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5882,7 +5620,7 @@ export const galleries = [
                 130
               ],
               "hex": "#bea082",
-              "percentage": 0.05087912087912088
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -5891,7 +5629,7 @@ export const galleries = [
                 180
               ],
               "hex": "#2882b4",
-              "percentage": 0.03274725274725275
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -5900,7 +5638,7 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.018461538461538463
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -5909,7 +5647,7 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.01021978021978022
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -5918,10 +5656,10 @@ export const galleries = [
                 70
               ],
               "hex": "#fa4646",
-              "percentage": 0.0012087912087912088
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 42.79359572713246
+          "colorfulness": "42.794"
         }
       },
       {
@@ -5929,8 +5667,6 @@ export const galleries = [
         "latitude": 48.201789,
         "longitude": 16.337164,
         "createDate": "2025-05-03T11:40:07.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201789,16.337164",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5940,7 +5676,7 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.05065934065934066
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -5949,7 +5685,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.04362637362637363
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -5958,7 +5694,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.013406593406593406
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -5967,10 +5703,10 @@ export const galleries = [
                 80
               ],
               "hex": "#6e5a50",
-              "percentage": 0.007692307692307693
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 37.92128951984449
+          "colorfulness": "37.921"
         }
       },
       {
@@ -5978,8 +5714,6 @@ export const galleries = [
         "latitude": 48.224244,
         "longitude": 16.367244,
         "createDate": "2025-07-15T19:00:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.224244,16.367244",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -5989,7 +5723,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.07365591397849462
+              "percentage": "0.074"
             },
             {
               "rgb": [
@@ -5998,7 +5732,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6f0e6",
-              "percentage": 0.010537634408602151
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -6007,7 +5741,7 @@ export const galleries = [
                 70
               ],
               "hex": "#966446",
-              "percentage": 0.01043010752688172
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -6016,10 +5750,10 @@ export const galleries = [
                 190
               ],
               "hex": "#b4bebe",
-              "percentage": 0.004838709677419355
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 38.564569798221434
+          "colorfulness": "38.565"
         }
       },
       {
@@ -6027,8 +5761,6 @@ export const galleries = [
         "latitude": 48.165025,
         "longitude": 16.416342,
         "createDate": "2025-08-02T05:13:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.165025,16.416342",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6038,7 +5770,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.05264367816091954
+              "percentage": "0.053"
             },
             {
               "rgb": [
@@ -6047,7 +5779,7 @@ export const galleries = [
                 220
               ],
               "hex": "#82bedc",
-              "percentage": 0.028620689655172414
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -6056,10 +5788,10 @@ export const galleries = [
                 170
               ],
               "hex": "#c8beaa",
-              "percentage": 0.0021839080459770113
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 43.634911585204314
+          "colorfulness": "43.635"
         }
       },
       {
@@ -6067,8 +5799,6 @@ export const galleries = [
         "latitude": 48.173278,
         "longitude": 16.41265,
         "createDate": "2025-04-21T17:05:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173278,16.41265",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6078,7 +5808,7 @@ export const galleries = [
                 60
               ],
               "hex": "#82823c",
-              "percentage": 0.014186046511627907
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -6087,7 +5817,7 @@ export const galleries = [
                 40
               ],
               "hex": "#463228",
-              "percentage": 0.011162790697674419
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -6096,10 +5826,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.0047674418604651166
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 34.12474078191769
+          "colorfulness": "34.125"
         }
       },
       {
@@ -6107,8 +5837,6 @@ export const galleries = [
         "latitude": 48.216647,
         "longitude": 16.356478,
         "createDate": "2025-07-07T08:17:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216647,16.356478",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6118,7 +5846,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.0407843137254902
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -6127,7 +5855,7 @@ export const galleries = [
                 80
               ],
               "hex": "#6e5a50",
-              "percentage": 0.03862745098039216
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -6136,7 +5864,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.017058823529411765
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -6145,10 +5873,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.01588235294117647
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 38.736435727722416
+          "colorfulness": "38.736"
         }
       },
       {
@@ -6156,8 +5884,6 @@ export const galleries = [
         "latitude": 48.206183,
         "longitude": 16.380597,
         "createDate": "2025-07-14T15:57:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206183,16.380597",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6167,7 +5893,7 @@ export const galleries = [
                 200
               ],
               "hex": "#dcd2c8",
-              "percentage": 0.04513513513513513
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -6176,7 +5902,7 @@ export const galleries = [
                 40
               ],
               "hex": "#323228",
-              "percentage": 0.012297297297297297
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -6185,10 +5911,10 @@ export const galleries = [
                 80
               ],
               "hex": "#646450",
-              "percentage": 0.012162162162162163
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 40.99120680692108
+          "colorfulness": "40.991"
         }
       },
       {
@@ -6196,8 +5922,6 @@ export const galleries = [
         "latitude": 48.199325,
         "longitude": 16.383333,
         "createDate": "2025-05-02T15:14:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199325,16.383333",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6207,7 +5931,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.03171717171717172
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -6216,7 +5940,7 @@ export const galleries = [
                 200
               ],
               "hex": "#dcd2c8",
-              "percentage": 0.019090909090909092
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -6225,7 +5949,7 @@ export const galleries = [
                 160
               ],
               "hex": "#9696a0",
-              "percentage": 0.01616161616161616
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -6234,10 +5958,10 @@ export const galleries = [
                 80
               ],
               "hex": "#dc5a50",
-              "percentage": 0.00010101010101010101
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 37.15854840071382
+          "colorfulness": "37.159"
         }
       },
       {
@@ -6245,8 +5969,6 @@ export const galleries = [
         "latitude": 48.204211,
         "longitude": 16.368397,
         "createDate": "2025-07-27T10:05:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204211,16.368397",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6256,7 +5978,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.0868
+              "percentage": "0.087"
             },
             {
               "rgb": [
@@ -6265,7 +5987,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.03626666666666667
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -6274,10 +5996,10 @@ export const galleries = [
                 80
               ],
               "hex": "#785a50",
-              "percentage": 0.0156
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 28.295495662305623
+          "colorfulness": "28.295"
         }
       },
       {
@@ -6285,8 +6007,6 @@ export const galleries = [
         "latitude": 48.231067,
         "longitude": 16.391083,
         "createDate": "2025-07-15T16:48:10.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231067,16.391083",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6296,7 +6016,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.025517241379310347
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -6305,7 +6025,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.019770114942528734
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -6314,7 +6034,7 @@ export const galleries = [
                 80
               ],
               "hex": "#464650",
-              "percentage": 0.011264367816091954
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -6323,7 +6043,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.010229885057471265
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -6332,10 +6052,10 @@ export const galleries = [
                 130
               ],
               "hex": "#aa9682",
-              "percentage": 0.008505747126436782
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 40.17167008732705
+          "colorfulness": "40.172"
         }
       },
       {
@@ -6343,8 +6063,6 @@ export const galleries = [
         "latitude": 48.235122,
         "longitude": 16.386739,
         "createDate": "2025-07-15T16:55:38.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.235122,16.386739",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6354,7 +6072,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.053625
+              "percentage": "0.054"
             },
             {
               "rgb": [
@@ -6363,10 +6081,10 @@ export const galleries = [
                 100
               ],
               "hex": "#8c6e64",
-              "percentage": 0.046625
+              "percentage": "0.047"
             }
           ],
-          "colorfulness": 33.86950978202707
+          "colorfulness": "33.870"
         }
       },
       {
@@ -6374,8 +6092,6 @@ export const galleries = [
         "latitude": 48.252056,
         "longitude": 16.382144,
         "createDate": "2025-05-10T12:37:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.252056,16.382144",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6385,7 +6101,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.03035294117647059
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -6394,7 +6110,7 @@ export const galleries = [
                 220
               ],
               "hex": "#50aadc",
-              "percentage": 0.02788235294117647
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -6403,7 +6119,7 @@ export const galleries = [
                 240
               ],
               "hex": "#82c8f0",
-              "percentage": 0.027294117647058823
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -6412,7 +6128,7 @@ export const galleries = [
                 230
               ],
               "hex": "#d2e6e6",
-              "percentage": 0.01811764705882353
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -6421,10 +6137,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.010705882352941176
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 46.18116785200263
+          "colorfulness": "46.181"
         }
       },
       {
@@ -6432,8 +6148,6 @@ export const galleries = [
         "latitude": 48.241436,
         "longitude": 16.381792,
         "createDate": "2025-04-26T17:26:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241436,16.381792",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6443,7 +6157,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.05204545454545455
+              "percentage": "0.052"
             },
             {
               "rgb": [
@@ -6452,7 +6166,7 @@ export const galleries = [
                 90
               ],
               "hex": "#5a505a",
-              "percentage": 0.03556818181818182
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -6461,7 +6175,7 @@ export const galleries = [
                 130
               ],
               "hex": "#8c8282",
-              "percentage": 0.01681818181818182
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -6470,10 +6184,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.015795454545454547
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 40.57454208172695
+          "colorfulness": "40.575"
         }
       },
       {
@@ -6481,8 +6195,6 @@ export const galleries = [
         "latitude": 48.198953,
         "longitude": 16.38115,
         "createDate": "2025-05-02T15:16:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198953,16.38115",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6492,7 +6204,7 @@ export const galleries = [
                 40
               ],
               "hex": "#643228",
-              "percentage": 0.020652173913043477
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -6501,7 +6213,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.018369565217391304
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -6510,7 +6222,7 @@ export const galleries = [
                 110
               ],
               "hex": "#8c786e",
-              "percentage": 0.017065217391304347
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -6519,10 +6231,10 @@ export const galleries = [
                 220
               ],
               "hex": "#8cbedc",
-              "percentage": 0.006521739130434782
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 35.7199460877742
+          "colorfulness": "35.720"
         }
       },
       {
@@ -6530,8 +6242,6 @@ export const galleries = [
         "latitude": 48.185756,
         "longitude": 16.375636,
         "createDate": "2025-06-05T17:40:07.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185756,16.375636",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6541,7 +6251,7 @@ export const galleries = [
                 40
               ],
               "hex": "#463228",
-              "percentage": 0.06853333333333333
+              "percentage": "0.069"
             },
             {
               "rgb": [
@@ -6550,10 +6260,10 @@ export const galleries = [
                 180
               ],
               "hex": "#bebeb4",
-              "percentage": 0.04586666666666667
+              "percentage": "0.046"
             }
           ],
-          "colorfulness": 38.282638569444764
+          "colorfulness": "38.283"
         }
       },
       {
@@ -6561,8 +6271,6 @@ export const galleries = [
         "latitude": 48.1596,
         "longitude": 16.432486,
         "createDate": "2025-06-03T17:44:10.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1596,16.432486",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6572,7 +6280,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.043292682926829265
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -6581,7 +6289,7 @@ export const galleries = [
                 210
               ],
               "hex": "#6eaad2",
-              "percentage": 0.03609756097560975
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -6590,7 +6298,7 @@ export const galleries = [
                 120
               ],
               "hex": "#8c7878",
-              "percentage": 0.030609756097560975
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -6599,7 +6307,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.010853658536585365
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -6608,10 +6316,10 @@ export const galleries = [
                 50
               ],
               "hex": "#c88c32",
-              "percentage": 0.0004878048780487805
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 44.53195173375557
+          "colorfulness": "44.532"
         }
       },
       {
@@ -6619,8 +6327,6 @@ export const galleries = [
         "latitude": 48.202117,
         "longitude": 16.337203,
         "createDate": "2025-05-03T11:41:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202117,16.337203",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6630,7 +6336,7 @@ export const galleries = [
                 160
               ],
               "hex": "#dcbea0",
-              "percentage": 0.04752941176470588
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -6639,7 +6345,7 @@ export const galleries = [
                 200
               ],
               "hex": "#8caac8",
-              "percentage": 0.027176470588235295
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -6648,7 +6354,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.01811764705882353
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -6657,10 +6363,10 @@ export const galleries = [
                 30
               ],
               "hex": "#50321e",
-              "percentage": 0.012705882352941176
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 37.85395857103355
+          "colorfulness": "37.854"
         }
       },
       {
@@ -6668,8 +6374,6 @@ export const galleries = [
         "latitude": 48.201886,
         "longitude": 16.337122,
         "createDate": "2025-05-03T11:40:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201886,16.337122",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6679,7 +6383,7 @@ export const galleries = [
                 210
               ],
               "hex": "#64aad2",
-              "percentage": 0.05104477611940299
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -6688,7 +6392,7 @@ export const galleries = [
                 190
               ],
               "hex": "#e6d2be",
-              "percentage": 0.03373134328358209
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -6697,7 +6401,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.01746268656716418
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -6706,10 +6410,10 @@ export const galleries = [
                 10
               ],
               "hex": "#d2960a",
-              "percentage": 0.0005970149253731343
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 47.17657226353787
+          "colorfulness": "47.177"
         }
       },
       {
@@ -6717,8 +6421,6 @@ export const galleries = [
         "latitude": 48.200256,
         "longitude": 16.311017,
         "createDate": "2025-06-07T20:18:52.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.200256,16.311017",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6728,7 +6430,7 @@ export const galleries = [
                 170
               ],
               "hex": "#c8beaa",
-              "percentage": 0.09746478873239436
+              "percentage": "0.097"
             },
             {
               "rgb": [
@@ -6737,7 +6439,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140a00",
-              "percentage": 0.025211267605633803
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -6746,10 +6448,10 @@ export const galleries = [
                 80
               ],
               "hex": "#6e5a50",
-              "percentage": 0.013943661971830987
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 31.03431590056222
+          "colorfulness": "31.034"
         }
       },
       {
@@ -6757,8 +6459,6 @@ export const galleries = [
         "latitude": 48.207092,
         "longitude": 16.380056,
         "createDate": "2025-07-27T08:39:38.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207092,16.380056",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6768,7 +6468,7 @@ export const galleries = [
                 90
               ],
               "hex": "#78645a",
-              "percentage": 0.021595744680851063
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -6777,7 +6477,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0f0dc",
-              "percentage": 0.007765957446808511
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -6786,10 +6486,10 @@ export const galleries = [
                 180
               ],
               "hex": "#b4b4b4",
-              "percentage": 0.00723404255319149
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 32.411080756907836
+          "colorfulness": "32.411"
         }
       },
       {
@@ -6797,8 +6497,6 @@ export const galleries = [
         "latitude": 48.1679,
         "longitude": 16.411825,
         "createDate": "2025-08-02T16:30:44.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1679,16.411825",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6808,7 +6506,7 @@ export const galleries = [
                 110
               ],
               "hex": "#a0826e",
-              "percentage": 0.03282608695652174
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -6817,7 +6515,7 @@ export const galleries = [
                 50
               ],
               "hex": "#5a3c32",
-              "percentage": 0.029565217391304348
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -6826,10 +6524,10 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.007934782608695653
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 32.85877031469031
+          "colorfulness": "32.859"
         }
       },
       {
@@ -6837,8 +6535,6 @@ export const galleries = [
         "latitude": 48.174267,
         "longitude": 16.41165,
         "createDate": "2025-05-10T16:03:19.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174267,16.41165",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6848,7 +6544,7 @@ export const galleries = [
                 80
               ],
               "hex": "#6e5050",
-              "percentage": 0.023174603174603174
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -6857,7 +6553,7 @@ export const galleries = [
                 10
               ],
               "hex": "#3c320a",
-              "percentage": 0.016031746031746032
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -6866,7 +6562,7 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.01126984126984127
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -6875,7 +6571,7 @@ export const galleries = [
                 210
               ],
               "hex": "#1496d2",
-              "percentage": 0.01
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -6884,10 +6580,10 @@ export const galleries = [
                 240
               ],
               "hex": "#46b4f0",
-              "percentage": 0.007301587301587302
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 45.87610860701266
+          "colorfulness": "45.876"
         }
       },
       {
@@ -6895,8 +6591,6 @@ export const galleries = [
         "latitude": 48.214017,
         "longitude": 16.361797,
         "createDate": "2025-04-21T13:08:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.214017,16.361797",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6906,7 +6600,7 @@ export const galleries = [
                 20
               ],
               "hex": "#141414",
-              "percentage": 0.06451219512195122
+              "percentage": "0.065"
             },
             {
               "rgb": [
@@ -6915,7 +6609,7 @@ export const galleries = [
                 240
               ],
               "hex": "#e6e6f0",
-              "percentage": 0.05317073170731707
+              "percentage": "0.053"
             },
             {
               "rgb": [
@@ -6924,7 +6618,7 @@ export const galleries = [
                 120
               ],
               "hex": "#787878",
-              "percentage": 0.016219512195121952
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -6933,10 +6627,10 @@ export const galleries = [
                 130
               ],
               "hex": "#c8c882",
-              "percentage": 0.011951219512195122
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 42.76499448207321
+          "colorfulness": "42.765"
         }
       },
       {
@@ -6944,8 +6638,6 @@ export const galleries = [
         "latitude": 48.181714,
         "longitude": 16.412022,
         "createDate": "2025-04-23T17:36:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181714,16.412022",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6955,7 +6647,7 @@ export const galleries = [
                 10
               ],
               "hex": "#281e0a",
-              "percentage": 0.0205
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -6964,10 +6656,10 @@ export const galleries = [
                 180
               ],
               "hex": "#a0aab4",
-              "percentage": 0.011625
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 39.372554205222784
+          "colorfulness": "39.373"
         }
       },
       {
@@ -6975,8 +6667,6 @@ export const galleries = [
         "latitude": 48.169839,
         "longitude": 16.420197,
         "createDate": "2025-05-29T06:47:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169839,16.420197",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -6986,7 +6676,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.08742424242424242
+              "percentage": "0.087"
             },
             {
               "rgb": [
@@ -6995,7 +6685,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.05515151515151515
+              "percentage": "0.055"
             },
             {
               "rgb": [
@@ -7004,10 +6694,10 @@ export const galleries = [
                 70
               ],
               "hex": "#645046",
-              "percentage": 0.005303030303030303
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 33.49507560902376
+          "colorfulness": "33.495"
         }
       },
       {
@@ -7015,8 +6705,6 @@ export const galleries = [
         "latitude": 48.181389,
         "longitude": 16.398206,
         "createDate": "2025-04-20T09:44:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181389,16.398206",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7026,7 +6714,7 @@ export const galleries = [
                 240
               ],
               "hex": "#82c8f0",
-              "percentage": 0.03230769230769231
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -7035,7 +6723,7 @@ export const galleries = [
                 170
               ],
               "hex": "#c8b4aa",
-              "percentage": 0.027692307692307693
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -7044,7 +6732,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.023846153846153847
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -7053,10 +6741,10 @@ export const galleries = [
                 180
               ],
               "hex": "#2882b4",
-              "percentage": 0.016
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 48.59994443284122
+          "colorfulness": "48.600"
         }
       },
       {
@@ -7064,8 +6752,6 @@ export const galleries = [
         "latitude": 48.169617,
         "longitude": 16.419389,
         "createDate": "2025-05-02T14:34:52.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169617,16.419389",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7075,7 +6761,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.03488636363636364
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -7084,7 +6770,7 @@ export const galleries = [
                 180
               ],
               "hex": "#2882b4",
-              "percentage": 0.023977272727272726
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -7093,7 +6779,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.007613636363636363
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -7102,10 +6788,10 @@ export const galleries = [
                 60
               ],
               "hex": "#463c3c",
-              "percentage": 0.006818181818181818
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 47.30483243001897
+          "colorfulness": "47.305"
         }
       },
       {
@@ -7113,8 +6799,6 @@ export const galleries = [
         "latitude": 48.189767,
         "longitude": 16.414433,
         "createDate": "2025-06-01T12:28:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.189767,16.414433",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7124,7 +6808,7 @@ export const galleries = [
                 230
               ],
               "hex": "#aad2e6",
-              "percentage": 0.051333333333333335
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -7133,7 +6817,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.042666666666666665
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -7142,7 +6826,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.009111111111111111
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -7151,7 +6835,7 @@ export const galleries = [
                 140
               ],
               "hex": "#82828c",
-              "percentage": 0.009
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -7160,10 +6844,10 @@ export const galleries = [
                 70
               ],
               "hex": "#504646",
-              "percentage": 0.008666666666666666
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 41.44998129781995
+          "colorfulness": "41.450"
         }
       },
       {
@@ -7171,8 +6855,6 @@ export const galleries = [
         "latitude": 48.206794,
         "longitude": 16.382514,
         "createDate": "2025-05-14T06:35:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206794,16.382514",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7182,7 +6864,7 @@ export const galleries = [
                 220
               ],
               "hex": "#bed2dc",
-              "percentage": 0.05329896907216495
+              "percentage": "0.053"
             },
             {
               "rgb": [
@@ -7191,7 +6873,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.02
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -7200,7 +6882,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.015051546391752577
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -7209,10 +6891,10 @@ export const galleries = [
                 50
               ],
               "hex": "#5a3c32",
-              "percentage": 0.011237113402061856
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 40.71343505191359
+          "colorfulness": "40.713"
         }
       },
       {
@@ -7220,8 +6902,6 @@ export const galleries = [
         "latitude": 48.170964,
         "longitude": 16.426986,
         "createDate": "2025-07-26T12:23:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170964,16.426986",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7231,7 +6911,7 @@ export const galleries = [
                 190
               ],
               "hex": "#fae6be",
-              "percentage": 0.049666666666666665
+              "percentage": "0.050"
             },
             {
               "rgb": [
@@ -7240,7 +6920,7 @@ export const galleries = [
                 10
               ],
               "hex": "#281e0a",
-              "percentage": 0.023666666666666666
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -7249,10 +6929,10 @@ export const galleries = [
                 100
               ],
               "hex": "#b4b464",
-              "percentage": 0.012777777777777779
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 44.18162816190991
+          "colorfulness": "44.182"
         }
       },
       {
@@ -7260,8 +6940,6 @@ export const galleries = [
         "latitude": 48.172869,
         "longitude": 16.409564,
         "createDate": "2024-07-19T15:24:07.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172869,16.409564",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7271,7 +6949,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.052653061224489796
+              "percentage": "0.053"
             },
             {
               "rgb": [
@@ -7280,7 +6958,7 @@ export const galleries = [
                 190
               ],
               "hex": "#c8c8be",
-              "percentage": 0.03836734693877551
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -7289,10 +6967,10 @@ export const galleries = [
                 70
               ],
               "hex": "#6e5a46",
-              "percentage": 0.004795918367346939
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 44.5937707274605
+          "colorfulness": "44.594"
         }
       },
       {
@@ -7300,8 +6978,6 @@ export const galleries = [
         "latitude": 48.168975,
         "longitude": 16.421569,
         "createDate": "2025-04-18T13:24:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168975,16.421569",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7311,7 +6987,7 @@ export const galleries = [
                 50
               ],
               "hex": "#644632",
-              "percentage": 0.07863013698630136
+              "percentage": "0.079"
             },
             {
               "rgb": [
@@ -7320,7 +6996,7 @@ export const galleries = [
                 200
               ],
               "hex": "#dcd2c8",
-              "percentage": 0.03643835616438356
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -7329,10 +7005,10 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.0163013698630137
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 38.505592266972116
+          "colorfulness": "38.506"
         }
       },
       {
@@ -7340,8 +7016,6 @@ export const galleries = [
         "latitude": 48.202356,
         "longitude": 16.394811,
         "createDate": "2025-07-25T11:47:52.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202356,16.394811",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7351,7 +7025,7 @@ export const galleries = [
                 100
               ],
               "hex": "#967864",
-              "percentage": 0.0546236559139785
+              "percentage": "0.055"
             },
             {
               "rgb": [
@@ -7360,7 +7034,7 @@ export const galleries = [
                 220
               ],
               "hex": "#dcdcdc",
-              "percentage": 0.053440860215053766
+              "percentage": "0.053"
             },
             {
               "rgb": [
@@ -7369,10 +7043,10 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.024946236559139787
+              "percentage": "0.025"
             }
           ],
-          "colorfulness": 40.85269220954306
+          "colorfulness": "40.853"
         }
       },
       {
@@ -7380,8 +7054,6 @@ export const galleries = [
         "latitude": 48.167044,
         "longitude": 16.418656,
         "createDate": "2025-08-02T05:07:23.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.167044,16.418656",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7391,7 +7063,7 @@ export const galleries = [
                 40
               ],
               "hex": "#644628",
-              "percentage": 0.023626373626373626
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -7400,7 +7072,7 @@ export const galleries = [
                 180
               ],
               "hex": "#fae6b4",
-              "percentage": 0.01736263736263736
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -7409,7 +7081,7 @@ export const galleries = [
                 130
               ],
               "hex": "#d2aa82",
-              "percentage": 0.007582417582417582
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -7418,7 +7090,7 @@ export const galleries = [
                 230
               ],
               "hex": "#5ab4e6",
-              "percentage": 0.003186813186813187
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -7427,10 +7099,10 @@ export const galleries = [
                 240
               ],
               "hex": "#a0d2f0",
-              "percentage": 0.002857142857142857
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 39.69603170354522
+          "colorfulness": "39.696"
         }
       },
       {
@@ -7438,8 +7110,6 @@ export const galleries = [
         "latitude": 48.202117,
         "longitude": 16.337203,
         "createDate": "2025-05-03T11:41:45.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202117,16.337203",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7449,7 +7119,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.03375
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -7458,7 +7128,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.031363636363636364
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -7467,7 +7137,7 @@ export const galleries = [
                 150
               ],
               "hex": "#0a3c96",
-              "percentage": 0.018636363636363635
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -7476,7 +7146,7 @@ export const galleries = [
                 80
               ],
               "hex": "#6e5a50",
-              "percentage": 0.014431818181818181
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -7485,10 +7155,10 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.011818181818181818
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 46.6817756506994
+          "colorfulness": "46.682"
         }
       },
       {
@@ -7496,8 +7166,6 @@ export const galleries = [
         "latitude": 48.178458,
         "longitude": 16.394178,
         "createDate": "2025-04-20T09:52:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.178458,16.394178",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7507,7 +7175,7 @@ export const galleries = [
                 170
               ],
               "hex": "#648caa",
-              "percentage": 0.04790697674418604
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -7516,7 +7184,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.047325581395348836
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -7525,7 +7193,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.02941860465116279
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -7534,7 +7202,7 @@ export const galleries = [
                 230
               ],
               "hex": "#50b4e6",
-              "percentage": 0.015232558139534884
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -7543,10 +7211,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.009186046511627907
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 44.751989551393564
+          "colorfulness": "44.752"
         }
       },
       {
@@ -7554,8 +7222,6 @@ export const galleries = [
         "latitude": 48.206467,
         "longitude": 16.383042,
         "createDate": "2025-07-14T15:55:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206467,16.383042",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7565,7 +7231,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.03453333333333333
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -7574,10 +7240,10 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.013733333333333334
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 33.27758778847101
+          "colorfulness": "33.278"
         }
       },
       {
@@ -7585,8 +7251,6 @@ export const galleries = [
         "latitude": 48.174808,
         "longitude": 16.405831,
         "createDate": "2025-08-02T11:19:56.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174808,16.405831",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7596,7 +7260,7 @@ export const galleries = [
                 170
               ],
               "hex": "#f0d2aa",
-              "percentage": 0.0891578947368421
+              "percentage": "0.089"
             },
             {
               "rgb": [
@@ -7605,7 +7269,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.037157894736842105
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -7614,7 +7278,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.008105263157894737
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -7623,10 +7287,10 @@ export const galleries = [
                 120
               ],
               "hex": "#0a4678",
-              "percentage": 0.0014736842105263158
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 32.114364208537815
+          "colorfulness": "32.114"
         }
       }
     ],
@@ -7644,8 +7308,6 @@ export const galleries = [
         "latitude": 48.171383,
         "longitude": 16.414478,
         "createDate": "2025-06-30T14:57:37.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.171383,16.414478",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7655,7 +7317,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.03192307692307692
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -7664,7 +7326,7 @@ export const galleries = [
                 40
               ],
               "hex": "#5a3c28",
-              "percentage": 0.018333333333333333
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -7673,10 +7335,10 @@ export const galleries = [
                 50
               ],
               "hex": "#0a1e32",
-              "percentage": 0.0015384615384615385
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 36.36650372519007
+          "colorfulness": "36.367"
         }
       },
       {
@@ -7684,8 +7346,6 @@ export const galleries = [
         "latitude": 48.171322,
         "longitude": 16.411978,
         "createDate": "2025-08-02T16:19:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.171322,16.411978",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7695,7 +7355,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.03229508196721311
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -7704,7 +7364,7 @@ export const galleries = [
                 30
               ],
               "hex": "#46281e",
-              "percentage": 0.024918032786885248
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -7713,7 +7373,7 @@ export const galleries = [
                 100
               ],
               "hex": "#826e64",
-              "percentage": 0.015901639344262294
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -7722,10 +7382,10 @@ export const galleries = [
                 150
               ],
               "hex": "#aaa096",
-              "percentage": 0.01377049180327869
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 36.041150475632
+          "colorfulness": "36.041"
         }
       },
       {
@@ -7733,8 +7393,6 @@ export const galleries = [
         "latitude": 48.164283,
         "longitude": 16.418681,
         "createDate": "2025-08-02T05:11:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.164283,16.418681",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7744,7 +7402,7 @@ export const galleries = [
                 180
               ],
               "hex": "#aaaab4",
-              "percentage": 0.016736842105263158
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -7753,7 +7411,7 @@ export const galleries = [
                 20
               ],
               "hex": "#3c3214",
-              "percentage": 0.014210526315789474
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -7762,10 +7420,10 @@ export const galleries = [
                 60
               ],
               "hex": "#645a3c",
-              "percentage": 0.01368421052631579
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 29.71040075164022
+          "colorfulness": "29.710"
         }
       },
       {
@@ -7773,8 +7431,6 @@ export const galleries = [
         "latitude": 48.174739,
         "longitude": 16.406886,
         "createDate": "2024-07-28T15:47:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174739,16.406886",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7784,7 +7440,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.04897058823529412
+              "percentage": "0.049"
             },
             {
               "rgb": [
@@ -7793,10 +7449,10 @@ export const galleries = [
                 90
               ],
               "hex": "#8c6e5a",
-              "percentage": 0.025441176470588234
+              "percentage": "0.025"
             }
           ],
-          "colorfulness": 35.66738382451797
+          "colorfulness": "35.667"
         }
       }
     ],
@@ -7814,8 +7470,6 @@ export const galleries = [
         "latitude": 48.182542,
         "longitude": 16.374708,
         "createDate": "2025-08-02T10:28:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182542,16.374708",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7825,7 +7479,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.056842105263157895
+              "percentage": "0.057"
             },
             {
               "rgb": [
@@ -7834,7 +7488,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.03736842105263158
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -7843,10 +7497,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.017789473684210525
+              "percentage": "0.018"
             }
           ],
-          "colorfulness": 38.63781224734067
+          "colorfulness": "38.638"
         }
       },
       {
@@ -7854,8 +7508,6 @@ export const galleries = [
         "latitude": 48.174417,
         "longitude": 16.378242,
         "createDate": "2025-08-02T11:00:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174417,16.378242",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7865,7 +7517,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.03650602409638554
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -7874,7 +7526,7 @@ export const galleries = [
                 80
               ],
               "hex": "#645a50",
-              "percentage": 0.01746987951807229
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -7883,10 +7535,10 @@ export const galleries = [
                 100
               ],
               "hex": "#001e64",
-              "percentage": 0.00012048192771084337
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 36.010282226705975
+          "colorfulness": "36.010"
         }
       },
       {
@@ -7894,8 +7546,6 @@ export const galleries = [
         "latitude": 48.173636,
         "longitude": 16.37805,
         "createDate": "2025-08-02T10:57:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173636,16.37805",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7905,7 +7555,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.09063291139240506
+              "percentage": "0.091"
             },
             {
               "rgb": [
@@ -7914,7 +7564,7 @@ export const galleries = [
                 20
               ],
               "hex": "#322814",
-              "percentage": 0.008607594936708861
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -7923,7 +7573,7 @@ export const galleries = [
                 40
               ],
               "hex": "#a09628",
-              "percentage": 0.0064556962025316455
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -7932,10 +7582,10 @@ export const galleries = [
                 230
               ],
               "hex": "#46b4e6",
-              "percentage": 0.004556962025316456
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 51.542964519466125
+          "colorfulness": "51.543"
         }
       },
       {
@@ -7943,8 +7593,6 @@ export const galleries = [
         "latitude": 48.180686,
         "longitude": 16.387744,
         "createDate": "2025-04-20T09:29:58.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.180686,16.387744",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -7954,7 +7602,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.04435294117647059
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -7963,7 +7611,7 @@ export const galleries = [
                 100
               ],
               "hex": "#003264",
-              "percentage": 0.028588235294117647
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -7972,7 +7620,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0f0dc",
-              "percentage": 0.02658823529411765
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -7981,7 +7629,7 @@ export const galleries = [
                 140
               ],
               "hex": "#0a648c",
-              "percentage": 0.02423529411764706
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -7990,10 +7638,10 @@ export const galleries = [
                 90
               ],
               "hex": "#6e645a",
-              "percentage": 0.011294117647058824
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 46.039178903650615
+          "colorfulness": "46.039"
         }
       },
       {
@@ -8001,8 +7649,6 @@ export const galleries = [
         "latitude": 48.179886,
         "longitude": 16.386161,
         "createDate": "2025-04-20T09:28:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.179886,16.386161",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8012,7 +7658,7 @@ export const galleries = [
                 180
               ],
               "hex": "#0a78b4",
-              "percentage": 0.061625
+              "percentage": "0.062"
             },
             {
               "rgb": [
@@ -8021,7 +7667,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.035
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -8030,7 +7676,7 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": 0.008625
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -8039,7 +7685,7 @@ export const galleries = [
                 230
               ],
               "hex": "#64bee6",
-              "percentage": 0.00725
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -8048,10 +7694,10 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.004375
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 60.29363408386036
+          "colorfulness": "60.294"
         }
       },
       {
@@ -8059,8 +7705,6 @@ export const galleries = [
         "latitude": 48.179225,
         "longitude": 16.376092,
         "createDate": "2025-08-02T10:39:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.179225,16.376092",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8070,7 +7714,7 @@ export const galleries = [
                 180
               ],
               "hex": "#d2c8b4",
-              "percentage": 0.04298507462686567
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -8079,10 +7723,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.034328358208955224
+              "percentage": "0.034"
             }
           ],
-          "colorfulness": 41.936049806165094
+          "colorfulness": "41.936"
         }
       },
       {
@@ -8090,8 +7734,6 @@ export const galleries = [
         "latitude": 48.182247,
         "longitude": 16.384303,
         "createDate": "2025-04-20T09:24:05.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.182247,16.384303",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8101,7 +7743,7 @@ export const galleries = [
                 230
               ],
               "hex": "#78bee6",
-              "percentage": 0.0656989247311828
+              "percentage": "0.066"
             },
             {
               "rgb": [
@@ -8110,7 +7752,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.044731182795698925
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -8119,7 +7761,7 @@ export const galleries = [
                 190
               ],
               "hex": "#3c8cbe",
-              "percentage": 0.023440860215053764
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -8128,10 +7770,10 @@ export const galleries = [
                 90
               ],
               "hex": "#6e645a",
-              "percentage": 0.004193548387096774
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 41.059932803627795
+          "colorfulness": "41.060"
         }
       },
       {
@@ -8139,8 +7781,6 @@ export const galleries = [
         "latitude": 48.181156,
         "longitude": 16.3755,
         "createDate": "2025-08-02T10:30:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181156,16.3755",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8150,7 +7790,7 @@ export const galleries = [
                 50
               ],
               "hex": "#282832",
-              "percentage": 0.04928571428571429
+              "percentage": "0.049"
             },
             {
               "rgb": [
@@ -8159,7 +7799,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.027551020408163266
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -8168,10 +7808,10 @@ export const galleries = [
                 130
               ],
               "hex": "#8c8282",
-              "percentage": 0.012755102040816327
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 38.929739262734046
+          "colorfulness": "38.930"
         }
       },
       {
@@ -8179,8 +7819,6 @@ export const galleries = [
         "latitude": 48.173653,
         "longitude": 16.377711,
         "createDate": "2025-08-02T10:57:02.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173653,16.377711",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8190,7 +7828,7 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.04085365853658537
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -8199,7 +7837,7 @@ export const galleries = [
                 70
               ],
               "hex": "#5a5046",
-              "percentage": 0.016097560975609757
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -8208,10 +7846,10 @@ export const galleries = [
                 120
               ],
               "hex": "#827878",
-              "percentage": 0.01524390243902439
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 28.476671031238453
+          "colorfulness": "28.477"
         }
       },
       {
@@ -8219,8 +7857,6 @@ export const galleries = [
         "latitude": 48.176811,
         "longitude": 16.377103,
         "createDate": "2025-08-02T10:48:33.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176811,16.377103",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8230,7 +7866,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.06175257731958763
+              "percentage": "0.062"
             },
             {
               "rgb": [
@@ -8239,7 +7875,7 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.02041237113402062
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -8248,7 +7884,7 @@ export const galleries = [
                 180
               ],
               "hex": "#1e82b4",
-              "percentage": 0.01804123711340206
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -8257,7 +7893,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.013195876288659794
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -8266,10 +7902,10 @@ export const galleries = [
                 40
               ],
               "hex": "#962828",
-              "percentage": 0.0008247422680412372
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 50.38347925210373
+          "colorfulness": "50.383"
         }
       },
       {
@@ -8277,8 +7913,6 @@ export const galleries = [
         "latitude": 48.173406,
         "longitude": 16.378533,
         "createDate": "2025-08-02T10:58:29.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173406,16.378533",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8288,7 +7922,7 @@ export const galleries = [
                 150
               ],
               "hex": "#c8b496",
-              "percentage": 0.011066666666666667
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -8297,7 +7931,7 @@ export const galleries = [
                 30
               ],
               "hex": "#5a461e",
-              "percentage": 0.007866666666666666
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -8306,7 +7940,7 @@ export const galleries = [
                 80
               ],
               "hex": "#826450",
-              "percentage": 0.006533333333333334
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -8315,10 +7949,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.0026666666666666666
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 35.17755189571681
+          "colorfulness": "35.178"
         }
       },
       {
@@ -8326,8 +7960,6 @@ export const galleries = [
         "latitude": 48.176931,
         "longitude": 16.377056,
         "createDate": "2025-08-02T10:51:26.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176931,16.377056",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8337,7 +7969,7 @@ export const galleries = [
                 180
               ],
               "hex": "#d2c8b4",
-              "percentage": 0.06388888888888888
+              "percentage": "0.064"
             },
             {
               "rgb": [
@@ -8346,7 +7978,7 @@ export const galleries = [
                 200
               ],
               "hex": "#3296c8",
-              "percentage": 0.023055555555555555
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -8355,7 +7987,7 @@ export const galleries = [
                 30
               ],
               "hex": "#5a1e1e",
-              "percentage": 0.01625
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -8364,7 +7996,7 @@ export const galleries = [
                 150
               ],
               "hex": "#8c8c96",
-              "percentage": 0.012638888888888889
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -8373,10 +8005,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.012083333333333333
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 50.061223883460904
+          "colorfulness": "50.061"
         }
       },
       {
@@ -8384,8 +8016,6 @@ export const galleries = [
         "latitude": 48.173997,
         "longitude": 16.377714,
         "createDate": "2025-08-02T10:56:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173997,16.377714",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8395,7 +8025,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.113875
+              "percentage": "0.114"
             },
             {
               "rgb": [
@@ -8404,7 +8034,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.01975
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -8413,10 +8043,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.01025
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 38.007763984657636
+          "colorfulness": "38.008"
         }
       },
       {
@@ -8424,8 +8054,6 @@ export const galleries = [
         "latitude": 48.178025,
         "longitude": 16.376411,
         "createDate": "2025-08-02T10:42:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.178025,16.376411",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8435,7 +8063,7 @@ export const galleries = [
                 200
               ],
               "hex": "#148cc8",
-              "percentage": 0.055303030303030305
+              "percentage": "0.055"
             },
             {
               "rgb": [
@@ -8444,7 +8072,7 @@ export const galleries = [
                 120
               ],
               "hex": "#a08c78",
-              "percentage": 0.05409090909090909
+              "percentage": "0.054"
             },
             {
               "rgb": [
@@ -8453,7 +8081,7 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.02878787878787879
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -8462,10 +8090,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.018787878787878787
+              "percentage": "0.019"
             }
           ],
-          "colorfulness": 54.64771671429093
+          "colorfulness": "54.648"
         }
       }
     ],
@@ -8483,8 +8111,6 @@ export const galleries = [
         "latitude": 47.065875,
         "longitude": 15.423422,
         "createDate": "2025-07-21T21:20:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065875,15.423422",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8494,10 +8120,10 @@ export const galleries = [
                 70
               ],
               "hex": "#785a46",
-              "percentage": 0.032058823529411765
+              "percentage": "0.032"
             }
           ],
-          "colorfulness": 21.87385882668136
+          "colorfulness": "21.874"
         }
       },
       {
@@ -8505,8 +8131,6 @@ export const galleries = [
         "latitude": 47.066758,
         "longitude": 15.428022,
         "createDate": "2025-07-21T20:56:02.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066758,15.428022",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8516,7 +8140,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.04473684210526316
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -8525,7 +8149,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.019473684210526317
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -8534,7 +8158,7 @@ export const galleries = [
                 10
               ],
               "hex": "#82320a",
-              "percentage": 0.006973684210526316
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -8543,7 +8167,7 @@ export const galleries = [
                 100
               ],
               "hex": "#785a64",
-              "percentage": 0.0060526315789473685
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -8552,10 +8176,10 @@ export const galleries = [
                 240
               ],
               "hex": "#0078f0",
-              "percentage": 0.0006578947368421052
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 46.90582096375928
+          "colorfulness": "46.906"
         }
       },
       {
@@ -8563,8 +8187,6 @@ export const galleries = [
         "latitude": 47.068131,
         "longitude": 15.444769,
         "createDate": "2025-07-21T17:05:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.068131,15.444769",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8574,7 +8196,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.022474226804123712
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -8583,7 +8205,7 @@ export const galleries = [
                 170
               ],
               "hex": "#f0c8aa",
-              "percentage": 0.0188659793814433
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -8592,7 +8214,7 @@ export const galleries = [
                 240
               ],
               "hex": "#fafaf0",
-              "percentage": 0.014123711340206185
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -8601,7 +8223,7 @@ export const galleries = [
                 100
               ],
               "hex": "#826e64",
-              "percentage": 0.013814432989690721
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -8610,10 +8232,10 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.011752577319587629
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 39.164187707714696
+          "colorfulness": "39.164"
         }
       },
       {
@@ -8621,8 +8243,6 @@ export const galleries = [
         "latitude": 47.073247,
         "longitude": 15.436944,
         "createDate": "2025-07-21T17:52:02.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073247,15.436944",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8632,7 +8252,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.13
+              "percentage": "0.130"
             },
             {
               "rgb": [
@@ -8641,7 +8261,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.03421875
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -8650,10 +8270,10 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.00703125
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 45.59421204630957
+          "colorfulness": "45.594"
         }
       },
       {
@@ -8661,8 +8281,6 @@ export const galleries = [
         "latitude": 47.070781,
         "longitude": 15.435519,
         "createDate": "2025-07-21T16:27:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.070781,15.435519",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8672,7 +8290,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.09013333333333333
+              "percentage": "0.090"
             },
             {
               "rgb": [
@@ -8681,7 +8299,7 @@ export const galleries = [
                 50
               ],
               "hex": "#463232",
-              "percentage": 0.0464
+              "percentage": "0.046"
             },
             {
               "rgb": [
@@ -8690,10 +8308,10 @@ export const galleries = [
                 150
               ],
               "hex": "#aaa096",
-              "percentage": 0.005066666666666666
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 43.39146180071325
+          "colorfulness": "43.391"
         }
       },
       {
@@ -8701,8 +8319,6 @@ export const galleries = [
         "latitude": 47.070775,
         "longitude": 15.43545,
         "createDate": "2025-07-21T16:32:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.070775,15.43545",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8712,7 +8328,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.04818181818181818
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -8721,7 +8337,7 @@ export const galleries = [
                 80
               ],
               "hex": "#505a50",
-              "percentage": 0.011558441558441558
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -8730,10 +8346,10 @@ export const galleries = [
                 210
               ],
               "hex": "#28b4d2",
-              "percentage": 0.00012987012987012987
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 30.46609690948443
+          "colorfulness": "30.466"
         }
       },
       {
@@ -8741,8 +8357,6 @@ export const galleries = [
         "latitude": 47.073394,
         "longitude": 15.437331,
         "createDate": "2025-07-21T17:55:20.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073394,15.437331",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8752,7 +8366,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.06184782608695652
+              "percentage": "0.062"
             },
             {
               "rgb": [
@@ -8761,7 +8375,7 @@ export const galleries = [
                 210
               ],
               "hex": "#faf0d2",
-              "percentage": 0.02391304347826087
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -8770,10 +8384,10 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.014347826086956521
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 43.187390446057044
+          "colorfulness": "43.187"
         }
       },
       {
@@ -8781,8 +8395,6 @@ export const galleries = [
         "latitude": 47.074317,
         "longitude": 15.4366,
         "createDate": "2025-07-21T20:22:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074317,15.4366",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8792,7 +8404,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.31146666666666667
+              "percentage": "0.311"
             },
             {
               "rgb": [
@@ -8801,7 +8413,7 @@ export const galleries = [
                 170
               ],
               "hex": "#e6d2aa",
-              "percentage": 0.002
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -8810,7 +8422,7 @@ export const galleries = [
                 250
               ],
               "hex": "#3c96fa",
-              "percentage": 0.0002666666666666667
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -8819,10 +8431,10 @@ export const galleries = [
                 240
               ],
               "hex": "#78c8f0",
-              "percentage": 0.00013333333333333334
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 38.03704472535226
+          "colorfulness": "38.037"
         }
       },
       {
@@ -8830,8 +8442,6 @@ export const galleries = [
         "latitude": 47.073506,
         "longitude": 15.436625,
         "createDate": "2025-07-21T17:56:50.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073506,15.436625",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8841,7 +8451,7 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.036458333333333336
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -8850,7 +8460,7 @@ export const galleries = [
                 180
               ],
               "hex": "#bebeb4",
-              "percentage": 0.025416666666666667
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -8859,10 +8469,10 @@ export const galleries = [
                 20
               ],
               "hex": "#503c14",
-              "percentage": 0.013020833333333334
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 42.58973684887346
+          "colorfulness": "42.590"
         }
       },
       {
@@ -8870,8 +8480,6 @@ export const galleries = [
         "latitude": 47.0682,
         "longitude": 15.441733,
         "createDate": "2025-07-21T17:00:22.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.0682,15.441733",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8881,7 +8489,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.026136363636363635
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -8890,7 +8498,7 @@ export const galleries = [
                 10
               ],
               "hex": "#321e0a",
-              "percentage": 0.024431818181818183
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -8899,10 +8507,10 @@ export const galleries = [
                 90
               ],
               "hex": "#78645a",
-              "percentage": 0.01840909090909091
+              "percentage": "0.018"
             }
           ],
-          "colorfulness": 38.1776274381456
+          "colorfulness": "38.178"
         }
       },
       {
@@ -8910,8 +8518,6 @@ export const galleries = [
         "latitude": 47.069119,
         "longitude": 15.435683,
         "createDate": "2025-07-21T20:43:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.069119,15.435683",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8921,7 +8527,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.0656
+              "percentage": "0.066"
             },
             {
               "rgb": [
@@ -8930,10 +8536,10 @@ export const galleries = [
                 140
               ],
               "hex": "#e6b48c",
-              "percentage": 0.025466666666666665
+              "percentage": "0.025"
             }
           ],
-          "colorfulness": 47.04868808467012
+          "colorfulness": "47.049"
         }
       },
       {
@@ -8941,8 +8547,6 @@ export const galleries = [
         "latitude": 47.074708,
         "longitude": 15.437128,
         "createDate": "2025-07-21T17:59:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074708,15.437128",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8952,7 +8556,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.04611111111111111
+              "percentage": "0.046"
             },
             {
               "rgb": [
@@ -8961,7 +8565,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.02648148148148148
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -8970,10 +8574,10 @@ export const galleries = [
                 120
               ],
               "hex": "#d2a078",
-              "percentage": 0.012407407407407407
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 47.656824647618784
+          "colorfulness": "47.657"
         }
       },
       {
@@ -8981,8 +8585,6 @@ export const galleries = [
         "latitude": 47.069542,
         "longitude": 15.4405,
         "createDate": "2025-07-21T16:57:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.069542,15.4405",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -8992,7 +8594,7 @@ export const galleries = [
                 180
               ],
               "hex": "#d2c8b4",
-              "percentage": 0.06276923076923077
+              "percentage": "0.063"
             },
             {
               "rgb": [
@@ -9001,7 +8603,7 @@ export const galleries = [
                 70
               ],
               "hex": "#645046",
-              "percentage": 0.018
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -9010,7 +8612,7 @@ export const galleries = [
                 130
               ],
               "hex": "#fa8282",
-              "percentage": 0.0010769230769230769
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -9019,10 +8621,10 @@ export const galleries = [
                 20
               ],
               "hex": "#820a14",
-              "percentage": 0.0003076923076923077
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 29.743350578088144
+          "colorfulness": "29.743"
         }
       },
       {
@@ -9030,8 +8632,6 @@ export const galleries = [
         "latitude": 47.065747,
         "longitude": 15.422117,
         "createDate": "2025-07-21T21:04:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065747,15.422117",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9041,7 +8641,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.10655172413793103
+              "percentage": "0.107"
             },
             {
               "rgb": [
@@ -9050,7 +8650,7 @@ export const galleries = [
                 30
               ],
               "hex": "#50321e",
-              "percentage": 0.030689655172413795
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -9059,7 +8659,7 @@ export const galleries = [
                 70
               ],
               "hex": "#825a46",
-              "percentage": 0.02724137931034483
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -9068,7 +8668,7 @@ export const galleries = [
                 0
               ],
               "hex": "#a05a00",
-              "percentage": 0.002413793103448276
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -9077,10 +8677,10 @@ export const galleries = [
                 200
               ],
               "hex": "#78b4c8",
-              "percentage": 0.0004597701149425287
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 33.951934866267294
+          "colorfulness": "33.952"
         }
       },
       {
@@ -9088,8 +8688,6 @@ export const galleries = [
         "latitude": 47.070775,
         "longitude": 15.43835,
         "createDate": "2025-07-21T16:49:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.070775,15.43835",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9099,7 +8697,7 @@ export const galleries = [
                 200
               ],
               "hex": "#d2c8c8",
-              "percentage": 0.0651111111111111
+              "percentage": "0.065"
             },
             {
               "rgb": [
@@ -9108,7 +8706,7 @@ export const galleries = [
                 10
               ],
               "hex": "#3c1e0a",
-              "percentage": 0.021222222222222222
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -9117,7 +8715,7 @@ export const galleries = [
                 90
               ],
               "hex": "#8c6e5a",
-              "percentage": 0.011222222222222222
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -9126,7 +8724,7 @@ export const galleries = [
                 120
               ],
               "hex": "#b49678",
-              "percentage": 0.00811111111111111
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -9135,10 +8733,10 @@ export const galleries = [
                 40
               ],
               "hex": "#a01428",
-              "percentage": 0.001888888888888889
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 43.28302446263594
+          "colorfulness": "43.283"
         }
       },
       {
@@ -9146,8 +8744,6 @@ export const galleries = [
         "latitude": 47.069631,
         "longitude": 15.438239,
         "createDate": "2025-07-21T20:39:44.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.069631,15.438239",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9157,7 +8753,7 @@ export const galleries = [
                 0
               ],
               "hex": "#321400",
-              "percentage": 0.0410958904109589
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -9166,10 +8762,10 @@ export const galleries = [
                 100
               ],
               "hex": "#c89664",
-              "percentage": 0.023013698630136987
+              "percentage": "0.023"
             }
           ],
-          "colorfulness": 35.932818063652746
+          "colorfulness": "35.933"
         }
       },
       {
@@ -9177,8 +8773,6 @@ export const galleries = [
         "latitude": 47.072839,
         "longitude": 15.436306,
         "createDate": "2025-07-21T20:32:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.072839,15.436306",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9188,7 +8782,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.0613
+              "percentage": "0.061"
             },
             {
               "rgb": [
@@ -9197,7 +8791,7 @@ export const galleries = [
                 120
               ],
               "hex": "#c8a078",
-              "percentage": 0.0162
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -9206,7 +8800,7 @@ export const galleries = [
                 200
               ],
               "hex": "#aabec8",
-              "percentage": 0.0068
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -9215,10 +8809,10 @@ export const galleries = [
                 90
               ],
               "hex": "#00285a",
-              "percentage": 0.0001
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 39.547888577517476
+          "colorfulness": "39.548"
         }
       },
       {
@@ -9226,8 +8820,6 @@ export const galleries = [
         "latitude": 47.0708,
         "longitude": 15.438069,
         "createDate": "2025-07-21T20:37:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.0708,15.438069",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9237,7 +8829,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.37072463768115943
+              "percentage": "0.371"
             },
             {
               "rgb": [
@@ -9246,7 +8838,7 @@ export const galleries = [
                 100
               ],
               "hex": "#aa8264",
-              "percentage": 0.008115942028985508
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -9255,7 +8847,7 @@ export const galleries = [
                 30
               ],
               "hex": "#50321e",
-              "percentage": 0.00782608695652174
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -9264,7 +8856,7 @@ export const galleries = [
                 230
               ],
               "hex": "#fafae6",
-              "percentage": 0.0013043478260869566
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -9273,10 +8865,10 @@ export const galleries = [
                 190
               ],
               "hex": "#5082be",
-              "percentage": 0.0002898550724637681
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 38.35633551627602
+          "colorfulness": "38.356"
         }
       },
       {
@@ -9284,8 +8876,6 @@ export const galleries = [
         "latitude": 47.066406,
         "longitude": 15.431294,
         "createDate": "2025-07-21T20:53:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066406,15.431294",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9295,7 +8885,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.20842857142857144
+              "percentage": "0.208"
             },
             {
               "rgb": [
@@ -9304,7 +8894,7 @@ export const galleries = [
                 50
               ],
               "hex": "#644632",
-              "percentage": 0.012714285714285714
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -9313,7 +8903,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.002
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -9322,10 +8912,10 @@ export const galleries = [
                 150
               ],
               "hex": "#1e3c96",
-              "percentage": 0.00028571428571428574
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 38.286056242538784
+          "colorfulness": "38.286"
         }
       },
       {
@@ -9333,8 +8923,6 @@ export const galleries = [
         "latitude": 47.073219,
         "longitude": 15.437003,
         "createDate": "2025-07-21T20:30:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073219,15.437003",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9344,7 +8932,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.17830985915492958
+              "percentage": "0.178"
             },
             {
               "rgb": [
@@ -9353,7 +8941,7 @@ export const galleries = [
                 90
               ],
               "hex": "#323c5a",
-              "percentage": 0.0030985915492957746
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -9362,10 +8950,10 @@ export const galleries = [
                 160
               ],
               "hex": "#dcb4a0",
-              "percentage": 0.0007042253521126761
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 30.83850284035778
+          "colorfulness": "30.839"
         }
       },
       {
@@ -9373,8 +8961,6 @@ export const galleries = [
         "latitude": 47.066986,
         "longitude": 15.441636,
         "createDate": "2025-07-21T17:43:58.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066986,15.441636",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9384,7 +8970,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.04358974358974359
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -9393,7 +8979,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.019102564102564102
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -9402,10 +8988,10 @@ export const galleries = [
                 30
               ],
               "hex": "#3c281e",
-              "percentage": 0.015256410256410256
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 38.192954491922826
+          "colorfulness": "38.193"
         }
       },
       {
@@ -9413,8 +8999,6 @@ export const galleries = [
         "latitude": 47.067531,
         "longitude": 15.442253,
         "createDate": "2025-07-21T17:02:29.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.067531,15.442253",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9424,7 +9008,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.07115384615384615
+              "percentage": "0.071"
             },
             {
               "rgb": [
@@ -9433,7 +9017,7 @@ export const galleries = [
                 100
               ],
               "hex": "#967864",
-              "percentage": 0.0408974358974359
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -9442,10 +9026,10 @@ export const galleries = [
                 50
               ],
               "hex": "#503c32",
-              "percentage": 0.0055128205128205125
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 39.531382553728854
+          "colorfulness": "39.531"
         }
       },
       {
@@ -9453,8 +9037,6 @@ export const galleries = [
         "latitude": 47.076211,
         "longitude": 15.437172,
         "createDate": "2025-07-21T19:08:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.076211,15.437172",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9464,7 +9046,7 @@ export const galleries = [
                 240
               ],
               "hex": "#14aaf0",
-              "percentage": 0.046125
+              "percentage": "0.046"
             },
             {
               "rgb": [
@@ -9473,7 +9055,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.04
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -9482,7 +9064,7 @@ export const galleries = [
                 50
               ],
               "hex": "#c88232",
-              "percentage": 0.008625
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -9491,7 +9073,7 @@ export const galleries = [
                 190
               ],
               "hex": "#288cbe",
-              "percentage": 0.004875
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -9500,10 +9082,10 @@ export const galleries = [
                 190
               ],
               "hex": "#b4b4be",
-              "percentage": 0.000375
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 53.25358149433497
+          "colorfulness": "53.254"
         }
       },
       {
@@ -9511,8 +9093,6 @@ export const galleries = [
         "latitude": 47.076389,
         "longitude": 15.437192,
         "createDate": "2025-07-21T18:38:38.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.076389,15.437192",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9522,7 +9102,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.06655737704918033
+              "percentage": "0.067"
             },
             {
               "rgb": [
@@ -9531,7 +9111,7 @@ export const galleries = [
                 50
               ],
               "hex": "#5a3c32",
-              "percentage": 0.04655737704918033
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -9540,7 +9120,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.035573770491803276
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -9549,10 +9129,10 @@ export const galleries = [
                 120
               ],
               "hex": "#8c8278",
-              "percentage": 0.0014754098360655738
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 46.784096192444814
+          "colorfulness": "46.784"
         }
       },
       {
@@ -9560,8 +9140,6 @@ export const galleries = [
         "latitude": 47.032167,
         "longitude": 15.412222,
         "createDate": "2025-07-21T13:57:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.032167,15.412222",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9571,7 +9149,7 @@ export const galleries = [
                 90
               ],
               "hex": "#645a5a",
-              "percentage": 0.018518518518518517
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -9580,7 +9158,7 @@ export const galleries = [
                 30
               ],
               "hex": "#3c321e",
-              "percentage": 0.015185185185185185
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -9589,7 +9167,7 @@ export const galleries = [
                 230
               ],
               "hex": "#bedce6",
-              "percentage": 0.011111111111111112
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -9598,10 +9176,10 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.008148148148148147
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 37.01699301490558
+          "colorfulness": "37.017"
         }
       },
       {
@@ -9609,8 +9187,6 @@ export const galleries = [
         "latitude": 47.066433,
         "longitude": 15.431408,
         "createDate": "2025-07-21T20:53:20.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066433,15.431408",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9620,7 +9196,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.07098765432098765
+              "percentage": "0.071"
             },
             {
               "rgb": [
@@ -9629,7 +9205,7 @@ export const galleries = [
                 80
               ],
               "hex": "#fa5a50",
-              "percentage": 0.02691358024691358
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -9638,7 +9214,7 @@ export const galleries = [
                 10
               ],
               "hex": "#aa1e0a",
-              "percentage": 0.0030864197530864196
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -9647,7 +9223,7 @@ export const galleries = [
                 240
               ],
               "hex": "#0046f0",
-              "percentage": 0.0024691358024691358
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -9656,10 +9232,10 @@ export const galleries = [
                 230
               ],
               "hex": "#a0e6e6",
-              "percentage": 0.0011111111111111111
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 50.3558477050297
+          "colorfulness": "50.356"
         }
       },
       {
@@ -9667,8 +9243,6 @@ export const galleries = [
         "latitude": 47.073692,
         "longitude": 15.437558,
         "createDate": "2025-07-21T17:57:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073692,15.437558",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9678,7 +9252,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.18460526315789474
+              "percentage": "0.185"
             },
             {
               "rgb": [
@@ -9687,7 +9261,7 @@ export const galleries = [
                 0
               ],
               "hex": "#321e00",
-              "percentage": 0.010263157894736842
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -9696,7 +9270,7 @@ export const galleries = [
                 90
               ],
               "hex": "#be8c5a",
-              "percentage": 0.0034210526315789475
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -9705,10 +9279,10 @@ export const galleries = [
                 50
               ],
               "hex": "#966432",
-              "percentage": 0.003157894736842105
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 40.45115441844704
+          "colorfulness": "40.451"
         }
       },
       {
@@ -9716,8 +9290,6 @@ export const galleries = [
         "latitude": 47.074836,
         "longitude": 15.437069,
         "createDate": "2025-07-21T17:59:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.074836,15.437069",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9727,7 +9299,7 @@ export const galleries = [
                 20
               ],
               "hex": "#3c2814",
-              "percentage": 0.07422222222222222
+              "percentage": "0.074"
             },
             {
               "rgb": [
@@ -9736,10 +9308,10 @@ export const galleries = [
                 160
               ],
               "hex": "#d2bea0",
-              "percentage": 0.033777777777777775
+              "percentage": "0.034"
             }
           ],
-          "colorfulness": 42.21036966755503
+          "colorfulness": "42.210"
         }
       },
       {
@@ -9747,8 +9319,6 @@ export const galleries = [
         "latitude": 47.065997,
         "longitude": 15.422139,
         "createDate": "2025-07-21T21:05:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065997,15.422139",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9758,7 +9328,7 @@ export const galleries = [
                 50
               ],
               "hex": "#3c3232",
-              "percentage": 0.0555
+              "percentage": "0.056"
             },
             {
               "rgb": [
@@ -9767,7 +9337,7 @@ export const galleries = [
                 30
               ],
               "hex": "#b4aa1e",
-              "percentage": 0.002125
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -9776,7 +9346,7 @@ export const galleries = [
                 120
               ],
               "hex": "#d2aa78",
-              "percentage": 0.001125
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -9785,10 +9355,10 @@ export const galleries = [
                 30
               ],
               "hex": "#f0281e",
-              "percentage": 0.00025
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 32.744453512905395
+          "colorfulness": "32.744"
         }
       },
       {
@@ -9796,8 +9366,6 @@ export const galleries = [
         "latitude": 47.071042,
         "longitude": 15.438156,
         "createDate": "2025-07-21T16:50:43.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.071042,15.438156",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9807,7 +9375,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.1773076923076923
+              "percentage": "0.177"
             },
             {
               "rgb": [
@@ -9816,10 +9384,10 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.05269230769230769
+              "percentage": "0.053"
             }
           ],
-          "colorfulness": 48.03577524181309
+          "colorfulness": "48.036"
         }
       },
       {
@@ -9827,8 +9395,6 @@ export const galleries = [
         "latitude": 47.065986,
         "longitude": 15.423369,
         "createDate": "2025-07-21T21:00:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.065986,15.423369",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9838,7 +9404,7 @@ export const galleries = [
                 90
               ],
               "hex": "#a0785a",
-              "percentage": 0.03423529411764706
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -9847,10 +9413,10 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.024
+              "percentage": "0.024"
             }
           ],
-          "colorfulness": 30.127009479225254
+          "colorfulness": "30.127"
         }
       },
       {
@@ -9858,8 +9424,6 @@ export const galleries = [
         "latitude": 47.075886,
         "longitude": 15.437569,
         "createDate": "2025-07-21T18:01:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.075886,15.437569",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9869,7 +9433,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.08492063492063492
+              "percentage": "0.085"
             },
             {
               "rgb": [
@@ -9878,7 +9442,7 @@ export const galleries = [
                 10
               ],
               "hex": "#281e0a",
-              "percentage": 0.05444444444444444
+              "percentage": "0.054"
             },
             {
               "rgb": [
@@ -9887,10 +9451,10 @@ export const galleries = [
                 130
               ],
               "hex": "#bea082",
-              "percentage": 0.008571428571428572
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 46.744116460455786
+          "colorfulness": "46.744"
         }
       },
       {
@@ -9898,8 +9462,6 @@ export const galleries = [
         "latitude": 47.073611,
         "longitude": 15.437589,
         "createDate": "2025-07-21T17:56:56.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.073611,15.437589",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9909,7 +9471,7 @@ export const galleries = [
                 150
               ],
               "hex": "#fad296",
-              "percentage": 0.08106666666666666
+              "percentage": "0.081"
             },
             {
               "rgb": [
@@ -9918,7 +9480,7 @@ export const galleries = [
                 70
               ],
               "hex": "#be8246",
-              "percentage": 0.021466666666666665
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -9927,7 +9489,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.0128
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -9936,10 +9498,10 @@ export const galleries = [
                 130
               ],
               "hex": "#8c8282",
-              "percentage": 0.008933333333333333
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 38.44526845904632
+          "colorfulness": "38.445"
         }
       },
       {
@@ -9947,8 +9509,6 @@ export const galleries = [
         "latitude": 47.07385,
         "longitude": 15.437303,
         "createDate": "2025-07-21T20:25:43.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.07385,15.437303",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9958,7 +9518,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140a00",
-              "percentage": 0.38176470588235295
+              "percentage": "0.382"
             },
             {
               "rgb": [
@@ -9967,7 +9527,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.0058823529411764705
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -9976,10 +9536,10 @@ export const galleries = [
                 90
               ],
               "hex": "#82645a",
-              "percentage": 0.005735294117647059
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 35.95144718326414
+          "colorfulness": "35.951"
         }
       },
       {
@@ -9987,8 +9547,6 @@ export const galleries = [
         "latitude": 47.072767,
         "longitude": 15.436361,
         "createDate": "2025-07-21T20:32:45.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.072767,15.436361",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -9998,7 +9556,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.26666666666666666
+              "percentage": "0.267"
             },
             {
               "rgb": [
@@ -10007,7 +9565,7 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.020666666666666667
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -10016,7 +9574,7 @@ export const galleries = [
                 80
               ],
               "hex": "#a07850",
-              "percentage": 0.007166666666666667
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -10025,10 +9583,10 @@ export const galleries = [
                 30
               ],
               "hex": "#fad21e",
-              "percentage": 0.0008333333333333334
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 44.09615738793233
+          "colorfulness": "44.096"
         }
       },
       {
@@ -10036,8 +9594,6 @@ export const galleries = [
         "latitude": 47.066281,
         "longitude": 15.425953,
         "createDate": "2025-07-21T20:58:28.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.066281,15.425953",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10047,7 +9603,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.02945945945945946
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -10056,7 +9612,7 @@ export const galleries = [
                 70
               ],
               "hex": "#645046",
-              "percentage": 0.026756756756756758
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -10065,7 +9621,7 @@ export const galleries = [
                 190
               ],
               "hex": "#fae6be",
-              "percentage": 0.0014864864864864865
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -10074,10 +9630,10 @@ export const galleries = [
                 0
               ],
               "hex": "#c81400",
-              "percentage": 0.0004054054054054054
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 31.211638196556493
+          "colorfulness": "31.212"
         }
       }
     ],
@@ -10095,8 +9651,6 @@ export const galleries = [
         "latitude": 46.616161,
         "longitude": 14.308681,
         "createDate": "2025-07-20T18:06:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.616161,14.308681",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10106,7 +9660,7 @@ export const galleries = [
                 130
               ],
               "hex": "#8c8282",
-              "percentage": 0.014477611940298507
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -10115,7 +9669,7 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.01328358208955224
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -10124,7 +9678,7 @@ export const galleries = [
                 70
               ],
               "hex": "#5a4646",
-              "percentage": 0.011641791044776119
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -10133,10 +9687,10 @@ export const galleries = [
                 210
               ],
               "hex": "#faf0d2",
-              "percentage": 0.00791044776119403
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 31.758651977188862
+          "colorfulness": "31.759"
         }
       },
       {
@@ -10144,8 +9698,6 @@ export const galleries = [
         "latitude": 46.621958,
         "longitude": 14.305153,
         "createDate": "2025-07-20T17:43:42.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.621958,14.305153",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10155,7 +9707,7 @@ export const galleries = [
                 220
               ],
               "hex": "#aac8dc",
-              "percentage": 0.037125
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -10164,7 +9716,7 @@ export const galleries = [
                 30
               ],
               "hex": "#3c281e",
-              "percentage": 0.014
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -10173,7 +9725,7 @@ export const galleries = [
                 100
               ],
               "hex": "#826e64",
-              "percentage": 0.011625
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -10182,10 +9734,10 @@ export const galleries = [
                 160
               ],
               "hex": "#e6c8a0",
-              "percentage": 0.0115
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 36.633032100638424
+          "colorfulness": "36.633"
         }
       },
       {
@@ -10193,8 +9745,6 @@ export const galleries = [
         "latitude": 46.625503,
         "longitude": 14.307908,
         "createDate": "2025-07-21T07:35:22.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.625503,14.307908",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10204,7 +9754,7 @@ export const galleries = [
                 140
               ],
               "hex": "#c8aa8c",
-              "percentage": 0.027105263157894736
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -10213,7 +9763,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.02526315789473684
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -10222,7 +9772,7 @@ export const galleries = [
                 230
               ],
               "hex": "#64bee6",
-              "percentage": 0.02131578947368421
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -10231,10 +9781,10 @@ export const galleries = [
                 110
               ],
               "hex": "#0a466e",
-              "percentage": 0.001973684210526316
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 39.42840811932211
+          "colorfulness": "39.428"
         }
       },
       {
@@ -10242,8 +9792,6 @@ export const galleries = [
         "latitude": 46.626483,
         "longitude": 14.3065,
         "createDate": "2025-07-20T15:26:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626483,14.3065",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10253,7 +9801,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.0315625
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -10262,7 +9810,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.02484375
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -10271,7 +9819,7 @@ export const galleries = [
                 60
               ],
               "hex": "#463c3c",
-              "percentage": 0.01359375
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -10280,10 +9828,10 @@ export const galleries = [
                 130
               ],
               "hex": "#0a6482",
-              "percentage": 0.00046875
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 39.243394496497935
+          "colorfulness": "39.243"
         }
       },
       {
@@ -10291,8 +9839,6 @@ export const galleries = [
         "latitude": 46.626228,
         "longitude": 14.307481,
         "createDate": "2025-07-21T07:08:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626228,14.307481",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10302,7 +9848,7 @@ export const galleries = [
                 40
               ],
               "hex": "#463228",
-              "percentage": 0.01704225352112676
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -10311,7 +9857,7 @@ export const galleries = [
                 170
               ],
               "hex": "#c8beaa",
-              "percentage": 0.009295774647887323
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -10320,10 +9866,10 @@ export const galleries = [
                 120
               ],
               "hex": "#aa8c78",
-              "percentage": 0.008873239436619718
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 35.36883600490702
+          "colorfulness": "35.369"
         }
       },
       {
@@ -10331,8 +9877,6 @@ export const galleries = [
         "latitude": 46.626183,
         "longitude": 14.3074,
         "createDate": "2025-07-21T07:09:19.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626183,14.3074",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10342,7 +9886,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281414",
-              "percentage": 0.01569620253164557
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -10351,7 +9895,7 @@ export const galleries = [
                 130
               ],
               "hex": "#aa9682",
-              "percentage": 0.010759493670886076
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -10360,10 +9904,10 @@ export const galleries = [
                 160
               ],
               "hex": "#0a64a0",
-              "percentage": 0.00012658227848101267
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 34.39402027892084
+          "colorfulness": "34.394"
         }
       },
       {
@@ -10371,8 +9915,6 @@ export const galleries = [
         "latitude": 46.622872,
         "longitude": 14.306,
         "createDate": "2025-07-21T08:33:50.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622872,14.306",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10382,7 +9924,7 @@ export const galleries = [
                 220
               ],
               "hex": "#78bedc",
-              "percentage": 0.08277777777777778
+              "percentage": "0.083"
             },
             {
               "rgb": [
@@ -10391,7 +9933,7 @@ export const galleries = [
                 190
               ],
               "hex": "#5096be",
-              "percentage": 0.049305555555555554
+              "percentage": "0.049"
             },
             {
               "rgb": [
@@ -10400,7 +9942,7 @@ export const galleries = [
                 130
               ],
               "hex": "#aa9682",
-              "percentage": 0.021111111111111112
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -10409,7 +9951,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.01361111111111111
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -10418,10 +9960,10 @@ export const galleries = [
                 80
               ],
               "hex": "#5a5050",
-              "percentage": 0.0059722222222222225
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 40.93348665218447
+          "colorfulness": "40.933"
         }
       },
       {
@@ -10429,8 +9971,6 @@ export const galleries = [
         "latitude": 46.626369,
         "longitude": 14.311086,
         "createDate": "2025-07-20T12:38:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626369,14.311086",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10440,7 +9980,7 @@ export const galleries = [
                 190
               ],
               "hex": "#c8bebe",
-              "percentage": 0.038974358974358976
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -10449,7 +9989,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.0039743589743589745
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -10458,10 +9998,10 @@ export const galleries = [
                 100
               ],
               "hex": "#003264",
-              "percentage": 0.0034615384615384616
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 34.92028197047662
+          "colorfulness": "34.920"
         }
       },
       {
@@ -10469,8 +10009,6 @@ export const galleries = [
         "latitude": 46.6166,
         "longitude": 14.311928,
         "createDate": "2025-07-21T11:59:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.6166,14.311928",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10480,7 +10018,7 @@ export const galleries = [
                 160
               ],
               "hex": "#dcbea0",
-              "percentage": 0.058645833333333335
+              "percentage": "0.059"
             },
             {
               "rgb": [
@@ -10489,7 +10027,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.016354166666666666
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -10498,10 +10036,10 @@ export const galleries = [
                 40
               ],
               "hex": "#463228",
-              "percentage": 0.014791666666666667
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 33.6318678329387
+          "colorfulness": "33.632"
         }
       },
       {
@@ -10509,8 +10047,6 @@ export const galleries = [
         "latitude": 46.622703,
         "longitude": 14.255239,
         "createDate": "2025-07-20T14:31:23.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622703,14.255239",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10520,7 +10056,7 @@ export const galleries = [
                 110
               ],
               "hex": "#786e6e",
-              "percentage": 0.06933333333333333
+              "percentage": "0.069"
             },
             {
               "rgb": [
@@ -10529,7 +10065,7 @@ export const galleries = [
                 230
               ],
               "hex": "#c8dce6",
-              "percentage": 0.016533333333333334
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -10538,7 +10074,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.0096
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -10547,10 +10083,10 @@ export const galleries = [
                 190
               ],
               "hex": "#0078be",
-              "percentage": 0.0017333333333333333
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 40.48523413861435
+          "colorfulness": "40.485"
         }
       },
       {
@@ -10558,8 +10094,6 @@ export const galleries = [
         "latitude": 46.840017,
         "longitude": 14.843519,
         "createDate": "2025-07-19T15:53:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.840017,14.843519",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10569,7 +10103,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.032424242424242425
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -10578,7 +10112,7 @@ export const galleries = [
                 230
               ],
               "hex": "#64bee6",
-              "percentage": 0.027676767676767678
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -10587,7 +10121,7 @@ export const galleries = [
                 70
               ],
               "hex": "#3c3c46",
-              "percentage": 0.01616161616161616
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -10596,7 +10130,7 @@ export const galleries = [
                 90
               ],
               "hex": "#8c825a",
-              "percentage": 0.0069696969696969695
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -10605,10 +10139,10 @@ export const galleries = [
                 160
               ],
               "hex": "#aaaaa0",
-              "percentage": 0.006161616161616161
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 50.38439088480403
+          "colorfulness": "50.384"
         }
       },
       {
@@ -10616,8 +10150,6 @@ export const galleries = [
         "latitude": 46.626381,
         "longitude": 14.311836,
         "createDate": "2025-07-20T19:05:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626381,14.311836",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10627,7 +10159,7 @@ export const galleries = [
                 40
               ],
               "hex": "#0a1e28",
-              "percentage": 0.02702702702702703
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -10636,7 +10168,7 @@ export const galleries = [
                 160
               ],
               "hex": "#8c96a0",
-              "percentage": 0.015675675675675675
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -10645,7 +10177,7 @@ export const galleries = [
                 190
               ],
               "hex": "#4696be",
-              "percentage": 0.013108108108108108
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -10654,7 +10186,7 @@ export const galleries = [
                 110
               ],
               "hex": "#14506e",
-              "percentage": 0.012972972972972972
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -10663,10 +10195,10 @@ export const galleries = [
                 230
               ],
               "hex": "#64bee6",
-              "percentage": 0.011756756756756756
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 48.58330989912079
+          "colorfulness": "48.583"
         }
       },
       {
@@ -10674,8 +10206,6 @@ export const galleries = [
         "latitude": 46.622792,
         "longitude": 14.306056,
         "createDate": "2025-07-21T08:31:23.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622792,14.306056",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10685,7 +10215,7 @@ export const galleries = [
                 210
               ],
               "hex": "#6eaad2",
-              "percentage": 0.020344827586206895
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -10694,7 +10224,7 @@ export const galleries = [
                 100
               ],
               "hex": "#8c7864",
-              "percentage": 0.017758620689655173
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -10703,7 +10233,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.011034482758620689
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -10712,10 +10242,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.008103448275862069
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 41.046466093072844
+          "colorfulness": "41.046"
         }
       },
       {
@@ -10723,8 +10253,6 @@ export const galleries = [
         "latitude": 46.865619,
         "longitude": 14.782633,
         "createDate": "2025-07-19T18:10:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.865619,14.782633",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10734,7 +10262,7 @@ export const galleries = [
                 60
               ],
               "hex": "#6e503c",
-              "percentage": 0.030869565217391304
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -10743,7 +10271,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.016304347826086956
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -10752,10 +10280,10 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.0013043478260869566
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 26.38930498252599
+          "colorfulness": "26.389"
         }
       },
       {
@@ -10763,8 +10291,6 @@ export const galleries = [
         "latitude": 46.623997,
         "longitude": 14.302508,
         "createDate": "2025-07-20T15:33:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.623997,14.302508",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10774,7 +10300,7 @@ export const galleries = [
                 110
               ],
               "hex": "#64646e",
-              "percentage": 0.04012658227848101
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -10783,7 +10309,7 @@ export const galleries = [
                 220
               ],
               "hex": "#50aadc",
-              "percentage": 0.01708860759493671
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -10792,10 +10318,10 @@ export const galleries = [
                 30
               ],
               "hex": "#463c1e",
-              "percentage": 0.008607594936708861
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 48.3192140566746
+          "colorfulness": "48.319"
         }
       },
       {
@@ -10803,8 +10329,6 @@ export const galleries = [
         "latitude": 46.865806,
         "longitude": 14.782853,
         "createDate": "2025-07-19T18:09:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.865806,14.782853",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10814,7 +10338,7 @@ export const galleries = [
                 40
               ],
               "hex": "#5a3c28",
-              "percentage": 0.02619047619047619
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -10823,7 +10347,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.023809523809523808
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -10832,7 +10356,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.01488095238095238
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -10841,7 +10365,7 @@ export const galleries = [
                 170
               ],
               "hex": "#5a5aaa",
-              "percentage": 0.002619047619047619
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -10850,10 +10374,10 @@ export const galleries = [
                 190
               ],
               "hex": "#64aabe",
-              "percentage": 0.0016666666666666668
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 46.13622838014231
+          "colorfulness": "46.136"
         }
       },
       {
@@ -10861,8 +10385,6 @@ export const galleries = [
         "latitude": 46.622708,
         "longitude": 14.306478,
         "createDate": "2025-07-21T08:38:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622708,14.306478",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10872,7 +10394,7 @@ export const galleries = [
                 150
               ],
               "hex": "#c8b496",
-              "percentage": 0.041025641025641026
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -10881,7 +10403,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.019102564102564102
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -10890,10 +10412,10 @@ export const galleries = [
                 50
               ],
               "hex": "#5a3c32",
-              "percentage": 0.016666666666666666
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": 37.21069703899612
+          "colorfulness": "37.211"
         }
       },
       {
@@ -10901,8 +10423,6 @@ export const galleries = [
         "latitude": 46.62515,
         "longitude": 14.309306,
         "createDate": "2025-07-20T12:33:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.62515,14.309306",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10912,7 +10432,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.03977011494252874
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -10921,10 +10441,10 @@ export const galleries = [
                 120
               ],
               "hex": "#a08c78",
-              "percentage": 0.02
+              "percentage": "0.020"
             }
           ],
-          "colorfulness": 30.231337721024932
+          "colorfulness": "30.231"
         }
       },
       {
@@ -10932,8 +10452,6 @@ export const galleries = [
         "latitude": 46.616233,
         "longitude": 14.313658,
         "createDate": "2025-07-21T11:30:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.616233,14.313658",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10943,7 +10461,7 @@ export const galleries = [
                 70
               ],
               "hex": "#504646",
-              "percentage": 0.03728395061728395
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -10952,7 +10470,7 @@ export const galleries = [
                 220
               ],
               "hex": "#5aaadc",
-              "percentage": 0.03641975308641975
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -10961,7 +10479,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.009259259259259259
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -10970,10 +10488,10 @@ export const galleries = [
                 110
               ],
               "hex": "#14466e",
-              "percentage": 0.0033333333333333335
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 41.80138249595814
+          "colorfulness": "41.801"
         }
       },
       {
@@ -10981,8 +10499,6 @@ export const galleries = [
         "latitude": 46.626025,
         "longitude": 14.306869,
         "createDate": "2025-07-21T07:15:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626025,14.306869",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -10992,7 +10508,7 @@ export const galleries = [
                 30
               ],
               "hex": "#3c281e",
-              "percentage": 0.021097560975609757
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -11001,7 +10517,7 @@ export const galleries = [
                 130
               ],
               "hex": "#b49682",
-              "percentage": 0.018902439024390243
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -11010,7 +10526,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.016463414634146342
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -11019,10 +10535,10 @@ export const galleries = [
                 60
               ],
               "hex": "#825a3c",
-              "percentage": 0.012560975609756098
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 35.42329355728089
+          "colorfulness": "35.423"
         }
       },
       {
@@ -11030,8 +10546,6 @@ export const galleries = [
         "latitude": 46.865739,
         "longitude": 14.782789,
         "createDate": "2025-07-19T18:09:26.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.865739,14.782789",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11041,7 +10555,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.026904761904761904
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -11050,7 +10564,7 @@ export const galleries = [
                 50
               ],
               "hex": "#644632",
-              "percentage": 0.017261904761904763
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -11059,7 +10573,7 @@ export const galleries = [
                 130
               ],
               "hex": "#fad282",
-              "percentage": 0.008095238095238095
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -11068,7 +10582,7 @@ export const galleries = [
                 240
               ],
               "hex": "#fafaf0",
-              "percentage": 0.0015476190476190477
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -11077,10 +10591,10 @@ export const galleries = [
                 60
               ],
               "hex": "#c83c3c",
-              "percentage": 0.0005952380952380953
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 38.02594591059641
+          "colorfulness": "38.026"
         }
       },
       {
@@ -11088,8 +10602,6 @@ export const galleries = [
         "latitude": 46.840028,
         "longitude": 14.84355,
         "createDate": "2025-07-19T15:54:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.840028,14.84355",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11099,7 +10611,7 @@ export const galleries = [
                 210
               ],
               "hex": "#1e96d2",
-              "percentage": 0.039411764705882354
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -11108,7 +10620,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.018823529411764704
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -11117,7 +10629,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.007294117647058823
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -11126,10 +10638,10 @@ export const galleries = [
                 50
               ],
               "hex": "#5a3c32",
-              "percentage": 0.0055294117647058825
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 51.26966973098956
+          "colorfulness": "51.270"
         }
       },
       {
@@ -11137,8 +10649,6 @@ export const galleries = [
         "latitude": 46.967381,
         "longitude": 13.193314,
         "createDate": "2025-07-19T10:15:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.967381,13.193314",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11148,7 +10658,7 @@ export const galleries = [
                 210
               ],
               "hex": "#a0c8d2",
-              "percentage": 0.04613333333333333
+              "percentage": "0.046"
             },
             {
               "rgb": [
@@ -11157,10 +10667,10 @@ export const galleries = [
                 30
               ],
               "hex": "#96781e",
-              "percentage": 0.012
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 38.52402302313239
+          "colorfulness": "38.524"
         }
       },
       {
@@ -11168,8 +10678,6 @@ export const galleries = [
         "latitude": 46.626228,
         "longitude": 14.307467,
         "createDate": "2025-07-21T07:09:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.626228,14.307467",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11179,10 +10687,10 @@ export const galleries = [
                 40
               ],
               "hex": "#463228",
-              "percentage": 0.020821917808219178
+              "percentage": "0.021"
             }
           ],
-          "colorfulness": 30.66787894996357
+          "colorfulness": "30.668"
         }
       },
       {
@@ -11190,8 +10698,6 @@ export const galleries = [
         "latitude": 46.613292,
         "longitude": 13.845847,
         "createDate": "2025-07-19T12:43:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.613292,13.845847",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11201,7 +10707,7 @@ export const galleries = [
                 140
               ],
               "hex": "#bea08c",
-              "percentage": 0.01188235294117647
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -11210,7 +10716,7 @@ export const galleries = [
                 70
               ],
               "hex": "#966446",
-              "percentage": 0.010470588235294117
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -11219,10 +10725,10 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.0062352941176470585
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 34.936375748736566
+          "colorfulness": "34.936"
         }
       },
       {
@@ -11230,8 +10736,6 @@ export const galleries = [
         "latitude": 46.873825,
         "longitude": 14.775747,
         "createDate": "2025-07-19T18:05:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.873825,14.775747",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11241,7 +10745,7 @@ export const galleries = [
                 180
               ],
               "hex": "#b4b4b4",
-              "percentage": 0.041428571428571426
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -11250,7 +10754,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.024285714285714285
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -11259,10 +10763,10 @@ export const galleries = [
                 20
               ],
               "hex": "#3c2814",
-              "percentage": 0.013956043956043955
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 40.91350462472753
+          "colorfulness": "40.914"
         }
       },
       {
@@ -11270,8 +10774,6 @@ export const galleries = [
         "latitude": 46.838422,
         "longitude": 14.843519,
         "createDate": "2025-07-19T16:10:52.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.838422,14.843519",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11281,7 +10783,7 @@ export const galleries = [
                 30
               ],
               "hex": "#32281e",
-              "percentage": 0.034823529411764705
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -11290,10 +10792,10 @@ export const galleries = [
                 230
               ],
               "hex": "#e6f0e6",
-              "percentage": 0.022705882352941176
+              "percentage": "0.023"
             }
           ],
-          "colorfulness": 46.46470715107754
+          "colorfulness": "46.465"
         }
       },
       {
@@ -11301,8 +10803,6 @@ export const galleries = [
         "latitude": 46.623967,
         "longitude": 14.307844,
         "createDate": "2025-07-20T12:14:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.623967,14.307844",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11312,7 +10812,7 @@ export const galleries = [
                 220
               ],
               "hex": "#46aadc",
-              "percentage": 0.036153846153846154
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -11321,7 +10821,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.03076923076923077
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -11330,7 +10830,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.018461538461538463
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -11339,10 +10839,10 @@ export const galleries = [
                 140
               ],
               "hex": "#a0968c",
-              "percentage": 0.005494505494505495
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 56.670632723135235
+          "colorfulness": "56.671"
         }
       },
       {
@@ -11350,8 +10850,6 @@ export const galleries = [
         "latitude": 46.624053,
         "longitude": 14.307789,
         "createDate": "2025-07-20T12:14:50.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.624053,14.307789",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11361,7 +10859,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.06146666666666667
+              "percentage": "0.061"
             },
             {
               "rgb": [
@@ -11370,7 +10868,7 @@ export const galleries = [
                 40
               ],
               "hex": "#141e28",
-              "percentage": 0.0276
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -11379,10 +10877,10 @@ export const galleries = [
                 200
               ],
               "hex": "#5aa0c8",
-              "percentage": 0.0108
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 45.17530836754609
+          "colorfulness": "45.175"
         }
       },
       {
@@ -11390,8 +10888,6 @@ export const galleries = [
         "latitude": 46.624008,
         "longitude": 14.307756,
         "createDate": "2025-07-20T12:13:44.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.624008,14.307756",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11401,7 +10897,7 @@ export const galleries = [
                 210
               ],
               "hex": "#82a0d2",
-              "percentage": 0.06492537313432836
+              "percentage": "0.065"
             },
             {
               "rgb": [
@@ -11410,7 +10906,7 @@ export const galleries = [
                 50
               ],
               "hex": "#1e2832",
-              "percentage": 0.06194029850746269
+              "percentage": "0.062"
             },
             {
               "rgb": [
@@ -11419,10 +10915,10 @@ export const galleries = [
                 240
               ],
               "hex": "#dce6f0",
-              "percentage": 0.022238805970149253
+              "percentage": "0.022"
             }
           ],
-          "colorfulness": 43.41952451243518
+          "colorfulness": "43.420"
         }
       },
       {
@@ -11430,8 +10926,6 @@ export const galleries = [
         "latitude": 46.622892,
         "longitude": 14.306003,
         "createDate": "2025-07-21T08:31:50.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622892,14.306003",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11441,7 +10935,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.05810810810810811
+              "percentage": "0.058"
             },
             {
               "rgb": [
@@ -11450,7 +10944,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.026756756756756758
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -11459,10 +10953,10 @@ export const galleries = [
                 30
               ],
               "hex": "#281e1e",
-              "percentage": 0.015405405405405406
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 38.71107170690625
+          "colorfulness": "38.711"
         }
       },
       {
@@ -11470,8 +10964,6 @@ export const galleries = [
         "latitude": 46.622986,
         "longitude": 14.304922,
         "createDate": "2025-07-20T17:45:05.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622986,14.304922",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11481,7 +10973,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.03911392405063291
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -11490,7 +10982,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.015949367088607596
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -11499,7 +10991,7 @@ export const galleries = [
                 0
               ],
               "hex": "#8c0000",
-              "percentage": 0.010379746835443038
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -11508,7 +11000,7 @@ export const galleries = [
                 30
               ],
               "hex": "#dc321e",
-              "percentage": 0.008354430379746836
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -11517,10 +11009,10 @@ export const galleries = [
                 230
               ],
               "hex": "#64bee6",
-              "percentage": 0.00025316455696202533
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 49.0234294134404
+          "colorfulness": "49.023"
         }
       },
       {
@@ -11528,8 +11020,6 @@ export const galleries = [
         "latitude": 46.621825,
         "longitude": 14.303786,
         "createDate": "2025-07-20T17:49:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.621825,14.303786",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11539,7 +11029,7 @@ export const galleries = [
                 230
               ],
               "hex": "#c8dce6",
-              "percentage": 0.043541666666666666
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -11548,10 +11038,10 @@ export const galleries = [
                 10
               ],
               "hex": "#645a0a",
-              "percentage": 0.0165625
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": 44.61950704144579
+          "colorfulness": "44.620"
         }
       },
       {
@@ -11559,8 +11049,6 @@ export const galleries = [
         "latitude": 46.625306,
         "longitude": 14.307778,
         "createDate": "2025-07-20T12:04:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.625306,14.307778",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11570,7 +11058,7 @@ export const galleries = [
                 220
               ],
               "hex": "#6eb4dc",
-              "percentage": 0.069125
+              "percentage": "0.069"
             },
             {
               "rgb": [
@@ -11579,7 +11067,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.006875
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -11588,7 +11076,7 @@ export const galleries = [
                 80
               ],
               "hex": "#6e5a50",
-              "percentage": 0.00425
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -11597,10 +11085,10 @@ export const galleries = [
                 150
               ],
               "hex": "#c8aa96",
-              "percentage": 0.00075
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 38.39315627052512
+          "colorfulness": "38.393"
         }
       },
       {
@@ -11608,8 +11096,6 @@ export const galleries = [
         "latitude": 46.608844,
         "longitude": 14.145178,
         "createDate": "2025-07-20T10:00:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.608844,14.145178",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11619,7 +11105,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6f0e6",
-              "percentage": 0.02625
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -11628,7 +11114,7 @@ export const galleries = [
                 50
               ],
               "hex": "#323232",
-              "percentage": 0.020555555555555556
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -11637,7 +11123,7 @@ export const galleries = [
                 90
               ],
               "hex": "#78645a",
-              "percentage": 0.015
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -11646,10 +11132,10 @@ export const galleries = [
                 180
               ],
               "hex": "#78a0b4",
-              "percentage": 0.0030555555555555557
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 42.87646363808312
+          "colorfulness": "42.876"
         }
       },
       {
@@ -11657,8 +11143,6 @@ export const galleries = [
         "latitude": 46.614814,
         "longitude": 14.121894,
         "createDate": "2025-07-20T09:58:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.614814,14.121894",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11668,7 +11152,7 @@ export const galleries = [
                 50
               ],
               "hex": "#1e2832",
-              "percentage": 0.023466666666666667
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -11677,7 +11161,7 @@ export const galleries = [
                 50
               ],
               "hex": "#825032",
-              "percentage": 0.013733333333333334
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -11686,7 +11170,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.005066666666666666
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -11695,7 +11179,7 @@ export const galleries = [
                 240
               ],
               "hex": "#fafaf0",
-              "percentage": 0.0029333333333333334
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -11704,10 +11188,10 @@ export const galleries = [
                 130
               ],
               "hex": "#6e7882",
-              "percentage": 0.0028
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 40.96514681660745
+          "colorfulness": "40.965"
         }
       },
       {
@@ -11715,8 +11199,6 @@ export const galleries = [
         "latitude": 46.62455,
         "longitude": 14.308033,
         "createDate": "2025-07-20T12:31:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.62455,14.308033",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11726,7 +11208,7 @@ export const galleries = [
                 70
               ],
               "hex": "#6e5a46",
-              "percentage": 0.03362637362637363
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -11735,7 +11217,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.02923076923076923
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -11744,7 +11226,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.02175824175824176
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -11753,7 +11235,7 @@ export const galleries = [
                 220
               ],
               "hex": "#96bedc",
-              "percentage": 0.0013186813186813187
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -11762,10 +11244,10 @@ export const galleries = [
                 200
               ],
               "hex": "#5aa0c8",
-              "percentage": 0.0013186813186813187
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 34.612276817395106
+          "colorfulness": "34.612"
         }
       },
       {
@@ -11773,8 +11255,6 @@ export const galleries = [
         "latitude": 46.621292,
         "longitude": 14.310967,
         "createDate": "2025-07-20T18:22:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.621292,14.310967",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11784,7 +11264,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.032235294117647056
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -11793,7 +11273,7 @@ export const galleries = [
                 20
               ],
               "hex": "#827814",
-              "percentage": 0.019647058823529413
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -11802,7 +11282,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140a00",
-              "percentage": 0.009529411764705882
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -11811,10 +11291,10 @@ export const galleries = [
                 110
               ],
               "hex": "#5a646e",
-              "percentage": 0.0055294117647058825
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 42.587620157962846
+          "colorfulness": "42.588"
         }
       },
       {
@@ -11822,8 +11302,6 @@ export const galleries = [
         "latitude": 46.621042,
         "longitude": 14.306292,
         "createDate": "2025-07-20T17:40:53.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.621042,14.306292",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11833,7 +11311,7 @@ export const galleries = [
                 100
               ],
               "hex": "#826e64",
-              "percentage": 0.0353968253968254
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -11842,7 +11320,7 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.03015873015873016
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -11851,7 +11329,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.025714285714285714
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -11860,10 +11338,10 @@ export const galleries = [
                 30
               ],
               "hex": "#32281e",
-              "percentage": 0.020158730158730157
+              "percentage": "0.020"
             }
           ],
-          "colorfulness": 33.7070875011454
+          "colorfulness": "33.707"
         }
       },
       {
@@ -11871,8 +11349,6 @@ export const galleries = [
         "latitude": 46.623086,
         "longitude": 14.252092,
         "createDate": "2025-07-20T14:19:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.623086,14.252092",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11882,7 +11358,7 @@ export const galleries = [
                 90
               ],
               "hex": "#826e5a",
-              "percentage": 0.024761904761904763
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -11891,7 +11367,7 @@ export const galleries = [
                 10
               ],
               "hex": "#46320a",
-              "percentage": 0.021666666666666667
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -11900,7 +11376,7 @@ export const galleries = [
                 200
               ],
               "hex": "#f0e6c8",
-              "percentage": 0.008690476190476191
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -11909,10 +11385,10 @@ export const galleries = [
                 240
               ],
               "hex": "#78c8f0",
-              "percentage": 0.007023809523809524
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 37.23480927018484
+          "colorfulness": "37.235"
         }
       },
       {
@@ -11920,8 +11396,6 @@ export const galleries = [
         "latitude": 46.622769,
         "longitude": 14.252847,
         "createDate": "2025-07-20T13:00:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622769,14.252847",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11931,7 +11405,7 @@ export const galleries = [
                 180
               ],
               "hex": "#6eaab4",
-              "percentage": 0.01680851063829787
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -11940,7 +11414,7 @@ export const galleries = [
                 80
               ],
               "hex": "#b48c50",
-              "percentage": 0.01276595744680851
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -11949,10 +11423,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.0010638297872340426
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 29.351550428185046
+          "colorfulness": "29.352"
         }
       },
       {
@@ -11960,8 +11434,6 @@ export const galleries = [
         "latitude": 46.622169,
         "longitude": 14.254164,
         "createDate": "2025-07-20T12:58:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622169,14.254164",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -11971,7 +11443,7 @@ export const galleries = [
                 20
               ],
               "hex": "#322814",
-              "percentage": 0.024307692307692308
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -11980,7 +11452,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.013384615384615385
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -11989,10 +11461,10 @@ export const galleries = [
                 60
               ],
               "hex": "#a0963c",
-              "percentage": 0.011384615384615385
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 37.38593573113375
+          "colorfulness": "37.386"
         }
       },
       {
@@ -12000,8 +11472,6 @@ export const galleries = [
         "latitude": 46.622453,
         "longitude": 14.253317,
         "createDate": "2025-07-20T12:59:44.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46.622453,14.253317",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12011,7 +11481,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.08036585365853659
+              "percentage": "0.080"
             },
             {
               "rgb": [
@@ -12020,7 +11490,7 @@ export const galleries = [
                 200
               ],
               "hex": "#5aa0c8",
-              "percentage": 0.0674390243902439
+              "percentage": "0.067"
             },
             {
               "rgb": [
@@ -12029,7 +11499,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.013292682926829268
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -12038,10 +11508,10 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.004024390243902439
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 40.026448430652216
+          "colorfulness": "40.026"
         }
       }
     ],
@@ -12059,8 +11529,6 @@ export const galleries = [
         "latitude": 47.133819,
         "longitude": 14.874467,
         "createDate": "2024-08-24T09:13:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.133819,14.874467",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12070,7 +11538,7 @@ export const galleries = [
                 200
               ],
               "hex": "#50a0c8",
-              "percentage": 0.03211764705882353
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -12079,7 +11547,7 @@ export const galleries = [
                 30
               ],
               "hex": "#32281e",
-              "percentage": 0.013294117647058824
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -12088,7 +11556,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.010588235294117647
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -12097,10 +11565,10 @@ export const galleries = [
                 120
               ],
               "hex": "#b49678",
-              "percentage": 0.008470588235294117
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 46.15876546408746
+          "colorfulness": "46.159"
         }
       },
       {
@@ -12108,8 +11576,6 @@ export const galleries = [
         "latitude": 47.133167,
         "longitude": 14.874389,
         "createDate": "2024-08-24T09:34:44.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.133167,14.874389",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12119,7 +11585,7 @@ export const galleries = [
                 190
               ],
               "hex": "#0a82be",
-              "percentage": 0.053
+              "percentage": "0.053"
             },
             {
               "rgb": [
@@ -12128,7 +11594,7 @@ export const galleries = [
                 230
               ],
               "hex": "#5abee6",
-              "percentage": 0.014375
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -12137,7 +11603,7 @@ export const galleries = [
                 50
               ],
               "hex": "#826e32",
-              "percentage": 0.013375
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -12146,10 +11612,10 @@ export const galleries = [
                 170
               ],
               "hex": "#dcc8aa",
-              "percentage": 0.000375
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 50.61461709438212
+          "colorfulness": "50.615"
         }
       },
       {
@@ -12157,8 +11623,6 @@ export const galleries = [
         "latitude": 47.134494,
         "longitude": 14.869739,
         "createDate": "2024-08-26T05:15:28.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.134494,14.869739",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12168,7 +11632,7 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.1052
+              "percentage": "0.105"
             },
             {
               "rgb": [
@@ -12177,10 +11641,10 @@ export const galleries = [
                 100
               ],
               "hex": "#786464",
-              "percentage": 0.017066666666666667
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": 34.632731543411026
+          "colorfulness": "34.633"
         }
       },
       {
@@ -12188,8 +11652,6 @@ export const galleries = [
         "latitude": 47.134614,
         "longitude": 14.869656,
         "createDate": "2024-08-23T20:36:37.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.134614,14.869656",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12199,10 +11661,10 @@ export const galleries = [
                 30
               ],
               "hex": "#00001e",
-              "percentage": 0.24855263157894736
+              "percentage": "0.249"
             }
           ],
-          "colorfulness": 5.38511382543809
+          "colorfulness": "5.385"
         }
       }
     ],
@@ -12220,8 +11682,6 @@ export const galleries = [
         "latitude": 38.703011,
         "longitude": -9.178928,
         "createDate": "2018-11-21T16:31:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.703011,-9.178928",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -12231,7 +11691,7 @@ export const galleries = [
                 180
               ],
               "hex": "#aaaab4",
-              "percentage": 0.04517857142857143
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -12240,10 +11700,10 @@ export const galleries = [
                 10
               ],
               "hex": "#0a0a0a",
-              "percentage": 0.03642857142857143
+              "percentage": "0.036"
             }
           ],
-          "colorfulness": 39.59267183199234
+          "colorfulness": "39.593"
         }
       },
       {
@@ -12251,8 +11711,6 @@ export const galleries = [
         "latitude": 38.710667,
         "longitude": -9.141656,
         "createDate": "2018-11-20T10:00:05.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.710667,-9.141656",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -12262,7 +11720,7 @@ export const galleries = [
                 190
               ],
               "hex": "#c8c8be",
-              "percentage": 0.04375
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -12271,10 +11729,10 @@ export const galleries = [
                 140
               ],
               "hex": "#96a08c",
-              "percentage": 0.026785714285714284
+              "percentage": "0.027"
             }
           ],
-          "colorfulness": 23.24796283148271
+          "colorfulness": "23.248"
         }
       },
       {
@@ -12282,8 +11740,6 @@ export const galleries = [
         "latitude": 38.763369,
         "longitude": -9.093719,
         "createDate": "2018-11-22T12:03:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.763369,-9.093719",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -12293,7 +11749,7 @@ export const galleries = [
                 50
               ],
               "hex": "#000032",
-              "percentage": 0.2449230769230769
+              "percentage": "0.245"
             },
             {
               "rgb": [
@@ -12302,7 +11758,7 @@ export const galleries = [
                 240
               ],
               "hex": "#00c8f0",
-              "percentage": 0.0012307692307692308
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -12311,7 +11767,7 @@ export const galleries = [
                 240
               ],
               "hex": "#008cf0",
-              "percentage": 0.0012307692307692308
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -12320,10 +11776,10 @@ export const galleries = [
                 170
               ],
               "hex": "#0a5aaa",
-              "percentage": 0.0003076923076923077
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 23.97733319272258
+          "colorfulness": "23.977"
         }
       },
       {
@@ -12331,8 +11787,6 @@ export const galleries = [
         "latitude": 38.678614,
         "longitude": -9.171356,
         "createDate": "2018-11-20T16:03:29.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.678614,-9.171356",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -12342,7 +11796,7 @@ export const galleries = [
                 70
               ],
               "hex": "#323c46",
-              "percentage": 0.02857142857142857
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -12351,10 +11805,10 @@ export const galleries = [
                 250
               ],
               "hex": "#dce6fa",
-              "percentage": 0.020892857142857144
+              "percentage": "0.021"
             }
           ],
-          "colorfulness": 37.0153526481489
+          "colorfulness": "37.015"
         }
       },
       {
@@ -12362,8 +11816,6 @@ export const galleries = [
         "latitude": 38.683419,
         "longitude": -9.31415,
         "createDate": "2018-11-21T13:23:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.683419,-9.31415",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -12373,7 +11825,7 @@ export const galleries = [
                 10
               ],
               "hex": "#0a0a0a",
-              "percentage": 0.12964285714285714
+              "percentage": "0.130"
             },
             {
               "rgb": [
@@ -12382,7 +11834,7 @@ export const galleries = [
                 190
               ],
               "hex": "#a0b4be",
-              "percentage": 0.03678571428571428
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -12391,10 +11843,10 @@ export const galleries = [
                 250
               ],
               "hex": "#fafafa",
-              "percentage": 0.011428571428571429
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 45.06046029211485
+          "colorfulness": "45.060"
         }
       },
       {
@@ -12402,8 +11854,6 @@ export const galleries = [
         "latitude": 38.715242,
         "longitude": -9.144369,
         "createDate": "2018-11-19T11:11:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.715242,-9.144369",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -12413,7 +11863,7 @@ export const galleries = [
                 190
               ],
               "hex": "#bebebe",
-              "percentage": 0.04964285714285714
+              "percentage": "0.050"
             },
             {
               "rgb": [
@@ -12422,10 +11872,10 @@ export const galleries = [
                 50
               ],
               "hex": "#323232",
-              "percentage": 0.039464285714285716
+              "percentage": "0.039"
             }
           ],
-          "colorfulness": 39.190308710321474
+          "colorfulness": "39.190"
         }
       },
       {
@@ -12433,8 +11883,6 @@ export const galleries = [
         "latitude": 38.713175,
         "longitude": -9.127778,
         "createDate": "2018-11-19T15:31:20.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.713175,-9.127778",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -12444,7 +11892,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.03517857142857143
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -12453,7 +11901,7 @@ export const galleries = [
                 130
               ],
               "hex": "#968c82",
-              "percentage": 0.019464285714285715
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -12462,7 +11910,7 @@ export const galleries = [
                 250
               ],
               "hex": "#fafafa",
-              "percentage": 0.014464285714285714
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -12471,10 +11919,10 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.008392857142857143
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 37.519495382752424
+          "colorfulness": "37.519"
         }
       },
       {
@@ -12482,8 +11930,6 @@ export const galleries = [
         "latitude": 38.709792,
         "longitude": -9.136431,
         "createDate": "2018-11-19T13:55:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.709792,-9.136431",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -12493,7 +11939,7 @@ export const galleries = [
                 180
               ],
               "hex": "#beb4b4",
-              "percentage": 0.07321428571428572
+              "percentage": "0.073"
             },
             {
               "rgb": [
@@ -12502,10 +11948,10 @@ export const galleries = [
                 50
               ],
               "hex": "#323232",
-              "percentage": 0.02625
+              "percentage": "0.026"
             }
           ],
-          "colorfulness": 27.717239830501573
+          "colorfulness": "27.717"
         }
       },
       {
@@ -12513,8 +11959,6 @@ export const galleries = [
         "latitude": 38.707842,
         "longitude": -9.138886,
         "createDate": "2018-11-20T09:27:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.707842,-9.138886",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -12524,7 +11968,7 @@ export const galleries = [
                 30
               ],
               "hex": "#1e1e1e",
-              "percentage": 0.12535714285714286
+              "percentage": "0.125"
             },
             {
               "rgb": [
@@ -12533,7 +11977,7 @@ export const galleries = [
                 250
               ],
               "hex": "#fafafa",
-              "percentage": 0.04928571428571429
+              "percentage": "0.049"
             },
             {
               "rgb": [
@@ -12542,10 +11986,10 @@ export const galleries = [
                 150
               ],
               "hex": "#a08c96",
-              "percentage": 0.0175
+              "percentage": "0.018"
             }
           ],
-          "colorfulness": 35.09713335683461
+          "colorfulness": "35.097"
         }
       },
       {
@@ -12553,8 +11997,6 @@ export const galleries = [
         "latitude": 38.715592,
         "longitude": -9.145636,
         "createDate": "2018-11-20T09:53:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.715592,-9.145636",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -12564,7 +12006,7 @@ export const galleries = [
                 70
               ],
               "hex": "#464646",
-              "percentage": 0.09125
+              "percentage": "0.091"
             },
             {
               "rgb": [
@@ -12573,10 +12015,10 @@ export const galleries = [
                 250
               ],
               "hex": "#fafafa",
-              "percentage": 0.02517857142857143
+              "percentage": "0.025"
             }
           ],
-          "colorfulness": 41.77743212995501
+          "colorfulness": "41.777"
         }
       },
       {
@@ -12584,8 +12026,6 @@ export const galleries = [
         "latitude": 38.715592,
         "longitude": -9.145636,
         "createDate": "2018-11-20T09:52:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=38.715592,-9.145636",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -12595,7 +12035,7 @@ export const galleries = [
                 60
               ],
               "hex": "#3c3c3c",
-              "percentage": 0.07267857142857143
+              "percentage": "0.073"
             },
             {
               "rgb": [
@@ -12604,7 +12044,7 @@ export const galleries = [
                 250
               ],
               "hex": "#fafafa",
-              "percentage": 0.020714285714285713
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -12613,10 +12053,10 @@ export const galleries = [
                 240
               ],
               "hex": "#aac8f0",
-              "percentage": 0.015
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 37.10404757553334
+          "colorfulness": "37.104"
         }
       }
     ],
@@ -12634,8 +12074,6 @@ export const galleries = [
         "latitude": 48.210525,
         "longitude": 16.358989,
         "createDate": "2025-05-01T09:22:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.210525,16.358989",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12645,7 +12083,7 @@ export const galleries = [
                 190
               ],
               "hex": "#288cbe",
-              "percentage": 0.06705882352941177
+              "percentage": "0.067"
             },
             {
               "rgb": [
@@ -12654,7 +12092,7 @@ export const galleries = [
                 20
               ],
               "hex": "#780a14",
-              "percentage": 0.04211764705882353
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -12663,7 +12101,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.008941176470588235
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -12672,7 +12110,7 @@ export const galleries = [
                 160
               ],
               "hex": "#828ca0",
-              "percentage": 0.006941176470588235
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -12681,10 +12119,10 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.0037647058823529413
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 51.39365077316385
+          "colorfulness": "51.394"
         }
       },
       {
@@ -12692,8 +12130,6 @@ export const galleries = [
         "latitude": 48.207139,
         "longitude": 16.3597,
         "createDate": "2025-05-01T08:59:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207139,16.3597",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12703,7 +12139,7 @@ export const galleries = [
                 30
               ],
               "hex": "#281e1e",
-              "percentage": 0.033582089552238806
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -12712,7 +12148,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6f0e6",
-              "percentage": 0.010746268656716417
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -12721,10 +12157,10 @@ export const galleries = [
                 190
               ],
               "hex": "#b4b4be",
-              "percentage": 0.003134328358208955
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 39.02089940780509
+          "colorfulness": "39.021"
         }
       },
       {
@@ -12732,8 +12168,6 @@ export const galleries = [
         "latitude": 48.211181,
         "longitude": 16.35855,
         "createDate": "2025-05-01T09:51:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211181,16.35855",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12743,7 +12177,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.08686274509803922
+              "percentage": "0.087"
             },
             {
               "rgb": [
@@ -12752,7 +12186,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.03294117647058824
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -12761,10 +12195,10 @@ export const galleries = [
                 230
               ],
               "hex": "#aad2e6",
-              "percentage": 0.024901960784313726
+              "percentage": "0.025"
             }
           ],
-          "colorfulness": 41.600249060792535
+          "colorfulness": "41.600"
         }
       },
       {
@@ -12772,8 +12206,6 @@ export const galleries = [
         "latitude": 48.207958,
         "longitude": 16.359894,
         "createDate": "2025-05-01T09:01:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207958,16.359894",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12783,7 +12215,7 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.03388888888888889
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -12792,7 +12224,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.02822222222222222
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -12801,7 +12233,7 @@ export const galleries = [
                 40
               ],
               "hex": "#282828",
-              "percentage": 0.012444444444444444
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -12810,10 +12242,10 @@ export const galleries = [
                 40
               ],
               "hex": "#b43c28",
-              "percentage": 0.00022222222222222223
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 46.236028585533596
+          "colorfulness": "46.236"
         }
       },
       {
@@ -12821,8 +12253,6 @@ export const galleries = [
         "latitude": 48.215558,
         "longitude": 16.398789,
         "createDate": "2025-05-01T10:32:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215558,16.398789",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12832,7 +12262,7 @@ export const galleries = [
                 230
               ],
               "hex": "#64bee6",
-              "percentage": 0.0425
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -12841,7 +12271,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.009166666666666667
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -12850,7 +12280,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.0020833333333333333
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -12859,10 +12289,10 @@ export const galleries = [
                 140
               ],
               "hex": "#fadc8c",
-              "percentage": 0.0004166666666666667
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 47.28860227827167
+          "colorfulness": "47.289"
         }
       },
       {
@@ -12870,8 +12300,6 @@ export const galleries = [
         "latitude": 48.216133,
         "longitude": 16.398347,
         "createDate": "2025-05-01T10:31:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216133,16.398347",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12881,7 +12309,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.03735294117647059
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -12890,7 +12318,7 @@ export const galleries = [
                 230
               ],
               "hex": "#82c8e6",
-              "percentage": 0.02985294117647059
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -12899,7 +12327,7 @@ export const galleries = [
                 50
               ],
               "hex": "#3c3232",
-              "percentage": 0.011323529411764706
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -12908,7 +12336,7 @@ export const galleries = [
                 160
               ],
               "hex": "#2878a0",
-              "percentage": 0.001176470588235294
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -12917,10 +12345,10 @@ export const galleries = [
                 80
               ],
               "hex": "#e69650",
-              "percentage": 0.0004411764705882353
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 44.824172663274055
+          "colorfulness": "44.824"
         }
       },
       {
@@ -12928,8 +12356,6 @@ export const galleries = [
         "latitude": 48.207936,
         "longitude": 16.359811,
         "createDate": "2025-05-01T09:01:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207936,16.359811",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12939,7 +12365,7 @@ export const galleries = [
                 150
               ],
               "hex": "#0a6496",
-              "percentage": 0.08277777777777778
+              "percentage": "0.083"
             },
             {
               "rgb": [
@@ -12948,7 +12374,7 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.024583333333333332
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -12957,7 +12383,7 @@ export const galleries = [
                 70
               ],
               "hex": "#645046",
-              "percentage": 0.006666666666666667
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -12966,10 +12392,10 @@ export const galleries = [
                 30
               ],
               "hex": "#3c281e",
-              "percentage": 0.006111111111111111
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 49.50751131417496
+          "colorfulness": "49.508"
         }
       },
       {
@@ -12977,8 +12403,6 @@ export const galleries = [
         "latitude": 48.216861,
         "longitude": 16.396319,
         "createDate": "2025-05-01T15:46:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216861,16.396319",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -12988,7 +12412,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.05025316455696203
+              "percentage": "0.050"
             },
             {
               "rgb": [
@@ -12997,7 +12421,7 @@ export const galleries = [
                 100
               ],
               "hex": "#8c7864",
-              "percentage": 0.027848101265822784
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -13006,7 +12430,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.01658227848101266
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -13015,7 +12439,7 @@ export const galleries = [
                 210
               ],
               "hex": "#dcdcd2",
-              "percentage": 0.012151898734177215
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -13024,10 +12448,10 @@ export const galleries = [
                 250
               ],
               "hex": "#00aafa",
-              "percentage": 0.00025316455696202533
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 39.422517160288
+          "colorfulness": "39.423"
         }
       },
       {
@@ -13035,8 +12459,6 @@ export const galleries = [
         "latitude": 48.216019,
         "longitude": 16.398375,
         "createDate": "2025-05-01T10:31:50.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216019,16.398375",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13046,7 +12468,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.012638888888888889
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -13055,7 +12477,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.009583333333333333
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -13064,10 +12486,10 @@ export const galleries = [
                 90
               ],
               "hex": "#1e465a",
-              "percentage": 0.006111111111111111
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 38.95192977212195
+          "colorfulness": "38.952"
         }
       },
       {
@@ -13075,8 +12497,6 @@ export const galleries = [
         "latitude": 48.209867,
         "longitude": 16.360381,
         "createDate": "2025-05-01T09:04:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209867,16.360381",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13086,7 +12506,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.04292929292929293
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -13095,10 +12515,10 @@ export const galleries = [
                 230
               ],
               "hex": "#96d2e6",
-              "percentage": 0.028383838383838383
+              "percentage": "0.028"
             }
           ],
-          "colorfulness": 41.99418370127167
+          "colorfulness": "41.994"
         }
       },
       {
@@ -13106,8 +12526,6 @@ export const galleries = [
         "latitude": 48.215764,
         "longitude": 16.398489,
         "createDate": "2025-05-01T10:32:23.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215764,16.398489",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13117,7 +12535,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.0321505376344086
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -13126,7 +12544,7 @@ export const galleries = [
                 230
               ],
               "hex": "#64bee6",
-              "percentage": 0.00849462365591398
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -13135,7 +12553,7 @@ export const galleries = [
                 110
               ],
               "hex": "#506e6e",
-              "percentage": 0.005591397849462366
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -13144,7 +12562,7 @@ export const galleries = [
                 120
               ],
               "hex": "#b49678",
-              "percentage": 0.003763440860215054
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -13153,10 +12571,10 @@ export const galleries = [
                 80
               ],
               "hex": "#f05050",
-              "percentage": 0.0005376344086021505
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 42.48578418089311
+          "colorfulness": "42.486"
         }
       },
       {
@@ -13164,8 +12582,6 @@ export const galleries = [
         "latitude": 48.2151,
         "longitude": 16.399356,
         "createDate": "2025-05-01T10:34:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2151,16.399356",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13175,7 +12591,7 @@ export const galleries = [
                 240
               ],
               "hex": "#6ebef0",
-              "percentage": 0.019878048780487805
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -13184,7 +12600,7 @@ export const galleries = [
                 10
               ],
               "hex": "#140a0a",
-              "percentage": 0.01548780487804878
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -13193,7 +12609,7 @@ export const galleries = [
                 30
               ],
               "hex": "#463c1e",
-              "percentage": 0.010853658536585365
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -13202,7 +12618,7 @@ export const galleries = [
                 130
               ],
               "hex": "#aa9682",
-              "percentage": 0.0017073170731707317
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -13211,10 +12627,10 @@ export const galleries = [
                 180
               ],
               "hex": "#0a96b4",
-              "percentage": 0.0017073170731707317
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 47.33916077362516
+          "colorfulness": "47.339"
         }
       },
       {
@@ -13222,8 +12638,6 @@ export const galleries = [
         "latitude": 48.215069,
         "longitude": 16.399456,
         "createDate": "2025-05-01T10:34:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215069,16.399456",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13233,7 +12647,7 @@ export const galleries = [
                 230
               ],
               "hex": "#8cc8e6",
-              "percentage": 0.00775
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -13242,7 +12656,7 @@ export const galleries = [
                 20
               ],
               "hex": "#320a14",
-              "percentage": 0.00625
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -13251,7 +12665,7 @@ export const galleries = [
                 80
               ],
               "hex": "#826450",
-              "percentage": 0.00525
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -13260,10 +12674,10 @@ export const galleries = [
                 60
               ],
               "hex": "#d2aa3c",
-              "percentage": 0.004125
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 41.33196239479704
+          "colorfulness": "41.332"
         }
       },
       {
@@ -13271,8 +12685,6 @@ export const galleries = [
         "latitude": 48.216039,
         "longitude": 16.397747,
         "createDate": "2025-05-01T10:30:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216039,16.397747",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13282,7 +12694,7 @@ export const galleries = [
                 200
               ],
               "hex": "#148cc8",
-              "percentage": 0.09359550561797753
+              "percentage": "0.094"
             },
             {
               "rgb": [
@@ -13291,10 +12703,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.017191011235955057
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": 55.4714717688397
+          "colorfulness": "55.471"
         }
       },
       {
@@ -13302,8 +12714,6 @@ export const galleries = [
         "latitude": 48.207492,
         "longitude": 16.359689,
         "createDate": "2025-05-01T09:00:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.207492,16.359689",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13313,7 +12723,7 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.04428571428571428
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -13322,7 +12732,7 @@ export const galleries = [
                 230
               ],
               "hex": "#78bee6",
-              "percentage": 0.016103896103896103
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -13331,7 +12741,7 @@ export const galleries = [
                 50
               ],
               "hex": "#323232",
-              "percentage": 0.01090909090909091
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -13340,10 +12750,10 @@ export const galleries = [
                 30
               ],
               "hex": "#a0781e",
-              "percentage": 0.0015584415584415584
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 41.525342276302304
+          "colorfulness": "41.525"
         }
       },
       {
@@ -13351,8 +12761,6 @@ export const galleries = [
         "latitude": 48.216233,
         "longitude": 16.398181,
         "createDate": "2025-05-01T10:31:20.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216233,16.398181",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13362,7 +12770,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.02619718309859155
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -13371,7 +12779,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.013521126760563381
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -13380,10 +12788,10 @@ export const galleries = [
                 220
               ],
               "hex": "#46aadc",
-              "percentage": 0.011549295774647887
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 48.507004220313256
+          "colorfulness": "48.507"
         }
       },
       {
@@ -13391,8 +12799,6 @@ export const galleries = [
         "latitude": 48.210561,
         "longitude": 16.360014,
         "createDate": "2025-05-01T09:06:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.210561,16.360014",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13402,7 +12808,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.07541176470588236
+              "percentage": "0.075"
             },
             {
               "rgb": [
@@ -13411,7 +12817,7 @@ export const galleries = [
                 150
               ],
               "hex": "#146496",
-              "percentage": 0.04376470588235294
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -13420,7 +12826,7 @@ export const galleries = [
                 120
               ],
               "hex": "#8c8278",
-              "percentage": 0.011529411764705882
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -13429,7 +12835,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.009176470588235295
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -13438,10 +12844,10 @@ export const galleries = [
                 50
               ],
               "hex": "#f04632",
-              "percentage": 0.00788235294117647
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 49.81162551934086
+          "colorfulness": "49.812"
         }
       },
       {
@@ -13449,8 +12855,6 @@ export const galleries = [
         "latitude": 48.174572,
         "longitude": 16.410278,
         "createDate": "2025-05-01T16:36:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.174572,16.410278",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13460,7 +12864,7 @@ export const galleries = [
                 30
               ],
               "hex": "#32281e",
-              "percentage": 0.020681818181818183
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -13469,7 +12873,7 @@ export const galleries = [
                 100
               ],
               "hex": "#a08264",
-              "percentage": 0.015
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -13478,7 +12882,7 @@ export const galleries = [
                 210
               ],
               "hex": "#96bed2",
-              "percentage": 0.012045454545454545
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -13487,10 +12891,10 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.009659090909090909
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 39.64360703472167
+          "colorfulness": "39.644"
         }
       },
       {
@@ -13498,8 +12902,6 @@ export const galleries = [
         "latitude": 48.216286,
         "longitude": 16.397525,
         "createDate": "2025-05-01T10:29:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216286,16.397525",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13509,7 +12911,7 @@ export const galleries = [
                 70
               ],
               "hex": "#645046",
-              "percentage": 0.05411764705882353
+              "percentage": "0.054"
             },
             {
               "rgb": [
@@ -13518,7 +12920,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.016588235294117647
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -13527,7 +12929,7 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.010352941176470589
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -13536,7 +12938,7 @@ export const galleries = [
                 70
               ],
               "hex": "#dc5046",
-              "percentage": 0.006588235294117647
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -13545,10 +12947,10 @@ export const galleries = [
                 40
               ],
               "hex": "#aa3228",
-              "percentage": 0.00411764705882353
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 44.25427838457086
+          "colorfulness": "44.254"
         }
       },
       {
@@ -13556,8 +12958,6 @@ export const galleries = [
         "latitude": 48.217328,
         "longitude": 16.395811,
         "createDate": "2025-05-01T15:47:19.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217328,16.395811",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13567,7 +12967,7 @@ export const galleries = [
                 220
               ],
               "hex": "#6eb4dc",
-              "percentage": 0.021866666666666666
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -13576,7 +12976,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.0148
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -13585,10 +12985,10 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.011866666666666666
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 43.26976433737864
+          "colorfulness": "43.270"
         }
       },
       {
@@ -13596,8 +12996,6 @@ export const galleries = [
         "latitude": 48.215917,
         "longitude": 16.396686,
         "createDate": "2025-05-01T15:38:43.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215917,16.396686",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13607,7 +13005,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.0175
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -13616,7 +13014,7 @@ export const galleries = [
                 80
               ],
               "hex": "#aaa050",
-              "percentage": 0.0161
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -13625,7 +13023,7 @@ export const galleries = [
                 70
               ],
               "hex": "#fa5046",
-              "percentage": 0.0011
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -13634,10 +13032,10 @@ export const galleries = [
                 200
               ],
               "hex": "#82b4c8",
-              "percentage": 0.0006
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 37.933322553364114
+          "colorfulness": "37.933"
         }
       },
       {
@@ -13645,8 +13043,6 @@ export const galleries = [
         "latitude": 48.214419,
         "longitude": 16.397739,
         "createDate": "2025-05-01T15:35:44.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.214419,16.397739",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13656,7 +13052,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.03260869565217391
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -13665,7 +13061,7 @@ export const galleries = [
                 160
               ],
               "hex": "#beaaa0",
-              "percentage": 0.02434782608695652
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -13674,7 +13070,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6f0e6",
-              "percentage": 0.004021739130434783
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -13683,10 +13079,10 @@ export const galleries = [
                 80
               ],
               "hex": "#fa5050",
-              "percentage": 0.0002173913043478261
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 38.10004626435518
+          "colorfulness": "38.100"
         }
       },
       {
@@ -13694,8 +13090,6 @@ export const galleries = [
         "latitude": 48.213722,
         "longitude": 16.398669,
         "createDate": "2025-05-01T15:34:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213722,16.398669",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13705,7 +13099,7 @@ export const galleries = [
                 140
               ],
               "hex": "#8c8c8c",
-              "percentage": 0.03618421052631579
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -13714,7 +13108,7 @@ export const galleries = [
                 200
               ],
               "hex": "#f0e6c8",
-              "percentage": 0.021710526315789475
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -13723,7 +13117,7 @@ export const galleries = [
                 10
               ],
               "hex": "#140a0a",
-              "percentage": 0.00631578947368421
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -13732,7 +13126,7 @@ export const galleries = [
                 240
               ],
               "hex": "#aadcf0",
-              "percentage": 0.003157894736842105
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -13741,10 +13135,10 @@ export const galleries = [
                 80
               ],
               "hex": "#beaa50",
-              "percentage": 0.002368421052631579
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 38.51313829264674
+          "colorfulness": "38.513"
         }
       },
       {
@@ -13752,8 +13146,6 @@ export const galleries = [
         "latitude": 48.213733,
         "longitude": 16.398706,
         "createDate": "2025-05-01T15:33:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213733,16.398706",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13763,7 +13155,7 @@ export const galleries = [
                 100
               ],
               "hex": "#826e64",
-              "percentage": 0.01744186046511628
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -13772,10 +13164,10 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.016395348837209302
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 31.947778486785186
+          "colorfulness": "31.948"
         }
       },
       {
@@ -13783,8 +13175,6 @@ export const galleries = [
         "latitude": 48.217383,
         "longitude": 16.395767,
         "createDate": "2025-05-01T15:47:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217383,16.395767",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13794,7 +13184,7 @@ export const galleries = [
                 210
               ],
               "hex": "#46a0d2",
-              "percentage": 0.02641025641025641
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -13803,7 +13193,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.025384615384615384
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -13812,7 +13202,7 @@ export const galleries = [
                 20
               ],
               "hex": "#6e3c14",
-              "percentage": 0.022692307692307692
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -13821,10 +13211,10 @@ export const galleries = [
                 150
               ],
               "hex": "#a09696",
-              "percentage": 0.004743589743589744
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 47.4355553563906
+          "colorfulness": "47.436"
         }
       },
       {
@@ -13832,8 +13222,6 @@ export const galleries = [
         "latitude": 48.218267,
         "longitude": 16.391383,
         "createDate": "2025-05-01T15:58:02.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218267,16.391383",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13843,7 +13231,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.03898876404494382
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -13852,7 +13240,7 @@ export const galleries = [
                 50
               ],
               "hex": "#463232",
-              "percentage": 0.022808988764044944
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -13861,7 +13249,7 @@ export const galleries = [
                 110
               ],
               "hex": "#96826e",
-              "percentage": 0.009775280898876405
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -13870,7 +13258,7 @@ export const galleries = [
                 160
               ],
               "hex": "#d2bea0",
-              "percentage": 0.006292134831460674
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -13879,10 +13267,10 @@ export const galleries = [
                 250
               ],
               "hex": "#b4e6fa",
-              "percentage": 0.0014606741573033708
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 37.18757006924677
+          "colorfulness": "37.188"
         }
       },
       {
@@ -13890,8 +13278,6 @@ export const galleries = [
         "latitude": 48.218892,
         "longitude": 16.391956,
         "createDate": "2025-05-01T16:05:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218892,16.391956",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13901,7 +13287,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.06855421686746987
+              "percentage": "0.069"
             },
             {
               "rgb": [
@@ -13910,7 +13296,7 @@ export const galleries = [
                 190
               ],
               "hex": "#e6d2be",
-              "percentage": 0.019397590361445782
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -13919,10 +13305,10 @@ export const galleries = [
                 90
               ],
               "hex": "#78645a",
-              "percentage": 0.015903614457831325
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 39.86515599140703
+          "colorfulness": "39.865"
         }
       },
       {
@@ -13930,8 +13316,6 @@ export const galleries = [
         "latitude": 48.218922,
         "longitude": 16.391997,
         "createDate": "2025-05-01T16:04:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218922,16.391997",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13941,7 +13325,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.14545454545454545
+              "percentage": "0.145"
             },
             {
               "rgb": [
@@ -13950,7 +13334,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcd2b4",
-              "percentage": 0.016883116883116882
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -13959,10 +13343,10 @@ export const galleries = [
                 90
               ],
               "hex": "#96785a",
-              "percentage": 0.013246753246753246
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 43.7949967145537
+          "colorfulness": "43.795"
         }
       },
       {
@@ -13970,8 +13354,6 @@ export const galleries = [
         "latitude": 48.211181,
         "longitude": 16.358508,
         "createDate": "2025-05-01T09:51:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211181,16.358508",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -13981,7 +13363,7 @@ export const galleries = [
                 240
               ],
               "hex": "#82c8f0",
-              "percentage": 0.051805555555555556
+              "percentage": "0.052"
             },
             {
               "rgb": [
@@ -13990,10 +13372,10 @@ export const galleries = [
                 70
               ],
               "hex": "#645046",
-              "percentage": 0.023333333333333334
+              "percentage": "0.023"
             }
           ],
-          "colorfulness": 44.53470560754972
+          "colorfulness": "44.535"
         }
       },
       {
@@ -14001,8 +13383,6 @@ export const galleries = [
         "latitude": 48.206608,
         "longitude": 16.360297,
         "createDate": "2025-05-01T08:58:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206608,16.360297",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14012,7 +13392,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.06064516129032258
+              "percentage": "0.061"
             },
             {
               "rgb": [
@@ -14021,7 +13401,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.027096774193548386
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -14030,7 +13410,7 @@ export const galleries = [
                 230
               ],
               "hex": "#32aae6",
-              "percentage": 0.016774193548387096
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -14039,7 +13419,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.016559139784946237
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -14048,10 +13428,10 @@ export const galleries = [
                 30
               ],
               "hex": "#c8461e",
-              "percentage": 0.00043010752688172043
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 50.99142032181398
+          "colorfulness": "50.991"
         }
       },
       {
@@ -14059,8 +13439,6 @@ export const galleries = [
         "latitude": 48.206844,
         "longitude": 16.360006,
         "createDate": "2025-05-01T08:58:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206844,16.360006",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14070,7 +13448,7 @@ export const galleries = [
                 210
               ],
               "hex": "#1496d2",
-              "percentage": 0.04078947368421053
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -14079,7 +13457,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.030131578947368422
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -14088,7 +13466,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.018947368421052633
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -14097,7 +13475,7 @@ export const galleries = [
                 30
               ],
               "hex": "#32281e",
-              "percentage": 0.01118421052631579
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -14106,10 +13484,10 @@ export const galleries = [
                 60
               ],
               "hex": "#6e643c",
-              "percentage": 0.0061842105263157894
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 51.37643278110756
+          "colorfulness": "51.376"
         }
       },
       {
@@ -14117,8 +13495,6 @@ export const galleries = [
         "latitude": 48.205731,
         "longitude": 16.361333,
         "createDate": "2025-05-01T08:56:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205731,16.361333",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14128,7 +13504,7 @@ export const galleries = [
                 230
               ],
               "hex": "#a0d2e6",
-              "percentage": 0.027471264367816092
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -14137,7 +13513,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.02471264367816092
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -14146,10 +13522,10 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.021839080459770115
+              "percentage": "0.022"
             }
           ],
-          "colorfulness": 40.05508761687397
+          "colorfulness": "40.055"
         }
       },
       {
@@ -14157,8 +13533,6 @@ export const galleries = [
         "latitude": 48.2075,
         "longitude": 16.359675,
         "createDate": "2025-05-01T09:00:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2075,16.359675",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14168,7 +13542,7 @@ export const galleries = [
                 180
               ],
               "hex": "#0a78b4",
-              "percentage": 0.06544303797468354
+              "percentage": "0.065"
             },
             {
               "rgb": [
@@ -14177,7 +13551,7 @@ export const galleries = [
                 90
               ],
               "hex": "#78645a",
-              "percentage": 0.03708860759493671
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -14186,7 +13560,7 @@ export const galleries = [
                 130
               ],
               "hex": "#bea082",
-              "percentage": 0.013924050632911392
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -14195,7 +13569,7 @@ export const galleries = [
                 230
               ],
               "hex": "#82bee6",
-              "percentage": 0.010886075949367089
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -14204,10 +13578,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.00569620253164557
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 49.89712132742981
+          "colorfulness": "49.897"
         }
       },
       {
@@ -14215,8 +13589,6 @@ export const galleries = [
         "latitude": 48.215286,
         "longitude": 16.399131,
         "createDate": "2025-05-01T10:33:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215286,16.399131",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14226,7 +13598,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.05123076923076923
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -14235,7 +13607,7 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.03307692307692308
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -14244,7 +13616,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.011076923076923076
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -14253,7 +13625,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.004615384615384616
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -14262,10 +13634,10 @@ export const galleries = [
                 240
               ],
               "hex": "#fafaf0",
-              "percentage": 0.0035384615384615385
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 48.99289130813552
+          "colorfulness": "48.993"
         }
       },
       {
@@ -14273,8 +13645,6 @@ export const galleries = [
         "latitude": 48.213511,
         "longitude": 16.401242,
         "createDate": "2025-05-01T10:50:10.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213511,16.401242",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14284,7 +13654,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.02431578947368421
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -14293,7 +13663,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.018947368421052633
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -14302,7 +13672,7 @@ export const galleries = [
                 130
               ],
               "hex": "#8c9682",
-              "percentage": 0.010526315789473684
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -14311,10 +13681,10 @@ export const galleries = [
                 240
               ],
               "hex": "#50bef0",
-              "percentage": 0.0027368421052631577
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 39.31628169367017
+          "colorfulness": "39.316"
         }
       },
       {
@@ -14322,8 +13692,6 @@ export const galleries = [
         "latitude": 48.215183,
         "longitude": 16.399372,
         "createDate": "2025-05-01T10:34:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215183,16.399372",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14333,7 +13701,7 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.04162162162162162
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -14342,7 +13710,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.025135135135135135
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -14351,7 +13719,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.022027027027027028
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -14360,7 +13728,7 @@ export const galleries = [
                 140
               ],
               "hex": "#968c8c",
-              "percentage": 0.003918918918918919
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -14369,10 +13737,10 @@ export const galleries = [
                 50
               ],
               "hex": "#d23c32",
-              "percentage": 0.0006756756756756757
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 54.541990854762666
+          "colorfulness": "54.542"
         }
       },
       {
@@ -14380,8 +13748,6 @@ export const galleries = [
         "latitude": 48.215039,
         "longitude": 16.399642,
         "createDate": "2025-05-01T10:34:53.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215039,16.399642",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14391,7 +13757,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.07345238095238095
+              "percentage": "0.073"
             },
             {
               "rgb": [
@@ -14400,7 +13766,7 @@ export const galleries = [
                 190
               ],
               "hex": "#e6d2be",
-              "percentage": 0.051666666666666666
+              "percentage": "0.052"
             },
             {
               "rgb": [
@@ -14409,7 +13775,7 @@ export const galleries = [
                 230
               ],
               "hex": "#78bee6",
-              "percentage": 0.012023809523809523
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -14418,7 +13784,7 @@ export const galleries = [
                 70
               ],
               "hex": "#645046",
-              "percentage": 0.006547619047619048
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -14427,10 +13793,10 @@ export const galleries = [
                 70
               ],
               "hex": "#f05046",
-              "percentage": 0.004285714285714286
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 52.662163548320905
+          "colorfulness": "52.662"
         }
       },
       {
@@ -14438,8 +13804,6 @@ export const galleries = [
         "latitude": 48.217022,
         "longitude": 16.396231,
         "createDate": "2025-05-01T15:46:22.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217022,16.396231",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14449,7 +13813,7 @@ export const galleries = [
                 230
               ],
               "hex": "#8cc8e6",
-              "percentage": 0.04265822784810126
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -14458,7 +13822,7 @@ export const galleries = [
                 110
               ],
               "hex": "#64646e",
-              "percentage": 0.01708860759493671
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -14467,10 +13831,10 @@ export const galleries = [
                 10
               ],
               "hex": "#140a0a",
-              "percentage": 0.01481012658227848
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 44.321042320400714
+          "colorfulness": "44.321"
         }
       },
       {
@@ -14478,8 +13842,6 @@ export const galleries = [
         "latitude": 48.216175,
         "longitude": 16.398031,
         "createDate": "2025-05-01T10:31:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216175,16.398031",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14489,7 +13851,7 @@ export const galleries = [
                 200
               ],
               "hex": "#2896c8",
-              "percentage": 0.056133333333333334
+              "percentage": "0.056"
             },
             {
               "rgb": [
@@ -14498,7 +13860,7 @@ export const galleries = [
                 220
               ],
               "hex": "#64b4dc",
-              "percentage": 0.0224
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -14507,7 +13869,7 @@ export const galleries = [
                 50
               ],
               "hex": "#282832",
-              "percentage": 0.019866666666666668
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -14516,7 +13878,7 @@ export const galleries = [
                 190
               ],
               "hex": "#e6d2be",
-              "percentage": 0.0032
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -14525,10 +13887,10 @@ export const galleries = [
                 130
               ],
               "hex": "#8c8282",
-              "percentage": 0.0030666666666666668
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 52.10754110830273
+          "colorfulness": "52.108"
         }
       },
       {
@@ -14536,8 +13898,6 @@ export const galleries = [
         "latitude": 48.216628,
         "longitude": 16.397244,
         "createDate": "2025-05-01T15:43:23.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.216628,16.397244",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14547,7 +13907,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.05148648648648649
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -14556,7 +13916,7 @@ export const galleries = [
                 210
               ],
               "hex": "#3ca0d2",
-              "percentage": 0.019324324324324325
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -14565,7 +13925,7 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.017162162162162164
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -14574,7 +13934,7 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.01472972972972973
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -14583,10 +13943,10 @@ export const galleries = [
                 90
               ],
               "hex": "#82645a",
-              "percentage": 0.007162162162162162
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 53.9093994475686
+          "colorfulness": "53.909"
         }
       }
     ],
@@ -14604,8 +13964,6 @@ export const galleries = [
         "latitude": 48.204956,
         "longitude": 16.360739,
         "createDate": "2025-06-07T13:10:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204956,16.360739",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14615,7 +13973,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.072375
+              "percentage": "0.072"
             },
             {
               "rgb": [
@@ -14624,7 +13982,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.040125
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -14633,7 +13991,7 @@ export const galleries = [
                 90
               ],
               "hex": "#8c6e5a",
-              "percentage": 0.01725
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -14642,10 +14000,10 @@ export const galleries = [
                 20
               ],
               "hex": "#a05014",
-              "percentage": 0.006125
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 43.39497472074098
+          "colorfulness": "43.395"
         }
       },
       {
@@ -14653,8 +14011,6 @@ export const galleries = [
         "latitude": 48.204903,
         "longitude": 16.360542,
         "createDate": "2025-06-07T12:46:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204903,16.360542",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14664,7 +14020,7 @@ export const galleries = [
                 0
               ],
               "hex": "#280a00",
-              "percentage": 0.05564705882352941
+              "percentage": "0.056"
             },
             {
               "rgb": [
@@ -14673,7 +14029,7 @@ export const galleries = [
                 200
               ],
               "hex": "#c8c8c8",
-              "percentage": 0.022
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -14682,10 +14038,10 @@ export const galleries = [
                 90
               ],
               "hex": "#d2965a",
-              "percentage": 0.013411764705882352
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 49.463695786372796
+          "colorfulness": "49.464"
         }
       },
       {
@@ -14693,8 +14049,6 @@ export const galleries = [
         "latitude": 48.206031,
         "longitude": 16.360542,
         "createDate": "2025-06-07T12:49:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206031,16.360542",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14704,7 +14058,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.014044943820224719
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -14713,7 +14067,7 @@ export const galleries = [
                 150
               ],
               "hex": "#c8b496",
-              "percentage": 0.013258426966292135
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -14722,7 +14076,7 @@ export const galleries = [
                 240
               ],
               "hex": "#6e8cf0",
-              "percentage": 0.00022471910112359551
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -14731,7 +14085,7 @@ export const galleries = [
                 180
               ],
               "hex": "#508cb4",
-              "percentage": 0.00022471910112359551
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -14740,10 +14094,10 @@ export const galleries = [
                 220
               ],
               "hex": "#14a0dc",
-              "percentage": 0.00011235955056179776
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 42.51560952130492
+          "colorfulness": "42.516"
         }
       },
       {
@@ -14751,8 +14105,6 @@ export const galleries = [
         "latitude": 48.204986,
         "longitude": 16.360767,
         "createDate": "2025-06-07T12:46:50.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204986,16.360767",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14762,7 +14114,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.12826666666666667
+              "percentage": "0.128"
             },
             {
               "rgb": [
@@ -14771,7 +14123,7 @@ export const galleries = [
                 100
               ],
               "hex": "#aa8264",
-              "percentage": 0.015066666666666667
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -14780,10 +14132,10 @@ export const galleries = [
                 230
               ],
               "hex": "#8cd2e6",
-              "percentage": 0.00013333333333333334
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 38.650342413589854
+          "colorfulness": "38.650"
         }
       },
       {
@@ -14791,8 +14143,6 @@ export const galleries = [
         "latitude": 48.205983,
         "longitude": 16.359889,
         "createDate": "2025-06-07T13:39:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205983,16.359889",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14802,7 +14152,7 @@ export const galleries = [
                 140
               ],
               "hex": "#dcbe8c",
-              "percentage": 0.013835616438356164
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -14811,7 +14161,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.010547945205479452
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -14820,10 +14170,10 @@ export const galleries = [
                 140
               ],
               "hex": "#14648c",
-              "percentage": 0.0019178082191780822
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 41.5107959967625
+          "colorfulness": "41.511"
         }
       },
       {
@@ -14831,8 +14181,6 @@ export const galleries = [
         "latitude": 48.205789,
         "longitude": 16.359275,
         "createDate": "2025-06-07T12:50:38.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205789,16.359275",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14842,7 +14190,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.02936842105263158
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -14851,7 +14199,7 @@ export const galleries = [
                 90
               ],
               "hex": "#96785a",
-              "percentage": 0.01831578947368421
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -14860,7 +14208,7 @@ export const galleries = [
                 50
               ],
               "hex": "#6e5032",
-              "percentage": 0.017473684210526315
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -14869,7 +14217,7 @@ export const galleries = [
                 150
               ],
               "hex": "#5a6e96",
-              "percentage": 0.0007368421052631579
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -14878,10 +14226,10 @@ export const galleries = [
                 210
               ],
               "hex": "#648cd2",
-              "percentage": 0.0006315789473684211
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 33.798259261732596
+          "colorfulness": "33.798"
         }
       },
       {
@@ -14889,8 +14237,6 @@ export const galleries = [
         "latitude": 48.205719,
         "longitude": 16.359147,
         "createDate": "2025-06-07T12:50:56.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205719,16.359147",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14900,7 +14246,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.022278481012658228
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -14909,7 +14255,7 @@ export const galleries = [
                 120
               ],
               "hex": "#be9678",
-              "percentage": 0.015569620253164556
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -14918,7 +14264,7 @@ export const galleries = [
                 70
               ],
               "hex": "#a06e46",
-              "percentage": 0.014050632911392405
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -14927,7 +14273,7 @@ export const galleries = [
                 230
               ],
               "hex": "#0aa0e6",
-              "percentage": 0.0012658227848101266
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -14936,10 +14282,10 @@ export const galleries = [
                 240
               ],
               "hex": "#d2f0f0",
-              "percentage": 0.0005063291139240507
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 41.656374899001854
+          "colorfulness": "41.656"
         }
       },
       {
@@ -14947,8 +14293,6 @@ export const galleries = [
         "latitude": 48.204953,
         "longitude": 16.358825,
         "createDate": "2025-06-07T12:52:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204953,16.358825",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14958,7 +14302,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.07161764705882354
+              "percentage": "0.072"
             },
             {
               "rgb": [
@@ -14967,10 +14311,10 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": 0.03161764705882353
+              "percentage": "0.032"
             }
           ],
-          "colorfulness": 44.02956131475843
+          "colorfulness": "44.030"
         }
       },
       {
@@ -14978,8 +14322,6 @@ export const galleries = [
         "latitude": 48.205406,
         "longitude": 16.359233,
         "createDate": "2025-06-07T14:02:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205406,16.359233",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -14989,7 +14331,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.022
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -14998,10 +14340,10 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.013466666666666667
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 37.45568960492512
+          "colorfulness": "37.456"
         }
       },
       {
@@ -15009,8 +14351,6 @@ export const galleries = [
         "latitude": 48.205728,
         "longitude": 16.359125,
         "createDate": "2025-06-07T12:51:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205728,16.359125",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15020,7 +14360,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.040625
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -15029,7 +14369,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.01875
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -15038,10 +14378,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.001125
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 37.22472329116411
+          "colorfulness": "37.225"
         }
       },
       {
@@ -15049,8 +14389,6 @@ export const galleries = [
         "latitude": 48.204942,
         "longitude": 16.360272,
         "createDate": "2025-06-07T12:57:20.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204942,16.360272",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15060,7 +14398,7 @@ export const galleries = [
                 40
               ],
               "hex": "#5a3c28",
-              "percentage": 0.01216867469879518
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -15069,7 +14407,7 @@ export const galleries = [
                 80
               ],
               "hex": "#a07850",
-              "percentage": 0.01036144578313253
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -15078,10 +14416,10 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.00963855421686747
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 34.10231488933766
+          "colorfulness": "34.102"
         }
       },
       {
@@ -15089,8 +14427,6 @@ export const galleries = [
         "latitude": 48.2049,
         "longitude": 16.360639,
         "createDate": "2025-06-07T12:46:22.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2049,16.360639",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15100,7 +14436,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.05875
+              "percentage": "0.059"
             },
             {
               "rgb": [
@@ -15109,7 +14445,7 @@ export const galleries = [
                 110
               ],
               "hex": "#aa8c6e",
-              "percentage": 0.018125
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -15118,7 +14454,7 @@ export const galleries = [
                 50
               ],
               "hex": "#6e5032",
-              "percentage": 0.013625
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -15127,7 +14463,7 @@ export const galleries = [
                 60
               ],
               "hex": "#f03c3c",
-              "percentage": 0.000125
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -15136,10 +14472,10 @@ export const galleries = [
                 20
               ],
               "hex": "#c81414",
-              "percentage": 0.000125
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 37.60963717644017
+          "colorfulness": "37.610"
         }
       },
       {
@@ -15147,8 +14483,6 @@ export const galleries = [
         "latitude": 48.204964,
         "longitude": 16.360769,
         "createDate": "2025-06-07T12:46:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204964,16.360769",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15158,7 +14492,7 @@ export const galleries = [
                 10
               ],
               "hex": "#32140a",
-              "percentage": 0.04390625
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -15167,7 +14501,7 @@ export const galleries = [
                 140
               ],
               "hex": "#c8b48c",
-              "percentage": 0.008125
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -15176,10 +14510,10 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.0025
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 37.4684583417138
+          "colorfulness": "37.468"
         }
       },
       {
@@ -15187,8 +14521,6 @@ export const galleries = [
         "latitude": 48.205944,
         "longitude": 16.360539,
         "createDate": "2025-06-07T13:18:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205944,16.360539",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15198,7 +14530,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.04542168674698795
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -15207,7 +14539,7 @@ export const galleries = [
                 110
               ],
               "hex": "#a0826e",
-              "percentage": 0.021686746987951807
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -15216,10 +14548,10 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": 0.004939759036144578
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 37.413281356752925
+          "colorfulness": "37.413"
         }
       },
       {
@@ -15227,8 +14559,6 @@ export const galleries = [
         "latitude": 48.204869,
         "longitude": 16.360233,
         "createDate": "2025-06-07T12:45:16.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204869,16.360233",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15238,7 +14568,7 @@ export const galleries = [
                 110
               ],
               "hex": "#a0826e",
-              "percentage": 0.024204545454545454
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -15247,7 +14577,7 @@ export const galleries = [
                 50
               ],
               "hex": "#503c32",
-              "percentage": 0.01840909090909091
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -15256,10 +14586,10 @@ export const galleries = [
                 200
               ],
               "hex": "#f0dcc8",
-              "percentage": 0.012045454545454545
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 32.20046715639496
+          "colorfulness": "32.200"
         }
       },
       {
@@ -15267,8 +14597,6 @@ export const galleries = [
         "latitude": 48.206006,
         "longitude": 16.360533,
         "createDate": "2025-06-07T13:29:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206006,16.360533",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15278,7 +14606,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.07041095890410959
+              "percentage": "0.070"
             },
             {
               "rgb": [
@@ -15287,7 +14615,7 @@ export const galleries = [
                 90
               ],
               "hex": "#8c6e5a",
-              "percentage": 0.013013698630136987
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -15296,10 +14624,10 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.010273972602739725
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 35.582954900014315
+          "colorfulness": "35.583"
         }
       }
     ],
@@ -15317,8 +14645,6 @@ export const galleries = [
         "latitude": 48.208156,
         "longitude": 16.371689,
         "createDate": "2025-08-01T13:31:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.208156,16.371689",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15328,7 +14654,7 @@ export const galleries = [
                 30
               ],
               "hex": "#32281e",
-              "percentage": 0.07011111111111111
+              "percentage": "0.070"
             },
             {
               "rgb": [
@@ -15337,7 +14663,7 @@ export const galleries = [
                 140
               ],
               "hex": "#d2b48c",
-              "percentage": 0.037
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -15346,7 +14672,7 @@ export const galleries = [
                 110
               ],
               "hex": "#8c786e",
-              "percentage": 0.029111111111111112
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -15355,10 +14681,10 @@ export const galleries = [
                 140
               ],
               "hex": "#00508c",
-              "percentage": 0.011333333333333334
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 45.23966590727239
+          "colorfulness": "45.240"
         }
       },
       {
@@ -15366,8 +14692,6 @@ export const galleries = [
         "latitude": 48.196022,
         "longitude": 16.340636,
         "createDate": "2025-07-30T18:30:02.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.196022,16.340636",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15377,7 +14701,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.13333333333333333
+              "percentage": "0.133"
             },
             {
               "rgb": [
@@ -15386,10 +14710,10 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.0092
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 30.171928219664252
+          "colorfulness": "30.172"
         }
       },
       {
@@ -15397,8 +14721,6 @@ export const galleries = [
         "latitude": 48.185244,
         "longitude": 16.379136,
         "createDate": "2025-05-04T14:14:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185244,16.379136",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15408,7 +14730,7 @@ export const galleries = [
                 10
               ],
               "hex": "#140a0a",
-              "percentage": 0.05761194029850746
+              "percentage": "0.058"
             },
             {
               "rgb": [
@@ -15417,7 +14739,7 @@ export const galleries = [
                 130
               ],
               "hex": "#bea082",
-              "percentage": 0.04223880597014926
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -15426,10 +14748,10 @@ export const galleries = [
                 220
               ],
               "hex": "#c8dcdc",
-              "percentage": 0.009850746268656717
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 44.29800009512459
+          "colorfulness": "44.298"
         }
       },
       {
@@ -15437,8 +14759,6 @@ export const galleries = [
         "latitude": 48.184097,
         "longitude": 16.376269,
         "createDate": "2025-08-02T10:23:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.184097,16.376269",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15448,7 +14768,7 @@ export const galleries = [
                 200
               ],
               "hex": "#148cc8",
-              "percentage": 0.07333333333333333
+              "percentage": "0.073"
             },
             {
               "rgb": [
@@ -15457,7 +14777,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.034492753623188405
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -15466,7 +14786,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.02318840579710145
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -15475,7 +14795,7 @@ export const galleries = [
                 160
               ],
               "hex": "#a0a0a0",
-              "percentage": 0.011884057971014493
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -15484,10 +14804,10 @@ export const galleries = [
                 90
               ],
               "hex": "#f0645a",
-              "percentage": 0.00014492753623188405
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 58.03869059546927
+          "colorfulness": "58.039"
         }
       },
       {
@@ -15495,8 +14815,6 @@ export const galleries = [
         "latitude": 48.214,
         "longitude": 16.362003,
         "createDate": "2025-08-01T13:12:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.214,16.362003",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15506,7 +14824,7 @@ export const galleries = [
                 140
               ],
               "hex": "#c8aa8c",
-              "percentage": 0.05023529411764706
+              "percentage": "0.050"
             },
             {
               "rgb": [
@@ -15515,7 +14833,7 @@ export const galleries = [
                 70
               ],
               "hex": "#825a46",
-              "percentage": 0.02235294117647059
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -15524,10 +14842,10 @@ export const galleries = [
                 30
               ],
               "hex": "#50321e",
-              "percentage": 0.02188235294117647
+              "percentage": "0.022"
             }
           ],
-          "colorfulness": 25.721978657127682
+          "colorfulness": "25.722"
         }
       },
       {
@@ -15535,8 +14853,6 @@ export const galleries = [
         "latitude": 48.2011,
         "longitude": 16.374708,
         "createDate": "2025-04-23T05:20:37.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2011,16.374708",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15546,7 +14862,7 @@ export const galleries = [
                 50
               ],
               "hex": "#644632",
-              "percentage": 0.04658227848101266
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -15555,7 +14871,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.03582278481012658
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -15564,10 +14880,10 @@ export const galleries = [
                 200
               ],
               "hex": "#d2d2c8",
-              "percentage": 0.03430379746835443
+              "percentage": "0.034"
             }
           ],
-          "colorfulness": 37.33057969488292
+          "colorfulness": "37.331"
         }
       },
       {
@@ -15575,8 +14891,6 @@ export const galleries = [
         "latitude": 48.209511,
         "longitude": 16.360369,
         "createDate": "2025-05-20T15:00:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209511,16.360369",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15586,7 +14900,7 @@ export const galleries = [
                 100
               ],
               "hex": "#f0b464",
-              "percentage": 0.03684210526315789
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -15595,7 +14909,7 @@ export const galleries = [
                 30
               ],
               "hex": "#3c281e",
-              "percentage": 0.0175
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -15604,7 +14918,7 @@ export const galleries = [
                 100
               ],
               "hex": "#967864",
-              "percentage": 0.013157894736842105
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -15613,10 +14927,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.010526315789473684
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 44.24543339865347
+          "colorfulness": "44.245"
         }
       },
       {
@@ -15624,8 +14938,6 @@ export const galleries = [
         "latitude": 48.193394,
         "longitude": 16.326389,
         "createDate": "2024-04-11T18:01:38.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.193394,16.326389",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15635,7 +14947,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.06597402597402598
+              "percentage": "0.066"
             },
             {
               "rgb": [
@@ -15644,7 +14956,7 @@ export const galleries = [
                 70
               ],
               "hex": "#6e5046",
-              "percentage": 0.012467532467532468
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -15653,7 +14965,7 @@ export const galleries = [
                 130
               ],
               "hex": "#dcc882",
-              "percentage": 0.006623376623376623
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -15662,7 +14974,7 @@ export const galleries = [
                 230
               ],
               "hex": "#d2e6e6",
-              "percentage": 0.005064935064935065
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -15671,10 +14983,10 @@ export const galleries = [
                 240
               ],
               "hex": "#5abef0",
-              "percentage": 0.004545454545454545
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 48.570307134846736
+          "colorfulness": "48.570"
         }
       },
       {
@@ -15682,8 +14994,6 @@ export const galleries = [
         "latitude": 48.166503,
         "longitude": 16.424153,
         "createDate": "2025-06-01T06:43:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.166503,16.424153",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15693,7 +15003,7 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.02060240963855422
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -15702,7 +15012,7 @@ export const galleries = [
                 140
               ],
               "hex": "#d2b48c",
-              "percentage": 0.01891566265060241
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -15711,7 +15021,7 @@ export const galleries = [
                 170
               ],
               "hex": "#5082aa",
-              "percentage": 0.018313253012048194
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -15720,7 +15030,7 @@ export const galleries = [
                 200
               ],
               "hex": "#96b4c8",
-              "percentage": 0.01819277108433735
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -15729,10 +15039,10 @@ export const galleries = [
                 30
               ],
               "hex": "#6e321e",
-              "percentage": 0.015542168674698795
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 36.98747548255396
+          "colorfulness": "36.987"
         }
       },
       {
@@ -15740,8 +15050,6 @@ export const galleries = [
         "latitude": 48.214,
         "longitude": 16.361961,
         "createDate": "2025-04-21T13:06:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.214,16.361961",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15751,7 +15059,7 @@ export const galleries = [
                 30
               ],
               "hex": "#50321e",
-              "percentage": 0.06409090909090909
+              "percentage": "0.064"
             },
             {
               "rgb": [
@@ -15760,7 +15068,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.061515151515151516
+              "percentage": "0.062"
             },
             {
               "rgb": [
@@ -15769,7 +15077,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.025
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -15778,7 +15086,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.01681818181818182
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -15787,10 +15095,10 @@ export const galleries = [
                 120
               ],
               "hex": "#f0e678",
-              "percentage": 0.0034848484848484847
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 46.74077266853825
+          "colorfulness": "46.741"
         }
       },
       {
@@ -15798,8 +15106,6 @@ export const galleries = [
         "latitude": 48.170239,
         "longitude": 16.420364,
         "createDate": "2025-05-25T09:40:44.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170239,16.420364",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15809,7 +15115,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.03230769230769231
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -15818,7 +15124,7 @@ export const galleries = [
                 30
               ],
               "hex": "#3c281e",
-              "percentage": 0.03065934065934066
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -15827,10 +15133,10 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.007252747252747253
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 37.54282740160317
+          "colorfulness": "37.543"
         }
       },
       {
@@ -15838,8 +15144,6 @@ export const galleries = [
         "latitude": 48.170064,
         "longitude": 16.419367,
         "createDate": "2025-05-04T13:36:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170064,16.419367",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15849,7 +15153,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.04795918367346939
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -15858,7 +15162,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.040612244897959185
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -15867,10 +15171,10 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.024591836734693878
+              "percentage": "0.025"
             }
           ],
-          "colorfulness": 42.869159242599125
+          "colorfulness": "42.869"
         }
       },
       {
@@ -15878,8 +15182,6 @@ export const galleries = [
         "latitude": 48.169972,
         "longitude": 16.419542,
         "createDate": "2025-05-16T09:53:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169972,16.419542",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15889,7 +15191,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.04845360824742268
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -15898,7 +15200,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.023711340206185566
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -15907,7 +15209,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.01824742268041237
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -15916,7 +15218,7 @@ export const galleries = [
                 110
               ],
               "hex": "#96826e",
-              "percentage": 0.01020618556701031
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -15925,10 +15227,10 @@ export const galleries = [
                 240
               ],
               "hex": "#96d2f0",
-              "percentage": 0.0015463917525773195
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 38.952349546966474
+          "colorfulness": "38.952"
         }
       },
       {
@@ -15936,8 +15238,6 @@ export const galleries = [
         "latitude": 48.184964,
         "longitude": 16.376628,
         "createDate": "2025-05-18T16:35:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.184964,16.376628",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -15947,7 +15247,7 @@ export const galleries = [
                 70
               ],
               "hex": "#645046",
-              "percentage": 0.02988235294117647
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -15956,7 +15256,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.02047058823529412
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -15965,7 +15265,7 @@ export const galleries = [
                 150
               ],
               "hex": "#aaa096",
-              "percentage": 0.01411764705882353
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -15974,7 +15274,7 @@ export const galleries = [
                 200
               ],
               "hex": "#4678c8",
-              "percentage": 0.00035294117647058826
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -15983,10 +15283,10 @@ export const galleries = [
                 70
               ],
               "hex": "#d25046",
-              "percentage": 0.00023529411764705883
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 36.425014584313715
+          "colorfulness": "36.425"
         }
       },
       {
@@ -15994,8 +15294,6 @@ export const galleries = [
         "latitude": 48.194561,
         "longitude": 16.330406,
         "createDate": "2024-05-01T09:13:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194561,16.330406",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16005,7 +15303,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.0325
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -16014,7 +15312,7 @@ export const galleries = [
                 180
               ],
               "hex": "#2882b4",
-              "percentage": 0.0244
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -16023,7 +15321,7 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.0175
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -16032,10 +15330,10 @@ export const galleries = [
                 20
               ],
               "hex": "#281414",
-              "percentage": 0.0072
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 42.2680857775239
+          "colorfulness": "42.268"
         }
       },
       {
@@ -16043,8 +15341,6 @@ export const galleries = [
         "latitude": 48.211761,
         "longitude": 16.440106,
         "createDate": "2024-07-21T16:32:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211761,16.440106",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16054,7 +15350,7 @@ export const galleries = [
                 0
               ],
               "hex": "#0a0000",
-              "percentage": 0.16235955056179777
+              "percentage": "0.162"
             },
             {
               "rgb": [
@@ -16063,7 +15359,7 @@ export const galleries = [
                 190
               ],
               "hex": "#00a0be",
-              "percentage": 0.054831460674157305
+              "percentage": "0.055"
             },
             {
               "rgb": [
@@ -16072,10 +15368,10 @@ export const galleries = [
                 170
               ],
               "hex": "#78a0aa",
-              "percentage": 0.018202247191011236
+              "percentage": "0.018"
             }
           ],
-          "colorfulness": 55.426190350144985
+          "colorfulness": "55.426"
         }
       },
       {
@@ -16083,8 +15379,6 @@ export const galleries = [
         "latitude": 48.185756,
         "longitude": 16.375083,
         "createDate": "2025-08-02T10:21:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185756,16.375083",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16094,7 +15388,7 @@ export const galleries = [
                 90
               ],
               "hex": "#8c6e5a",
-              "percentage": 0.08058823529411764
+              "percentage": "0.081"
             },
             {
               "rgb": [
@@ -16103,7 +15397,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.012058823529411764
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -16112,7 +15406,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281414",
-              "percentage": 0.0072058823529411765
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -16121,10 +15415,10 @@ export const galleries = [
                 190
               ],
               "hex": "#0a50be",
-              "percentage": 0.0002941176470588235
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 24.038324101349858
+          "colorfulness": "24.038"
         }
       },
       {
@@ -16132,8 +15426,6 @@ export const galleries = [
         "latitude": 48.230983,
         "longitude": 16.329208,
         "createDate": "2025-04-21T16:04:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.230983,16.329208",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16143,7 +15435,7 @@ export const galleries = [
                 130
               ],
               "hex": "#aa9682",
-              "percentage": 0.02295774647887324
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -16152,7 +15444,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.02140845070422535
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -16161,7 +15453,7 @@ export const galleries = [
                 70
               ],
               "hex": "#5a4646",
-              "percentage": 0.012957746478873239
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -16170,10 +15462,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.010422535211267606
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 32.87855832005671
+          "colorfulness": "32.879"
         }
       },
       {
@@ -16181,8 +15473,6 @@ export const galleries = [
         "latitude": 48.231044,
         "longitude": 16.329044,
         "createDate": "2025-04-21T16:02:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231044,16.329044",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16192,7 +15482,7 @@ export const galleries = [
                 130
               ],
               "hex": "#b49682",
-              "percentage": 0.042222222222222223
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -16201,7 +15491,7 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.035
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -16210,7 +15500,7 @@ export const galleries = [
                 180
               ],
               "hex": "#d2c8b4",
-              "percentage": 0.02388888888888889
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -16219,7 +15509,7 @@ export const galleries = [
                 140
               ],
               "hex": "#00288c",
-              "percentage": 0.007222222222222222
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -16228,10 +15518,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e1400",
-              "percentage": 0.005555555555555556
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 36.97284652288487
+          "colorfulness": "36.973"
         }
       },
       {
@@ -16239,8 +15529,6 @@ export const galleries = [
         "latitude": 48.202764,
         "longitude": 16.391256,
         "createDate": "2025-08-01T06:22:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202764,16.391256",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16250,7 +15538,7 @@ export const galleries = [
                 150
               ],
               "hex": "#788296",
-              "percentage": 0.036470588235294116
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -16259,10 +15547,10 @@ export const galleries = [
                 30
               ],
               "hex": "#141e1e",
-              "percentage": 0.015441176470588236
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 32.26797449503706
+          "colorfulness": "32.268"
         }
       },
       {
@@ -16270,8 +15558,6 @@ export const galleries = [
         "latitude": 48.180231,
         "longitude": 16.386892,
         "createDate": "2025-04-20T09:28:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.180231,16.386892",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16281,7 +15567,7 @@ export const galleries = [
                 230
               ],
               "hex": "#dce6e6",
-              "percentage": 0.0355
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -16290,7 +15576,7 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.024875
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -16299,10 +15585,10 @@ export const galleries = [
                 120
               ],
               "hex": "#a08c78",
-              "percentage": 0.023375
+              "percentage": "0.023"
             }
           ],
-          "colorfulness": 40.741082963382915
+          "colorfulness": "40.741"
         }
       },
       {
@@ -16310,8 +15596,6 @@ export const galleries = [
         "latitude": 48.241853,
         "longitude": 16.385094,
         "createDate": "2025-05-10T15:32:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241853,16.385094",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16321,7 +15605,7 @@ export const galleries = [
                 130
               ],
               "hex": "#787882",
-              "percentage": 0.02564705882352941
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -16330,7 +15614,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.021411764705882352
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -16339,7 +15623,7 @@ export const galleries = [
                 230
               ],
               "hex": "#5ab4e6",
-              "percentage": 0.011176470588235295
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -16348,10 +15632,10 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.011058823529411765
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 40.12796787570612
+          "colorfulness": "40.128"
         }
       },
       {
@@ -16359,8 +15643,6 @@ export const galleries = [
         "latitude": 48.241447,
         "longitude": 16.384992,
         "createDate": "2025-04-21T16:30:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.241447,16.384992",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16370,7 +15652,7 @@ export const galleries = [
                 110
               ],
               "hex": "#a0826e",
-              "percentage": 0.02101123595505618
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -16379,7 +15661,7 @@ export const galleries = [
                 70
               ],
               "hex": "#785a46",
-              "percentage": 0.02044943820224719
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -16388,7 +15670,7 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.018764044943820224
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -16397,7 +15679,7 @@ export const galleries = [
                 140
               ],
               "hex": "#3c5a8c",
-              "percentage": 0.00022471910112359551
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -16406,10 +15688,10 @@ export const galleries = [
                 240
               ],
               "hex": "#5aa0f0",
-              "percentage": 0.00011235955056179776
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 35.38387553489118
+          "colorfulness": "35.384"
         }
       },
       {
@@ -16417,8 +15699,6 @@ export const galleries = [
         "latitude": 48.242431,
         "longitude": 16.385114,
         "createDate": "2025-05-10T12:00:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.242431,16.385114",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16428,7 +15708,7 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.042222222222222223
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -16437,7 +15717,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.01271604938271605
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -16446,7 +15726,7 @@ export const galleries = [
                 130
               ],
               "hex": "#968c82",
-              "percentage": 0.01037037037037037
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -16455,7 +15735,7 @@ export const galleries = [
                 90
               ],
               "hex": "#6e645a",
-              "percentage": 0.01037037037037037
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -16464,10 +15744,10 @@ export const galleries = [
                 40
               ],
               "hex": "#968228",
-              "percentage": 0.006172839506172839
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 45.955008593752865
+          "colorfulness": "45.955"
         }
       },
       {
@@ -16475,8 +15755,6 @@ export const galleries = [
         "latitude": 48.185639,
         "longitude": 16.377672,
         "createDate": "2025-05-11T13:49:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185639,16.377672",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16486,7 +15764,7 @@ export const galleries = [
                 60
               ],
               "hex": "#463c3c",
-              "percentage": 0.05882978723404255
+              "percentage": "0.059"
             },
             {
               "rgb": [
@@ -16495,7 +15773,7 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.010106382978723405
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -16504,10 +15782,10 @@ export const galleries = [
                 130
               ],
               "hex": "#1e4682",
-              "percentage": 0.0014893617021276596
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 36.07475855755864
+          "colorfulness": "36.075"
         }
       },
       {
@@ -16515,8 +15793,6 @@ export const galleries = [
         "latitude": 48.169933,
         "longitude": 16.420058,
         "createDate": "2025-05-02T15:41:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169933,16.420058",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16526,7 +15802,7 @@ export const galleries = [
                 120
               ],
               "hex": "#646e78",
-              "percentage": 0.044456521739130436
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -16535,7 +15811,7 @@ export const galleries = [
                 180
               ],
               "hex": "#b4b4b4",
-              "percentage": 0.020978260869565217
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -16544,10 +15820,10 @@ export const galleries = [
                 230
               ],
               "hex": "#e6f0e6",
-              "percentage": 0.008913043478260869
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 25.603320487963042
+          "colorfulness": "25.603"
         }
       },
       {
@@ -16555,8 +15831,6 @@ export const galleries = [
         "latitude": 48.185822,
         "longitude": 16.375806,
         "createDate": "2025-08-02T10:15:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185822,16.375806",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16566,7 +15840,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.0316
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -16575,7 +15849,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.03
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -16584,7 +15858,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.018
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -16593,7 +15867,7 @@ export const galleries = [
                 230
               ],
               "hex": "#aad2e6",
-              "percentage": 0.016533333333333334
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -16602,10 +15876,10 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.009333333333333334
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 38.606571661346955
+          "colorfulness": "38.607"
         }
       },
       {
@@ -16613,8 +15887,6 @@ export const galleries = [
         "latitude": 48.218517,
         "longitude": 16.392872,
         "createDate": "2025-07-15T16:29:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218517,16.392872",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16624,7 +15896,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.034516129032258064
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -16633,10 +15905,10 @@ export const galleries = [
                 200
               ],
               "hex": "#dcd2c8",
-              "percentage": 0.013440860215053764
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 27.163562181979415
+          "colorfulness": "27.164"
         }
       },
       {
@@ -16644,8 +15916,6 @@ export const galleries = [
         "latitude": 48.217828,
         "longitude": 16.392806,
         "createDate": "2025-04-21T16:44:26.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.217828,16.392806",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16655,7 +15925,7 @@ export const galleries = [
                 40
               ],
               "hex": "#5a3c28",
-              "percentage": 0.03144444444444444
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -16664,10 +15934,10 @@ export const galleries = [
                 230
               ],
               "hex": "#e6f0e6",
-              "percentage": 0.006555555555555556
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 36.81911110458626
+          "colorfulness": "36.819"
         }
       },
       {
@@ -16675,8 +15945,6 @@ export const galleries = [
         "latitude": 48.183956,
         "longitude": 16.376364,
         "createDate": "2025-05-18T16:40:29.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.183956,16.376364",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16686,7 +15954,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.09397727272727273
+              "percentage": "0.094"
             },
             {
               "rgb": [
@@ -16695,7 +15963,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.03147727272727273
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -16704,7 +15972,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.01125
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -16713,10 +15981,10 @@ export const galleries = [
                 240
               ],
               "hex": "#78dcf0",
-              "percentage": 0.00034090909090909094
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 36.037696879789415
+          "colorfulness": "36.038"
         }
       },
       {
@@ -16724,8 +15992,6 @@ export const galleries = [
         "latitude": 48.170064,
         "longitude": 16.419656,
         "createDate": "2025-05-04T13:36:26.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170064,16.419656",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16735,7 +16001,7 @@ export const galleries = [
                 40
               ],
               "hex": "#5a3c28",
-              "percentage": 0.03892857142857143
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -16744,7 +16010,7 @@ export const galleries = [
                 90
               ],
               "hex": "#8c6e5a",
-              "percentage": 0.029523809523809525
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -16753,7 +16019,7 @@ export const galleries = [
                 200
               ],
               "hex": "#d2d2c8",
-              "percentage": 0.019285714285714285
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -16762,10 +16028,10 @@ export const galleries = [
                 120
               ],
               "hex": "#143c78",
-              "percentage": 0.00035714285714285714
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 33.397580005000144
+          "colorfulness": "33.398"
         }
       },
       {
@@ -16773,8 +16039,6 @@ export const galleries = [
         "latitude": 48.218486,
         "longitude": 16.391533,
         "createDate": "2025-07-15T16:07:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.218486,16.391533",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16784,7 +16048,7 @@ export const galleries = [
                 50
               ],
               "hex": "#644632",
-              "percentage": 0.04375
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -16793,7 +16057,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.02277777777777778
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -16802,10 +16066,10 @@ export const galleries = [
                 190
               ],
               "hex": "#f0dcbe",
-              "percentage": 0.011111111111111112
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 35.60300414520253
+          "colorfulness": "35.603"
         }
       },
       {
@@ -16813,8 +16077,6 @@ export const galleries = [
         "latitude": 48.170056,
         "longitude": 16.420075,
         "createDate": "2025-05-02T14:35:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170056,16.420075",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16824,7 +16086,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.052083333333333336
+              "percentage": "0.052"
             },
             {
               "rgb": [
@@ -16833,7 +16095,7 @@ export const galleries = [
                 210
               ],
               "hex": "#32a0d2",
-              "percentage": 0.019583333333333335
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -16842,10 +16104,10 @@ export const galleries = [
                 150
               ],
               "hex": "#c8b496",
-              "percentage": 0.017222222222222222
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": 47.62632821433058
+          "colorfulness": "47.626"
         }
       },
       {
@@ -16853,8 +16115,6 @@ export const galleries = [
         "latitude": 48.176975,
         "longitude": 16.415219,
         "createDate": "2025-08-03T11:57:58.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176975,16.415219",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16864,7 +16124,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.08343434343434343
+              "percentage": "0.083"
             },
             {
               "rgb": [
@@ -16873,7 +16133,7 @@ export const galleries = [
                 30
               ],
               "hex": "#3c281e",
-              "percentage": 0.06070707070707071
+              "percentage": "0.061"
             },
             {
               "rgb": [
@@ -16882,7 +16142,7 @@ export const galleries = [
                 100
               ],
               "hex": "#8c6e64",
-              "percentage": 0.018484848484848486
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -16891,7 +16151,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.014646464646464647
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -16900,10 +16160,10 @@ export const galleries = [
                 40
               ],
               "hex": "#aa3228",
-              "percentage": 0.0011111111111111111
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 38.50067750541157
+          "colorfulness": "38.501"
         }
       },
       {
@@ -16911,8 +16171,6 @@ export const galleries = [
         "latitude": 48.170203,
         "longitude": 16.42005,
         "createDate": "2025-06-01T12:17:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170203,16.42005",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16922,7 +16180,7 @@ export const galleries = [
                 100
               ],
               "hex": "#8c6e64",
-              "percentage": 0.03597014925373134
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -16931,7 +16189,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.007761194029850746
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -16940,10 +16198,10 @@ export const galleries = [
                 0
               ],
               "hex": "#500a00",
-              "percentage": 0.007313432835820896
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 32.197294589535765
+          "colorfulness": "32.197"
         }
       },
       {
@@ -16951,8 +16209,6 @@ export const galleries = [
         "latitude": 48.198619,
         "longitude": 16.376922,
         "createDate": "2025-05-14T17:48:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198619,16.376922",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -16962,7 +16218,7 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.04146067415730337
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -16971,7 +16227,7 @@ export const galleries = [
                 200
               ],
               "hex": "#aabec8",
-              "percentage": 0.024269662921348314
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -16980,7 +16236,7 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.022359550561797753
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -16989,10 +16245,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.016516853932584268
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": 39.88951358207342
+          "colorfulness": "39.890"
         }
       },
       {
@@ -17000,8 +16256,6 @@ export const galleries = [
         "latitude": 48.169681,
         "longitude": 16.416525,
         "createDate": "2025-05-04T13:35:58.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169681,16.416525",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17011,7 +16265,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.044814814814814814
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -17020,7 +16274,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcc8be",
-              "percentage": 0.03654320987654321
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -17029,10 +16283,10 @@ export const galleries = [
                 190
               ],
               "hex": "#5082be",
-              "percentage": 0.0001234567901234568
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 33.91786878248393
+          "colorfulness": "33.918"
         }
       },
       {
@@ -17040,8 +16294,6 @@ export const galleries = [
         "latitude": 48.219372,
         "longitude": 16.449286,
         "createDate": "2024-07-21T16:35:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.219372,16.449286",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17051,7 +16303,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6f0e6",
-              "percentage": 0.04205882352941177
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -17060,10 +16312,10 @@ export const galleries = [
                 40
               ],
               "hex": "#3c3228",
-              "percentage": 0.01926470588235294
+              "percentage": "0.019"
             }
           ],
-          "colorfulness": 42.74041008513924
+          "colorfulness": "42.740"
         }
       },
       {
@@ -17071,8 +16323,6 @@ export const galleries = [
         "latitude": 48.203061,
         "longitude": 16.390975,
         "createDate": "2025-05-20T06:31:02.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203061,16.390975",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17082,7 +16332,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.06517241379310344
+              "percentage": "0.065"
             },
             {
               "rgb": [
@@ -17091,7 +16341,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.04367816091954023
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -17100,10 +16350,10 @@ export const galleries = [
                 50
               ],
               "hex": "#3c3232",
-              "percentage": 0.021954022988505746
+              "percentage": "0.022"
             }
           ],
-          "colorfulness": 37.99053726066199
+          "colorfulness": "37.991"
         }
       },
       {
@@ -17111,8 +16361,6 @@ export const galleries = [
         "latitude": 48.170242,
         "longitude": 16.420217,
         "createDate": "2025-05-25T09:41:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170242,16.420217",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17122,7 +16370,7 @@ export const galleries = [
                 100
               ],
               "hex": "#826e64",
-              "percentage": 0.023466666666666667
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -17131,7 +16379,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.022266666666666667
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -17140,10 +16388,10 @@ export const galleries = [
                 240
               ],
               "hex": "#82c8f0",
-              "percentage": 0.005733333333333333
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 35.94163747220254
+          "colorfulness": "35.942"
         }
       },
       {
@@ -17151,8 +16399,6 @@ export const galleries = [
         "latitude": 48.185858,
         "longitude": 16.375167,
         "createDate": "2025-05-16T10:11:30.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185858,16.375167",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17162,7 +16408,7 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.0452112676056338
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -17171,7 +16417,7 @@ export const galleries = [
                 50
               ],
               "hex": "#503c32",
-              "percentage": 0.02732394366197183
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -17180,7 +16426,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.023661971830985916
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -17189,7 +16435,7 @@ export const galleries = [
                 110
               ],
               "hex": "#826e6e",
-              "percentage": 0.01915492957746479
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -17198,10 +16444,10 @@ export const galleries = [
                 180
               ],
               "hex": "#5a8cb4",
-              "percentage": 0.0009859154929577464
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 34.586229796180255
+          "colorfulness": "34.586"
         }
       },
       {
@@ -17209,8 +16455,6 @@ export const galleries = [
         "latitude": 48.1702,
         "longitude": 16.420436,
         "createDate": "2025-05-24T16:34:29.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1702,16.420436",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17220,7 +16464,7 @@ export const galleries = [
                 130
               ],
               "hex": "#827882",
-              "percentage": 0.0424
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -17229,7 +16473,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.025733333333333334
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -17238,7 +16482,7 @@ export const galleries = [
                 180
               ],
               "hex": "#bebeb4",
-              "percentage": 0.014266666666666667
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -17247,10 +16491,10 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.006933333333333333
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 32.81524316191916
+          "colorfulness": "32.815"
         }
       },
       {
@@ -17258,8 +16502,6 @@ export const galleries = [
         "latitude": 48.189086,
         "longitude": 16.417819,
         "createDate": "2025-08-03T11:28:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.189086,16.417819",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17269,7 +16511,7 @@ export const galleries = [
                 230
               ],
               "hex": "#c8dce6",
-              "percentage": 0.01805194805194805
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -17278,7 +16520,7 @@ export const galleries = [
                 240
               ],
               "hex": "#6ebef0",
-              "percentage": 0.014545454545454545
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -17287,7 +16529,7 @@ export const galleries = [
                 80
               ],
               "hex": "#785a50",
-              "percentage": 0.013766233766233767
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -17296,7 +16538,7 @@ export const galleries = [
                 230
               ],
               "hex": "#28aae6",
-              "percentage": 0.010519480519480519
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -17305,10 +16547,10 @@ export const galleries = [
                 10
               ],
               "hex": "#463c0a",
-              "percentage": 0.00909090909090909
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 48.239683137787814
+          "colorfulness": "48.240"
         }
       },
       {
@@ -17316,8 +16558,6 @@ export const galleries = [
         "latitude": 48.246381,
         "longitude": 16.394939,
         "createDate": "2024-04-24T18:18:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.246381,16.394939",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17327,7 +16567,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.035824175824175825
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -17336,7 +16576,7 @@ export const galleries = [
                 30
               ],
               "hex": "#5a3c1e",
-              "percentage": 0.03428571428571429
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -17345,7 +16585,7 @@ export const galleries = [
                 160
               ],
               "hex": "#d2bea0",
-              "percentage": 0.015494505494505494
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -17354,10 +16594,10 @@ export const galleries = [
                 180
               ],
               "hex": "#2882b4",
-              "percentage": 0.0059340659340659345
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 44.59635747783373
+          "colorfulness": "44.596"
         }
       },
       {
@@ -17365,8 +16605,6 @@ export const galleries = [
         "latitude": 48.213592,
         "longitude": 16.37625,
         "createDate": "2025-07-15T19:26:22.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213592,16.37625",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17376,7 +16614,7 @@ export const galleries = [
                 80
               ],
               "hex": "#826450",
-              "percentage": 0.027333333333333334
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -17385,7 +16623,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.012555555555555556
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -17394,7 +16632,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.006888888888888889
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -17403,7 +16641,7 @@ export const galleries = [
                 70
               ],
               "hex": "#fa6446",
-              "percentage": 0.0012222222222222222
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -17412,10 +16650,10 @@ export const galleries = [
                 250
               ],
               "hex": "#0a8cfa",
-              "percentage": 0.0005555555555555556
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 32.435796117394226
+          "colorfulness": "32.436"
         }
       },
       {
@@ -17423,8 +16661,6 @@ export const galleries = [
         "latitude": 48.22185,
         "longitude": 16.367456,
         "createDate": "2025-07-15T19:04:10.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.22185,16.367456",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17434,7 +16670,7 @@ export const galleries = [
                 10
               ],
               "hex": "#140a0a",
-              "percentage": 0.026533333333333332
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -17443,7 +16679,7 @@ export const galleries = [
                 240
               ],
               "hex": "#82c8f0",
-              "percentage": 0.0096
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -17452,7 +16688,7 @@ export const galleries = [
                 140
               ],
               "hex": "#50788c",
-              "percentage": 0.006533333333333334
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -17461,10 +16697,10 @@ export const galleries = [
                 50
               ],
               "hex": "#5a4632",
-              "percentage": 0.004266666666666667
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 44.239691072642465
+          "colorfulness": "44.240"
         }
       },
       {
@@ -17472,8 +16708,6 @@ export const galleries = [
         "latitude": 48.223083,
         "longitude": 16.367325,
         "createDate": "2025-07-15T19:02:25.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.223083,16.367325",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17483,7 +16717,7 @@ export const galleries = [
                 40
               ],
               "hex": "#1e1e28",
-              "percentage": 0.018
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -17492,7 +16726,7 @@ export const galleries = [
                 80
               ],
               "hex": "#825a50",
-              "percentage": 0.016133333333333333
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -17501,7 +16735,7 @@ export const galleries = [
                 230
               ],
               "hex": "#64bee6",
-              "percentage": 0.015866666666666668
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -17510,10 +16744,10 @@ export const galleries = [
                 150
               ],
               "hex": "#dcc896",
-              "percentage": 0.0024
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 43.62534518944468
+          "colorfulness": "43.625"
         }
       },
       {
@@ -17521,8 +16755,6 @@ export const galleries = [
         "latitude": 48.222844,
         "longitude": 16.367392,
         "createDate": "2025-07-15T19:02:44.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.222844,16.367392",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17532,7 +16764,7 @@ export const galleries = [
                 240
               ],
               "hex": "#0a8cf0",
-              "percentage": 0.07536231884057971
+              "percentage": "0.075"
             },
             {
               "rgb": [
@@ -17541,7 +16773,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.031159420289855074
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -17550,7 +16782,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.015942028985507246
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -17559,7 +16791,7 @@ export const galleries = [
                 160
               ],
               "hex": "#0a64a0",
-              "percentage": 0.0005797101449275362
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -17568,10 +16800,10 @@ export const galleries = [
                 180
               ],
               "hex": "#6478b4",
-              "percentage": 0.0002898550724637681
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 60.14643901244847
+          "colorfulness": "60.146"
         }
       },
       {
@@ -17579,8 +16811,6 @@ export const galleries = [
         "latitude": 48.169936,
         "longitude": 16.420114,
         "createDate": "2025-05-02T15:41:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169936,16.420114",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17590,7 +16820,7 @@ export const galleries = [
                 120
               ],
               "hex": "#6e6e78",
-              "percentage": 0.041797752808988765
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -17599,7 +16829,7 @@ export const galleries = [
                 210
               ],
               "hex": "#32a0d2",
-              "percentage": 0.020112359550561797
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -17608,10 +16838,10 @@ export const galleries = [
                 50
               ],
               "hex": "#3c3232",
-              "percentage": 0.00550561797752809
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 40.27750088901757
+          "colorfulness": "40.278"
         }
       },
       {
@@ -17619,8 +16849,6 @@ export const galleries = [
         "latitude": 48.206589,
         "longitude": 16.360236,
         "createDate": "2025-05-28T19:45:52.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206589,16.360236",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17630,7 +16858,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.07341772151898734
+              "percentage": "0.073"
             },
             {
               "rgb": [
@@ -17639,7 +16867,7 @@ export const galleries = [
                 60
               ],
               "hex": "#785a3c",
-              "percentage": 0.013164556962025316
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -17648,7 +16876,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.011518987341772152
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -17657,10 +16885,10 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.010253164556962025
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 43.93200806995773
+          "colorfulness": "43.932"
         }
       },
       {
@@ -17668,8 +16896,6 @@ export const galleries = [
         "latitude": 48.205944,
         "longitude": 16.360808,
         "createDate": "2024-07-29T18:51:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205944,16.360808",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17679,7 +16905,7 @@ export const galleries = [
                 130
               ],
               "hex": "#e6be82",
-              "percentage": 0.021794871794871794
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -17688,7 +16914,7 @@ export const galleries = [
                 0
               ],
               "hex": "#821e00",
-              "percentage": 0.021153846153846155
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -17697,7 +16923,7 @@ export const galleries = [
                 180
               ],
               "hex": "#5a82b4",
-              "percentage": 0.013205128205128204
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -17706,7 +16932,7 @@ export const galleries = [
                 40
               ],
               "hex": "#281e28",
-              "percentage": 0.012051282051282051
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -17715,10 +16941,10 @@ export const galleries = [
                 240
               ],
               "hex": "#32a0f0",
-              "percentage": 0.005384615384615384
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 49.248149812329274
+          "colorfulness": "49.248"
         }
       },
       {
@@ -17726,8 +16952,6 @@ export const galleries = [
         "latitude": 48.185486,
         "longitude": 16.417503,
         "createDate": "2025-06-01T13:48:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185486,16.417503",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17737,7 +16961,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.03573333333333333
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -17746,7 +16970,7 @@ export const galleries = [
                 130
               ],
               "hex": "#bea082",
-              "percentage": 0.03186666666666667
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -17755,10 +16979,10 @@ export const galleries = [
                 70
               ],
               "hex": "#5a4646",
-              "percentage": 0.014266666666666667
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 38.02763029653075
+          "colorfulness": "38.028"
         }
       },
       {
@@ -17766,8 +16990,6 @@ export const galleries = [
         "latitude": 48.214081,
         "longitude": 16.361719,
         "createDate": "2025-04-21T13:08:58.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.214081,16.361719",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17777,7 +16999,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.04026315789473684
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -17786,7 +17008,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.021184210526315788
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -17795,7 +17017,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.020657894736842104
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -17804,10 +17026,10 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.0077631578947368425
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 45.40320006865148
+          "colorfulness": "45.403"
         }
       },
       {
@@ -17815,8 +17037,6 @@ export const galleries = [
         "latitude": 48.185878,
         "longitude": 16.375197,
         "createDate": "2025-05-16T10:11:28.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185878,16.375197",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17826,7 +17046,7 @@ export const galleries = [
                 50
               ],
               "hex": "#5a3c32",
-              "percentage": 0.044719101123595506
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -17835,10 +17055,10 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.018202247191011236
+              "percentage": "0.018"
             }
           ],
-          "colorfulness": 32.30910765104529
+          "colorfulness": "32.309"
         }
       },
       {
@@ -17846,8 +17066,6 @@ export const galleries = [
         "latitude": 48.154747,
         "longitude": 16.42505,
         "createDate": "2025-06-01T06:03:26.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.154747,16.42505",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17857,7 +17075,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.03030612244897959
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -17866,7 +17084,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.027346938775510202
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -17875,7 +17093,7 @@ export const galleries = [
                 160
               ],
               "hex": "#6e8ca0",
-              "percentage": 0.020612244897959184
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -17884,10 +17102,10 @@ export const galleries = [
                 50
               ],
               "hex": "#6e5032",
-              "percentage": 0.01020408163265306
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 40.360570940572856
+          "colorfulness": "40.361"
         }
       },
       {
@@ -17895,8 +17113,6 @@ export const galleries = [
         "latitude": 48.225656,
         "longitude": 16.349564,
         "createDate": "2024-04-19T15:49:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.225656,16.349564",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -17906,7 +17122,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.032839506172839504
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -17915,7 +17131,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.02419753086419753
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -17924,7 +17140,7 @@ export const galleries = [
                 70
               ],
               "hex": "#504646",
-              "percentage": 0.016790123456790124
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -17933,10 +17149,10 @@ export const galleries = [
                 150
               ],
               "hex": "#aaa096",
-              "percentage": 0.016049382716049384
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 40.3648907723286
+          "colorfulness": "40.365"
         }
       }
     ],
@@ -17954,8 +17170,6 @@ export const galleries = [
         "latitude": 54.133667,
         "longitude": 13.430883,
         "createDate": "2019-04-01T09:14:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.133667,13.430883",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -17965,7 +17179,7 @@ export const galleries = [
                 110
               ],
               "hex": "#00466e",
-              "percentage": 0.07261538461538461
+              "percentage": "0.073"
             },
             {
               "rgb": [
@@ -17974,7 +17188,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.05369230769230769
+              "percentage": "0.054"
             },
             {
               "rgb": [
@@ -17983,7 +17197,7 @@ export const galleries = [
                 180
               ],
               "hex": "#bebeb4",
-              "percentage": 0.022153846153846152
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -17992,7 +17206,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.02046153846153846
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -18001,10 +17215,10 @@ export const galleries = [
                 160
               ],
               "hex": "#6496a0",
-              "percentage": 0.008923076923076922
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 43.9761704592046
+          "colorfulness": "43.976"
         }
       },
       {
@@ -18012,8 +17226,6 @@ export const galleries = [
         "latitude": 54.178906,
         "longitude": 12.0779,
         "createDate": "2019-03-30T06:35:26.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.178906,12.0779",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -18023,7 +17235,7 @@ export const galleries = [
                 210
               ],
               "hex": "#00bed2",
-              "percentage": 0.10490909090909091
+              "percentage": "0.105"
             },
             {
               "rgb": [
@@ -18032,7 +17244,7 @@ export const galleries = [
                 210
               ],
               "hex": "#6ebed2",
-              "percentage": 0.026
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -18041,7 +17253,7 @@ export const galleries = [
                 180
               ],
               "hex": "#bebeb4",
-              "percentage": 0.021454545454545455
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -18050,7 +17262,7 @@ export const galleries = [
                 60
               ],
               "hex": "#a06e3c",
-              "percentage": 0.0041818181818181815
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -18059,10 +17271,10 @@ export const galleries = [
                 80
               ],
               "hex": "#004650",
-              "percentage": 0.0003636363636363636
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 49.65821158235062
+          "colorfulness": "49.658"
         }
       },
       {
@@ -18070,8 +17282,6 @@ export const galleries = [
         "latitude": 54.514506,
         "longitude": 13.639711,
         "createDate": "2019-04-01T09:15:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.514506,13.639711",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -18081,7 +17291,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.05053571428571429
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -18090,10 +17300,10 @@ export const galleries = [
                 60
               ],
               "hex": "#826e3c",
-              "percentage": 0.0275
+              "percentage": "0.028"
             }
           ],
-          "colorfulness": 21.928477039036554
+          "colorfulness": "21.928"
         }
       },
       {
@@ -18101,8 +17311,6 @@ export const galleries = [
         "latitude": 54.315369,
         "longitude": 13.091519,
         "createDate": "2019-04-01T16:42:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.315369,13.091519",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -18112,7 +17320,7 @@ export const galleries = [
                 190
               ],
               "hex": "#00a0be",
-              "percentage": 0.10696428571428572
+              "percentage": "0.107"
             },
             {
               "rgb": [
@@ -18121,7 +17329,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0000",
-              "percentage": 0.04946428571428572
+              "percentage": "0.049"
             },
             {
               "rgb": [
@@ -18130,7 +17338,7 @@ export const galleries = [
                 130
               ],
               "hex": "#d2aa82",
-              "percentage": 0.010714285714285714
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -18139,10 +17347,10 @@ export const galleries = [
                 130
               ],
               "hex": "#286e82",
-              "percentage": 0.0007142857142857143
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 57.866456511861564
+          "colorfulness": "57.866"
         }
       },
       {
@@ -18150,8 +17358,6 @@ export const galleries = [
         "latitude": 54.442672,
         "longitude": 13.566181,
         "createDate": "2019-03-31T15:48:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.442672,13.566181",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -18161,7 +17367,7 @@ export const galleries = [
                 190
               ],
               "hex": "#f0dcbe",
-              "percentage": 0.015357142857142857
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -18170,7 +17376,7 @@ export const galleries = [
                 40
               ],
               "hex": "#503228",
-              "percentage": 0.01
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -18179,7 +17385,7 @@ export const galleries = [
                 160
               ],
               "hex": "#8296a0",
-              "percentage": 0.009285714285714286
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -18188,10 +17394,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0000",
-              "percentage": 0.005892857142857143
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 36.3888009497541
+          "colorfulness": "36.389"
         }
       },
       {
@@ -18199,8 +17405,6 @@ export const galleries = [
         "latitude": 54.314908,
         "longitude": 13.095556,
         "createDate": "2019-03-31T20:16:07.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=54.314908,13.095556",
-        "alt": "Hisilicon Balong",
         "colorData": {
           "dominantColors": [
             {
@@ -18210,7 +17414,7 @@ export const galleries = [
                 0
               ],
               "hex": "#0a0000",
-              "percentage": 0.03826923076923077
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -18219,7 +17423,7 @@ export const galleries = [
                 0
               ],
               "hex": "#d25000",
-              "percentage": 0.037884615384615385
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -18228,10 +17432,10 @@ export const galleries = [
                 0
               ],
               "hex": "#780000",
-              "percentage": 0.029615384615384616
+              "percentage": "0.030"
             }
           ],
-          "colorfulness": 45.26907943479173
+          "colorfulness": "45.269"
         }
       }
     ],
@@ -18249,8 +17453,6 @@ export const galleries = [
         "latitude": 48.59065,
         "longitude": 15.336872,
         "createDate": "2025-06-10T18:22:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.59065,15.336872",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18260,7 +17462,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.043043478260869565
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -18269,7 +17471,7 @@ export const galleries = [
                 110
               ],
               "hex": "#e6a06e",
-              "percentage": 0.03536231884057971
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -18278,7 +17480,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.014782608695652174
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -18287,7 +17489,7 @@ export const galleries = [
                 170
               ],
               "hex": "#e6c8aa",
-              "percentage": 0.014202898550724638
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -18296,10 +17498,10 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.008695652173913044
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 47.976534225866565
+          "colorfulness": "47.977"
         }
       },
       {
@@ -18307,8 +17509,6 @@ export const galleries = [
         "latitude": 48.590606,
         "longitude": 15.336908,
         "createDate": "2025-06-10T18:28:25.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590606,15.336908",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18318,7 +17518,7 @@ export const galleries = [
                 90
               ],
               "hex": "#a0785a",
-              "percentage": 0.04391304347826087
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -18327,7 +17527,7 @@ export const galleries = [
                 0
               ],
               "hex": "#321400",
-              "percentage": 0.034782608695652174
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -18336,7 +17536,7 @@ export const galleries = [
                 170
               ],
               "hex": "#b4aaaa",
-              "percentage": 0.017246376811594202
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -18345,10 +17545,10 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.006811594202898551
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 38.704871285700094
+          "colorfulness": "38.705"
         }
       },
       {
@@ -18356,8 +17556,6 @@ export const galleries = [
         "latitude": 48.590603,
         "longitude": 15.336911,
         "createDate": "2025-06-10T18:28:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590603,15.336911",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18367,7 +17565,7 @@ export const galleries = [
                 60
               ],
               "hex": "#825a3c",
-              "percentage": 0.06649484536082474
+              "percentage": "0.066"
             },
             {
               "rgb": [
@@ -18376,7 +17574,7 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.027216494845360824
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -18385,10 +17583,10 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.008762886597938144
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 33.492864383360164
+          "colorfulness": "33.493"
         }
       },
       {
@@ -18396,8 +17594,6 @@ export const galleries = [
         "latitude": 48.590442,
         "longitude": 15.336358,
         "createDate": "2025-06-10T12:28:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.590442,15.336358",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18407,7 +17603,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.11309859154929577
+              "percentage": "0.113"
             },
             {
               "rgb": [
@@ -18416,7 +17612,7 @@ export const galleries = [
                 40
               ],
               "hex": "#3c3228",
-              "percentage": 0.015492957746478873
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -18425,7 +17621,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.012957746478873239
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -18434,7 +17630,7 @@ export const galleries = [
                 100
               ],
               "hex": "#d2be64",
-              "percentage": 0.008732394366197183
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -18443,10 +17639,10 @@ export const galleries = [
                 120
               ],
               "hex": "#827878",
-              "percentage": 0.007042253521126761
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 43.0910756502281
+          "colorfulness": "43.091"
         }
       }
     ],
@@ -18464,8 +17660,6 @@ export const galleries = [
         "latitude": 48.187439,
         "longitude": 16.317444,
         "createDate": "2024-04-13T15:26:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.187439,16.317444",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18475,7 +17669,7 @@ export const galleries = [
                 220
               ],
               "hex": "#64b4dc",
-              "percentage": 0.028266666666666666
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -18484,10 +17678,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.009733333333333333
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 42.5606601346747
+          "colorfulness": "42.561"
         }
       },
       {
@@ -18495,8 +17689,6 @@ export const galleries = [
         "latitude": 48.181611,
         "longitude": 16.413031,
         "createDate": "2025-04-18T10:10:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.181611,16.413031",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18506,7 +17698,7 @@ export const galleries = [
                 40
               ],
               "hex": "#646e28",
-              "percentage": 0.042352941176470586
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -18515,7 +17707,7 @@ export const galleries = [
                 230
               ],
               "hex": "#dce6e6",
-              "percentage": 0.039411764705882354
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -18524,10 +17716,10 @@ export const galleries = [
                 0
               ],
               "hex": "#0a0a00",
-              "percentage": 0.007647058823529412
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 44.993418452189196
+          "colorfulness": "44.993"
         }
       },
       {
@@ -18535,8 +17727,6 @@ export const galleries = [
         "latitude": 48.244561,
         "longitude": 16.390017,
         "createDate": "2025-05-10T15:08:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.244561,16.390017",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18546,7 +17736,7 @@ export const galleries = [
                 240
               ],
               "hex": "#6ebef0",
-              "percentage": 0.03239583333333333
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -18555,7 +17745,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.0153125
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -18564,7 +17754,7 @@ export const galleries = [
                 90
               ],
               "hex": "#b4aa5a",
-              "percentage": 0.015
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -18573,7 +17763,7 @@ export const galleries = [
                 190
               ],
               "hex": "#f0dcbe",
-              "percentage": 0.0115625
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -18582,10 +17772,10 @@ export const galleries = [
                 40
               ],
               "hex": "#6e5a28",
-              "percentage": 0.0053125
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 51.289471572962185
+          "colorfulness": "51.289"
         }
       },
       {
@@ -18593,8 +17783,6 @@ export const galleries = [
         "latitude": 48.246186,
         "longitude": 16.3886,
         "createDate": "2025-05-10T14:32:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.246186,16.3886",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18604,7 +17792,7 @@ export const galleries = [
                 240
               ],
               "hex": "#82c8f0",
-              "percentage": 0.028833333333333332
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -18613,7 +17801,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.0245
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -18622,7 +17810,7 @@ export const galleries = [
                 120
               ],
               "hex": "#c8aa78",
-              "percentage": 0.017
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -18631,7 +17819,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.006333333333333333
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -18640,10 +17828,10 @@ export const galleries = [
                 120
               ],
               "hex": "#466478",
-              "percentage": 0.0005
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 46.74371151332485
+          "colorfulness": "46.744"
         }
       },
       {
@@ -18651,8 +17839,6 @@ export const galleries = [
         "latitude": 48.245297,
         "longitude": 16.388775,
         "createDate": "2025-05-10T15:06:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.245297,16.388775",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18662,7 +17848,7 @@ export const galleries = [
                 200
               ],
               "hex": "#aabec8",
-              "percentage": 0.036075949367088606
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -18671,7 +17857,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.022025316455696203
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -18680,10 +17866,10 @@ export const galleries = [
                 110
               ],
               "hex": "#505a6e",
-              "percentage": 0.01759493670886076
+              "percentage": "0.018"
             }
           ],
-          "colorfulness": 40.81880909233814
+          "colorfulness": "40.819"
         }
       },
       {
@@ -18691,8 +17877,6 @@ export const galleries = [
         "latitude": 48.206853,
         "longitude": 16.447103,
         "createDate": "2024-07-21T16:55:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206853,16.447103",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18702,7 +17886,7 @@ export const galleries = [
                 200
               ],
               "hex": "#0082c8",
-              "percentage": 0.04113636363636364
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -18711,7 +17895,7 @@ export const galleries = [
                 110
               ],
               "hex": "#005a6e",
-              "percentage": 0.00909090909090909
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -18720,7 +17904,7 @@ export const galleries = [
                 170
               ],
               "hex": "#82aaaa",
-              "percentage": 0.004318181818181818
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -18729,7 +17913,7 @@ export const galleries = [
                 0
               ],
               "hex": "#282800",
-              "percentage": 0.004318181818181818
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -18738,10 +17922,10 @@ export const galleries = [
                 180
               ],
               "hex": "#bec8b4",
-              "percentage": 0.00375
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 55.555114829778496
+          "colorfulness": "55.555"
         }
       },
       {
@@ -18749,8 +17933,6 @@ export const galleries = [
         "latitude": 48.172078,
         "longitude": 16.410625,
         "createDate": "2025-05-03T12:47:25.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172078,16.410625",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18760,7 +17942,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.020104166666666666
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -18769,10 +17951,10 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.014583333333333334
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 37.0081460902194
+          "colorfulness": "37.008"
         }
       },
       {
@@ -18780,8 +17962,6 @@ export const galleries = [
         "latitude": 48.172086,
         "longitude": 16.410622,
         "createDate": "2025-05-03T12:47:16.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.172086,16.410622",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18791,7 +17971,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.042298850574712644
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -18800,7 +17980,7 @@ export const galleries = [
                 70
               ],
               "hex": "#968c46",
-              "percentage": 0.022528735632183907
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -18809,7 +17989,7 @@ export const galleries = [
                 40
               ],
               "hex": "#5a5028",
-              "percentage": 0.013448275862068966
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -18818,7 +17998,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.010459770114942528
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -18827,10 +18007,10 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.007126436781609196
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 37.257813465474904
+          "colorfulness": "37.258"
         }
       },
       {
@@ -18838,8 +18018,6 @@ export const galleries = [
         "latitude": 48.211767,
         "longitude": 16.434911,
         "createDate": "2024-07-21T13:50:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211767,16.434911",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18849,7 +18027,7 @@ export const galleries = [
                 90
               ],
               "hex": "#505a5a",
-              "percentage": 0.0418
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -18858,7 +18036,7 @@ export const galleries = [
                 220
               ],
               "hex": "#5ab4dc",
-              "percentage": 0.0211
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -18867,7 +18045,7 @@ export const galleries = [
                 70
               ],
               "hex": "#aa8246",
-              "percentage": 0.0094
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -18876,7 +18054,7 @@ export const galleries = [
                 20
               ],
               "hex": "#3c2814",
-              "percentage": 0.0043
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -18885,10 +18063,10 @@ export const galleries = [
                 0
               ],
               "hex": "#fa2800",
-              "percentage": 0.0006
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 44.16277414707613
+          "colorfulness": "44.163"
         }
       },
       {
@@ -18896,8 +18074,6 @@ export const galleries = [
         "latitude": 48.215978,
         "longitude": 16.358497,
         "createDate": "2025-07-09T14:13:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215978,16.358497",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18907,7 +18083,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.03958762886597938
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -18916,7 +18092,7 @@ export const galleries = [
                 110
               ],
               "hex": "#b4aa6e",
-              "percentage": 0.033298969072164945
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -18925,10 +18101,10 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.01556701030927835
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 40.50940294975954
+          "colorfulness": "40.509"
         }
       },
       {
@@ -18936,8 +18112,6 @@ export const galleries = [
         "latitude": 48.171803,
         "longitude": 16.410644,
         "createDate": "2025-05-03T12:47:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.171803,16.410644",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18947,7 +18121,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.0425
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -18956,7 +18130,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.019895833333333335
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -18965,10 +18139,10 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.016041666666666666
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 36.38518893556853
+          "colorfulness": "36.385"
         }
       },
       {
@@ -18976,8 +18150,6 @@ export const galleries = [
         "latitude": 48.186328,
         "longitude": 16.318358,
         "createDate": "2025-07-30T17:03:42.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.186328,16.318358",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -18987,7 +18159,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.04247311827956989
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -18996,7 +18168,7 @@ export const galleries = [
                 120
               ],
               "hex": "#c8aa78",
-              "percentage": 0.020967741935483872
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -19005,7 +18177,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.0035483870967741938
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -19014,7 +18186,7 @@ export const galleries = [
                 240
               ],
               "hex": "#96c8f0",
-              "percentage": 0.0018279569892473118
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -19023,10 +18195,10 @@ export const galleries = [
                 60
               ],
               "hex": "#dc3c3c",
-              "percentage": 0.00010752688172043011
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 39.5962957111686
+          "colorfulness": "39.596"
         }
       },
       {
@@ -19034,8 +18206,6 @@ export const galleries = [
         "latitude": 48.215353,
         "longitude": 16.359267,
         "createDate": "2024-03-27T07:32:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215353,16.359267",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19045,7 +18215,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.019324324324324325
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -19054,7 +18224,7 @@ export const galleries = [
                 200
               ],
               "hex": "#d2c8c8",
-              "percentage": 0.018783783783783783
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -19063,7 +18233,7 @@ export const galleries = [
                 40
               ],
               "hex": "#6e6428",
-              "percentage": 0.016891891891891893
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -19072,10 +18242,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.007027027027027027
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 38.65296154779757
+          "colorfulness": "38.653"
         }
       },
       {
@@ -19083,8 +18253,6 @@ export const galleries = [
         "latitude": 48.215408,
         "longitude": 16.359381,
         "createDate": "2024-04-03T05:56:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.215408,16.359381",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19094,7 +18262,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.07595744680851065
+              "percentage": "0.076"
             },
             {
               "rgb": [
@@ -19103,7 +18271,7 @@ export const galleries = [
                 240
               ],
               "hex": "#46bef0",
-              "percentage": 0.016595744680851062
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -19112,7 +18280,7 @@ export const galleries = [
                 70
               ],
               "hex": "#3c3c46",
-              "percentage": 0.015
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -19121,7 +18289,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.008723404255319148
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -19130,10 +18298,10 @@ export const galleries = [
                 190
               ],
               "hex": "#4696be",
-              "percentage": 0.003723404255319149
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 48.4585646610167
+          "colorfulness": "48.459"
         }
       },
       {
@@ -19141,8 +18309,6 @@ export const galleries = [
         "latitude": 48.235967,
         "longitude": 16.336186,
         "createDate": "2025-04-21T15:44:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.235967,16.336186",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19152,7 +18318,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.016164383561643837
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -19161,7 +18327,7 @@ export const galleries = [
                 10
               ],
               "hex": "#64500a",
-              "percentage": 0.014657534246575343
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -19170,10 +18336,10 @@ export const galleries = [
                 240
               ],
               "hex": "#aad2f0",
-              "percentage": 0.005616438356164383
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 41.38626284895559
+          "colorfulness": "41.386"
         }
       }
     ],
@@ -19191,8 +18357,6 @@ export const galleries = [
         "latitude": 41.145497,
         "longitude": -8.610367,
         "createDate": "2025-03-30T09:46:56.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145497,-8.610367",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19202,7 +18366,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.020533333333333334
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -19211,7 +18375,7 @@ export const galleries = [
                 240
               ],
               "hex": "#1eb4f0",
-              "percentage": 0.011466666666666667
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -19220,10 +18384,10 @@ export const galleries = [
                 30
               ],
               "hex": "#be1e1e",
-              "percentage": 0.00013333333333333334
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 38.36542146683257
+          "colorfulness": "38.365"
         }
       },
       {
@@ -19231,8 +18395,6 @@ export const galleries = [
         "latitude": 41.145125,
         "longitude": -8.610692,
         "createDate": "2025-03-30T09:45:33.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145125,-8.610692",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19242,7 +18404,7 @@ export const galleries = [
                 190
               ],
               "hex": "#bebebe",
-              "percentage": 0.019213483146067415
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -19251,7 +18413,7 @@ export const galleries = [
                 210
               ],
               "hex": "#46a0d2",
-              "percentage": 0.017640449438202248
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -19260,10 +18422,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.011235955056179775
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 48.50112054318793
+          "colorfulness": "48.501"
         }
       },
       {
@@ -19271,8 +18433,6 @@ export const galleries = [
         "latitude": 41.145006,
         "longitude": -8.616325,
         "createDate": "2025-03-29T21:52:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145006,-8.616325",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19282,7 +18442,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.1356842105263158
+              "percentage": "0.136"
             },
             {
               "rgb": [
@@ -19291,7 +18451,7 @@ export const galleries = [
                 60
               ],
               "hex": "#825a3c",
-              "percentage": 0.08094736842105263
+              "percentage": "0.081"
             },
             {
               "rgb": [
@@ -19300,10 +18460,10 @@ export const galleries = [
                 130
               ],
               "hex": "#bea082",
-              "percentage": 0.027157894736842107
+              "percentage": "0.027"
             }
           ],
-          "colorfulness": 36.60710318508723
+          "colorfulness": "36.607"
         }
       },
       {
@@ -19311,8 +18471,6 @@ export const galleries = [
         "latitude": 41.142406,
         "longitude": -8.612067,
         "createDate": "2025-04-02T10:48:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.142406,-8.612067",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19322,7 +18480,7 @@ export const galleries = [
                 20
               ],
               "hex": "#3c1e14",
-              "percentage": 0.04986666666666666
+              "percentage": "0.050"
             },
             {
               "rgb": [
@@ -19331,7 +18489,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.0272
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -19340,10 +18498,10 @@ export const galleries = [
                 160
               ],
               "hex": "#9696a0",
-              "percentage": 0.0164
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 43.59307210768963
+          "colorfulness": "43.593"
         }
       },
       {
@@ -19351,8 +18509,6 @@ export const galleries = [
         "latitude": 41.143172,
         "longitude": -8.611656,
         "createDate": "2025-04-02T10:53:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143172,-8.611656",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19362,7 +18518,7 @@ export const galleries = [
                 200
               ],
               "hex": "#c8c8c8",
-              "percentage": 0.07048192771084337
+              "percentage": "0.070"
             },
             {
               "rgb": [
@@ -19371,7 +18527,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.05506024096385542
+              "percentage": "0.055"
             },
             {
               "rgb": [
@@ -19380,7 +18536,7 @@ export const galleries = [
                 130
               ],
               "hex": "#aa9682",
-              "percentage": 0.02530120481927711
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -19389,10 +18545,10 @@ export const galleries = [
                 70
               ],
               "hex": "#785a46",
-              "percentage": 0.01819277108433735
+              "percentage": "0.018"
             }
           ],
-          "colorfulness": 43.87933773028186
+          "colorfulness": "43.879"
         }
       },
       {
@@ -19400,8 +18556,6 @@ export const galleries = [
         "latitude": 41.150781,
         "longitude": -8.610925,
         "createDate": "2025-03-29T16:38:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.150781,-8.610925",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19411,7 +18565,7 @@ export const galleries = [
                 10
               ],
               "hex": "#140a0a",
-              "percentage": 0.06159090909090909
+              "percentage": "0.062"
             },
             {
               "rgb": [
@@ -19420,7 +18574,7 @@ export const galleries = [
                 230
               ],
               "hex": "#d2e6e6",
-              "percentage": 0.015113636363636364
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -19429,7 +18583,7 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.014204545454545454
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -19438,7 +18592,7 @@ export const galleries = [
                 130
               ],
               "hex": "#646e82",
-              "percentage": 0.012386363636363636
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -19447,10 +18601,10 @@ export const galleries = [
                 210
               ],
               "hex": "#32a0d2",
-              "percentage": 0.011704545454545455
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 51.807240437492965
+          "colorfulness": "51.807"
         }
       },
       {
@@ -19458,8 +18612,6 @@ export const galleries = [
         "latitude": 41.0652,
         "longitude": -8.656564,
         "createDate": "2025-04-01T12:25:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.0652,-8.656564",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19469,7 +18621,7 @@ export const galleries = [
                 170
               ],
               "hex": "#dcc8aa",
-              "percentage": 0.08472222222222223
+              "percentage": "0.085"
             },
             {
               "rgb": [
@@ -19478,7 +18630,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.007638888888888889
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -19487,7 +18639,7 @@ export const galleries = [
                 230
               ],
               "hex": "#fa82e6",
-              "percentage": 0.0006944444444444445
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -19496,10 +18648,10 @@ export const galleries = [
                 160
               ],
               "hex": "#d246a0",
-              "percentage": 0.0002777777777777778
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 29.956304103418574
+          "colorfulness": "29.956"
         }
       },
       {
@@ -19507,8 +18659,6 @@ export const galleries = [
         "latitude": 41.1585,
         "longitude": -8.63095,
         "createDate": "2025-03-31T13:14:33.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.1585,-8.63095",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19518,7 +18668,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.05652173913043478
+              "percentage": "0.057"
             },
             {
               "rgb": [
@@ -19527,7 +18677,7 @@ export const galleries = [
                 120
               ],
               "hex": "#004678",
-              "percentage": 0.035217391304347825
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -19536,7 +18686,7 @@ export const galleries = [
                 160
               ],
               "hex": "#dcbea0",
-              "percentage": 0.024891304347826087
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -19545,10 +18695,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.019021739130434784
+              "percentage": "0.019"
             }
           ],
-          "colorfulness": 52.73958410608706
+          "colorfulness": "52.740"
         }
       },
       {
@@ -19556,8 +18706,6 @@ export const galleries = [
         "latitude": 41.158439,
         "longitude": -8.630994,
         "createDate": "2025-03-31T13:13:38.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.158439,-8.630994",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19567,7 +18715,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.08012345679012346
+              "percentage": "0.080"
             },
             {
               "rgb": [
@@ -19576,7 +18724,7 @@ export const galleries = [
                 130
               ],
               "hex": "#b49682",
-              "percentage": 0.02666666666666667
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -19585,7 +18733,7 @@ export const galleries = [
                 100
               ],
               "hex": "#003c64",
-              "percentage": 0.02308641975308642
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -19594,7 +18742,7 @@ export const galleries = [
                 70
               ],
               "hex": "#3c3c46",
-              "percentage": 0.010123456790123457
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -19603,10 +18751,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.00962962962962963
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 46.88336415545297
+          "colorfulness": "46.883"
         }
       },
       {
@@ -19614,8 +18762,6 @@ export const galleries = [
         "latitude": 41.158731,
         "longitude": -8.630008,
         "createDate": "2025-03-31T13:09:53.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.158731,-8.630008",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19625,7 +18771,7 @@ export const galleries = [
                 130
               ],
               "hex": "#005082",
-              "percentage": 0.040736842105263155
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -19634,7 +18780,7 @@ export const galleries = [
                 190
               ],
               "hex": "#f0dcbe",
-              "percentage": 0.028526315789473684
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -19643,7 +18789,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.025473684210526315
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -19652,7 +18798,7 @@ export const galleries = [
                 150
               ],
               "hex": "#d2b496",
-              "percentage": 0.01568421052631579
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -19661,10 +18807,10 @@ export const galleries = [
                 120
               ],
               "hex": "#827878",
-              "percentage": 0.008421052631578947
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 57.13127354024791
+          "colorfulness": "57.131"
         }
       },
       {
@@ -19672,8 +18818,6 @@ export const galleries = [
         "latitude": 41.158486,
         "longitude": -8.631186,
         "createDate": "2025-03-31T13:14:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.158486,-8.631186",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19683,7 +18827,7 @@ export const galleries = [
                 90
               ],
               "hex": "#00325a",
-              "percentage": 0.058
+              "percentage": "0.058"
             },
             {
               "rgb": [
@@ -19692,7 +18836,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.039733333333333336
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -19701,7 +18845,7 @@ export const galleries = [
                 130
               ],
               "hex": "#b49682",
-              "percentage": 0.020933333333333335
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -19710,10 +18854,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.010933333333333333
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 50.86551525216472
+          "colorfulness": "50.866"
         }
       },
       {
@@ -19721,8 +18865,6 @@ export const galleries = [
         "latitude": 41.145639,
         "longitude": -8.614683,
         "createDate": "2025-03-31T21:21:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145639,-8.614683",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19732,7 +18874,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.11356164383561644
+              "percentage": "0.114"
             },
             {
               "rgb": [
@@ -19741,7 +18883,7 @@ export const galleries = [
                 90
               ],
               "hex": "#f0645a",
-              "percentage": 0.0028767123287671234
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -19750,10 +18892,10 @@ export const galleries = [
                 220
               ],
               "hex": "#78bedc",
-              "percentage": 0.000273972602739726
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 39.38897833287655
+          "colorfulness": "39.389"
         }
       },
       {
@@ -19761,8 +18903,6 @@ export const galleries = [
         "latitude": 41.236808,
         "longitude": -8.670061,
         "createDate": "2025-04-02T13:31:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.236808,-8.670061",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19772,7 +18912,7 @@ export const galleries = [
                 20
               ],
               "hex": "#3c2814",
-              "percentage": 0.040740740740740744
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -19781,7 +18921,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.029382716049382716
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -19790,10 +18930,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.02567901234567901
+              "percentage": "0.026"
             }
           ],
-          "colorfulness": 41.84741773549826
+          "colorfulness": "41.847"
         }
       },
       {
@@ -19801,8 +18941,6 @@ export const galleries = [
         "latitude": 41.237369,
         "longitude": -8.670303,
         "createDate": "2025-04-02T14:10:16.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.237369,-8.670303",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19812,10 +18950,10 @@ export const galleries = [
                 130
               ],
               "hex": "#aa9682",
-              "percentage": 0.04428571428571428
+              "percentage": "0.044"
             }
           ],
-          "colorfulness": 29.76343169144675
+          "colorfulness": "29.763"
         }
       },
       {
@@ -19823,8 +18961,6 @@ export const galleries = [
         "latitude": 41.237064,
         "longitude": -8.670583,
         "createDate": "2025-04-02T13:21:25.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.237064,-8.670583",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19834,7 +18970,7 @@ export const galleries = [
                 40
               ],
               "hex": "#3c3228",
-              "percentage": 0.013214285714285715
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -19843,7 +18979,7 @@ export const galleries = [
                 150
               ],
               "hex": "#d2aa96",
-              "percentage": 0.006071428571428571
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -19852,10 +18988,10 @@ export const galleries = [
                 210
               ],
               "hex": "#b4d2d2",
-              "percentage": 0.005952380952380952
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 34.270864864725006
+          "colorfulness": "34.271"
         }
       },
       {
@@ -19863,8 +18999,6 @@ export const galleries = [
         "latitude": 41.140236,
         "longitude": -8.611989,
         "createDate": "2025-03-30T11:57:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.140236,-8.611989",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19874,7 +19008,7 @@ export const galleries = [
                 230
               ],
               "hex": "#64bee6",
-              "percentage": 0.06022988505747127
+              "percentage": "0.060"
             },
             {
               "rgb": [
@@ -19883,7 +19017,7 @@ export const galleries = [
                 150
               ],
               "hex": "#828c96",
-              "percentage": 0.02793103448275862
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -19892,10 +19026,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.010229885057471265
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 43.76558492259594
+          "colorfulness": "43.766"
         }
       },
       {
@@ -19903,8 +19037,6 @@ export const galleries = [
         "latitude": 41.143153,
         "longitude": -8.611278,
         "createDate": "2025-04-02T10:45:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143153,-8.611278",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19914,7 +19046,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.018602150537634407
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -19923,7 +19055,7 @@ export const galleries = [
                 170
               ],
               "hex": "#aaaaaa",
-              "percentage": 0.012688172043010752
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -19932,7 +19064,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.012580645161290323
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -19941,10 +19073,10 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.008709677419354838
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 37.12730482933713
+          "colorfulness": "37.127"
         }
       },
       {
@@ -19952,8 +19084,6 @@ export const galleries = [
         "latitude": 41.146733,
         "longitude": -8.611031,
         "createDate": "2025-03-30T09:13:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.146733,-8.611031",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -19963,7 +19093,7 @@ export const galleries = [
                 150
               ],
               "hex": "#d2b496",
-              "percentage": 0.03426666666666667
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -19972,7 +19102,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.033466666666666665
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -19981,7 +19111,7 @@ export const galleries = [
                 30
               ],
               "hex": "#a05a1e",
-              "percentage": 0.0096
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -19990,7 +19120,7 @@ export const galleries = [
                 230
               ],
               "hex": "#32bee6",
-              "percentage": 0.0008
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -19999,10 +19129,10 @@ export const galleries = [
                 100
               ],
               "hex": "#002864",
-              "percentage": 0.0008
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 42.91739481525059
+          "colorfulness": "42.917"
         }
       },
       {
@@ -20010,8 +19140,6 @@ export const galleries = [
         "latitude": 41.145539,
         "longitude": -8.610378,
         "createDate": "2025-04-02T10:36:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145539,-8.610378",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20021,7 +19149,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.04120481927710844
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -20030,10 +19158,10 @@ export const galleries = [
                 90
               ],
               "hex": "#6e645a",
-              "percentage": 0.016867469879518072
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": 33.35861122844748
+          "colorfulness": "33.359"
         }
       },
       {
@@ -20041,8 +19169,6 @@ export const galleries = [
         "latitude": 41.068703,
         "longitude": -8.656689,
         "createDate": "2025-04-01T12:33:42.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.068703,-8.656689",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20052,7 +19178,7 @@ export const galleries = [
                 180
               ],
               "hex": "#f0d2b4",
-              "percentage": 0.0886842105263158
+              "percentage": "0.089"
             },
             {
               "rgb": [
@@ -20061,7 +19187,7 @@ export const galleries = [
                 190
               ],
               "hex": "#3296be",
-              "percentage": 0.024342105263157894
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -20070,7 +19196,7 @@ export const galleries = [
                 10
               ],
               "hex": "#321e0a",
-              "percentage": 0.014210526315789474
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -20079,10 +19205,10 @@ export const galleries = [
                 110
               ],
               "hex": "#465a6e",
-              "percentage": 0.002368421052631579
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 43.51807734881344
+          "colorfulness": "43.518"
         }
       },
       {
@@ -20090,8 +19216,6 @@ export const galleries = [
         "latitude": 41.14355,
         "longitude": -8.611039,
         "createDate": "2025-04-02T10:43:16.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.14355,-8.611039",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20101,7 +19225,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.036
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -20110,7 +19234,7 @@ export const galleries = [
                 150
               ],
               "hex": "#a09696",
-              "percentage": 0.0262
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -20119,10 +19243,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.0164
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 40.561145326837625
+          "colorfulness": "40.561"
         }
       },
       {
@@ -20130,8 +19254,6 @@ export const galleries = [
         "latitude": 41.1446,
         "longitude": -8.617233,
         "createDate": "2025-03-31T21:18:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.1446,-8.617233",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20141,7 +19263,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.41121621621621623
+              "percentage": "0.411"
             },
             {
               "rgb": [
@@ -20150,7 +19272,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.0045945945945945945
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -20159,10 +19281,10 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.00445945945945946
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 35.655190628717236
+          "colorfulness": "35.655"
         }
       },
       {
@@ -20170,8 +19292,6 @@ export const galleries = [
         "latitude": 41.147258,
         "longitude": -8.611131,
         "createDate": "2025-03-29T18:13:07.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.147258,-8.611131",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20181,7 +19301,7 @@ export const galleries = [
                 130
               ],
               "hex": "#6e7882",
-              "percentage": 0.04674418604651163
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -20190,7 +19310,7 @@ export const galleries = [
                 230
               ],
               "hex": "#82c8e6",
-              "percentage": 0.01941860465116279
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -20199,7 +19319,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.01581395348837209
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -20208,10 +19328,10 @@ export const galleries = [
                 50
               ],
               "hex": "#3c3232",
-              "percentage": 0.008837209302325582
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 41.12832721771813
+          "colorfulness": "41.128"
         }
       },
       {
@@ -20219,8 +19339,6 @@ export const galleries = [
         "latitude": 41.1469,
         "longitude": -8.615383,
         "createDate": "2025-03-30T18:09:23.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.1469,-8.615383",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20230,7 +19348,7 @@ export const galleries = [
                 130
               ],
               "hex": "#5a6e82",
-              "percentage": 0.032682926829268294
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -20239,7 +19357,7 @@ export const galleries = [
                 230
               ],
               "hex": "#82c8e6",
-              "percentage": 0.020365853658536586
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -20248,7 +19366,7 @@ export const galleries = [
                 50
               ],
               "hex": "#3c3232",
-              "percentage": 0.010853658536585365
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -20257,10 +19375,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.010853658536585365
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 45.93049455896048
+          "colorfulness": "45.930"
         }
       },
       {
@@ -20268,8 +19386,6 @@ export const galleries = [
         "latitude": 41.146897,
         "longitude": -8.615392,
         "createDate": "2025-03-30T18:09:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.146897,-8.615392",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20279,7 +19395,7 @@ export const galleries = [
                 190
               ],
               "hex": "#1e8cbe",
-              "percentage": 0.027176470588235295
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -20288,7 +19404,7 @@ export const galleries = [
                 90
               ],
               "hex": "#46505a",
-              "percentage": 0.023647058823529413
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -20297,7 +19413,7 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.018941176470588236
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -20306,10 +19422,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.018941176470588236
+              "percentage": "0.019"
             }
           ],
-          "colorfulness": 46.20463346947219
+          "colorfulness": "46.205"
         }
       },
       {
@@ -20317,8 +19433,6 @@ export const galleries = [
         "latitude": 41.147042,
         "longitude": -8.615519,
         "createDate": "2025-03-30T18:17:28.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.147042,-8.615519",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20328,7 +19442,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.022954545454545453
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -20337,7 +19451,7 @@ export const galleries = [
                 200
               ],
               "hex": "#3c96c8",
-              "percentage": 0.018977272727272728
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -20346,7 +19460,7 @@ export const galleries = [
                 80
               ],
               "hex": "#464650",
-              "percentage": 0.016931818181818183
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -20355,7 +19469,7 @@ export const galleries = [
                 140
               ],
               "hex": "#78828c",
-              "percentage": 0.01625
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -20364,10 +19478,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.004772727272727273
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 46.14665010808568
+          "colorfulness": "46.147"
         }
       },
       {
@@ -20375,8 +19489,6 @@ export const galleries = [
         "latitude": 41.138839,
         "longitude": -8.60995,
         "createDate": "2025-03-30T14:36:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.138839,-8.60995",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20386,7 +19498,7 @@ export const galleries = [
                 160
               ],
               "hex": "#0a64a0",
-              "percentage": 0.0464
+              "percentage": "0.046"
             },
             {
               "rgb": [
@@ -20395,7 +19507,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.0232
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -20404,7 +19516,7 @@ export const galleries = [
                 90
               ],
               "hex": "#645a5a",
-              "percentage": 0.004933333333333333
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -20413,10 +19525,10 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.0041333333333333335
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 52.92616439001168
+          "colorfulness": "52.926"
         }
       },
       {
@@ -20424,8 +19536,6 @@ export const galleries = [
         "latitude": 41.140975,
         "longitude": -8.611122,
         "createDate": "2025-03-30T11:49:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.140975,-8.611122",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20435,7 +19545,7 @@ export const galleries = [
                 240
               ],
               "hex": "#78c8f0",
-              "percentage": 0.03242857142857143
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -20444,7 +19554,7 @@ export const galleries = [
                 10
               ],
               "hex": "#14000a",
-              "percentage": 0.010714285714285714
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -20453,7 +19563,7 @@ export const galleries = [
                 140
               ],
               "hex": "#6e788c",
-              "percentage": 0.009571428571428571
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -20462,7 +19572,7 @@ export const galleries = [
                 80
               ],
               "hex": "#786450",
-              "percentage": 0.006571428571428572
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -20471,10 +19581,10 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.002285714285714286
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 52.57028886686837
+          "colorfulness": "52.570"
         }
       },
       {
@@ -20482,8 +19592,6 @@ export const galleries = [
         "latitude": 41.1431,
         "longitude": -8.61565,
         "createDate": "2025-04-01T21:23:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.1431,-8.61565",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20493,7 +19601,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.14452380952380953
+              "percentage": "0.145"
             },
             {
               "rgb": [
@@ -20502,7 +19610,7 @@ export const galleries = [
                 40
               ],
               "hex": "#282828",
-              "percentage": 0.04690476190476191
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -20511,7 +19619,7 @@ export const galleries = [
                 20
               ],
               "hex": "#d27814",
-              "percentage": 0.0054761904761904765
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -20520,7 +19628,7 @@ export const galleries = [
                 60
               ],
               "hex": "#8c643c",
-              "percentage": 0.002976190476190476
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -20529,10 +19637,10 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.0009523809523809524
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 40.17333580655315
+          "colorfulness": "40.173"
         }
       },
       {
@@ -20540,8 +19648,6 @@ export const galleries = [
         "latitude": 41.139678,
         "longitude": -8.614517,
         "createDate": "2025-03-30T14:12:58.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.139678,-8.614517",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20551,7 +19657,7 @@ export const galleries = [
                 190
               ],
               "hex": "#0a82be",
-              "percentage": 0.09482758620689655
+              "percentage": "0.095"
             },
             {
               "rgb": [
@@ -20560,7 +19666,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.009137931034482759
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -20569,7 +19675,7 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.007931034482758621
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -20578,7 +19684,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.006896551724137931
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -20587,10 +19693,10 @@ export const galleries = [
                 90
               ],
               "hex": "#fad25a",
-              "percentage": 0.0005172413793103448
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 56.42666430986201
+          "colorfulness": "56.427"
         }
       },
       {
@@ -20598,8 +19704,6 @@ export const galleries = [
         "latitude": 41.152139,
         "longitude": -8.609864,
         "createDate": "2025-04-02T12:28:19.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.152139,-8.609864",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20609,7 +19713,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.09289855072463768
+              "percentage": "0.093"
             },
             {
               "rgb": [
@@ -20618,7 +19722,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.043188405797101447
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -20627,10 +19731,10 @@ export const galleries = [
                 20
               ],
               "hex": "#3c2814",
-              "percentage": 0.020869565217391306
+              "percentage": "0.021"
             }
           ],
-          "colorfulness": 36.881590416246475
+          "colorfulness": "36.882"
         }
       },
       {
@@ -20638,8 +19742,6 @@ export const galleries = [
         "latitude": 41.15285,
         "longitude": -8.612036,
         "createDate": "2025-03-30T21:35:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.15285,-8.612036",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20649,7 +19751,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.054578313253012045
+              "percentage": "0.055"
             },
             {
               "rgb": [
@@ -20658,10 +19760,10 @@ export const galleries = [
                 90
               ],
               "hex": "#a0785a",
-              "percentage": 0.010722891566265061
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 33.165578301324665
+          "colorfulness": "33.166"
         }
       },
       {
@@ -20669,8 +19771,6 @@ export const galleries = [
         "latitude": 41.15285,
         "longitude": -8.612036,
         "createDate": "2025-03-30T21:35:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.15285,-8.612036",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20680,7 +19780,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.054578313253012045
+              "percentage": "0.055"
             },
             {
               "rgb": [
@@ -20689,10 +19789,10 @@ export const galleries = [
                 90
               ],
               "hex": "#a0785a",
-              "percentage": 0.010722891566265061
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 33.165578301324665
+          "colorfulness": "33.166"
         }
       },
       {
@@ -20700,8 +19800,6 @@ export const galleries = [
         "latitude": 41.145231,
         "longitude": -8.611053,
         "createDate": "2025-04-02T10:26:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145231,-8.611053",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20711,7 +19809,7 @@ export const galleries = [
                 140
               ],
               "hex": "#a08c8c",
-              "percentage": 0.0312
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -20720,7 +19818,7 @@ export const galleries = [
                 220
               ],
               "hex": "#dcdcdc",
-              "percentage": 0.020533333333333334
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -20729,7 +19827,7 @@ export const galleries = [
                 60
               ],
               "hex": "#463c3c",
-              "percentage": 0.011866666666666666
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -20738,10 +19836,10 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.0018666666666666666
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 35.058904261301315
+          "colorfulness": "35.059"
         }
       },
       {
@@ -20749,8 +19847,6 @@ export const galleries = [
         "latitude": 41.145217,
         "longitude": -8.611039,
         "createDate": "2025-04-02T10:27:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145217,-8.611039",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20760,7 +19856,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.0508955223880597
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -20769,7 +19865,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.015970149253731344
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -20778,7 +19874,7 @@ export const galleries = [
                 90
               ],
               "hex": "#645a5a",
-              "percentage": 0.010298507462686568
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -20787,7 +19883,7 @@ export const galleries = [
                 30
               ],
               "hex": "#281e1e",
-              "percentage": 0.01
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -20796,10 +19892,10 @@ export const galleries = [
                 230
               ],
               "hex": "#78bee6",
-              "percentage": 0.002537313432835821
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 39.6586898941237
+          "colorfulness": "39.659"
         }
       },
       {
@@ -20807,8 +19903,6 @@ export const galleries = [
         "latitude": 47.791,
         "longitude": 12.997536,
         "createDate": "2025-03-29T08:16:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.791,12.997536",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20818,7 +19912,7 @@ export const galleries = [
                 150
               ],
               "hex": "#a09696",
-              "percentage": 0.029253731343283584
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -20827,7 +19921,7 @@ export const galleries = [
                 30
               ],
               "hex": "#3c281e",
-              "percentage": 0.015970149253731344
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -20836,10 +19930,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.007313432835820896
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 37.072698532149865
+          "colorfulness": "37.073"
         }
       },
       {
@@ -20847,8 +19941,6 @@ export const galleries = [
         "latitude": 47.791783,
         "longitude": 12.996853,
         "createDate": "2025-03-29T08:11:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.791783,12.996853",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20858,7 +19950,7 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.1164367816091954
+              "percentage": "0.116"
             },
             {
               "rgb": [
@@ -20867,7 +19959,7 @@ export const galleries = [
                 150
               ],
               "hex": "#aa9696",
-              "percentage": 0.021264367816091954
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -20876,7 +19968,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.02103448275862069
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -20885,7 +19977,7 @@ export const galleries = [
                 40
               ],
               "hex": "#503228",
-              "percentage": 0.010574712643678161
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -20894,10 +19986,10 @@ export const galleries = [
                 140
               ],
               "hex": "#00508c",
-              "percentage": 0.00022988505747126436
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 39.53949746593551
+          "colorfulness": "39.539"
         }
       },
       {
@@ -20905,8 +19997,6 @@ export const galleries = [
         "latitude": 41.145458,
         "longitude": -8.610133,
         "createDate": "2025-04-02T10:33:28.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145458,-8.610133",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20916,7 +20006,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.08291139240506329
+              "percentage": "0.083"
             },
             {
               "rgb": [
@@ -20925,7 +20015,7 @@ export const galleries = [
                 110
               ],
               "hex": "#aa8c6e",
-              "percentage": 0.025822784810126582
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -20934,7 +20024,7 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.018734177215189874
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -20943,7 +20033,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.01569620253164557
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -20952,10 +20042,10 @@ export const galleries = [
                 60
               ],
               "hex": "#6e503c",
-              "percentage": 0.007594936708860759
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 43.898547484748
+          "colorfulness": "43.899"
         }
       },
       {
@@ -20963,8 +20053,6 @@ export const galleries = [
         "latitude": 41.145631,
         "longitude": -8.610269,
         "createDate": "2025-04-02T10:34:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145631,-8.610269",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -20974,7 +20062,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.10573170731707317
+              "percentage": "0.106"
             },
             {
               "rgb": [
@@ -20983,7 +20071,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.021219512195121953
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -20992,7 +20080,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.01402439024390244
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -21001,10 +20089,10 @@ export const galleries = [
                 20
               ],
               "hex": "#be6e14",
-              "percentage": 0.0014634146341463415
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 42.95826161563
+          "colorfulness": "42.958"
         }
       },
       {
@@ -21012,8 +20100,6 @@ export const galleries = [
         "latitude": 41.145533,
         "longitude": -8.610381,
         "createDate": "2025-04-02T10:36:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145533,-8.610381",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21023,7 +20109,7 @@ export const galleries = [
                 40
               ],
               "hex": "#463228",
-              "percentage": 0.03795698924731183
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -21032,7 +20118,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.025483870967741934
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -21041,7 +20127,7 @@ export const galleries = [
                 240
               ],
               "hex": "#fafaf0",
-              "percentage": 0.017311827956989247
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -21050,10 +20136,10 @@ export const galleries = [
                 50
               ],
               "hex": "#fabe32",
-              "percentage": 0.0005376344086021505
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 42.09202685714964
+          "colorfulness": "42.092"
         }
       },
       {
@@ -21061,8 +20147,6 @@ export const galleries = [
         "latitude": 41.145489,
         "longitude": -8.6106,
         "createDate": "2025-04-02T10:36:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145489,-8.6106",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21072,7 +20156,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.04794520547945205
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -21081,7 +20165,7 @@ export const galleries = [
                 80
               ],
               "hex": "#966e50",
-              "percentage": 0.015616438356164384
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -21090,10 +20174,10 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.011780821917808219
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 29.244215123554895
+          "colorfulness": "29.244"
         }
       },
       {
@@ -21101,8 +20185,6 @@ export const galleries = [
         "latitude": 41.145467,
         "longitude": -8.610458,
         "createDate": "2025-04-02T10:32:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145467,-8.610458",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21112,7 +20194,7 @@ export const galleries = [
                 60
               ],
               "hex": "#d28c3c",
-              "percentage": 0.02605263157894737
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -21121,7 +20203,7 @@ export const galleries = [
                 140
               ],
               "hex": "#c8aa8c",
-              "percentage": 0.017631578947368422
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -21130,7 +20212,7 @@ export const galleries = [
                 30
               ],
               "hex": "#643c1e",
-              "percentage": 0.009342105263157895
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -21139,10 +20221,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.009210526315789473
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 39.60844044737371
+          "colorfulness": "39.608"
         }
       },
       {
@@ -21150,8 +20232,6 @@ export const galleries = [
         "latitude": 41.145175,
         "longitude": -8.610939,
         "createDate": "2025-04-02T12:20:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145175,-8.610939",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21161,10 +20241,10 @@ export const galleries = [
                 130
               ],
               "hex": "#b49682",
-              "percentage": 0.0448
+              "percentage": "0.045"
             }
           ],
-          "colorfulness": 21.06397612896531
+          "colorfulness": "21.064"
         }
       },
       {
@@ -21172,8 +20252,6 @@ export const galleries = [
         "latitude": 41.145447,
         "longitude": -8.611025,
         "createDate": "2025-03-30T09:25:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.145447,-8.611025",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21183,7 +20261,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.016849315068493152
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -21192,7 +20270,7 @@ export const galleries = [
                 230
               ],
               "hex": "#82c8e6",
-              "percentage": 0.015205479452054794
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -21201,7 +20279,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.014109589041095891
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -21210,10 +20288,10 @@ export const galleries = [
                 200
               ],
               "hex": "#2896c8",
-              "percentage": 0.01136986301369863
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 48.963730370452446
+          "colorfulness": "48.964"
         }
       },
       {
@@ -21221,8 +20299,6 @@ export const galleries = [
         "latitude": 41.143322,
         "longitude": -8.611089,
         "createDate": "2025-04-02T10:44:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143322,-8.611089",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21232,7 +20308,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.03302631578947368
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -21241,7 +20317,7 @@ export const galleries = [
                 190
               ],
               "hex": "#bebebe",
-              "percentage": 0.03236842105263158
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -21250,10 +20326,10 @@ export const galleries = [
                 20
               ],
               "hex": "#3c2814",
-              "percentage": 0.02618421052631579
+              "percentage": "0.026"
             }
           ],
-          "colorfulness": 42.9488159526504
+          "colorfulness": "42.949"
         }
       },
       {
@@ -21261,8 +20337,6 @@ export const galleries = [
         "latitude": 41.142589,
         "longitude": -8.611961,
         "createDate": "2025-03-30T11:37:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.142589,-8.611961",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21272,7 +20346,7 @@ export const galleries = [
                 170
               ],
               "hex": "#0a6eaa",
-              "percentage": 0.07236559139784947
+              "percentage": "0.072"
             },
             {
               "rgb": [
@@ -21281,7 +20355,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.048602150537634406
+              "percentage": "0.049"
             },
             {
               "rgb": [
@@ -21290,10 +20364,10 @@ export const galleries = [
                 40
               ],
               "hex": "#463228",
-              "percentage": 0.012903225806451613
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 59.19542377028998
+          "colorfulness": "59.195"
         }
       },
       {
@@ -21301,8 +20375,6 @@ export const galleries = [
         "latitude": 41.069214,
         "longitude": -8.656706,
         "createDate": "2025-04-01T12:45:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.069214,-8.656706",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21312,7 +20384,7 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.016712328767123287
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -21321,7 +20393,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.014794520547945205
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -21330,10 +20402,10 @@ export const galleries = [
                 190
               ],
               "hex": "#5a96be",
-              "percentage": 0.011780821917808219
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 46.03881906643428
+          "colorfulness": "46.039"
         }
       },
       {
@@ -21341,8 +20413,6 @@ export const galleries = [
         "latitude": 41.143119,
         "longitude": -8.611456,
         "createDate": "2025-04-02T10:46:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143119,-8.611456",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21352,7 +20422,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.033452380952380956
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -21361,7 +20431,7 @@ export const galleries = [
                 150
               ],
               "hex": "#969696",
-              "percentage": 0.030714285714285715
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -21370,10 +20440,10 @@ export const galleries = [
                 70
               ],
               "hex": "#6e5046",
-              "percentage": 0.008333333333333333
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 37.98019954503418
+          "colorfulness": "37.980"
         }
       },
       {
@@ -21381,8 +20451,6 @@ export const galleries = [
         "latitude": 41.143178,
         "longitude": -8.611281,
         "createDate": "2025-04-02T10:45:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143178,-8.611281",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21392,7 +20460,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.04012987012987013
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -21401,7 +20469,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.014155844155844156
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -21410,10 +20478,10 @@ export const galleries = [
                 60
               ],
               "hex": "#64463c",
-              "percentage": 0.00961038961038961
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 39.40882169844153
+          "colorfulness": "39.409"
         }
       },
       {
@@ -21421,8 +20489,6 @@ export const galleries = [
         "latitude": 41.143117,
         "longitude": -8.611461,
         "createDate": "2025-04-02T10:46:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.143117,-8.611461",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21432,7 +20498,7 @@ export const galleries = [
                 170
               ],
               "hex": "#aaaaaa",
-              "percentage": 0.017761194029850748
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -21441,7 +20507,7 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.005970149253731343
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -21450,10 +20516,10 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.005671641791044776
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 37.722329168348644
+          "colorfulness": "37.722"
         }
       },
       {
@@ -21461,8 +20527,6 @@ export const galleries = [
         "latitude": 41.142964,
         "longitude": -8.611731,
         "createDate": "2025-03-30T10:56:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.142964,-8.611731",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21472,7 +20536,7 @@ export const galleries = [
                 200
               ],
               "hex": "#0a8cc8",
-              "percentage": 0.1025
+              "percentage": "0.102"
             },
             {
               "rgb": [
@@ -21481,7 +20545,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.0215
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -21490,7 +20554,7 @@ export const galleries = [
                 240
               ],
               "hex": "#5abef0",
-              "percentage": 0.0155
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -21499,7 +20563,7 @@ export const galleries = [
                 120
               ],
               "hex": "#786e78",
-              "percentage": 0.005125
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -21508,10 +20572,10 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.003125
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 61.147964373572144
+          "colorfulness": "61.148"
         }
       },
       {
@@ -21519,8 +20583,6 @@ export const galleries = [
         "latitude": 41.067256,
         "longitude": -8.657744,
         "createDate": "2025-04-01T11:45:07.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.067256,-8.657744",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21530,7 +20592,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.06776315789473684
+              "percentage": "0.068"
             },
             {
               "rgb": [
@@ -21539,7 +20601,7 @@ export const galleries = [
                 160
               ],
               "hex": "#dcbea0",
-              "percentage": 0.02013157894736842
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -21548,7 +20610,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.008947368421052631
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -21557,10 +20619,10 @@ export const galleries = [
                 70
               ],
               "hex": "#785a46",
-              "percentage": 0.008026315789473683
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 43.34989058773068
+          "colorfulness": "43.350"
         }
       },
       {
@@ -21568,8 +20630,6 @@ export const galleries = [
         "latitude": 41.064475,
         "longitude": -8.657561,
         "createDate": "2025-04-01T12:05:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.064475,-8.657561",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21579,7 +20639,7 @@ export const galleries = [
                 90
               ],
               "hex": "#a0785a",
-              "percentage": 0.017731958762886597
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -21588,7 +20648,7 @@ export const galleries = [
                 230
               ],
               "hex": "#3cb4e6",
-              "percentage": 0.01577319587628866
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -21597,10 +20657,10 @@ export const galleries = [
                 140
               ],
               "hex": "#5a788c",
-              "percentage": 0.0002061855670103093
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 48.5101415477862
+          "colorfulness": "48.510"
         }
       },
       {
@@ -21608,8 +20668,6 @@ export const galleries = [
         "latitude": 41.150239,
         "longitude": -8.610989,
         "createDate": "2025-03-29T17:38:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.150239,-8.610989",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21619,7 +20677,7 @@ export const galleries = [
                 100
               ],
               "hex": "#826e64",
-              "percentage": 0.027906976744186046
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -21628,7 +20686,7 @@ export const galleries = [
                 230
               ],
               "hex": "#b4dce6",
-              "percentage": 0.010232558139534883
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -21637,10 +20695,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.009186046511627907
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 33.618463063937874
+          "colorfulness": "33.618"
         }
       },
       {
@@ -21648,8 +20706,6 @@ export const galleries = [
         "latitude": 41.144675,
         "longitude": -8.612403,
         "createDate": "2025-03-30T18:39:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.144675,-8.612403",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21659,7 +20715,7 @@ export const galleries = [
                 10
               ],
               "hex": "#14000a",
-              "percentage": 0.040933333333333335
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -21668,7 +20724,7 @@ export const galleries = [
                 230
               ],
               "hex": "#dce6e6",
-              "percentage": 0.018
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -21677,7 +20733,7 @@ export const galleries = [
                 190
               ],
               "hex": "#bebebe",
-              "percentage": 0.013733333333333334
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -21686,7 +20742,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.0104
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -21695,10 +20751,10 @@ export const galleries = [
                 80
               ],
               "hex": "#143c50",
-              "percentage": 0.006533333333333334
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 42.14639714870776
+          "colorfulness": "42.146"
         }
       },
       {
@@ -21706,8 +20762,6 @@ export const galleries = [
         "latitude": 41.243625,
         "longitude": -8.670739,
         "createDate": "2025-03-29T15:16:45.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.243625,-8.670739",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21717,7 +20771,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.0227536231884058
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -21726,7 +20780,7 @@ export const galleries = [
                 0
               ],
               "hex": "#820000",
-              "percentage": 0.01971014492753623
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -21735,7 +20789,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.010289855072463768
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -21744,7 +20798,7 @@ export const galleries = [
                 90
               ],
               "hex": "#a06e5a",
-              "percentage": 0.010144927536231883
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -21753,10 +20807,10 @@ export const galleries = [
                 70
               ],
               "hex": "#d24646",
-              "percentage": 0.008985507246376812
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 48.49770429417524
+          "colorfulness": "48.498"
         }
       },
       {
@@ -21764,8 +20818,6 @@ export const galleries = [
         "latitude": 41.151147,
         "longitude": -8.608889,
         "createDate": "2025-04-02T12:31:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.151147,-8.608889",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21775,7 +20827,7 @@ export const galleries = [
                 200
               ],
               "hex": "#dcd2c8",
-              "percentage": 0.0775
+              "percentage": "0.077"
             },
             {
               "rgb": [
@@ -21784,7 +20836,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.0546875
+              "percentage": "0.055"
             },
             {
               "rgb": [
@@ -21793,7 +20845,7 @@ export const galleries = [
                 150
               ],
               "hex": "#789696",
-              "percentage": 0.0040625
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -21802,10 +20854,10 @@ export const galleries = [
                 70
               ],
               "hex": "#aaa046",
-              "percentage": 0.0034375
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 48.74907631381484
+          "colorfulness": "48.749"
         }
       },
       {
@@ -21813,8 +20865,6 @@ export const galleries = [
         "latitude": 41.14225,
         "longitude": -8.611997,
         "createDate": "2025-04-02T10:50:56.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.14225,-8.611997",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21824,7 +20874,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.04857142857142857
+              "percentage": "0.049"
             },
             {
               "rgb": [
@@ -21833,7 +20883,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.047619047619047616
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -21842,7 +20892,7 @@ export const galleries = [
                 190
               ],
               "hex": "#bebebe",
-              "percentage": 0.019365079365079366
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -21851,10 +20901,10 @@ export const galleries = [
                 110
               ],
               "hex": "#8c786e",
-              "percentage": 0.01746031746031746
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": 41.992931747940474
+          "colorfulness": "41.993"
         }
       },
       {
@@ -21862,8 +20912,6 @@ export const galleries = [
         "latitude": 41.144489,
         "longitude": -8.618378,
         "createDate": "2025-04-01T22:04:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.144489,-8.618378",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21873,7 +20921,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.19666666666666666
+              "percentage": "0.197"
             },
             {
               "rgb": [
@@ -21882,7 +20930,7 @@ export const galleries = [
                 100
               ],
               "hex": "#b48c64",
-              "percentage": 0.010384615384615384
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -21891,10 +20939,10 @@ export const galleries = [
                 190
               ],
               "hex": "#6eaabe",
-              "percentage": 0.0001282051282051282
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 37.11685713157143
+          "colorfulness": "37.117"
         }
       },
       {
@@ -21902,8 +20950,6 @@ export const galleries = [
         "latitude": 41.149792,
         "longitude": -8.612272,
         "createDate": "2025-03-29T17:16:56.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.149792,-8.612272",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21913,7 +20959,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.042608695652173914
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -21922,7 +20968,7 @@ export const galleries = [
                 20
               ],
               "hex": "#5a3214",
-              "percentage": 0.012753623188405797
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -21931,7 +20977,7 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.009710144927536232
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -21940,10 +20986,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.007101449275362319
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 31.62764470174801
+          "colorfulness": "31.628"
         }
       },
       {
@@ -21951,8 +20997,6 @@ export const galleries = [
         "latitude": 41.152272,
         "longitude": -8.609019,
         "createDate": "2025-04-02T12:45:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=41.152272,-8.609019",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -21962,7 +21006,7 @@ export const galleries = [
                 80
               ],
               "hex": "#785a50",
-              "percentage": 0.030810810810810812
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -21971,7 +21015,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.018783783783783783
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -21980,7 +21024,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.017027027027027027
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -21989,10 +21033,10 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.012972972972972972
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 38.5176236137543
+          "colorfulness": "38.518"
         }
       }
     ],
@@ -22010,8 +21054,6 @@ export const galleries = [
         "latitude": 48.202706,
         "longitude": 16.435603,
         "createDate": "2025-08-03T10:47:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202706,16.435603",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22021,7 +21063,7 @@ export const galleries = [
                 210
               ],
               "hex": "#dcdcd2",
-              "percentage": 0.09510416666666667
+              "percentage": "0.095"
             },
             {
               "rgb": [
@@ -22030,7 +21072,7 @@ export const galleries = [
                 50
               ],
               "hex": "#968c32",
-              "percentage": 0.012916666666666667
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -22039,7 +21081,7 @@ export const galleries = [
                 30
               ],
               "hex": "#32281e",
-              "percentage": 0.011041666666666667
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -22048,7 +21090,7 @@ export const galleries = [
                 120
               ],
               "hex": "#145078",
-              "percentage": 0.008854166666666666
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -22057,10 +21099,10 @@ export const galleries = [
                 140
               ],
               "hex": "#5a788c",
-              "percentage": 0.005625
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 46.80586108519785
+          "colorfulness": "46.806"
         }
       },
       {
@@ -22068,8 +21110,6 @@ export const galleries = [
         "latitude": 48.197228,
         "longitude": 16.430431,
         "createDate": "2025-08-03T11:04:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.197228,16.430431",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22079,7 +21119,7 @@ export const galleries = [
                 10
               ],
               "hex": "#281e0a",
-              "percentage": 0.02982758620689655
+              "percentage": "0.030"
             },
             {
               "rgb": [
@@ -22088,7 +21128,7 @@ export const galleries = [
                 110
               ],
               "hex": "#c8aa6e",
-              "percentage": 0.016551724137931035
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -22097,10 +21137,10 @@ export const galleries = [
                 220
               ],
               "hex": "#fac8dc",
-              "percentage": 0.003620689655172414
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 37.12757330743246
+          "colorfulness": "37.128"
         }
       },
       {
@@ -22108,8 +21148,6 @@ export const galleries = [
         "latitude": 48.200969,
         "longitude": 16.437844,
         "createDate": "2025-08-03T10:53:25.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.200969,16.437844",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22119,7 +21157,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.11746835443037974
+              "percentage": "0.117"
             },
             {
               "rgb": [
@@ -22128,7 +21166,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.013037974683544304
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -22137,7 +21175,7 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.01050632911392405
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -22146,10 +21184,10 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.009746835443037975
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 33.81218179753295
+          "colorfulness": "33.812"
         }
       },
       {
@@ -22157,8 +21195,6 @@ export const galleries = [
         "latitude": 48.193561,
         "longitude": 16.419475,
         "createDate": "2025-08-03T11:21:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.193561,16.419475",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22168,7 +21204,7 @@ export const galleries = [
                 210
               ],
               "hex": "#64aad2",
-              "percentage": 0.027121212121212122
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -22177,7 +21213,7 @@ export const galleries = [
                 20
               ],
               "hex": "#3c2814",
-              "percentage": 0.01575757575757576
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -22186,7 +21222,7 @@ export const galleries = [
                 130
               ],
               "hex": "#968c82",
-              "percentage": 0.007272727272727273
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -22195,10 +21231,10 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.0022727272727272726
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 35.680828388190285
+          "colorfulness": "35.681"
         }
       },
       {
@@ -22206,8 +21242,6 @@ export const galleries = [
         "latitude": 48.198228,
         "longitude": 16.424553,
         "createDate": "2025-08-03T11:12:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198228,16.424553",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22217,7 +21251,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.03307692307692308
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -22226,7 +21260,7 @@ export const galleries = [
                 10
               ],
               "hex": "#a0140a",
-              "percentage": 0.02523076923076923
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -22235,7 +21269,7 @@ export const galleries = [
                 80
               ],
               "hex": "#8c6e50",
-              "percentage": 0.019230769230769232
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -22244,10 +21278,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0000",
-              "percentage": 0.014
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": 42.916938731554076
+          "colorfulness": "42.917"
         }
       },
       {
@@ -22255,8 +21289,6 @@ export const galleries = [
         "latitude": 48.198094,
         "longitude": 16.423783,
         "createDate": "2025-08-03T11:13:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198094,16.423783",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22266,7 +21298,7 @@ export const galleries = [
                 10
               ],
               "hex": "#140a0a",
-              "percentage": 0.03164556962025317
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -22275,7 +21307,7 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": 0.009367088607594937
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -22284,10 +21316,10 @@ export const galleries = [
                 120
               ],
               "hex": "#b4a078",
-              "percentage": 0.005949367088607595
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 46.17677124101581
+          "colorfulness": "46.177"
         }
       },
       {
@@ -22295,8 +21327,6 @@ export const galleries = [
         "latitude": 48.191547,
         "longitude": 16.420361,
         "createDate": "2025-08-03T11:23:34.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.191547,16.420361",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22306,7 +21336,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.05855263157894737
+              "percentage": "0.059"
             },
             {
               "rgb": [
@@ -22315,7 +21345,7 @@ export const galleries = [
                 20
               ],
               "hex": "#8c7814",
-              "percentage": 0.04381578947368421
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -22324,7 +21354,7 @@ export const galleries = [
                 150
               ],
               "hex": "#dca096",
-              "percentage": 0.031447368421052634
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -22333,10 +21363,10 @@ export const galleries = [
                 30
               ],
               "hex": "#3c321e",
-              "percentage": 0.009078947368421053
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 50.41702894828439
+          "colorfulness": "50.417"
         }
       },
       {
@@ -22344,8 +21374,6 @@ export const galleries = [
         "latitude": 48.200825,
         "longitude": 16.437839,
         "createDate": "2025-08-03T10:53:38.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.200825,16.437839",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22355,7 +21383,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.025454545454545455
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -22364,7 +21392,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.018068181818181817
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -22373,7 +21401,7 @@ export const galleries = [
                 60
               ],
               "hex": "#968c3c",
-              "percentage": 0.010227272727272727
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -22382,10 +21410,10 @@ export const galleries = [
                 140
               ],
               "hex": "#d2b48c",
-              "percentage": 0.0026136363636363636
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 44.962098483718705
+          "colorfulness": "44.962"
         }
       },
       {
@@ -22393,8 +21421,6 @@ export const galleries = [
         "latitude": 48.201942,
         "longitude": 16.436128,
         "createDate": "2025-08-03T10:51:38.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201942,16.436128",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22404,7 +21430,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.01675
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -22413,7 +21439,7 @@ export const galleries = [
                 30
               ],
               "hex": "#32281e",
-              "percentage": 0.014125
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -22422,10 +21448,10 @@ export const galleries = [
                 80
               ],
               "hex": "#b4aa50",
-              "percentage": 0.008625
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 43.242411001945186
+          "colorfulness": "43.242"
         }
       },
       {
@@ -22433,8 +21459,6 @@ export const galleries = [
         "latitude": 48.199567,
         "longitude": 16.437506,
         "createDate": "2025-08-03T10:56:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199567,16.437506",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22444,7 +21468,7 @@ export const galleries = [
                 170
               ],
               "hex": "#96a0aa",
-              "percentage": 0.029384615384615384
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -22453,7 +21477,7 @@ export const galleries = [
                 220
               ],
               "hex": "#dcdcdc",
-              "percentage": 0.025846153846153845
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -22462,10 +21486,10 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.022615384615384617
+              "percentage": "0.023"
             }
           ],
-          "colorfulness": 30.79514767300212
+          "colorfulness": "30.795"
         }
       },
       {
@@ -22473,8 +21497,6 @@ export const galleries = [
         "latitude": 48.19925,
         "longitude": 16.434586,
         "createDate": "2025-08-03T10:58:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.19925,16.434586",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22484,7 +21506,7 @@ export const galleries = [
                 10
               ],
               "hex": "#82640a",
-              "percentage": 0.01825
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -22493,7 +21515,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.00525
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -22502,7 +21524,7 @@ export const galleries = [
                 180
               ],
               "hex": "#bebeb4",
-              "percentage": 0.003875
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -22511,10 +21533,10 @@ export const galleries = [
                 240
               ],
               "hex": "#96c8f0",
-              "percentage": 0.002875
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 38.06816770672821
+          "colorfulness": "38.068"
         }
       },
       {
@@ -22522,8 +21544,6 @@ export const galleries = [
         "latitude": 48.194358,
         "longitude": 16.418822,
         "createDate": "2025-08-03T11:19:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194358,16.418822",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22533,7 +21553,7 @@ export const galleries = [
                 140
               ],
               "hex": "#bea08c",
-              "percentage": 0.08444444444444445
+              "percentage": "0.084"
             },
             {
               "rgb": [
@@ -22542,7 +21562,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.034126984126984124
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -22551,7 +21571,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.015396825396825397
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -22560,10 +21580,10 @@ export const galleries = [
                 70
               ],
               "hex": "#966e46",
-              "percentage": 0.009523809523809525
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 40.64999423854467
+          "colorfulness": "40.650"
         }
       },
       {
@@ -22571,8 +21591,6 @@ export const galleries = [
         "latitude": 48.203106,
         "longitude": 16.434919,
         "createDate": "2025-08-03T10:48:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203106,16.434919",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22582,7 +21600,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.02023809523809524
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -22591,10 +21609,10 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.013333333333333334
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 39.36896364540574
+          "colorfulness": "39.369"
         }
       }
     ],
@@ -22612,8 +21630,6 @@ export const galleries = [
         "latitude": 48.204486,
         "longitude": 16.377731,
         "createDate": "2025-06-14T13:50:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204486,16.377731",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22623,7 +21639,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.04828947368421053
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -22632,7 +21648,7 @@ export const galleries = [
                 230
               ],
               "hex": "#bedce6",
-              "percentage": 0.018157894736842106
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -22641,10 +21657,10 @@ export const galleries = [
                 30
               ],
               "hex": "#32281e",
-              "percentage": 0.01644736842105263
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 40.88245277163343
+          "colorfulness": "40.882"
         }
       },
       {
@@ -22652,8 +21668,6 @@ export const galleries = [
         "latitude": 48.203475,
         "longitude": 16.364478,
         "createDate": "2025-06-14T12:46:18.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203475,16.364478",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22663,7 +21677,7 @@ export const galleries = [
                 170
               ],
               "hex": "#a0a0aa",
-              "percentage": 0.023972602739726026
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -22672,7 +21686,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.023835616438356164
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -22681,7 +21695,7 @@ export const galleries = [
                 80
               ],
               "hex": "#5a5050",
-              "percentage": 0.009726027397260273
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -22690,7 +21704,7 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.00821917808219178
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -22699,10 +21713,10 @@ export const galleries = [
                 180
               ],
               "hex": "#0082b4",
-              "percentage": 0.00041095890410958907
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 34.087992863979274
+          "colorfulness": "34.088"
         }
       },
       {
@@ -22710,8 +21724,6 @@ export const galleries = [
         "latitude": 48.202825,
         "longitude": 16.376075,
         "createDate": "2025-06-14T13:35:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202825,16.376075",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22721,7 +21733,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.030505050505050504
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -22730,7 +21742,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.008282828282828282
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -22739,7 +21751,7 @@ export const galleries = [
                 170
               ],
               "hex": "#f0d2aa",
-              "percentage": 0.005353535353535353
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -22748,10 +21760,10 @@ export const galleries = [
                 240
               ],
               "hex": "#82c8f0",
-              "percentage": 0.00393939393939394
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 38.909901927341444
+          "colorfulness": "38.910"
         }
       },
       {
@@ -22759,8 +21771,6 @@ export const galleries = [
         "latitude": 48.2024,
         "longitude": 16.375597,
         "createDate": "2025-06-14T13:29:05.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.2024,16.375597",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22770,7 +21780,7 @@ export const galleries = [
                 190
               ],
               "hex": "#0a82be",
-              "percentage": 0.04846153846153846
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -22779,7 +21789,7 @@ export const galleries = [
                 180
               ],
               "hex": "#b4b4b4",
-              "percentage": 0.023846153846153847
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -22788,7 +21798,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.015769230769230768
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -22797,7 +21807,7 @@ export const galleries = [
                 110
               ],
               "hex": "#fa5a6e",
-              "percentage": 0.000641025641025641
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -22806,10 +21816,10 @@ export const galleries = [
                 40
               ],
               "hex": "#c83228",
-              "percentage": 0.0003846153846153846
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 55.151663456466515
+          "colorfulness": "55.152"
         }
       },
       {
@@ -22817,8 +21827,6 @@ export const galleries = [
         "latitude": 48.206589,
         "longitude": 16.380058,
         "createDate": "2025-06-14T13:59:02.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.206589,16.380058",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22828,7 +21836,7 @@ export const galleries = [
                 60
               ],
               "hex": "#323c3c",
-              "percentage": 0.02218181818181818
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -22837,7 +21845,7 @@ export const galleries = [
                 250
               ],
               "hex": "#c8e6fa",
-              "percentage": 0.009272727272727273
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -22846,7 +21854,7 @@ export const galleries = [
                 170
               ],
               "hex": "#a0a0aa",
-              "percentage": 0.006363636363636364
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -22855,7 +21863,7 @@ export const galleries = [
                 180
               ],
               "hex": "#d2c8b4",
-              "percentage": 0.005818181818181818
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -22864,10 +21872,10 @@ export const galleries = [
                 160
               ],
               "hex": "#285aa0",
-              "percentage": 0.0023636363636363638
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 38.48940472232352
+          "colorfulness": "38.489"
         }
       },
       {
@@ -22875,8 +21883,6 @@ export const galleries = [
         "latitude": 48.201881,
         "longitude": 16.374986,
         "createDate": "2025-06-14T13:25:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.201881,16.374986",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22886,7 +21892,7 @@ export const galleries = [
                 180
               ],
               "hex": "#1e82b4",
-              "percentage": 0.07073170731707316
+              "percentage": "0.071"
             },
             {
               "rgb": [
@@ -22895,7 +21901,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.020121951219512196
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -22904,7 +21910,7 @@ export const galleries = [
                 80
               ],
               "hex": "#fa8c50",
-              "percentage": 0.0024390243902439024
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -22913,7 +21919,7 @@ export const galleries = [
                 10
               ],
               "hex": "#963c0a",
-              "percentage": 0.0021951219512195124
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -22922,10 +21928,10 @@ export const galleries = [
                 170
               ],
               "hex": "#96aaaa",
-              "percentage": 0.002073170731707317
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 53.864163759113545
+          "colorfulness": "53.864"
         }
       },
       {
@@ -22933,8 +21939,6 @@ export const galleries = [
         "latitude": 48.205611,
         "longitude": 16.361461,
         "createDate": "2025-06-14T12:37:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205611,16.361461",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22944,7 +21948,7 @@ export const galleries = [
                 60
               ],
               "hex": "#32323c",
-              "percentage": 0.018333333333333333
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -22953,7 +21957,7 @@ export const galleries = [
                 120
               ],
               "hex": "#646e78",
-              "percentage": 0.018125
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -22962,7 +21966,7 @@ export const galleries = [
                 240
               ],
               "hex": "#a0d2f0",
-              "percentage": 0.015
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -22971,10 +21975,10 @@ export const galleries = [
                 170
               ],
               "hex": "#328caa",
-              "percentage": 0.0008333333333333334
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 34.631920902858155
+          "colorfulness": "34.632"
         }
       },
       {
@@ -22982,8 +21986,6 @@ export const galleries = [
         "latitude": 48.202019,
         "longitude": 16.375325,
         "createDate": "2025-06-14T13:27:33.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.202019,16.375325",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -22993,7 +21995,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.05965909090909091
+              "percentage": "0.060"
             },
             {
               "rgb": [
@@ -23002,7 +22004,7 @@ export const galleries = [
                 210
               ],
               "hex": "#3ca0d2",
-              "percentage": 0.02943181818181818
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -23011,7 +22013,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.018295454545454545
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -23020,7 +22022,7 @@ export const galleries = [
                 180
               ],
               "hex": "#d2beb4",
-              "percentage": 0.013863636363636364
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -23029,10 +22031,10 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.005681818181818182
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 53.92219173147647
+          "colorfulness": "53.922"
         }
       },
       {
@@ -23040,8 +22042,6 @@ export const galleries = [
         "latitude": 48.205414,
         "longitude": 16.378797,
         "createDate": "2025-06-14T13:52:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.205414,16.378797",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23051,7 +22051,7 @@ export const galleries = [
                 40
               ],
               "hex": "#3c3228",
-              "percentage": 0.022238805970149253
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -23060,7 +22060,7 @@ export const galleries = [
                 230
               ],
               "hex": "#c8dce6",
-              "percentage": 0.01761194029850746
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -23069,7 +22069,7 @@ export const galleries = [
                 170
               ],
               "hex": "#c8b4aa",
-              "percentage": 0.005373134328358209
+              "percentage": "0.005"
             },
             {
               "rgb": [
@@ -23078,10 +22078,10 @@ export const galleries = [
                 70
               ],
               "hex": "#fa6e46",
-              "percentage": 0.00029850746268656717
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 36.60253531092501
+          "colorfulness": "36.603"
         }
       }
     ],
@@ -23099,8 +22099,6 @@ export const galleries = [
         "latitude": 47.811672,
         "longitude": 13.025536,
         "createDate": "2025-05-17T18:15:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.811672,13.025536",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23110,7 +22108,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.027083333333333334
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -23119,7 +22117,7 @@ export const galleries = [
                 40
               ],
               "hex": "#5a3c28",
-              "percentage": 0.015416666666666667
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -23128,10 +22126,10 @@ export const galleries = [
                 110
               ],
               "hex": "#a0826e",
-              "percentage": 0.014722222222222222
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 33.59360602028266
+          "colorfulness": "33.594"
         }
       },
       {
@@ -23139,8 +22137,6 @@ export const galleries = [
         "latitude": 47.807639,
         "longitude": 13.041683,
         "createDate": "2024-04-06T17:21:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.807639,13.041683",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23150,7 +22146,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.04171875
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -23159,7 +22155,7 @@ export const galleries = [
                 180
               ],
               "hex": "#96aab4",
-              "percentage": 0.0321875
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -23168,10 +22164,10 @@ export const galleries = [
                 50
               ],
               "hex": "#8c6432",
-              "percentage": 0.0065625
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 44.22026132946487
+          "colorfulness": "44.220"
         }
       },
       {
@@ -23179,8 +22175,6 @@ export const galleries = [
         "latitude": 47.814172,
         "longitude": 13.026403,
         "createDate": "2025-05-17T18:21:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.814172,13.026403",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23190,7 +22184,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.07203125
+              "percentage": "0.072"
             },
             {
               "rgb": [
@@ -23199,7 +22193,7 @@ export const galleries = [
                 110
               ],
               "hex": "#8c786e",
-              "percentage": 0.01359375
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -23208,7 +22202,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.00734375
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -23217,7 +22211,7 @@ export const galleries = [
                 90
               ],
               "hex": "#5a505a",
-              "percentage": 0.00578125
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -23226,10 +22220,10 @@ export const galleries = [
                 10
               ],
               "hex": "#785a0a",
-              "percentage": 0.0046875
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 35.69820068049054
+          "colorfulness": "35.698"
         }
       },
       {
@@ -23237,8 +22231,6 @@ export const galleries = [
         "latitude": 47.944294,
         "longitude": 12.935275,
         "createDate": "2024-05-19T18:42:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.944294,12.935275",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23248,7 +22240,7 @@ export const galleries = [
                 150
               ],
               "hex": "#e6be96",
-              "percentage": 0.06230769230769231
+              "percentage": "0.062"
             },
             {
               "rgb": [
@@ -23257,10 +22249,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e1400",
-              "percentage": 0.015256410256410256
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 40.40536613440904
+          "colorfulness": "40.405"
         }
       },
       {
@@ -23268,8 +22260,6 @@ export const galleries = [
         "latitude": 47.816656,
         "longitude": 13.025656,
         "createDate": "2025-05-17T17:19:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.816656,13.025656",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23279,7 +22269,7 @@ export const galleries = [
                 20
               ],
               "hex": "#462814",
-              "percentage": 0.04541176470588235
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -23288,7 +22278,7 @@ export const galleries = [
                 120
               ],
               "hex": "#beaa78",
-              "percentage": 0.011294117647058824
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -23297,7 +22287,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.00988235294117647
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -23306,10 +22296,10 @@ export const galleries = [
                 180
               ],
               "hex": "#1e82b4",
-              "percentage": 0.00035294117647058826
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 41.404639279273134
+          "colorfulness": "41.405"
         }
       },
       {
@@ -23317,8 +22307,6 @@ export const galleries = [
         "latitude": 47.813194,
         "longitude": 13.044628,
         "createDate": "2025-05-18T09:32:51.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.813194,13.044628",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23328,7 +22316,7 @@ export const galleries = [
                 160
               ],
               "hex": "#beaaa0",
-              "percentage": 0.07546511627906977
+              "percentage": "0.075"
             },
             {
               "rgb": [
@@ -23337,7 +22325,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.031162790697674417
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -23346,7 +22334,7 @@ export const galleries = [
                 200
               ],
               "hex": "#1e8cc8",
-              "percentage": 0.009069767441860464
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -23355,7 +22343,7 @@ export const galleries = [
                 10
               ],
               "hex": "#281e0a",
-              "percentage": 0.007093023255813954
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -23364,10 +22352,10 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.006744186046511628
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 45.53800148639491
+          "colorfulness": "45.538"
         }
       },
       {
@@ -23375,8 +22363,6 @@ export const galleries = [
         "latitude": 47.817222,
         "longitude": 13.026694,
         "createDate": "2025-05-17T17:49:45.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.817222,13.026694",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23386,7 +22372,7 @@ export const galleries = [
                 50
               ],
               "hex": "#645032",
-              "percentage": 0.020813953488372092
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -23395,10 +22381,10 @@ export const galleries = [
                 230
               ],
               "hex": "#b4c8e6",
-              "percentage": 0.006627906976744186
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 31.881522096655136
+          "colorfulness": "31.882"
         }
       },
       {
@@ -23406,8 +22392,6 @@ export const galleries = [
         "latitude": 47.817139,
         "longitude": 13.026803,
         "createDate": "2025-05-17T17:50:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.817139,13.026803",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23417,7 +22401,7 @@ export const galleries = [
                 70
               ],
               "hex": "#5a4646",
-              "percentage": 0.07233333333333333
+              "percentage": "0.072"
             },
             {
               "rgb": [
@@ -23426,7 +22410,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.07122222222222223
+              "percentage": "0.071"
             },
             {
               "rgb": [
@@ -23435,7 +22419,7 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.016444444444444446
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -23444,10 +22428,10 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.008666666666666666
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 34.826120762849605
+          "colorfulness": "34.826"
         }
       },
       {
@@ -23455,8 +22439,6 @@ export const galleries = [
         "latitude": 47.815106,
         "longitude": 13.025831,
         "createDate": "2025-05-17T18:23:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.815106,13.025831",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23466,7 +22448,7 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.08709677419354839
+              "percentage": "0.087"
             },
             {
               "rgb": [
@@ -23475,10 +22457,10 @@ export const galleries = [
                 40
               ],
               "hex": "#463228",
-              "percentage": 0.014946236559139785
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 32.24590623159402
+          "colorfulness": "32.246"
         }
       },
       {
@@ -23486,8 +22468,6 @@ export const galleries = [
         "latitude": 47.796172,
         "longitude": 13.025944,
         "createDate": "2025-05-18T11:49:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.796172,13.025944",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23497,7 +22477,7 @@ export const galleries = [
                 160
               ],
               "hex": "#beb4a0",
-              "percentage": 0.034
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -23506,7 +22486,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.014923076923076923
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -23515,7 +22495,7 @@ export const galleries = [
                 50
               ],
               "hex": "#823c32",
-              "percentage": 0.010615384615384615
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -23524,10 +22504,10 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.009384615384615385
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 34.21868238464202
+          "colorfulness": "34.219"
         }
       },
       {
@@ -23535,8 +22515,6 @@ export const galleries = [
         "latitude": 47.814,
         "longitude": 13.031281,
         "createDate": "2025-05-17T17:57:38.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.814,13.031281",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23546,7 +22524,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.047066666666666666
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -23555,7 +22533,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.037066666666666664
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -23564,10 +22542,10 @@ export const galleries = [
                 70
               ],
               "hex": "#966446",
-              "percentage": 0.011733333333333333
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 48.89684371264328
+          "colorfulness": "48.897"
         }
       },
       {
@@ -23575,8 +22553,6 @@ export const galleries = [
         "latitude": 47.794317,
         "longitude": 13.024908,
         "createDate": "2025-05-18T10:35:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.794317,13.024908",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23586,7 +22562,7 @@ export const galleries = [
                 210
               ],
               "hex": "#c8d2d2",
-              "percentage": 0.0275
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -23595,7 +22571,7 @@ export const galleries = [
                 110
               ],
               "hex": "#be966e",
-              "percentage": 0.023863636363636365
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -23604,7 +22580,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.012613636363636363
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -23613,10 +22589,10 @@ export const galleries = [
                 10
               ],
               "hex": "#8c5a0a",
-              "percentage": 0.007613636363636363
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 41.80020772640571
+          "colorfulness": "41.800"
         }
       },
       {
@@ -23624,8 +22600,6 @@ export const galleries = [
         "latitude": 47.811531,
         "longitude": 13.025461,
         "createDate": "2025-05-17T18:16:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.811531,13.025461",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23635,7 +22609,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.0324
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -23644,7 +22618,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.028533333333333334
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -23653,7 +22627,7 @@ export const galleries = [
                 110
               ],
               "hex": "#96786e",
-              "percentage": 0.019466666666666667
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -23662,10 +22636,10 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.014933333333333333
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 39.47627474770576
+          "colorfulness": "39.476"
         }
       },
       {
@@ -23673,8 +22647,6 @@ export const galleries = [
         "latitude": 47.815144,
         "longitude": 13.030261,
         "createDate": "2025-05-17T17:55:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.815144,13.030261",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23684,7 +22656,7 @@ export const galleries = [
                 70
               ],
               "hex": "#785a46",
-              "percentage": 0.03670588235294118
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -23693,7 +22665,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.03588235294117647
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -23702,7 +22674,7 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": 0.03576470588235294
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -23711,10 +22683,10 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.010941176470588235
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 40.16275388408766
+          "colorfulness": "40.163"
         }
       },
       {
@@ -23722,8 +22694,6 @@ export const galleries = [
         "latitude": 47.813147,
         "longitude": 13.026411,
         "createDate": "2025-05-18T08:11:26.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.813147,13.026411",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23733,7 +22703,7 @@ export const galleries = [
                 20
               ],
               "hex": "#3c2814",
-              "percentage": 0.05268041237113402
+              "percentage": "0.053"
             },
             {
               "rgb": [
@@ -23742,7 +22712,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.040927835051546395
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -23751,7 +22721,7 @@ export const galleries = [
                 230
               ],
               "hex": "#b4d2e6",
-              "percentage": 0.021030927835051547
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -23760,10 +22730,10 @@ export const galleries = [
                 160
               ],
               "hex": "#beaaa0",
-              "percentage": 0.018762886597938143
+              "percentage": "0.019"
             }
           ],
-          "colorfulness": 43.12015753143201
+          "colorfulness": "43.120"
         }
       },
       {
@@ -23771,8 +22741,6 @@ export const galleries = [
         "latitude": 47.814367,
         "longitude": 13.026233,
         "createDate": "2025-05-17T18:22:22.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47.814367,13.026233",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23782,7 +22750,7 @@ export const galleries = [
                 200
               ],
               "hex": "#c8c8c8",
-              "percentage": 0.0462
+              "percentage": "0.046"
             },
             {
               "rgb": [
@@ -23791,7 +22759,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.0353
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -23800,10 +22768,10 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.0236
+              "percentage": "0.024"
             }
           ],
-          "colorfulness": 38.436687802504984
+          "colorfulness": "38.437"
         }
       }
     ],
@@ -23821,8 +22789,6 @@ export const galleries = [
         "latitude": 48.158589,
         "longitude": 12.832308,
         "createDate": "2025-05-16T17:48:20.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158589,12.832308",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23832,7 +22798,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.07666666666666666
+              "percentage": "0.077"
             },
             {
               "rgb": [
@@ -23841,7 +22807,7 @@ export const galleries = [
                 120
               ],
               "hex": "#aa8c78",
-              "percentage": 0.025866666666666666
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -23850,10 +22816,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.022
+              "percentage": "0.022"
             }
           ],
-          "colorfulness": 39.71633357180508
+          "colorfulness": "39.716"
         }
       },
       {
@@ -23861,8 +22827,6 @@ export const galleries = [
         "latitude": 48.859294,
         "longitude": 15.217844,
         "createDate": "2024-07-14T06:59:38.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.859294,15.217844",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23872,7 +22836,7 @@ export const galleries = [
                 190
               ],
               "hex": "#bebebe",
-              "percentage": 0.07181818181818182
+              "percentage": "0.072"
             },
             {
               "rgb": [
@@ -23881,10 +22845,10 @@ export const galleries = [
                 40
               ],
               "hex": "#463228",
-              "percentage": 0.038181818181818185
+              "percentage": "0.038"
             }
           ],
-          "colorfulness": 47.49625962151736
+          "colorfulness": "47.496"
         }
       },
       {
@@ -23892,8 +22856,6 @@ export const galleries = [
         "latitude": 48.169742,
         "longitude": 16.416686,
         "createDate": "2025-05-11T17:54:05.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169742,16.416686",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23903,7 +22865,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.10489583333333333
+              "percentage": "0.105"
             },
             {
               "rgb": [
@@ -23912,7 +22874,7 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.058854166666666666
+              "percentage": "0.059"
             },
             {
               "rgb": [
@@ -23921,10 +22883,10 @@ export const galleries = [
                 120
               ],
               "hex": "#aa9678",
-              "percentage": 0.0011458333333333333
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 49.56164872196388
+          "colorfulness": "49.562"
         }
       },
       {
@@ -23932,8 +22894,6 @@ export const galleries = [
         "latitude": 48.298211,
         "longitude": 16.422322,
         "createDate": "2024-04-24T16:09:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.298211,16.422322",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23943,7 +22903,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.15063157894736842
+              "percentage": "0.151"
             },
             {
               "rgb": [
@@ -23952,7 +22912,7 @@ export const galleries = [
                 30
               ],
               "hex": "#3c281e",
-              "percentage": 0.014736842105263158
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -23961,10 +22921,10 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.002842105263157895
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 36.71686327588421
+          "colorfulness": "36.717"
         }
       },
       {
@@ -23972,8 +22932,6 @@ export const galleries = [
         "latitude": 49.013631,
         "longitude": 13.901269,
         "createDate": "2024-02-18T08:09:11.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=49.013631,13.901269",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -23983,7 +22941,7 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": 0.047066666666666666
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -23992,7 +22950,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.041466666666666666
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -24001,10 +22959,10 @@ export const galleries = [
                 70
               ],
               "hex": "#5a4646",
-              "percentage": 0.021733333333333334
+              "percentage": "0.022"
             }
           ],
-          "colorfulness": 33.02270237298187
+          "colorfulness": "33.023"
         }
       },
       {
@@ -24012,8 +22970,6 @@ export const galleries = [
         "latitude": 48.859253,
         "longitude": 15.219978,
         "createDate": "2024-07-12T20:34:23.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.859253,15.219978",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24023,7 +22979,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.07917808219178082
+              "percentage": "0.079"
             },
             {
               "rgb": [
@@ -24032,7 +22988,7 @@ export const galleries = [
                 140
               ],
               "hex": "#0a508c",
-              "percentage": 0.05684931506849315
+              "percentage": "0.057"
             },
             {
               "rgb": [
@@ -24041,7 +22997,7 @@ export const galleries = [
                 0
               ],
               "hex": "#965000",
-              "percentage": 0.04684931506849315
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -24050,7 +23006,7 @@ export const galleries = [
                 90
               ],
               "hex": "#dca05a",
-              "percentage": 0.001095890410958904
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -24059,10 +23015,10 @@ export const galleries = [
                 200
               ],
               "hex": "#faf0c8",
-              "percentage": 0.0008219178082191781
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 42.163136559554964
+          "colorfulness": "42.163"
         }
       },
       {
@@ -24070,8 +23026,6 @@ export const galleries = [
         "latitude": 48.194011,
         "longitude": 16.370528,
         "createDate": "2025-07-06T06:19:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194011,16.370528",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24081,7 +23035,7 @@ export const galleries = [
                 160
               ],
               "hex": "#beaaa0",
-              "percentage": 0.06853333333333333
+              "percentage": "0.069"
             },
             {
               "rgb": [
@@ -24090,7 +23044,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.008
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -24099,7 +23053,7 @@ export const galleries = [
                 60
               ],
               "hex": "#64463c",
-              "percentage": 0.005733333333333333
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -24108,10 +23062,10 @@ export const galleries = [
                 100
               ],
               "hex": "#001e64",
-              "percentage": 0.0024
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 34.038315495255176
+          "colorfulness": "34.038"
         }
       },
       {
@@ -24119,8 +23073,6 @@ export const galleries = [
         "latitude": 48.860578,
         "longitude": 15.211486,
         "createDate": "2024-07-12T19:40:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.860578,15.211486",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24130,7 +23082,7 @@ export const galleries = [
                 20
               ],
               "hex": "#321e14",
-              "percentage": 0.2617283950617284
+              "percentage": "0.262"
             },
             {
               "rgb": [
@@ -24139,7 +23091,7 @@ export const galleries = [
                 170
               ],
               "hex": "#788caa",
-              "percentage": 0.030987654320987653
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -24148,10 +23100,10 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.003950617283950617
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 36.74063908401863
+          "colorfulness": "36.741"
         }
       },
       {
@@ -24159,8 +23111,6 @@ export const galleries = [
         "latitude": 48.185386,
         "longitude": 16.326622,
         "createDate": "2024-06-28T14:37:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185386,16.326622",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24170,7 +23120,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.2328
+              "percentage": "0.233"
             },
             {
               "rgb": [
@@ -24179,7 +23129,7 @@ export const galleries = [
                 30
               ],
               "hex": "#3c281e",
-              "percentage": 0.020933333333333335
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -24188,7 +23138,7 @@ export const galleries = [
                 70
               ],
               "hex": "#785a46",
-              "percentage": 0.013466666666666667
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -24197,10 +23147,10 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.0076
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 46.28658854864995
+          "colorfulness": "46.287"
         }
       }
     ],
@@ -24218,8 +23168,6 @@ export const galleries = [
         "latitude": 48.195586,
         "longitude": 16.420492,
         "createDate": "2025-08-03T11:17:20.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.195586,16.420492",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24229,7 +23177,7 @@ export const galleries = [
                 80
               ],
               "hex": "#aa8c50",
-              "percentage": 0.016721311475409836
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -24238,7 +23186,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.01180327868852459
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -24247,7 +23195,7 @@ export const galleries = [
                 20
               ],
               "hex": "#463214",
-              "percentage": 0.009508196721311476
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -24256,10 +23204,10 @@ export const galleries = [
                 230
               ],
               "hex": "#78bee6",
-              "percentage": 0.003278688524590164
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 36.902104744475714
+          "colorfulness": "36.902"
         }
       },
       {
@@ -24267,8 +23215,6 @@ export const galleries = [
         "latitude": 48.176483,
         "longitude": 16.424428,
         "createDate": "2024-08-17T13:26:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176483,16.424428",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24278,7 +23224,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.07140625
+              "percentage": "0.071"
             },
             {
               "rgb": [
@@ -24287,7 +23233,7 @@ export const galleries = [
                 40
               ],
               "hex": "#504628",
-              "percentage": 0.02578125
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -24296,10 +23242,10 @@ export const galleries = [
                 120
               ],
               "hex": "#c8a078",
-              "percentage": 0.008125
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 40.458066443007674
+          "colorfulness": "40.458"
         }
       },
       {
@@ -24307,8 +23253,6 @@ export const galleries = [
         "latitude": 48.203983,
         "longitude": 16.367647,
         "createDate": "2025-07-27T09:31:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203983,16.367647",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24318,7 +23262,7 @@ export const galleries = [
                 10
               ],
               "hex": "#140a0a",
-              "percentage": 0.1480327868852459
+              "percentage": "0.148"
             },
             {
               "rgb": [
@@ -24327,10 +23271,10 @@ export const galleries = [
                 130
               ],
               "hex": "#c8a082",
-              "percentage": 0.01
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 41.537448756252
+          "colorfulness": "41.537"
         }
       },
       {
@@ -24338,8 +23282,6 @@ export const galleries = [
         "latitude": 48.198944,
         "longitude": 16.426036,
         "createDate": "2025-08-03T11:10:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.198944,16.426036",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24349,7 +23291,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.03477611940298508
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -24358,7 +23300,7 @@ export const galleries = [
                 220
               ],
               "hex": "#faf0dc",
-              "percentage": 0.026417910447761195
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -24367,7 +23309,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.02044776119402985
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -24376,7 +23318,7 @@ export const galleries = [
                 90
               ],
               "hex": "#a0785a",
-              "percentage": 0.020298507462686566
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -24385,10 +23327,10 @@ export const galleries = [
                 190
               ],
               "hex": "#3c96be",
-              "percentage": 0.00014925373134328358
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 38.852262551914585
+          "colorfulness": "38.852"
         }
       },
       {
@@ -24396,8 +23338,6 @@ export const galleries = [
         "latitude": 48.173625,
         "longitude": 16.417025,
         "createDate": "2025-07-14T18:46:56.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.173625,16.417025",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24407,7 +23347,7 @@ export const galleries = [
                 220
               ],
               "hex": "#8cbedc",
-              "percentage": 0.05657534246575342
+              "percentage": "0.057"
             },
             {
               "rgb": [
@@ -24416,7 +23356,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.0163013698630137
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -24425,7 +23365,7 @@ export const galleries = [
                 90
               ],
               "hex": "#6e5a5a",
-              "percentage": 0.012876712328767123
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -24434,10 +23374,10 @@ export const galleries = [
                 40
               ],
               "hex": "#3c3228",
-              "percentage": 0.0064383561643835616
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 36.28292381904337
+          "colorfulness": "36.283"
         }
       },
       {
@@ -24445,8 +23385,6 @@ export const galleries = [
         "latitude": 48.168872,
         "longitude": 16.424133,
         "createDate": "2025-07-27T13:18:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.168872,16.424133",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24456,7 +23394,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.03914893617021276
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -24465,10 +23403,10 @@ export const galleries = [
                 110
               ],
               "hex": "#6e646e",
-              "percentage": 0.011914893617021277
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 27.270131383597434
+          "colorfulness": "27.270"
         }
       },
       {
@@ -24476,8 +23414,6 @@ export const galleries = [
         "latitude": 48.169353,
         "longitude": 16.423528,
         "createDate": "2025-07-26T12:06:15.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169353,16.423528",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24487,7 +23423,7 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.0696875
+              "percentage": "0.070"
             },
             {
               "rgb": [
@@ -24496,7 +23432,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.0246875
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -24505,10 +23441,10 @@ export const galleries = [
                 70
               ],
               "hex": "#504646",
-              "percentage": 0.00671875
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 34.855694045216
+          "colorfulness": "34.856"
         }
       },
       {
@@ -24516,8 +23452,6 @@ export const galleries = [
         "latitude": 48.169353,
         "longitude": 16.416106,
         "createDate": "2025-08-02T11:31:53.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169353,16.416106",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24527,7 +23461,7 @@ export const galleries = [
                 120
               ],
               "hex": "#a08c78",
-              "percentage": 0.11
+              "percentage": "0.110"
             },
             {
               "rgb": [
@@ -24536,7 +23470,7 @@ export const galleries = [
                 140
               ],
               "hex": "#faf08c",
-              "percentage": 0.024795918367346938
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -24545,10 +23479,10 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.005
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 22.920197643840797
+          "colorfulness": "22.920"
         }
       },
       {
@@ -24556,8 +23490,6 @@ export const galleries = [
         "latitude": 48.194,
         "longitude": 16.326,
         "createDate": "2024-07-21T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194,16.326",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24567,7 +23499,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.2282278481012658
+              "percentage": "0.228"
             },
             {
               "rgb": [
@@ -24576,7 +23508,7 @@ export const galleries = [
                 60
               ],
               "hex": "#78643c",
-              "percentage": 0.02911392405063291
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -24585,7 +23517,7 @@ export const galleries = [
                 110
               ],
               "hex": "#dcaa6e",
-              "percentage": 0.02569620253164557
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -24594,10 +23526,10 @@ export const galleries = [
                 40
               ],
               "hex": "#d23c28",
-              "percentage": 0.016455696202531647
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 43.17138547126533
+          "colorfulness": "43.171"
         }
       },
       {
@@ -24605,8 +23537,6 @@ export const galleries = [
         "latitude": 48.209703,
         "longitude": 16.359542,
         "createDate": "2025-05-05T07:40:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.209703,16.359542",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24616,7 +23546,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.048591549295774646
+              "percentage": "0.049"
             },
             {
               "rgb": [
@@ -24625,7 +23555,7 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.048591549295774646
+              "percentage": "0.049"
             },
             {
               "rgb": [
@@ -24634,7 +23564,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.01056338028169014
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -24643,7 +23573,7 @@ export const galleries = [
                 70
               ],
               "hex": "#dc8c46",
-              "percentage": 0.0014084507042253522
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -24652,10 +23582,10 @@ export const galleries = [
                 50
               ],
               "hex": "#dc4632",
-              "percentage": 0.0011267605633802818
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 44.75027600591947
+          "colorfulness": "44.750"
         }
       },
       {
@@ -24663,8 +23593,6 @@ export const galleries = [
         "latitude": 48.231892,
         "longitude": 16.390422,
         "createDate": "2025-07-15T16:49:41.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.231892,16.390422",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24674,7 +23602,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.039480519480519484
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -24683,10 +23611,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.03298701298701299
+              "percentage": "0.033"
             }
           ],
-          "colorfulness": 44.74070956076025
+          "colorfulness": "44.741"
         }
       },
       {
@@ -24694,8 +23622,6 @@ export const galleries = [
         "latitude": 48.203919,
         "longitude": 16.367383,
         "createDate": "2025-07-27T10:03:35.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203919,16.367383",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24705,7 +23631,7 @@ export const galleries = [
                 200
               ],
               "hex": "#f0dcc8",
-              "percentage": 0.027647058823529413
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -24714,7 +23640,7 @@ export const galleries = [
                 10
               ],
               "hex": "#46320a",
-              "percentage": 0.013529411764705882
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -24723,7 +23649,7 @@ export const galleries = [
                 150
               ],
               "hex": "#a08296",
-              "percentage": 0.00823529411764706
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -24732,7 +23658,7 @@ export const galleries = [
                 80
               ],
               "hex": "#968250",
-              "percentage": 0.007176470588235294
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -24741,10 +23667,10 @@ export const galleries = [
                 170
               ],
               "hex": "#006eaa",
-              "percentage": 0.0016470588235294118
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 45.12152926311626
+          "colorfulness": "45.122"
         }
       },
       {
@@ -24752,8 +23678,6 @@ export const galleries = [
         "latitude": 48.185264,
         "longitude": 16.417744,
         "createDate": "2025-08-03T11:51:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185264,16.417744",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24763,7 +23687,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6f0e6",
-              "percentage": 0.06743589743589744
+              "percentage": "0.067"
             },
             {
               "rgb": [
@@ -24772,7 +23696,7 @@ export const galleries = [
                 80
               ],
               "hex": "#785a50",
-              "percentage": 0.012564102564102564
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -24781,10 +23705,10 @@ export const galleries = [
                 90
               ],
               "hex": "#fadc5a",
-              "percentage": 0.007692307692307693
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 39.018253552154164
+          "colorfulness": "39.018"
         }
       },
       {
@@ -24792,8 +23716,6 @@ export const galleries = [
         "latitude": 48.204108,
         "longitude": 16.367386,
         "createDate": "2025-07-27T10:03:57.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204108,16.367386",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24803,7 +23725,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.08873417721518988
+              "percentage": "0.089"
             },
             {
               "rgb": [
@@ -24812,7 +23734,7 @@ export const galleries = [
                 30
               ],
               "hex": "#82781e",
-              "percentage": 0.01607594936708861
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -24821,7 +23743,7 @@ export const galleries = [
                 150
               ],
               "hex": "#beaa96",
-              "percentage": 0.010253164556962025
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -24830,7 +23752,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.008227848101265823
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -24839,10 +23761,10 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.005569620253164557
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 48.1047959872044
+          "colorfulness": "48.105"
         }
       },
       {
@@ -24850,8 +23772,6 @@ export const galleries = [
         "latitude": 48.175575,
         "longitude": 16.407339,
         "createDate": "2025-07-26T15:39:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.175575,16.407339",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24861,7 +23781,7 @@ export const galleries = [
                 120
               ],
               "hex": "#968278",
-              "percentage": 0.03648936170212766
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -24870,10 +23790,10 @@ export const galleries = [
                 30
               ],
               "hex": "#503c1e",
-              "percentage": 0.004468085106382979
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 29.088107552364217
+          "colorfulness": "29.088"
         }
       },
       {
@@ -24881,8 +23801,6 @@ export const galleries = [
         "latitude": 48.167661,
         "longitude": 16.418339,
         "createDate": "2025-07-27T13:52:10.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.167661,16.418339",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24892,7 +23810,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.04657894736842105
+              "percentage": "0.047"
             },
             {
               "rgb": [
@@ -24901,7 +23819,7 @@ export const galleries = [
                 170
               ],
               "hex": "#b4aaaa",
-              "percentage": 0.03592105263157895
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -24910,7 +23828,7 @@ export const galleries = [
                 40
               ],
               "hex": "#463228",
-              "percentage": 0.015263157894736841
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -24919,10 +23837,10 @@ export const galleries = [
                 80
               ],
               "hex": "#aa9650",
-              "percentage": 0.010263157894736842
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 38.07321805764039
+          "colorfulness": "38.073"
         }
       },
       {
@@ -24930,8 +23848,6 @@ export const galleries = [
         "latitude": 48.948892,
         "longitude": 15.044311,
         "createDate": "2024-07-13T13:15:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.948892,15.044311",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24941,10 +23857,10 @@ export const galleries = [
                 100
               ],
               "hex": "#967864",
-              "percentage": 0.023010752688172043
+              "percentage": "0.023"
             }
           ],
-          "colorfulness": 31.641769318883963
+          "colorfulness": "31.642"
         }
       },
       {
@@ -24952,8 +23868,6 @@ export const galleries = [
         "latitude": 48.194328,
         "longitude": 16.330344,
         "createDate": "2025-07-21T12:34:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.194328,16.330344",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -24963,7 +23877,7 @@ export const galleries = [
                 190
               ],
               "hex": "#f0dcbe",
-              "percentage": 0.07329545454545454
+              "percentage": "0.073"
             },
             {
               "rgb": [
@@ -24972,7 +23886,7 @@ export const galleries = [
                 70
               ],
               "hex": "#825a46",
-              "percentage": 0.01215909090909091
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -24981,7 +23895,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.011136363636363637
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -24990,10 +23904,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.00909090909090909
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 39.89902442778915
+          "colorfulness": "39.899"
         }
       },
       {
@@ -25001,8 +23915,6 @@ export const galleries = [
         "latitude": 48.176256,
         "longitude": 16.407767,
         "createDate": "2025-07-26T15:38:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.176256,16.407767",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25012,7 +23924,7 @@ export const galleries = [
                 10
               ],
               "hex": "#281e0a",
-              "percentage": 0.02219512195121951
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -25021,7 +23933,7 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": 0.015853658536585366
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -25030,10 +23942,10 @@ export const galleries = [
                 100
               ],
               "hex": "#1e5a64",
-              "percentage": 0.00036585365853658537
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 38.8987899941684
+          "colorfulness": "38.899"
         }
       },
       {
@@ -25041,8 +23953,6 @@ export const galleries = [
         "latitude": 48.170364,
         "longitude": 16.425317,
         "createDate": "2025-07-26T12:08:19.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.170364,16.425317",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25052,7 +23962,7 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.042727272727272725
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -25061,7 +23971,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.026931818181818182
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -25070,7 +23980,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6e6e6",
-              "percentage": 0.016363636363636365
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -25079,7 +23989,7 @@ export const galleries = [
                 60
               ],
               "hex": "#78643c",
-              "percentage": 0.006818181818181818
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -25088,10 +23998,10 @@ export const galleries = [
                 60
               ],
               "hex": "#e6963c",
-              "percentage": 0.00011363636363636364
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 41.54483193956187
+          "colorfulness": "41.545"
         }
       },
       {
@@ -25099,8 +24009,6 @@ export const galleries = [
         "latitude": 48.239161,
         "longitude": 16.384072,
         "createDate": "2025-07-15T17:03:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.239161,16.384072",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25110,7 +24018,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.0440625
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -25119,7 +24027,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.03958333333333333
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -25128,7 +24036,7 @@ export const galleries = [
                 110
               ],
               "hex": "#64786e",
-              "percentage": 0.007916666666666667
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -25137,7 +24045,7 @@ export const galleries = [
                 110
               ],
               "hex": "#e66e6e",
-              "percentage": 0.0008333333333333334
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -25146,10 +24054,10 @@ export const galleries = [
                 220
               ],
               "hex": "#28b4dc",
-              "percentage": 0.00020833333333333335
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 38.73756358640454
+          "colorfulness": "38.738"
         }
       },
       {
@@ -25157,8 +24065,6 @@ export const galleries = [
         "latitude": 48.164417,
         "longitude": 16.422269,
         "createDate": "2025-07-27T13:47:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.164417,16.422269",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25168,7 +24074,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.07337837837837838
+              "percentage": "0.073"
             },
             {
               "rgb": [
@@ -25177,7 +24083,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.0631081081081081
+              "percentage": "0.063"
             },
             {
               "rgb": [
@@ -25186,7 +24092,7 @@ export const galleries = [
                 10
               ],
               "hex": "#6e140a",
-              "percentage": 0.0033783783783783786
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -25195,10 +24101,10 @@ export const galleries = [
                 50
               ],
               "hex": "#001432",
-              "percentage": 0.0025675675675675674
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 24.60723968759855
+          "colorfulness": "24.607"
         }
       },
       {
@@ -25206,8 +24112,6 @@ export const galleries = [
         "latitude": 48.203533,
         "longitude": 16.377142,
         "createDate": "2025-07-14T16:03:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.203533,16.377142",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25217,7 +24121,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.04113636363636364
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -25226,7 +24130,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.03420454545454545
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -25235,7 +24139,7 @@ export const galleries = [
                 60
               ],
               "hex": "#5a463c",
-              "percentage": 0.012272727272727272
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -25244,10 +24148,10 @@ export const galleries = [
                 120
               ],
               "hex": "#fad278",
-              "percentage": 0.0017045454545454545
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 34.00764231282643
+          "colorfulness": "34.008"
         }
       },
       {
@@ -25255,8 +24159,6 @@ export const galleries = [
         "latitude": 48.213772,
         "longitude": 16.362475,
         "createDate": "2025-06-02T06:38:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.213772,16.362475",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25266,7 +24168,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.035125
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -25275,7 +24177,7 @@ export const galleries = [
                 220
               ],
               "hex": "#d2dcdc",
-              "percentage": 0.017375
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -25284,10 +24186,10 @@ export const galleries = [
                 50
               ],
               "hex": "#463232",
-              "percentage": 0.008375
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 30.770731884747125
+          "colorfulness": "30.771"
         }
       },
       {
@@ -25295,8 +24197,6 @@ export const galleries = [
         "latitude": 48.166492,
         "longitude": 16.413928,
         "createDate": "2025-05-25T16:23:31.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.166492,16.413928",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25306,7 +24206,7 @@ export const galleries = [
                 120
               ],
               "hex": "#a08c78",
-              "percentage": 0.0364
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -25315,7 +24215,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.028666666666666667
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -25324,7 +24224,7 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": 0.023733333333333332
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -25333,10 +24233,10 @@ export const galleries = [
                 50
               ],
               "hex": "#503c32",
-              "percentage": 0.011733333333333333
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 34.286025879117666
+          "colorfulness": "34.286"
         }
       },
       {
@@ -25344,8 +24244,6 @@ export const galleries = [
         "latitude": 48.204619,
         "longitude": 16.332464,
         "createDate": "2025-05-03T11:12:53.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.204619,16.332464",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25355,7 +24253,7 @@ export const galleries = [
                 170
               ],
               "hex": "#c8b4aa",
-              "percentage": 0.08405405405405406
+              "percentage": "0.084"
             },
             {
               "rgb": [
@@ -25364,7 +24262,7 @@ export const galleries = [
                 60
               ],
               "hex": "#6e503c",
-              "percentage": 0.014594594594594595
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -25373,7 +24271,7 @@ export const galleries = [
                 230
               ],
               "hex": "#0ab4e6",
-              "percentage": 0.0013513513513513514
+              "percentage": "0.001"
             },
             {
               "rgb": [
@@ -25382,10 +24280,10 @@ export const galleries = [
                 230
               ],
               "hex": "#96d2e6",
-              "percentage": 0.0008108108108108108
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 33.7400404962814
+          "colorfulness": "33.740"
         }
       },
       {
@@ -25393,8 +24291,6 @@ export const galleries = [
         "latitude": 48.211242,
         "longitude": 16.379222,
         "createDate": "2025-04-26T14:45:27.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.211242,16.379222",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25404,7 +24300,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.0693103448275862
+              "percentage": "0.069"
             },
             {
               "rgb": [
@@ -25413,7 +24309,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.05379310344827586
+              "percentage": "0.054"
             },
             {
               "rgb": [
@@ -25422,7 +24318,7 @@ export const galleries = [
                 30
               ],
               "hex": "#46321e",
-              "percentage": 0.03103448275862069
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -25431,10 +24327,10 @@ export const galleries = [
                 100
               ],
               "hex": "#826e64",
-              "percentage": 0.00632183908045977
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 44.4649640117754
+          "colorfulness": "44.465"
         }
       },
       {
@@ -25442,8 +24338,6 @@ export const galleries = [
         "latitude": 48.158839,
         "longitude": 12.833075,
         "createDate": "2025-05-16T17:00:56.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158839,12.833075",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25453,7 +24347,7 @@ export const galleries = [
                 220
               ],
               "hex": "#f0e6dc",
-              "percentage": 0.06132352941176471
+              "percentage": "0.061"
             },
             {
               "rgb": [
@@ -25462,7 +24356,7 @@ export const galleries = [
                 110
               ],
               "hex": "#b4786e",
-              "percentage": 0.018088235294117648
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -25471,7 +24365,7 @@ export const galleries = [
                 90
               ],
               "hex": "#f0b45a",
-              "percentage": 0.003970588235294117
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -25480,7 +24374,7 @@ export const galleries = [
                 160
               ],
               "hex": "#0a5aa0",
-              "percentage": 0.003088235294117647
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -25489,10 +24383,10 @@ export const galleries = [
                 10
               ],
               "hex": "#32140a",
-              "percentage": 0.0027941176470588237
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 43.75315764531862
+          "colorfulness": "43.753"
         }
       },
       {
@@ -25500,8 +24394,6 @@ export const galleries = [
         "latitude": 48.185794,
         "longitude": 16.319944,
         "createDate": "2024-04-11T17:25:26.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.185794,16.319944",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25511,7 +24403,7 @@ export const galleries = [
                 110
               ],
               "hex": "#dcaa6e",
-              "percentage": 0.0405
+              "percentage": "0.041"
             },
             {
               "rgb": [
@@ -25520,7 +24412,7 @@ export const galleries = [
                 250
               ],
               "hex": "#fafafa",
-              "percentage": 0.0245
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -25529,7 +24421,7 @@ export const galleries = [
                 50
               ],
               "hex": "#283232",
-              "percentage": 0.0167
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -25538,10 +24430,10 @@ export const galleries = [
                 100
               ],
               "hex": "#a08264",
-              "percentage": 0.0068
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 44.27913519018259
+          "colorfulness": "44.279"
         }
       },
       {
@@ -25549,8 +24441,6 @@ export const galleries = [
         "latitude": 48.169697,
         "longitude": 16.416206,
         "createDate": "2024-05-29T14:39:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.169697,16.416206",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25560,7 +24450,7 @@ export const galleries = [
                 210
               ],
               "hex": "#e6dcd2",
-              "percentage": 0.0873404255319149
+              "percentage": "0.087"
             },
             {
               "rgb": [
@@ -25569,10 +24459,10 @@ export const galleries = [
                 50
               ],
               "hex": "#3c3232",
-              "percentage": 0.004680851063829788
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 24.441959931638436
+          "colorfulness": "24.442"
         }
       },
       {
@@ -25580,8 +24470,6 @@ export const galleries = [
         "latitude": 48.242217,
         "longitude": 16.384361,
         "createDate": "2025-07-15T17:17:16.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.242217,16.384361",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25591,7 +24479,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.03790697674418605
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -25600,7 +24488,7 @@ export const galleries = [
                 120
               ],
               "hex": "#aa8c78",
-              "percentage": 0.023837209302325583
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -25609,7 +24497,7 @@ export const galleries = [
                 50
               ],
               "hex": "#d24632",
-              "percentage": 0.022325581395348838
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -25618,7 +24506,7 @@ export const galleries = [
                 120
               ],
               "hex": "#f0c878",
-              "percentage": 0.020581395348837208
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -25627,10 +24515,10 @@ export const galleries = [
                 100
               ],
               "hex": "#003c64",
-              "percentage": 0.018372093023255813
+              "percentage": "0.018"
             }
           ],
-          "colorfulness": 51.20904977297255
+          "colorfulness": "51.209"
         }
       }
     ],
@@ -25648,8 +24536,6 @@ export const galleries = [
         "latitude": 39.466347,
         "longitude": -0.330372,
         "createDate": "2023-04-01T15:46:04.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.466347,-0.330372",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25659,7 +24545,7 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.07052083333333334
+              "percentage": "0.071"
             },
             {
               "rgb": [
@@ -25668,7 +24554,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.02125
+              "percentage": "0.021"
             },
             {
               "rgb": [
@@ -25677,7 +24563,7 @@ export const galleries = [
                 140
               ],
               "hex": "#d2aa8c",
-              "percentage": 0.014270833333333333
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -25686,10 +24572,10 @@ export const galleries = [
                 80
               ],
               "hex": "#826450",
-              "percentage": 0.011770833333333333
+              "percentage": "0.012"
             }
           ],
-          "colorfulness": 42.23204124395788
+          "colorfulness": "42.232"
         }
       },
       {
@@ -25697,8 +24583,6 @@ export const galleries = [
         "latitude": 39.475719,
         "longitude": -0.383778,
         "createDate": "2023-04-02T08:41:28.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.475719,-0.383778",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25708,7 +24592,7 @@ export const galleries = [
                 120
               ],
               "hex": "#d2a078",
-              "percentage": 0.027066666666666666
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -25717,7 +24601,7 @@ export const galleries = [
                 230
               ],
               "hex": "#78bee6",
-              "percentage": 0.026933333333333333
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -25726,7 +24610,7 @@ export const galleries = [
                 40
               ],
               "hex": "#463228",
-              "percentage": 0.017733333333333334
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -25735,7 +24619,7 @@ export const galleries = [
                 210
               ],
               "hex": "#0a8cd2",
-              "percentage": 0.0128
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -25744,10 +24628,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.0104
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 51.5603532247396
+          "colorfulness": "51.560"
         }
       },
       {
@@ -25755,8 +24639,6 @@ export const galleries = [
         "latitude": 39.461956,
         "longitude": -0.377006,
         "createDate": "2023-03-31T16:43:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.461956,-0.377006",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25766,7 +24648,7 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.022816901408450704
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -25775,7 +24657,7 @@ export const galleries = [
                 90
               ],
               "hex": "#6e5a5a",
-              "percentage": 0.014929577464788733
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -25784,7 +24666,7 @@ export const galleries = [
                 130
               ],
               "hex": "#326e82",
-              "percentage": 0.006338028169014085
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -25793,10 +24675,10 @@ export const galleries = [
                 20
               ],
               "hex": "#281414",
-              "percentage": 0.003943661971830986
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": 34.7019250119614
+          "colorfulness": "34.702"
         }
       },
       {
@@ -25804,8 +24686,6 @@ export const galleries = [
         "latitude": 39.454339,
         "longitude": -0.352461,
         "createDate": "2023-03-31T14:39:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.454339,-0.352461",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25815,7 +24695,7 @@ export const galleries = [
                 160
               ],
               "hex": "#788ca0",
-              "percentage": 0.043076923076923075
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -25824,7 +24704,7 @@ export const galleries = [
                 200
               ],
               "hex": "#dcd2c8",
-              "percentage": 0.04021978021978022
+              "percentage": "0.040"
             },
             {
               "rgb": [
@@ -25833,10 +24713,10 @@ export const galleries = [
                 60
               ],
               "hex": "#1e283c",
-              "percentage": 0.0074725274725274725
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 27.474877069156122
+          "colorfulness": "27.475"
         }
       },
       {
@@ -25844,8 +24724,6 @@ export const galleries = [
         "latitude": 39.478083,
         "longitude": -0.410333,
         "createDate": "2023-04-02T13:12:54.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.478083,-0.410333",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25855,7 +24733,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.05631578947368421
+              "percentage": "0.056"
             },
             {
               "rgb": [
@@ -25864,7 +24742,7 @@ export const galleries = [
                 210
               ],
               "hex": "#fae6d2",
-              "percentage": 0.023026315789473683
+              "percentage": "0.023"
             },
             {
               "rgb": [
@@ -25873,10 +24751,10 @@ export const galleries = [
                 190
               ],
               "hex": "#0078be",
-              "percentage": 0.0002631578947368421
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 51.115279215172485
+          "colorfulness": "51.115"
         }
       },
       {
@@ -25884,8 +24762,6 @@ export const galleries = [
         "latitude": 39.49055,
         "longitude": -0.474058,
         "createDate": "2023-03-30T17:09:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.49055,-0.474058",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25895,7 +24771,7 @@ export const galleries = [
                 150
               ],
               "hex": "#c8aa96",
-              "percentage": 0.05638888888888889
+              "percentage": "0.056"
             },
             {
               "rgb": [
@@ -25904,7 +24780,7 @@ export const galleries = [
                 80
               ],
               "hex": "#645050",
-              "percentage": 0.019305555555555555
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -25913,7 +24789,7 @@ export const galleries = [
                 190
               ],
               "hex": "#288cbe",
-              "percentage": 0.01597222222222222
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -25922,7 +24798,7 @@ export const galleries = [
                 210
               ],
               "hex": "#8cb4d2",
-              "percentage": 0.015694444444444445
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -25931,10 +24807,10 @@ export const galleries = [
                 200
               ],
               "hex": "#fae6c8",
-              "percentage": 0.012638888888888889
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 40.67048316156265
+          "colorfulness": "40.670"
         }
       },
       {
@@ -25942,8 +24818,6 @@ export const galleries = [
         "latitude": 39.474261,
         "longitude": -0.379144,
         "createDate": "2023-04-02T08:57:52.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.474261,-0.379144",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -25953,7 +24827,7 @@ export const galleries = [
                 210
               ],
               "hex": "#0a8cd2",
-              "percentage": 0.037171717171717175
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -25962,7 +24836,7 @@ export const galleries = [
                 120
               ],
               "hex": "#aa8c78",
-              "percentage": 0.01797979797979798
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -25971,7 +24845,7 @@ export const galleries = [
                 80
               ],
               "hex": "#5a5050",
-              "percentage": 0.013737373737373737
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -25980,7 +24854,7 @@ export const galleries = [
                 240
               ],
               "hex": "#6ec8f0",
-              "percentage": 0.009898989898989899
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -25989,10 +24863,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.0034343434343434343
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 56.12200168147037
+          "colorfulness": "56.122"
         }
       },
       {
@@ -26000,8 +24874,6 @@ export const galleries = [
         "latitude": 39.474286,
         "longitude": -0.378867,
         "createDate": "2023-04-02T08:57:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.474286,-0.378867",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26011,7 +24883,7 @@ export const galleries = [
                 220
               ],
               "hex": "#0a96dc",
-              "percentage": 0.04607594936708861
+              "percentage": "0.046"
             },
             {
               "rgb": [
@@ -26020,7 +24892,7 @@ export const galleries = [
                 240
               ],
               "hex": "#5abef0",
-              "percentage": 0.01708860759493671
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -26029,7 +24901,7 @@ export const galleries = [
                 120
               ],
               "hex": "#646478",
-              "percentage": 0.013037974683544304
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -26038,7 +24910,7 @@ export const galleries = [
                 70
               ],
               "hex": "#504646",
-              "percentage": 0.011012658227848101
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -26047,10 +24919,10 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.007848101265822785
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 56.81176315231942
+          "colorfulness": "56.812"
         }
       },
       {
@@ -26058,8 +24930,6 @@ export const galleries = [
         "latitude": 39.473358,
         "longitude": -0.378281,
         "createDate": "2023-03-31T11:07:52.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.473358,-0.378281",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26069,7 +24939,7 @@ export const galleries = [
                 220
               ],
               "hex": "#c8d2dc",
-              "percentage": 0.0906896551724138
+              "percentage": "0.091"
             },
             {
               "rgb": [
@@ -26078,7 +24948,7 @@ export const galleries = [
                 110
               ],
               "hex": "#a0826e",
-              "percentage": 0.024482758620689656
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -26087,7 +24957,7 @@ export const galleries = [
                 160
               ],
               "hex": "#c8b4a0",
-              "percentage": 0.019770114942528734
+              "percentage": "0.020"
             },
             {
               "rgb": [
@@ -26096,10 +24966,10 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.005517241379310344
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 31.833770273189995
+          "colorfulness": "31.834"
         }
       },
       {
@@ -26107,8 +24977,6 @@ export const galleries = [
         "latitude": 39.461644,
         "longitude": -0.323592,
         "createDate": "2023-04-01T15:18:43.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.461644,-0.323592",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26118,7 +24986,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.03857142857142857
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -26127,7 +24995,7 @@ export const galleries = [
                 200
               ],
               "hex": "#96b4c8",
-              "percentage": 0.026233766233766234
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -26136,7 +25004,7 @@ export const galleries = [
                 150
               ],
               "hex": "#286e96",
-              "percentage": 0.013896103896103896
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -26145,7 +25013,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.008051948051948052
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -26154,10 +25022,10 @@ export const galleries = [
                 80
               ],
               "hex": "#3c4650",
-              "percentage": 0.007922077922077922
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": 39.5642758366814
+          "colorfulness": "39.564"
         }
       },
       {
@@ -26165,8 +25033,6 @@ export const galleries = [
         "latitude": 39.468239,
         "longitude": -0.324186,
         "createDate": "2023-04-01T13:20:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.468239,-0.324186",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26176,7 +25042,7 @@ export const galleries = [
                 130
               ],
               "hex": "#aa8c82",
-              "percentage": 0.06126760563380282
+              "percentage": "0.061"
             },
             {
               "rgb": [
@@ -26185,7 +25051,7 @@ export const galleries = [
                 150
               ],
               "hex": "#005a96",
-              "percentage": 0.05267605633802817
+              "percentage": "0.053"
             },
             {
               "rgb": [
@@ -26194,7 +25060,7 @@ export const galleries = [
                 200
               ],
               "hex": "#f0dcc8",
-              "percentage": 0.013521126760563381
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -26203,7 +25069,7 @@ export const galleries = [
                 230
               ],
               "hex": "#96d2e6",
-              "percentage": 0.0036619718309859155
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -26212,10 +25078,10 @@ export const galleries = [
                 40
               ],
               "hex": "#644628",
-              "percentage": 0.002676056338028169
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 51.89038900383832
+          "colorfulness": "51.890"
         }
       },
       {
@@ -26223,8 +25089,6 @@ export const galleries = [
         "latitude": 39.473506,
         "longitude": -0.384342,
         "createDate": "2023-03-30T19:10:39.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.473506,-0.384342",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26234,7 +25098,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.15293333333333334
+              "percentage": "0.153"
             },
             {
               "rgb": [
@@ -26243,10 +25107,10 @@ export const galleries = [
                 40
               ],
               "hex": "#785028",
-              "percentage": 0.055466666666666664
+              "percentage": "0.055"
             }
           ],
-          "colorfulness": 33.6855011814848
+          "colorfulness": "33.686"
         }
       },
       {
@@ -26254,8 +25118,6 @@ export const galleries = [
         "latitude": 39.473131,
         "longitude": -0.384878,
         "createDate": "2023-03-30T19:10:06.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.473131,-0.384878",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26265,7 +25127,7 @@ export const galleries = [
                 130
               ],
               "hex": "#bea082",
-              "percentage": 0.09885714285714285
+              "percentage": "0.099"
             },
             {
               "rgb": [
@@ -26274,10 +25136,10 @@ export const galleries = [
                 50
               ],
               "hex": "#785032",
-              "percentage": 0.006571428571428572
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 16.667130260867385
+          "colorfulness": "16.667"
         }
       },
       {
@@ -26285,8 +25147,6 @@ export const galleries = [
         "latitude": 39.470592,
         "longitude": -0.406297,
         "createDate": "2023-04-02T16:09:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.470592,-0.406297",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26296,7 +25156,7 @@ export const galleries = [
                 0
               ],
               "hex": "#000000",
-              "percentage": 0.06362068965517241
+              "percentage": "0.064"
             },
             {
               "rgb": [
@@ -26305,7 +25165,7 @@ export const galleries = [
                 140
               ],
               "hex": "#beaa8c",
-              "percentage": 0.06155172413793104
+              "percentage": "0.062"
             },
             {
               "rgb": [
@@ -26314,7 +25174,7 @@ export const galleries = [
                 60
               ],
               "hex": "#50463c",
-              "percentage": 0.02879310344827586
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -26323,7 +25183,7 @@ export const galleries = [
                 220
               ],
               "hex": "#e6e6dc",
-              "percentage": 0.01810344827586207
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -26332,10 +25192,10 @@ export const galleries = [
                 140
               ],
               "hex": "#283c8c",
-              "percentage": 0.0029310344827586207
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 43.78822774341307
+          "colorfulness": "43.788"
         }
       },
       {
@@ -26343,8 +25203,6 @@ export const galleries = [
         "latitude": 39.475447,
         "longitude": -0.383894,
         "createDate": "2023-03-30T21:20:55.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.475447,-0.383894",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26354,7 +25212,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.027866666666666668
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -26363,10 +25221,10 @@ export const galleries = [
                 130
               ],
               "hex": "#bea082",
-              "percentage": 0.016266666666666665
+              "percentage": "0.016"
             }
           ],
-          "colorfulness": 34.1897587301312
+          "colorfulness": "34.190"
         }
       },
       {
@@ -26374,8 +25232,6 @@ export const galleries = [
         "latitude": 39.466914,
         "longitude": -0.376903,
         "createDate": "2023-03-31T16:53:26.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.466914,-0.376903",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26385,7 +25241,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.01746268656716418
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -26394,7 +25250,7 @@ export const galleries = [
                 40
               ],
               "hex": "#503228",
-              "percentage": 0.01746268656716418
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -26403,10 +25259,10 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.017313432835820895
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": 36.09892204619168
+          "colorfulness": "36.099"
         }
       },
       {
@@ -26414,8 +25270,6 @@ export const galleries = [
         "latitude": 39.479428,
         "longitude": -0.410625,
         "createDate": "2023-04-02T13:36:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=39.479428,-0.410625",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26425,7 +25279,7 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": 0.09887755102040817
+              "percentage": "0.099"
             },
             {
               "rgb": [
@@ -26434,7 +25288,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.05061224489795919
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -26443,10 +25297,10 @@ export const galleries = [
                 240
               ],
               "hex": "#5ac8f0",
-              "percentage": 0.006122448979591836
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 50.36215713509002
+          "colorfulness": "50.362"
         }
       }
     ],
@@ -26464,8 +25318,6 @@ export const galleries = [
         "latitude": 48.811233,
         "longitude": 15.289903,
         "createDate": "2025-06-28T18:19:19.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.811233,15.289903",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26475,7 +25327,7 @@ export const galleries = [
                 40
               ],
               "hex": "#504628",
-              "percentage": 0.029365079365079365
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -26484,10 +25336,10 @@ export const galleries = [
                 220
               ],
               "hex": "#d2d2dc",
-              "percentage": 0.0007936507936507937
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 24.17893713438349
+          "colorfulness": "24.179"
         }
       },
       {
@@ -26495,8 +25347,6 @@ export const galleries = [
         "latitude": 48.811478,
         "longitude": 15.290239,
         "createDate": "2025-06-27T18:22:07.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.811478,15.290239",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26506,7 +25356,7 @@ export const galleries = [
                 130
               ],
               "hex": "#c8a082",
-              "percentage": 0.13986301369863013
+              "percentage": "0.140"
             },
             {
               "rgb": [
@@ -26515,7 +25365,7 @@ export const galleries = [
                 70
               ],
               "hex": "#8c6446",
-              "percentage": 0.008904109589041096
+              "percentage": "0.009"
             },
             {
               "rgb": [
@@ -26524,7 +25374,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.0073972602739726025
+              "percentage": "0.007"
             },
             {
               "rgb": [
@@ -26533,10 +25383,10 @@ export const galleries = [
                 30
               ],
               "hex": "#50321e",
-              "percentage": 0.003424657534246575
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 27.57351341439346
+          "colorfulness": "27.574"
         }
       },
       {
@@ -26544,8 +25394,6 @@ export const galleries = [
         "latitude": 48.811428,
         "longitude": 15.290214,
         "createDate": "2025-06-27T18:22:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.811428,15.290214",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26555,7 +25403,7 @@ export const galleries = [
                 150
               ],
               "hex": "#e6be96",
-              "percentage": 0.038313253012048194
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -26564,7 +25412,7 @@ export const galleries = [
                 20
               ],
               "hex": "#322814",
-              "percentage": 0.015301204819277109
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -26573,10 +25421,10 @@ export const galleries = [
                 0
               ],
               "hex": "#b40000",
-              "percentage": 0.00048192771084337347
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 42.00769853888401
+          "colorfulness": "42.008"
         }
       },
       {
@@ -26584,8 +25432,6 @@ export const galleries = [
         "latitude": 48.810967,
         "longitude": 15.289403,
         "createDate": "2025-06-27T19:37:13.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.810967,15.289403",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26595,7 +25441,7 @@ export const galleries = [
                 20
               ],
               "hex": "#281414",
-              "percentage": 0.1692
+              "percentage": "0.169"
             },
             {
               "rgb": [
@@ -26604,7 +25450,7 @@ export const galleries = [
                 240
               ],
               "hex": "#0a3cf0",
-              "percentage": 0.015066666666666667
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -26613,7 +25459,7 @@ export const galleries = [
                 240
               ],
               "hex": "#e63cf0",
-              "percentage": 0.0004
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -26622,7 +25468,7 @@ export const galleries = [
                 180
               ],
               "hex": "#9678b4",
-              "percentage": 0.0002666666666666667
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -26631,10 +25477,10 @@ export const galleries = [
                 140
               ],
               "hex": "#dca08c",
-              "percentage": 0.00013333333333333334
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 46.9658521409786
+          "colorfulness": "46.966"
         }
       },
       {
@@ -26642,8 +25488,6 @@ export const galleries = [
         "latitude": 48.814175,
         "longitude": 15.285006,
         "createDate": "2025-06-28T08:07:17.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.814175,15.285006",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26653,7 +25497,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.03380952380952381
+              "percentage": "0.034"
             },
             {
               "rgb": [
@@ -26662,7 +25506,7 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.03222222222222222
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -26671,7 +25515,7 @@ export const galleries = [
                 20
               ],
               "hex": "#462814",
-              "percentage": 0.02619047619047619
+              "percentage": "0.026"
             },
             {
               "rgb": [
@@ -26680,7 +25524,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.013968253968253968
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -26689,10 +25533,10 @@ export const galleries = [
                 230
               ],
               "hex": "#82d2e6",
-              "percentage": 0.0009523809523809524
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 35.02569483776333
+          "colorfulness": "35.026"
         }
       },
       {
@@ -26700,8 +25544,6 @@ export const galleries = [
         "latitude": 48.811347,
         "longitude": 15.290106,
         "createDate": "2025-06-27T18:20:20.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.811347,15.290106",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26711,7 +25553,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.08459459459459459
+              "percentage": "0.085"
             },
             {
               "rgb": [
@@ -26720,7 +25562,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.032837837837837835
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -26729,7 +25571,7 @@ export const galleries = [
                 20
               ],
               "hex": "#784614",
-              "percentage": 0.0035135135135135136
+              "percentage": "0.004"
             },
             {
               "rgb": [
@@ -26738,7 +25580,7 @@ export const galleries = [
                 90
               ],
               "hex": "#966e5a",
-              "percentage": 0.002162162162162162
+              "percentage": "0.002"
             },
             {
               "rgb": [
@@ -26747,10 +25589,10 @@ export const galleries = [
                 180
               ],
               "hex": "#46a0b4",
-              "percentage": 0.0013513513513513514
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": 48.85223325630431
+          "colorfulness": "48.852"
         }
       },
       {
@@ -26758,8 +25600,6 @@ export const galleries = [
         "latitude": 48.812633,
         "longitude": 15.28045,
         "createDate": "2025-06-28T07:56:47.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.812633,15.28045",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26769,7 +25609,7 @@ export const galleries = [
                 150
               ],
               "hex": "#c8b496",
-              "percentage": 0.04368421052631579
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -26778,7 +25618,7 @@ export const galleries = [
                 140
               ],
               "hex": "#14648c",
-              "percentage": 0.01486842105263158
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -26787,7 +25627,7 @@ export const galleries = [
                 220
               ],
               "hex": "#dcdcdc",
-              "percentage": 0.012894736842105263
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -26796,10 +25636,10 @@ export const galleries = [
                 90
               ],
               "hex": "#b4965a",
-              "percentage": 0.010526315789473684
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 38.079451834981555
+          "colorfulness": "38.079"
         }
       }
     ],
@@ -26817,8 +25657,6 @@ export const galleries = [
         "latitude": 48.199169,
         "longitude": 16.372769,
         "createDate": "2025-05-14T15:05:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199169,16.372769",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26828,7 +25666,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.03493333333333333
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -26837,10 +25675,10 @@ export const galleries = [
                 120
               ],
               "hex": "#c8a078",
-              "percentage": 0.03306666666666667
+              "percentage": "0.033"
             }
           ],
-          "colorfulness": 37.4866136012222
+          "colorfulness": "37.487"
         }
       },
       {
@@ -26848,8 +25686,6 @@ export const galleries = [
         "latitude": 48.199092,
         "longitude": 16.372906,
         "createDate": "2025-05-14T15:07:25.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199092,16.372906",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26859,7 +25695,7 @@ export const galleries = [
                 90
               ],
               "hex": "#b4825a",
-              "percentage": 0.027901234567901233
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -26868,7 +25704,7 @@ export const galleries = [
                 40
               ],
               "hex": "#8c5028",
-              "percentage": 0.025185185185185185
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -26877,10 +25713,10 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.009012345679012346
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 31.035776830416165
+          "colorfulness": "31.036"
         }
       },
       {
@@ -26888,8 +25724,6 @@ export const galleries = [
         "latitude": 48.199192,
         "longitude": 16.372353,
         "createDate": "2025-05-14T14:14:08.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199192,16.372353",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26899,7 +25733,7 @@ export const galleries = [
                 190
               ],
               "hex": "#d2c8be",
-              "percentage": 0.03177777777777778
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -26908,7 +25742,7 @@ export const galleries = [
                 80
               ],
               "hex": "#825a50",
-              "percentage": 0.016666666666666666
+              "percentage": "0.017"
             },
             {
               "rgb": [
@@ -26917,10 +25751,10 @@ export const galleries = [
                 30
               ],
               "hex": "#5a281e",
-              "percentage": 0.0057777777777777775
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 30.9881024626313
+          "colorfulness": "30.988"
         }
       },
       {
@@ -26928,8 +25762,6 @@ export const galleries = [
         "latitude": 48.199161,
         "longitude": 16.372861,
         "createDate": "2025-05-14T15:28:25.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199161,16.372861",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26939,7 +25771,7 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": 0.024533333333333334
+              "percentage": "0.025"
             },
             {
               "rgb": [
@@ -26948,7 +25780,7 @@ export const galleries = [
                 150
               ],
               "hex": "#d2b496",
-              "percentage": 0.019066666666666666
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -26957,10 +25789,10 @@ export const galleries = [
                 200
               ],
               "hex": "#0096c8",
-              "percentage": 0.00013333333333333334
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 37.80631508764387
+          "colorfulness": "37.806"
         }
       },
       {
@@ -26968,8 +25800,6 @@ export const galleries = [
         "latitude": 48.199367,
         "longitude": 16.372703,
         "createDate": "2025-05-14T15:27:21.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199367,16.372703",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -26979,7 +25809,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.03216867469879518
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -26988,7 +25818,7 @@ export const galleries = [
                 110
               ],
               "hex": "#be966e",
-              "percentage": 0.02783132530120482
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -26997,7 +25827,7 @@ export const galleries = [
                 180
               ],
               "hex": "#e6d2b4",
-              "percentage": 0.022048192771084336
+              "percentage": "0.022"
             },
             {
               "rgb": [
@@ -27006,7 +25836,7 @@ export const galleries = [
                 200
               ],
               "hex": "#0aa0c8",
-              "percentage": 0.00012048192771084337
+              "percentage": "0.000"
             },
             {
               "rgb": [
@@ -27015,10 +25845,10 @@ export const galleries = [
                 190
               ],
               "hex": "#50aabe",
-              "percentage": 0.00012048192771084337
+              "percentage": "0.000"
             }
           ],
-          "colorfulness": 36.32873978228013
+          "colorfulness": "36.329"
         }
       },
       {
@@ -27026,8 +25856,6 @@ export const galleries = [
         "latitude": 48.199161,
         "longitude": 16.372772,
         "createDate": "2025-05-14T15:28:03.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.199161,16.372772",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27037,7 +25865,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.02855072463768116
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -27046,7 +25874,7 @@ export const galleries = [
                 20
               ],
               "hex": "#3c2814",
-              "percentage": 0.024202898550724637
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -27055,10 +25883,10 @@ export const galleries = [
                 210
               ],
               "hex": "#e6e6d2",
-              "percentage": 0.003043478260869565
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": 34.93567681973999
+          "colorfulness": "34.936"
         }
       }
     ],
@@ -27076,8 +25904,6 @@ export const galleries = [
         "latitude": 48.152783,
         "longitude": 16.435778,
         "createDate": "2025-06-29T11:02:23.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.152783,16.435778",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27087,10 +25913,10 @@ export const galleries = [
                 30
               ],
               "hex": "#32321e",
-              "percentage": 0.03450704225352113
+              "percentage": "0.035"
             }
           ],
-          "colorfulness": 32.228067050652434
+          "colorfulness": "32.228"
         }
       },
       {
@@ -27098,8 +25924,6 @@ export const galleries = [
         "latitude": 48.158069,
         "longitude": 16.437931,
         "createDate": "2025-06-29T11:13:46.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158069,16.437931",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27109,7 +25933,7 @@ export const galleries = [
                 140
               ],
               "hex": "#b4a08c",
-              "percentage": 0.04951219512195122
+              "percentage": "0.050"
             },
             {
               "rgb": [
@@ -27118,7 +25942,7 @@ export const galleries = [
                 0
               ],
               "hex": "#280a00",
-              "percentage": 0.00951219512195122
+              "percentage": "0.010"
             },
             {
               "rgb": [
@@ -27127,10 +25951,10 @@ export const galleries = [
                 30
               ],
               "hex": "#5a321e",
-              "percentage": 0.006341463414634147
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 31.65894188858074
+          "colorfulness": "31.659"
         }
       },
       {
@@ -27138,8 +25962,6 @@ export const galleries = [
         "latitude": 48.156844,
         "longitude": 16.439061,
         "createDate": "2025-06-29T11:14:05.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156844,16.439061",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27149,7 +25971,7 @@ export const galleries = [
                 130
               ],
               "hex": "#aa9682",
-              "percentage": 0.07666666666666666
+              "percentage": "0.077"
             },
             {
               "rgb": [
@@ -27158,10 +25980,10 @@ export const galleries = [
                 10
               ],
               "hex": "#32140a",
-              "percentage": 0.013010752688172042
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 25.29777072613264
+          "colorfulness": "25.298"
         }
       },
       {
@@ -27169,8 +25991,6 @@ export const galleries = [
         "latitude": 48.150856,
         "longitude": 16.438381,
         "createDate": "2025-07-06T06:20:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150856,16.438381",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27180,7 +26000,7 @@ export const galleries = [
                 230
               ],
               "hex": "#bedce6",
-              "percentage": 0.06410526315789473
+              "percentage": "0.064"
             },
             {
               "rgb": [
@@ -27189,7 +26009,7 @@ export const galleries = [
                 20
               ],
               "hex": "#3c3214",
-              "percentage": 0.047578947368421054
+              "percentage": "0.048"
             },
             {
               "rgb": [
@@ -27198,7 +26018,7 @@ export const galleries = [
                 70
               ],
               "hex": "#8c7846",
-              "percentage": 0.0025263157894736842
+              "percentage": "0.003"
             },
             {
               "rgb": [
@@ -27207,10 +26027,10 @@ export const galleries = [
                 120
               ],
               "hex": "#c8be78",
-              "percentage": 0.0024210526315789475
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": 48.56302258108375
+          "colorfulness": "48.563"
         }
       },
       {
@@ -27218,8 +26038,6 @@ export const galleries = [
         "latitude": 48.159,
         "longitude": 16.431983,
         "createDate": "2025-05-30T16:18:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.159,16.431983",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27229,7 +26047,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.051685393258426963
+              "percentage": "0.052"
             },
             {
               "rgb": [
@@ -27238,10 +26056,10 @@ export const galleries = [
                 20
               ],
               "hex": "#281e14",
-              "percentage": 0.03179775280898876
+              "percentage": "0.032"
             }
           ],
-          "colorfulness": 39.22729425011577
+          "colorfulness": "39.227"
         }
       },
       {
@@ -27249,8 +26067,6 @@ export const galleries = [
         "latitude": 48.151558,
         "longitude": 16.437939,
         "createDate": "2025-06-29T11:12:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151558,16.437939",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27260,7 +26076,7 @@ export const galleries = [
                 110
               ],
               "hex": "#96786e",
-              "percentage": 0.028775510204081634
+              "percentage": "0.029"
             },
             {
               "rgb": [
@@ -27269,7 +26085,7 @@ export const galleries = [
                 10
               ],
               "hex": "#46280a",
-              "percentage": 0.01826530612244898
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -27278,10 +26094,10 @@ export const galleries = [
                 130
               ],
               "hex": "#0a5a82",
-              "percentage": 0.007142857142857143
+              "percentage": "0.007"
             }
           ],
-          "colorfulness": 35.361090373344545
+          "colorfulness": "35.361"
         }
       },
       {
@@ -27289,8 +26105,6 @@ export const galleries = [
         "latitude": 48.150914,
         "longitude": 16.437881,
         "createDate": "2025-06-29T11:11:48.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150914,16.437881",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27300,7 +26114,7 @@ export const galleries = [
                 70
               ],
               "hex": "#002846",
-              "percentage": 0.05704225352112676
+              "percentage": "0.057"
             },
             {
               "rgb": [
@@ -27309,7 +26123,7 @@ export const galleries = [
                 20
               ],
               "hex": "#462814",
-              "percentage": 0.014084507042253521
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -27318,7 +26132,7 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.013943661971830987
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -27327,7 +26141,7 @@ export const galleries = [
                 110
               ],
               "hex": "#a0826e",
-              "percentage": 0.012535211267605633
+              "percentage": "0.013"
             },
             {
               "rgb": [
@@ -27336,10 +26150,10 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": 0.006197183098591549
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 35.3505720333721
+          "colorfulness": "35.351"
         }
       },
       {
@@ -27347,8 +26161,6 @@ export const galleries = [
         "latitude": 48.151947,
         "longitude": 16.427978,
         "createDate": "2025-06-01T06:06:36.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151947,16.427978",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27358,7 +26170,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.07650602409638554
+              "percentage": "0.077"
             },
             {
               "rgb": [
@@ -27367,7 +26179,7 @@ export const galleries = [
                 230
               ],
               "hex": "#8cc8e6",
-              "percentage": 0.01783132530120482
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -27376,7 +26188,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.016144578313253014
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -27385,7 +26197,7 @@ export const galleries = [
                 80
               ],
               "hex": "#5a5050",
-              "percentage": 0.00819277108433735
+              "percentage": "0.008"
             },
             {
               "rgb": [
@@ -27394,10 +26206,10 @@ export const galleries = [
                 110
               ],
               "hex": "#a0826e",
-              "percentage": 0.005060240963855421
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 43.828338721087015
+          "colorfulness": "43.828"
         }
       },
       {
@@ -27405,8 +26217,6 @@ export const galleries = [
         "latitude": 48.1511,
         "longitude": 16.4386,
         "createDate": "2025-06-29T11:09:07.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.1511,16.4386",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27416,7 +26226,7 @@ export const galleries = [
                 190
               ],
               "hex": "#dcd2be",
-              "percentage": 0.016329113924050634
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -27425,7 +26235,7 @@ export const galleries = [
                 130
               ],
               "hex": "#a08c82",
-              "percentage": 0.013924050632911392
+              "percentage": "0.014"
             },
             {
               "rgb": [
@@ -27434,7 +26244,7 @@ export const galleries = [
                 80
               ],
               "hex": "#6e5a50",
-              "percentage": 0.012025316455696202
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -27443,7 +26253,7 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.011772151898734177
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -27452,10 +26262,10 @@ export const galleries = [
                 200
               ],
               "hex": "#5aa0c8",
-              "percentage": 0.009746835443037975
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 42.179799518266954
+          "colorfulness": "42.180"
         }
       },
       {
@@ -27463,8 +26273,6 @@ export const galleries = [
         "latitude": 48.150864,
         "longitude": 16.4381,
         "createDate": "2025-06-29T11:11:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150864,16.4381",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27474,7 +26282,7 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": 0.036
+              "percentage": "0.036"
             },
             {
               "rgb": [
@@ -27483,10 +26291,10 @@ export const galleries = [
                 10
               ],
               "hex": "#461e0a",
-              "percentage": 0.013142857142857144
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 45.5486872415915
+          "colorfulness": "45.549"
         }
       },
       {
@@ -27494,8 +26302,6 @@ export const galleries = [
         "latitude": 48.158069,
         "longitude": 16.437931,
         "createDate": "2025-06-29T11:13:32.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.158069,16.437931",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27505,7 +26311,7 @@ export const galleries = [
                 200
               ],
               "hex": "#e6dcc8",
-              "percentage": 0.050405405405405404
+              "percentage": "0.050"
             },
             {
               "rgb": [
@@ -27514,7 +26320,7 @@ export const galleries = [
                 170
               ],
               "hex": "#beb4aa",
-              "percentage": 0.03891891891891892
+              "percentage": "0.039"
             },
             {
               "rgb": [
@@ -27523,10 +26329,10 @@ export const galleries = [
                 0
               ],
               "hex": "#280a00",
-              "percentage": 0.012972972972972972
+              "percentage": "0.013"
             }
           ],
-          "colorfulness": 35.11926661534428
+          "colorfulness": "35.119"
         }
       },
       {
@@ -27534,8 +26340,6 @@ export const galleries = [
         "latitude": 48.150867,
         "longitude": 16.438186,
         "createDate": "2025-06-29T11:11:25.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150867,16.438186",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27545,7 +26349,7 @@ export const galleries = [
                 150
               ],
               "hex": "#b4a096",
-              "percentage": 0.034743589743589744
+              "percentage": "0.035"
             },
             {
               "rgb": [
@@ -27554,7 +26358,7 @@ export const galleries = [
                 190
               ],
               "hex": "#e6d2be",
-              "percentage": 0.03076923076923077
+              "percentage": "0.031"
             },
             {
               "rgb": [
@@ -27563,10 +26367,10 @@ export const galleries = [
                 10
               ],
               "hex": "#32140a",
-              "percentage": 0.016666666666666666
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": 34.738866222038055
+          "colorfulness": "34.739"
         }
       },
       {
@@ -27574,8 +26378,6 @@ export const galleries = [
         "latitude": 48.152878,
         "longitude": 16.437461,
         "createDate": "2025-06-29T11:04:29.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.152878,16.437461",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27585,7 +26387,7 @@ export const galleries = [
                 230
               ],
               "hex": "#6ebee6",
-              "percentage": 0.04463414634146341
+              "percentage": "0.045"
             },
             {
               "rgb": [
@@ -27594,7 +26396,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.02426829268292683
+              "percentage": "0.024"
             },
             {
               "rgb": [
@@ -27603,10 +26405,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.01975609756097561
+              "percentage": "0.020"
             }
           ],
-          "colorfulness": 50.48920639682819
+          "colorfulness": "50.489"
         }
       },
       {
@@ -27614,8 +26416,6 @@ export const galleries = [
         "latitude": 48.150075,
         "longitude": 16.437378,
         "createDate": "2025-06-01T06:16:52.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150075,16.437378",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27625,7 +26425,7 @@ export const galleries = [
                 80
               ],
               "hex": "#6e5a50",
-              "percentage": 0.03783505154639175
+              "percentage": "0.038"
             },
             {
               "rgb": [
@@ -27634,7 +26434,7 @@ export const galleries = [
                 10
               ],
               "hex": "#28140a",
-              "percentage": 0.014948453608247423
+              "percentage": "0.015"
             },
             {
               "rgb": [
@@ -27643,7 +26443,7 @@ export const galleries = [
                 230
               ],
               "hex": "#e6f0e6",
-              "percentage": 0.0111340206185567
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -27652,10 +26452,10 @@ export const galleries = [
                 130
               ],
               "hex": "#aa9682",
-              "percentage": 0.006288659793814433
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 37.06128162872303
+          "colorfulness": "37.061"
         }
       },
       {
@@ -27663,8 +26463,6 @@ export const galleries = [
         "latitude": 48.152886,
         "longitude": 16.437042,
         "createDate": "2025-06-29T11:03:59.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.152886,16.437042",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27674,7 +26472,7 @@ export const galleries = [
                 20
               ],
               "hex": "#463214",
-              "percentage": 0.028444444444444446
+              "percentage": "0.028"
             },
             {
               "rgb": [
@@ -27683,7 +26481,7 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.016444444444444446
+              "percentage": "0.016"
             },
             {
               "rgb": [
@@ -27692,7 +26490,7 @@ export const galleries = [
                 140
               ],
               "hex": "#6e828c",
-              "percentage": 0.005555555555555556
+              "percentage": "0.006"
             },
             {
               "rgb": [
@@ -27701,10 +26499,10 @@ export const galleries = [
                 150
               ],
               "hex": "#e6d296",
-              "percentage": 0.005555555555555556
+              "percentage": "0.006"
             }
           ],
-          "colorfulness": 37.91880501100507
+          "colorfulness": "37.919"
         }
       },
       {
@@ -27712,8 +26510,6 @@ export const galleries = [
         "latitude": 48.156361,
         "longitude": 16.439128,
         "createDate": "2025-06-29T11:15:30.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156361,16.439128",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27723,7 +26519,7 @@ export const galleries = [
                 170
               ],
               "hex": "#d2beaa",
-              "percentage": 0.03337349397590361
+              "percentage": "0.033"
             },
             {
               "rgb": [
@@ -27732,10 +26528,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.024457831325301205
+              "percentage": "0.024"
             }
           ],
-          "colorfulness": 40.48825732042388
+          "colorfulness": "40.488"
         }
       },
       {
@@ -27743,8 +26539,6 @@ export const galleries = [
         "latitude": 48.151425,
         "longitude": 16.438867,
         "createDate": "2025-06-29T11:08:09.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.151425,16.438867",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27754,7 +26548,7 @@ export const galleries = [
                 190
               ],
               "hex": "#3c96be",
-              "percentage": 0.044125
+              "percentage": "0.044"
             },
             {
               "rgb": [
@@ -27763,7 +26557,7 @@ export const galleries = [
                 180
               ],
               "hex": "#beb4b4",
-              "percentage": 0.04175
+              "percentage": "0.042"
             },
             {
               "rgb": [
@@ -27772,7 +26566,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e0a0a",
-              "percentage": 0.017875
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -27781,7 +26575,7 @@ export const galleries = [
                 100
               ],
               "hex": "#826e64",
-              "percentage": 0.010875
+              "percentage": "0.011"
             },
             {
               "rgb": [
@@ -27790,10 +26584,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.00975
+              "percentage": "0.010"
             }
           ],
-          "colorfulness": 45.982493438304225
+          "colorfulness": "45.982"
         }
       },
       {
@@ -27801,8 +26595,6 @@ export const galleries = [
         "latitude": 48.150586,
         "longitude": 16.436633,
         "createDate": "2025-06-01T06:16:12.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.150586,16.436633",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27812,7 +26604,7 @@ export const galleries = [
                 20
               ],
               "hex": "#1e1414",
-              "percentage": 0.051264367816091956
+              "percentage": "0.051"
             },
             {
               "rgb": [
@@ -27821,10 +26613,10 @@ export const galleries = [
                 210
               ],
               "hex": "#c8d2d2",
-              "percentage": 0.021494252873563217
+              "percentage": "0.021"
             }
           ],
-          "colorfulness": 41.464540147554935
+          "colorfulness": "41.465"
         }
       },
       {
@@ -27832,8 +26624,6 @@ export const galleries = [
         "latitude": 48.156892,
         "longitude": 16.438922,
         "createDate": "2025-06-29T11:17:14.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156892,16.438922",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27843,7 +26633,7 @@ export const galleries = [
                 140
               ],
               "hex": "#aa968c",
-              "percentage": 0.06136986301369863
+              "percentage": "0.061"
             },
             {
               "rgb": [
@@ -27852,10 +26642,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.01821917808219178
+              "percentage": "0.018"
             }
           ],
-          "colorfulness": 30.640920776342824
+          "colorfulness": "30.641"
         }
       },
       {
@@ -27863,8 +26653,6 @@ export const galleries = [
         "latitude": 48.153328,
         "longitude": 16.437883,
         "createDate": "2025-05-21T16:08:49.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.153328,16.437883",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27874,7 +26662,7 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": 0.05509090909090909
+              "percentage": "0.055"
             },
             {
               "rgb": [
@@ -27883,7 +26671,7 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.01927272727272727
+              "percentage": "0.019"
             },
             {
               "rgb": [
@@ -27892,7 +26680,7 @@ export const galleries = [
                 10
               ],
               "hex": "#1e140a",
-              "percentage": 0.012181818181818183
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -27901,10 +26689,10 @@ export const galleries = [
                 220
               ],
               "hex": "#46aadc",
-              "percentage": 0.0047272727272727275
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": 44.74069880723915
+          "colorfulness": "44.741"
         }
       },
       {
@@ -27912,8 +26700,6 @@ export const galleries = [
         "latitude": 48.15685,
         "longitude": 16.439056,
         "createDate": "2025-06-29T11:16:24.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.15685,16.439056",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27923,7 +26709,7 @@ export const galleries = [
                 130
               ],
               "hex": "#b49682",
-              "percentage": 0.043108108108108105
+              "percentage": "0.043"
             },
             {
               "rgb": [
@@ -27932,10 +26718,10 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": 0.010945945945945945
+              "percentage": "0.011"
             }
           ],
-          "colorfulness": 33.719732009729285
+          "colorfulness": "33.720"
         }
       },
       {
@@ -27943,8 +26729,6 @@ export const galleries = [
         "latitude": 48.156892,
         "longitude": 16.438922,
         "createDate": "2025-06-29T11:17:00.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156892,16.438922",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27954,7 +26738,7 @@ export const galleries = [
                 180
               ],
               "hex": "#c8beb4",
-              "percentage": 0.027333333333333334
+              "percentage": "0.027"
             },
             {
               "rgb": [
@@ -27963,10 +26747,10 @@ export const galleries = [
                 90
               ],
               "hex": "#8c6e5a",
-              "percentage": 0.020933333333333335
+              "percentage": "0.021"
             }
           ],
-          "colorfulness": 32.31798055621078
+          "colorfulness": "32.318"
         }
       },
       {
@@ -27974,8 +26758,6 @@ export const galleries = [
         "latitude": 48.148553,
         "longitude": 16.436297,
         "createDate": "2025-05-29T08:31:01.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.148553,16.436297",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -27985,7 +26767,7 @@ export const galleries = [
                 220
               ],
               "hex": "#dcdcdc",
-              "percentage": 0.05796875
+              "percentage": "0.058"
             },
             {
               "rgb": [
@@ -27994,7 +26776,7 @@ export const galleries = [
                 10
               ],
               "hex": "#281e0a",
-              "percentage": 0.0375
+              "percentage": "0.037"
             },
             {
               "rgb": [
@@ -28003,7 +26785,7 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.0178125
+              "percentage": "0.018"
             },
             {
               "rgb": [
@@ -28012,10 +26794,10 @@ export const galleries = [
                 50
               ],
               "hex": "#968232",
-              "percentage": 0.0153125
+              "percentage": "0.015"
             }
           ],
-          "colorfulness": 47.92395410711773
+          "colorfulness": "47.924"
         }
       },
       {
@@ -28023,8 +26805,6 @@ export const galleries = [
         "latitude": 48.156886,
         "longitude": 16.438947,
         "createDate": "2025-06-29T11:16:40.000Z",
-        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=48.156886,16.438947",
-        "alt": null,
         "colorData": {
           "dominantColors": [
             {
@@ -28034,7 +26814,7 @@ export const galleries = [
                 60
               ],
               "hex": "#6e503c",
-              "percentage": 0.031772151898734176
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -28043,7 +26823,7 @@ export const galleries = [
                 160
               ],
               "hex": "#b4aaa0",
-              "percentage": 0.031772151898734176
+              "percentage": "0.032"
             },
             {
               "rgb": [
@@ -28052,10 +26832,10 @@ export const galleries = [
                 0
               ],
               "hex": "#1e0a00",
-              "percentage": 0.009113924050632912
+              "percentage": "0.009"
             }
           ],
-          "colorfulness": 36.87299060086814
+          "colorfulness": "36.873"
         }
       }
     ],
