@@ -2,6 +2,7 @@ import { cn } from "../../../utils/cn";
 import { useTheme } from "../../../contexts/ThemeContext";
 import { type Image as ImageType } from "../../../types";
 import { Link } from "react-router-dom";
+import SeoLink from "../../ui/SeoLink";
 import { slugify } from "../../../utils/slugify";
 import { getImageUrl } from "../../../utils/image";
 import { MapPin } from "lucide-react";
@@ -23,11 +24,13 @@ const PhotoCard: React.FC<{ title: string; image?: ImageType | any }> = ({ title
         <h3 className="text-[11px]">{title}</h3>
         <p className=" my-2 text-base leading-4 truncate">{image.filename}</p>
         <div className="flex items-center gap-2 mt-2">
-          <Link
+          <SeoLink
             className=""
+            noIndex={true}
+            noFollow={true}
             to={`/app/map?gallery=${image.gallery}&image=${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}>
             <MapPin size={12} />
-          </Link>
+          </SeoLink>
           <div className="text-[11px] mt-1 flex items-center">
             <p className="truncate ">
               Lat: {image.latitude.toFixed(6)}, {image.longitude.toFixed(6)}

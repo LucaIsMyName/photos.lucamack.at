@@ -9,7 +9,6 @@ import { CONFIG } from "../../config";
 import { slugify } from "../../utils/slugify";
 import { getImageUrl } from "../../utils/image";
 import { Link } from "react-router-dom";
-import { Download, MapPin } from "lucide-react";
 import SeoHead from "../ui/SeoHead";
 
 const Timeline = () => {
@@ -161,25 +160,6 @@ const Timeline = () => {
                         loading="lazy"
                         className="w-full h-full object-cover aspect-square"
                       />
-                      <div className={`sr-only absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex justify-end items-start p-2 gap-1.5`}>
-                        {image.googleMapsUrl && (
-                          <Link
-                            to={`/app/map?gallery=${image.gallerySlug}&image=${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
-                            onClick={(e) => e.stopPropagation()}
-                            className={`p-1 transition-colors ${theme === "dark" ? "text-white bg-black bg-opacity-50 " : "text-black bg-white bg-opacity-50"}`}
-                            aria-label={`View ${image.filename} on map`}>
-                            <MapPin size={16} />
-                          </Link>
-                        )}
-                        <a
-                          href={getImageUrl(image.gallerySlug, image.filename.replaceAll(" ", "_"), "original")}
-                          target="_blank"
-                          onClick={(e) => e.stopPropagation()} // Prevent navigating to gallery when clicking download
-                          className={`p-1 transition-colors ${theme === "dark" ? "text-white bg-black bg-opacity-50 " : "text-black bg-white bg-opacity-50"}`}
-                          aria-label={`Download ${image.filename.replaceAll(" ", "_")}`}>
-                          <Download size={16} />
-                        </a>
-                      </div>
                     </Link>
                   ))}
                 </div>

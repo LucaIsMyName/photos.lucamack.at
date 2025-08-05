@@ -111,13 +111,6 @@ const AllImagesMap = () => {
     };
   }, [isLegendOpen]);
 
-  // Prevent body scrolling when map is open
-  useEffect(() => {
-    document.body.style.overflow = "hidden";
-    return () => {
-      document.body.style.overflow = "auto";
-    };
-  }, []);
 
   const { clusters, supercluster } = useSupercluster({
     points,

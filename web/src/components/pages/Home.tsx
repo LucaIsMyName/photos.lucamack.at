@@ -46,7 +46,7 @@ const Home = () => {
         description={`Momente und Fotoserien von ${CONFIG.meta.title}.`}
         imageUrl={window.location.origin + imageDetails?.src}
       />
-      <div className={cn("absolute inset-0 py-12 pb-24 px-8 md:p-20 lg:p-24")}>
+      <div className={cn("absolute inset-0 bottom-[12vh] md:bottom-0 py-12 pb-24 px-8 md:p-20 lg:p-24")}>
         {imageDetails ? (
           <>
             <Link

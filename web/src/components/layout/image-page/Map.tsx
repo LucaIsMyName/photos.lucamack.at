@@ -2,7 +2,7 @@ import { CONFIG } from "../../../config";
 import { cn } from "../../../utils/cn";
 import MapGL, { Marker } from "react-map-gl/mapbox";
 import { useTheme } from "../../../contexts/ThemeContext";
-import { Link } from "react-router-dom";
+import SeoLink from "../../ui/SeoLink";
 import Href from "../../ui/Href";
 import { slugify } from "../../../utils/slugify";
 import { type Gallery } from "../../../types";
@@ -36,11 +36,13 @@ const Map = ({ image, gallery }: { image: any; gallery: Gallery }) => {
         </MapGL>
       </div>
       <div className="flex flex-wrap space-y-2 space-x-4 gap-0 mt-2">
-        <Link
+        <SeoLink
           to={`/app/map?image=${slugify(image.filename.replace(/\.[^/.]+$/, ""))}&gallery=${gallery.slug}`}
+          noIndex={true}
+          noFollow={true}
           className={cn("text-sm inline-block underline underline-offset-4 inline-block ", theme === "dark" ? "text-white decoration-red-300 hover:text-red-300 hover:decoration-red-300" : "text-black decoration-red-500 hover:text-red-600")}>
           Auf der Karte anzeigen
-        </Link>
+        </SeoLink>
         {/* <Href className="text-sm" href={`https://www.openstreetmap.org/search?query=${image.latitude},${image.longitude}`}>OpenStreetMap</Href> */}
         <Href
           className="text-sm"
