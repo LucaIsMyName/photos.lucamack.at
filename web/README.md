@@ -97,7 +97,6 @@ All content is managed locally using a simple file and folder structure. After a
 
 1.  **Create a Folder**: Add a new folder inside `web/content/pages/`. The folder name becomes the page's URL slug (e.g., `about-me`). Names only Work as slugs, so DONT use accents, spaces or any special characters. "Über mich" -> 'ueber-mich' -> Folders dont get sluggified during build process so needs to be done by dev mannually
 2.  **Create Markdown File**: Inside the new folder, create a file named `index.md`.
-    1.  The file accepts only 1 H1 and a Paragraphs
 3.  **Add Content**: Write your page content in Markdown. The page title is automatically extracted from the first H1 heading (e.g., `# About Me`).
 4.  **Generate Page Data**: Run the page generation script:
 
@@ -173,7 +172,7 @@ This acts as a static api any dev could fetch to use the images on another websi
 
 ## Color Analysis System
 
-The website features a sophisticated color analysis system that extracts dominant colors from images and calculates colorfulness metrics. This data is used throughout the application to enhance the user experience and provide visual insights.
+The website features a color analysis system that extracts dominant colors from images and calculates colorfulness metrics.
 
 ### How Main Colors Are Generated
 
@@ -216,15 +215,6 @@ The colorfulness metric is calculated using standard deviation across color chan
 
 Higher values indicate more colorful images, while lower values indicate more monochromatic images.
 
-### Most Colorful and Monochromatic Images
-
-The Statistics page identifies:
-
-- **Most Colorful Images**: The top 5 images with the highest colorfulness scores.
-- **Most Monochromatic Images**: The top 5 images with the lowest colorfulness scores.
-
-These are displayed in the Statistics page with their colorfulness values.
-
 ### Color Palettes
 
 The application generates two types of color palettes:
@@ -238,16 +228,6 @@ The application generates two types of color palettes:
    - **Winter**: December to February
 
    For each season, the top 5 most frequent colors are displayed as "Saisonale Farbtrends".
-
-### Color Display in UI
-
-Colors are displayed in several places throughout the application:
-
-1. **Image Details Page**: Shows the dominant colors for the specific image in a color palette component.
-
-2. **Statistics Page**: Displays the overall color palette, seasonal color trends, and the most colorful/monochromatic images.
-
-Each color is displayed as a colored square with its hex code shown on hover, and clicking on a color copies its hex code to the clipboard.
 
 ---
 
