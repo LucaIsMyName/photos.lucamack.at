@@ -171,6 +171,86 @@ This acts as a static api any dev could fetch to use the images on another websi
 
 ---
 
+## Color Analysis System
+
+The website features a sophisticated color analysis system that extracts dominant colors from images and calculates colorfulness metrics. This data is used throughout the application to enhance the user experience and provide visual insights.
+
+### How Main Colors Are Generated
+
+The color extraction process happens during the gallery generation phase in `generate-galleries.mjs` and involves several steps:
+
+1. **Image Processing**: Each image is loaded and resized to a smaller dimension (100x100 pixels) for faster processing using the Sharp library.
+
+2. **Color Quantization**: The script extracts RGB values from each pixel and groups similar colors by reducing precision (using a bucket size of 10).
+
+3. **Color Grouping**: Similar colors are grouped using Euclidean distance in RGB space with a similarity threshold of 60.
+
+4. **Representative Color Selection**: From each color group, the most frequent color is selected as the representative color.
+
+5. **Dominant Color Extraction**: The top 5 representative colors (by frequency) are selected as the dominant colors for the image.
+
+```typescript
+// Example of color data structure for each image
+colorData: {
+  dominantColors: [
+    {
+      rgb: [30, 150, 210],  // RGB values
+      hex: "#1e96d2",      // HEX color code
+      percentage: "0.037"  // Frequency in the image
+    },
+    // More colors...
+  ],
+  colorfulness: "50.933"  // Colorfulness score
+}
+```
+
+### Colorfulness Calculation
+
+The colorfulness metric is calculated using standard deviation across color channels:
+
+1. **Channel Analysis**: Standard deviations are calculated for the R, G, and B channels separately.
+
+2. **Color Differences**: Standard deviations of the differences between channels (R-G, R-B, G-B) are calculated.
+
+3. **Combined Metric**: All six standard deviations are averaged to produce a final colorfulness score.
+
+Higher values indicate more colorful images, while lower values indicate more monochromatic images.
+
+### Most Colorful and Monochromatic Images
+
+The Statistics page identifies:
+
+- **Most Colorful Images**: The top 5 images with the highest colorfulness scores.
+- **Most Monochromatic Images**: The top 5 images with the lowest colorfulness scores.
+
+These are displayed in the Statistics page with their colorfulness values.
+
+### Color Palettes
+
+The application generates two types of color palettes:
+
+1. **Overall Color Palette**: Created by aggregating dominant colors from all images, weighted by their frequency within each image. The top 20 colors are displayed in the Statistics page as "Farbpalette aller Serien".
+
+2. **Seasonal Color Trends**: Colors are grouped by season based on image creation dates:
+   - **Spring**: March to May
+   - **Summer**: June to August
+   - **Fall**: September to November
+   - **Winter**: December to February
+
+   For each season, the top 5 most frequent colors are displayed as "Saisonale Farbtrends".
+
+### Color Display in UI
+
+Colors are displayed in several places throughout the application:
+
+1. **Image Details Page**: Shows the dominant colors for the specific image in a color palette component.
+
+2. **Statistics Page**: Displays the overall color palette, seasonal color trends, and the most colorful/monochromatic images.
+
+Each color is displayed as a colored square with its hex code shown on hover, and clicking on a color copies its hex code to the clipboard.
+
+---
+
 ## Development Ideas
 
 - Can the whole website somehow be connected to eg. Instagram and automatically fill the IG whenever  new images are uploaded/published on the website? -> Check IG API/Docs/Whateva for this
