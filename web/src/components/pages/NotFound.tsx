@@ -58,7 +58,7 @@ const NotFound = ({ title, text }: { title?: string; text?: string }) => {
               <Href
                 to={`/gallery/${galleryInfo.gallerySlug}`}
                 className={cn("", theme === "dark" ? "text-white" : "text-black")}>
-                Zur Galerie
+                Zur Fotoserie
               </Href>
               <Href
                 to="/"

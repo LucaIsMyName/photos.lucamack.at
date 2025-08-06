@@ -2357,53 +2357,6 @@ export const galleries = [
         }
       },
       {
-        "filename": "Bezirksmuseum Wien Landstrasse.jpg",
-        "latitude": 48.201386,
-        "longitude": 16.387961,
-        "createDate": "2025-05-02T15:07:19.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                150,
-                130,
-                120
-              ],
-              "hex": "#968278",
-              "percentage": "0.018"
-            },
-            {
-              "rgb": [
-                30,
-                10,
-                10
-              ],
-              "hex": "#1e0a0a",
-              "percentage": "0.016"
-            },
-            {
-              "rgb": [
-                200,
-                180,
-                160
-              ],
-              "hex": "#c8b4a0",
-              "percentage": "0.015"
-            },
-            {
-              "rgb": [
-                160,
-                190,
-                210
-              ],
-              "hex": "#a0bed2",
-              "percentage": "0.009"
-            }
-          ],
-          "colorfulness": "33.986"
-        }
-      },
-      {
         "filename": "Blumen-Buquets vor einem Asphaltboden in Simmering.jpg",
         "latitude": 48.169933,
         "longitude": 16.427206,
@@ -4330,6 +4283,53 @@ export const galleries = [
         }
       },
       {
+        "filename": "Ibis Hotel Fassade Wien Erdberg.jpg",
+        "latitude": 48.186611,
+        "longitude": 16.413058,
+        "createDate": "2025-08-05T17:29:58.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                220
+              ],
+              "hex": "#e6e6dc",
+              "percentage": "0.069"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                20,
+                100,
+                140
+              ],
+              "hex": "#14648c",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                20
+              ],
+              "hex": "#463214",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "43.363"
+        }
+      },
+      {
         "filename": "Innenansicht Albert Schweitzer Haus auf die Garnisongasse.jpg",
         "latitude": 48.216494,
         "longitude": 16.356881,
@@ -4421,6 +4421,53 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.341"
+        }
+      },
+      {
+        "filename": "Joe Strummer - The Clash Wandbild bei der Arena Wien.jpg",
+        "latitude": 48.187325,
+        "longitude": 16.413358,
+        "createDate": "2025-08-05T17:31:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                190
+              ],
+              "hex": "#d2c8be",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                80,
+                70,
+                70
+              ],
+              "hex": "#504646",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                0,
+                60,
+                100
+              ],
+              "hex": "#003c64",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "34.917"
         }
       },
       {
@@ -5663,6 +5710,44 @@ export const galleries = [
         }
       },
       {
+        "filename": "Smiley-Satellitenantenne in der Arena Wien.jpg",
+        "latitude": 48.187622,
+        "longitude": 16.413094,
+        "createDate": "2025-08-05T18:07:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                170,
+                180
+              ],
+              "hex": "#aaaab4",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                90
+              ],
+              "hex": "#6e5a5a",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                250,
+                60,
+                240
+              ],
+              "hex": "#fa3cf0",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "34.297"
+        }
+      },
+      {
         "filename": "Sonnenschutzkonstruke bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.201789,
         "longitude": 16.337164,
@@ -6370,53 +6455,6 @@ export const galleries = [
         }
       },
       {
-        "filename": "U-Bahn Quader Symbol bei der Burggase in Rudolfsheim-Fünfhaus.jpg",
-        "latitude": 48.201886,
-        "longitude": 16.337122,
-        "createDate": "2025-05-03T11:40:48.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                100,
-                170,
-                210
-              ],
-              "hex": "#64aad2",
-              "percentage": "0.051"
-            },
-            {
-              "rgb": [
-                230,
-                210,
-                190
-              ],
-              "hex": "#e6d2be",
-              "percentage": "0.034"
-            },
-            {
-              "rgb": [
-                30,
-                20,
-                10
-              ],
-              "hex": "#1e140a",
-              "percentage": "0.017"
-            },
-            {
-              "rgb": [
-                210,
-                150,
-                10
-              ],
-              "hex": "#d2960a",
-              "percentage": "0.001"
-            }
-          ],
-          "colorfulness": "47.177"
-        }
-      },
-      {
         "filename": "U-Bahn Station Kendlerstrasse.jpg",
         "latitude": 48.200256,
         "longitude": 16.311017,
@@ -6490,6 +6528,91 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.411"
+        }
+      },
+      {
+        "filename": "U-Bahn Station und Gasometer bei Nacht.jpg",
+        "latitude": 48.185525,
+        "longitude": 16.417203,
+        "createDate": "2025-08-05T18:37:19.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                200,
+                230
+              ],
+              "hex": "#82c8e6",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                60,
+                50,
+                50
+              ],
+              "hex": "#3c3232",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "45.479"
+        }
+      },
+      {
+        "filename": "U-Bahn-Quader-Symbol bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
+        "latitude": 48.201886,
+        "longitude": 16.337122,
+        "createDate": "2025-05-03T11:40:48.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                100,
+                170,
+                210
+              ],
+              "hex": "#64aad2",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                190
+              ],
+              "hex": "#e6d2be",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                210,
+                150,
+                10
+              ],
+              "hex": "#d2960a",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "47.177"
         }
       },
       {
@@ -7294,8 +7417,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "7. Juni 2024 - 3. August 2025",
-    "imageCount": 143
+    "timeframe": "7. Juni 2024 - 5. August 2025",
+    "imageCount": 146
   },
   {
     "name": "einkaufswagerl",
@@ -7342,7 +7465,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "3 Einkaufswagerl in Simmering.jpg",
+        "filename": "3 Einkaufswagerl in der Geiselbergstrasse.jpg",
         "latitude": 48.171322,
         "longitude": 16.411978,
         "createDate": "2025-08-02T16:19:57.000Z",
@@ -7386,6 +7509,44 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.041"
+        }
+      },
+      {
+        "filename": "Alleingelassenes Einkaufswagerl in der Braunhubergasse.jpg",
+        "latitude": 48.171711,
+        "longitude": 16.41495,
+        "createDate": "2025-08-06T12:12:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                210,
+                200
+              ],
+              "hex": "#dcd2c8",
+              "percentage": "0.096"
+            },
+            {
+              "rgb": [
+                170,
+                140,
+                120
+              ],
+              "hex": "#aa8c78",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "37.066"
         }
       },
       {
@@ -7456,8 +7617,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "28. Juli 2024 - 2. August 2025",
-    "imageCount": 4
+    "timeframe": "28. Juli 2024 - 6. August 2025",
+    "imageCount": 5
   },
   {
     "name": "favoriten",
@@ -22823,7 +22984,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Ausblick von Kleingröpfritz einen Wald.jpg",
+        "filename": "Ausblick auf ein Dach, Scheune und Feld.jpg",
         "latitude": 48.859294,
         "longitude": 15.217844,
         "createDate": "2024-07-14T06:59:38.000Z",

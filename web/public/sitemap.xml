@@ -306,11 +306,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/bezirksmuseum-wien-landstrasse</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/blumen-buquets-vor-einem-asphaltboden-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -536,12 +531,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/ibis-hotel-fassade-wien-erdberg</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/innenansicht-albert-schweitzer-haus-auf-die-garnisongasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/innenansicht-heidi-horten-collection</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/joe-strummer-the-clash-wandbild-bei-der-arena-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -696,6 +701,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/smiley-satellitenantenne-in-der-arena-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/sonnenschutzkonstruke-bei-der-burggasse-in-rudolfsheim-funfhaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -776,17 +786,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/u-bahn-quader-symbol-bei-der-burggase-in-rudolfsheim-funfhaus</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/u-bahn-station-kendlerstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/u-bahn-station-stubentor-stiegen-und-lifte-durch-glas</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/u-bahn-station-und-gasometer-bei-nacht</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/u-bahn-quader-symbol-bei-der-burggasse-in-rudolfsheim-funfhaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -891,7 +906,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/3-einkaufswagerl-in-simmering</loc>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/3-einkaufswagerl-in-der-geiselbergstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/alleingelassenes-einkaufswagerl-in-der-braunhubergasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2711,7 +2731,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/ausblick-von-kleingropfritz-einen-wald</loc>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/ausblick-auf-ein-dach-scheune-und-feld</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
