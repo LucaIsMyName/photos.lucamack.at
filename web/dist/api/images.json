@@ -2753,61 +2753,6 @@
     "gallery": "beton-und-struktur"
   },
   {
-    "latitude": 48.201386,
-    "longitude": 16.387961,
-    "createDate": "2025-05-02T15:07:19.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            150,
-            130,
-            120
-          ],
-          "hex": "#968278",
-          "percentage": "0.018"
-        },
-        {
-          "rgb": [
-            30,
-            10,
-            10
-          ],
-          "hex": "#1e0a0a",
-          "percentage": "0.016"
-        },
-        {
-          "rgb": [
-            200,
-            180,
-            160
-          ],
-          "hex": "#c8b4a0",
-          "percentage": "0.015"
-        },
-        {
-          "rgb": [
-            160,
-            190,
-            210
-          ],
-          "hex": "#a0bed2",
-          "percentage": "0.009"
-        }
-      ],
-      "colorfulness": "33.986"
-    },
-    "name": "Bezirksmuseum Wien Landstrasse.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bezirksmuseum_Wien_Landstrasse.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bezirksmuseum_Wien_Landstrasse-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bezirksmuseum_Wien_Landstrasse-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bezirksmuseum_Wien_Landstrasse-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Bezirksmuseum_Wien_Landstrasse-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
     "latitude": 48.169933,
     "longitude": 16.427206,
     "createDate": "2025-07-26T12:26:37.000Z",
@@ -3019,6 +2964,52 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.216561,
+    "longitude": 16.356633,
+    "createDate": "2025-08-08T09:42:35.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            220,
+            210,
+            200
+          ],
+          "hex": "#dcd2c8",
+          "percentage": "0.075"
+        },
+        {
+          "rgb": [
+            50,
+            30,
+            20
+          ],
+          "hex": "#321e14",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            150,
+            110,
+            70
+          ],
+          "hex": "#966e46",
+          "percentage": "0.004"
+        }
+      ],
+      "colorfulness": "46.387"
+    },
+    "name": "Durchgang Garnisongasse - Schwarzspanierstrasse, Alsergrund.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Durchgang_Garnisongasse_-_Schwarzspanierstrasse,_Alsergrund.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Durchgang_Garnisongasse_-_Schwarzspanierstrasse,_Alsergrund-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Durchgang_Garnisongasse_-_Schwarzspanierstrasse,_Alsergrund-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Durchgang_Garnisongasse_-_Schwarzspanierstrasse,_Alsergrund-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Durchgang_Garnisongasse_-_Schwarzspanierstrasse,_Alsergrund-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.203186,
     "longitude": 16.337078,
     "createDate": "2025-05-03T11:37:10.000Z",
@@ -3199,6 +3190,61 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Weg_am_Donaukanal-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Weg_am_Donaukanal-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ein_Weg_am_Donaukanal-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.211436,
+    "longitude": 16.365825,
+    "createDate": "2025-08-07T15:24:00.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            230,
+            210,
+            180
+          ],
+          "hex": "#e6d2b4",
+          "percentage": "0.054"
+        },
+        {
+          "rgb": [
+            150,
+            120,
+            100
+          ],
+          "hex": "#967864",
+          "percentage": "0.032"
+        },
+        {
+          "rgb": [
+            60,
+            40,
+            30
+          ],
+          "hex": "#3c281e",
+          "percentage": "0.012"
+        },
+        {
+          "rgb": [
+            230,
+            160,
+            70
+          ],
+          "hex": "#e6a046",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "36.993"
+    },
+    "name": "Eingang Bank-Austria Kulturforum.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Eingang_Bank-Austria_Kulturforum.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Eingang_Bank-Austria_Kulturforum-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Eingang_Bank-Austria_Kulturforum-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Eingang_Bank-Austria_Kulturforum-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Eingang_Bank-Austria_Kulturforum-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -3841,6 +3887,70 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_Cafe_Weidinger_am_Neubau-Gürtel-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_Cafe_Weidinger_am_Neubau-Gürtel-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_Cafe_Weidinger_am_Neubau-Gürtel-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.211506,
+    "longitude": 16.365558,
+    "createDate": "2025-08-07T15:23:28.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.235"
+        },
+        {
+          "rgb": [
+            150,
+            150,
+            150
+          ],
+          "hex": "#969696",
+          "percentage": "0.020"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            90,
+            70,
+            60
+          ],
+          "hex": "#5a463c",
+          "percentage": "0.004"
+        },
+        {
+          "rgb": [
+            10,
+            90,
+            120
+          ],
+          "hex": "#0a5a78",
+          "percentage": "0.003"
+        }
+      ],
+      "colorfulness": "42.882"
+    },
+    "name": "Fassade der Freyung in der Inneren Stadt.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_der_Freyung_in_der_Inneren_Stadt.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_der_Freyung_in_der_Inneren_Stadt-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_der_Freyung_in_der_Inneren_Stadt-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_der_Freyung_in_der_Inneren_Stadt-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_der_Freyung_in_der_Inneren_Stadt-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -5094,6 +5204,61 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.186611,
+    "longitude": 16.413058,
+    "createDate": "2025-08-05T17:29:58.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            230,
+            230,
+            220
+          ],
+          "hex": "#e6e6dc",
+          "percentage": "0.069"
+        },
+        {
+          "rgb": [
+            200,
+            180,
+            160
+          ],
+          "hex": "#c8b4a0",
+          "percentage": "0.043"
+        },
+        {
+          "rgb": [
+            20,
+            100,
+            140
+          ],
+          "hex": "#14648c",
+          "percentage": "0.014"
+        },
+        {
+          "rgb": [
+            70,
+            50,
+            20
+          ],
+          "hex": "#463214",
+          "percentage": "0.009"
+        }
+      ],
+      "colorfulness": "43.363"
+    },
+    "name": "Ibis Hotel Fassade Wien Erdberg.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ibis_Hotel_Fassade_Wien_Erdberg.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ibis_Hotel_Fassade_Wien_Erdberg-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ibis_Hotel_Fassade_Wien_Erdberg-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ibis_Hotel_Fassade_Wien_Erdberg-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Ibis_Hotel_Fassade_Wien_Erdberg-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.216494,
     "longitude": 16.356881,
     "createDate": "2025-05-02T10:48:43.000Z",
@@ -5200,6 +5365,61 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Innenansicht_Heidi_Horten_Collection-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Innenansicht_Heidi_Horten_Collection-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Innenansicht_Heidi_Horten_Collection-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.187325,
+    "longitude": 16.413358,
+    "createDate": "2025-08-05T17:31:21.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.018"
+        },
+        {
+          "rgb": [
+            210,
+            200,
+            190
+          ],
+          "hex": "#d2c8be",
+          "percentage": "0.017"
+        },
+        {
+          "rgb": [
+            80,
+            70,
+            70
+          ],
+          "hex": "#504646",
+          "percentage": "0.014"
+        },
+        {
+          "rgb": [
+            0,
+            60,
+            100
+          ],
+          "hex": "#003c64",
+          "percentage": "0.005"
+        }
+      ],
+      "colorfulness": "34.917"
+    },
+    "name": "Joe Strummer - The Clash Wandbild bei der Arena Wien.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Joe_Strummer_-_The_Clash_Wandbild_bei_der_Arena_Wien.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Joe_Strummer_-_The_Clash_Wandbild_bei_der_Arena_Wien-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Joe_Strummer_-_The_Clash_Wandbild_bei_der_Arena_Wien-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Joe_Strummer_-_The_Clash_Wandbild_bei_der_Arena_Wien-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Joe_Strummer_-_The_Clash_Wandbild_bei_der_Arena_Wien-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -5742,6 +5962,70 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lorystrasse_77_in_Simmering_-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lorystrasse_77_in_Simmering_-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Lorystrasse_77_in_Simmering_-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.171106,
+    "longitude": 16.417375,
+    "createDate": "2025-08-08T14:50:50.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            40,
+            30,
+            20
+          ],
+          "hex": "#281e14",
+          "percentage": "0.027"
+        },
+        {
+          "rgb": [
+            110,
+            100,
+            100
+          ],
+          "hex": "#6e6464",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            150,
+            140,
+            130
+          ],
+          "hex": "#968c82",
+          "percentage": "0.011"
+        },
+        {
+          "rgb": [
+            240,
+            230,
+            220
+          ],
+          "hex": "#f0e6dc",
+          "percentage": "0.010"
+        },
+        {
+          "rgb": [
+            190,
+            180,
+            170
+          ],
+          "hex": "#beb4aa",
+          "percentage": "0.010"
+        }
+      ],
+      "colorfulness": "34.123"
+    },
+    "name": "Mahnmal den Opfern des Nationalsozialismus in der Braunhubergasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mahnmal_den_Opfern_des_Nationalsozialismus_in_der_Braunhubergasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mahnmal_den_Opfern_des_Nationalsozialismus_in_der_Braunhubergasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mahnmal_den_Opfern_des_Nationalsozialismus_in_der_Braunhubergasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mahnmal_den_Opfern_des_Nationalsozialismus_in_der_Braunhubergasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mahnmal_den_Opfern_des_Nationalsozialismus_in_der_Braunhubergasse-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -6683,6 +6967,52 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.187622,
+    "longitude": 16.413094,
+    "createDate": "2025-08-05T18:07:21.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            170,
+            170,
+            180
+          ],
+          "hex": "#aaaab4",
+          "percentage": "0.039"
+        },
+        {
+          "rgb": [
+            110,
+            90,
+            90
+          ],
+          "hex": "#6e5a5a",
+          "percentage": "0.023"
+        },
+        {
+          "rgb": [
+            250,
+            60,
+            240
+          ],
+          "hex": "#fa3cf0",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "34.297"
+    },
+    "name": "Smiley-Satellitenantenne in der Arena Wien.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Smiley-Satellitenantenne_in_der_Arena_Wien.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Smiley-Satellitenantenne_in_der_Arena_Wien-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Smiley-Satellitenantenne_in_der_Arena_Wien-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Smiley-Satellitenantenne_in_der_Arena_Wien-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Smiley-Satellitenantenne_in_der_Arena_Wien-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.201789,
     "longitude": 16.337164,
     "createDate": "2025-05-03T11:40:07.000Z",
@@ -6936,6 +7266,70 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statue_Garnisongasse-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statue_Garnisongasse-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statue_Garnisongasse-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.211525,
+    "longitude": 16.365569,
+    "createDate": "2025-08-07T15:23:15.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            10,
+            130,
+            190
+          ],
+          "hex": "#0a82be",
+          "percentage": "0.102"
+        },
+        {
+          "rgb": [
+            240,
+            230,
+            210
+          ],
+          "hex": "#f0e6d2",
+          "percentage": "0.011"
+        },
+        {
+          "rgb": [
+            70,
+            50,
+            40
+          ],
+          "hex": "#463228",
+          "percentage": "0.010"
+        },
+        {
+          "rgb": [
+            170,
+            150,
+            130
+          ],
+          "hex": "#aa9682",
+          "percentage": "0.008"
+        },
+        {
+          "rgb": [
+            120,
+            100,
+            90
+          ],
+          "hex": "#78645a",
+          "percentage": "0.008"
+        }
+      ],
+      "colorfulness": "55.578"
+    },
+    "name": "Statue auf der Freyung.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statue_auf_der_Freyung.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statue_auf_der_Freyung-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statue_auf_der_Freyung-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statue_auf_der_Freyung-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Statue_auf_der_Freyung-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -7518,61 +7912,6 @@
     "gallery": "beton-und-struktur"
   },
   {
-    "latitude": 48.201886,
-    "longitude": 16.337122,
-    "createDate": "2025-05-03T11:40:48.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            100,
-            170,
-            210
-          ],
-          "hex": "#64aad2",
-          "percentage": "0.051"
-        },
-        {
-          "rgb": [
-            230,
-            210,
-            190
-          ],
-          "hex": "#e6d2be",
-          "percentage": "0.034"
-        },
-        {
-          "rgb": [
-            30,
-            20,
-            10
-          ],
-          "hex": "#1e140a",
-          "percentage": "0.017"
-        },
-        {
-          "rgb": [
-            210,
-            150,
-            10
-          ],
-          "hex": "#d2960a",
-          "percentage": "0.001"
-        }
-      ],
-      "colorfulness": "47.177"
-    },
-    "name": "U-Bahn Quader Symbol bei der Burggase in Rudolfsheim-Fünfhaus.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Quader_Symbol_bei_der_Burggase_in_Rudolfsheim-Fünfhaus.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Quader_Symbol_bei_der_Burggase_in_Rudolfsheim-Fünfhaus-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Quader_Symbol_bei_der_Burggase_in_Rudolfsheim-Fünfhaus-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Quader_Symbol_bei_der_Burggase_in_Rudolfsheim-Fünfhaus-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Quader_Symbol_bei_der_Burggase_in_Rudolfsheim-Fünfhaus-1440w.jpg"
-    },
-    "gallery": "beton-und-struktur"
-  },
-  {
     "latitude": 48.200256,
     "longitude": 16.311017,
     "createDate": "2025-06-07T20:18:52.000Z",
@@ -7661,6 +8000,107 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_Stubentor_Stiegen_und_Lifte_durch_Glas-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_Stubentor_Stiegen_und_Lifte_durch_Glas-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_Stubentor_Stiegen_und_Lifte_durch_Glas-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.185525,
+    "longitude": 16.417203,
+    "createDate": "2025-08-05T18:37:19.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            130,
+            200,
+            230
+          ],
+          "hex": "#82c8e6",
+          "percentage": "0.031"
+        },
+        {
+          "rgb": [
+            60,
+            50,
+            50
+          ],
+          "hex": "#3c3232",
+          "percentage": "0.023"
+        },
+        {
+          "rgb": [
+            160,
+            140,
+            130
+          ],
+          "hex": "#a08c82",
+          "percentage": "0.005"
+        }
+      ],
+      "colorfulness": "45.479"
+    },
+    "name": "U-Bahn Station und Gasometer bei Nacht.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_und_Gasometer_bei_Nacht.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_und_Gasometer_bei_Nacht-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_und_Gasometer_bei_Nacht-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_und_Gasometer_bei_Nacht-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn_Station_und_Gasometer_bei_Nacht-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.201886,
+    "longitude": 16.337122,
+    "createDate": "2025-05-03T11:40:48.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            100,
+            170,
+            210
+          ],
+          "hex": "#64aad2",
+          "percentage": "0.051"
+        },
+        {
+          "rgb": [
+            230,
+            210,
+            190
+          ],
+          "hex": "#e6d2be",
+          "percentage": "0.034"
+        },
+        {
+          "rgb": [
+            30,
+            20,
+            10
+          ],
+          "hex": "#1e140a",
+          "percentage": "0.017"
+        },
+        {
+          "rgb": [
+            210,
+            150,
+            10
+          ],
+          "hex": "#d2960a",
+          "percentage": "0.001"
+        }
+      ],
+      "colorfulness": "47.177"
+    },
+    "name": "U-Bahn-Quader-Symbol bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn-Quader-Symbol_bei_der_Burggasse_in_Rudolfsheim-Fünfhaus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn-Quader-Symbol_bei_der_Burggasse_in_Rudolfsheim-Fünfhaus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn-Quader-Symbol_bei_der_Burggasse_in_Rudolfsheim-Fünfhaus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn-Quader-Symbol_bei_der_Burggasse_in_Rudolfsheim-Fünfhaus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/U-Bahn-Quader-Symbol_bei_der_Burggasse_in_Rudolfsheim-Fünfhaus-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -7771,6 +8211,52 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/VHS_Simmering-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/VHS_Simmering-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/VHS_Simmering-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.215953,
+    "longitude": 16.359044,
+    "createDate": "2025-08-08T13:58:21.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            120,
+            110,
+            110
+          ],
+          "hex": "#786e6e",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            160,
+            150,
+            140
+          ],
+          "hex": "#a0968c",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            180,
+            160,
+            80
+          ],
+          "hex": "#b4a050",
+          "percentage": "0.014"
+        }
+      ],
+      "colorfulness": "33.577"
+    },
+    "name": "Votivkirche bei Währingerstrasse Alsergrund.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Votivkirche_bei_Währingerstrasse_Alsergrund.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Votivkirche_bei_Währingerstrasse_Alsergrund-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Votivkirche_bei_Währingerstrasse_Alsergrund-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Votivkirche_bei_Währingerstrasse_Alsergrund-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Votivkirche_bei_Währingerstrasse_Alsergrund-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -8700,13 +9186,123 @@
       ],
       "colorfulness": "36.041"
     },
-    "name": "3 Einkaufswagerl in Simmering.jpg",
+    "name": "3 Einkaufswagerl in der Geiselbergstrasse.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_Simmering.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_Simmering-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_Simmering-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_Simmering-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_Simmering-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_der_Geiselbergstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_der_Geiselbergstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_der_Geiselbergstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_der_Geiselbergstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_der_Geiselbergstrasse-1440w.jpg"
+    },
+    "gallery": "einkaufswagerl"
+  },
+  {
+    "latitude": 48.170958,
+    "longitude": 16.417464,
+    "createDate": "2025-08-08T14:51:00.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            110,
+            90,
+            50
+          ],
+          "hex": "#6e5a32",
+          "percentage": "0.028"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.025"
+        },
+        {
+          "rgb": [
+            170,
+            150,
+            140
+          ],
+          "hex": "#aa968c",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            200,
+            190,
+            180
+          ],
+          "hex": "#c8beb4",
+          "percentage": "0.007"
+        },
+        {
+          "rgb": [
+            250,
+            240,
+            220
+          ],
+          "hex": "#faf0dc",
+          "percentage": "0.001"
+        }
+      ],
+      "colorfulness": "28.769"
+    },
+    "name": "Alleingelassenes Einkaufswagerl in der Braunhubergasse 2.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse_2.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse_2-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse_2-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse_2-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse_2-1440w.jpg"
+    },
+    "gallery": "einkaufswagerl"
+  },
+  {
+    "latitude": 48.171711,
+    "longitude": 16.41495,
+    "createDate": "2025-08-06T12:12:07.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            220,
+            210,
+            200
+          ],
+          "hex": "#dcd2c8",
+          "percentage": "0.096"
+        },
+        {
+          "rgb": [
+            170,
+            140,
+            120
+          ],
+          "hex": "#aa8c78",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            40,
+            20,
+            10
+          ],
+          "hex": "#28140a",
+          "percentage": "0.011"
+        }
+      ],
+      "colorfulness": "37.066"
+    },
+    "name": "Alleingelassenes Einkaufswagerl in der Braunhubergasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse-1440w.jpg"
     },
     "gallery": "einkaufswagerl"
   },
@@ -18128,6 +18724,52 @@
     "gallery": "oeffis"
   },
   {
+    "latitude": 48.214722,
+    "longitude": 16.361758,
+    "createDate": "2025-08-07T13:03:46.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.034"
+        },
+        {
+          "rgb": [
+            120,
+            190,
+            230
+          ],
+          "hex": "#78bee6",
+          "percentage": "0.032"
+        },
+        {
+          "rgb": [
+            180,
+            160,
+            150
+          ],
+          "hex": "#b4a096",
+          "percentage": "0.011"
+        }
+      ],
+      "colorfulness": "46.714"
+    },
+    "name": "Eingang Schottenpassage bei Währinger-Strasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_Schottenpassage_bei_Währinger-Strasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_Schottenpassage_bei_Währinger-Strasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_Schottenpassage_bei_Währinger-Strasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_Schottenpassage_bei_Währinger-Strasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_Schottenpassage_bei_Währinger-Strasse-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
     "latitude": 48.230983,
     "longitude": 16.329208,
     "createDate": "2025-04-21T16:04:21.000Z",
@@ -19055,6 +19697,70 @@
     "gallery": "oeffis"
   },
   {
+    "latitude": 48.214097,
+    "longitude": 16.361931,
+    "createDate": "2025-08-08T06:56:43.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            30,
+            20,
+            10
+          ],
+          "hex": "#1e140a",
+          "percentage": "0.024"
+        },
+        {
+          "rgb": [
+            130,
+            210,
+            230
+          ],
+          "hex": "#82d2e6",
+          "percentage": "0.007"
+        },
+        {
+          "rgb": [
+            180,
+            180,
+            180
+          ],
+          "hex": "#b4b4b4",
+          "percentage": "0.004"
+        },
+        {
+          "rgb": [
+            160,
+            170,
+            90
+          ],
+          "hex": "#a0aa5a",
+          "percentage": "0.003"
+        },
+        {
+          "rgb": [
+            240,
+            220,
+            190
+          ],
+          "hex": "#f0dcbe",
+          "percentage": "0.002"
+        }
+      ],
+      "colorfulness": "43.308"
+    },
+    "name": "Schottenpassge mit Blick auf die Votivkirche.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/Schottenpassge_mit_Blick_auf_die_Votivkirche.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/oeffis/Schottenpassge_mit_Blick_auf_die_Votivkirche-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/oeffis/Schottenpassge_mit_Blick_auf_die_Votivkirche-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/Schottenpassge_mit_Blick_auf_die_Votivkirche-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/Schottenpassge_mit_Blick_auf_die_Votivkirche-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
     "latitude": 48.198619,
     "longitude": 16.376922,
     "createDate": "2025-05-14T17:48:27.000Z",
@@ -19345,6 +20051,52 @@
       "w380": "https://photos.lucamack.at/content/galleries/oeffis/Südtiroler_Platz_Hauptbahnhof_Wien-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/oeffis/Südtiroler_Platz_Hauptbahnhof_Wien-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/oeffis/Südtiroler_Platz_Hauptbahnhof_Wien-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
+    "latitude": 48.214097,
+    "longitude": 16.361931,
+    "createDate": "2025-08-08T06:56:39.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            130,
+            100,
+            80
+          ],
+          "hex": "#826450",
+          "percentage": "0.020"
+        },
+        {
+          "rgb": [
+            80,
+            50,
+            30
+          ],
+          "hex": "#50321e",
+          "percentage": "0.011"
+        },
+        {
+          "rgb": [
+            60,
+            80,
+            190
+          ],
+          "hex": "#3c50be",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "35.016"
+    },
+    "name": "Tabak-Trafik in der Schottenpassage.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/Tabak-Trafik_in_der_Schottenpassage.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/oeffis/Tabak-Trafik_in_der_Schottenpassage-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/oeffis/Tabak-Trafik_in_der_Schottenpassage-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/Tabak-Trafik_in_der_Schottenpassage-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/Tabak-Trafik_in_der_Schottenpassage-1440w.jpg"
     },
     "gallery": "oeffis"
   },
@@ -26787,13 +27539,13 @@
       ],
       "colorfulness": "47.496"
     },
-    "name": "Ausblick von Kleingröpfritz einen Wald.jpg",
+    "name": "Ausblick in Kleingröpfritz auf eine Scheune und Feld.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Ausblick_von_Kleingröpfritz_einen_Wald.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Ausblick_von_Kleingröpfritz_einen_Wald-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Ausblick_von_Kleingröpfritz_einen_Wald-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Ausblick_von_Kleingröpfritz_einen_Wald-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Ausblick_von_Kleingröpfritz_einen_Wald-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Ausblick_in_Kleingröpfritz_auf_eine_Scheune_und_Feld.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Ausblick_in_Kleingröpfritz_auf_eine_Scheune_und_Feld-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Ausblick_in_Kleingröpfritz_auf_eine_Scheune_und_Feld-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Ausblick_in_Kleingröpfritz_auf_eine_Scheune_und_Feld-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/sonstwo-und-allfaelliges/Ausblick_in_Kleingröpfritz_auf_eine_Scheune_und_Feld-1440w.jpg"
     },
     "gallery": "sonstwo-und-allfaelliges"
   },
@@ -27492,6 +28244,43 @@
       "w380": "https://photos.lucamack.at/content/galleries/symbole/'Unter_der_Kirche'_Strassenschild_Simmering-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/symbole/'Unter_der_Kirche'_Strassenschild_Simmering-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Unter_der_Kirche'_Strassenschild_Simmering-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.216328,
+    "longitude": 16.357353,
+    "createDate": "2025-08-07T15:11:42.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            170,
+            140,
+            120
+          ],
+          "hex": "#aa8c78",
+          "percentage": "0.030"
+        },
+        {
+          "rgb": [
+            30,
+            10,
+            10
+          ],
+          "hex": "#1e0a0a",
+          "percentage": "0.030"
+        }
+      ],
+      "colorfulness": "34.337"
+    },
+    "name": "'Visitenkarten' Fenster-Schriftzug in der Schwarzspanierstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Visitenkarten'_Fenster-Schriftzug_in_der_Schwarzspanierstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Visitenkarten'_Fenster-Schriftzug_in_der_Schwarzspanierstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Visitenkarten'_Fenster-Schriftzug_in_der_Schwarzspanierstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Visitenkarten'_Fenster-Schriftzug_in_der_Schwarzspanierstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Visitenkarten'_Fenster-Schriftzug_in_der_Schwarzspanierstrasse-1440w.jpg"
     },
     "gallery": "symbole"
   },

@@ -288,7 +288,7 @@ const Filter = () => {
                   <button
                     onClick={() => setSelectedColor(null)}
                     className="text-xs opacity-70 hover:opacity-100"
-                    aria-label="Clear color filter">
+                    aria-label="Alle Filter zurücksetzen">
                     <X size={12} />
                   </button>
                 )}

@@ -326,6 +326,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/durchgang-garnisongasse-schwarzspanierstrasse-alsergrund</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/echoes-schriftzug-hauptbibliothek-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -342,6 +347,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/ein-weg-am-donaukanal</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/eingang-bank-austria-kulturforum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -402,6 +412,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/fassade-cafe-weidinger-am-neubau-gurtel</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/fassade-der-freyung-in-der-inneren-stadt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -606,6 +621,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/mahnmal-den-opfern-des-nationalsozialismus-in-der-braunhubergasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/max-wopenka-hof-wandgemalde</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -731,6 +751,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/statue-auf-der-freyung</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/statue-im-stadtpark-und-rote-blumen</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -812,6 +837,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/vhs-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/votivkirche-bei-wahringerstrasse-alsergrund</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -907,6 +937,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/3-einkaufswagerl-in-der-geiselbergstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/alleingelassenes-einkaufswagerl-in-der-braunhubergasse-2</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1871,6 +1906,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/eingang-schottenpassage-bei-wahringer-strasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/gersthof-s-bahn-station-im-jugendstil-von-otto-wagner-2</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1961,6 +2001,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/schottenpassge-mit-blick-auf-die-votivkirche</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/schwarzenbergplatz-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1987,6 +2032,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/sudtiroler-platz-hauptbahnhof-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/tabak-trafik-in-der-schottenpassage</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2731,7 +2781,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/ausblick-auf-ein-dach-scheune-und-feld</loc>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/ausblick-in-kleingropfritz-auf-eine-scheune-und-feld</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2807,6 +2857,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/unter-der-kirche-strassenschild-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/visitenkarten-fenster-schriftzug-in-der-schwarzspanierstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

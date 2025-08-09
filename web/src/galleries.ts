@@ -2536,6 +2536,44 @@ export const galleries = [
         }
       },
       {
+        "filename": "Durchgang Garnisongasse - Schwarzspanierstrasse, Alsergrund.jpg",
+        "latitude": 48.216561,
+        "longitude": 16.356633,
+        "createDate": "2025-08-08T09:42:35.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                210,
+                200
+              ],
+              "hex": "#dcd2c8",
+              "percentage": "0.075"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                20
+              ],
+              "hex": "#321e14",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                150,
+                110,
+                70
+              ],
+              "hex": "#966e46",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "46.387"
+        }
+      },
+      {
         "filename": "Echoes Schriftzug Hauptbibliothek Wien.jpg",
         "latitude": 48.203186,
         "longitude": 16.337078,
@@ -2685,6 +2723,53 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.381"
+        }
+      },
+      {
+        "filename": "Eingang Bank-Austria Kulturforum.jpg",
+        "latitude": 48.211436,
+        "longitude": 16.365825,
+        "createDate": "2025-08-07T15:24:00.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                210,
+                180
+              ],
+              "hex": "#e6d2b4",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                100
+              ],
+              "hex": "#967864",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                60,
+                40,
+                30
+              ],
+              "hex": "#3c281e",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                230,
+                160,
+                70
+              ],
+              "hex": "#e6a046",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "36.993"
         }
       },
       {
@@ -3231,6 +3316,62 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.687"
+        }
+      },
+      {
+        "filename": "Fassade der Freyung in der Inneren Stadt.jpg",
+        "latitude": 48.211506,
+        "longitude": 16.365558,
+        "createDate": "2025-08-07T15:23:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.235"
+            },
+            {
+              "rgb": [
+                150,
+                150,
+                150
+              ],
+              "hex": "#969696",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                10,
+                90,
+                120
+              ],
+              "hex": "#0a5a78",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "42.882"
         }
       },
       {
@@ -4925,6 +5066,62 @@ export const galleries = [
         }
       },
       {
+        "filename": "Mahnmal den Opfern des Nationalsozialismus in der Braunhubergasse.jpg",
+        "latitude": 48.171106,
+        "longitude": 16.417375,
+        "createDate": "2025-08-08T14:50:50.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                30,
+                20
+              ],
+              "hex": "#281e14",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                110,
+                100,
+                100
+              ],
+              "hex": "#6e6464",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                150,
+                140,
+                130
+              ],
+              "hex": "#968c82",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "34.123"
+        }
+      },
+      {
         "filename": "Max Wopenka Hof Wandgemälde.jpg",
         "latitude": 48.174794,
         "longitude": 16.403611,
@@ -5965,6 +6162,62 @@ export const galleries = [
         }
       },
       {
+        "filename": "Statue auf der Freyung.jpg",
+        "latitude": 48.211525,
+        "longitude": 16.365569,
+        "createDate": "2025-08-07T15:23:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                130,
+                190
+              ],
+              "hex": "#0a82be",
+              "percentage": "0.102"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                40
+              ],
+              "hex": "#463228",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                130
+              ],
+              "hex": "#aa9682",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                120,
+                100,
+                90
+              ],
+              "hex": "#78645a",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "55.578"
+        }
+      },
+      {
         "filename": "Statue im Stadtpark und rote Blumen.jpg",
         "latitude": 48.206183,
         "longitude": 16.380597,
@@ -6710,6 +6963,44 @@ export const galleries = [
         }
       },
       {
+        "filename": "Votivkirche bei Währingerstrasse Alsergrund.jpg",
+        "latitude": 48.215953,
+        "longitude": 16.359044,
+        "createDate": "2025-08-08T13:58:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                120,
+                110,
+                110
+              ],
+              "hex": "#786e6e",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                160,
+                150,
+                140
+              ],
+              "hex": "#a0968c",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                80
+              ],
+              "hex": "#b4a050",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "33.577"
+        }
+      },
+      {
         "filename": "Votivkirche von Blick Richtung Schottentor.jpg",
         "latitude": 48.214017,
         "longitude": 16.361797,
@@ -7417,8 +7708,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "7. Juni 2024 - 5. August 2025",
-    "imageCount": 146
+    "timeframe": "7. Juni 2024 - 8. August 2025",
+    "imageCount": 152
   },
   {
     "name": "einkaufswagerl",
@@ -7509,6 +7800,62 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.041"
+        }
+      },
+      {
+        "filename": "Alleingelassenes Einkaufswagerl in der Braunhubergasse 2.jpg",
+        "latitude": 48.170958,
+        "longitude": 16.417464,
+        "createDate": "2025-08-08T14:51:00.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                110,
+                90,
+                50
+              ],
+              "hex": "#6e5a32",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                140
+              ],
+              "hex": "#aa968c",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                180
+              ],
+              "hex": "#c8beb4",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "28.769"
         }
       },
       {
@@ -7617,8 +7964,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "28. Juli 2024 - 6. August 2025",
-    "imageCount": 5
+    "timeframe": "28. Juli 2024 - 8. August 2025",
+    "imageCount": 6
   },
   {
     "name": "favoriten",
@@ -15583,6 +15930,44 @@ export const galleries = [
         }
       },
       {
+        "filename": "Eingang Schottenpassage bei Währinger-Strasse.jpg",
+        "latitude": 48.214722,
+        "longitude": 16.361758,
+        "createDate": "2025-08-07T13:03:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                120,
+                190,
+                230
+              ],
+              "hex": "#78bee6",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                150
+              ],
+              "hex": "#b4a096",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "46.714"
+        }
+      },
+      {
         "filename": "Gersthof S-Bahn Station im Jugendstil von Otto Wagner 2.jpg",
         "latitude": 48.230983,
         "longitude": 16.329208,
@@ -16366,6 +16751,62 @@ export const galleries = [
         }
       },
       {
+        "filename": "Schottenpassge mit Blick auf die Votivkirche.jpg",
+        "latitude": 48.214097,
+        "longitude": 16.361931,
+        "createDate": "2025-08-08T06:56:43.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                130,
+                210,
+                230
+              ],
+              "hex": "#82d2e6",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                160,
+                170,
+                90
+              ],
+              "hex": "#a0aa5a",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                190
+              ],
+              "hex": "#f0dcbe",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "43.308"
+        }
+      },
+      {
         "filename": "Schwarzenbergplatz Wien.jpg",
         "latitude": 48.198619,
         "longitude": 16.376922,
@@ -16609,6 +17050,44 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.586"
+        }
+      },
+      {
+        "filename": "Tabak-Trafik in der Schottenpassage.jpg",
+        "latitude": 48.214097,
+        "longitude": 16.361931,
+        "createDate": "2025-08-08T06:56:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                100,
+                80
+              ],
+              "hex": "#826450",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                60,
+                80,
+                190
+              ],
+              "hex": "#3c50be",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "35.016"
         }
       },
       {
@@ -17317,8 +17796,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "11. April 2024 - 3. August 2025",
-    "imageCount": 56
+    "timeframe": "11. April 2024 - 8. August 2025",
+    "imageCount": 59
   },
   {
     "name": "ostsee",
@@ -22984,7 +23463,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Ausblick auf ein Dach, Scheune und Feld.jpg",
+        "filename": "Ausblick in Kleingröpfritz auf eine Scheune und Feld.jpg",
         "latitude": 48.859294,
         "longitude": 15.217844,
         "createDate": "2024-07-14T06:59:38.000Z",
@@ -23606,6 +24085,35 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.856"
+        }
+      },
+      {
+        "filename": "'Visitenkarten' Fenster-Schriftzug in der Schwarzspanierstrasse.jpg",
+        "latitude": 48.216328,
+        "longitude": 16.357353,
+        "createDate": "2025-08-07T15:11:42.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                140,
+                120
+              ],
+              "hex": "#aa8c78",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.030"
+            }
+          ],
+          "colorfulness": "34.337"
         }
       },
       {
@@ -24683,8 +25191,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "11. April 2024 - 3. August 2025",
-    "imageCount": 31
+    "timeframe": "11. April 2024 - 7. August 2025",
+    "imageCount": 32
   },
   {
     "name": "valencia",

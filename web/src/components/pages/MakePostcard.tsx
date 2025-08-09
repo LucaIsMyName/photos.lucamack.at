@@ -145,6 +145,7 @@ const MakePostcard = () => {
           <div className="grid grid-cols-2 gap-4 ">
             <Field label="Galerie">
               <StyledSelect
+                
                 value={selectedGallery}
                 onValueChange={setSelectedGallery}
                 placeholder="Galerie wählen">
@@ -356,7 +357,7 @@ const StyledSelect = ({ children, ...props }: Select.SelectProps & { children: R
         <Select.Content
           position="popper"
           sideOffset={5}
-          className={cn("w-[calc(100vw-4rem)] shadow-[2px_2px_0px_rgba(0,0,0,0.2)] border z-50 md:w-auto md:min-w-[var(--radix-select-trigger-width)] md:max-w-md", theme === "dark" ? "bg-black text-white border-white" : "bg-white text-black border-black")}>
+          className={cn("w-[calc(100vw-4rem)] max-h-[33vh] shadow-[2px_2px_0px_rgba(0,0,0,0.2)] border z-50 md:w-auto md:min-w-[var(--radix-select-trigger-width)] md:max-w-md", theme === "dark" ? "bg-black text-white border-white" : "bg-white text-black border-black")}>
           <Select.Viewport className="p-1">{children}</Select.Viewport>
         </Select.Content>
       </Select.Portal>
