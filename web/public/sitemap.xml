@@ -166,6 +166,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/132-hausnummer-in-der-wieder-hauptstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/damen-hair-laser-herren-schriftzug-in-der-grillgasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -212,6 +217,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/76a-bus-in-der-nahe-des-enkplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/abstrakt-durch-glas</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -331,6 +341,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/durchgang-zu-einem-gemeindebau-in-wieden</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/echoes-schriftzug-hauptbibliothek-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -441,12 +456,32 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/fassade-eines-gemeindebaus-in-meidling</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/fassade-eines-hauses-in-ottakring</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/fassade-und-baum-widholz-hof</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/favoritner-gurtel-bei-hauptbahnhof</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/fensterbogen-am-fuchsenfeld-meidling</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/flugzeug-und-wohnhauser-in-wieden</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -467,6 +502,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/gelander-und-u-bahn-station-rossauer-lande</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/gemeindebau-am-fuchsenfeld-fassade</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -576,6 +616,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/kirche-zur-auferstehung-christi</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/kleines-haus-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -622,6 +667,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/mahnmal-den-opfern-des-nationalsozialismus-in-der-braunhubergasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/mauer-rosen-und-gemeindewohnung-in-wieden</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -937,6 +987,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/3-einkaufswagerl-in-der-geiselbergstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/alleingelassenes-einkaufswagerl-in-meidling</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1841,6 +1896,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/stadtpark-u-bahn-station-schriftzug</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/wien-hauptbahnhof-schild-am-busbahnhof-sudtirolerplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/3-telefone-in-der-bim-station-schottentor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1907,6 +1972,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/eingang-schottenpassage-bei-wahringer-strasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/eingang-der-u-bahn-station-langenfeldgasse-bei-nacht</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2179,6 +2249,11 @@
     <loc>https://photos.lucamack.at/gallery/parks</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/parks/image/banke-und-park-am-margaretengurtel</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/parks/image/baume-im-auer-wellsbach-park-wien</loc>
@@ -2846,12 +2921,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/otto-graffitti</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/ruhe-graffitti-in-der-simmeringer-hauptstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/thailandische-spezialitate-auslage-in-der-kaiser-ebersdorfer-strasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/ugly-graffitti-in-meidling</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

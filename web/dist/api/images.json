@@ -1357,6 +1357,52 @@
     "gallery": "berlin"
   },
   {
+    "latitude": 48.183814,
+    "longitude": 16.360983,
+    "createDate": "2025-08-09T14:59:13.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            180,
+            170,
+            160
+          ],
+          "hex": "#b4aaa0",
+          "percentage": "0.044"
+        },
+        {
+          "rgb": [
+            130,
+            110,
+            90
+          ],
+          "hex": "#826e5a",
+          "percentage": "0.038"
+        },
+        {
+          "rgb": [
+            70,
+            40,
+            30
+          ],
+          "hex": "#46281e",
+          "percentage": "0.003"
+        }
+      ],
+      "colorfulness": "25.898"
+    },
+    "name": "'132' Hausnummer in der Wieder-Hauptstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'132'_Hausnummer_in_der_Wieder-Hauptstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'132'_Hausnummer_in_der_Wieder-Hauptstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'132'_Hausnummer_in_der_Wieder-Hauptstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'132'_Hausnummer_in_der_Wieder-Hauptstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/'132'_Hausnummer_in_der_Wieder-Hauptstrasse-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.174511,
     "longitude": 16.409864,
     "createDate": "2025-08-02T11:23:30.000Z",
@@ -1867,6 +1913,52 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/76A_Bus_in_der_nähe_des_Enkplatz-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/76A_Bus_in_der_nähe_des_Enkplatz-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/76A_Bus_in_der_nähe_des_Enkplatz-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.177594,
+    "longitude": 16.341889,
+    "createDate": "2025-08-09T19:46:29.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            30,
+            10,
+            0
+          ],
+          "hex": "#1e0a00",
+          "percentage": "0.116"
+        },
+        {
+          "rgb": [
+            160,
+            140,
+            130
+          ],
+          "hex": "#a08c82",
+          "percentage": "0.006"
+        },
+        {
+          "rgb": [
+            180,
+            110,
+            40
+          ],
+          "hex": "#b46e28",
+          "percentage": "0.002"
+        }
+      ],
+      "colorfulness": "29.779"
+    },
+    "name": "Abstrakt durch Glas.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Abstrakt_durch_Glas.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Abstrakt_durch_Glas-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Abstrakt_durch_Glas-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Abstrakt_durch_Glas-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Abstrakt_durch_Glas-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -3010,6 +3102,52 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.181386,
+    "longitude": 16.351197,
+    "createDate": "2025-08-09T15:10:22.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            140,
+            110,
+            100
+          ],
+          "hex": "#8c6e64",
+          "percentage": "0.028"
+        },
+        {
+          "rgb": [
+            180,
+            110,
+            20
+          ],
+          "hex": "#b46e14",
+          "percentage": "0.025"
+        },
+        {
+          "rgb": [
+            250,
+            240,
+            200
+          ],
+          "hex": "#faf0c8",
+          "percentage": "0.002"
+        }
+      ],
+      "colorfulness": "38.393"
+    },
+    "name": "Durchgang zu einem Gemeindebau in Wieden.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Durchgang_zu_einem_Gemeindebau_in_Wieden.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Durchgang_zu_einem_Gemeindebau_in_Wieden-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Durchgang_zu_einem_Gemeindebau_in_Wieden-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Durchgang_zu_einem_Gemeindebau_in_Wieden-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Durchgang_zu_einem_Gemeindebau_in_Wieden-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.203186,
     "longitude": 16.337078,
     "createDate": "2025-05-03T11:37:10.000Z",
@@ -4121,6 +4259,61 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.177611,
+    "longitude": 16.342419,
+    "createDate": "2025-08-09T15:26:01.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            180,
+            160,
+            140
+          ],
+          "hex": "#b4a08c",
+          "percentage": "0.034"
+        },
+        {
+          "rgb": [
+            10,
+            150,
+            210
+          ],
+          "hex": "#0a96d2",
+          "percentage": "0.027"
+        },
+        {
+          "rgb": [
+            90,
+            190,
+            230
+          ],
+          "hex": "#5abee6",
+          "percentage": "0.007"
+        },
+        {
+          "rgb": [
+            70,
+            30,
+            20
+          ],
+          "hex": "#461e14",
+          "percentage": "0.007"
+        }
+      ],
+      "colorfulness": "45.213"
+    },
+    "name": "Fassade eines Gemeindebaus in Meidling.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_eines_Gemeindebaus_in_Meidling.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_eines_Gemeindebaus_in_Meidling-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_eines_Gemeindebaus_in_Meidling-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_eines_Gemeindebaus_in_Meidling-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_eines_Gemeindebaus_in_Meidling-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.207714,
     "longitude": 16.309044,
     "createDate": "2025-06-07T15:53:35.000Z",
@@ -4227,6 +4420,171 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_und_Baum_Widholz-Hof-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_und_Baum_Widholz-Hof-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fassade_und_Baum_Widholz-Hof-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.186131,
+    "longitude": 16.374222,
+    "createDate": "2025-08-09T14:38:56.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            150,
+            210
+          ],
+          "hex": "#1496d2",
+          "percentage": "0.035"
+        },
+        {
+          "rgb": [
+            170,
+            150,
+            130
+          ],
+          "hex": "#aa9682",
+          "percentage": "0.033"
+        },
+        {
+          "rgb": [
+            130,
+            100,
+            90
+          ],
+          "hex": "#82645a",
+          "percentage": "0.024"
+        },
+        {
+          "rgb": [
+            70,
+            60,
+            60
+          ],
+          "hex": "#463c3c",
+          "percentage": "0.011"
+        },
+        {
+          "rgb": [
+            220,
+            50,
+            30
+          ],
+          "hex": "#dc321e",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "50.941"
+    },
+    "name": "Favoritner-Gürtel bei Hauptbahnhof.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Favoritner-Gürtel_bei_Hauptbahnhof.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Favoritner-Gürtel_bei_Hauptbahnhof-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Favoritner-Gürtel_bei_Hauptbahnhof-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Favoritner-Gürtel_bei_Hauptbahnhof-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Favoritner-Gürtel_bei_Hauptbahnhof-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.177567,
+    "longitude": 16.341067,
+    "createDate": "2025-08-09T15:24:01.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            220,
+            190
+          ],
+          "hex": "#f0dcbe",
+          "percentage": "0.034"
+        },
+        {
+          "rgb": [
+            110,
+            90,
+            90
+          ],
+          "hex": "#6e5a5a",
+          "percentage": "0.033"
+        },
+        {
+          "rgb": [
+            210,
+            160,
+            130
+          ],
+          "hex": "#d2a082",
+          "percentage": "0.014"
+        },
+        {
+          "rgb": [
+            20,
+            140,
+            200
+          ],
+          "hex": "#148cc8",
+          "percentage": "0.003"
+        }
+      ],
+      "colorfulness": "40.591"
+    },
+    "name": "Fensterbögen am Fuchsenfeld Meidling.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fensterbögen_am_Fuchsenfeld_Meidling.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fensterbögen_am_Fuchsenfeld_Meidling-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fensterbögen_am_Fuchsenfeld_Meidling-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fensterbögen_am_Fuchsenfeld_Meidling-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Fensterbögen_am_Fuchsenfeld_Meidling-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.182258,
+    "longitude": 16.359417,
+    "createDate": "2025-08-09T15:01:50.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            120,
+            180
+          ],
+          "hex": "#1478b4",
+          "percentage": "0.068"
+        },
+        {
+          "rgb": [
+            80,
+            60,
+            50
+          ],
+          "hex": "#503c32",
+          "percentage": "0.013"
+        },
+        {
+          "rgb": [
+            240,
+            230,
+            210
+          ],
+          "hex": "#f0e6d2",
+          "percentage": "0.006"
+        }
+      ],
+      "colorfulness": "49.793"
+    },
+    "name": "Flugzeug und Wohnhäuser in Wieden.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Flugzeug_und_Wohnhäuser_in_Wieden.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Flugzeug_und_Wohnhäuser_in_Wieden-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Flugzeug_und_Wohnhäuser_in_Wieden-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Flugzeug_und_Wohnhäuser_in_Wieden-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Flugzeug_und_Wohnhäuser_in_Wieden-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -4456,6 +4814,52 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Geländer_und_U-Bahn_Station_Rossauer_Lände-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Geländer_und_U-Bahn_Station_Rossauer_Lände-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Geländer_und_U-Bahn_Station_Rossauer_Lände-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.177456,
+    "longitude": 16.341172,
+    "createDate": "2025-08-09T19:47:24.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            190,
+            160,
+            130
+          ],
+          "hex": "#bea082",
+          "percentage": "0.043"
+        },
+        {
+          "rgb": [
+            60,
+            30,
+            10
+          ],
+          "hex": "#3c1e0a",
+          "percentage": "0.026"
+        },
+        {
+          "rgb": [
+            110,
+            60,
+            30
+          ],
+          "hex": "#6e3c1e",
+          "percentage": "0.023"
+        }
+      ],
+      "colorfulness": "32.009"
+    },
+    "name": "Gemeindebau am Fuchsenfeld Fassade.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_am_Fuchsenfeld_Fassade.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_am_Fuchsenfeld_Fassade-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_am_Fuchsenfeld_Fassade-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_am_Fuchsenfeld_Fassade-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Gemeindebau_am_Fuchsenfeld_Fassade-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -5534,6 +5938,61 @@
     "gallery": "beton-und-struktur"
   },
   {
+    "latitude": 48.181647,
+    "longitude": 16.352797,
+    "createDate": "2025-08-09T15:08:48.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            200,
+            220,
+            230
+          ],
+          "hex": "#c8dce6",
+          "percentage": "0.100"
+        },
+        {
+          "rgb": [
+            180,
+            160,
+            150
+          ],
+          "hex": "#b4a096",
+          "percentage": "0.048"
+        },
+        {
+          "rgb": [
+            40,
+            20,
+            20
+          ],
+          "hex": "#281414",
+          "percentage": "0.030"
+        },
+        {
+          "rgb": [
+            90,
+            100,
+            120
+          ],
+          "hex": "#5a6478",
+          "percentage": "0.004"
+        }
+      ],
+      "colorfulness": "42.035"
+    },
+    "name": "Kirche zur Auferstehung Christi.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kirche_zur_Auferstehung_Christi.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kirche_zur_Auferstehung_Christi-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kirche_zur_Auferstehung_Christi-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kirche_zur_Auferstehung_Christi-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Kirche_zur_Auferstehung_Christi-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
     "latitude": 48.160958,
     "longitude": 16.430558,
     "createDate": "2025-05-29T08:48:57.000Z",
@@ -6026,6 +6485,61 @@
       "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mahnmal_den_Opfern_des_Nationalsozialismus_in_der_Braunhubergasse-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mahnmal_den_Opfern_des_Nationalsozialismus_in_der_Braunhubergasse-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mahnmal_den_Opfern_des_Nationalsozialismus_in_der_Braunhubergasse-1440w.jpg"
+    },
+    "gallery": "beton-und-struktur"
+  },
+  {
+    "latitude": 48.187425,
+    "longitude": 16.370808,
+    "createDate": "2025-08-09T14:45:08.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            230,
+            210
+          ],
+          "hex": "#f0e6d2",
+          "percentage": "0.030"
+        },
+        {
+          "rgb": [
+            110,
+            80,
+            60
+          ],
+          "hex": "#6e503c",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            160,
+            160,
+            160
+          ],
+          "hex": "#a0a0a0",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            0,
+            100,
+            160
+          ],
+          "hex": "#0064a0",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "37.588"
+    },
+    "name": "Mauer, Rosen und Gemeindewohnung in Wieden.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mauer,_Rosen_und_Gemeindewohnung_in_Wieden.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mauer,_Rosen_und_Gemeindewohnung_in_Wieden-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mauer,_Rosen_und_Gemeindewohnung_in_Wieden-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mauer,_Rosen_und_Gemeindewohnung_in_Wieden-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Mauer,_Rosen_und_Gemeindewohnung_in_Wieden-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -9193,6 +9707,52 @@
       "w380": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_der_Geiselbergstrasse-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_der_Geiselbergstrasse-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/einkaufswagerl/3_Einkaufswagerl_in_der_Geiselbergstrasse-1440w.jpg"
+    },
+    "gallery": "einkaufswagerl"
+  },
+  {
+    "latitude": 48.184658,
+    "longitude": 16.335967,
+    "createDate": "2025-08-09T19:58:06.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            40,
+            20,
+            10
+          ],
+          "hex": "#28140a",
+          "percentage": "0.053"
+        },
+        {
+          "rgb": [
+            180,
+            150,
+            130
+          ],
+          "hex": "#b49682",
+          "percentage": "0.005"
+        },
+        {
+          "rgb": [
+            250,
+            90,
+            90
+          ],
+          "hex": "#fa5a5a",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "31.546"
+    },
+    "name": "Alleingelassenes Einkaufswagerl in Meidling.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_Meidling.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_Meidling-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_Meidling-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_Meidling-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_Meidling-1440w.jpg"
     },
     "gallery": "einkaufswagerl"
   },
@@ -18009,6 +18569,125 @@
     "gallery": "oeffis"
   },
   {
+    "latitude": 48.202778,
+    "longitude": 16.379397,
+    "createDate": "2025-08-09T20:14:37.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            120,
+            80,
+            60
+          ],
+          "hex": "#78503c",
+          "percentage": "0.041"
+        },
+        {
+          "rgb": [
+            170,
+            140,
+            120
+          ],
+          "hex": "#aa8c78",
+          "percentage": "0.031"
+        },
+        {
+          "rgb": [
+            60,
+            40,
+            30
+          ],
+          "hex": "#3c281e",
+          "percentage": "0.026"
+        },
+        {
+          "rgb": [
+            250,
+            240,
+            230
+          ],
+          "hex": "#faf0e6",
+          "percentage": "0.009"
+        }
+      ],
+      "colorfulness": "32.926"
+    },
+    "name": "'Stadtpark' U-Bahn Station Schriftzug.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/'Stadtpark'_U-Bahn_Station_Schriftzug.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/oeffis/'Stadtpark'_U-Bahn_Station_Schriftzug-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/oeffis/'Stadtpark'_U-Bahn_Station_Schriftzug-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/'Stadtpark'_U-Bahn_Station_Schriftzug-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/'Stadtpark'_U-Bahn_Station_Schriftzug-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
+    "latitude": 48.184639,
+    "longitude": 16.374811,
+    "createDate": "2025-08-09T14:37:17.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            100,
+            70,
+            50
+          ],
+          "hex": "#644632",
+          "percentage": "0.029"
+        },
+        {
+          "rgb": [
+            150,
+            120,
+            100
+          ],
+          "hex": "#967864",
+          "percentage": "0.026"
+        },
+        {
+          "rgb": [
+            0,
+            50,
+            160
+          ],
+          "hex": "#0032a0",
+          "percentage": "0.002"
+        },
+        {
+          "rgb": [
+            60,
+            100,
+            170
+          ],
+          "hex": "#3c64aa",
+          "percentage": "0.001"
+        },
+        {
+          "rgb": [
+            220,
+            90,
+            110
+          ],
+          "hex": "#dc5a6e",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "32.822"
+    },
+    "name": "'Wien Hauptbahnhof' Schild am Busbahnhof - Südtirolerplatz.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/'Wien_Hauptbahnhof'_Schild_am_Busbahnhof_-_Südtirolerplatz.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/oeffis/'Wien_Hauptbahnhof'_Schild_am_Busbahnhof_-_Südtirolerplatz-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/oeffis/'Wien_Hauptbahnhof'_Schild_am_Busbahnhof_-_Südtirolerplatz-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/'Wien_Hauptbahnhof'_Schild_am_Busbahnhof_-_Südtirolerplatz-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/'Wien_Hauptbahnhof'_Schild_am_Busbahnhof_-_Südtirolerplatz-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
     "latitude": 48.214,
     "longitude": 16.362003,
     "createDate": "2025-08-01T13:12:49.000Z",
@@ -18766,6 +19445,52 @@
       "w380": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_Schottenpassage_bei_Währinger-Strasse-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_Schottenpassage_bei_Währinger-Strasse-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_Schottenpassage_bei_Währinger-Strasse-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
+    "latitude": 48.184264,
+    "longitude": 16.334292,
+    "createDate": "2025-08-09T20:01:59.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            180,
+            150,
+            120
+          ],
+          "hex": "#b49678",
+          "percentage": "0.039"
+        },
+        {
+          "rgb": [
+            40,
+            20,
+            10
+          ],
+          "hex": "#28140a",
+          "percentage": "0.022"
+        },
+        {
+          "rgb": [
+            240,
+            230,
+            210
+          ],
+          "hex": "#f0e6d2",
+          "percentage": "0.007"
+        }
+      ],
+      "colorfulness": "34.571"
+    },
+    "name": "Eingang der U-Bahn Station Längenfeldgasse bei Nacht.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_der_U-Bahn_Station_Längenfeldgasse_bei_Nacht.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_der_U-Bahn_Station_Längenfeldgasse_bei_Nacht-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_der_U-Bahn_Station_Längenfeldgasse_bei_Nacht-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_der_U-Bahn_Station_Längenfeldgasse_bei_Nacht-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_der_U-Bahn_Station_Längenfeldgasse_bei_Nacht-1440w.jpg"
     },
     "gallery": "oeffis"
   },
@@ -21474,6 +22199,52 @@
       "w1440": "https://photos.lucamack.at/content/galleries/ottenstein/Statue_eines_Mannes_mit_Kind_auf_seinen_Schultern-1440w.jpg"
     },
     "gallery": "ottenstein"
+  },
+  {
+    "latitude": 48.181339,
+    "longitude": 16.347008,
+    "createDate": "2025-08-09T15:15:11.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            30,
+            20,
+            20
+          ],
+          "hex": "#1e1414",
+          "percentage": "0.065"
+        },
+        {
+          "rgb": [
+            110,
+            90,
+            80
+          ],
+          "hex": "#6e5a50",
+          "percentage": "0.032"
+        },
+        {
+          "rgb": [
+            110,
+            150,
+            170
+          ],
+          "hex": "#6e96aa",
+          "percentage": "0.014"
+        }
+      ],
+      "colorfulness": "27.621"
+    },
+    "name": "Bänke und Park am Margaretengürtel.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/parks/Bänke_und_Park_am_Margaretengürtel.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/parks/Bänke_und_Park_am_Margaretengürtel-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/parks/Bänke_und_Park_am_Margaretengürtel-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/parks/Bänke_und_Park_am_Margaretengürtel-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/parks/Bänke_und_Park_am_Margaretengürtel-1440w.jpg"
+    },
+    "gallery": "parks"
   },
   {
     "latitude": 48.187439,
@@ -28110,6 +28881,52 @@
     "gallery": "symbole"
   },
   {
+    "latitude": 48.181494,
+    "longitude": 16.351575,
+    "createDate": "2025-08-09T15:09:56.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            220,
+            190,
+            170
+          ],
+          "hex": "#dcbeaa",
+          "percentage": "0.177"
+        },
+        {
+          "rgb": [
+            160,
+            130,
+            120
+          ],
+          "hex": "#a08278",
+          "percentage": "0.013"
+        },
+        {
+          "rgb": [
+            40,
+            20,
+            20
+          ],
+          "hex": "#281414",
+          "percentage": "0.004"
+        }
+      ],
+      "colorfulness": "20.819"
+    },
+    "name": "'Otto' Graffitti.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Otto'_Graffitti.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Otto'_Graffitti-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Otto'_Graffitti-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Otto'_Graffitti-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Otto'_Graffitti-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
     "latitude": 48.173625,
     "longitude": 16.417025,
     "createDate": "2025-07-14T18:46:56.000Z",
@@ -28198,6 +29015,70 @@
       "w380": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.184056,
+    "longitude": 16.336525,
+    "createDate": "2025-08-09T19:57:00.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.128"
+        },
+        {
+          "rgb": [
+            110,
+            80,
+            60
+          ],
+          "hex": "#6e503c",
+          "percentage": "0.077"
+        },
+        {
+          "rgb": [
+            240,
+            220,
+            200
+          ],
+          "hex": "#f0dcc8",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            180,
+            170,
+            150
+          ],
+          "hex": "#b4aa96",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            70,
+            150,
+            170
+          ],
+          "hex": "#4696aa",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "34.211"
+    },
+    "name": "'Ugly' Graffitti in Meidling.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Ugly'_Graffitti_in_Meidling.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Ugly'_Graffitti_in_Meidling-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Ugly'_Graffitti_in_Meidling-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Ugly'_Graffitti_in_Meidling-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Ugly'_Graffitti_in_Meidling-1440w.jpg"
     },
     "gallery": "symbole"
   },

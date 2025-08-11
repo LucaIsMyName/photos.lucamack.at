@@ -1185,6 +1185,44 @@ export const galleries = [
     "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner & Lueger, Licht & Schatten.",
     "images": [
       {
+        "filename": "'132' Hausnummer in der Wieder-Hauptstrasse.jpg",
+        "latitude": 48.183814,
+        "longitude": 16.360983,
+        "createDate": "2025-08-09T14:59:13.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                170,
+                160
+              ],
+              "hex": "#b4aaa0",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                90
+              ],
+              "hex": "#826e5a",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                70,
+                40,
+                30
+              ],
+              "hex": "#46281e",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "25.898"
+        }
+      },
+      {
         "filename": "'Damen - Hair Laser - Herren' Schriftzug in der Grillgasse.jpg",
         "latitude": 48.174511,
         "longitude": 16.409864,
@@ -1616,6 +1654,44 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.569"
+        }
+      },
+      {
+        "filename": "Abstrakt durch Glas.jpg",
+        "latitude": 48.177594,
+        "longitude": 16.341889,
+        "createDate": "2025-08-09T19:46:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.116"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                180,
+                110,
+                40
+              ],
+              "hex": "#b46e28",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "29.779"
         }
       },
       {
@@ -2574,6 +2650,44 @@ export const galleries = [
         }
       },
       {
+        "filename": "Durchgang zu einem Gemeindebau in Wieden.jpg",
+        "latitude": 48.181386,
+        "longitude": 16.351197,
+        "createDate": "2025-08-09T15:10:22.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                110,
+                100
+              ],
+              "hex": "#8c6e64",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                180,
+                110,
+                20
+              ],
+              "hex": "#b46e14",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                200
+              ],
+              "hex": "#faf0c8",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "38.393"
+        }
+      },
+      {
         "filename": "Echoes Schriftzug Hauptbibliothek Wien.jpg",
         "latitude": 48.203186,
         "longitude": 16.337078,
@@ -3509,6 +3623,53 @@ export const galleries = [
         }
       },
       {
+        "filename": "Fassade eines Gemeindebaus in Meidling.jpg",
+        "latitude": 48.177611,
+        "longitude": 16.342419,
+        "createDate": "2025-08-09T15:26:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                10,
+                150,
+                210
+              ],
+              "hex": "#0a96d2",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                90,
+                190,
+                230
+              ],
+              "hex": "#5abee6",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                70,
+                30,
+                20
+              ],
+              "hex": "#461e14",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "45.213"
+        }
+      },
+      {
         "filename": "Fassade eines Hauses in Ottakring.jpg",
         "latitude": 48.207714,
         "longitude": 16.309044,
@@ -3600,6 +3761,147 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.586"
+        }
+      },
+      {
+        "filename": "Favoritner-Gürtel bei Hauptbahnhof.jpg",
+        "latitude": 48.186131,
+        "longitude": 16.374222,
+        "createDate": "2025-08-09T14:38:56.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                150,
+                210
+              ],
+              "hex": "#1496d2",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                130
+              ],
+              "hex": "#aa9682",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                130,
+                100,
+                90
+              ],
+              "hex": "#82645a",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                70,
+                60,
+                60
+              ],
+              "hex": "#463c3c",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                220,
+                50,
+                30
+              ],
+              "hex": "#dc321e",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "50.941"
+        }
+      },
+      {
+        "filename": "Fensterbögen am Fuchsenfeld Meidling.jpg",
+        "latitude": 48.177567,
+        "longitude": 16.341067,
+        "createDate": "2025-08-09T15:24:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                220,
+                190
+              ],
+              "hex": "#f0dcbe",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                90
+              ],
+              "hex": "#6e5a5a",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                210,
+                160,
+                130
+              ],
+              "hex": "#d2a082",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                20,
+                140,
+                200
+              ],
+              "hex": "#148cc8",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "40.591"
+        }
+      },
+      {
+        "filename": "Flugzeug und Wohnhäuser in Wieden.jpg",
+        "latitude": 48.182258,
+        "longitude": 16.359417,
+        "createDate": "2025-08-09T15:01:50.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                120,
+                180
+              ],
+              "hex": "#1478b4",
+              "percentage": "0.068"
+            },
+            {
+              "rgb": [
+                80,
+                60,
+                50
+              ],
+              "hex": "#503c32",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "49.793"
         }
       },
       {
@@ -3797,6 +4099,44 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.544"
+        }
+      },
+      {
+        "filename": "Gemeindebau am Fuchsenfeld Fassade.jpg",
+        "latitude": 48.177456,
+        "longitude": 16.341172,
+        "createDate": "2025-08-09T19:47:24.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                160,
+                130
+              ],
+              "hex": "#bea082",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                60,
+                30,
+                10
+              ],
+              "hex": "#3c1e0a",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                110,
+                60,
+                30
+              ],
+              "hex": "#6e3c1e",
+              "percentage": "0.023"
+            }
+          ],
+          "colorfulness": "32.009"
         }
       },
       {
@@ -4706,6 +5046,53 @@ export const galleries = [
         }
       },
       {
+        "filename": "Kirche zur Auferstehung Christi.jpg",
+        "latitude": 48.181647,
+        "longitude": 16.352797,
+        "createDate": "2025-08-09T15:08:48.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                220,
+                230
+              ],
+              "hex": "#c8dce6",
+              "percentage": "0.100"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                150
+              ],
+              "hex": "#b4a096",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                20
+              ],
+              "hex": "#281414",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                90,
+                100,
+                120
+              ],
+              "hex": "#5a6478",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "42.035"
+        }
+      },
+      {
         "filename": "Kleines Haus in Simmering.jpg",
         "latitude": 48.160958,
         "longitude": 16.430558,
@@ -5119,6 +5506,53 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.123"
+        }
+      },
+      {
+        "filename": "Mauer, Rosen und Gemeindewohnung in Wieden.jpg",
+        "latitude": 48.187425,
+        "longitude": 16.370808,
+        "createDate": "2025-08-09T14:45:08.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                60
+              ],
+              "hex": "#6e503c",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                160
+              ],
+              "hex": "#a0a0a0",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                0,
+                100,
+                160
+              ],
+              "hex": "#0064a0",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "37.588"
         }
       },
       {
@@ -7708,8 +8142,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "7. Juni 2024 - 8. August 2025",
-    "imageCount": 152
+    "timeframe": "7. Juni 2024 - 9. August 2025",
+    "imageCount": 162
   },
   {
     "name": "einkaufswagerl",
@@ -7800,6 +8234,44 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.041"
+        }
+      },
+      {
+        "filename": "Alleingelassenes Einkaufswagerl in Meidling.jpg",
+        "latitude": 48.184658,
+        "longitude": 16.335967,
+        "createDate": "2025-08-09T19:58:06.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                180,
+                150,
+                130
+              ],
+              "hex": "#b49682",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                250,
+                90,
+                90
+              ],
+              "hex": "#fa5a5a",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "31.546"
         }
       },
       {
@@ -7964,8 +8436,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "28. Juli 2024 - 8. August 2025",
-    "imageCount": 6
+    "timeframe": "28. Juli 2024 - 9. August 2025",
+    "imageCount": 7
   },
   {
     "name": "favoriten",
@@ -15319,6 +15791,109 @@ export const galleries = [
         }
       },
       {
+        "filename": "'Stadtpark' U-Bahn Station Schriftzug.jpg",
+        "latitude": 48.202778,
+        "longitude": 16.379397,
+        "createDate": "2025-08-09T20:14:37.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                120,
+                80,
+                60
+              ],
+              "hex": "#78503c",
+              "percentage": "0.041"
+            },
+            {
+              "rgb": [
+                170,
+                140,
+                120
+              ],
+              "hex": "#aa8c78",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                60,
+                40,
+                30
+              ],
+              "hex": "#3c281e",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "32.926"
+        }
+      },
+      {
+        "filename": "'Wien Hauptbahnhof' Schild am Busbahnhof - Südtirolerplatz.jpg",
+        "latitude": 48.184639,
+        "longitude": 16.374811,
+        "createDate": "2025-08-09T14:37:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                100,
+                70,
+                50
+              ],
+              "hex": "#644632",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                100
+              ],
+              "hex": "#967864",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                0,
+                50,
+                160
+              ],
+              "hex": "#0032a0",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                60,
+                100,
+                170
+              ],
+              "hex": "#3c64aa",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                220,
+                90,
+                110
+              ],
+              "hex": "#dc5a6e",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "32.822"
+        }
+      },
+      {
         "filename": "3 Telefone in der BIM Station Schottentor.jpg",
         "latitude": 48.214,
         "longitude": 16.362003,
@@ -15965,6 +16540,44 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.714"
+        }
+      },
+      {
+        "filename": "Eingang der U-Bahn Station Längenfeldgasse bei Nacht.jpg",
+        "latitude": 48.184264,
+        "longitude": 16.334292,
+        "createDate": "2025-08-09T20:01:59.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                150,
+                120
+              ],
+              "hex": "#b49678",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "34.571"
         }
       },
       {
@@ -17796,8 +18409,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "11. April 2024 - 8. August 2025",
-    "imageCount": 59
+    "timeframe": "11. April 2024 - 9. August 2025",
+    "imageCount": 62
   },
   {
     "name": "ostsee",
@@ -18295,6 +18908,44 @@ export const galleries = [
     "title": "Parks",
     "description": "Die Parks, Bäume & Grashalme Wiens.",
     "images": [
+      {
+        "filename": "Bänke und Park am Margaretengürtel.jpg",
+        "latitude": 48.181339,
+        "longitude": 16.347008,
+        "createDate": "2025-08-09T15:15:11.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.065"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                80
+              ],
+              "hex": "#6e5a50",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                110,
+                150,
+                170
+              ],
+              "hex": "#6e96aa",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "27.621"
+        }
+      },
       {
         "filename": "Bäume im Auer-Wellsbach Park Wien.jpg",
         "latitude": 48.187439,
@@ -18983,8 +19634,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "27. März 2024 - 30. Juli 2025",
-    "imageCount": 15
+    "timeframe": "27. März 2024 - 9. August 2025",
+    "imageCount": 16
   },
   {
     "name": "porto",
@@ -23974,6 +24625,44 @@ export const galleries = [
         }
       },
       {
+        "filename": "'Otto' Graffitti.jpg",
+        "latitude": 48.181494,
+        "longitude": 16.351575,
+        "createDate": "2025-08-09T15:09:56.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                190,
+                170
+              ],
+              "hex": "#dcbeaa",
+              "percentage": "0.177"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                120
+              ],
+              "hex": "#a08278",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                20
+              ],
+              "hex": "#281414",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "20.819"
+        }
+      },
+      {
         "filename": "'Ruhe' Graffitti in der Simmeringer-Hauptstrasse.jpg",
         "latitude": 48.173625,
         "longitude": 16.417025,
@@ -24047,6 +24736,62 @@ export const galleries = [
             }
           ],
           "colorfulness": "27.270"
+        }
+      },
+      {
+        "filename": "'Ugly' Graffitti in Meidling.jpg",
+        "latitude": 48.184056,
+        "longitude": 16.336525,
+        "createDate": "2025-08-09T19:57:00.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.128"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                60
+              ],
+              "hex": "#6e503c",
+              "percentage": "0.077"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                200
+              ],
+              "hex": "#f0dcc8",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                180,
+                170,
+                150
+              ],
+              "hex": "#b4aa96",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                70,
+                150,
+                170
+              ],
+              "hex": "#4696aa",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "34.211"
         }
       },
       {
@@ -25191,8 +25936,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "11. April 2024 - 7. August 2025",
-    "imageCount": 32
+    "timeframe": "11. April 2024 - 9. August 2025",
+    "imageCount": 34
   },
   {
     "name": "valencia",
