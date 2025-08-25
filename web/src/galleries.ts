@@ -532,15 +532,850 @@ export const galleries = [
     "name": "berlin",
     "slug": "berlin",
     "title": "Berlin",
-    "description": "*Jo — eh schiach*",
+    "description": "Dreckig & Fotogen",
     "images": [
       {
-        "filename": "Berliner Hauptbahnhof von Innen mit Blick auf den Washingtonplatz.jpg",
-        "latitude": 52.523789,
-        "longitude": 13.369997,
-        "createDate": "2023-08-15T12:34:46.000Z",
+        "filename": "'Absturzgefahr. Nicht betreten' Warnung bei neuer Nationalgallerie.jpg",
+        "latitude": 52.506697,
+        "longitude": 13.366617,
+        "createDate": "2025-08-20T09:48:24.000Z",
         "colorData": {
           "dominantColors": [
+            {
+              "rgb": [
+                220,
+                210,
+                200
+              ],
+              "hex": "#dcd2c8",
+              "percentage": "0.080"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                30,
+                170,
+                230
+              ],
+              "hex": "#1eaae6",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                120,
+                200,
+                240
+              ],
+              "hex": "#78c8f0",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                80
+              ],
+              "hex": "#6e5a50",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "50.349"
+        }
+      },
+      {
+        "filename": "'Analoge Systeme' Gemälde in der neuen Nationalgallerie.jpg",
+        "latitude": 52.507225,
+        "longitude": 13.366669,
+        "createDate": "2025-08-20T10:15:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.102"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                100
+              ],
+              "hex": "#967864",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                240,
+                140,
+                0
+              ],
+              "hex": "#f08c00",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                0
+              ],
+              "hex": "#281400",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                60,
+                90,
+                80
+              ],
+              "hex": "#3c5a50",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "45.643"
+        }
+      },
+      {
+        "filename": "'Berlin lacht' Baustellenzaun Schriftzug am Potsdamer Platz.jpg",
+        "latitude": 52.508964,
+        "longitude": 13.375881,
+        "createDate": "2025-08-20T10:57:19.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.106"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                140
+              ],
+              "hex": "#82828c",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                140,
+                200,
+                240
+              ],
+              "hex": "#8cc8f0",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "40.921"
+        }
+      },
+      {
+        "filename": "'Bikini Berlin' Schriftzug eines Einkaufzentrums.jpg",
+        "latitude": 52.505261,
+        "longitude": 13.337742,
+        "createDate": "2025-08-19T10:28:12.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                220
+              ],
+              "hex": "#f0f0dc",
+              "percentage": "0.086"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                90
+              ],
+              "hex": "#96785a",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                10,
+                140,
+                210
+              ],
+              "hex": "#0a8cd2",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "51.009"
+        }
+      },
+      {
+        "filename": "'Bratort' Schriftzug Wühlischstrasse Friedrichshain.jpg",
+        "latitude": 52.508767,
+        "longitude": 13.460708,
+        "createDate": "2025-08-18T16:11:18.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                90,
+                70
+              ],
+              "hex": "#825a46",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                190
+              ],
+              "hex": "#e6d2be",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                0,
+                180,
+                220
+              ],
+              "hex": "#00b4dc",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                50,
+                130,
+                150
+              ],
+              "hex": "#328296",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "41.924"
+        }
+      },
+      {
+        "filename": "'Briefmarken' Neon-Schriftzug.jpg",
+        "latitude": 52.517297,
+        "longitude": 13.442811,
+        "createDate": "2025-08-20T20:13:45.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                40,
+                20
+              ],
+              "hex": "#322814",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                160,
+                120,
+                90
+              ],
+              "hex": "#a0785a",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                110,
+                220,
+                160
+              ],
+              "hex": "#6edca0",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "30.065"
+        }
+      },
+      {
+        "filename": "'Büro' Leuchtreklame am Prenzlauer-Berg.jpg",
+        "latitude": 52.5367,
+        "longitude": 13.430914,
+        "createDate": "2025-08-20T19:04:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.124"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                220,
+                10,
+                0
+              ],
+              "hex": "#dc0a00",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                120,
+                170,
+                180
+              ],
+              "hex": "#78aab4",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                250,
+                190,
+                10
+              ],
+              "hex": "#fabe0a",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "47.599"
+        }
+      },
+      {
+        "filename": "'Eimer liebt dich' Schiftzug am Mistkübel.jpg",
+        "latitude": 52.519375,
+        "longitude": 13.400067,
+        "createDate": "2025-08-20T17:03:34.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                50,
+                0
+              ],
+              "hex": "#be3200",
+              "percentage": "0.096"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                110
+              ],
+              "hex": "#8c786e",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                170
+              ],
+              "hex": "#c8b4aa",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                60,
+                50,
+                40
+              ],
+              "hex": "#3c3228",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "51.046"
+        }
+      },
+      {
+        "filename": "'Fachpräsentation' Zettel auf Parkplatz.jpg",
+        "latitude": 52.519389,
+        "longitude": 13.439592,
+        "createDate": "2025-08-20T20:07:41.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                60,
+                10
+              ],
+              "hex": "#823c0a",
+              "percentage": "0.102"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                180
+              ],
+              "hex": "#fae6b4",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "26.229"
+        }
+      },
+      {
+        "filename": "'Kauf kein Kack' Werbung am Ostkreuz.jpg",
+        "latitude": 52.503661,
+        "longitude": 13.468756,
+        "createDate": "2025-08-18T15:59:50.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                140,
+                160
+              ],
+              "hex": "#828ca0",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                10,
+                130,
+                180
+              ],
+              "hex": "#0a82b4",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                70,
+                70,
+                80
+              ],
+              "hex": "#464650",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                20
+              ],
+              "hex": "#140a14",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "48.647"
+        }
+      },
+      {
+        "filename": "'Max und Moritz' Spätkaufladen bei Nacht.jpg",
+        "latitude": 52.533622,
+        "longitude": 13.436781,
+        "createDate": "2025-08-20T19:13:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.258"
+            },
+            {
+              "rgb": [
+                160,
+                80,
+                10
+              ],
+              "hex": "#a0500a",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                200,
+                160,
+                120
+              ],
+              "hex": "#c8a078",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                200
+              ],
+              "hex": "#fae6c8",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                40,
+                170,
+                250
+              ],
+              "hex": "#28aafa",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "38.173"
+        }
+      },
+      {
+        "filename": "'Neue Zukunft' Schild.jpg",
+        "latitude": 52.498025,
+        "longitude": 13.466661,
+        "createDate": "2025-08-19T19:30:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                80,
+                50
+              ],
+              "hex": "#825032",
+              "percentage": "0.042"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                210,
+                160,
+                110
+              ],
+              "hex": "#d2a06e",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "29.758"
+        }
+      },
+      {
+        "filename": "'Power' Graffitti an der S-Bahn-Mauer.jpg",
+        "latitude": 52.498164,
+        "longitude": 13.466719,
+        "createDate": "2025-08-19T19:00:04.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                120,
+                140
+              ],
+              "hex": "#5a788c",
+              "percentage": "0.145"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                220,
+                180,
+                140
+              ],
+              "hex": "#dcb48c",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                220,
+                70,
+                20
+              ],
+              "hex": "#dc4614",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "28.172"
+        }
+      },
+      {
+        "filename": "'Running is awful. I love it.' Schriftzug.jpg",
+        "latitude": 52.497442,
+        "longitude": 13.463247,
+        "createDate": "2025-08-19T17:43:13.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                100,
+                40
+              ],
+              "hex": "#dc6428",
+              "percentage": "0.052"
+            },
+            {
+              "rgb": [
+                110,
+                40,
+                20
+              ],
+              "hex": "#6e2814",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                130
+              ],
+              "hex": "#aaa082",
+              "percentage": "0.031"
+            }
+          ],
+          "colorfulness": "47.020"
+        }
+      },
+      {
+        "filename": "'Schöner leben ohne Nazis' Schriftzug Wühlischstrasse Friedrichshain.jpg",
+        "latitude": 52.508606,
+        "longitude": 13.461236,
+        "createDate": "2025-08-18T16:10:50.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                130,
+                90
+              ],
+              "hex": "#50825a",
+              "percentage": "0.052"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                180
+              ],
+              "hex": "#c8b4b4",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                110
+              ],
+              "hex": "#96786e",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "33.827"
+        }
+      },
+      {
+        "filename": "'Strassenschäden' Schild in Mitte.jpg",
+        "latitude": 52.507122,
+        "longitude": 13.369136,
+        "createDate": "2025-08-20T10:46:55.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                120,
+                180
+              ],
+              "hex": "#0a78b4",
+              "percentage": "0.066"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                0,
+                40,
+                100
+              ],
+              "hex": "#002864",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                90,
+                80,
+                80
+              ],
+              "hex": "#5a5050",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                40
+              ],
+              "hex": "#322828",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "55.964"
+        }
+      },
+      {
+        "filename": "'U' Form Kunst aus einem Belüftungsschacht.jpg",
+        "latitude": 52.5073,
+        "longitude": 13.366928,
+        "createDate": "2025-08-20T10:21:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.068"
+            },
+            {
+              "rgb": [
+                130,
+                100,
+                90
+              ],
+              "hex": "#82645a",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                240,
+                190,
+                140
+              ],
+              "hex": "#f0be8c",
+              "percentage": "0.030"
+            }
+          ],
+          "colorfulness": "40.420"
+        }
+      },
+      {
+        "filename": "'Wurst ;-)' Stand am Brandenburger Tor.jpg",
+        "latitude": 52.517403,
+        "longitude": 13.377397,
+        "createDate": "2025-08-20T15:50:18.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.047"
+            },
             {
               "rgb": [
                 250,
@@ -548,8 +1383,2650 @@ export const galleries = [
                 230
               ],
               "hex": "#faf0e6",
-              "percentage": "0.036"
+              "percentage": "0.040"
             },
+            {
+              "rgb": [
+                110,
+                90,
+                80
+              ],
+              "hex": "#6e5a50",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "39.761"
+        }
+      },
+      {
+        "filename": "'kopierladen' Leuchtreklame am Prenzlauer-Berg.jpg",
+        "latitude": 52.537467,
+        "longitude": 13.428464,
+        "createDate": "2025-08-20T19:01:06.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                0,
+                0
+              ],
+              "hex": "#280000",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                240,
+                60,
+                10
+              ],
+              "hex": "#f03c0a",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                180
+              ],
+              "hex": "#f0dcb4",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                230,
+                140,
+                50
+              ],
+              "hex": "#e68c32",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "56.043"
+        }
+      },
+      {
+        "filename": "1950-1969 Beschreibungstexte in der neuen Nationalgallerie.jpg",
+        "latitude": 52.506925,
+        "longitude": 13.366644,
+        "createDate": "2025-08-20T10:03:32.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                60,
+                40
+              ],
+              "hex": "#5a3c28",
+              "percentage": "0.099"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                110
+              ],
+              "hex": "#96826e",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                240
+              ],
+              "hex": "#fafaf0",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                190
+              ],
+              "hex": "#e6d2be",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                250,
+                100,
+                80
+              ],
+              "hex": "#fa6450",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "39.627"
+        }
+      },
+      {
+        "filename": "Abgang zur U-Bahn-Station Nollendorfplatz.jpg",
+        "latitude": 52.499542,
+        "longitude": 13.353417,
+        "createDate": "2025-08-19T13:32:20.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                190,
+                160,
+                130
+              ],
+              "hex": "#bea082",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                140,
+                100,
+                80
+              ],
+              "hex": "#8c6450",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "40.219"
+        }
+      },
+      {
+        "filename": "Abstrakte Darstellung zweier Menschen an der Kaiser-Wilhelm-Gedächtniskirche.jpg",
+        "latitude": 52.504783,
+        "longitude": 13.335242,
+        "createDate": "2025-08-19T12:02:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                130,
+                110
+              ],
+              "hex": "#a0826e",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                200
+              ],
+              "hex": "#e6dcc8",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                40
+              ],
+              "hex": "#322828",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "28.587"
+        }
+      },
+      {
+        "filename": "Alexanderplatz Fliesen Typografie in der U-Bahn-Station.jpg",
+        "latitude": 52.521375,
+        "longitude": 13.413094,
+        "createDate": "2025-08-19T14:55:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                160,
+                150
+              ],
+              "hex": "#aaa096",
+              "percentage": "0.059"
+            },
+            {
+              "rgb": [
+                60,
+                30,
+                20
+              ],
+              "hex": "#3c1e14",
+              "percentage": "0.036"
+            }
+          ],
+          "colorfulness": "33.126"
+        }
+      },
+      {
+        "filename": "Alte Gebäude und Kirche bei Unter den Linden.jpg",
+        "latitude": 52.517411,
+        "longitude": 13.393364,
+        "createDate": "2025-08-20T16:24:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                150,
+                210
+              ],
+              "hex": "#0a96d2",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                100,
+                90,
+                90
+              ],
+              "hex": "#645a5a",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                140
+              ],
+              "hex": "#aa968c",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                180,
+                200,
+                210
+              ],
+              "hex": "#b4c8d2",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                0
+              ],
+              "hex": "#1e1400",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "51.475"
+        }
+      },
+      {
+        "filename": "Alte Nationalgallerie auf der Museumsinsel.jpg",
+        "latitude": 52.517925,
+        "longitude": 13.400433,
+        "createDate": "2025-08-18T19:04:26.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                20,
+                0
+              ],
+              "hex": "#321400",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                90,
+                110,
+                130
+              ],
+              "hex": "#5a6e82",
+              "percentage": "0.023"
+            }
+          ],
+          "colorfulness": "42.090"
+        }
+      },
+      {
+        "filename": "Aufgang zu einer U-Bahn-Station.jpg",
+        "latitude": 52.520192,
+        "longitude": 13.388531,
+        "createDate": "2025-08-20T12:39:14.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "32.310"
+        }
+      },
+      {
+        "filename": "Aussenansicht des Berghain mit Eingang.jpg",
+        "latitude": 52.512036,
+        "longitude": 13.442683,
+        "createDate": "2025-08-20T13:01:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                110,
+                100,
+                40
+              ],
+              "hex": "#6e6428",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                20,
+                150,
+                210
+              ],
+              "hex": "#1496d2",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "47.475"
+        }
+      },
+      {
+        "filename": "Änderungsschneiderei in Friedrichshain.jpg",
+        "latitude": 52.534253,
+        "longitude": 13.436858,
+        "createDate": "2025-08-20T19:11:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                100,
+                70,
+                30
+              ],
+              "hex": "#64461e",
+              "percentage": "0.049"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                180
+              ],
+              "hex": "#dcc8b4",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                170,
+                130,
+                90
+              ],
+              "hex": "#aa825a",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                200,
+                50,
+                10
+              ],
+              "hex": "#c8320a",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "38.070"
+        }
+      },
+      {
+        "filename": "Bau-Ruine in Kreuzberg.jpg",
+        "latitude": 52.508039,
+        "longitude": 13.42705,
+        "createDate": "2025-08-19T07:51:37.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                170,
+                240
+              ],
+              "hex": "#14aaf0",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "53.878"
+        }
+      },
+      {
+        "filename": "Berliner Bären Statuen in Souvenir Geschäft an der Friedrichsrtasse.jpg",
+        "latitude": 52.520078,
+        "longitude": 13.388347,
+        "createDate": "2025-08-20T12:36:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                240
+              ],
+              "hex": "#fafaf0",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                160,
+                150,
+                140
+              ],
+              "hex": "#a0968c",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                190,
+                90,
+                0
+              ],
+              "hex": "#be5a00",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "50.200"
+        }
+      },
+      {
+        "filename": "Berliner Dom Seitlich.jpg",
+        "latitude": 52.518775,
+        "longitude": 13.398764,
+        "createDate": "2025-08-20T16:46:43.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                170,
+                230
+              ],
+              "hex": "#0aaae6",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                60
+              ],
+              "hex": "#8c783c",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                200,
+                170,
+                130
+              ],
+              "hex": "#c8aa82",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                140,
+                210,
+                240
+              ],
+              "hex": "#8cd2f0",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                230
+              ],
+              "hex": "#dce6e6",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "52.355"
+        }
+      },
+      {
+        "filename": "Blick auf den Fernsehturm durch eine Brücke.jpg",
+        "latitude": 52.495564,
+        "longitude": 13.464292,
+        "createDate": "2025-08-19T19:37:56.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.141"
+            },
+            {
+              "rgb": [
+                20,
+                100,
+                160
+              ],
+              "hex": "#1464a0",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                230
+              ],
+              "hex": "#fafae6",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                180,
+                210,
+                230
+              ],
+              "hex": "#b4d2e6",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "48.018"
+        }
+      },
+      {
+        "filename": "Blick auf den Morgenverkehr an der Karl-Marx-Allee - Alexanderplatz.jpg",
+        "latitude": 52.522172,
+        "longitude": 13.416044,
+        "createDate": "2025-08-21T07:22:42.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                140,
+                120
+              ],
+              "hex": "#968c78",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                150,
+                200,
+                210
+              ],
+              "hex": "#96c8d2",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                30,
+                140,
+                180
+              ],
+              "hex": "#1e8cb4",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                40,
+                40,
+                30
+              ],
+              "hex": "#28281e",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "41.733"
+        }
+      },
+      {
+        "filename": "Bodenbelag bei der Kaiser-Wilhelm-Gedächtniskirche.jpg",
+        "latitude": 52.504753,
+        "longitude": 13.335283,
+        "createDate": "2025-08-19T12:02:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.096"
+            },
+            {
+              "rgb": [
+                160,
+                80,
+                50
+              ],
+              "hex": "#a05032",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                60,
+                40,
+                30
+              ],
+              "hex": "#3c281e",
+              "percentage": "0.015"
+            }
+          ],
+          "colorfulness": "33.410"
+        }
+      },
+      {
+        "filename": "Bodenstruktur des Fernsehturms am Alexanderplatz.jpg",
+        "latitude": 52.521197,
+        "longitude": 13.410406,
+        "createDate": "2025-08-20T18:13:11.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.094"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                200
+              ],
+              "hex": "#fae6c8",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                20,
+                20,
+                30
+              ],
+              "hex": "#14141e",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "35.256"
+        }
+      },
+      {
+        "filename": "Brandenburger Tor Close-Up.jpg",
+        "latitude": 52.516633,
+        "longitude": 13.378022,
+        "createDate": "2025-08-20T15:51:22.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.063"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.030"
+            }
+          ],
+          "colorfulness": "32.616"
+        }
+      },
+      {
+        "filename": "Brandenburger Tor mit Blick Richtung Siegessäule.jpg",
+        "latitude": 52.516372,
+        "longitude": 13.378564,
+        "createDate": "2025-08-20T15:53:41.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                150,
+                140
+              ],
+              "hex": "#a0968c",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                90
+              ],
+              "hex": "#6e5a5a",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                220
+              ],
+              "hex": "#f0f0dc",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "36.192"
+        }
+      },
+      {
+        "filename": "Bundestag Fassade in Mitte.jpg",
+        "latitude": 52.519394,
+        "longitude": 13.377122,
+        "createDate": "2025-08-19T09:25:53.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                130,
+                190
+              ],
+              "hex": "#0a82be",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                120,
+                100,
+                90
+              ],
+              "hex": "#78645a",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                230
+              ],
+              "hex": "#fafae6",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                190
+              ],
+              "hex": "#dcd2be",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "53.554"
+        }
+      },
+      {
+        "filename": "Bundestag un Grünfläche davor in Mitte.jpg",
+        "latitude": 52.519161,
+        "longitude": 13.371047,
+        "createDate": "2025-08-19T09:31:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                120,
+                200,
+                240
+              ],
+              "hex": "#78c8f0",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                100
+              ],
+              "hex": "#b4a064",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                100,
+                100,
+                110
+              ],
+              "hex": "#64646e",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "55.071"
+        }
+      },
+      {
+        "filename": "Bürohaus am Pariser-Platz - Brandenburger Tor.jpg",
+        "latitude": 52.516494,
+        "longitude": 13.378811,
+        "createDate": "2025-08-20T15:54:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.060"
+            },
+            {
+              "rgb": [
+                10,
+                130,
+                190
+              ],
+              "hex": "#0a82be",
+              "percentage": "0.041"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "47.959"
+        }
+      },
+      {
+        "filename": "Bürohaus am Pariser-Platz.jpg",
+        "latitude": 52.516644,
+        "longitude": 13.382186,
+        "createDate": "2025-08-20T16:08:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                100,
+                90
+              ],
+              "hex": "#82645a",
+              "percentage": "0.060"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.042"
+            }
+          ],
+          "colorfulness": "36.851"
+        }
+      },
+      {
+        "filename": "Bürohaus und U-Bahn-Eingang bei Unter den Linden.jpg",
+        "latitude": 52.517178,
+        "longitude": 13.389178,
+        "createDate": "2025-08-20T16:17:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                140,
+                130
+              ],
+              "hex": "#968c82",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                30,
+                160,
+                210
+              ],
+              "hex": "#1ea0d2",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                190
+              ],
+              "hex": "#dcd2be",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                250,
+                200,
+                20
+              ],
+              "hex": "#fac814",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "41.172"
+        }
+      },
+      {
+        "filename": "Computerspielemuseum auf der Karl-Marx-Alle bei Nacht.jpg",
+        "latitude": 52.517453,
+        "longitude": 13.441831,
+        "createDate": "2025-08-20T20:12:41.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                10
+              ],
+              "hex": "#14000a",
+              "percentage": "0.127"
+            },
+            {
+              "rgb": [
+                170,
+                130,
+                90
+              ],
+              "hex": "#aa825a",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                240
+              ],
+              "hex": "#fafaf0",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "39.782"
+        }
+      },
+      {
+        "filename": "DB-Turm und Hochhaus an Hauptbahnhhof.jpg",
+        "latitude": 52.523694,
+        "longitude": 13.370142,
+        "createDate": "2025-08-20T15:26:27.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                170,
+                160
+              ],
+              "hex": "#b4aaa0",
+              "percentage": "0.041"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                100,
+                90,
+                90
+              ],
+              "hex": "#645a5a",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                10,
+                110,
+                160
+              ],
+              "hex": "#0a6ea0",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "45.269"
+        }
+      },
+      {
+        "filename": "Decke der Mall of Berlin.jpg",
+        "latitude": 52.510344,
+        "longitude": 13.38115,
+        "createDate": "2025-08-20T11:33:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.103"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                170,
+                200,
+                230
+              ],
+              "hex": "#aac8e6",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                190
+              ],
+              "hex": "#e6d2be",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "43.123"
+        }
+      },
+      {
+        "filename": "Decke des Bundestag-Eingang.jpg",
+        "latitude": 52.520142,
+        "longitude": 13.373544,
+        "createDate": "2025-08-20T15:42:04.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                40,
+                30
+              ],
+              "hex": "#32281e",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                170
+              ],
+              "hex": "#b4b4aa",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "31.519"
+        }
+      },
+      {
+        "filename": "Direktion der neuen Nationalgallerie.jpg",
+        "latitude": 52.506911,
+        "longitude": 13.366606,
+        "createDate": "2025-08-20T10:04:30.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                230,
+                210
+              ],
+              "hex": "#fae6d2",
+              "percentage": "0.050"
+            },
+            {
+              "rgb": [
+                50,
+                10,
+                0
+              ],
+              "hex": "#320a00",
+              "percentage": "0.022"
+            }
+          ],
+          "colorfulness": "50.227"
+        }
+      },
+      {
+        "filename": "Ein Mensch und Fahrrad vor Mausoleum in Kreuzber:Mitte.jpg",
+        "latitude": 52.510778,
+        "longitude": 13.398678,
+        "createDate": "2025-08-19T08:20:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                60,
+                50,
+                50
+              ],
+              "hex": "#3c3232",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                160
+              ],
+              "hex": "#aaa0a0",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                110
+              ],
+              "hex": "#8c786e",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "38.368"
+        }
+      },
+      {
+        "filename": "Eingang Sony-Center.jpg",
+        "latitude": 52.509822,
+        "longitude": 13.373594,
+        "createDate": "2025-08-20T09:29:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                70,
+                60,
+                50
+              ],
+              "hex": "#463c32",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                130,
+                100,
+                90
+              ],
+              "hex": "#82645a",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                210
+              ],
+              "hex": "#fae6d2",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                250,
+                120,
+                100
+              ],
+              "hex": "#fa7864",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "47.986"
+        }
+      },
+      {
+        "filename": "Eingang zur Preussischen Akademie der Wissenschaft.jpg",
+        "latitude": 52.5176,
+        "longitude": 13.391694,
+        "createDate": "2025-08-20T16:19:53.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                110,
+                100
+              ],
+              "hex": "#826e64",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                70,
+                40,
+                20
+              ],
+              "hex": "#462814",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "33.214"
+        }
+      },
+      {
+        "filename": "Eingang zur U-Bahn-Station Heinrich-Heine-Strasse.jpg",
+        "latitude": 52.51105,
+        "longitude": 13.416131,
+        "createDate": "2025-08-19T08:01:16.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                170,
+                240
+              ],
+              "hex": "#0aaaf0",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                0,
+                110,
+                200
+              ],
+              "hex": "#006ec8",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                170,
+                120,
+                80
+              ],
+              "hex": "#aa7850",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                0,
+                70,
+                120
+              ],
+              "hex": "#004678",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "61.543"
+        }
+      },
+      {
+        "filename": "Fahrräder und Wohnhaus.jpg",
+        "latitude": 52.531361,
+        "longitude": 13.437944,
+        "createDate": "2025-08-20T19:27:04.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.079"
+            },
+            {
+              "rgb": [
+                200,
+                150,
+                100
+              ],
+              "hex": "#c89664",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "38.480"
+        }
+      },
+      {
+        "filename": "Fassade der Kaiser-Wilhelm-Gedächtniskirche und eine Menschengruppe.jpg",
+        "latitude": 52.505139,
+        "longitude": 13.334875,
+        "createDate": "2025-08-19T11:58:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                180,
+                190
+              ],
+              "hex": "#a0b4be",
+              "percentage": "0.027"
+            }
+          ],
+          "colorfulness": "30.553"
+        }
+      },
+      {
+        "filename": "Fassade der Kaiser-Wilhelm-Gedächtniskirche und zwei Menschen.jpg",
+        "latitude": 52.505131,
+        "longitude": 13.334858,
+        "createDate": "2025-08-19T11:58:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.020"
+            }
+          ],
+          "colorfulness": "22.951"
+        }
+      },
+      {
+        "filename": "Fassade der S-Bahn-Station Alexanderplatz.jpg",
+        "latitude": 52.521356,
+        "longitude": 13.410719,
+        "createDate": "2025-08-20T18:12:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                210,
+                230
+              ],
+              "hex": "#aad2e6",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                90,
+                80,
+                70
+              ],
+              "hex": "#5a5046",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "38.986"
+        }
+      },
+      {
+        "filename": "Fassade des Berghains in Friedrichshain.jpg",
+        "latitude": 52.5117,
+        "longitude": 13.443747,
+        "createDate": "2025-08-20T13:02:55.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                170,
+                140
+              ],
+              "hex": "#beaa8c",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                190
+              ],
+              "hex": "#e6dcbe",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                20,
+                150,
+                200
+              ],
+              "hex": "#1496c8",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "51.234"
+        }
+      },
+      {
+        "filename": "Fassade des Berliner Doms.jpg",
+        "latitude": 52.518936,
+        "longitude": 13.400581,
+        "createDate": "2025-08-20T17:05:06.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                130,
+                180
+              ],
+              "hex": "#1482b4",
+              "percentage": "0.080"
+            },
+            {
+              "rgb": [
+                110,
+                60,
+                10
+              ],
+              "hex": "#6e3c0a",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                220,
+                180,
+                120
+              ],
+              "hex": "#dcb478",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                180,
+                140,
+                90
+              ],
+              "hex": "#b48c5a",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                110,
+                170,
+                210
+              ],
+              "hex": "#6eaad2",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "41.184"
+        }
+      },
+      {
+        "filename": "Fassade des Budestags.jpg",
+        "latitude": 52.520028,
+        "longitude": 13.373114,
+        "createDate": "2025-08-20T15:41:14.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                170,
+                160
+              ],
+              "hex": "#b4aaa0",
+              "percentage": "0.073"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                0
+              ],
+              "hex": "#140a00",
+              "percentage": "0.062"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "44.211"
+        }
+      },
+      {
+        "filename": "Fassade des Zoologischen Gartens.jpg",
+        "latitude": 52.505761,
+        "longitude": 13.341203,
+        "createDate": "2025-08-19T10:24:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                90,
+                150
+              ],
+              "hex": "#005a96",
+              "percentage": "0.066"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                20
+              ],
+              "hex": "#463214",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "50.664"
+        }
+      },
+      {
+        "filename": "Fassade eines Büro Gebäudes.jpg",
+        "latitude": 52.507392,
+        "longitude": 13.378258,
+        "createDate": "2025-08-20T09:11:06.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                150
+              ],
+              "hex": "#b4a096",
+              "percentage": "0.021"
+            }
+          ],
+          "colorfulness": "41.085"
+        }
+      },
+      {
+        "filename": "Fassade eines Bürohauses nahe Potsdamer Platz.jpg",
+        "latitude": 52.512419,
+        "longitude": 13.389431,
+        "createDate": "2025-08-20T12:02:30.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                10,
+                160,
+                220
+              ],
+              "hex": "#0aa0dc",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                100
+              ],
+              "hex": "#826e64",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                30
+              ],
+              "hex": "#1e141e",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "51.152"
+        }
+      },
+      {
+        "filename": "Fassade eines Hochauses und Wandgemälde am Alexanderplatz.jpg",
+        "latitude": 52.517417,
+        "longitude": 13.415978,
+        "createDate": "2025-08-20T15:10:19.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                200,
+                170
+              ],
+              "hex": "#dcc8aa",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                0
+              ],
+              "hex": "#503200",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                110,
+                180,
+                210
+              ],
+              "hex": "#6eb4d2",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "38.491"
+        }
+      },
+      {
+        "filename": "Fassade eines Wohnhauses am Prenzlauer-Berg.jpg",
+        "latitude": 52.536975,
+        "longitude": 13.429083,
+        "createDate": "2025-08-20T19:02:13.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                30,
+                0
+              ],
+              "hex": "#3c1e00",
+              "percentage": "0.085"
+            },
+            {
+              "rgb": [
+                0,
+                100,
+                170
+              ],
+              "hex": "#0064aa",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                10,
+                150,
+                210
+              ],
+              "hex": "#0a96d2",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                140,
+                110,
+                80
+              ],
+              "hex": "#8c6e50",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "48.275"
+        }
+      },
+      {
+        "filename": "Fassade eines Wohnhauses.jpg",
+        "latitude": 52.521356,
+        "longitude": 13.405122,
+        "createDate": "2025-08-20T17:13:35.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                140,
+                200,
+                240
+              ],
+              "hex": "#8cc8f0",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                230,
+                200,
+                170
+              ],
+              "hex": "#e6c8aa",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                100,
+                90,
+                80
+              ],
+              "hex": "#645a50",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "45.497"
+        }
+      },
+      {
+        "filename": "Fassade und vier Statuen auf der Museumsinsel.jpg",
+        "latitude": 52.517578,
+        "longitude": 13.396689,
+        "createDate": "2025-08-20T16:29:58.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                100,
+                80
+              ],
+              "hex": "#826450",
+              "percentage": "0.062"
+            },
+            {
+              "rgb": [
+                10,
+                160,
+                220
+              ],
+              "hex": "#0aa0dc",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "45.020"
+        }
+      },
+      {
+        "filename": "Fernsehturm vom Roten Rathaus fotografiert.jpg",
+        "latitude": 52.519158,
+        "longitude": 13.407478,
+        "createDate": "2025-08-18T18:29:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                190,
+                220
+              ],
+              "hex": "#a0bedc",
+              "percentage": "0.076"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                20
+              ],
+              "hex": "#321e14",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                180,
+                140,
+                110
+              ],
+              "hex": "#b48c6e",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                220,
+                180,
+                140
+              ],
+              "hex": "#dcb48c",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "44.288"
+        }
+      },
+      {
+        "filename": "Französische Botschaft am Pariser-Platz.jpg",
+        "latitude": 52.516644,
+        "longitude": 13.378989,
+        "createDate": "2025-08-20T15:55:03.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                170,
+                230
+              ],
+              "hex": "#0aaae6",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                70
+              ],
+              "hex": "#beaa46",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                190
+              ],
+              "hex": "#c8c8be",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                180,
+                150,
+                130
+              ],
+              "hex": "#b49682",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                20
+              ],
+              "hex": "#321e14",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "57.613"
+        }
+      },
+      {
+        "filename": "Friedenstrasse Strassenschild bei Nacht.jpg",
+        "latitude": 52.520425,
+        "longitude": 13.438217,
+        "createDate": "2025-08-20T20:04:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.059"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                70
+              ],
+              "hex": "#5a4646",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                230,
+                140,
+                20
+              ],
+              "hex": "#e68c14",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                140
+              ],
+              "hex": "#beaa8c",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "39.498"
+        }
+      },
+      {
+        "filename": "Gebäude und Baukräne am Alexanderplatz.jpg",
+        "latitude": 52.520736,
+        "longitude": 13.412606,
+        "createDate": "2025-08-20T15:10:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                120,
+                90
+              ],
+              "hex": "#a0785a",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                60,
+                120,
+                160
+              ],
+              "hex": "#3c78a0",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "32.056"
+        }
+      },
+      {
+        "filename": "Gebäude, Strasse und Bus am Alexanderplatz.jpg",
+        "latitude": 52.519719,
+        "longitude": 13.414197,
+        "createDate": "2025-08-20T15:10:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                150,
+                110,
+                80
+              ],
+              "hex": "#966e50",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                80,
+                150,
+                190
+              ],
+              "hex": "#5096be",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                50,
+                20,
+                10
+              ],
+              "hex": "#32140a",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "36.878"
+        }
+      },
+      {
+        "filename": "Gelbe Vespa vor einem Wohnhaus.jpg",
+        "latitude": 52.502883,
+        "longitude": 13.441319,
+        "createDate": "2025-08-19T07:35:37.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                160,
+                160
+              ],
+              "hex": "#aaa0a0",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                250,
+                200,
+                80
+              ],
+              "hex": "#fac850",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "42.013"
+        }
+      },
+      {
+        "filename": "Gemälde 1 in der neuen Nationalgallerie.jpg",
+        "latitude": 52.507019,
+        "longitude": 13.367408,
+        "createDate": "2025-08-20T10:00:49.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.047"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "42.046"
+        }
+      },
+      {
+        "filename": "Gemälde 2 in der neuen Nationalgallerie.jpg",
+        "latitude": 52.506983,
+        "longitude": 13.366825,
+        "createDate": "2025-08-20T10:02:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                220,
+                190
+              ],
+              "hex": "#f0dcbe",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                110
+              ],
+              "hex": "#a0826e",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                90,
+                150,
+                180
+              ],
+              "hex": "#5a96b4",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "37.227"
+        }
+      },
+      {
+        "filename": "Getränke Hoffmann in Friedrichshain.jpg",
+        "latitude": 52.510956,
+        "longitude": 13.445131,
+        "createDate": "2025-08-18T17:09:08.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                140,
+                150
+              ],
+              "hex": "#8c8c96",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                110,
+                70,
+                70
+              ],
+              "hex": "#6e4646",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                100,
+                200,
+                230
+              ],
+              "hex": "#64c8e6",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                180
+              ],
+              "hex": "#d2c8b4",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "42.243"
+        }
+      },
+      {
+        "filename": "Glas-Decke eines Bürohauses.jpg",
+        "latitude": 52.505753,
+        "longitude": 13.446758,
+        "createDate": "2025-08-20T06:37:03.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                0,
+                0
+              ],
+              "hex": "#1e0000",
+              "percentage": "0.324"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                220
+              ],
+              "hex": "#e6e6dc",
+              "percentage": "0.042"
+            },
+            {
+              "rgb": [
+                180,
+                150,
+                140
+              ],
+              "hex": "#b4968c",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "52.944"
+        }
+      },
+      {
+        "filename": "Glas-Fassade an der U-Bahn-Station Einfahrt Friedrichstrasse.jpg",
+        "latitude": 52.520206,
+        "longitude": 13.388422,
+        "createDate": "2025-08-20T12:39:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                100
+              ],
+              "hex": "#826e64",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                150
+              ],
+              "hex": "#aaa096",
+              "percentage": "0.019"
+            }
+          ],
+          "colorfulness": "32.404"
+        }
+      },
+      {
+        "filename": "Gold-Skulptur in der neuen Nationalgallerie.jpg",
+        "latitude": 52.507042,
+        "longitude": 13.367322,
+        "createDate": "2025-08-20T10:00:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                90,
+                60,
+                40
+              ],
+              "hex": "#5a3c28",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                250,
+                70,
+                40
+              ],
+              "hex": "#fa4628",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "36.831"
+        }
+      },
+      {
+        "filename": "Goldene Statue eine Frau in der neuen Nationalgallerie.jpg",
+        "latitude": 52.506942,
+        "longitude": 13.366558,
+        "createDate": "2025-08-20T10:19:43.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                160,
+                150
+              ],
+              "hex": "#aaa096",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                20
+              ],
+              "hex": "#5a4614",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                180,
+                110,
+                10
+              ],
+              "hex": "#b46e0a",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "42.263"
+        }
+      },
+      {
+        "filename": "Graffitti auf Glas in einer U-Bahn-Station.jpg",
+        "latitude": 52.498989,
+        "longitude": 13.382436,
+        "createDate": "2025-08-20T08:45:59.000Z",
+        "colorData": {
+          "dominantColors": [
             {
               "rgb": [
                 20,
@@ -563,67 +4040,152 @@ export const galleries = [
               "rgb": [
                 110,
                 80,
-                70
+                20
               ],
-              "hex": "#6e5046",
-              "percentage": "0.020"
-            },
-            {
-              "rgb": [
-                150,
-                140,
-                130
-              ],
-              "hex": "#968c82",
-              "percentage": "0.014"
-            }
-          ],
-          "colorfulness": "44.049"
-        }
-      },
-      {
-        "filename": "Berliner Hauptbahnhof von Innen.jpg",
-        "latitude": 52.524533,
-        "longitude": 13.369892,
-        "createDate": "2023-08-15T06:34:46.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.078"
-            },
-            {
-              "rgb": [
-                230,
-                220,
-                210
-              ],
-              "hex": "#e6dcd2",
+              "hex": "#6e5014",
               "percentage": "0.021"
             },
             {
               "rgb": [
-                120,
-                100,
-                90
+                240,
+                240,
+                230
               ],
-              "hex": "#78645a",
-              "percentage": "0.015"
+              "hex": "#f0f0e6",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                150
+              ],
+              "hex": "#aaa096",
+              "percentage": "0.017"
             }
           ],
-          "colorfulness": "41.086"
+          "colorfulness": "43.433"
         }
       },
       {
-        "filename": "Eingelegte Sardinen im Raster geschlichtet.jpg",
-        "latitude": 52.518742,
-        "longitude": 13.408022,
-        "createDate": "2023-08-14T12:34:46.000Z",
+        "filename": "Gropius Stadt Wohnhochhäuser.jpg",
+        "latitude": 52.428078,
+        "longitude": 13.453686,
+        "createDate": "2025-08-20T07:32:43.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.077"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                10
+              ],
+              "hex": "#32280a",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                130
+              ],
+              "hex": "#aa9682",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "45.422"
+        }
+      },
+      {
+        "filename": "Herz-Symbol auf Aluminium-Beschlag.jpg",
+        "latitude": 52.536378,
+        "longitude": 13.431592,
+        "createDate": "2025-08-20T19:04:54.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                100,
+                90
+              ],
+              "hex": "#82645a",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                30,
+                0,
+                0
+              ],
+              "hex": "#1e0000",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "23.950"
+        }
+      },
+      {
+        "filename": "Hirsch-Statue in Tierpark Mitte.jpg",
+        "latitude": 52.514258,
+        "longitude": 13.369367,
+        "createDate": "2025-08-19T09:42:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                150,
+                190
+              ],
+              "hex": "#3c96be",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                30,
+                30,
+                30
+              ],
+              "hex": "#1e1e1e",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                120
+              ],
+              "hex": "#d2c878",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "47.641"
+        }
+      },
+      {
+        "filename": "Humboldt-Forum und Spree bei Nacht.jpg",
+        "latitude": 52.518636,
+        "longitude": 13.402272,
+        "createDate": "2025-08-18T19:02:17.000Z",
         "colorData": {
           "dominantColors": [
             {
@@ -633,16 +4195,1717 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": "0.144"
+              "percentage": "0.089"
+            },
+            {
+              "rgb": [
+                10,
+                90,
+                140
+              ],
+              "hex": "#0a5a8c",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                250,
+                210,
+                110
+              ],
+              "hex": "#fad26e",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "41.577"
+        }
+      },
+      {
+        "filename": "Jesus Statue in der neuen Kaiser-Wilhelm-Gedächtniskirche.jpg",
+        "latitude": 52.504933,
+        "longitude": 13.33445,
+        "createDate": "2025-08-19T12:04:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                220,
+                190,
+                100
+              ],
+              "hex": "#dcbe64",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                90,
+                120,
+                170
+              ],
+              "hex": "#5a78aa",
+              "percentage": "0.000"
             },
             {
               "rgb": [
                 240,
                 230,
+                150
+              ],
+              "hex": "#f0e696",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "30.507"
+        }
+      },
+      {
+        "filename": "Jesus-Statue in der alten Kaiser-Wilhelm-Gedächtniskirche.jpg",
+        "latitude": 52.504642,
+        "longitude": 13.335094,
+        "createDate": "2025-08-19T12:02:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.085"
+            },
+            {
+              "rgb": [
+                190,
+                230,
+                230
+              ],
+              "hex": "#bee6e6",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                90,
+                80,
+                70
+              ],
+              "hex": "#5a5046",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "49.508"
+        }
+      },
+      {
+        "filename": "Jugenstil-Eingangsbereich eines Gebäudes in Friedrichshain.jpg",
+        "latitude": 52.515233,
+        "longitude": 13.443617,
+        "createDate": "2025-08-18T20:26:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.101"
+            },
+            {
+              "rgb": [
+                200,
+                170,
+                150
+              ],
+              "hex": "#c8aa96",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                140,
+                90,
+                50
+              ],
+              "hex": "#8c5a32",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "44.260"
+        }
+      },
+      {
+        "filename": "Karl-Liebknecht-Strasse Strassenschild.jpg",
+        "latitude": 52.519078,
+        "longitude": 13.402608,
+        "createDate": "2025-08-20T17:07:48.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                180,
+                210,
+                230
+              ],
+              "hex": "#b4d2e6",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                20
+              ],
+              "hex": "#281e14",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                130,
+                120,
+                120
+              ],
+              "hex": "#827878",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                20,
+                160,
+                220
+              ],
+              "hex": "#14a0dc",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "52.959"
+        }
+      },
+      {
+        "filename": "Karl-Marx-Allee mit Blick auf den Fernsehturm.jpg",
+        "latitude": 52.516278,
+        "longitude": 13.449222,
+        "createDate": "2025-08-19T15:15:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                140,
+                190
+              ],
+              "hex": "#148cbe",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                100,
+                190,
+                230
+              ],
+              "hex": "#64bee6",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                50
+              ],
+              "hex": "#826e32",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "51.780"
+        }
+      },
+      {
+        "filename": "Kämpfer Statue vor der alten Nationalgallerie.jpg",
+        "latitude": 52.519261,
+        "longitude": 13.399231,
+        "createDate": "2025-08-20T17:01:32.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                50
+              ],
+              "hex": "#463232",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                20
+              ],
+              "hex": "#140a14",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                10,
+                150,
                 210
               ],
-              "hex": "#f0e6d2",
+              "hex": "#0a96d2",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "45.522"
+        }
+      },
+      {
+        "filename": "Kirche in Friedrichshain bei Nacht.jpg",
+        "latitude": 52.520753,
+        "longitude": 13.437614,
+        "createDate": "2025-08-20T20:03:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                20,
+                30
+              ],
+              "hex": "#14141e",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                40,
+                70,
+                100
+              ],
+              "hex": "#284664",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                120,
+                50,
+                0
+              ],
+              "hex": "#783200",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "43.168"
+        }
+      },
+      {
+        "filename": "Krokodil-Fresco an Ziegelmauer beim Zoologischen Garten.jpg",
+        "latitude": 52.505797,
+        "longitude": 13.341231,
+        "createDate": "2025-08-19T10:23:59.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                90,
+                150
+              ],
+              "hex": "#005a96",
+              "percentage": "0.070"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                190,
+                160,
+                140
+              ],
+              "hex": "#bea08c",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "53.055"
+        }
+      },
+      {
+        "filename": "Mall of Berlin Durchgang.jpg",
+        "latitude": 52.510236,
+        "longitude": 13.381106,
+        "createDate": "2025-08-20T11:32:49.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                60
+              ],
+              "hex": "#6e503c",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                210,
+                230,
+                230
+              ],
+              "hex": "#d2e6e6",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                200,
+                60,
+                60
+              ],
+              "hex": "#c83c3c",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "37.013"
+        }
+      },
+      {
+        "filename": "Mann mit Comic-Figuren Luftballoons am Alexanderplatz.jpg",
+        "latitude": 52.520103,
+        "longitude": 13.409358,
+        "createDate": "2025-08-20T18:19:52.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                190,
+                180
+              ],
+              "hex": "#d2beb4",
+              "percentage": "0.062"
+            },
+            {
+              "rgb": [
+                60,
+                50,
+                30
+              ],
+              "hex": "#3c321e",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                10,
+                110,
+                140
+              ],
+              "hex": "#0a6e8c",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                250,
+                100,
+                120
+              ],
+              "hex": "#fa6478",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                100,
+                210,
+                240
+              ],
+              "hex": "#64d2f0",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "40.694"
+        }
+      },
+      {
+        "filename": "Marl-Marx-Allee mit Blick auf Fernsehturm bei Nacht.jpg",
+        "latitude": 52.516342,
+        "longitude": 13.449008,
+        "createDate": "2025-08-18T20:17:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.097"
+            },
+            {
+              "rgb": [
+                190,
+                160,
+                90
+              ],
+              "hex": "#bea05a",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "41.935"
+        }
+      },
+      {
+        "filename": "Mauern am Volkspark Friedrichshain.jpg",
+        "latitude": 52.518447,
+        "longitude": 13.441108,
+        "createDate": "2025-08-20T20:09:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.167"
+            },
+            {
+              "rgb": [
+                0,
+                40,
+                80
+              ],
+              "hex": "#002850",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                130,
+                80,
+                50
+              ],
+              "hex": "#825032",
               "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                250,
+                220,
+                170
+              ],
+              "hex": "#fadcaa",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                220,
+                170,
+                100
+              ],
+              "hex": "#dcaa64",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "44.234"
+        }
+      },
+      {
+        "filename": "Mausoleum in Kreuzberg:Mitte.jpg",
+        "latitude": 52.510742,
+        "longitude": 13.398986,
+        "createDate": "2025-08-19T08:19:42.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                130,
+                200
+              ],
+              "hex": "#0a82c8",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                160
+              ],
+              "hex": "#a0a0a0",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                110,
+                100,
+                100
+              ],
+              "hex": "#6e6464",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                30,
+                40,
+                50
+              ],
+              "hex": "#1e2832",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                110,
+                200,
+                240
+              ],
+              "hex": "#6ec8f0",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "50.125"
+        }
+      },
+      {
+        "filename": "Menschen sitzen auf der Eingangsterasse der alten Nationalgallerie.jpg",
+        "latitude": 52.518875,
+        "longitude": 13.398733,
+        "createDate": "2025-08-20T16:47:42.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                20,
+                30
+              ],
+              "hex": "#14141e",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                10,
+                120,
+                170
+              ],
+              "hex": "#0a78aa",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                90,
+                80,
+                80
+              ],
+              "hex": "#5a5050",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                110,
+                160,
+                190
+              ],
+              "hex": "#6ea0be",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "41.602"
+        }
+      },
+      {
+        "filename": "Menschen-Statuen auf Brunnen am Kurfürstendamm.jpg",
+        "latitude": 52.501336,
+        "longitude": 13.342733,
+        "createDate": "2025-08-19T13:18:08.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.064"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                140
+              ],
+              "hex": "#a0a08c",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                10,
+                110,
+                180
+              ],
+              "hex": "#0a6eb4",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                190
+              ],
+              "hex": "#f0dcbe",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "41.616"
+        }
+      },
+      {
+        "filename": "Metalltür im Volkspark Friedrichshain.jpg",
+        "latitude": 52.526869,
+        "longitude": 13.429728,
+        "createDate": "2025-08-20T19:41:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.087"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                210
+              ],
+              "hex": "#faf0d2",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                230,
+                200,
+                160
+              ],
+              "hex": "#e6c8a0",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "31.337"
+        }
+      },
+      {
+        "filename": "Nollendorfplatz Schriftzug und Glas-Fassade.jpg",
+        "latitude": 52.499389,
+        "longitude": 13.354011,
+        "createDate": "2025-08-19T13:33:10.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.114"
+            },
+            {
+              "rgb": [
+                130,
+                200,
+                240
+              ],
+              "hex": "#82c8f0",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                110
+              ],
+              "hex": "#826e6e",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                0,
+                70,
+                110
+              ],
+              "hex": "#00466e",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "47.825"
+        }
+      },
+      {
+        "filename": "Nord-Süd an der Friedrichstrasse.jpg",
+        "latitude": 52.514008,
+        "longitude": 13.389431,
+        "createDate": "2025-08-20T12:05:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                180,
+                220
+              ],
+              "hex": "#5ab4dc",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                100,
+                90,
+                100
+              ],
+              "hex": "#645a64",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                160,
+                80,
+                0
+              ],
+              "hex": "#a05000",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "45.782"
+        }
+      },
+      {
+        "filename": "Oberbaumbrücke mit Autos und Fahrrädern.jpg",
+        "latitude": 52.502261,
+        "longitude": 13.446022,
+        "createDate": "2025-08-19T07:28:22.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                160,
+                230
+              ],
+              "hex": "#0aa0e6",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                20
+              ],
+              "hex": "#281414",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                110,
+                200,
+                240
+              ],
+              "hex": "#6ec8f0",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                110,
+                100,
+                100
+              ],
+              "hex": "#6e6464",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "64.617"
+        }
+      },
+      {
+        "filename": "Paul-Loewe-Haus in Mitte.jpg",
+        "latitude": 52.519406,
+        "longitude": 13.377081,
+        "createDate": "2025-08-19T09:25:34.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                170,
+                160
+              ],
+              "hex": "#beaaa0",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                200
+              ],
+              "hex": "#e6dcc8",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                20,
+                140,
+                200
+              ],
+              "hex": "#148cc8",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                100,
+                190,
+                230
+              ],
+              "hex": "#64bee6",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                60,
+                50,
+                50
+              ],
+              "hex": "#3c3232",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "51.990"
+        }
+      },
+      {
+        "filename": "Plan des Volkspark Friedrichshain.jpg",
+        "latitude": 52.523797,
+        "longitude": 13.433014,
+        "createDate": "2025-08-20T19:54:53.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.102"
+            },
+            {
+              "rgb": [
+                220,
+                180,
+                140
+              ],
+              "hex": "#dcb48c",
+              "percentage": "0.048"
+            }
+          ],
+          "colorfulness": "45.891"
+        }
+      },
+      {
+        "filename": "Polizei-Station am Reichstag.jpg",
+        "latitude": 52.517978,
+        "longitude": 13.377158,
+        "createDate": "2025-08-20T15:48:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                150,
+                140
+              ],
+              "hex": "#a0968c",
+              "percentage": "0.056"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                0
+              ],
+              "hex": "#140a00",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                220
+              ],
+              "hex": "#f0f0dc",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "34.586"
+        }
+      },
+      {
+        "filename": "Preussischen Akademie der Wissenschaft Schriftzug und Eingang.jpg",
+        "latitude": 52.517564,
+        "longitude": 13.391483,
+        "createDate": "2025-08-20T16:20:26.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.064"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.021"
+            }
+          ],
+          "colorfulness": "32.386"
+        }
+      },
+      {
+        "filename": "Reiter Statue vor Neo-Klassischen Gebäude.jpg",
+        "latitude": 52.517472,
+        "longitude": 13.392703,
+        "createDate": "2025-08-20T16:23:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                140,
+                190
+              ],
+              "hex": "#148cbe",
+              "percentage": "0.061"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.056"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                120,
+                100,
+                80
+              ],
+              "hex": "#786450",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "56.764"
+        }
+      },
+      {
+        "filename": "Reiter-Statue in Tierpark Mitte.jpg",
+        "latitude": 52.514533,
+        "longitude": 13.369397,
+        "createDate": "2025-08-19T09:41:44.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                150,
+                230
+              ],
+              "hex": "#0a96e6",
+              "percentage": "0.041"
+            },
+            {
+              "rgb": [
+                40,
+                40,
+                20
+              ],
+              "hex": "#282814",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                110,
+                100,
+                70
+              ],
+              "hex": "#6e6446",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                140
+              ],
+              "hex": "#dcdc8c",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "62.542"
+        }
+      },
+      {
+        "filename": "Rote Fassade und Bäume mit Blick auf den Himmel.jpg",
+        "latitude": 52.518117,
+        "longitude": 13.395775,
+        "createDate": "2025-08-20T16:28:24.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                160,
+                220
+              ],
+              "hex": "#14a0dc",
+              "percentage": "0.057"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                70,
+                60,
+                60
+              ],
+              "hex": "#463c3c",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                140,
+                130,
+                120
+              ],
+              "hex": "#8c8278",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "62.664"
+        }
+      },
+      {
+        "filename": "Rotes Rathaus Frontale.jpg",
+        "latitude": 52.519281,
+        "longitude": 13.407236,
+        "createDate": "2025-08-18T18:30:37.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                190,
+                210
+              ],
+              "hex": "#96bed2",
+              "percentage": "0.069"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                100
+              ],
+              "hex": "#8c7864",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                90,
+                30,
+                10
+              ],
+              "hex": "#5a1e0a",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                150,
+                70,
+                30
+              ],
+              "hex": "#96461e",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "45.180"
+        }
+      },
+      {
+        "filename": "S-Bahn Station Treptower-Park Bahnsteig.jpg",
+        "latitude": 52.493594,
+        "longitude": 13.462333,
+        "createDate": "2025-08-18T15:55:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                140,
+                140
+              ],
+              "hex": "#968c8c",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                10,
+                50,
+                70
+              ],
+              "hex": "#0a3246",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                20,
+                190,
+                230
+              ],
+              "hex": "#14bee6",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                150,
+                210,
+                230
+              ],
+              "hex": "#96d2e6",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "45.035"
+        }
+      },
+      {
+        "filename": "S-Bahn-Logo am Potsdamer Platz.jpg",
+        "latitude": 52.509364,
+        "longitude": 13.377047,
+        "createDate": "2025-08-20T11:20:16.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                110,
+                180
+              ],
+              "hex": "#0a6eb4",
+              "percentage": "0.073"
+            },
+            {
+              "rgb": [
+                0,
+                30,
+                50
+              ],
+              "hex": "#001e32",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                240
+              ],
+              "hex": "#dce6f0",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "42.604"
+        }
+      },
+      {
+        "filename": "S-Bahn-Station Warschauer Strasse mit Gleisen und Grünfläche.jpg",
+        "latitude": 52.506486,
+        "longitude": 13.450556,
+        "createDate": "2025-08-20T15:04:43.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                20,
+                30
+              ],
+              "hex": "#14141e",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                80
+              ],
+              "hex": "#6e5a50",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                110,
+                190,
+                230
+              ],
+              "hex": "#6ebee6",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "42.451"
+        }
+      },
+      {
+        "filename": "Schiff auf der Spree mit Blick Moabit.jpg",
+        "latitude": 52.522819,
+        "longitude": 13.37075,
+        "createDate": "2025-08-20T15:28:19.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                150,
+                150
+              ],
+              "hex": "#a09696",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                30
+              ],
+              "hex": "#281e1e",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "32.854"
+        }
+      },
+      {
+        "filename": "Selbstportrait in der neuen Nationalgallerie.jpg",
+        "latitude": 52.507306,
+        "longitude": 13.366697,
+        "createDate": "2025-08-20T10:22:24.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.015"
+            }
+          ],
+          "colorfulness": "41.092"
+        }
+      },
+      {
+        "filename": "Siegessäule im Tierpark Mitte.jpg",
+        "latitude": 52.513881,
+        "longitude": 13.351108,
+        "createDate": "2025-08-19T10:07:22.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                90,
+                150
+              ],
+              "hex": "#005a96",
+              "percentage": "0.185"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                160
+              ],
+              "hex": "#d2bea0",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                70,
+                40,
+                40
+              ],
+              "hex": "#462828",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "29.354"
+        }
+      },
+      {
+        "filename": "Sitzende Menschen am Spree-Ufer.jpg",
+        "latitude": 52.522572,
+        "longitude": 13.372064,
+        "createDate": "2025-08-20T15:30:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                160,
+                140
+              ],
+              "hex": "#bea08c",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                110,
+                140,
+                160
+              ],
+              "hex": "#6e8ca0",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                80
+              ],
+              "hex": "#6e5a50",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "30.004"
+        }
+      },
+      {
+        "filename": "Spiegelungen an der Glas-Fassade des Bundestags.jpg",
+        "latitude": 52.520028,
+        "longitude": 13.373608,
+        "createDate": "2025-08-20T15:42:20.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                60,
+                40
+              ],
+              "hex": "#503c28",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                90
+              ],
+              "hex": "#8c785a",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                150
+              ],
+              "hex": "#a0a096",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                90,
+                170,
+                200
+              ],
+              "hex": "#5aaac8",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "36.355"
+        }
+      },
+      {
+        "filename": "Statue eines Mannes mit Maske in der neuen Nationalgallerie.jpg",
+        "latitude": 52.507008,
+        "longitude": 13.366525,
+        "createDate": "2025-08-20T10:19:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                200,
+                180
+              ],
+              "hex": "#d2c8b4",
+              "percentage": "0.116"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.012"
             },
             {
               "rgb": [
@@ -655,24 +5918,33 @@ export const galleries = [
             },
             {
               "rgb": [
-                20,
-                130,
-                170
+                140,
+                120,
+                30
               ],
-              "hex": "#1482aa",
-              "percentage": "0.000"
+              "hex": "#8c781e",
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": "49.153"
+          "colorfulness": "40.229"
         }
       },
       {
-        "filename": "Fahrräder, Autos und Häuser in Berlin Neukölln.jpg",
-        "latitude": 52.494972,
-        "longitude": 13.421853,
-        "createDate": "2023-08-14T12:34:46.000Z",
+        "filename": "Statue mit Buffallo in Friedrichshain.jpg",
+        "latitude": 52.53305,
+        "longitude": 13.436914,
+        "createDate": "2025-08-20T19:15:06.000Z",
         "colorData": {
           "dominantColors": [
+            {
+              "rgb": [
+                10,
+                110,
+                180
+              ],
+              "hex": "#0a6eb4",
+              "percentage": "0.048"
+            },
             {
               "rgb": [
                 20,
@@ -680,243 +5952,527 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": "0.032"
+              "percentage": "0.037"
             },
             {
               "rgb": [
-                240,
-                240,
-                220
+                130,
+                90,
+                50
               ],
-              "hex": "#f0f0dc",
-              "percentage": "0.017"
+              "hex": "#825a32",
+              "percentage": "0.011"
             },
             {
               "rgb": [
-                150,
-                120,
+                230,
+                170,
                 110
               ],
-              "hex": "#96786e",
-              "percentage": "0.010"
+              "hex": "#e6aa6e",
+              "percentage": "0.009"
             },
             {
               "rgb": [
-                190,
-                170,
-                150
+                250,
+                250,
+                200
               ],
-              "hex": "#beaa96",
-              "percentage": "0.007"
-            },
-            {
-              "rgb": [
-                50,
-                150,
-                180
-              ],
-              "hex": "#3296b4",
-              "percentage": "0.000"
+              "hex": "#fafac8",
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": "43.136"
+          "colorfulness": "55.377"
         }
       },
       {
-        "filename": "Fernsehturm am Alexanderplatz.jpg",
-        "latitude": 52.518097,
-        "longitude": 13.406433,
-        "createDate": "2023-08-15T12:34:46.000Z",
+        "filename": "Statue mit Tieren in Friedrichshain.jpg",
+        "latitude": 52.533203,
+        "longitude": 13.4368,
+        "createDate": "2025-08-20T19:14:36.000Z",
         "colorData": {
           "dominantColors": [
             {
               "rgb": [
-                0,
-                130,
-                190
+                30,
+                10,
+                0
               ],
-              "hex": "#0082be",
-              "percentage": "0.098"
+              "hex": "#1e0a00",
+              "percentage": "0.090"
             },
             {
               "rgb": [
-                60,
-                190,
+                10,
+                110,
+                190
+              ],
+              "hex": "#0a6ebe",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                230,
+                180,
+                120
+              ],
+              "hex": "#e6b478",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "53.567"
+        }
+      },
+      {
+        "filename": "Statue und Platz in Kreuzberg.jpg",
+        "latitude": 52.511589,
+        "longitude": 13.413914,
+        "createDate": "2025-08-19T08:03:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                150,
                 230
               ],
-              "hex": "#3cbee6",
+              "hex": "#0a96e6",
+              "percentage": "0.075"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
               "percentage": "0.024"
             },
             {
               "rgb": [
                 240,
                 230,
-                210
-              ],
-              "hex": "#f0e6d2",
-              "percentage": "0.009"
-            },
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.008"
-            },
-            {
-              "rgb": [
-                70,
-                80,
-                100
-              ],
-              "hex": "#465064",
-              "percentage": "0.002"
-            }
-          ],
-          "colorfulness": "54.054"
-        }
-      },
-      {
-        "filename": "Getränke Hoffmann Schild an einem Wohnhaus in Berlin.jpg",
-        "latitude": 52.492272,
-        "longitude": 13.416881,
-        "createDate": "2023-08-15T12:34:46.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                200,
-                200,
-                190
-              ],
-              "hex": "#c8c8be",
-              "percentage": "0.124"
-            },
-            {
-              "rgb": [
-                30,
-                0,
-                0
-              ],
-              "hex": "#1e0000",
-              "percentage": "0.030"
-            },
-            {
-              "rgb": [
-                210,
-                0,
-                0
-              ],
-              "hex": "#d20000",
-              "percentage": "0.002"
-            }
-          ],
-          "colorfulness": "42.793"
-        }
-      },
-      {
-        "filename": "Großer Park vor dem Schloss Sansouci in Potsdam.jpg",
-        "latitude": 52.404192,
-        "longitude": 13.038433,
-        "createDate": "2023-08-16T12:34:46.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                0,
-                150,
                 200
               ],
-              "hex": "#0096c8",
-              "percentage": "0.029"
+              "hex": "#f0e6c8",
+              "percentage": "0.016"
             },
             {
               "rgb": [
-                20,
-                0,
-                0
+                200,
+                170,
+                140
               ],
-              "hex": "#140000",
-              "percentage": "0.013"
+              "hex": "#c8aa8c",
+              "percentage": "0.007"
             },
             {
               "rgb": [
                 140,
                 120,
-                40
+                80
               ],
-              "hex": "#8c7828",
-              "percentage": "0.012"
-            },
-            {
-              "rgb": [
-                210,
-                220,
-                220
-              ],
-              "hex": "#d2dcdc",
-              "percentage": "0.009"
+              "hex": "#8c7850",
+              "percentage": "0.005"
             }
           ],
-          "colorfulness": "60.139"
+          "colorfulness": "63.578"
         }
       },
       {
-        "filename": "Hochhaus Upper West von Kantstrasse aufgenommen.jpg",
-        "latitude": 52.505053,
-        "longitude": 13.332972,
-        "createDate": "2023-08-16T12:34:45.000Z",
+        "filename": "Statue von Alexander von Humboldt.jpg",
+        "latitude": 52.517589,
+        "longitude": 13.394133,
+        "createDate": "2025-08-20T16:25:47.000Z",
         "colorData": {
           "dominantColors": [
             {
               "rgb": [
-                230,
-                230,
-                220
+                200,
+                210,
+                210
               ],
-              "hex": "#e6e6dc",
-              "percentage": "0.027"
-            },
-            {
-              "rgb": [
-                100,
-                60,
-                50
-              ],
-              "hex": "#643c32",
+              "hex": "#c8d2d2",
               "percentage": "0.020"
             },
             {
               "rgb": [
-                140,
-                110,
-                100
+                150,
+                130,
+                120
               ],
-              "hex": "#8c6e64",
-              "percentage": "0.019"
+              "hex": "#968278",
+              "percentage": "0.016"
             },
             {
               "rgb": [
                 100,
-                160,
+                80,
+                70
+              ],
+              "hex": "#645046",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                90,
+                150,
                 180
               ],
-              "hex": "#64a0b4",
-              "percentage": "0.016"
+              "hex": "#5a96b4",
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": "40.969"
+          "colorfulness": "35.890"
         }
       },
       {
-        "filename": "Jesus-Statue in der Kaiser-Wilhelm-Gedächtniskirche.jpg",
-        "latitude": 52.504758,
-        "longitude": 13.335239,
-        "createDate": "2023-08-14T12:34:45.000Z",
+        "filename": "Statue zweier Kämpfender auf der Museuminsel.jpg",
+        "latitude": 52.517739,
+        "longitude": 13.398575,
+        "createDate": "2025-08-20T16:32:44.000Z",
         "colorData": {
           "dominantColors": [
+            {
+              "rgb": [
+                20,
+                120,
+                170
+              ],
+              "hex": "#1478aa",
+              "percentage": "0.119"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                190
+              ],
+              "hex": "#f0dcbe",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                20
+              ],
+              "hex": "#503214",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                180,
+                150,
+                120
+              ],
+              "hex": "#b49678",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "46.425"
+        }
+      },
+      {
+        "filename": "Statuen eines Mannes und Glas-Decke.jpg",
+        "latitude": 52.519653,
+        "longitude": 13.403372,
+        "createDate": "2025-08-20T17:09:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.049"
+            },
+            {
+              "rgb": [
+                140,
+                160,
+                170
+              ],
+              "hex": "#8ca0aa",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                190
+              ],
+              "hex": "#f0dcbe",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "42.019"
+        }
+      },
+      {
+        "filename": "Stiege und Eingang zum Berliner Dom.jpg",
+        "latitude": 52.518692,
+        "longitude": 13.400822,
+        "createDate": "2025-08-20T17:05:50.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                240,
+                210,
+                160
+              ],
+              "hex": "#f0d2a0",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.017"
+            }
+          ],
+          "colorfulness": "39.124"
+        }
+      },
+      {
+        "filename": "Stiegen in Berlin.jpg",
+        "latitude": 52.521161,
+        "longitude": 13.405489,
+        "createDate": "2025-08-20T17:12:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                40
+              ],
+              "hex": "#463228",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "32.976"
+        }
+      },
+      {
+        "filename": "Strasse, Bus und Laternen bei Nacht.jpg",
+        "latitude": 52.525178,
+        "longitude": 13.430589,
+        "createDate": "2025-08-20T19:45:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.177"
+            },
+            {
+              "rgb": [
+                200,
+                150,
+                110
+              ],
+              "hex": "#c8966e",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                220,
+                190,
+                160
+              ],
+              "hex": "#dcbea0",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "41.548"
+        }
+      },
+      {
+        "filename": "Street an den Mauern des Volkspark Friedrichshain.jpg",
+        "latitude": 52.51925,
+        "longitude": 13.439725,
+        "createDate": "2025-08-20T20:08:03.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.120"
+            },
+            {
+              "rgb": [
+                230,
+                190,
+                150
+              ],
+              "hex": "#e6be96",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                200,
+                100,
+                50
+              ],
+              "hex": "#c86432",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "51.707"
+        }
+      },
+      {
+        "filename": "U-Bahn-Station Weberwiese und Wohnbau auf der Karl-Marx-Allee bei Nacht.jpg",
+        "latitude": 52.516892,
+        "longitude": 13.446283,
+        "createDate": "2025-08-18T20:08:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.178"
+            },
+            {
+              "rgb": [
+                150,
+                110,
+                80
+              ],
+              "hex": "#966e50",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                80,
+                150,
+                180
+              ],
+              "hex": "#5096b4",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "34.383"
+        }
+      },
+      {
+        "filename": "Ukraine-Flagge und Brandenburger Tor.jpg",
+        "latitude": 52.5164,
+        "longitude": 13.379556,
+        "createDate": "2025-08-20T16:04:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                110,
+                160,
+                180
+              ],
+              "hex": "#6ea0b4",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                20
+              ],
+              "hex": "#281e14",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                200
+              ],
+              "hex": "#f0e6c8",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                150
+              ],
+              "hex": "#aaa096",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                240,
+                200,
+                40
+              ],
+              "hex": "#f0c828",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "40.423"
+        }
+      },
+      {
+        "filename": "Ukraine-Gedänk- und Mahn-Stelle vor der Russischen Botschaft.jpg",
+        "latitude": 52.516728,
+        "longitude": 13.383447,
+        "createDate": "2025-08-20T16:11:24.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.017"
+            },
             {
               "rgb": [
                 240,
@@ -924,44 +6480,118 @@ export const galleries = [
                 230
               ],
               "hex": "#f0f0e6",
-              "percentage": "0.049"
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                230,
+                200,
+                170
+              ],
+              "hex": "#e6c8aa",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.005"
             },
             {
               "rgb": [
                 20,
-                0,
-                0
+                160,
+                220
               ],
-              "hex": "#140000",
-              "percentage": "0.029"
-            },
-            {
-              "rgb": [
-                180,
-                170,
-                170
-              ],
-              "hex": "#b4aaaa",
-              "percentage": "0.009"
+              "hex": "#14a0dc",
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": "45.568"
+          "colorfulness": "46.249"
         }
       },
       {
-        "filename": "KaDeWe nähe Zoologischer Garten.jpg",
-        "latitude": 52.501736,
-        "longitude": 13.341056,
-        "createDate": "2023-08-16T12:34:46.000Z",
+        "filename": "Upper West beim Zoologischen Garten.jpg",
+        "latitude": 52.505153,
+        "longitude": 13.334728,
+        "createDate": "2025-08-19T11:59:07.000Z",
         "colorData": {
           "dominantColors": [
             {
               "rgb": [
-                30,
-                0,
-                0
+                20,
+                160,
+                220
               ],
-              "hex": "#1e0000",
+              "hex": "#14a0dc",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                100,
+                190,
+                240
+              ],
+              "hex": "#64bef0",
+              "percentage": "0.049"
+            },
+            {
+              "rgb": [
+                100,
+                120,
+                140
+              ],
+              "hex": "#64788c",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                80,
+                80,
+                90
+              ],
+              "hex": "#50505a",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                40
+              ],
+              "hex": "#322828",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "50.799"
+        }
+      },
+      {
+        "filename": "Verpacktes Auto in der neuen Nationalgallerie.jpg",
+        "latitude": 52.506894,
+        "longitude": 13.366581,
+        "createDate": "2025-08-20T10:06:23.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                140,
+                120
+              ],
+              "hex": "#aa8c78",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
               "percentage": "0.038"
             },
             {
@@ -971,83 +6601,92 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": "0.037"
+              "percentage": "0.013"
             },
             {
               "rgb": [
-                0,
-                180,
-                220
-              ],
-              "hex": "#00b4dc",
-              "percentage": "0.034"
-            },
-            {
-              "rgb": [
-                90,
-                50,
-                40
-              ],
-              "hex": "#5a3228",
-              "percentage": "0.009"
-            }
-          ],
-          "colorfulness": "63.657"
-        }
-      },
-      {
-        "filename": "Landwehrkanal am Maybachkai.jpg",
-        "latitude": 52.495617,
-        "longitude": 13.420594,
-        "createDate": "2023-08-13T12:34:46.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.091"
-            },
-            {
-              "rgb": [
-                200,
                 210,
-                210
+                190,
+                90
               ],
-              "hex": "#c8d2d2",
-              "percentage": "0.039"
-            },
-            {
-              "rgb": [
-                140,
-                130,
-                120
-              ],
-              "hex": "#8c8278",
-              "percentage": "0.008"
+              "hex": "#d2be5a",
+              "percentage": "0.001"
             }
           ],
-          "colorfulness": "47.561"
+          "colorfulness": "47.366"
         }
       },
       {
-        "filename": "Park Inn am Alexanderplatz.jpg",
-        "latitude": 52.522811,
-        "longitude": 13.413103,
-        "createDate": "2023-08-14T12:34:46.000Z",
+        "filename": "Wandbild und Fassade des Zoologischen Gartens.jpg",
+        "latitude": 52.505694,
+        "longitude": 13.340861,
+        "createDate": "2025-08-19T10:25:34.000Z",
         "colorData": {
           "dominantColors": [
             {
               "rgb": [
                 0,
-                200,
-                230
+                90,
+                150
               ],
-              "hex": "#00c8e6",
-              "percentage": "0.061"
+              "hex": "#005a96",
+              "percentage": "0.137"
+            },
+            {
+              "rgb": [
+                250,
+                220,
+                180
+              ],
+              "hex": "#fadcb4",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                140
+              ],
+              "hex": "#beaa8c",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                90
+              ],
+              "hex": "#826e5a",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                20
+              ],
+              "hex": "#321e14",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "49.806"
+        }
+      },
+      {
+        "filename": "Wandgemälde in einem U-Bahn-Bahnsteig.jpg",
+        "latitude": 52.513261,
+        "longitude": 13.394967,
+        "createDate": "2025-08-19T14:00:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                120,
+                90
+              ],
+              "hex": "#a0785a",
+              "percentage": "0.052"
             },
             {
               "rgb": [
@@ -1056,7 +6695,150 @@ export const galleries = [
                 180
               ],
               "hex": "#dcc8b4",
-              "percentage": "0.051"
+              "percentage": "0.023"
+            }
+          ],
+          "colorfulness": "33.179"
+        }
+      },
+      {
+        "filename": "Wasser-Kanal und U-Bahn-Trasse.jpg",
+        "latitude": 52.499011,
+        "longitude": 13.383094,
+        "createDate": "2025-08-20T08:45:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                30
+              ],
+              "hex": "#32281e",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "40.173"
+        }
+      },
+      {
+        "filename": "Weg und Eingang zur S-Bahn-Station Treptower Park.jpg",
+        "latitude": 52.493775,
+        "longitude": 13.462736,
+        "createDate": "2025-08-19T19:42:19.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.121"
+            },
+            {
+              "rgb": [
+                230,
+                180,
+                110
+              ],
+              "hex": "#e6b46e",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "35.490"
+        }
+      },
+      {
+        "filename": "Weltzeituhr am Alexanderplatz.jpg",
+        "latitude": 52.521156,
+        "longitude": 13.413408,
+        "createDate": "2025-08-18T17:55:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                60,
+                50,
+                50
+              ],
+              "hex": "#3c3232",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                100,
+                120,
+                140
+              ],
+              "hex": "#64788c",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "44.103"
+        }
+      },
+      {
+        "filename": "Weltzeituhr, Fernsehturm und S-Bahn-Station Alexanderplatz.jpg",
+        "latitude": 52.521064,
+        "longitude": 13.413547,
+        "createDate": "2025-08-18T18:21:42.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.052"
             },
             {
               "rgb": [
@@ -1065,118 +6847,371 @@ export const galleries = [
                 0
               ],
               "hex": "#140000",
-              "percentage": "0.021"
-            },
-            {
-              "rgb": [
-                130,
-                120,
-                120
-              ],
-              "hex": "#827878",
-              "percentage": "0.006"
+              "percentage": "0.019"
             },
             {
               "rgb": [
                 110,
-                210,
-                230
+                80,
+                70
               ],
-              "hex": "#6ed2e6",
-              "percentage": "0.005"
+              "hex": "#6e5046",
+              "percentage": "0.014"
             }
           ],
-          "colorfulness": "59.913"
+          "colorfulness": "43.963"
         }
       },
       {
-        "filename": "Schloss Sansouci in Potsdam.jpg",
-        "latitude": 52.404192,
-        "longitude": 13.038433,
-        "createDate": "2023-08-16T12:34:46.000Z",
+        "filename": "Wohnbau an der Karl-Marx-Allee bei Nacht.jpg",
+        "latitude": 52.516003,
+        "longitude": 13.449169,
+        "createDate": "2025-08-18T20:18:14.000Z",
         "colorData": {
           "dominantColors": [
             {
               "rgb": [
-                230,
-                200,
-                180
-              ],
-              "hex": "#e6c8b4",
-              "percentage": "0.132"
-            },
-            {
-              "rgb": [
-                0,
-                120,
-                170
-              ],
-              "hex": "#0078aa",
-              "percentage": "0.068"
-            },
-            {
-              "rgb": [
-                120,
-                70,
-                40
-              ],
-              "hex": "#784628",
-              "percentage": "0.005"
-            }
-          ],
-          "colorfulness": "55.306"
-        }
-      },
-      {
-        "filename": "U-Bahn Station Kottbusser Tor vom Bahnsteig nach Außen.jpg",
-        "latitude": 52.4988,
-        "longitude": 13.418322,
-        "createDate": "2023-08-13T12:34:46.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                30,
+                20,
                 0,
                 0
               ],
-              "hex": "#1e0000",
-              "percentage": "0.328"
+              "hex": "#140000",
+              "percentage": "0.054"
             },
             {
               "rgb": [
-                240,
-                230,
-                210
+                220,
+                200,
+                170
               ],
-              "hex": "#f0e6d2",
-              "percentage": "0.023"
+              "hex": "#dcc8aa",
+              "percentage": "0.026"
             },
             {
               "rgb": [
                 120,
                 90,
+                20
+              ],
+              "hex": "#785a14",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "45.910"
+        }
+      },
+      {
+        "filename": "Wohnbau auf der Karl-Marx-Allee.jpg",
+        "latitude": 52.517994,
+        "longitude": 13.441061,
+        "createDate": "2025-08-20T20:10:42.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                100,
+                60,
+                40
+              ],
+              "hex": "#643c28",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                210,
+                150,
                 80
               ],
-              "hex": "#785a50",
+              "hex": "#d29650",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                210
+              ],
+              "hex": "#e6dcd2",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "36.236"
+        }
+      },
+      {
+        "filename": "Wohnbau mit Weiss-Blauer Fassade in Kreuzberg.jpg",
+        "latitude": 52.510539,
+        "longitude": 13.394417,
+        "createDate": "2025-08-19T08:23:16.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                30,
+                20
+              ],
+              "hex": "#281e14",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                10,
+                130,
+                200
+              ],
+              "hex": "#0a82c8",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                120,
+                110,
+                100
+              ],
+              "hex": "#786e64",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                90,
+                190,
+                240
+              ],
+              "hex": "#5abef0",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                220,
+                80,
+                90
+              ],
+              "hex": "#dc505a",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "45.742"
+        }
+      },
+      {
+        "filename": "Wohnbauten an einer Allee.jpg",
+        "latitude": 52.510131,
+        "longitude": 13.437147,
+        "createDate": "2025-08-20T15:06:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                150,
+                180
+              ],
+              "hex": "#5a96b4",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                120
+              ],
+              "hex": "#a08c78",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                60,
+                50,
+                30
+              ],
+              "hex": "#3c321e",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "38.341"
+        }
+      },
+      {
+        "filename": "Wohnhaus und Fahrräder davor.jpg",
+        "latitude": 52.513039,
+        "longitude": 13.446394,
+        "createDate": "2025-08-20T20:28:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.151"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                230,
+                170,
+                40
+              ],
+              "hex": "#e6aa28",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                120,
+                190,
+                190
+              ],
+              "hex": "#78bebe",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "33.565"
+        }
+      },
+      {
+        "filename": "Wohnhochhaus in Friedrichshain.jpg",
+        "latitude": 52.512128,
+        "longitude": 13.443261,
+        "createDate": "2025-08-19T15:26:41.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                120,
+                150
+              ],
+              "hex": "#287896",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                150,
+                170,
+                180
+              ],
+              "hex": "#96aab4",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                100,
+                190,
+                240
+              ],
+              "hex": "#64bef0",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                40,
+                170,
+                230
+              ],
+              "hex": "#28aae6",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                80,
+                90,
+                100
+              ],
+              "hex": "#505a64",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "45.838"
+        }
+      },
+      {
+        "filename": "Zwei Blumen auf einem Kleider-Container.jpg",
+        "latitude": 52.512433,
+        "longitude": 13.442547,
+        "createDate": "2025-08-20T13:01:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                210,
+                160
+              ],
+              "hex": "#f0d2a0",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                140,
+                110,
+                90
+              ],
+              "hex": "#8c6e5a",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                160,
+                0,
+                0
+              ],
+              "hex": "#a00000",
               "percentage": "0.005"
             },
             {
               "rgb": [
-                0,
-                190,
-                220
+                240,
+                240,
+                230
               ],
-              "hex": "#00bedc",
-              "percentage": "0.003"
+              "hex": "#f0f0e6",
+              "percentage": "0.004"
             }
           ],
-          "colorfulness": "54.173"
+          "colorfulness": "43.589"
         }
       }
     ],
-    "timeframe": "13. August 2023 - 16. August 2023",
-    "imageCount": 14
+    "timeframe": "18. August 2025 - 21. August 2025",
+    "imageCount": 147
   },
   {
     "name": "beton-und-struktur",
@@ -16261,6 +22296,44 @@ export const galleries = [
         }
       },
       {
+        "filename": "Bahnsteig der U-Bahn Station Thaliastrasse.jpg",
+        "latitude": 48.207339,
+        "longitude": 16.337544,
+        "createDate": "2025-08-13T16:18:06.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "42.100"
+        }
+      },
+      {
         "filename": "Bahnsteige Simmering S-Bahn Station.jpg",
         "latitude": 48.169972,
         "longitude": 16.419542,
@@ -16370,6 +22443,35 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.425"
+        }
+      },
+      {
+        "filename": "Bäume, Gleise & Strasse am Handelskai.jpg",
+        "latitude": 48.237964,
+        "longitude": 16.390744,
+        "createDate": "2025-08-13T18:39:22.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.204"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                170
+              ],
+              "hex": "#c8b4aa",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "22.879"
         }
       },
       {
@@ -16502,6 +22604,35 @@ export const galleries = [
             }
           ],
           "colorfulness": "24.038"
+        }
+      },
+      {
+        "filename": "Ein Mensch auf dem Bahnsteig der U-Bahn Station Josefstädterstrasse .jpg",
+        "latitude": 48.210575,
+        "longitude": 16.339419,
+        "createDate": "2025-08-13T16:19:03.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.084"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.039"
+            }
+          ],
+          "colorfulness": "33.473"
         }
       },
       {
@@ -17042,6 +23173,44 @@ export const galleries = [
         }
       },
       {
+        "filename": "Metall-Strukturen & Sonnenlicht in der U-Bahn Station Rochusgasse.jpg",
+        "latitude": 48.202397,
+        "longitude": 16.390942,
+        "createDate": "2025-08-14T06:27:53.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                120,
+                90
+              ],
+              "hex": "#a0785a",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                90,
+                50,
+                20
+              ],
+              "hex": "#5a3214",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                190
+              ],
+              "hex": "#f0dcbe",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "33.684"
+        }
+      },
+      {
         "filename": "Praterstern Austria Campus Wien.jpg",
         "latitude": 48.218517,
         "longitude": 16.392872,
@@ -17361,6 +23530,53 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.197"
+        }
+      },
+      {
+        "filename": "Schottenpassage, BIM-Gleise & Lift.jpg",
+        "latitude": 48.213733,
+        "longitude": 16.362197,
+        "createDate": "2025-08-14T07:03:06.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.087"
+            },
+            {
+              "rgb": [
+                90,
+                60,
+                50
+              ],
+              "hex": "#5a3c32",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                180,
+                190,
+                200
+              ],
+              "hex": "#b4bec8",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "44.368"
         }
       },
       {
@@ -18098,6 +24314,44 @@ export const galleries = [
         }
       },
       {
+        "filename": "U-Bahn Station Spittelau.jpg",
+        "latitude": 48.235172,
+        "longitude": 16.358017,
+        "createDate": "2025-08-13T16:26:13.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                50,
+                40
+              ],
+              "hex": "#503228",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                140,
+                130,
+                130
+              ],
+              "hex": "#8c8282",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                180
+              ],
+              "hex": "#c8beb4",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "34.530"
+        }
+      },
+      {
         "filename": "U-Bahn Station Volkstheater Wandmosaik.jpg",
         "latitude": 48.206589,
         "longitude": 16.360236,
@@ -18142,6 +24396,44 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.932"
+        }
+      },
+      {
+        "filename": "U-Bahn Station Vorgartenstrasse.jpg",
+        "latitude": 48.224317,
+        "longitude": 16.401786,
+        "createDate": "2025-08-13T19:04:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.133"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                240,
+                210,
+                180
+              ],
+              "hex": "#f0d2b4",
+              "percentage": "0.026"
+            }
+          ],
+          "colorfulness": "41.645"
         }
       },
       {
@@ -18286,6 +24578,53 @@ export const galleries = [
         }
       },
       {
+        "filename": "Wandgemälde in der U-Bahn Station Stubentor.jpg",
+        "latitude": 48.206925,
+        "longitude": 16.379192,
+        "createDate": "2025-08-14T15:40:00.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.079"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                50
+              ],
+              "hex": "#5a4632",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                180,
+                90,
+                70
+              ],
+              "hex": "#b45a46",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "47.205"
+        }
+      },
+      {
         "filename": "Wien Hauptbahnhof Schriftzug Südtiroler Platz Favoriten.jpg",
         "latitude": 48.185878,
         "longitude": 16.375197,
@@ -18409,8 +24748,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "11. April 2024 - 9. August 2025",
-    "imageCount": 62
+    "timeframe": "11. April 2024 - 14. August 2025",
+    "imageCount": 70
   },
   {
     "name": "ostsee",
@@ -19011,6 +25350,44 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.993"
+        }
+      },
+      {
+        "filename": "Donau & Donauturm von der Blickrichtung Handelskai.jpg",
+        "latitude": 48.232742,
+        "longitude": 16.397383,
+        "createDate": "2025-08-13T18:49:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.066"
+            },
+            {
+              "rgb": [
+                120,
+                150,
+                180
+              ],
+              "hex": "#7896b4",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                90,
+                80,
+                90
+              ],
+              "hex": "#5a505a",
+              "percentage": "0.017"
+            }
+          ],
+          "colorfulness": "38.259"
         }
       },
       {
@@ -19634,8 +26011,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "27. März 2024 - 9. August 2025",
-    "imageCount": 16
+    "timeframe": "27. März 2024 - 13. August 2025",
+    "imageCount": 17
   },
   {
     "name": "porto",
@@ -24070,6 +30447,1687 @@ export const galleries = [
     "imageCount": 16
   },
   {
+    "name": "schweiz",
+    "slug": "schweiz",
+    "title": "Schweiz",
+    "description": "Matte, Schanzen, Schoggi & pünktliche Züge.",
+    "images": [
+      {
+        "filename": "'Kunst einfach anfangen' und 'Anfangen ist keine Kunst' Schriftzug auf einem Haus in Bern.jpg",
+        "latitude": 46.944736,
+        "longitude": 7.443694,
+        "createDate": "2025-08-16T09:28:48.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                200,
+                190
+              ],
+              "hex": "#d2c8be",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                110,
+                180,
+                220
+              ],
+              "hex": "#6eb4dc",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                130,
+                80,
+                60
+              ],
+              "hex": "#82503c",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "43.879"
+        }
+      },
+      {
+        "filename": "Adrian von Bubenberg Statue in Bern.jpg",
+        "latitude": 46.948147,
+        "longitude": 7.437122,
+        "createDate": "2025-08-16T09:18:59.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                200,
+                230
+              ],
+              "hex": "#96c8e6",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                70
+              ],
+              "hex": "#5a4646",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "47.739"
+        }
+      },
+      {
+        "filename": "Altes Gebäude und Schilder am Züricher Hauptbahnhof.jpg",
+        "latitude": 47.378667,
+        "longitude": 8.539422,
+        "createDate": "2025-08-15T18:36:41.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                120,
+                110
+              ],
+              "hex": "#8c786e",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "31.367"
+        }
+      },
+      {
+        "filename": "Aufgang zu Hauptbahnhof Bern vom Bahnsteig.jpg",
+        "latitude": 46.948261,
+        "longitude": 7.433719,
+        "createDate": "2025-08-15T19:59:59.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                40,
+                30
+              ],
+              "hex": "#3c281e",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                110,
+                100,
+                110
+              ],
+              "hex": "#6e646e",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                210,
+                180,
+                150
+              ],
+              "hex": "#d2b496",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                190
+              ],
+              "hex": "#f0dcbe",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                230,
+                90,
+                80
+              ],
+              "hex": "#e65a50",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "39.406"
+        }
+      },
+      {
+        "filename": "Aufgang zum Bahnhof von der Innenstadtseite aus.jpg",
+        "latitude": 46.949969,
+        "longitude": 7.440933,
+        "createDate": "2025-08-16T18:34:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                230,
+                200
+              ],
+              "hex": "#fae6c8",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                90,
+                60,
+                50
+              ],
+              "hex": "#5a3c32",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                100
+              ],
+              "hex": "#826e64",
+              "percentage": "0.020"
+            }
+          ],
+          "colorfulness": "37.252"
+        }
+      },
+      {
+        "filename": "Ausblick auf Bern kleiner Schanze aus.jpg",
+        "latitude": 46.945789,
+        "longitude": 7.441367,
+        "createDate": "2025-08-16T09:24:18.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                220,
+                230
+              ],
+              "hex": "#bedce6",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                80
+              ],
+              "hex": "#6e5a50",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "46.095"
+        }
+      },
+      {
+        "filename": "Bahnsteige und einfallende Sonne in Zürich Hauptbahnhof.jpg",
+        "latitude": 47.378783,
+        "longitude": 8.536978,
+        "createDate": "2025-08-15T18:20:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.079"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                210
+              ],
+              "hex": "#e6dcd2",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                50
+              ],
+              "hex": "#644632",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "41.790"
+        }
+      },
+      {
+        "filename": "Basel SBB Bahnsteige von oben.jpg",
+        "latitude": null,
+        "longitude": null,
+        "createDate": "2025-08-17T16:03:45.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                150,
+                150
+              ],
+              "hex": "#a09696",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                80
+              ],
+              "hex": "#6e5a50",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                190
+              ],
+              "hex": "#dcd2be",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                210,
+                130,
+                20
+              ],
+              "hex": "#d28214",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "30.637"
+        }
+      },
+      {
+        "filename": "Berner-Bär im Freibvad an der Aare.jpg",
+        "latitude": 46.943775,
+        "longitude": 7.444689,
+        "createDate": "2025-08-16T13:40:50.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.066"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                80,
+                140,
+                180
+              ],
+              "hex": "#508cb4",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                100,
+                110,
+                120
+              ],
+              "hex": "#646e78",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "51.467"
+        }
+      },
+      {
+        "filename": "Berner-Münster (Dom) von der Matte.jpg",
+        "latitude": 46.947606,
+        "longitude": 7.452833,
+        "createDate": "2025-08-16T16:36:50.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                220,
+                210
+              ],
+              "hex": "#dcdcd2",
+              "percentage": "0.052"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                40
+              ],
+              "hex": "#322828",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                150
+              ],
+              "hex": "#a0a096",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "45.809"
+        }
+      },
+      {
+        "filename": "Blick auf Zug durch Glas in Zürich Hauptbahnhof.jpg",
+        "latitude": 47.352061,
+        "longitude": 7.907861,
+        "createDate": "2025-08-15T19:32:45.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                60,
+                40
+              ],
+              "hex": "#5a3c28",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                200
+              ],
+              "hex": "#fae6c8",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "33.828"
+        }
+      },
+      {
+        "filename": "Blick über Bern und die Aare von der Matte aus.jpg",
+        "latitude": 46.946525,
+        "longitude": 7.451667,
+        "createDate": "2025-08-16T16:24:30.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                200,
+                190
+              ],
+              "hex": "#c8c8be",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                20
+              ],
+              "hex": "#281e14",
+              "percentage": "0.024"
+            }
+          ],
+          "colorfulness": "41.570"
+        }
+      },
+      {
+        "filename": "Blick über Bern von der Matte aus.jpg",
+        "latitude": 46.948436,
+        "longitude": 7.457842,
+        "createDate": "2025-08-16T14:54:59.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                160,
+                180,
+                190
+              ],
+              "hex": "#a0b4be",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "48.378"
+        }
+      },
+      {
+        "filename": "Blick vom Zug auf den Bahnsteig in Zürich Hauptbahnhof.jpg",
+        "latitude": 47.378147,
+        "longitude": 8.537225,
+        "createDate": "2025-08-15T18:56:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                20,
+                20
+              ],
+              "hex": "#281414",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                0,
+                80,
+                240
+              ],
+              "hex": "#0050f0",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                40,
+                120,
+                210
+              ],
+              "hex": "#2878d2",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "44.593"
+        }
+      },
+      {
+        "filename": "Brücke über die Aare in Bern.jpg",
+        "latitude": 46.945828,
+        "longitude": 7.446553,
+        "createDate": "2025-08-16T13:59:24.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                200,
+                210
+              ],
+              "hex": "#bec8d2",
+              "percentage": "0.123"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                20
+              ],
+              "hex": "#281e14",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                80,
+                80,
+                60
+              ],
+              "hex": "#50503c",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "39.810"
+        }
+      },
+      {
+        "filename": "Bundeshaus und Schwimmbad an der Aare in Bern.jpg",
+        "latitude": 46.943742,
+        "longitude": 7.444808,
+        "createDate": "2025-08-16T09:35:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                200,
+                230
+              ],
+              "hex": "#8cc8e6",
+              "percentage": "0.056"
+            },
+            {
+              "rgb": [
+                140,
+                130,
+                120
+              ],
+              "hex": "#8c8278",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                50
+              ],
+              "hex": "#6e5a32",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                60,
+                40,
+                20
+              ],
+              "hex": "#3c2814",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "41.397"
+        }
+      },
+      {
+        "filename": "Die Flaggen von Thun und Bern auf einem Gebäude.jpg",
+        "latitude": 46.746303,
+        "longitude": 7.637272,
+        "createDate": "2025-08-17T09:58:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                200,
+                230
+              ],
+              "hex": "#96c8e6",
+              "percentage": "0.050"
+            },
+            {
+              "rgb": [
+                120,
+                100,
+                90
+              ],
+              "hex": "#78645a",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                180,
+                170,
+                170
+              ],
+              "hex": "#b4aaaa",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "41.014"
+        }
+      },
+      {
+        "filename": "Dinosaurier-Statue auf Kiosk-Dach in Thun.jpg",
+        "latitude": 46.758808,
+        "longitude": 7.629072,
+        "createDate": "2025-08-17T10:33:14.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                110,
+                160
+              ],
+              "hex": "#146ea0",
+              "percentage": "0.081"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                100
+              ],
+              "hex": "#967864",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                50
+              ],
+              "hex": "#644632",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                180,
+                170,
+                160
+              ],
+              "hex": "#b4aaa0",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "38.051"
+        }
+      },
+      {
+        "filename": "Ein Mann springt von der Brücke in Aare.jpg",
+        "latitude": 46.949425,
+        "longitude": 7.458544,
+        "createDate": "2025-08-16T14:40:12.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                120,
+                150,
+                150
+              ],
+              "hex": "#789696",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                20,
+                20,
+                20
+              ],
+              "hex": "#141414",
+              "percentage": "0.017"
+            }
+          ],
+          "colorfulness": "34.199"
+        }
+      },
+      {
+        "filename": "Einfahrt Bern Hauptbahnhof durch Glas.jpg",
+        "latitude": 46.951725,
+        "longitude": 7.440636,
+        "createDate": "2025-08-15T19:57:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.037"
+            }
+          ],
+          "colorfulness": "28.945"
+        }
+      },
+      {
+        "filename": "Einfahrt in den Bahnhof Zürich.jpg",
+        "latitude": 47.379714,
+        "longitude": 8.530675,
+        "createDate": "2025-08-15T18:18:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                170,
+                140
+              ],
+              "hex": "#d2aa8c",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                200
+              ],
+              "hex": "#fae6c8",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "31.269"
+        }
+      },
+      {
+        "filename": "Freibad in Bern an der Aare.jpg",
+        "latitude": 46.943367,
+        "longitude": 7.444378,
+        "createDate": "2025-08-16T11:35:34.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                190,
+                220
+              ],
+              "hex": "#82bedc",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                140
+              ],
+              "hex": "#aa968c",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                20
+              ],
+              "hex": "#321e14",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                0,
+                100,
+                190
+              ],
+              "hex": "#0064be",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "43.411"
+        }
+      },
+      {
+        "filename": "Hauptbahnhof Zürich und Tram-Station mit Gleisen.jpg",
+        "latitude": 47.377431,
+        "longitude": 8.538583,
+        "createDate": "2025-08-15T18:46:48.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                230,
+                230
+              ],
+              "hex": "#dce6e6",
+              "percentage": "0.056"
+            },
+            {
+              "rgb": [
+                100,
+                60,
+                30
+              ],
+              "hex": "#643c1e",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "47.907"
+        }
+      },
+      {
+        "filename": "Holz-Dachkonstrukion des Berner Hauptbahnhofs.jpg",
+        "latitude": 46.948467,
+        "longitude": 7.436528,
+        "createDate": "2025-08-17T14:42:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                180,
+                230
+              ],
+              "hex": "#50b4e6",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                20,
+                30,
+                50
+              ],
+              "hex": "#141e32",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                160
+              ],
+              "hex": "#a0a0a0",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "49.739"
+        }
+      },
+      {
+        "filename": "Kind mit Schwimmmreifen in dr Aare in Thun.jpg",
+        "latitude": 46.761525,
+        "longitude": 7.624111,
+        "createDate": "2025-08-17T11:10:44.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                100,
+                130,
+                120
+              ],
+              "hex": "#648278",
+              "percentage": "0.047"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                170
+              ],
+              "hex": "#dcc8aa",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "26.430"
+        }
+      },
+      {
+        "filename": "Kunstwerk am Thuner See.jpg",
+        "latitude": 46.745997,
+        "longitude": 7.638231,
+        "createDate": "2025-08-17T09:51:55.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                200,
+                220,
+                230
+              ],
+              "hex": "#c8dce6",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                160,
+                170,
+                170
+              ],
+              "hex": "#a0aaaa",
+              "percentage": "0.029"
+            }
+          ],
+          "colorfulness": "46.269"
+        }
+      },
+      {
+        "filename": "Mittelstrasse in Bern bei Nacht.jpg",
+        "latitude": 46.954986,
+        "longitude": 7.433783,
+        "createDate": "2025-08-15T21:12:35.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.072"
+            },
+            {
+              "rgb": [
+                150,
+                110,
+                70
+              ],
+              "hex": "#966e46",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                180,
+                150,
+                120
+              ],
+              "hex": "#b49678",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "37.057"
+        }
+      },
+      {
+        "filename": "Park-Eingang mitBerner-Bär in Stahlguss .jpg",
+        "latitude": 46.945922,
+        "longitude": 7.441211,
+        "createDate": "2025-08-16T09:24:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                100,
+                150,
+                190
+              ],
+              "hex": "#6496be",
+              "percentage": "0.060"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                10
+              ],
+              "hex": "#321e0a",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "37.210"
+        }
+      },
+      {
+        "filename": "Pelikan-Schwimmreifen in Bern.jpg",
+        "latitude": 46.944561,
+        "longitude": 7.444736,
+        "createDate": "2025-08-16T13:56:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                110,
+                70,
+                50
+              ],
+              "hex": "#6e4632",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                200
+              ],
+              "hex": "#f0e6c8",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                160,
+                150,
+                150
+              ],
+              "hex": "#a09696",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                0,
+                20,
+                80
+              ],
+              "hex": "#001450",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                100,
+                120,
+                190
+              ],
+              "hex": "#6478be",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "44.134"
+        }
+      },
+      {
+        "filename": "SBB Zug Bern-Basel.jpg",
+        "latitude": 46.948525,
+        "longitude": 7.436944,
+        "createDate": "2025-08-17T15:03:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.082"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                60
+              ],
+              "hex": "#64463c",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                200,
+                170,
+                140
+              ],
+              "hex": "#c8aa8c",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                30,
+                70,
+                120
+              ],
+              "hex": "#1e4678",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                110,
+                170,
+                240
+              ],
+              "hex": "#6eaaf0",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "38.798"
+        }
+      },
+      {
+        "filename": "SBB-Logo am Bahnsteig am Züricher Hauptbahnhf.jpg",
+        "latitude": 47.378056,
+        "longitude": 8.537975,
+        "createDate": "2025-08-15T18:53:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                60
+              ],
+              "hex": "#64463c",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                110
+              ],
+              "hex": "#a0826e",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                170
+              ],
+              "hex": "#dcc8aa",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "32.187"
+        }
+      },
+      {
+        "filename": "Schiff in der Aarre bei Thun.jpg",
+        "latitude": 46.747189,
+        "longitude": 7.637297,
+        "createDate": "2025-08-17T09:48:12.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.052"
+            },
+            {
+              "rgb": [
+                190,
+                200,
+                190
+              ],
+              "hex": "#bec8be",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "39.302"
+        }
+      },
+      {
+        "filename": "Schloss am Thuner See.jpg",
+        "latitude": 46.745681,
+        "longitude": 7.637869,
+        "createDate": "2025-08-17T09:53:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                120,
+                170
+              ],
+              "hex": "#1e78aa",
+              "percentage": "0.057"
+            },
+            {
+              "rgb": [
+                120,
+                100,
+                20
+              ],
+              "hex": "#786414",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                170,
+                190,
+                210
+              ],
+              "hex": "#aabed2",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                10
+              ],
+              "hex": "#321e0a",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                120
+              ],
+              "hex": "#aa9678",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "47.250"
+        }
+      },
+      {
+        "filename": "Schotter-Inseln in der Aare.jpg",
+        "latitude": 46.946739,
+        "longitude": 7.452547,
+        "createDate": "2025-08-16T15:12:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                40,
+                30
+              ],
+              "hex": "#28281e",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                210
+              ],
+              "hex": "#dcdcd2",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                130,
+                140,
+                150
+              ],
+              "hex": "#828c96",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "41.386"
+        }
+      },
+      {
+        "filename": "Strassenfest in der Hallerstrasse.jpg",
+        "latitude": 46.951764,
+        "longitude": 7.434944,
+        "createDate": "2025-08-16T20:34:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.163"
+            },
+            {
+              "rgb": [
+                180,
+                130,
+                90
+              ],
+              "hex": "#b4825a",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                250,
+                90,
+                50
+              ],
+              "hex": "#fa5a32",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "37.843"
+        }
+      },
+      {
+        "filename": "Surfer am Thuner See.jpg",
+        "latitude": 46.745589,
+        "longitude": 7.639364,
+        "createDate": "2025-08-17T09:55:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                210,
+                220
+              ],
+              "hex": "#aad2dc",
+              "percentage": "0.049"
+            },
+            {
+              "rgb": [
+                150,
+                160,
+                160
+              ],
+              "hex": "#96a0a0",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                100,
+                100,
+                100
+              ],
+              "hex": "#646464",
+              "percentage": "0.028"
+            }
+          ],
+          "colorfulness": "27.675"
+        }
+      },
+      {
+        "filename": "Surfer in der Aare in Thun.jpg",
+        "latitude": 46.756697,
+        "longitude": 7.632397,
+        "createDate": "2025-08-17T10:23:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                110,
+                120,
+                100
+              ],
+              "hex": "#6e7864",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                10,
+                0,
+                0
+              ],
+              "hex": "#0a0000",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "29.650"
+        }
+      },
+      {
+        "filename": "Thuner Amtsanzeiger Redaktion in Thun.jpg",
+        "latitude": 46.748122,
+        "longitude": 7.634678,
+        "createDate": "2025-08-17T09:43:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                50,
+                30
+              ],
+              "hex": "#3c321e",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                200
+              ],
+              "hex": "#d2d2c8",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                150
+              ],
+              "hex": "#b4a096",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                70,
+                160,
+                190
+              ],
+              "hex": "#46a0be",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "35.276"
+        }
+      },
+      {
+        "filename": "Tra,-Station und Gleise bei Zürich Hauptbahnhof.jpg",
+        "latitude": 47.377647,
+        "longitude": 8.538797,
+        "createDate": "2025-08-15T18:45:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                220
+              ],
+              "hex": "#e6e6dc",
+              "percentage": "0.070"
+            },
+            {
+              "rgb": [
+                100,
+                60,
+                30
+              ],
+              "hex": "#643c1e",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                200,
+                140,
+                100
+              ],
+              "hex": "#c88c64",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                170,
+                0,
+                0
+              ],
+              "hex": "#aa0000",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "46.650"
+        }
+      }
+    ],
+    "timeframe": "15. August 2025 - 17. August 2025",
+    "imageCount": 39
+  },
+  {
     "name": "sonstwo-und-allfaelliges",
     "slug": "sonstwo-und-allfaelliges",
     "title": "Sonstwo & Allfälliges",
@@ -24140,6 +32198,82 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.496"
+        }
+      },
+      {
+        "filename": "Bahngleise am Hauptbahnhof Karlsruhe.jpg",
+        "latitude": 48.9934,
+        "longitude": 8.401422,
+        "createDate": "2025-08-18T09:03:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                40,
+                40
+              ],
+              "hex": "#282828",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                120,
+                110,
+                100
+              ],
+              "hex": "#786e64",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                210
+              ],
+              "hex": "#e6dcd2",
+              "percentage": "0.022"
+            }
+          ],
+          "colorfulness": "40.641"
+        }
+      },
+      {
+        "filename": "Blick auf die Dresdner Innenstadt von einem Bus aus.jpg",
+        "latitude": 51.061394,
+        "longitude": 13.733142,
+        "createDate": "2025-08-21T10:25:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                240,
+                220
+              ],
+              "hex": "#e6f0dc",
+              "percentage": "0.062"
+            },
+            {
+              "rgb": [
+                160,
+                150,
+                130
+              ],
+              "hex": "#a09682",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                0
+              ],
+              "hex": "#140a00",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "40.016"
         }
       },
       {
@@ -24254,6 +32388,35 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.023"
+        }
+      },
+      {
+        "filename": "Gleise einer Tram in Karlsruhe bei Nacht.jpg",
+        "latitude": 49.002961,
+        "longitude": 8.390964,
+        "createDate": "2025-08-17T20:22:48.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                30,
+                10
+              ],
+              "hex": "#321e0a",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                240,
+                200,
+                150
+              ],
+              "hex": "#f0c896",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "29.017"
         }
       },
       {
@@ -24398,6 +32561,53 @@ export const galleries = [
         }
       },
       {
+        "filename": "Statue und Neo-Antikes Gebäude in Karlsruhe.jpg",
+        "latitude": 49.008553,
+        "longitude": 8.403658,
+        "createDate": "2025-08-17T21:17:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.360"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                180
+              ],
+              "hex": "#c8beb4",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                220
+              ],
+              "hex": "#e6e6dc",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "32.060"
+        }
+      },
+      {
         "filename": "Toi Toi auf Holz-Baugerüst in Wien.jpg",
         "latitude": 48.185386,
         "longitude": 16.326622,
@@ -24445,8 +32655,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "18. Februar 2024 - 6. Juli 2025",
-    "imageCount": 9
+    "timeframe": "18. Februar 2024 - 21. August 2025",
+    "imageCount": 13
   },
   {
     "name": "symbole",
