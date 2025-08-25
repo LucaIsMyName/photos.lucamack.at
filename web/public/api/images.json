@@ -605,6 +605,694 @@
     "gallery": "arsenal"
   },
   {
+    "latitude": 47.715053,
+    "longitude": 13.620411,
+    "createDate": "2025-08-24T10:15:36.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            250,
+            220,
+            230
+          ],
+          "hex": "#fadce6",
+          "percentage": "0.033"
+        },
+        {
+          "rgb": [
+            30,
+            10,
+            0
+          ],
+          "hex": "#1e0a00",
+          "percentage": "0.025"
+        },
+        {
+          "rgb": [
+            160,
+            160,
+            60
+          ],
+          "hex": "#a0a03c",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            30,
+            180,
+            230
+          ],
+          "hex": "#1eb4e6",
+          "percentage": "0.004"
+        }
+      ],
+      "colorfulness": "53.139"
+    },
+    "name": "'Big Kastenmann' von Erwin Wurm.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/'Big_Kastenmann'_von_Erwin_Wurm.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/'Big_Kastenmann'_von_Erwin_Wurm-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/'Big_Kastenmann'_von_Erwin_Wurm-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/'Big_Kastenmann'_von_Erwin_Wurm-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/'Big_Kastenmann'_von_Erwin_Wurm-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.715394,
+    "longitude": 13.621211,
+    "createDate": "2025-08-24T11:06:25.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            190,
+            180,
+            90
+          ],
+          "hex": "#beb45a",
+          "percentage": "0.034"
+        },
+        {
+          "rgb": [
+            40,
+            20,
+            10
+          ],
+          "hex": "#28140a",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            250,
+            240,
+            230
+          ],
+          "hex": "#faf0e6",
+          "percentage": "0.008"
+        }
+      ],
+      "colorfulness": "38.036"
+    },
+    "name": "'Fat Car' von Erwin Wurm.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/'Fat_Car'_von_Erwin_Wurm.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/'Fat_Car'_von_Erwin_Wurm-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/'Fat_Car'_von_Erwin_Wurm-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/'Fat_Car'_von_Erwin_Wurm-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/'Fat_Car'_von_Erwin_Wurm-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.716675,
+    "longitude": 13.617664,
+    "createDate": "2025-08-24T10:41:38.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            150,
+            130,
+            40
+          ],
+          "hex": "#968228",
+          "percentage": "0.043"
+        },
+        {
+          "rgb": [
+            240,
+            230,
+            210
+          ],
+          "hex": "#f0e6d2",
+          "percentage": "0.043"
+        },
+        {
+          "rgb": [
+            70,
+            50,
+            20
+          ],
+          "hex": "#463214",
+          "percentage": "0.017"
+        },
+        {
+          "rgb": [
+            80,
+            90,
+            100
+          ],
+          "hex": "#505a64",
+          "percentage": "0.003"
+        }
+      ],
+      "colorfulness": "46.228"
+    },
+    "name": "'Fat House' von Erwin Wurm.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/'Fat_House'_von_Erwin_Wurm.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/'Fat_House'_von_Erwin_Wurm-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/'Fat_House'_von_Erwin_Wurm-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/'Fat_House'_von_Erwin_Wurm-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/'Fat_House'_von_Erwin_Wurm-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.716628,
+    "longitude": 13.619092,
+    "createDate": "2025-08-24T10:58:31.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            10,
+            160,
+            230
+          ],
+          "hex": "#0aa0e6",
+          "percentage": "0.039"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.023"
+        },
+        {
+          "rgb": [
+            210,
+            210,
+            110
+          ],
+          "hex": "#d2d26e",
+          "percentage": "0.019"
+        },
+        {
+          "rgb": [
+            30,
+            10,
+            0
+          ],
+          "hex": "#1e0a00",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            110,
+            90,
+            40
+          ],
+          "hex": "#6e5a28",
+          "percentage": "0.010"
+        }
+      ],
+      "colorfulness": "57.828"
+    },
+    "name": "'Gurke' von Erwin Wurm.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/'Gurke'_von_Erwin_Wurm.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/'Gurke'_von_Erwin_Wurm-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/'Gurke'_von_Erwin_Wurm-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/'Gurke'_von_Erwin_Wurm-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/'Gurke'_von_Erwin_Wurm-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.716811,
+    "longitude": 13.617833,
+    "createDate": "2025-08-24T10:39:28.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            170,
+            100,
+            90
+          ],
+          "hex": "#aa645a",
+          "percentage": "0.077"
+        },
+        {
+          "rgb": [
+            30,
+            0,
+            0
+          ],
+          "hex": "#1e0000",
+          "percentage": "0.076"
+        },
+        {
+          "rgb": [
+            240,
+            210,
+            190
+          ],
+          "hex": "#f0d2be",
+          "percentage": "0.004"
+        }
+      ],
+      "colorfulness": "40.639"
+    },
+    "name": "'Herbert von Karajan' von Erwin Wurm.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/'Herbert_von_Karajan'_von_Erwin_Wurm.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/'Herbert_von_Karajan'_von_Erwin_Wurm-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/'Herbert_von_Karajan'_von_Erwin_Wurm-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/'Herbert_von_Karajan'_von_Erwin_Wurm-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/'Herbert_von_Karajan'_von_Erwin_Wurm-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.716672,
+    "longitude": 13.617892,
+    "createDate": "2025-08-24T10:40:10.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            140,
+            110,
+            80
+          ],
+          "hex": "#8c6e50",
+          "percentage": "0.133"
+        },
+        {
+          "rgb": [
+            230,
+            210,
+            190
+          ],
+          "hex": "#e6d2be",
+          "percentage": "0.065"
+        },
+        {
+          "rgb": [
+            250,
+            230,
+            100
+          ],
+          "hex": "#fae664",
+          "percentage": "0.013"
+        },
+        {
+          "rgb": [
+            120,
+            70,
+            0
+          ],
+          "hex": "#784600",
+          "percentage": "0.002"
+        }
+      ],
+      "colorfulness": "33.546"
+    },
+    "name": "'Hoody' von Erwin Wurm.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/'Hoody'_von_Erwin_Wurm.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/'Hoody'_von_Erwin_Wurm-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/'Hoody'_von_Erwin_Wurm-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/'Hoody'_von_Erwin_Wurm-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/'Hoody'_von_Erwin_Wurm-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.716744,
+    "longitude": 13.617889,
+    "createDate": "2025-08-24T10:45:57.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            160,
+            140,
+            130
+          ],
+          "hex": "#a08c82",
+          "percentage": "0.034"
+        },
+        {
+          "rgb": [
+            30,
+            20,
+            20
+          ],
+          "hex": "#1e1414",
+          "percentage": "0.008"
+        },
+        {
+          "rgb": [
+            220,
+            210,
+            110
+          ],
+          "hex": "#dcd26e",
+          "percentage": "0.007"
+        },
+        {
+          "rgb": [
+            240,
+            230,
+            200
+          ],
+          "hex": "#f0e6c8",
+          "percentage": "0.006"
+        }
+      ],
+      "colorfulness": "36.884"
+    },
+    "name": "Ausblick vom Marmorschlössl auf den Garten.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/Ausblick_vom_Marmorschlössl_auf_den_Garten.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/Ausblick_vom_Marmorschlössl_auf_den_Garten-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/Ausblick_vom_Marmorschlössl_auf_den_Garten-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/Ausblick_vom_Marmorschlössl_auf_den_Garten-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/Ausblick_vom_Marmorschlössl_auf_den_Garten-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.715381,
+    "longitude": 13.620833,
+    "createDate": "2025-08-24T10:11:08.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            180,
+            170,
+            90
+          ],
+          "hex": "#b4aa5a",
+          "percentage": "0.030"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.014"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.012"
+        },
+        {
+          "rgb": [
+            10,
+            130,
+            190
+          ],
+          "hex": "#0a82be",
+          "percentage": "0.008"
+        }
+      ],
+      "colorfulness": "48.946"
+    },
+    "name": "Erwin Wurm 'Würste'.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/Erwin_Wurm_'Würste'.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/Erwin_Wurm_'Würste'-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/Erwin_Wurm_'Würste'-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/Erwin_Wurm_'Würste'-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/Erwin_Wurm_'Würste'-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.716708,
+    "longitude": 13.617611,
+    "createDate": "2025-08-24T10:38:32.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.151"
+        },
+        {
+          "rgb": [
+            250,
+            240,
+            230
+          ],
+          "hex": "#faf0e6",
+          "percentage": "0.014"
+        },
+        {
+          "rgb": [
+            170,
+            150,
+            120
+          ],
+          "hex": "#aa9678",
+          "percentage": "0.010"
+        },
+        {
+          "rgb": [
+            100,
+            50,
+            30
+          ],
+          "hex": "#64321e",
+          "percentage": "0.005"
+        }
+      ],
+      "colorfulness": "46.792"
+    },
+    "name": "Erwin Wurm Ausstellungs-Reklame im Marmorschlössl.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/Erwin_Wurm_Ausstellungs-Reklame_im_Marmorschlössl.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/Erwin_Wurm_Ausstellungs-Reklame_im_Marmorschlössl-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/Erwin_Wurm_Ausstellungs-Reklame_im_Marmorschlössl-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/Erwin_Wurm_Ausstellungs-Reklame_im_Marmorschlössl-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/Erwin_Wurm_Ausstellungs-Reklame_im_Marmorschlössl-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.715,
+    "longitude": 13.618519,
+    "createDate": "2025-08-24T10:22:35.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            30,
+            10,
+            0
+          ],
+          "hex": "#1e0a00",
+          "percentage": "0.045"
+        },
+        {
+          "rgb": [
+            160,
+            140,
+            130
+          ],
+          "hex": "#a08c82",
+          "percentage": "0.007"
+        },
+        {
+          "rgb": [
+            250,
+            240,
+            220
+          ],
+          "hex": "#faf0dc",
+          "percentage": "0.006"
+        },
+        {
+          "rgb": [
+            170,
+            160,
+            70
+          ],
+          "hex": "#aaa046",
+          "percentage": "0.004"
+        }
+      ],
+      "colorfulness": "40.250"
+    },
+    "name": "Garten in der Kaiservilla.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/Garten_in_der_Kaiservilla.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/Garten_in_der_Kaiservilla-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/Garten_in_der_Kaiservilla-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/Garten_in_der_Kaiservilla-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/Garten_in_der_Kaiservilla-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.716708,
+    "longitude": 13.617631,
+    "createDate": "2025-08-24T10:37:34.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.031"
+        },
+        {
+          "rgb": [
+            240,
+            220,
+            190
+          ],
+          "hex": "#f0dcbe",
+          "percentage": "0.030"
+        },
+        {
+          "rgb": [
+            190,
+            170,
+            150
+          ],
+          "hex": "#beaa96",
+          "percentage": "0.027"
+        },
+        {
+          "rgb": [
+            120,
+            100,
+            100
+          ],
+          "hex": "#786464",
+          "percentage": "0.006"
+        }
+      ],
+      "colorfulness": "43.864"
+    },
+    "name": "Schiefes Schiff von Erwin Wurm.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/Schiefes_Schiff_von_Erwin_Wurm.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/Schiefes_Schiff_von_Erwin_Wurm-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/Schiefes_Schiff_von_Erwin_Wurm-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/Schiefes_Schiff_von_Erwin_Wurm-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/Schiefes_Schiff_von_Erwin_Wurm-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.716611,
+    "longitude": 13.617997,
+    "createDate": "2025-08-24T10:44:09.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            100,
+            70,
+            40
+          ],
+          "hex": "#644628",
+          "percentage": "0.048"
+        },
+        {
+          "rgb": [
+            230,
+            200,
+            170
+          ],
+          "hex": "#e6c8aa",
+          "percentage": "0.024"
+        },
+        {
+          "rgb": [
+            250,
+            200,
+            100
+          ],
+          "hex": "#fac864",
+          "percentage": "0.006"
+        }
+      ],
+      "colorfulness": "45.894"
+    },
+    "name": "Skulptur von Erwin Wurm.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/Skulptur_von_Erwin_Wurm.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/Skulptur_von_Erwin_Wurm-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/Skulptur_von_Erwin_Wurm-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/Skulptur_von_Erwin_Wurm-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/Skulptur_von_Erwin_Wurm-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
+    "latitude": 47.716567,
+    "longitude": 13.617872,
+    "createDate": "2025-08-24T10:43:46.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            250,
+            200,
+            160
+          ],
+          "hex": "#fac8a0",
+          "percentage": "0.061"
+        },
+        {
+          "rgb": [
+            100,
+            30,
+            40
+          ],
+          "hex": "#641e28",
+          "percentage": "0.045"
+        },
+        {
+          "rgb": [
+            60,
+            130,
+            130
+          ],
+          "hex": "#3c8282",
+          "percentage": "0.002"
+        }
+      ],
+      "colorfulness": "38.353"
+    },
+    "name": "Wärmekissen aus Glas von Erwin Wurm.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/bad-ischl/Wärmekissen_aus_Glas_von_Erwin_Wurm.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/bad-ischl/Wärmekissen_aus_Glas_von_Erwin_Wurm-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/bad-ischl/Wärmekissen_aus_Glas_von_Erwin_Wurm-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/bad-ischl/Wärmekissen_aus_Glas_von_Erwin_Wurm-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/bad-ischl/Wärmekissen_aus_Glas_von_Erwin_Wurm-1440w.jpg"
+    },
+    "gallery": "bad-ischl"
+  },
+  {
     "latitude": 52.506697,
     "longitude": 13.366617,
     "createDate": "2025-08-20T09:48:24.000Z",
@@ -1732,6 +2420,70 @@
     "gallery": "berlin"
   },
   {
+    "latitude": 52.523719,
+    "longitude": 13.370011,
+    "createDate": "2025-08-20T15:25:58.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            0,
+            90,
+            140
+          ],
+          "hex": "#005a8c",
+          "percentage": "0.029"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.029"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            10
+          ],
+          "hex": "#14000a",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            100,
+            150,
+            170
+          ],
+          "hex": "#6496aa",
+          "percentage": "0.010"
+        },
+        {
+          "rgb": [
+            180,
+            180,
+            180
+          ],
+          "hex": "#b4b4b4",
+          "percentage": "0.006"
+        }
+      ],
+      "colorfulness": "49.808"
+    },
+    "name": "3XN Cube Berlin Spiegelungen am Washingtonplatz - Hauptbahnhof.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/3XN_Cube_Berlin_Spiegelungen_am_Washingtonplatz_-_Hauptbahnhof.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/3XN_Cube_Berlin_Spiegelungen_am_Washingtonplatz_-_Hauptbahnhof-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/3XN_Cube_Berlin_Spiegelungen_am_Washingtonplatz_-_Hauptbahnhof-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/3XN_Cube_Berlin_Spiegelungen_am_Washingtonplatz_-_Hauptbahnhof-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/3XN_Cube_Berlin_Spiegelungen_am_Washingtonplatz_-_Hauptbahnhof-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
     "latitude": 52.499542,
     "longitude": 13.353417,
     "createDate": "2025-08-19T13:32:20.000Z",
@@ -1969,13 +2721,123 @@
       ],
       "colorfulness": "42.090"
     },
-    "name": "Alte Nationalgallerie auf der Museumsinsel.jpg",
+    "name": "Altes Museum auf der Museumsinsel.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Alte_Nationalgallerie_auf_der_Museumsinsel.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Alte_Nationalgallerie_auf_der_Museumsinsel-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Alte_Nationalgallerie_auf_der_Museumsinsel-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Alte_Nationalgallerie_auf_der_Museumsinsel-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Alte_Nationalgallerie_auf_der_Museumsinsel-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Altes_Museum_auf_der_Museumsinsel.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Altes_Museum_auf_der_Museumsinsel-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Altes_Museum_auf_der_Museumsinsel-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Altes_Museum_auf_der_Museumsinsel-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Altes_Museum_auf_der_Museumsinsel-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
+    "latitude": 52.53305,
+    "longitude": 13.436914,
+    "createDate": "2025-08-20T19:15:06.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            10,
+            110,
+            180
+          ],
+          "hex": "#0a6eb4",
+          "percentage": "0.048"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.037"
+        },
+        {
+          "rgb": [
+            130,
+            90,
+            50
+          ],
+          "hex": "#825a32",
+          "percentage": "0.011"
+        },
+        {
+          "rgb": [
+            230,
+            170,
+            110
+          ],
+          "hex": "#e6aa6e",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            250,
+            250,
+            200
+          ],
+          "hex": "#fafac8",
+          "percentage": "0.001"
+        }
+      ],
+      "colorfulness": "55.377"
+    },
+    "name": "Arnswalder Platz Skulptur (Seitlich) in Friedrichshain.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Arnswalder_Platz_Skulptur_(Seitlich)_in_Friedrichshain.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Arnswalder_Platz_Skulptur_(Seitlich)_in_Friedrichshain-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Arnswalder_Platz_Skulptur_(Seitlich)_in_Friedrichshain-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Arnswalder_Platz_Skulptur_(Seitlich)_in_Friedrichshain-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Arnswalder_Platz_Skulptur_(Seitlich)_in_Friedrichshain-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
+    "latitude": 52.533203,
+    "longitude": 13.4368,
+    "createDate": "2025-08-20T19:14:36.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            30,
+            10,
+            0
+          ],
+          "hex": "#1e0a00",
+          "percentage": "0.090"
+        },
+        {
+          "rgb": [
+            10,
+            110,
+            190
+          ],
+          "hex": "#0a6ebe",
+          "percentage": "0.038"
+        },
+        {
+          "rgb": [
+            230,
+            180,
+            120
+          ],
+          "hex": "#e6b478",
+          "percentage": "0.016"
+        }
+      ],
+      "colorfulness": "53.567"
+    },
+    "name": "Arnswalder Platz mit Skulptur in Friedrichshain.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Arnswalder_Platz_mit_Skulptur_in_Friedrichshain.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Arnswalder_Platz_mit_Skulptur_in_Friedrichshain-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Arnswalder_Platz_mit_Skulptur_in_Friedrichshain-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Arnswalder_Platz_mit_Skulptur_in_Friedrichshain-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Arnswalder_Platz_mit_Skulptur_in_Friedrichshain-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -2116,13 +2978,77 @@
       ],
       "colorfulness": "38.070"
     },
-    "name": "Änderungsschneiderei in Friedrichshain.jpg",
+    "name": "Änderungsschneiderei am Prenzlauer Berg.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Änderungsschneiderei_in_Friedrichshain.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Änderungsschneiderei_in_Friedrichshain-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Änderungsschneiderei_in_Friedrichshain-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Änderungsschneiderei_in_Friedrichshain-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Änderungsschneiderei_in_Friedrichshain-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Änderungsschneiderei_am_Prenzlauer_Berg.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Änderungsschneiderei_am_Prenzlauer_Berg-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Änderungsschneiderei_am_Prenzlauer_Berg-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Änderungsschneiderei_am_Prenzlauer_Berg-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Änderungsschneiderei_am_Prenzlauer_Berg-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
+    "latitude": 52.509322,
+    "longitude": 13.376019,
+    "createDate": "2025-08-20T09:15:02.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            110,
+            100,
+            100
+          ],
+          "hex": "#6e6464",
+          "percentage": "0.047"
+        },
+        {
+          "rgb": [
+            200,
+            190,
+            170
+          ],
+          "hex": "#c8beaa",
+          "percentage": "0.018"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.010"
+        },
+        {
+          "rgb": [
+            90,
+            190,
+            240
+          ],
+          "hex": "#5abef0",
+          "percentage": "0.010"
+        },
+        {
+          "rgb": [
+            40,
+            30,
+            20
+          ],
+          "hex": "#281e14",
+          "percentage": "0.005"
+        }
+      ],
+      "colorfulness": "37.329"
+    },
+    "name": "Bahnhof Potsdamer Platz Eingang und zwei Hochhäuser.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Bahnhof_Potsdamer_Platz_Eingang_und_zwei_Hochhäuser.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Bahnhof_Potsdamer_Platz_Eingang_und_zwei_Hochhäuser-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Bahnhof_Potsdamer_Platz_Eingang_und_zwei_Hochhäuser-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Bahnhof_Potsdamer_Platz_Eingang_und_zwei_Hochhäuser-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Bahnhof_Potsdamer_Platz_Eingang_und_zwei_Hochhäuser-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -2288,6 +3214,43 @@
       "w380": "https://photos.lucamack.at/content/galleries/berlin/Berliner_Dom_Seitlich-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/berlin/Berliner_Dom_Seitlich-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/berlin/Berliner_Dom_Seitlich-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
+    "latitude": 52.507308,
+    "longitude": 13.366833,
+    "createDate": "2025-08-20T10:22:14.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            210,
+            200,
+            190
+          ],
+          "hex": "#d2c8be",
+          "percentage": "0.162"
+        },
+        {
+          "rgb": [
+            70,
+            50,
+            40
+          ],
+          "hex": "#463228",
+          "percentage": "0.012"
+        }
+      ],
+      "colorfulness": "27.759"
+    },
+    "name": "Bild von einem alten PC in der neuen Nationalgallerie.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Bild_von_einem_alten_PC_in_der_neuen_Nationalgallerie.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Bild_von_einem_alten_PC_in_der_neuen_Nationalgallerie-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Bild_von_einem_alten_PC_in_der_neuen_Nationalgallerie-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Bild_von_einem_alten_PC_in_der_neuen_Nationalgallerie-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Bild_von_einem_alten_PC_in_der_neuen_Nationalgallerie-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -2839,6 +3802,61 @@
       "w380": "https://photos.lucamack.at/content/galleries/berlin/Bürohaus_und_U-Bahn-Eingang_bei_Unter_den_Linden-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/berlin/Bürohaus_und_U-Bahn-Eingang_bei_Unter_den_Linden-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/berlin/Bürohaus_und_U-Bahn-Eingang_bei_Unter_den_Linden-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
+    "latitude": 52.506997,
+    "longitude": 13.3666,
+    "createDate": "2025-08-20T10:10:40.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            230,
+            210
+          ],
+          "hex": "#f0e6d2",
+          "percentage": "0.076"
+        },
+        {
+          "rgb": [
+            200,
+            190,
+            170
+          ],
+          "hex": "#c8beaa",
+          "percentage": "0.055"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.011"
+        },
+        {
+          "rgb": [
+            90,
+            60,
+            40
+          ],
+          "hex": "#5a3c28",
+          "percentage": "0.003"
+        }
+      ],
+      "colorfulness": "31.448"
+    },
+    "name": "Christoph Schlingensief Text in der neuen Nationalgallerie.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Christoph_Schlingensief_Text_in_der_neuen_Nationalgallerie.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Christoph_Schlingensief_Text_in_der_neuen_Nationalgallerie-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Christoph_Schlingensief_Text_in_der_neuen_Nationalgallerie-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Christoph_Schlingensief_Text_in_der_neuen_Nationalgallerie-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Christoph_Schlingensief_Text_in_der_neuen_Nationalgallerie-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -3688,6 +4706,70 @@
     "gallery": "berlin"
   },
   {
+    "latitude": 52.518117,
+    "longitude": 13.395775,
+    "createDate": "2025-08-20T16:28:24.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            160,
+            220
+          ],
+          "hex": "#14a0dc",
+          "percentage": "0.057"
+        },
+        {
+          "rgb": [
+            30,
+            20,
+            20
+          ],
+          "hex": "#1e1414",
+          "percentage": "0.043"
+        },
+        {
+          "rgb": [
+            70,
+            60,
+            60
+          ],
+          "hex": "#463c3c",
+          "percentage": "0.024"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.010"
+        },
+        {
+          "rgb": [
+            140,
+            130,
+            120
+          ],
+          "hex": "#8c8278",
+          "percentage": "0.002"
+        }
+      ],
+      "colorfulness": "62.664"
+    },
+    "name": "Fassade eine Neo-Romanischen Baus und Bäume mit Blick auf den Himmel.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eine_Neo-Romanischen_Baus_und_Bäume_mit_Blick_auf_den_Himmel.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eine_Neo-Romanischen_Baus_und_Bäume_mit_Blick_auf_den_Himmel-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eine_Neo-Romanischen_Baus_und_Bäume_mit_Blick_auf_den_Himmel-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eine_Neo-Romanischen_Baus_und_Bäume_mit_Blick_auf_den_Himmel-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eine_Neo-Romanischen_Baus_und_Bäume_mit_Blick_auf_den_Himmel-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
     "latitude": 52.507392,
     "longitude": 13.378258,
     "createDate": "2025-08-20T09:11:06.000Z",
@@ -3943,13 +5025,13 @@
       ],
       "colorfulness": "45.497"
     },
-    "name": "Fassade eines Wohnhauses.jpg",
+    "name": "Fassade eines Wohnhauses in der Rosenstrasse - Mitte.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eines_Wohnhauses.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eines_Wohnhauses-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eines_Wohnhauses-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eines_Wohnhauses-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eines_Wohnhauses-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eines_Wohnhauses_in_der_Rosenstrasse_-_Mitte.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eines_Wohnhauses_in_der_Rosenstrasse_-_Mitte-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eines_Wohnhauses_in_der_Rosenstrasse_-_Mitte-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eines_Wohnhauses_in_der_Rosenstrasse_-_Mitte-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Fassade_eines_Wohnhauses_in_der_Rosenstrasse_-_Mitte-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -4596,6 +5678,52 @@
     "gallery": "berlin"
   },
   {
+    "latitude": 52.506969,
+    "longitude": 13.366669,
+    "createDate": "2025-08-20T10:19:55.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            180,
+            190,
+            190
+          ],
+          "hex": "#b4bebe",
+          "percentage": "0.023"
+        },
+        {
+          "rgb": [
+            110,
+            90,
+            80
+          ],
+          "hex": "#6e5a50",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            20,
+            20,
+            30
+          ],
+          "hex": "#14141e",
+          "percentage": "0.005"
+        }
+      ],
+      "colorfulness": "32.900"
+    },
+    "name": "Glas-Fassade und Greenpeace Plakate in der neuen Nationalgallerie.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Glas-Fassade_und_Greenpeace_Plakate_in_der_neuen_Nationalgallerie.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Glas-Fassade_und_Greenpeace_Plakate_in_der_neuen_Nationalgallerie-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Glas-Fassade_und_Greenpeace_Plakate_in_der_neuen_Nationalgallerie-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Glas-Fassade_und_Greenpeace_Plakate_in_der_neuen_Nationalgallerie-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Glas-Fassade_und_Greenpeace_Plakate_in_der_neuen_Nationalgallerie-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
     "latitude": 52.507042,
     "longitude": 13.367322,
     "createDate": "2025-08-20T10:00:25.000Z",
@@ -4704,13 +5832,13 @@
       ],
       "colorfulness": "42.263"
     },
-    "name": "Goldene Statue eine Frau in der neuen Nationalgallerie.jpg",
+    "name": "Goldene Statue einer Frau im Figuren-Garten der neuen Nationalgallerie.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Goldene_Statue_eine_Frau_in_der_neuen_Nationalgallerie.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Goldene_Statue_eine_Frau_in_der_neuen_Nationalgallerie-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Goldene_Statue_eine_Frau_in_der_neuen_Nationalgallerie-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Goldene_Statue_eine_Frau_in_der_neuen_Nationalgallerie-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Goldene_Statue_eine_Frau_in_der_neuen_Nationalgallerie-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Goldene_Statue_einer_Frau_im_Figuren-Garten_der_neuen_Nationalgallerie.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Goldene_Statue_einer_Frau_im_Figuren-Garten_der_neuen_Nationalgallerie-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Goldene_Statue_einer_Frau_im_Figuren-Garten_der_neuen_Nationalgallerie-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Goldene_Statue_einer_Frau_im_Figuren-Garten_der_neuen_Nationalgallerie-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Goldene_Statue_einer_Frau_im_Figuren-Garten_der_neuen_Nationalgallerie-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -4904,6 +6032,43 @@
       "w380": "https://photos.lucamack.at/content/galleries/berlin/Hirsch-Statue_in_Tierpark_Mitte-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/berlin/Hirsch-Statue_in_Tierpark_Mitte-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/berlin/Hirsch-Statue_in_Tierpark_Mitte-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
+    "latitude": 52.508944,
+    "longitude": 13.375667,
+    "createDate": "2025-08-20T09:16:29.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.093"
+        },
+        {
+          "rgb": [
+            100,
+            90,
+            90
+          ],
+          "hex": "#645a5a",
+          "percentage": "0.027"
+        }
+      ],
+      "colorfulness": "39.559"
+    },
+    "name": "Hochhaus-Fassaden am Potsdamer Platz.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Hochhaus-Fassaden_am_Potsdamer_Platz.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Hochhaus-Fassaden_am_Potsdamer_Platz-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Hochhaus-Fassaden_am_Potsdamer_Platz-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Hochhaus-Fassaden_am_Potsdamer_Platz-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Hochhaus-Fassaden_am_Potsdamer_Platz-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -5119,6 +6284,61 @@
     "gallery": "berlin"
   },
   {
+    "latitude": 52.508367,
+    "longitude": 13.377131,
+    "createDate": "2025-08-20T09:13:02.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.027"
+        },
+        {
+          "rgb": [
+            140,
+            110,
+            90
+          ],
+          "hex": "#8c6e5a",
+          "percentage": "0.023"
+        },
+        {
+          "rgb": [
+            60,
+            50,
+            50
+          ],
+          "hex": "#3c3232",
+          "percentage": "0.013"
+        },
+        {
+          "rgb": [
+            20,
+            150,
+            200
+          ],
+          "hex": "#1496c8",
+          "percentage": "0.007"
+        }
+      ],
+      "colorfulness": "42.233"
+    },
+    "name": "Karl Liebknecht Streik-Aufruf-Gedenktafel am Potsdamer Platz.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Karl_Liebknecht_Streik-Aufruf-Gedenktafel_am_Potsdamer_Platz.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Karl_Liebknecht_Streik-Aufruf-Gedenktafel_am_Potsdamer_Platz-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Karl_Liebknecht_Streik-Aufruf-Gedenktafel_am_Potsdamer_Platz-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Karl_Liebknecht_Streik-Aufruf-Gedenktafel_am_Potsdamer_Platz-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Karl_Liebknecht_Streik-Aufruf-Gedenktafel_am_Potsdamer_Platz-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
     "latitude": 52.519078,
     "longitude": 13.402608,
     "createDate": "2025-08-20T17:07:48.000Z",
@@ -5282,13 +6502,13 @@
       ],
       "colorfulness": "45.522"
     },
-    "name": "Kämpfer Statue vor der alten Nationalgallerie.jpg",
+    "name": "Kämpfer Statue vor dem alten Museum.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Kämpfer_Statue_vor_der_alten_Nationalgallerie.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Kämpfer_Statue_vor_der_alten_Nationalgallerie-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Kämpfer_Statue_vor_der_alten_Nationalgallerie-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Kämpfer_Statue_vor_der_alten_Nationalgallerie-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Kämpfer_Statue_vor_der_alten_Nationalgallerie-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Kämpfer_Statue_vor_dem_alten_Museum.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Kämpfer_Statue_vor_dem_alten_Museum-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Kämpfer_Statue_vor_dem_alten_Museum-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Kämpfer_Statue_vor_dem_alten_Museum-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Kämpfer_Statue_vor_dem_alten_Museum-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -5392,13 +6612,13 @@
       ],
       "colorfulness": "53.055"
     },
-    "name": "Krokodil-Fresco an Ziegelmauer beim Zoologischen Garten.jpg",
+    "name": "Krokodil-Fresco an Ziegelmauer und Gebäudes des Zoologischen Garten am Kurfürstendamm.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Krokodil-Fresco_an_Ziegelmauer_beim_Zoologischen_Garten.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Krokodil-Fresco_an_Ziegelmauer_beim_Zoologischen_Garten-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Krokodil-Fresco_an_Ziegelmauer_beim_Zoologischen_Garten-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Krokodil-Fresco_an_Ziegelmauer_beim_Zoologischen_Garten-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Krokodil-Fresco_an_Ziegelmauer_beim_Zoologischen_Garten-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Krokodil-Fresco_an_Ziegelmauer_und_Gebäudes_des_Zoologischen_Garten_am_Kurfürstendamm.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Krokodil-Fresco_an_Ziegelmauer_und_Gebäudes_des_Zoologischen_Garten_am_Kurfürstendamm-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Krokodil-Fresco_an_Ziegelmauer_und_Gebäudes_des_Zoologischen_Garten_am_Kurfürstendamm-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Krokodil-Fresco_an_Ziegelmauer_und_Gebäudes_des_Zoologischen_Garten_am_Kurfürstendamm-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Krokodil-Fresco_an_Ziegelmauer_und_Gebäudes_des_Zoologischen_Garten_am_Kurfürstendamm-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -5740,13 +6960,13 @@
       ],
       "colorfulness": "41.602"
     },
-    "name": "Menschen sitzen auf der Eingangsterasse der alten Nationalgallerie.jpg",
+    "name": "Menschen sitzen auf der Eingangsterasse alten Museum.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Menschen_sitzen_auf_der_Eingangsterasse_der_alten_Nationalgallerie.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Menschen_sitzen_auf_der_Eingangsterasse_der_alten_Nationalgallerie-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Menschen_sitzen_auf_der_Eingangsterasse_der_alten_Nationalgallerie-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Menschen_sitzen_auf_der_Eingangsterasse_der_alten_Nationalgallerie-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Menschen_sitzen_auf_der_Eingangsterasse_der_alten_Nationalgallerie-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Menschen_sitzen_auf_der_Eingangsterasse_alten_Museum.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Menschen_sitzen_auf_der_Eingangsterasse_alten_Museum-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Menschen_sitzen_auf_der_Eingangsterasse_alten_Museum-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Menschen_sitzen_auf_der_Eingangsterasse_alten_Museum-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Menschen_sitzen_auf_der_Eingangsterasse_alten_Museum-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -5969,13 +7189,13 @@
       ],
       "colorfulness": "45.782"
     },
-    "name": "Nord-Süd an der Friedrichstrasse.jpg",
+    "name": "Nord-Süd Tafel und U-Bahn Eingang an der Friedrichstrasse - Jägerstrasse.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Nord-Süd_an_der_Friedrichstrasse.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Nord-Süd_an_der_Friedrichstrasse-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Nord-Süd_an_der_Friedrichstrasse-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Nord-Süd_an_der_Friedrichstrasse-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Nord-Süd_an_der_Friedrichstrasse-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Nord-Süd_Tafel_und_U-Bahn_Eingang_an_der_Friedrichstrasse_-_Jägerstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Nord-Süd_Tafel_und_U-Bahn_Eingang_an_der_Friedrichstrasse_-_Jägerstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Nord-Süd_Tafel_und_U-Bahn_Eingang_an_der_Friedrichstrasse_-_Jägerstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Nord-Süd_Tafel_und_U-Bahn_Eingang_an_der_Friedrichstrasse_-_Jägerstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Nord-Süd_Tafel_und_U-Bahn_Eingang_an_der_Friedrichstrasse_-_Jägerstrasse-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -6347,70 +7567,6 @@
     "gallery": "berlin"
   },
   {
-    "latitude": 52.518117,
-    "longitude": 13.395775,
-    "createDate": "2025-08-20T16:28:24.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            20,
-            160,
-            220
-          ],
-          "hex": "#14a0dc",
-          "percentage": "0.057"
-        },
-        {
-          "rgb": [
-            30,
-            20,
-            20
-          ],
-          "hex": "#1e1414",
-          "percentage": "0.043"
-        },
-        {
-          "rgb": [
-            70,
-            60,
-            60
-          ],
-          "hex": "#463c3c",
-          "percentage": "0.024"
-        },
-        {
-          "rgb": [
-            240,
-            240,
-            230
-          ],
-          "hex": "#f0f0e6",
-          "percentage": "0.010"
-        },
-        {
-          "rgb": [
-            140,
-            130,
-            120
-          ],
-          "hex": "#8c8278",
-          "percentage": "0.002"
-        }
-      ],
-      "colorfulness": "62.664"
-    },
-    "name": "Rote Fassade und Bäume mit Blick auf den Himmel.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Rote_Fassade_und_Bäume_mit_Blick_auf_den_Himmel.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Rote_Fassade_und_Bäume_mit_Blick_auf_den_Himmel-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Rote_Fassade_und_Bäume_mit_Blick_auf_den_Himmel-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Rote_Fassade_und_Bäume_mit_Blick_auf_den_Himmel-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Rote_Fassade_und_Bäume_mit_Blick_auf_den_Himmel-1440w.jpg"
-    },
-    "gallery": "berlin"
-  },
-  {
     "latitude": 52.519281,
     "longitude": 13.407236,
     "createDate": "2025-08-18T18:30:37.000Z",
@@ -6471,6 +7627,61 @@
       "w380": "https://photos.lucamack.at/content/galleries/berlin/Rotes_Rathaus_Frontale-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/berlin/Rotes_Rathaus_Frontale-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/berlin/Rotes_Rathaus_Frontale-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
+    "latitude": 52.508664,
+    "longitude": 13.376736,
+    "createDate": "2025-08-20T09:13:36.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.053"
+        },
+        {
+          "rgb": [
+            230,
+            230,
+            230
+          ],
+          "hex": "#e6e6e6",
+          "percentage": "0.040"
+        },
+        {
+          "rgb": [
+            180,
+            180,
+            180
+          ],
+          "hex": "#b4b4b4",
+          "percentage": "0.039"
+        },
+        {
+          "rgb": [
+            70,
+            90,
+            30
+          ],
+          "hex": "#465a1e",
+          "percentage": "0.016"
+        }
+      ],
+      "colorfulness": "40.886"
+    },
+    "name": "S-Bahn Station Potsdamer Platz Schild.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/S-Bahn_Station_Potsdamer_Platz_Schild.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/S-Bahn_Station_Potsdamer_Platz_Schild-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/S-Bahn_Station_Potsdamer_Platz_Schild-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/S-Bahn_Station_Potsdamer_Platz_Schild-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/S-Bahn_Station_Potsdamer_Platz_Schild-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -6952,116 +8163,6 @@
     "gallery": "berlin"
   },
   {
-    "latitude": 52.53305,
-    "longitude": 13.436914,
-    "createDate": "2025-08-20T19:15:06.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            10,
-            110,
-            180
-          ],
-          "hex": "#0a6eb4",
-          "percentage": "0.048"
-        },
-        {
-          "rgb": [
-            20,
-            0,
-            0
-          ],
-          "hex": "#140000",
-          "percentage": "0.037"
-        },
-        {
-          "rgb": [
-            130,
-            90,
-            50
-          ],
-          "hex": "#825a32",
-          "percentage": "0.011"
-        },
-        {
-          "rgb": [
-            230,
-            170,
-            110
-          ],
-          "hex": "#e6aa6e",
-          "percentage": "0.009"
-        },
-        {
-          "rgb": [
-            250,
-            250,
-            200
-          ],
-          "hex": "#fafac8",
-          "percentage": "0.001"
-        }
-      ],
-      "colorfulness": "55.377"
-    },
-    "name": "Statue mit Buffallo in Friedrichshain.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Statue_mit_Buffallo_in_Friedrichshain.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Statue_mit_Buffallo_in_Friedrichshain-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Statue_mit_Buffallo_in_Friedrichshain-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Statue_mit_Buffallo_in_Friedrichshain-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Statue_mit_Buffallo_in_Friedrichshain-1440w.jpg"
-    },
-    "gallery": "berlin"
-  },
-  {
-    "latitude": 52.533203,
-    "longitude": 13.4368,
-    "createDate": "2025-08-20T19:14:36.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            30,
-            10,
-            0
-          ],
-          "hex": "#1e0a00",
-          "percentage": "0.090"
-        },
-        {
-          "rgb": [
-            10,
-            110,
-            190
-          ],
-          "hex": "#0a6ebe",
-          "percentage": "0.038"
-        },
-        {
-          "rgb": [
-            230,
-            180,
-            120
-          ],
-          "hex": "#e6b478",
-          "percentage": "0.016"
-        }
-      ],
-      "colorfulness": "53.567"
-    },
-    "name": "Statue mit Tieren in Friedrichshain.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Statue_mit_Tieren_in_Friedrichshain.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Statue_mit_Tieren_in_Friedrichshain-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Statue_mit_Tieren_in_Friedrichshain-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Statue_mit_Tieren_in_Friedrichshain-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Statue_mit_Tieren_in_Friedrichshain-1440w.jpg"
-    },
-    "gallery": "berlin"
-  },
-  {
     "latitude": 52.511589,
     "longitude": 13.413914,
     "createDate": "2025-08-19T08:03:15.000Z",
@@ -7271,13 +8372,13 @@
       ],
       "colorfulness": "42.019"
     },
-    "name": "Statuen eines Mannes und Glas-Decke.jpg",
+    "name": "Statuen eines Mannes und eine Glas-Decke beim DDR-Museum auf der Museumsinsel.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Statuen_eines_Mannes_und_Glas-Decke.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Statuen_eines_Mannes_und_Glas-Decke-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Statuen_eines_Mannes_und_Glas-Decke-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Statuen_eines_Mannes_und_Glas-Decke-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Statuen_eines_Mannes_und_Glas-Decke-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Statuen_eines_Mannes_und_eine_Glas-Decke_beim_DDR-Museum_auf_der_Museumsinsel.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Statuen_eines_Mannes_und_eine_Glas-Decke_beim_DDR-Museum_auf_der_Museumsinsel-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Statuen_eines_Mannes_und_eine_Glas-Decke_beim_DDR-Museum_auf_der_Museumsinsel-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Statuen_eines_Mannes_und_eine_Glas-Decke_beim_DDR-Museum_auf_der_Museumsinsel-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Statuen_eines_Mannes_und_eine_Glas-Decke_beim_DDR-Museum_auf_der_Museumsinsel-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -7363,13 +8464,13 @@
       ],
       "colorfulness": "32.976"
     },
-    "name": "Stiegen in Berlin.jpg",
+    "name": "Stiegen in der Rosenstrasse - Mitte.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Stiegen_in_Berlin.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Stiegen_in_Berlin-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Stiegen_in_Berlin-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Stiegen_in_Berlin-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Stiegen_in_Berlin-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Stiegen_in_der_Rosenstrasse_-_Mitte.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Stiegen_in_der_Rosenstrasse_-_Mitte-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Stiegen_in_der_Rosenstrasse_-_Mitte-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Stiegen_in_der_Rosenstrasse_-_Mitte-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Stiegen_in_der_Rosenstrasse_-_Mitte-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -7462,6 +8563,34 @@
       "w380": "https://photos.lucamack.at/content/galleries/berlin/Street_an_den_Mauern_des_Volkspark_Friedrichshain-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/berlin/Street_an_den_Mauern_des_Volkspark_Friedrichshain-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/berlin/Street_an_den_Mauern_des_Volkspark_Friedrichshain-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
+    "latitude": 52.5213,
+    "longitude": 13.413353,
+    "createDate": "2025-08-19T14:54:16.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            130,
+            100,
+            80
+          ],
+          "hex": "#826450",
+          "percentage": "0.051"
+        }
+      ],
+      "colorfulness": "25.807"
+    },
+    "name": "U-Bahn-Station Alexanderplatz Durchgang in türkis-blauen Fliesen.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/U-Bahn-Station_Alexanderplatz_Durchgang_in_türkis-blauen_Fliesen.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/U-Bahn-Station_Alexanderplatz_Durchgang_in_türkis-blauen_Fliesen-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/U-Bahn-Station_Alexanderplatz_Durchgang_in_türkis-blauen_Fliesen-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/U-Bahn-Station_Alexanderplatz_Durchgang_in_türkis-blauen_Fliesen-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/U-Bahn-Station_Alexanderplatz_Durchgang_in_türkis-blauen_Fliesen-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -8262,13 +9391,13 @@
       ],
       "colorfulness": "38.341"
     },
-    "name": "Wohnbauten an einer Allee.jpg",
+    "name": "Wohnbauten an einer Allee am Ostbahnhof.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Wohnbauten_an_einer_Allee.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Wohnbauten_an_einer_Allee-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Wohnbauten_an_einer_Allee-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Wohnbauten_an_einer_Allee-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Wohnbauten_an_einer_Allee-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Wohnbauten_an_einer_Allee_am_Ostbahnhof.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Wohnbauten_an_einer_Allee_am_Ostbahnhof-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Wohnbauten_an_einer_Allee_am_Ostbahnhof-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Wohnbauten_an_einer_Allee_am_Ostbahnhof-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Wohnbauten_an_einer_Allee_am_Ostbahnhof-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -16698,13 +17827,13 @@
       ],
       "colorfulness": "32.114"
     },
-    "name": "Zugekleblte Auslage mit Spiegeleungen in der Geiselbergstrasse.jpg",
+    "name": "Zugeklebte Auslage mit Spiegeleungen in der Geiselbergstrasse.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugekleblte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugekleblte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugekleblte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugekleblte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugekleblte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugeklebte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugeklebte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugeklebte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugeklebte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/beton-und-struktur/Zugeklebte_Auslage_mit_Spiegeleungen_in_der_Geiselbergstrasse-1440w.jpg"
     },
     "gallery": "beton-und-struktur"
   },
@@ -36244,13 +37373,13 @@
       ],
       "colorfulness": "51.467"
     },
-    "name": "Berner-Bär im Freibvad an der Aare.jpg",
+    "name": "Berner-Bär im Freibad an der Aare.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/schweiz/Berner-Bär_im_Freibvad_an_der_Aare.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/schweiz/Berner-Bär_im_Freibvad_an_der_Aare-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/schweiz/Berner-Bär_im_Freibvad_an_der_Aare-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/schweiz/Berner-Bär_im_Freibvad_an_der_Aare-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/schweiz/Berner-Bär_im_Freibvad_an_der_Aare-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/schweiz/Berner-Bär_im_Freibad_an_der_Aare.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/schweiz/Berner-Bär_im_Freibad_an_der_Aare-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/schweiz/Berner-Bär_im_Freibad_an_der_Aare-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/schweiz/Berner-Bär_im_Freibad_an_der_Aare-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/schweiz/Berner-Bär_im_Freibad_an_der_Aare-1440w.jpg"
     },
     "gallery": "schweiz"
   },
@@ -36327,13 +37456,13 @@
       ],
       "colorfulness": "33.828"
     },
-    "name": "Blick auf Zug durch Glas in Zürich Hauptbahnhof.jpg",
+    "name": "Blick auf Zug durch Glas in Olten Hauptbahnhof.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/schweiz/Blick_auf_Zug_durch_Glas_in_Zürich_Hauptbahnhof.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/schweiz/Blick_auf_Zug_durch_Glas_in_Zürich_Hauptbahnhof-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/schweiz/Blick_auf_Zug_durch_Glas_in_Zürich_Hauptbahnhof-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/schweiz/Blick_auf_Zug_durch_Glas_in_Zürich_Hauptbahnhof-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/schweiz/Blick_auf_Zug_durch_Glas_in_Zürich_Hauptbahnhof-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/schweiz/Blick_auf_Zug_durch_Glas_in_Olten_Hauptbahnhof.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/schweiz/Blick_auf_Zug_durch_Glas_in_Olten_Hauptbahnhof-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/schweiz/Blick_auf_Zug_durch_Glas_in_Olten_Hauptbahnhof-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/schweiz/Blick_auf_Zug_durch_Glas_in_Olten_Hauptbahnhof-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/schweiz/Blick_auf_Zug_durch_Glas_in_Olten_Hauptbahnhof-1440w.jpg"
     },
     "gallery": "schweiz"
   },
@@ -37136,13 +38265,13 @@
       ],
       "colorfulness": "37.210"
     },
-    "name": "Park-Eingang mitBerner-Bär in Stahlguss .jpg",
+    "name": "Park-Eingang mit dem Berner-Bär in Stahlguss .jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/schweiz/Park-Eingang_mitBerner-Bär_in_Stahlguss_.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/schweiz/Park-Eingang_mitBerner-Bär_in_Stahlguss_-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/schweiz/Park-Eingang_mitBerner-Bär_in_Stahlguss_-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/schweiz/Park-Eingang_mitBerner-Bär_in_Stahlguss_-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/schweiz/Park-Eingang_mitBerner-Bär_in_Stahlguss_-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/schweiz/Park-Eingang_mit_dem_Berner-Bär_in_Stahlguss_.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/schweiz/Park-Eingang_mit_dem_Berner-Bär_in_Stahlguss_-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/schweiz/Park-Eingang_mit_dem_Berner-Bär_in_Stahlguss_-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/schweiz/Park-Eingang_mit_dem_Berner-Bär_in_Stahlguss_-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/schweiz/Park-Eingang_mit_dem_Berner-Bär_in_Stahlguss_-1440w.jpg"
     },
     "gallery": "schweiz"
   },
@@ -37365,13 +38494,13 @@
       ],
       "colorfulness": "39.302"
     },
-    "name": "Schiff in der Aarre bei Thun.jpg",
+    "name": "Schiff in der Aare bei Thun.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/schweiz/Schiff_in_der_Aarre_bei_Thun.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/schweiz/Schiff_in_der_Aarre_bei_Thun-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/schweiz/Schiff_in_der_Aarre_bei_Thun-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/schweiz/Schiff_in_der_Aarre_bei_Thun-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/schweiz/Schiff_in_der_Aarre_bei_Thun-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/schweiz/Schiff_in_der_Aare_bei_Thun.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/schweiz/Schiff_in_der_Aare_bei_Thun-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/schweiz/Schiff_in_der_Aare_bei_Thun-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/schweiz/Schiff_in_der_Aare_bei_Thun-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/schweiz/Schiff_in_der_Aare_bei_Thun-1440w.jpg"
     },
     "gallery": "schweiz"
   },

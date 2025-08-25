@@ -529,6 +529,600 @@ export const galleries = [
     "imageCount": 11
   },
   {
+    "name": "bad-ischl",
+    "slug": "bad-ischl",
+    "title": "Bad Ischl",
+    "description": "Sissi, Franz & Erwin.",
+    "images": [
+      {
+        "filename": "'Big Kastenmann' von Erwin Wurm.jpg",
+        "latitude": 47.715053,
+        "longitude": 13.620411,
+        "createDate": "2025-08-24T10:15:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                220,
+                230
+              ],
+              "hex": "#fadce6",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                60
+              ],
+              "hex": "#a0a03c",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                30,
+                180,
+                230
+              ],
+              "hex": "#1eb4e6",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "53.139"
+        }
+      },
+      {
+        "filename": "'Fat Car' von Erwin Wurm.jpg",
+        "latitude": 47.715394,
+        "longitude": 13.621211,
+        "createDate": "2025-08-24T11:06:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                180,
+                90
+              ],
+              "hex": "#beb45a",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "38.036"
+        }
+      },
+      {
+        "filename": "'Fat House' von Erwin Wurm.jpg",
+        "latitude": 47.716675,
+        "longitude": 13.617664,
+        "createDate": "2025-08-24T10:41:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                130,
+                40
+              ],
+              "hex": "#968228",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                20
+              ],
+              "hex": "#463214",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                80,
+                90,
+                100
+              ],
+              "hex": "#505a64",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "46.228"
+        }
+      },
+      {
+        "filename": "'Gurke' von Erwin Wurm.jpg",
+        "latitude": 47.716628,
+        "longitude": 13.619092,
+        "createDate": "2025-08-24T10:58:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                160,
+                230
+              ],
+              "hex": "#0aa0e6",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                110
+              ],
+              "hex": "#d2d26e",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                40
+              ],
+              "hex": "#6e5a28",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "57.828"
+        }
+      },
+      {
+        "filename": "'Herbert von Karajan' von Erwin Wurm.jpg",
+        "latitude": 47.716811,
+        "longitude": 13.617833,
+        "createDate": "2025-08-24T10:39:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                100,
+                90
+              ],
+              "hex": "#aa645a",
+              "percentage": "0.077"
+            },
+            {
+              "rgb": [
+                30,
+                0,
+                0
+              ],
+              "hex": "#1e0000",
+              "percentage": "0.076"
+            },
+            {
+              "rgb": [
+                240,
+                210,
+                190
+              ],
+              "hex": "#f0d2be",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "40.639"
+        }
+      },
+      {
+        "filename": "'Hoody' von Erwin Wurm.jpg",
+        "latitude": 47.716672,
+        "longitude": 13.617892,
+        "createDate": "2025-08-24T10:40:10.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                110,
+                80
+              ],
+              "hex": "#8c6e50",
+              "percentage": "0.133"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                190
+              ],
+              "hex": "#e6d2be",
+              "percentage": "0.065"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                100
+              ],
+              "hex": "#fae664",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                120,
+                70,
+                0
+              ],
+              "hex": "#784600",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "33.546"
+        }
+      },
+      {
+        "filename": "Ausblick vom Marmorschlössl auf den Garten.jpg",
+        "latitude": 47.716744,
+        "longitude": 13.617889,
+        "createDate": "2025-08-24T10:45:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                110
+              ],
+              "hex": "#dcd26e",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                200
+              ],
+              "hex": "#f0e6c8",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "36.884"
+        }
+      },
+      {
+        "filename": "Erwin Wurm 'Würste'.jpg",
+        "latitude": 47.715381,
+        "longitude": 13.620833,
+        "createDate": "2025-08-24T10:11:08.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                170,
+                90
+              ],
+              "hex": "#b4aa5a",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                10,
+                130,
+                190
+              ],
+              "hex": "#0a82be",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "48.946"
+        }
+      },
+      {
+        "filename": "Erwin Wurm Ausstellungs-Reklame im Marmorschlössl.jpg",
+        "latitude": 47.716708,
+        "longitude": 13.617611,
+        "createDate": "2025-08-24T10:38:32.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.151"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                120
+              ],
+              "hex": "#aa9678",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                100,
+                50,
+                30
+              ],
+              "hex": "#64321e",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "46.792"
+        }
+      },
+      {
+        "filename": "Garten in der Kaiservilla.jpg",
+        "latitude": 47.715,
+        "longitude": 13.618519,
+        "createDate": "2025-08-24T10:22:35.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                70
+              ],
+              "hex": "#aaa046",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "40.250"
+        }
+      },
+      {
+        "filename": "Schiefes Schiff von Erwin Wurm.jpg",
+        "latitude": 47.716708,
+        "longitude": 13.617631,
+        "createDate": "2025-08-24T10:37:34.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                190
+              ],
+              "hex": "#f0dcbe",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                120,
+                100,
+                100
+              ],
+              "hex": "#786464",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "43.864"
+        }
+      },
+      {
+        "filename": "Skulptur von Erwin Wurm.jpg",
+        "latitude": 47.716611,
+        "longitude": 13.617997,
+        "createDate": "2025-08-24T10:44:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                100,
+                70,
+                40
+              ],
+              "hex": "#644628",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                230,
+                200,
+                170
+              ],
+              "hex": "#e6c8aa",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                250,
+                200,
+                100
+              ],
+              "hex": "#fac864",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "45.894"
+        }
+      },
+      {
+        "filename": "Wärmekissen aus Glas von Erwin Wurm.jpg",
+        "latitude": 47.716567,
+        "longitude": 13.617872,
+        "createDate": "2025-08-24T10:43:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                200,
+                160
+              ],
+              "hex": "#fac8a0",
+              "percentage": "0.061"
+            },
+            {
+              "rgb": [
+                100,
+                30,
+                40
+              ],
+              "hex": "#641e28",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                60,
+                130,
+                130
+              ],
+              "hex": "#3c8282",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "38.353"
+        }
+      }
+    ],
+    "timeframe": "24. August 2025",
+    "imageCount": 13
+  },
+  {
     "name": "berlin",
     "slug": "berlin",
     "title": "Berlin",
@@ -1502,6 +2096,62 @@ export const galleries = [
         }
       },
       {
+        "filename": "3XN Cube Berlin Spiegelungen am Washingtonplatz - Hauptbahnhof.jpg",
+        "latitude": 52.523719,
+        "longitude": 13.370011,
+        "createDate": "2025-08-20T15:25:58.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                90,
+                140
+              ],
+              "hex": "#005a8c",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                10
+              ],
+              "hex": "#14000a",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                100,
+                150,
+                170
+              ],
+              "hex": "#6496aa",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "49.808"
+        }
+      },
+      {
         "filename": "Abgang zur U-Bahn-Station Nollendorfplatz.jpg",
         "latitude": 52.499542,
         "longitude": 13.353417,
@@ -1681,7 +2331,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Alte Nationalgallerie auf der Museumsinsel.jpg",
+        "filename": "Altes Museum auf der Museumsinsel.jpg",
         "latitude": 52.517925,
         "longitude": 13.400433,
         "createDate": "2025-08-18T19:04:26.000Z",
@@ -1707,6 +2357,100 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.090"
+        }
+      },
+      {
+        "filename": "Arnswalder Platz Skulptur (Seitlich) in Friedrichshain.jpg",
+        "latitude": 52.53305,
+        "longitude": 13.436914,
+        "createDate": "2025-08-20T19:15:06.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                110,
+                180
+              ],
+              "hex": "#0a6eb4",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                130,
+                90,
+                50
+              ],
+              "hex": "#825a32",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                230,
+                170,
+                110
+              ],
+              "hex": "#e6aa6e",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                200
+              ],
+              "hex": "#fafac8",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "55.377"
+        }
+      },
+      {
+        "filename": "Arnswalder Platz mit Skulptur in Friedrichshain.jpg",
+        "latitude": 52.533203,
+        "longitude": 13.4368,
+        "createDate": "2025-08-20T19:14:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.090"
+            },
+            {
+              "rgb": [
+                10,
+                110,
+                190
+              ],
+              "hex": "#0a6ebe",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                230,
+                180,
+                120
+              ],
+              "hex": "#e6b478",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "53.567"
         }
       },
       {
@@ -1786,7 +2530,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Änderungsschneiderei in Friedrichshain.jpg",
+        "filename": "Änderungsschneiderei am Prenzlauer Berg.jpg",
         "latitude": 52.534253,
         "longitude": 13.436858,
         "createDate": "2025-08-20T19:11:28.000Z",
@@ -1830,6 +2574,62 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.070"
+        }
+      },
+      {
+        "filename": "Bahnhof Potsdamer Platz Eingang und zwei Hochhäuser.jpg",
+        "latitude": 52.509322,
+        "longitude": 13.376019,
+        "createDate": "2025-08-20T09:15:02.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                110,
+                100,
+                100
+              ],
+              "hex": "#6e6464",
+              "percentage": "0.047"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                170
+              ],
+              "hex": "#c8beaa",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                90,
+                190,
+                240
+              ],
+              "hex": "#5abef0",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                20
+              ],
+              "hex": "#281e14",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "37.329"
         }
       },
       {
@@ -1971,6 +2771,35 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.355"
+        }
+      },
+      {
+        "filename": "Bild von einem alten PC in der neuen Nationalgallerie.jpg",
+        "latitude": 52.507308,
+        "longitude": 13.366833,
+        "createDate": "2025-08-20T10:22:14.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                200,
+                190
+              ],
+              "hex": "#d2c8be",
+              "percentage": "0.162"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                40
+              ],
+              "hex": "#463228",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "27.759"
         }
       },
       {
@@ -2434,6 +3263,53 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.172"
+        }
+      },
+      {
+        "filename": "Christoph Schlingensief Text in der neuen Nationalgallerie.jpg",
+        "latitude": 52.506997,
+        "longitude": 13.3666,
+        "createDate": "2025-08-20T10:10:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.076"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                170
+              ],
+              "hex": "#c8beaa",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                90,
+                60,
+                40
+              ],
+              "hex": "#5a3c28",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "31.448"
         }
       },
       {
@@ -3146,6 +4022,62 @@ export const galleries = [
         }
       },
       {
+        "filename": "Fassade eine Neo-Romanischen Baus und Bäume mit Blick auf den Himmel.jpg",
+        "latitude": 52.518117,
+        "longitude": 13.395775,
+        "createDate": "2025-08-20T16:28:24.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                160,
+                220
+              ],
+              "hex": "#14a0dc",
+              "percentage": "0.057"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                70,
+                60,
+                60
+              ],
+              "hex": "#463c3c",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                140,
+                130,
+                120
+              ],
+              "hex": "#8c8278",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "62.664"
+        }
+      },
+      {
         "filename": "Fassade eines Büro Gebäudes.jpg",
         "latitude": 52.507392,
         "longitude": 13.378258,
@@ -3325,7 +4257,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Fassade eines Wohnhauses.jpg",
+        "filename": "Fassade eines Wohnhauses in der Rosenstrasse - Mitte.jpg",
         "latitude": 52.521356,
         "longitude": 13.405122,
         "createDate": "2025-08-20T17:13:35.000Z",
@@ -3918,6 +4850,44 @@ export const galleries = [
         }
       },
       {
+        "filename": "Glas-Fassade und Greenpeace Plakate in der neuen Nationalgallerie.jpg",
+        "latitude": 52.506969,
+        "longitude": 13.366669,
+        "createDate": "2025-08-20T10:19:55.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                190,
+                190
+              ],
+              "hex": "#b4bebe",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                80
+              ],
+              "hex": "#6e5a50",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                20,
+                20,
+                30
+              ],
+              "hex": "#14141e",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "32.900"
+        }
+      },
+      {
         "filename": "Gold-Skulptur in der neuen Nationalgallerie.jpg",
         "latitude": 52.507042,
         "longitude": 13.367322,
@@ -3974,7 +4944,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Goldene Statue eine Frau in der neuen Nationalgallerie.jpg",
+        "filename": "Goldene Statue einer Frau im Figuren-Garten der neuen Nationalgallerie.jpg",
         "latitude": 52.506942,
         "longitude": 13.366558,
         "createDate": "2025-08-20T10:19:43.000Z",
@@ -4182,6 +5152,35 @@ export const galleries = [
         }
       },
       {
+        "filename": "Hochhaus-Fassaden am Potsdamer Platz.jpg",
+        "latitude": 52.508944,
+        "longitude": 13.375667,
+        "createDate": "2025-08-20T09:16:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.093"
+            },
+            {
+              "rgb": [
+                100,
+                90,
+                90
+              ],
+              "hex": "#645a5a",
+              "percentage": "0.027"
+            }
+          ],
+          "colorfulness": "39.559"
+        }
+      },
+      {
         "filename": "Humboldt-Forum und Spree bei Nacht.jpg",
         "latitude": 52.518636,
         "longitude": 13.402272,
@@ -4361,6 +5360,53 @@ export const galleries = [
         }
       },
       {
+        "filename": "Karl Liebknecht Streik-Aufruf-Gedenktafel am Potsdamer Platz.jpg",
+        "latitude": 52.508367,
+        "longitude": 13.377131,
+        "createDate": "2025-08-20T09:13:02.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                140,
+                110,
+                90
+              ],
+              "hex": "#8c6e5a",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                60,
+                50,
+                50
+              ],
+              "hex": "#3c3232",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                20,
+                150,
+                200
+              ],
+              "hex": "#1496c8",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "42.233"
+        }
+      },
+      {
         "filename": "Karl-Liebknecht-Strasse Strassenschild.jpg",
         "latitude": 52.519078,
         "longitude": 13.402608,
@@ -4464,7 +5510,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Kämpfer Statue vor der alten Nationalgallerie.jpg",
+        "filename": "Kämpfer Statue vor dem alten Museum.jpg",
         "latitude": 52.519261,
         "longitude": 13.399231,
         "createDate": "2025-08-20T17:01:32.000Z",
@@ -4558,7 +5604,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Krokodil-Fresco an Ziegelmauer beim Zoologischen Garten.jpg",
+        "filename": "Krokodil-Fresco an Ziegelmauer und Gebäudes des Zoologischen Garten am Kurfürstendamm.jpg",
         "latitude": 52.505797,
         "longitude": 13.341231,
         "createDate": "2025-08-19T10:23:59.000Z",
@@ -4849,7 +5895,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Menschen sitzen auf der Eingangsterasse der alten Nationalgallerie.jpg",
+        "filename": "Menschen sitzen auf der Eingangsterasse alten Museum.jpg",
         "latitude": 52.518875,
         "longitude": 13.398733,
         "createDate": "2025-08-20T16:47:42.000Z",
@@ -5046,7 +6092,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Nord-Süd an der Friedrichstrasse.jpg",
+        "filename": "Nord-Süd Tafel und U-Bahn Eingang an der Friedrichstrasse - Jägerstrasse.jpg",
         "latitude": 52.514008,
         "longitude": 13.389431,
         "createDate": "2025-08-20T12:05:25.000Z",
@@ -5413,62 +6459,6 @@ export const galleries = [
         }
       },
       {
-        "filename": "Rote Fassade und Bäume mit Blick auf den Himmel.jpg",
-        "latitude": 52.518117,
-        "longitude": 13.395775,
-        "createDate": "2025-08-20T16:28:24.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                160,
-                220
-              ],
-              "hex": "#14a0dc",
-              "percentage": "0.057"
-            },
-            {
-              "rgb": [
-                30,
-                20,
-                20
-              ],
-              "hex": "#1e1414",
-              "percentage": "0.043"
-            },
-            {
-              "rgb": [
-                70,
-                60,
-                60
-              ],
-              "hex": "#463c3c",
-              "percentage": "0.024"
-            },
-            {
-              "rgb": [
-                240,
-                240,
-                230
-              ],
-              "hex": "#f0f0e6",
-              "percentage": "0.010"
-            },
-            {
-              "rgb": [
-                140,
-                130,
-                120
-              ],
-              "hex": "#8c8278",
-              "percentage": "0.002"
-            }
-          ],
-          "colorfulness": "62.664"
-        }
-      },
-      {
         "filename": "Rotes Rathaus Frontale.jpg",
         "latitude": 52.519281,
         "longitude": 13.407236,
@@ -5522,6 +6512,53 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.180"
+        }
+      },
+      {
+        "filename": "S-Bahn Station Potsdamer Platz Schild.jpg",
+        "latitude": 52.508664,
+        "longitude": 13.376736,
+        "createDate": "2025-08-20T09:13:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                70,
+                90,
+                30
+              ],
+              "hex": "#465a1e",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "40.886"
         }
       },
       {
@@ -5930,100 +6967,6 @@ export const galleries = [
         }
       },
       {
-        "filename": "Statue mit Buffallo in Friedrichshain.jpg",
-        "latitude": 52.53305,
-        "longitude": 13.436914,
-        "createDate": "2025-08-20T19:15:06.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                10,
-                110,
-                180
-              ],
-              "hex": "#0a6eb4",
-              "percentage": "0.048"
-            },
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.037"
-            },
-            {
-              "rgb": [
-                130,
-                90,
-                50
-              ],
-              "hex": "#825a32",
-              "percentage": "0.011"
-            },
-            {
-              "rgb": [
-                230,
-                170,
-                110
-              ],
-              "hex": "#e6aa6e",
-              "percentage": "0.009"
-            },
-            {
-              "rgb": [
-                250,
-                250,
-                200
-              ],
-              "hex": "#fafac8",
-              "percentage": "0.001"
-            }
-          ],
-          "colorfulness": "55.377"
-        }
-      },
-      {
-        "filename": "Statue mit Tieren in Friedrichshain.jpg",
-        "latitude": 52.533203,
-        "longitude": 13.4368,
-        "createDate": "2025-08-20T19:14:36.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                30,
-                10,
-                0
-              ],
-              "hex": "#1e0a00",
-              "percentage": "0.090"
-            },
-            {
-              "rgb": [
-                10,
-                110,
-                190
-              ],
-              "hex": "#0a6ebe",
-              "percentage": "0.038"
-            },
-            {
-              "rgb": [
-                230,
-                180,
-                120
-              ],
-              "hex": "#e6b478",
-              "percentage": "0.016"
-            }
-          ],
-          "colorfulness": "53.567"
-        }
-      },
-      {
         "filename": "Statue und Platz in Kreuzberg.jpg",
         "latitude": 52.511589,
         "longitude": 13.413914,
@@ -6174,7 +7117,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Statuen eines Mannes und Glas-Decke.jpg",
+        "filename": "Statuen eines Mannes und eine Glas-Decke beim DDR-Museum auf der Museumsinsel.jpg",
         "latitude": 52.519653,
         "longitude": 13.403372,
         "createDate": "2025-08-20T17:09:09.000Z",
@@ -6250,7 +7193,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Stiegen in Berlin.jpg",
+        "filename": "Stiegen in der Rosenstrasse - Mitte.jpg",
         "latitude": 52.521161,
         "longitude": 13.405489,
         "createDate": "2025-08-20T17:12:57.000Z",
@@ -6361,6 +7304,26 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.707"
+        }
+      },
+      {
+        "filename": "U-Bahn-Station Alexanderplatz Durchgang in türkis-blauen Fliesen.jpg",
+        "latitude": 52.5213,
+        "longitude": 13.413353,
+        "createDate": "2025-08-19T14:54:16.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                100,
+                80
+              ],
+              "hex": "#826450",
+              "percentage": "0.051"
+            }
+          ],
+          "colorfulness": "25.807"
         }
       },
       {
@@ -7004,7 +7967,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Wohnbauten an einer Allee.jpg",
+        "filename": "Wohnbauten an einer Allee am Ostbahnhof.jpg",
         "latitude": 52.510131,
         "longitude": 13.437147,
         "createDate": "2025-08-20T15:06:47.000Z",
@@ -7211,7 +8174,7 @@ export const galleries = [
       }
     ],
     "timeframe": "18. August 2025 - 21. August 2025",
-    "imageCount": 147
+    "imageCount": 156
   },
   {
     "name": "beton-und-struktur",
@@ -14130,7 +15093,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Zugekleblte Auslage mit Spiegeleungen in der Geiselbergstrasse.jpg",
+        "filename": "Zugeklebte Auslage mit Spiegeleungen in der Geiselbergstrasse.jpg",
         "latitude": 48.174808,
         "longitude": 16.405831,
         "createDate": "2025-08-02T11:19:56.000Z",
@@ -30838,7 +31801,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Berner-Bär im Freibvad an der Aare.jpg",
+        "filename": "Berner-Bär im Freibad an der Aare.jpg",
         "latitude": 46.943775,
         "longitude": 7.444689,
         "createDate": "2025-08-16T13:40:50.000Z",
@@ -30923,7 +31886,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Blick auf Zug durch Glas in Zürich Hauptbahnhof.jpg",
+        "filename": "Blick auf Zug durch Glas in Olten Hauptbahnhof.jpg",
         "latitude": 47.352061,
         "longitude": 7.907861,
         "createDate": "2025-08-15T19:32:45.000Z",
@@ -31596,7 +32559,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Park-Eingang mitBerner-Bär in Stahlguss .jpg",
+        "filename": "Park-Eingang mit dem Berner-Bär in Stahlguss .jpg",
         "latitude": 46.945922,
         "longitude": 7.441211,
         "createDate": "2025-08-16T09:24:40.000Z",
@@ -31784,7 +32747,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Schiff in der Aarre bei Thun.jpg",
+        "filename": "Schiff in der Aare bei Thun.jpg",
         "latitude": 46.747189,
         "longitude": 7.637297,
         "createDate": "2025-08-17T09:48:12.000Z",
