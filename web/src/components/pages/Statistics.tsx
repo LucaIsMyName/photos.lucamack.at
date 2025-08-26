@@ -778,21 +778,7 @@ const Statistics = () => {
           </ResponsiveContainer>
         </div>
       </div>
-      {stats.dayWithMostPhotos && (
-        <div className="mt-8 py-4 border-y">
-          <h2 className=" mb-2">Tag mit den meisten Fotos</h2>
-          <div className="">
-            <span className="">{stats.dayWithMostPhotos.count}</span> Fotos am{" "}
-            {stats.dayWithMostPhotos.date.toLocaleDateString("de-DE", {
-              year: "numeric",
-              month: "long",
-              day: "numeric",
-              weekday: "long",
-            })}
-          </div>
-        </div>
-      )}
-
+     
       <div className="mt-8">
         <h2 className="text-xl mb-4">Foto-Aktivität über Zeit</h2>
         <div className="text-xs mb-2">
@@ -844,6 +830,21 @@ const Statistics = () => {
           </LineChart>
         </ResponsiveContainer>
       </div>
+       {stats.dayWithMostPhotos && (
+        <div className="mt-8 p-4 border">
+          <h2 className=" mb-2 text-xs font-mono">Tag mit den meisten Fotos</h2>
+          <div className="">
+            <span className="">{stats.dayWithMostPhotos.count}</span> Fotos am{" "}
+            {stats.dayWithMostPhotos.date.toLocaleDateString("de-DE", {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+              weekday: "long",
+            })}
+          </div>
+        </div>
+      )}
+
     </div>
   );
 };

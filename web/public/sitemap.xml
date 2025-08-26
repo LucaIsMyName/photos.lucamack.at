@@ -161,12 +161,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/absturzgefahr-nicht-betreten-warnung-bei-neuer-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/absturzgefahr-nicht-betreten-warnung-bei-neuer-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/analoge-systeme-gemalde-in-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/analoge-systeme-gemalde-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -256,7 +256,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/1950-1969-beschreibungstexte-in-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/1950-1969-beschreibungstexte-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -336,7 +336,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/bild-von-einem-alten-pc-in-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/bild-von-einem-alten-pc-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -371,16 +371,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/bundestag-fassade-in-mitte</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/bundestag-un-grunflache-davor-in-mitte</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/burohaus-am-pariser-platz-brandenburger-tor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -396,7 +386,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/christoph-schlingensief-text-in-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/christoph-schlingensief-text-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -421,7 +411,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/direktion-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/direktion-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -451,12 +441,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-der-kaiser-wilhelm-gedachtniskirche-und-eine-menschengruppe</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-der-kaiser-wilhelm-gedachtniskirche-und-zwei-menschen</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-der-neuen-wache-und-baume-mit-blick-auf-den-himmel</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -466,12 +451,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-der-neuen-kaiser-wilhelm-gedachtniskirche-und-eine-menschengruppe</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-der-neuen-kaiser-wilhelm-gedachtniskirche-und-zwei-menschen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-des-berghains-in-friedrichshain</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-des-berliner-doms</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-des-berliner-doms-auf-der-museumsinsel</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -482,11 +477,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-des-zoologischen-gartens</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-eine-neo-romanischen-baus-und-baume-mit-blick-auf-den-himmel</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -551,12 +541,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/gemalde-1-in-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/gemalde-1-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/gemalde-2-in-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/gemalde-2-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -576,17 +566,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/glas-fassade-und-greenpeace-plakate-in-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/glas-fassade-und-greenpeace-plakate-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/gold-skulptur-in-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/gold-skulptur-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/goldene-statue-einer-frau-im-figuren-garten-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/goldene-statue-einer-frau-im-figuren-garten-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -741,6 +731,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/reichstag-und-grunflache-in-mitte</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/reichstag-fassade-in-mitte</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/reiter-statue-vor-neo-klassischen-gebaude</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -781,7 +781,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/selbstportrait-in-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/selbstportrait-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -801,7 +801,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/statue-eines-mannes-mit-maske-in-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/statue-eines-mannes-mit-maske-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -871,7 +871,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/verpacktes-auto-in-der-neuen-nationalgallerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/verpacktes-auto-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1276,11 +1276,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/geimeindebau-in-brigittenau</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/gelander-und-u-bahn-station-rossauer-lande</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1292,6 +1287,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/gemeindebau-im-1-bezirk</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/gemeindebau-in-brigittenau</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1421,7 +1421,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/kuppel-vom-gasomter-1</loc>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/kuppel-vom-gasometer-1</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1516,7 +1516,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/roy-lichetnstein-gemalde-und-innerum-der-heidi-horten-collection</loc>
+    <loc>https://photos.lucamack.at/gallery/beton-und-struktur/image/roy-lichtenstein-gemalde-und-innerum-der-heidi-horten-collection</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

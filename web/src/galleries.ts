@@ -1129,7 +1129,7 @@ export const galleries = [
     "description": "Dreckig & Fotogen",
     "images": [
       {
-        "filename": "'Absturzgefahr. Nicht betreten' Warnung bei neuer Nationalgallerie.jpg",
+        "filename": "'Absturzgefahr. Nicht betreten' Warnung bei neuer Nationalgalerie.jpg",
         "latitude": 52.506697,
         "longitude": 13.366617,
         "createDate": "2025-08-20T09:48:24.000Z",
@@ -1185,7 +1185,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "'Analoge Systeme' Gemälde in der neuen Nationalgallerie.jpg",
+        "filename": "'Analoge Systeme' Gemälde in der neuen Nationalgalerie.jpg",
         "latitude": 52.507225,
         "longitude": 13.366669,
         "createDate": "2025-08-20T10:15:15.000Z",
@@ -1946,7 +1946,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "'Wurst ;-)' Stand am Brandenburger Tor.jpg",
+        "filename": "'Wurst'-Stand am Brandenburger Tor.jpg",
         "latitude": 52.517403,
         "longitude": 13.377397,
         "createDate": "2025-08-20T15:50:18.000Z",
@@ -2040,7 +2040,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "1950-1969 Beschreibungstexte in der neuen Nationalgallerie.jpg",
+        "filename": "1950-1969 Beschreibungstexte in der neuen Nationalgalerie.jpg",
         "latitude": 52.506925,
         "longitude": 13.366644,
         "createDate": "2025-08-20T10:03:32.000Z",
@@ -2774,7 +2774,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Bild von einem alten PC in der neuen Nationalgallerie.jpg",
+        "filename": "Bild von einem alten PC in der neuen Nationalgalerie.jpg",
         "latitude": 52.507308,
         "longitude": 13.366833,
         "createDate": "2025-08-20T10:22:14.000Z",
@@ -3040,100 +3040,6 @@ export const galleries = [
         }
       },
       {
-        "filename": "Bundestag Fassade in Mitte.jpg",
-        "latitude": 52.519394,
-        "longitude": 13.377122,
-        "createDate": "2025-08-19T09:25:53.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                10,
-                130,
-                190
-              ],
-              "hex": "#0a82be",
-              "percentage": "0.043"
-            },
-            {
-              "rgb": [
-                120,
-                100,
-                90
-              ],
-              "hex": "#78645a",
-              "percentage": "0.018"
-            },
-            {
-              "rgb": [
-                250,
-                250,
-                230
-              ],
-              "hex": "#fafae6",
-              "percentage": "0.008"
-            },
-            {
-              "rgb": [
-                220,
-                210,
-                190
-              ],
-              "hex": "#dcd2be",
-              "percentage": "0.003"
-            }
-          ],
-          "colorfulness": "53.554"
-        }
-      },
-      {
-        "filename": "Bundestag un Grünfläche davor in Mitte.jpg",
-        "latitude": 52.519161,
-        "longitude": 13.371047,
-        "createDate": "2025-08-19T09:31:36.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                120,
-                200,
-                240
-              ],
-              "hex": "#78c8f0",
-              "percentage": "0.040"
-            },
-            {
-              "rgb": [
-                30,
-                20,
-                20
-              ],
-              "hex": "#1e1414",
-              "percentage": "0.022"
-            },
-            {
-              "rgb": [
-                180,
-                160,
-                100
-              ],
-              "hex": "#b4a064",
-              "percentage": "0.004"
-            },
-            {
-              "rgb": [
-                100,
-                100,
-                110
-              ],
-              "hex": "#64646e",
-              "percentage": "0.004"
-            }
-          ],
-          "colorfulness": "55.071"
-        }
-      },
-      {
         "filename": "Bürohaus am Pariser-Platz - Brandenburger Tor.jpg",
         "latitude": 52.516494,
         "longitude": 13.378811,
@@ -3266,7 +3172,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Christoph Schlingensief Text in der neuen Nationalgallerie.jpg",
+        "filename": "Christoph Schlingensief Text in der neuen Nationalgalerie.jpg",
         "latitude": 52.506997,
         "longitude": 13.3666,
         "createDate": "2025-08-20T10:10:40.000Z",
@@ -3483,7 +3389,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Direktion der neuen Nationalgallerie.jpg",
+        "filename": "Direktion der neuen Nationalgalerie.jpg",
         "latitude": 52.506911,
         "longitude": 13.366606,
         "createDate": "2025-08-20T10:04:30.000Z",
@@ -3747,52 +3653,59 @@ export const galleries = [
         }
       },
       {
-        "filename": "Fassade der Kaiser-Wilhelm-Gedächtniskirche und eine Menschengruppe.jpg",
-        "latitude": 52.505139,
-        "longitude": 13.334875,
-        "createDate": "2025-08-19T11:58:47.000Z",
+        "filename": "Fassade der 'Neuen Wache' und Bäume mit Blick auf den Himmel.jpg",
+        "latitude": 52.518117,
+        "longitude": 13.395775,
+        "createDate": "2025-08-20T16:28:24.000Z",
         "colorData": {
           "dominantColors": [
             {
               "rgb": [
+                20,
                 160,
-                180,
-                190
+                220
               ],
-              "hex": "#a0b4be",
-              "percentage": "0.027"
-            }
-          ],
-          "colorfulness": "30.553"
-        }
-      },
-      {
-        "filename": "Fassade der Kaiser-Wilhelm-Gedächtniskirche und zwei Menschen.jpg",
-        "latitude": 52.505131,
-        "longitude": 13.334858,
-        "createDate": "2025-08-19T11:58:31.000Z",
-        "colorData": {
-          "dominantColors": [
+              "hex": "#14a0dc",
+              "percentage": "0.057"
+            },
             {
               "rgb": [
-                90,
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
                 70,
+                60,
                 60
               ],
-              "hex": "#5a463c",
+              "hex": "#463c3c",
               "percentage": "0.024"
             },
             {
               "rgb": [
-                150,
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                140,
                 130,
                 120
               ],
-              "hex": "#968278",
-              "percentage": "0.020"
+              "hex": "#8c8278",
+              "percentage": "0.002"
             }
           ],
-          "colorfulness": "22.951"
+          "colorfulness": "62.664"
         }
       },
       {
@@ -3831,6 +3744,55 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.986"
+        }
+      },
+      {
+        "filename": "Fassade der neuen Kaiser-Wilhelm-Gedächtniskirche und eine Menschengruppe.jpg",
+        "latitude": 52.505139,
+        "longitude": 13.334875,
+        "createDate": "2025-08-19T11:58:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                180,
+                190
+              ],
+              "hex": "#a0b4be",
+              "percentage": "0.027"
+            }
+          ],
+          "colorfulness": "30.553"
+        }
+      },
+      {
+        "filename": "Fassade der neuen Kaiser-Wilhelm-Gedächtniskirche und zwei Menschen.jpg",
+        "latitude": 52.505131,
+        "longitude": 13.334858,
+        "createDate": "2025-08-19T11:58:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.020"
+            }
+          ],
+          "colorfulness": "22.951"
         }
       },
       {
@@ -3881,7 +3843,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Fassade des Berliner Doms.jpg",
+        "filename": "Fassade des Berliner Doms auf der Museumsinsel.jpg",
         "latitude": 52.518936,
         "longitude": 13.400581,
         "createDate": "2025-08-20T17:05:06.000Z",
@@ -4019,62 +3981,6 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.664"
-        }
-      },
-      {
-        "filename": "Fassade eine Neo-Romanischen Baus und Bäume mit Blick auf den Himmel.jpg",
-        "latitude": 52.518117,
-        "longitude": 13.395775,
-        "createDate": "2025-08-20T16:28:24.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                160,
-                220
-              ],
-              "hex": "#14a0dc",
-              "percentage": "0.057"
-            },
-            {
-              "rgb": [
-                30,
-                20,
-                20
-              ],
-              "hex": "#1e1414",
-              "percentage": "0.043"
-            },
-            {
-              "rgb": [
-                70,
-                60,
-                60
-              ],
-              "hex": "#463c3c",
-              "percentage": "0.024"
-            },
-            {
-              "rgb": [
-                240,
-                240,
-                230
-              ],
-              "hex": "#f0f0e6",
-              "percentage": "0.010"
-            },
-            {
-              "rgb": [
-                140,
-                130,
-                120
-              ],
-              "hex": "#8c8278",
-              "percentage": "0.002"
-            }
-          ],
-          "colorfulness": "62.664"
         }
       },
       {
@@ -4624,7 +4530,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Gemälde 1 in der neuen Nationalgallerie.jpg",
+        "filename": "Gemälde 1 in der neuen Nationalgalerie.jpg",
         "latitude": 52.507019,
         "longitude": 13.367408,
         "createDate": "2025-08-20T10:00:49.000Z",
@@ -4671,7 +4577,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Gemälde 2 in der neuen Nationalgallerie.jpg",
+        "filename": "Gemälde 2 in der neuen Nationalgalerie.jpg",
         "latitude": 52.506983,
         "longitude": 13.366825,
         "createDate": "2025-08-20T10:02:46.000Z",
@@ -4850,7 +4756,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Glas-Fassade und Greenpeace Plakate in der neuen Nationalgallerie.jpg",
+        "filename": "Glas-Fassade und Greenpeace Plakate in der neuen Nationalgalerie.jpg",
         "latitude": 52.506969,
         "longitude": 13.366669,
         "createDate": "2025-08-20T10:19:55.000Z",
@@ -4888,7 +4794,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Gold-Skulptur in der neuen Nationalgallerie.jpg",
+        "filename": "Gold-Skulptur in der neuen Nationalgalerie.jpg",
         "latitude": 52.507042,
         "longitude": 13.367322,
         "createDate": "2025-08-20T10:00:25.000Z",
@@ -4944,7 +4850,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Goldene Statue einer Frau im Figuren-Garten der neuen Nationalgallerie.jpg",
+        "filename": "Goldene Statue einer Frau im Figuren-Garten der neuen Nationalgalerie.jpg",
         "latitude": 52.506942,
         "longitude": 13.366558,
         "createDate": "2025-08-20T10:19:43.000Z",
@@ -6356,6 +6262,100 @@ export const galleries = [
         }
       },
       {
+        "filename": "Reichstag und Grünfläche in Mitte.jpg",
+        "latitude": 52.519161,
+        "longitude": 13.371047,
+        "createDate": "2025-08-19T09:31:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                120,
+                200,
+                240
+              ],
+              "hex": "#78c8f0",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                100
+              ],
+              "hex": "#b4a064",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                100,
+                100,
+                110
+              ],
+              "hex": "#64646e",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "55.071"
+        }
+      },
+      {
+        "filename": "Reichstag-Fassade in Mitte.jpg",
+        "latitude": 52.519394,
+        "longitude": 13.377122,
+        "createDate": "2025-08-19T09:25:53.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                130,
+                190
+              ],
+              "hex": "#0a82be",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                120,
+                100,
+                90
+              ],
+              "hex": "#78645a",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                230
+              ],
+              "hex": "#fafae6",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                190
+              ],
+              "hex": "#dcd2be",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "53.554"
+        }
+      },
+      {
         "filename": "Reiter Statue vor Neo-Klassischen Gebäude.jpg",
         "latitude": 52.517472,
         "longitude": 13.392703,
@@ -6741,7 +6741,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Selbstportrait in der neuen Nationalgallerie.jpg",
+        "filename": "Selbstportrait in der neuen Nationalgalerie.jpg",
         "latitude": 52.507306,
         "longitude": 13.366697,
         "createDate": "2025-08-20T10:22:24.000Z",
@@ -6920,7 +6920,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Statue eines Mannes mit Maske in der neuen Nationalgallerie.jpg",
+        "filename": "Statue eines Mannes mit Maske in der neuen Nationalgalerie.jpg",
         "latitude": 52.507008,
         "longitude": 13.366525,
         "createDate": "2025-08-20T10:19:15.000Z",
@@ -7533,7 +7533,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Verpacktes Auto in der neuen Nationalgallerie.jpg",
+        "filename": "Verpacktes Auto in der neuen Nationalgalerie.jpg",
         "latitude": 52.506894,
         "longitude": 13.366581,
         "createDate": "2025-08-20T10:06:23.000Z",
@@ -11015,53 +11015,6 @@ export const galleries = [
         }
       },
       {
-        "filename": "Geimeindebau in Brigittenau.jpg",
-        "latitude": 48.241303,
-        "longitude": 16.380889,
-        "createDate": "2025-04-26T17:25:29.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.071"
-            },
-            {
-              "rgb": [
-                240,
-                240,
-                230
-              ],
-              "hex": "#f0f0e6",
-              "percentage": "0.022"
-            },
-            {
-              "rgb": [
-                170,
-                160,
-                160
-              ],
-              "hex": "#aaa0a0",
-              "percentage": "0.013"
-            },
-            {
-              "rgb": [
-                110,
-                90,
-                90
-              ],
-              "hex": "#6e5a5a",
-              "percentage": "0.008"
-            }
-          ],
-          "colorfulness": "41.627"
-        }
-      },
-      {
         "filename": "Geländer und U-Bahn Station Rossauer Lände.jpg",
         "latitude": 48.222558,
         "longitude": 16.367436,
@@ -11173,6 +11126,53 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.930"
+        }
+      },
+      {
+        "filename": "Gemeindebau in Brigittenau.jpg",
+        "latitude": 48.241303,
+        "longitude": 16.380889,
+        "createDate": "2025-04-26T17:25:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.071"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                160
+              ],
+              "hex": "#aaa0a0",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                90
+              ],
+              "hex": "#6e5a5a",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "41.627"
         }
       },
       {
@@ -12270,7 +12270,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Kuppel vom Gasomter 1.jpg",
+        "filename": "Kuppel vom Gasometer 1.jpg",
         "latitude": 48.185208,
         "longitude": 16.417856,
         "createDate": "2025-08-03T11:49:39.000Z",
@@ -13028,7 +13028,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Roy Lichetnstein Gemälde und Innerum der Heidi Horten Collection.jpg",
+        "filename": "Roy Lichtenstein Gemälde und Innerum der Heidi Horten Collection.jpg",
         "latitude": 48.203994,
         "longitude": 16.367664,
         "createDate": "2025-07-27T09:19:43.000Z",
@@ -36587,7 +36587,7 @@ export const galleries = [
                 230
               ],
               "hex": "#bedce6",
-              "percentage": "0.064"
+              "percentage": "0.061"
             },
             {
               "rgb": [
@@ -36596,15 +36596,15 @@ export const galleries = [
                 20
               ],
               "hex": "#3c3214",
-              "percentage": "0.048"
+              "percentage": "0.045"
             },
             {
               "rgb": [
-                140,
-                120,
-                70
+                130,
+                110,
+                60
               ],
-              "hex": "#8c7846",
+              "hex": "#826e3c",
               "percentage": "0.003"
             },
             {
@@ -36617,7 +36617,7 @@ export const galleries = [
               "percentage": "0.002"
             }
           ],
-          "colorfulness": "48.563"
+          "colorfulness": "48.506"
         }
       },
       {
