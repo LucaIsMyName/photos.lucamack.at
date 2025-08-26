@@ -590,33 +590,33 @@ export const galleries = [
           "dominantColors": [
             {
               "rgb": [
-                190,
-                180,
-                90
+                160,
+                150,
+                40
               ],
-              "hex": "#beb45a",
-              "percentage": "0.034"
+              "hex": "#a09628",
+              "percentage": "0.033"
             },
             {
               "rgb": [
-                40,
+                30,
                 20,
                 10
               ],
-              "hex": "#28140a",
-              "percentage": "0.016"
+              "hex": "#1e140a",
+              "percentage": "0.022"
             },
             {
               "rgb": [
-                250,
                 240,
-                230
+                230,
+                220
               ],
-              "hex": "#faf0e6",
-              "percentage": "0.008"
+              "hex": "#f0e6dc",
+              "percentage": "0.003"
             }
           ],
-          "colorfulness": "38.036"
+          "colorfulness": "36.239"
         }
       },
       {
@@ -1400,7 +1400,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "'Briefmarken' Neon-Schriftzug.jpg",
+        "filename": "'Briefmarken' Neon-Schriftzug an der Karl-Marx-Allee.jpg",
         "latitude": 52.517297,
         "longitude": 13.442811,
         "createDate": "2025-08-20T20:13:45.000Z",
@@ -1691,7 +1691,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "'Neue Zukunft' Schild.jpg",
+        "filename": "'Neue Zukunft' Schild in Alt-Stralau.jpg",
         "latitude": 52.498025,
         "longitude": 13.466661,
         "createDate": "2025-08-19T19:30:38.000Z",
@@ -1776,7 +1776,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "'Running is awful. I love it.' Schriftzug.jpg",
+        "filename": "'Running is awful. I love it.' Schriftzug in Alt-Stralau.jpg",
         "latitude": 52.497442,
         "longitude": 13.463247,
         "createDate": "2025-08-19T17:43:13.000Z",
@@ -2454,7 +2454,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Aufgang zu einer U-Bahn-Station.jpg",
+        "filename": "Aufgang zur S-Bahn-Station Friedrichstrasse - Mitte.jpg",
         "latitude": 52.520192,
         "longitude": 13.388531,
         "createDate": "2025-08-20T12:39:14.000Z",
@@ -2671,7 +2671,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Berliner Bären Statuen in Souvenir Geschäft an der Friedrichsrtasse.jpg",
+        "filename": "Berliner Bären Statuen in Souvenir Geschäft an der Friedrichstrasse.jpg",
         "latitude": 52.520078,
         "longitude": 13.388347,
         "createDate": "2025-08-20T12:36:29.000Z",
@@ -2718,7 +2718,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Berliner Dom Seitlich.jpg",
+        "filename": "Berliner Dom auf der Museumsinsel (Seitlich).jpg",
         "latitude": 52.518775,
         "longitude": 13.398764,
         "createDate": "2025-08-20T16:46:43.000Z",
@@ -3257,7 +3257,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "DB-Turm und Hochhaus an Hauptbahnhhof.jpg",
+        "filename": "DB-Turm und Hochhaus an Hauptbahnhhof in Mitte.jpg",
         "latitude": 52.523694,
         "longitude": 13.370142,
         "createDate": "2025-08-20T15:26:27.000Z",
@@ -3313,111 +3313,6 @@ export const galleries = [
         }
       },
       {
-        "filename": "Decke der Mall of Berlin.jpg",
-        "latitude": 52.510344,
-        "longitude": 13.38115,
-        "createDate": "2025-08-20T11:33:09.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.103"
-            },
-            {
-              "rgb": [
-                80,
-                50,
-                30
-              ],
-              "hex": "#50321e",
-              "percentage": "0.021"
-            },
-            {
-              "rgb": [
-                170,
-                200,
-                230
-              ],
-              "hex": "#aac8e6",
-              "percentage": "0.011"
-            },
-            {
-              "rgb": [
-                230,
-                210,
-                190
-              ],
-              "hex": "#e6d2be",
-              "percentage": "0.004"
-            }
-          ],
-          "colorfulness": "43.123"
-        }
-      },
-      {
-        "filename": "Decke des Bundestag-Eingang.jpg",
-        "latitude": 52.520142,
-        "longitude": 13.373544,
-        "createDate": "2025-08-20T15:42:04.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                50,
-                40,
-                30
-              ],
-              "hex": "#32281e",
-              "percentage": "0.021"
-            },
-            {
-              "rgb": [
-                180,
-                180,
-                170
-              ],
-              "hex": "#b4b4aa",
-              "percentage": "0.009"
-            }
-          ],
-          "colorfulness": "31.519"
-        }
-      },
-      {
-        "filename": "Direktion der neuen Nationalgalerie.jpg",
-        "latitude": 52.506911,
-        "longitude": 13.366606,
-        "createDate": "2025-08-20T10:04:30.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                250,
-                230,
-                210
-              ],
-              "hex": "#fae6d2",
-              "percentage": "0.050"
-            },
-            {
-              "rgb": [
-                50,
-                10,
-                0
-              ],
-              "hex": "#320a00",
-              "percentage": "0.022"
-            }
-          ],
-          "colorfulness": "50.227"
-        }
-      },
-      {
         "filename": "Ein Mensch und Fahrrad vor Mausoleum in Kreuzber:Mitte.jpg",
         "latitude": 52.510778,
         "longitude": 13.398678,
@@ -3465,7 +3360,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Eingang Sony-Center.jpg",
+        "filename": "Eingang zum Sony-Center am Potsdamer Platz.jpg",
         "latitude": 52.509822,
         "longitude": 13.373594,
         "createDate": "2025-08-20T09:29:47.000Z",
@@ -3518,6 +3413,35 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.986"
+        }
+      },
+      {
+        "filename": "Eingang zur Direktion der neuen Nationalgalerie.jpg",
+        "latitude": 52.506911,
+        "longitude": 13.366606,
+        "createDate": "2025-08-20T10:04:30.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                230,
+                210
+              ],
+              "hex": "#fae6d2",
+              "percentage": "0.050"
+            },
+            {
+              "rgb": [
+                50,
+                10,
+                0
+              ],
+              "hex": "#320a00",
+              "percentage": "0.022"
+            }
+          ],
+          "colorfulness": "50.227"
         }
       },
       {
@@ -3624,7 +3548,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Fahrräder und Wohnhaus.jpg",
+        "filename": "Fahrräder und Wohnhaus am Arnswalder-Platz.jpg",
         "latitude": 52.531361,
         "longitude": 13.437944,
         "createDate": "2025-08-20T19:27:04.000Z",
@@ -3796,6 +3720,44 @@ export const galleries = [
         }
       },
       {
+        "filename": "Fassade des 'Deutschen Historischen Museums' mit vier Statuen auf der Museumsinsel.jpg",
+        "latitude": 52.517578,
+        "longitude": 13.396689,
+        "createDate": "2025-08-20T16:29:58.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                100,
+                80
+              ],
+              "hex": "#826450",
+              "percentage": "0.062"
+            },
+            {
+              "rgb": [
+                10,
+                160,
+                220
+              ],
+              "hex": "#0aa0dc",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "45.020"
+        }
+      },
+      {
         "filename": "Fassade des Berghains in Friedrichshain.jpg",
         "latitude": 52.5117,
         "longitude": 13.443747,
@@ -3899,7 +3861,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Fassade des Budestags.jpg",
+        "filename": "Fassade des Bundestags in Mitte.jpg",
         "latitude": 52.520028,
         "longitude": 13.373114,
         "createDate": "2025-08-20T15:41:14.000Z",
@@ -3937,7 +3899,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Fassade des Zoologischen Gartens.jpg",
+        "filename": "Fassade des Zoologischen Gartens am Kurfürstendamm.jpg",
         "latitude": 52.505761,
         "longitude": 13.341203,
         "createDate": "2025-08-19T10:24:15.000Z",
@@ -3984,7 +3946,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Fassade eines Büro Gebäudes.jpg",
+        "filename": "Fassade eines Büro Gebäudes am Potsdamer Platz.jpg",
         "latitude": 52.507392,
         "longitude": 13.378258,
         "createDate": "2025-08-20T09:11:06.000Z",
@@ -4210,45 +4172,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Fassade und vier Statuen auf der Museumsinsel.jpg",
-        "latitude": 52.517578,
-        "longitude": 13.396689,
-        "createDate": "2025-08-20T16:29:58.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                130,
-                100,
-                80
-              ],
-              "hex": "#826450",
-              "percentage": "0.062"
-            },
-            {
-              "rgb": [
-                10,
-                160,
-                220
-              ],
-              "hex": "#0aa0dc",
-              "percentage": "0.020"
-            },
-            {
-              "rgb": [
-                190,
-                170,
-                150
-              ],
-              "hex": "#beaa96",
-              "percentage": "0.014"
-            }
-          ],
-          "colorfulness": "45.020"
-        }
-      },
-      {
-        "filename": "Fernsehturm vom Roten Rathaus fotografiert.jpg",
+        "filename": "Fernsehturm und Bäume vom Alexanderplatz.jpg",
         "latitude": 52.519158,
         "longitude": 13.407478,
         "createDate": "2025-08-18T18:29:40.000Z",
@@ -4295,7 +4219,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Französische Botschaft am Pariser-Platz.jpg",
+        "filename": "Französische Botschaft am Pariser-Platz - Brandenburger Tor.jpg",
         "latitude": 52.516644,
         "longitude": 13.378989,
         "createDate": "2025-08-20T15:55:03.000Z",
@@ -4483,7 +4407,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Gelbe Vespa vor einem Wohnhaus.jpg",
+        "filename": "Gelbe Vespa vor einem Wohnhaus in Kreuzberg.jpg",
         "latitude": 52.502883,
         "longitude": 13.441319,
         "createDate": "2025-08-19T07:35:37.000Z",
@@ -4530,54 +4454,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Gemälde 1 in der neuen Nationalgalerie.jpg",
-        "latitude": 52.507019,
-        "longitude": 13.367408,
-        "createDate": "2025-08-20T10:00:49.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                230,
-                210
-              ],
-              "hex": "#f0e6d2",
-              "percentage": "0.047"
-            },
-            {
-              "rgb": [
-                210,
-                190,
-                170
-              ],
-              "hex": "#d2beaa",
-              "percentage": "0.046"
-            },
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.016"
-            },
-            {
-              "rgb": [
-                80,
-                50,
-                30
-              ],
-              "hex": "#50321e",
-              "percentage": "0.006"
-            }
-          ],
-          "colorfulness": "42.046"
-        }
-      },
-      {
-        "filename": "Gemälde 2 in der neuen Nationalgalerie.jpg",
+        "filename": "Gemälde 'Astronauten' in der neuen Nationalgalerie.jpg",
         "latitude": 52.506983,
         "longitude": 13.366825,
         "createDate": "2025-08-20T10:02:46.000Z",
@@ -4621,6 +4498,53 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.227"
+        }
+      },
+      {
+        "filename": "Gemälde 'Krieger' in der neuen Nationalgalerie.jpg",
+        "latitude": 52.507019,
+        "longitude": 13.367408,
+        "createDate": "2025-08-20T10:00:49.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.047"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "42.046"
         }
       },
       {
@@ -4680,7 +4604,36 @@ export const galleries = [
         }
       },
       {
-        "filename": "Glas-Decke eines Bürohauses.jpg",
+        "filename": "Glas-Beton-Decke des Bundestag-Eingang.jpg",
+        "latitude": 52.520142,
+        "longitude": 13.373544,
+        "createDate": "2025-08-20T15:42:04.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                40,
+                30
+              ],
+              "hex": "#32281e",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                170
+              ],
+              "hex": "#b4b4aa",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "31.519"
+        }
+      },
+      {
+        "filename": "Glas-Decke der East-Side-Mall in Stralau - Warschauer Strasse.jpg",
         "latitude": 52.505753,
         "longitude": 13.446758,
         "createDate": "2025-08-20T06:37:03.000Z",
@@ -4715,6 +4668,53 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.944"
+        }
+      },
+      {
+        "filename": "Glas-Decke der Mall of Berlin am Potsdamer Platz - Mitte.jpg",
+        "latitude": 52.510344,
+        "longitude": 13.38115,
+        "createDate": "2025-08-20T11:33:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.103"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                170,
+                200,
+                230
+              ],
+              "hex": "#aac8e6",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                190
+              ],
+              "hex": "#e6d2be",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "43.123"
         }
       },
       {
@@ -4897,7 +4897,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Graffitti auf Glas in einer U-Bahn-Station.jpg",
+        "filename": "Graffitti auf Glas in einer U-Bahn-Station Möckernbrücke am Hallerschen Ufer - Landwehrkanal.jpg",
         "latitude": 52.498989,
         "longitude": 13.382436,
         "createDate": "2025-08-20T08:45:59.000Z",
@@ -4982,7 +4982,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Herz-Symbol auf Aluminium-Beschlag.jpg",
+        "filename": "Herz-Symbol auf Aluminium-Beschlag an der Danzinger Strasse am Prenzlauer Berg.jpg",
         "latitude": 52.536378,
         "longitude": 13.431592,
         "createDate": "2025-08-20T19:04:54.000Z",
@@ -5463,7 +5463,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Kirche in Friedrichshain bei Nacht.jpg",
+        "filename": "Kirche an der Friedenstrasse in Friedrichshain bei Nacht.jpg",
         "latitude": 52.520753,
         "longitude": 13.437614,
         "createDate": "2025-08-20T20:03:29.000Z",
@@ -6054,7 +6054,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Oberbaumbrücke mit Autos und Fahrrädern.jpg",
+        "filename": "Oberbaumbrücke mit Fahrrädern.jpg",
         "latitude": 52.502261,
         "longitude": 13.446022,
         "createDate": "2025-08-19T07:28:22.000Z",
@@ -6779,7 +6779,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Siegessäule im Tierpark Mitte.jpg",
+        "filename": "Siegessäule im Tierpark in Mitte.jpg",
         "latitude": 52.513881,
         "longitude": 13.351108,
         "createDate": "2025-08-19T10:07:22.000Z",
@@ -6817,7 +6817,63 @@ export const galleries = [
         }
       },
       {
-        "filename": "Sitzende Menschen am Spree-Ufer.jpg",
+        "filename": "Simon de Boliviar Statue am Ibero-Amerikanischen-Institut in Mitte.jpg",
+        "latitude": 52.506375,
+        "longitude": 13.369044,
+        "createDate": "2025-08-20T10:45:54.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.052"
+            },
+            {
+              "rgb": [
+                40,
+                160,
+                210
+              ],
+              "hex": "#28a0d2",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                80,
+                60,
+                50
+              ],
+              "hex": "#503c32",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "46.901"
+        }
+      },
+      {
+        "filename": "Sitzende Menschen am Spree-Ufer in Mitte.jpg",
         "latitude": 52.522572,
         "longitude": 13.372064,
         "createDate": "2025-08-20T15:30:15.000Z",
@@ -7231,7 +7287,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Strasse, Bus und Laternen bei Nacht.jpg",
+        "filename": "Strasse, Bus und Laternen am Platz der Vereinten Nationen bei Nacht.jpg",
         "latitude": 52.525178,
         "longitude": 13.430589,
         "createDate": "2025-08-20T19:45:46.000Z",
@@ -8014,7 +8070,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Wohnhaus und Fahrräder davor.jpg",
+        "filename": "Wohnhaus und Fahrräder davor in der Gubener-Strasse - Friedrichshain.jpg",
         "latitude": 52.513039,
         "longitude": 13.446394,
         "createDate": "2025-08-20T20:28:29.000Z",
@@ -8061,7 +8117,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Wohnhochhaus in Friedrichshain.jpg",
+        "filename": "Wohnhochhaus in der Rüdersdorfer Strasse - Friedrichshain.jpg",
         "latitude": 52.512128,
         "longitude": 13.443261,
         "createDate": "2025-08-19T15:26:41.000Z",
@@ -8117,7 +8173,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Zwei Blumen auf einem Kleider-Container.jpg",
+        "filename": "Zwei Blumen auf einem Kleider-Container in Friedrichshain.jpg",
         "latitude": 52.512433,
         "longitude": 13.442547,
         "createDate": "2025-08-20T13:01:07.000Z",
@@ -8174,7 +8230,7 @@ export const galleries = [
       }
     ],
     "timeframe": "18. August 2025 - 21. August 2025",
-    "imageCount": 156
+    "imageCount": 157
   },
   {
     "name": "beton-und-struktur",
@@ -23892,7 +23948,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Handelskai Eingng Station Wien.jpg",
+        "filename": "Handelskai Eingang Station Wien.jpg",
         "latitude": 48.241447,
         "longitude": 16.384992,
         "createDate": "2025-04-21T16:30:35.000Z",
@@ -31613,7 +31669,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Aufgang zum Bahnhof von der Innenstadtseite aus.jpg",
+        "filename": "Aufgang zum Bahnhof Bern von der Innenstadtseite.jpg",
         "latitude": 46.949969,
         "longitude": 7.440933,
         "createDate": "2025-08-16T18:34:01.000Z",
@@ -32445,7 +32501,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Kind mit Schwimmmreifen in dr Aare in Thun.jpg",
+        "filename": "Kind mit Schwimmmreifen in der Aare in Thun.jpg",
         "latitude": 46.761525,
         "longitude": 7.624111,
         "createDate": "2025-08-17T11:10:44.000Z",
@@ -33040,7 +33096,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Tra,-Station und Gleise bei Zürich Hauptbahnhof.jpg",
+        "filename": "Tram-Station und Gleise bei Zürich Hauptbahnhof.jpg",
         "latitude": 47.377647,
         "longitude": 8.538797,
         "createDate": "2025-08-15T18:45:57.000Z",

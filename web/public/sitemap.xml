@@ -186,7 +186,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/briefmarken-neon-schriftzug</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/briefmarken-neon-schriftzug-an-der-karl-marx-allee</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -216,7 +216,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/neue-zukunft-schild</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/neue-zukunft-schild-in-alt-stralau</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -226,7 +226,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/running-is-awful-i-love-it-schriftzug</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/running-is-awful-i-love-it-schriftzug-in-alt-stralau</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -301,7 +301,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/aufgang-zu-einer-u-bahn-station</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/aufgang-zur-s-bahn-station-friedrichstrasse-mitte</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -326,12 +326,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/berliner-baren-statuen-in-souvenir-geschaft-an-der-friedrichsrtasse</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/berliner-baren-statuen-in-souvenir-geschaft-an-der-friedrichstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/berliner-dom-seitlich</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/berliner-dom-auf-der-museumsinsel-seitlich</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -396,22 +396,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/db-turm-und-hochhaus-an-hauptbahnhhof</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/decke-der-mall-of-berlin</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/decke-des-bundestag-eingang</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/direktion-der-neuen-nationalgalerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/db-turm-und-hochhaus-an-hauptbahnhhof-in-mitte</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -421,7 +406,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/eingang-sony-center</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/eingang-zum-sony-center-am-potsdamer-platz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/eingang-zur-direktion-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -436,7 +426,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/fahrrader-und-wohnhaus</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/fahrrader-und-wohnhaus-am-arnswalder-platz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -461,6 +451,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-des-deutschen-historischen-museums-mit-vier-statuen-auf-der-museumsinsel</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-des-berghains-in-friedrichshain</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -471,17 +466,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-des-budestags</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-des-bundestags-in-mitte</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-des-zoologischen-gartens</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-des-zoologischen-gartens-am-kurfurstendamm</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-eines-buro-gebaudes</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-eines-buro-gebaudes-am-potsdamer-platz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -506,17 +501,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/fassade-und-vier-statuen-auf-der-museumsinsel</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/fernsehturm-und-baume-vom-alexanderplatz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/fernsehturm-vom-roten-rathaus-fotografiert</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/franzosische-botschaft-am-pariser-platz</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/franzosische-botschaft-am-pariser-platz-brandenburger-tor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -536,17 +526,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/gelbe-vespa-vor-einem-wohnhaus</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/gelbe-vespa-vor-einem-wohnhaus-in-kreuzberg</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/gemalde-1-in-der-neuen-nationalgalerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/gemalde-astronauten-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/gemalde-2-in-der-neuen-nationalgalerie</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/gemalde-krieger-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -556,7 +546,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/glas-decke-eines-burohauses</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/glas-beton-decke-des-bundestag-eingang</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/glas-decke-der-east-side-mall-in-stralau-warschauer-strasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/glas-decke-der-mall-of-berlin-am-potsdamer-platz-mitte</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -581,7 +581,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/graffitti-auf-glas-in-einer-u-bahn-station</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/graffitti-auf-glas-in-einer-u-bahn-station-mockernbrucke-am-hallerschen-ufer-landwehrkanal</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -591,7 +591,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/herz-symbol-auf-aluminium-beschlag</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/herz-symbol-auf-aluminium-beschlag-an-der-danzinger-strasse-am-prenzlauer-berg</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -646,7 +646,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/kirche-in-friedrichshain-bei-nacht</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/kirche-an-der-friedenstrasse-in-friedrichshain-bei-nacht</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -706,7 +706,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/oberbaumbrucke-mit-autos-und-fahrradern</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/oberbaumbrucke-mit-fahrradern</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -786,12 +786,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/siegessaule-im-tierpark-mitte</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/siegessaule-im-tierpark-in-mitte</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/sitzende-menschen-am-spree-ufer</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/simon-de-boliviar-statue-am-ibero-amerikanischen-institut-in-mitte</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/sitzende-menschen-am-spree-ufer-in-mitte</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -836,7 +841,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/strasse-bus-und-laternen-bei-nacht</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/strasse-bus-und-laternen-am-platz-der-vereinten-nationen-bei-nacht</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -926,17 +931,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/wohnhaus-und-fahrrader-davor</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/wohnhaus-und-fahrrader-davor-in-der-gubener-strasse-friedrichshain</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/wohnhochhaus-in-friedrichshain</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/wohnhochhaus-in-der-rudersdorfer-strasse-friedrichshain</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/zwei-blumen-auf-einem-kleider-container</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/zwei-blumen-auf-einem-kleider-container-in-friedrichshain</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2801,7 +2806,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/oeffis/image/handelskai-eingng-station-wien</loc>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/handelskai-eingang-station-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3696,7 +3701,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/schweiz/image/aufgang-zum-bahnhof-von-der-innenstadtseite-aus</loc>
+    <loc>https://photos.lucamack.at/gallery/schweiz/image/aufgang-zum-bahnhof-bern-von-der-innenstadtseite</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3796,7 +3801,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/schweiz/image/kind-mit-schwimmmreifen-in-dr-aare-in-thun</loc>
+    <loc>https://photos.lucamack.at/gallery/schweiz/image/kind-mit-schwimmmreifen-in-der-aare-in-thun</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3866,7 +3871,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/schweiz/image/tra-station-und-gleise-bei-zurich-hauptbahnhof</loc>
+    <loc>https://photos.lucamack.at/gallery/schweiz/image/tram-station-und-gleise-bei-zurich-hauptbahnhof</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
