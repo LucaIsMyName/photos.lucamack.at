@@ -12,6 +12,13 @@
   RewriteRule ^postcard/?$ /app/postcard [R=301,L]
   RewriteRule ^statistics/?$ /app/statistics [R=301,L]
   RewriteRule ^filter/?$ /app/filter [R=301,L]
+
+  RewriteRule ^gallery/beton-und-struktur/?$ /gallery/wien [R=301,L]
+  RewriteRule ^gallery/nhm/?$ /gallery/im-museum [R=301,L]
+  RewriteRule ^gallery/bad-ischl/?$ /gallery/salzkammergut [R=301,L]
+  RewriteRule ^gallery/kleinlobming/?$ /gallery/sonstwo-und-allfaelliges [R=301,L]
+  RewriteRule ^gallery/ottenstein/?$ /gallery/sonstwo-und-allfaelliges [R=301,L]
+  RewriteRule ^gallery/waidhofen/?$ /gallery/sonstwo-und-allfaelliges [R=301,L]
   
   # Default SPA handling
   RewriteRule ^index\.html$ - [L]
