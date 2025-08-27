@@ -270,7 +270,7 @@ const Filter = () => {
         description="Filtere Fotos anhand von Farbe und / oder Standort"
       />
 
-      <div className={`pl-4 md:pl-0 py-4 md:py-8 pr-4 md:pr-8 ${theme === "dark" ? "bg-black text-white" : "bg-white text-black"}`}>
+      <div className={`pl-4 md:pl-8 py-4 md:py-8 pr-4 md:pr-8 ${theme === "dark" ? "bg-black text-white" : "bg-white text-black"}`}>
         <h1 className={cn(CONFIG.theme.headline.one, `${theme === "dark" ? "text-white" : "text-black"} mb-6`)}>Filter</h1>
 
         <div className="grid grid-cols-1 lg:grid-cols-[clamp(200px,22.5vw,400px)_1fr] gap-6">

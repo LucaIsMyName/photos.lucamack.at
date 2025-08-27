@@ -122,6 +122,49 @@ async function generateGalleries() {
       }
     }
 
+    // Parse gallery metadata first
+    let title = name;
+    let description = '';
+    let creator = null;
+    let copyrightNotice = null;
+    let creditText = null;
+    let acquireLicensePage = null;
+    let tags = null;
+    const mdPath = path.join(galleryDir, 'index.md');
+
+    if (fs.existsSync(mdPath)) {
+      const mdContent = fs.readFileSync(mdPath, 'utf-8');
+      
+      // Parse frontmatter
+      const frontmatterMatch = mdContent.match(/^---\n([\s\S]*?)\n---/);
+      if (frontmatterMatch) {
+        const frontmatter = frontmatterMatch[1];
+        const creatorMatch = frontmatter.match(/creator:\s*["']?(.*?)["']?$/m);
+        const copyrightMatch = frontmatter.match(/copyrightNotice:\s*["']?(.*?)["']?$/m);
+        const creditMatch = frontmatter.match(/creditText:\s*["']?(.*?)["']?$/m);
+        const licenseMatch = frontmatter.match(/acquireLicensePage:\s*["']?(.*?)["']?$/m);
+        const tagsMatch = frontmatter.match(/tags:\s*(\[.*?\])/m);
+        
+        if (creatorMatch) creator = creatorMatch[1].trim();
+        if (copyrightMatch) copyrightNotice = copyrightMatch[1].trim();
+        if (creditMatch) creditText = creditMatch[1].trim();
+        if (licenseMatch) acquireLicensePage = licenseMatch[1].trim();
+        if (tagsMatch) {
+          try {
+            tags = JSON.parse(tagsMatch[1]);
+          } catch (e) {
+            console.error(`Error parsing tags for ${name}:`, e);
+          }
+        }
+      }
+      
+      const h1Match = mdContent.match(/^#\s+(.*)/m);
+      if (h1Match) title = h1Match[1].trim();
+      const paragraphs = mdContent.split('\n\n');
+      const firstParagraph = paragraphs.find(p => p.trim() && !p.trim().startsWith('#') && !p.trim().startsWith('---'));
+      if (firstParagraph) description = firstParagraph.trim();
+    }
+
     const imageFilesRaw = fs.readdirSync(galleryDir).filter(file => /\.(jpe?g|png|gif|webp|heic)$/i.test(file));
 
     const imageFilesData = await Promise.all(
@@ -166,7 +209,18 @@ async function generateGalleries() {
           console.error('Error extracting colors for', filename, err);
         }
         
-        return { filename, latitude, longitude, createDate, colorData };
+        return { 
+          filename, 
+          latitude, 
+          longitude, 
+          createDate, 
+          colorData,
+          ...(creator && { creator }),
+          ...(copyrightNotice && { copyrightNotice }),
+          ...(creditText && { creditText }),
+          ...(acquireLicensePage && { acquireLicensePage }),
+          ...(tags && { tags })
+        };
       })
     );
 
@@ -211,20 +265,20 @@ async function generateGalleries() {
 
     const imageCount = uniqueImageFilesData.length;
 
-    let title = name;
-    let description = '';
-    const mdPath = path.join(galleryDir, 'index.md');
-
-    if (fs.existsSync(mdPath)) {
-      const mdContent = fs.readFileSync(mdPath, 'utf-8');
-      const h1Match = mdContent.match(/^#\s+(.*)/m);
-      if (h1Match) title = h1Match[1].trim();
-      const paragraphs = mdContent.split('\n\n');
-      const firstParagraph = paragraphs.find(p => p.trim() && !p.trim().startsWith('#'));
-      if (firstParagraph) description = firstParagraph.trim();
-    }
-
-        return { name, slug: gallerySlug, title, description, images: uniqueImageFilesData, timeframe, imageCount };
+        return { 
+          name, 
+          slug: gallerySlug, 
+          title, 
+          description, 
+          images: uniqueImageFilesData, 
+          timeframe, 
+          imageCount,
+          ...(creator && { creator }),
+          ...(copyrightNotice && { copyrightNotice }),
+          ...(creditText && { creditText }),
+          ...(acquireLicensePage && { acquireLicensePage }),
+          ...(tags && { tags })
+        };
   });
 
   const galleries = await Promise.all(galleryPromises);

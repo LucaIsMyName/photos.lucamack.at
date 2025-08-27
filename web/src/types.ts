@@ -37,6 +37,12 @@ export interface Image {
     }[];
     colorfulness: number;
   };
+  // Creative Commons and licensing metadata
+  acquireLicensePage?: string;
+  copyrightNotice?: string;
+  creator?: string;
+  creditText?: string;
+  tags?: string[];
 }
 
 export interface Gallery {
@@ -48,6 +54,12 @@ export interface Gallery {
   timeframe?: string;
   imageCount?: number;
   createDate?: DateFormat;
+  // Creative Commons and licensing metadata
+  acquireLicensePage?: string;
+  copyrightNotice?: string;
+  creator?: string;
+  creditText?: string;
+  tags?: string[];
 }
 
 export interface Page {

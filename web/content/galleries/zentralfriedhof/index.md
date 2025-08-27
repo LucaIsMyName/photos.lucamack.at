@@ -1,3 +1,11 @@
+---
+creator: "Luca Mack"
+copyrightNotice: "© 2025 Luca Mack. All rights reserved."
+creditText: "Photo by Luca Mack"
+acquireLicensePage: "https://creativecommons.org/licenses/by/4.0/"
+tags: ["Österreich", "Wien", "Landschaft", "Architektur", "Stadt", "Friedhof"]
+---
+
 # Zentralfriedhof
 
 An den Grenzen der Stadt & am Ende der Dinge sieht man das schöne. Einmal mit der 71er hin- und retour.

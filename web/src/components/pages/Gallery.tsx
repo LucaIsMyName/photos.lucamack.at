@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { useParams, Link } from "react-router-dom";
 import { galleries } from "../../galleries";
 import { marked } from "marked";
 import type { Gallery as GalleryType } from "../../types";
@@ -128,6 +128,8 @@ const Gallery = () => {
               dangerouslySetInnerHTML={{ __html: marked(gallery.description) }}
             />
           )}
+
+        
         </div>
 
         {shuffledImages.length > 0 ? (
@@ -166,6 +168,25 @@ const Gallery = () => {
               </span>
             </div>
           </div>
+          {gallery.tags && gallery.tags.length > 0 && (
+            <div className="w-full  my-6">
+              <div className="flex justify-center items-center flex-wrap gap-2">
+                {gallery.tags.map((tag: string) => (
+                  <Link
+                    key={tag}
+                    to={`/app/tags?tag=${encodeURIComponent(tag)}`}
+                    className={`px-3 py-1 text-[11px] cursor-pointer transition-colors hover:bg-black hover:text-white ${
+                      theme === 'light'
+                        ? 'font-mono border border-neutral-500/20 text-gray-700'
+                        : 'font-mono border border-neutral-500/20 text-gray-300 hover:bg-white hover:text-black'
+                    }`}
+                  >
+                    {tag}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
       </div>
     </div>

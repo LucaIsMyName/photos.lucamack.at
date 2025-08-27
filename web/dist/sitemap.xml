@@ -106,6 +106,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/born-to-die-in-berlin-street-mit-wolf-und-maryilin-monroe</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/bratort-schriftzug-wuhlischstrasse-friedrichshain</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -121,12 +126,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/corneliusbrucke-eisenguss-schriftzug-in-mitte</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/eimer-liebt-dich-schiftzug-am-mistkubel</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/fachprasentation-zettel-auf-parkplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/galerie-fur-frische-kunst-an-der-karl-marx-allee</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -162,6 +177,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/strassenschaden-schild-in-mitte</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/there-is-no-sense-except-it-sticker-in-berlin</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -252,6 +272,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/berliner-dom-auf-der-museumsinsel-seitlich</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/berliner-flagge-am-roten-rathaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -466,7 +491,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/graffitti-in-garageneinfahrt-in-gubener-strasse-in-friedrichshain</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/gropius-stadt-wohnhochhauser</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/gropius-stadt-wohnhochhauser-totale</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -531,6 +566,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/kreuzung-am-nollendorfplatz-vogelperspektive</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/krokodil-fresco-an-ziegelmauer-und-gebaudes-des-zoologischen-garten-am-kurfurstendamm</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -547,6 +587,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/marl-marx-allee-mit-blick-auf-fernsehturm-bei-nacht</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/martin-luther-king-kirche-in-der-gropius-stadt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -592,6 +637,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/paul-loewe-haus-in-mitte</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/paul-loewe-haus-spree-und-bundestag-in-mitte</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -792,6 +842,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/wohnbauten-an-einer-allee-am-ostbahnhof</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/wohnhaus-am-kurfurstendamm-und-der-schriftzug-flanieren-schnabulieren-am-bikini-berlin</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3001,6 +3056,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/schweiz/image/raucherbereich-am-bahnsteig-in-basel-sbb</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/schweiz/image/sbb-zug-bern-basel</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3486,6 +3546,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/wien-energie-gebaude-in-spittelau</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/3-hochhauser-und-fuss-und-fahrradgelander-bei-prater-erdberg</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3507,11 +3572,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/3-mullcontainer-eine-mauer-und-himmel-in-der-lorystrasse</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/76a-bus-in-der-nahe-des-enkplatz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3611,6 +3671,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/brucke-uber-den-donuakanal-in-der-nahe-spittelau-alsergrund</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/brucke-uber-die-donauinsel-in-brigittenau</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3687,6 +3752,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/eingangstor-uz-einem-gemeindebau-in-der-lorystrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/eingangstur-in-der-simmerinnger-haupstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3847,6 +3917,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/hauptbibliothek-und-u-bahn-burggasse-gurtel</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/haus-fassade-in-der-simmeringer-haupstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

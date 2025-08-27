@@ -61,7 +61,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.933"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Park"
+        ]
       },
       {
         "filename": "Bürohaus und Zaun.jpg",
@@ -117,7 +129,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.716"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Park"
+        ]
       },
       {
         "filename": "Gebäude und 3 Fahnenmäste.jpg",
@@ -164,7 +188,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.560"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Park"
+        ]
       },
       {
         "filename": "Gebäude und Bäume.jpg",
@@ -220,7 +256,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.088"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Park"
+        ]
       },
       {
         "filename": "Gebäude und Fussgängerweg.jpg",
@@ -276,7 +324,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.807"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Park"
+        ]
       },
       {
         "filename": "Panzer vor einer Garage.jpg",
@@ -323,7 +383,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.824"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Park"
+        ]
       },
       {
         "filename": "Radioturm Arsenal.jpg",
@@ -379,7 +451,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.768"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Park"
+        ]
       },
       {
         "filename": "Radioturm mit Auto davor.jpg",
@@ -417,7 +501,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.753"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Park"
+        ]
       },
       {
         "filename": "Rote Wand und Bäume Arsenal.jpg",
@@ -446,7 +542,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.690"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Park"
+        ]
       },
       {
         "filename": "Weg im Arsenal mit Laterne.jpg",
@@ -493,7 +601,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.960"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Park"
+        ]
       },
       {
         "filename": "Zaun mit Gebäude.jpg",
@@ -522,17 +642,41 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.557"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Park"
+        ]
       }
     ],
     "timeframe": "20. April 2025",
-    "imageCount": 11
+    "imageCount": 11,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Architektur",
+      "Stadt",
+      "Technologie",
+      "Park"
+    ]
   },
   {
     "name": "berlin",
     "slug": "berlin",
     "title": "Berlin",
-    "description": "Dreckig & Fotogen",
+    "description": "Schöner Dreck & neo-klassizistische-sozialistische-brutalistische Gebäude",
     "images": [
       {
         "filename": "'Absturzgefahr. Nicht betreten' Warnung bei neuer Nationalgalerie.jpg",
@@ -588,7 +732,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.349"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Berlin lacht' Baustellenzaun Schriftzug am Potsdamer Platz.jpg",
@@ -635,7 +794,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.921"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Bikini Berlin' Schriftzug eines Einkaufzentrums.jpg",
@@ -691,7 +865,84 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.009"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "'Born to die in Berlin' Street mit Wolf und Maryilin Monroe.jpg",
+        "latitude": 52.510364,
+        "longitude": 13.453936,
+        "createDate": "2025-08-19T20:47:48.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                0,
+                0
+              ],
+              "hex": "#1e0000",
+              "percentage": "0.049"
+            },
+            {
+              "rgb": [
+                240,
+                200,
+                140
+              ],
+              "hex": "#f0c88c",
+              "percentage": "0.042"
+            },
+            {
+              "rgb": [
+                130,
+                70,
+                10
+              ],
+              "hex": "#82460a",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                160,
+                110,
+                60
+              ],
+              "hex": "#a06e3c",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "45.558"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Bratort' Schriftzug Wühlischstrasse Friedrichshain.jpg",
@@ -747,7 +998,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.924"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Briefmarken' Neon-Schriftzug an der Karl-Marx-Allee.jpg",
@@ -785,7 +1051,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.065"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Büro' Leuchtreklame am Prenzlauer-Berg.jpg",
@@ -841,7 +1122,75 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.599"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "'Corneliusbrücke' Eisenguss Schriftzug in Mitte.jpg",
+        "latitude": 52.507447,
+        "longitude": 13.348097,
+        "createDate": "2025-08-19T10:18:10.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                100,
+                190,
+                240
+              ],
+              "hex": "#64bef0",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "43.318"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Eimer liebt dich' Schiftzug am Mistkübel.jpg",
@@ -897,7 +1246,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.046"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Fachpräsentation' Zettel auf Parkplatz.jpg",
@@ -926,7 +1290,93 @@ export const galleries = [
             }
           ],
           "colorfulness": "26.229"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "'Galerie für frische Kunst' an der Karl-Marx-Allee.jpg",
+        "latitude": 52.516953,
+        "longitude": 13.447692,
+        "createDate": "2025-08-18T20:15:34.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.114"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                110
+              ],
+              "hex": "#a0826e",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                210
+              ],
+              "hex": "#dcdcd2",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                120,
+                180,
+                210
+              ],
+              "hex": "#78b4d2",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                60,
+                170,
+                230
+              ],
+              "hex": "#3caae6",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "34.622"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Kauf kein Kack' Werbung am Ostkreuz.jpg",
@@ -982,7 +1432,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.647"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Max und Moritz' Spätkaufladen bei Nacht.jpg",
@@ -1038,7 +1503,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.173"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Neue Zukunft' Schild in Alt-Stralau.jpg",
@@ -1076,7 +1556,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.758"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Power' Graffitti an der S-Bahn-Mauer.jpg",
@@ -1123,7 +1618,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "28.172"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Running is awful. I love it.' Schriftzug in Alt-Stralau.jpg",
@@ -1161,7 +1671,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.020"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Schöner leben ohne Nazis' Schriftzug Wühlischstrasse Friedrichshain.jpg",
@@ -1199,7 +1724,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.827"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Strassenschäden' Schild in Mitte.jpg",
@@ -1255,7 +1795,66 @@ export const galleries = [
             }
           ],
           "colorfulness": "55.964"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "'There is no Sense, Except it' Sticker in Berlin.jpg",
+        "latitude": 52.497728,
+        "longitude": 13.4666,
+        "createDate": "2025-08-19T19:06:52.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.089"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.054"
+            }
+          ],
+          "colorfulness": "52.615"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'U' Form Kunst aus einem Belüftungsschacht.jpg",
@@ -1293,7 +1892,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.420"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Wurst'-Stand am Brandenburger Tor.jpg",
@@ -1340,7 +1954,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.761"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'kopierladen' Leuchtreklame am Prenzlauer-Berg.jpg",
@@ -1387,7 +2016,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "56.043"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "3XN Cube Berlin Spiegelungen am Washingtonplatz - Hauptbahnhof.jpg",
@@ -1443,7 +2087,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.808"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Abgang zur U-Bahn-Station Nollendorfplatz.jpg",
@@ -1499,7 +2158,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.219"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Abstrakte Darstellung zweier Menschen an der Kaiser-Wilhelm-Gedächtniskirche.jpg",
@@ -1537,7 +2211,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "28.587"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Alexanderplatz Fliesen Typografie in der U-Bahn-Station.jpg",
@@ -1566,7 +2255,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.126"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Alte Gebäude und Kirche bei Unter den Linden.jpg",
@@ -1622,7 +2326,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.475"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Altes Museum auf der Museumsinsel.jpg",
@@ -1651,7 +2370,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.090"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Arnswalder Platz Skulptur (Seitlich) in Friedrichshain.jpg",
@@ -1707,7 +2441,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "55.377"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Arnswalder Platz mit Skulptur in Friedrichshain.jpg",
@@ -1745,7 +2494,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "53.567"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Aufgang zur S-Bahn-Station Friedrichstrasse - Mitte.jpg",
@@ -1774,7 +2538,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.310"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Aussenansicht des Berghain mit Eingang.jpg",
@@ -1821,7 +2600,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.475"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Änderungsschneiderei am Prenzlauer Berg.jpg",
@@ -1868,7 +2662,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.070"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Bahnhof Potsdamer Platz Eingang und zwei Hochhäuser.jpg",
@@ -1924,7 +2733,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.329"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Bau-Ruine in Kreuzberg.jpg",
@@ -1962,7 +2786,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "53.878"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Berliner Bären Statuen in Souvenir Geschäft an der Friedrichstrasse.jpg",
@@ -2009,7 +2848,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.200"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Berliner Dom auf der Museumsinsel (Seitlich).jpg",
@@ -2065,7 +2919,75 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.355"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Berliner Flagge am roten Rathaus.jpg",
+        "latitude": 52.51915,
+        "longitude": 13.408697,
+        "createDate": "2025-08-18T18:28:20.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                190,
+                210
+              ],
+              "hex": "#a0bed2",
+              "percentage": "0.200"
+            },
+            {
+              "rgb": [
+                100,
+                40,
+                20
+              ],
+              "hex": "#642814",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                150
+              ],
+              "hex": "#aaa096",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "39.692"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Blick auf den Fernsehturm durch eine Brücke.jpg",
@@ -2112,7 +3034,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.018"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Blick auf den Morgenverkehr an der Karl-Marx-Allee - Alexanderplatz.jpg",
@@ -2159,7 +3096,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.733"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Bodenbelag bei der Kaiser-Wilhelm-Gedächtniskirche.jpg",
@@ -2197,7 +3149,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.410"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Bodenstruktur des Fernsehturms am Alexanderplatz.jpg",
@@ -2235,7 +3202,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.256"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Brandenburger Tor Close-Up.jpg",
@@ -2264,7 +3246,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.616"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Brandenburger Tor mit Blick Richtung Siegessäule.jpg",
@@ -2302,7 +3299,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.192"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Bürohaus am Pariser-Platz - Brandenburger Tor.jpg",
@@ -2349,7 +3361,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.959"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Bürohaus am Pariser-Platz.jpg",
@@ -2378,7 +3405,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.851"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Bürohaus und U-Bahn-Eingang bei Unter den Linden.jpg",
@@ -2434,7 +3476,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.172"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Computerspielemuseum auf der Karl-Marx-Alle bei Nacht.jpg",
@@ -2472,7 +3529,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.782"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "DB-Turm und Hochhaus an Hauptbahnhhof in Mitte.jpg",
@@ -2528,7 +3600,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.269"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Ein Mensch und Fahrrad vor Mausoleum in Kreuzber:Mitte.jpg",
@@ -2575,7 +3662,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.368"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Eingang zum Sony-Center am Potsdamer Platz.jpg",
@@ -2631,7 +3733,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.986"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Eingang zur Preussischen Akademie der Wissenschaft.jpg",
@@ -2678,7 +3795,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.214"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Eingang zur U-Bahn-Station Heinrich-Heine-Strasse.jpg",
@@ -2734,7 +3866,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "61.543"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fahrräder und Wohnhaus am Arnswalder-Platz.jpg",
@@ -2763,7 +3910,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.480"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade der 'Neuen Wache' und Bäume mit Blick auf den Himmel.jpg",
@@ -2819,7 +3981,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "62.664"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade der S-Bahn-Station Alexanderplatz.jpg",
@@ -2857,7 +4034,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.986"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade der neuen Kaiser-Wilhelm-Gedächtniskirche und eine Menschengruppe.jpg",
@@ -2877,7 +4069,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.553"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade der neuen Kaiser-Wilhelm-Gedächtniskirche und zwei Menschen.jpg",
@@ -2906,7 +4113,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "22.951"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade des 'Deutschen Historischen Museums' mit vier Statuen auf der Museumsinsel.jpg",
@@ -2944,7 +4166,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.020"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade des Berghains in Friedrichshain.jpg",
@@ -2991,7 +4228,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.234"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade des Berliner Doms auf der Museumsinsel.jpg",
@@ -3047,7 +4299,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.184"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade des Bundestags in Mitte.jpg",
@@ -3085,7 +4352,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.211"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade des Zoologischen Gartens am Kurfürstendamm.jpg",
@@ -3132,7 +4414,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.664"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade eines Büro Gebäudes am Potsdamer Platz.jpg",
@@ -3170,7 +4467,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.085"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade eines Bürohauses nahe Potsdamer Platz.jpg",
@@ -3217,7 +4529,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.152"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade eines Hochauses und Wandgemälde am Alexanderplatz.jpg",
@@ -3255,7 +4582,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.491"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade eines Wohnhauses am Prenzlauer-Berg.jpg",
@@ -3311,7 +4653,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.275"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade eines Wohnhauses in der Rosenstrasse - Mitte.jpg",
@@ -3358,7 +4715,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.497"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fernsehturm und Bäume vom Alexanderplatz.jpg",
@@ -3405,7 +4777,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.288"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Französische Botschaft am Pariser-Platz - Brandenburger Tor.jpg",
@@ -3461,7 +4848,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "57.613"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Friedenstrasse Strassenschild bei Nacht.jpg",
@@ -3517,7 +4919,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.498"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Gebäude und Baukräne am Alexanderplatz.jpg",
@@ -3546,7 +4963,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.056"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Gebäude, Strasse und Bus am Alexanderplatz.jpg",
@@ -3593,7 +5025,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.878"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Gelbe Vespa vor einem Wohnhaus in Kreuzberg.jpg",
@@ -3640,7 +5087,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.013"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Getränke Hoffmann in Friedrichshain.jpg",
@@ -3696,7 +5158,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.243"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Glas-Beton-Decke des Bundestag-Eingang.jpg",
@@ -3725,7 +5202,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.519"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Glas-Decke der East-Side-Mall in Stralau - Warschauer Strasse.jpg",
@@ -3763,7 +5255,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.944"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Glas-Decke der Mall of Berlin am Potsdamer Platz - Mitte.jpg",
@@ -3810,7 +5317,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.123"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Glas-Fassade an der U-Bahn-Station Einfahrt Friedrichstrasse.jpg",
@@ -3848,7 +5370,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.404"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Graffitti auf Glas in einer U-Bahn-Station Möckernbrücke am Hallerschen Ufer - Landwehrkanal.jpg",
@@ -3895,7 +5432,93 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.433"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Graffitti in Garageneinfahrt in Gubener-Strasse in Friedrichshain.jpg",
+        "latitude": 52.512311,
+        "longitude": 13.448833,
+        "createDate": "2025-08-19T20:58:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                170,
+                140,
+                110
+              ],
+              "hex": "#aa8c6e",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                180
+              ],
+              "hex": "#e6d2b4",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                130,
+                90,
+                60
+              ],
+              "hex": "#825a3c",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                10,
+                150,
+                200
+              ],
+              "hex": "#0a96c8",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "40.505"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Gropius Stadt Wohnhochhäuser.jpg",
@@ -3933,7 +5556,84 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.422"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Gropius-Stadt Wohnhochhäuser (Totale).jpg",
+        "latitude": 52.428469,
+        "longitude": 13.454342,
+        "createDate": "2025-08-20T07:30:52.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                0
+              ],
+              "hex": "#1e1400",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                210
+              ],
+              "hex": "#e6dcd2",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                140,
+                130,
+                120
+              ],
+              "hex": "#8c8278",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                140,
+                200,
+                240
+              ],
+              "hex": "#8cc8f0",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "43.266"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Herz-Symbol auf Aluminium-Beschlag an der Danzinger Strasse am Prenzlauer Berg.jpg",
@@ -3962,7 +5662,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "23.950"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Hirsch-Statue in Tierpark Mitte.jpg",
@@ -4009,7 +5724,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.641"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Hochhaus-Fassaden am Potsdamer Platz.jpg",
@@ -4038,7 +5768,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.559"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Humboldt-Forum und Spree bei Nacht.jpg",
@@ -4085,7 +5830,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.577"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Jesus Statue in der neuen Kaiser-Wilhelm-Gedächtniskirche.jpg",
@@ -4141,7 +5901,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.507"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Jesus-Statue in der alten Kaiser-Wilhelm-Gedächtniskirche.jpg",
@@ -4179,7 +5954,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.508"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Jugenstil-Eingangsbereich eines Gebäudes in Friedrichshain.jpg",
@@ -4217,7 +6007,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.260"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Karl Liebknecht Streik-Aufruf-Gedenktafel am Potsdamer Platz.jpg",
@@ -4264,7 +6069,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.233"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Karl-Liebknecht-Strasse Strassenschild.jpg",
@@ -4320,7 +6140,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.959"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Karl-Marx-Allee mit Blick auf den Fernsehturm.jpg",
@@ -4367,7 +6202,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.780"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Kämpfer Statue vor dem alten Museum.jpg",
@@ -4414,7 +6264,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.522"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Kirche an der Friedenstrasse in Friedrichshain bei Nacht.jpg",
@@ -4461,7 +6326,75 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.168"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Kreuzung am Nollendorfplatz Vogelperspektive.jpg",
+        "latitude": 52.499367,
+        "longitude": 13.354489,
+        "createDate": "2025-08-19T13:36:03.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                150,
+                140
+              ],
+              "hex": "#aa968c",
+              "percentage": "0.050"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                180
+              ],
+              "hex": "#c8beb4",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.015"
+            }
+          ],
+          "colorfulness": "33.091"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Krokodil-Fresco an Ziegelmauer und Gebäudes des Zoologischen Garten am Kurfürstendamm.jpg",
@@ -4508,7 +6441,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "53.055"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Mall of Berlin Durchgang.jpg",
@@ -4555,7 +6503,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.013"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Mann mit Comic-Figuren Luftballoons am Alexanderplatz.jpg",
@@ -4611,7 +6574,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.694"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Marl-Marx-Allee mit Blick auf Fernsehturm bei Nacht.jpg",
@@ -4640,7 +6618,84 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.935"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Martin-Luther-King Kirche in der Gropius-Stadt.jpg",
+        "latitude": 52.428131,
+        "longitude": 13.454881,
+        "createDate": "2025-08-20T07:30:14.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.056"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                170
+              ],
+              "hex": "#a0a0aa",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                120,
+                110,
+                110
+              ],
+              "hex": "#786e6e",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "46.410"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Mauern am Volkspark Friedrichshain.jpg",
@@ -4696,7 +6751,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.234"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Mausoleum in Kreuzberg:Mitte.jpg",
@@ -4752,7 +6822,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.125"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Menschen sitzen auf der Eingangsterasse alten Museum.jpg",
@@ -4808,7 +6893,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.602"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Menschen-Statuen auf Brunnen am Kurfürstendamm.jpg",
@@ -4855,7 +6955,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.616"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Metalltür im Volkspark Friedrichshain.jpg",
@@ -4893,7 +7008,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.337"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Nollendorfplatz Schriftzug und Glas-Fassade.jpg",
@@ -4949,7 +7079,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.825"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Nord-Süd Tafel und U-Bahn Eingang an der Friedrichstrasse - Jägerstrasse.jpg",
@@ -5005,7 +7150,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.782"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Oberbaumbrücke mit Fahrrädern.jpg",
@@ -5061,7 +7221,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "64.617"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Paul-Loewe-Haus in Mitte.jpg",
@@ -5117,7 +7292,93 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.990"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Paul-Loewe-Haus, Spree und Bundestag in Mitte.jpg",
+        "latitude": 52.519342,
+        "longitude": 13.377067,
+        "createDate": "2025-08-19T09:25:27.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                110,
+                160
+              ],
+              "hex": "#0a6ea0",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                40,
+                60,
+                70
+              ],
+              "hex": "#283c46",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                80,
+                100,
+                120
+              ],
+              "hex": "#506478",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                100,
+                180,
+                210
+              ],
+              "hex": "#64b4d2",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "43.681"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Plan des Volkspark Friedrichshain.jpg",
@@ -5146,7 +7407,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.891"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Polizei-Station am Reichstag.jpg",
@@ -5184,7 +7460,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.586"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Preussischen Akademie der Wissenschaft Schriftzug und Eingang.jpg",
@@ -5213,7 +7504,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.386"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Reichstag und Grünfläche in Mitte.jpg",
@@ -5260,7 +7566,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "55.071"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Reichstag-Fassade in Mitte.jpg",
@@ -5307,7 +7628,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "53.554"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Reiter Statue vor Neo-Klassischen Gebäude.jpg",
@@ -5363,7 +7699,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "56.764"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Reiter-Statue in Tierpark Mitte.jpg",
@@ -5410,7 +7761,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "62.542"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Rotes Rathaus Frontale.jpg",
@@ -5466,7 +7832,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.180"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "S-Bahn Station Potsdamer Platz Schild.jpg",
@@ -5513,7 +7894,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.886"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "S-Bahn Station Treptower-Park Bahnsteig.jpg",
@@ -5560,7 +7956,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.035"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "S-Bahn-Logo am Potsdamer Platz.jpg",
@@ -5598,7 +8009,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.604"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "S-Bahn-Station Warschauer Strasse mit Gleisen und Grünfläche.jpg",
@@ -5654,7 +8080,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.451"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Schiff auf der Spree mit Blick Moabit.jpg",
@@ -5692,7 +8133,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.854"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Siegessäule im Tierpark in Mitte.jpg",
@@ -5730,7 +8186,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.354"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Simon de Boliviar Statue am Ibero-Amerikanischen-Institut in Mitte.jpg",
@@ -5786,7 +8257,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.901"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Sitzende Menschen am Spree-Ufer in Mitte.jpg",
@@ -5833,7 +8319,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.004"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Spiegelungen an der Glas-Fassade des Bundestags.jpg",
@@ -5889,7 +8390,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.355"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Statue und Platz in Kreuzberg.jpg",
@@ -5945,7 +8461,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "63.578"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Statue von Alexander von Humboldt.jpg",
@@ -5992,7 +8523,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.890"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Statue zweier Kämpfender auf der Museuminsel.jpg",
@@ -6039,7 +8585,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.425"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Statuen eines Mannes und eine Glas-Decke beim DDR-Museum auf der Museumsinsel.jpg",
@@ -6077,7 +8638,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.019"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Stiege und Eingang zum Berliner Dom.jpg",
@@ -6115,7 +8691,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.124"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Stiegen in der Rosenstrasse - Mitte.jpg",
@@ -6153,7 +8744,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.976"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Strasse, Bus und Laternen am Platz der Vereinten Nationen bei Nacht.jpg",
@@ -6191,7 +8797,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.548"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Street an den Mauern des Volkspark Friedrichshain.jpg",
@@ -6229,7 +8850,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.707"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "U-Bahn-Station Alexanderplatz Durchgang in türkis-blauen Fliesen.jpg",
@@ -6249,7 +8885,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "25.807"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "U-Bahn-Station Weberwiese und Wohnbau auf der Karl-Marx-Allee bei Nacht.jpg",
@@ -6287,7 +8938,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.383"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Ukraine-Flagge und Brandenburger Tor.jpg",
@@ -6343,7 +9009,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.423"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Ukraine-Gedänk- und Mahn-Stelle vor der Russischen Botschaft.jpg",
@@ -6399,7 +9080,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.249"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Upper West beim Zoologischen Garten.jpg",
@@ -6455,7 +9151,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.799"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wandbild und Fassade des Zoologischen Gartens.jpg",
@@ -6511,7 +9222,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.806"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wandgemälde in einem U-Bahn-Bahnsteig.jpg",
@@ -6540,7 +9266,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.179"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wasser-Kanal und U-Bahn-Trasse.jpg",
@@ -6578,7 +9319,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.173"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Weg und Eingang zur S-Bahn-Station Treptower Park.jpg",
@@ -6616,7 +9372,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.490"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Weltzeituhr am Alexanderplatz.jpg",
@@ -6663,7 +9434,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.103"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Weltzeituhr, Fernsehturm und S-Bahn-Station Alexanderplatz.jpg",
@@ -6701,7 +9487,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.963"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wohnbau an der Karl-Marx-Allee bei Nacht.jpg",
@@ -6739,7 +9540,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.910"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wohnbau auf der Karl-Marx-Allee.jpg",
@@ -6786,7 +9602,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.236"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wohnbau mit Weiss-Blauer Fassade in Kreuzberg.jpg",
@@ -6842,7 +9673,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.742"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wohnbauten an einer Allee am Ostbahnhof.jpg",
@@ -6889,7 +9735,84 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.341"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Wohnhaus am Kurfürstendamm und der Schriftzug 'Flanieren. Schnabulieren.' am 'Bikini Berlin'.jpg",
+        "latitude": 52.505367,
+        "longitude": 13.337686,
+        "createDate": "2025-08-19T11:54:13.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                90,
+                150
+              ],
+              "hex": "#0a5a96",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                70,
+                70,
+                70
+              ],
+              "hex": "#464646",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                110,
+                110,
+                120
+              ],
+              "hex": "#6e6e78",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "45.645"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wohnhaus und Fahrräder davor in der Gubener-Strasse - Friedrichshain.jpg",
@@ -6936,7 +9859,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.565"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wohnhochhaus in der Rüdersdorfer Strasse - Friedrichshain.jpg",
@@ -6992,7 +9930,22 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.838"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Zwei Blumen auf einem Kleider-Container in Friedrichshain.jpg",
@@ -7048,11 +10001,41 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.589"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
       }
     ],
     "timeframe": "18. August 2025 - 21. August 2025",
-    "imageCount": 144
+    "imageCount": 155,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Deutschland",
+      "Berlin",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Fluss",
+      "Typografie",
+      "Park",
+      "Statuen"
+    ]
   },
   {
     "name": "einkaufswagerl",
@@ -7096,7 +10079,16 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.367"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Stadt"
+        ]
       },
       {
         "filename": "3 Einkaufswagerl in der Geiselbergstrasse.jpg",
@@ -7143,7 +10135,16 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.041"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Stadt"
+        ]
       },
       {
         "filename": "Alleingelassenes Einkaufswagerl in Meidling.jpg",
@@ -7181,7 +10182,16 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.546"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Stadt"
+        ]
       },
       {
         "filename": "Alleingelassenes Einkaufswagerl in der Braunhubergasse 2.jpg",
@@ -7237,7 +10247,16 @@ export const galleries = [
             }
           ],
           "colorfulness": "28.769"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Stadt"
+        ]
       },
       {
         "filename": "Alleingelassenes Einkaufswagerl in der Braunhubergasse.jpg",
@@ -7275,7 +10294,16 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.066"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Stadt"
+        ]
       },
       {
         "filename": "Umgefallenes Einkaufswagerl in Simmering.jpg",
@@ -7313,7 +10341,16 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.710"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Stadt"
+        ]
       },
       {
         "filename": "Umgefallenes Einkaufswagerl in der Geiselbergstrasse.jpg",
@@ -7342,11 +10379,29 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.667"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Stadt"
+        ]
       }
     ],
     "timeframe": "28. Juli 2024 - 9. August 2025",
-    "imageCount": 7
+    "imageCount": 7,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Deutschland",
+      "Stadt"
+    ]
   },
   {
     "name": "favoriten",
@@ -7390,7 +10445,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.638"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Amalienbad Frontale Reumannplatz.jpg",
@@ -7428,7 +10494,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.010"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Amalienbad und Grünfläche am Reumannplatz.jpg",
@@ -7475,7 +10552,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.543"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Arsenalsteg mit Blick auf Hauptbahnhof.jpg",
@@ -7531,7 +10619,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.039"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Arsenalsteg und Radioturm.jpg",
@@ -7587,7 +10686,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "60.294"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Geschäftsauslage und Johannes-Kepler-Statue in der Favoritenstrasse.jpg",
@@ -7616,7 +10726,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.936"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Gleise und Radioturm in Wien in der nähe des Hauptbahnhofes.jpg",
@@ -7663,7 +10784,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.060"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Kaugummi- und Zuckerlautomat Favoritenstrasse - Keplerplatz.jpg",
@@ -7701,7 +10833,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.930"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Mahnmal den Opfern des Faschismus.jpg",
@@ -7739,7 +10882,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "28.477"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Marktgebiet Anfang & Ende Schilder Viktor-Adler-Markt.jpg",
@@ -7795,7 +10949,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.383"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Regenbogen Belüftung Reumannpatz.jpg",
@@ -7842,7 +11007,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.178"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Rudy's Imbiss am Viktor-Adler-Markt.jpg",
@@ -7898,7 +11074,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.061"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Tichy am Reumannplatz.jpg",
@@ -7936,7 +11123,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.008"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "U-Bahn Abgang Station Keplerplatz.jpg",
@@ -7983,11 +11181,33 @@ export const galleries = [
             }
           ],
           "colorfulness": "54.648"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       }
     ],
     "timeframe": "20. April 2025 - 2. August 2025",
-    "imageCount": 14
+    "imageCount": 14,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt",
+      "Park"
+    ]
   },
   {
     "name": "graz",
@@ -8013,7 +11233,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "21.874"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "24h Shop am Griesplatz .jpg",
@@ -8069,7 +11301,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.906"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Altes Möbelhaus Graz nähe Jakominiplatz.jpg",
@@ -8125,7 +11369,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.164"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Aufgang über Schlossbergstiege zum Uhrturm und Kasematten.jpg",
@@ -8163,7 +11419,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.594"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Betonstruktur Brücke bei der Mur.jpg",
@@ -8201,7 +11469,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.391"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Betonstruktur Fussgängerstiege bei der Mur.jpg",
@@ -8239,7 +11519,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.466"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Blick auf Graz mit Bäumen davor bei Sonnenuntergang.jpg",
@@ -8277,7 +11569,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.187"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Blick auf die Grazer Innenstadt bei Nacht.jpg",
@@ -8324,7 +11628,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.037"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Blick auf die Grazer Innenstandt vom Schlossberg.jpg",
@@ -8362,7 +11678,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.590"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Brunnen Graz nähe Jakominiplatz.jpg",
@@ -8400,7 +11728,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.178"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Bushaltestelle Graz.jpg",
@@ -8429,7 +11769,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.049"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Chinesischer Pavillon am Schlossberg.jpg",
@@ -8467,7 +11819,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.657"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Creditanstalt Bank Graz.jpg",
@@ -8514,7 +11878,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.743"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Fabriksgelände in der Josef-Huber-Gasse bei Nacht.jpg",
@@ -8570,7 +11946,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.952"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Fahnen und Statuen auf dem Rathaus der Stadt Graz.jpg",
@@ -8626,7 +12014,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.283"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Geschäftslokal Baustelle in der Innenstadt.jpg",
@@ -8655,7 +12055,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.933"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Grell ausgeleuchtetes Antiquitäten-Geschäft-Schaufenster bei Nacht.jpg",
@@ -8702,7 +12114,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.548"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Hauptplatz bei Nacht.jpg",
@@ -8758,7 +12182,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.356"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Hochhaus am Griesplatz.jpg",
@@ -8805,7 +12241,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.286"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Häuser Schlossbergstiege bei Nacht.jpg",
@@ -8843,7 +12291,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.839"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Jakominiplatz bei Regen.jpg",
@@ -8881,7 +12341,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.193"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Jakominiplatz.jpg",
@@ -8919,7 +12391,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.531"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Kasematten Konzert.jpg",
@@ -8975,7 +12459,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "53.254"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Kasematten mit Blick auf Himmel.jpg",
@@ -9022,7 +12518,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.784"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Ortsschild Graz Autobahnabfahrt Süd.jpg",
@@ -9069,7 +12577,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.017"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Puntigamer Laternen.jpg",
@@ -9125,7 +12645,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.356"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Regenbogen am Grazer Schlossberg.jpg",
@@ -9172,7 +12704,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.451"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Sonnenterasse am Schlossberg in Graz bei Sonnenuntergang.jpg",
@@ -9201,7 +12745,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.210"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Spielplatz Josef-Huber-Park nähe Eggenberger Gürtel Graz bei Nacht.jpg",
@@ -9248,7 +12804,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.744"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Statue am Hauptplatz.jpg",
@@ -9277,7 +12845,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.036"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Tennis Graffitti.jpg",
@@ -9306,7 +12886,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.127"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Turm am Schlossberg.jpg",
@@ -9344,7 +12936,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.744"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Uhrturm Nahaufnahme.jpg",
@@ -9391,7 +12995,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.445"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Uhrturm bei Nacht.jpg",
@@ -9429,7 +13045,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.951"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "Uhrturm von der Innenstadt aus.jpg",
@@ -9476,7 +13104,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.096"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       },
       {
         "filename": "WWF Beton Plakate.jpg",
@@ -9523,11 +13163,35 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.212"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Konzert",
+          "Kunst",
+          "Fluss"
+        ]
       }
     ],
     "timeframe": "21. Juli 2025",
-    "imageCount": 36
+    "imageCount": 36,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Architektur",
+      "Stadt",
+      "Konzert",
+      "Kunst",
+      "Fluss"
+    ]
   },
   {
     "name": "im-museum",
@@ -9589,7 +13253,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.643"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "'Südbahnhof' Schild und Stiege.jpg",
@@ -9618,7 +13299,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.487"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "'Zuerst schließen wir die Augen dann sehen wir weiter' Sticker.jpg",
@@ -9656,7 +13354,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.036"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "1950-1969 Beschreibungstexte in der neuen Nationalgalerie.jpg",
@@ -9712,7 +13427,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.627"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Ausgestopfte Katze in einem Schaukasten im NHM.jpg",
@@ -9759,7 +13491,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.395"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Ausstellungsraum mit Schaukästen für Steine und Mineralien im NHM.jpg",
@@ -9797,7 +13546,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.464"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Ausstellungsraum mit Wandbildern NHM 2.jpg",
@@ -9853,7 +13619,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.516"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Ausstellungsraum mit Wandbildern NHM.jpg",
@@ -9891,7 +13674,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.650"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Besucher schauen auf Steine in Schaukästen.jpg",
@@ -9929,7 +13729,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.511"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Bild von einem alten PC in der neuen Nationalgalerie.jpg",
@@ -9958,7 +13775,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "27.759"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Christoph Schlingensief Text in der neuen Nationalgalerie.jpg",
@@ -10005,7 +13839,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.448"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Dinosaurier und Besucher im NHM 2.jpg",
@@ -10061,7 +13912,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.798"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Dinosaurier und Besucher im NHM.jpg",
@@ -10117,7 +13985,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.656"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Eingang zur Direktion der neuen Nationalgalerie.jpg",
@@ -10146,7 +14031,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.227"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Gemälde 'Astronauten' in der neuen Nationalgalerie.jpg",
@@ -10193,7 +14095,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.227"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Gemälde 'Krieger' in der neuen Nationalgalerie.jpg",
@@ -10240,7 +14159,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.046"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Glas-Fassade und Greenpeace Plakate in der neuen Nationalgalerie.jpg",
@@ -10278,7 +14214,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.900"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Gold-Skulptur in der neuen Nationalgalerie.jpg",
@@ -10334,7 +14287,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.831"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Goldene Statue einer Frau im Figuren-Garten der neuen Nationalgalerie.jpg",
@@ -10381,7 +14351,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.263"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Innenansicht Heidi Horten Collection.jpg",
@@ -10419,7 +14406,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.341"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Leuchtende Wand im NHM.jpg",
@@ -10448,7 +14452,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.030"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Mammut mit Rüssel und Hörnern im NHM.jpg",
@@ -10477,7 +14498,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.456"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Mammut-Rüssel im NHM.jpg",
@@ -10515,7 +14553,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.225"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Marmor-Stiegen zu einem Ausstellungsraum im NHM.jpg",
@@ -10553,7 +14608,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.102"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Mutter und Kind vor Schaukasten NHM.jpg",
@@ -10609,7 +14681,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.610"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Roy Lichtenstein Gemälde und Innerum der Heidi Horten Collection.jpg",
@@ -10665,7 +14754,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.705"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Schaukasten mit Steinen NHM.jpg",
@@ -10703,7 +14809,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.468"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Schaukästen in einem Ausstellungsraum.jpg",
@@ -10741,7 +14864,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.413"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Schriftzug 'Museum der Stadt Wien'.jpg",
@@ -10779,7 +14919,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.988"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Selbstportrait in der neuen Nationalgalerie.jpg",
@@ -10817,7 +14974,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.092"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Stahl-Wal und Kutsche.jpg",
@@ -10855,7 +15029,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.806"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Stahl-Wal, Kutsche und Statuen.jpg",
@@ -10911,7 +15102,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.329"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Statue eines Mannes mit Maske in der neuen Nationalgalerie.jpg",
@@ -10958,7 +15166,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.229"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Stiegen-Aufgang zu einem Austellungsraum im NHM.jpg",
@@ -10996,7 +15221,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.200"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Verpacktes Auto in der neuen Nationalgalerie.jpg",
@@ -11043,7 +15285,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.366"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Von der Decke hängende Steine im NHM.jpg",
@@ -11081,7 +15340,24 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.583"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       },
       {
         "filename": "Von der Decke hängender Stahl-Wahl.jpg",
@@ -11119,11 +15395,45 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.936"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       }
     ],
     "timeframe": "14. Mai 2025 - 20. August 2025",
-    "imageCount": 37
+    "imageCount": 37,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Berlin",
+      "Österreich",
+      "Deutschland",
+      "Architektur",
+      "Stadt",
+      "Kunst",
+      "Gemälde",
+      "Skulpturen",
+      "Taferl",
+      "Museum"
+    ]
   },
   {
     "name": "kaernten-koroska",
@@ -11176,7 +15486,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.759"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "A1 Hauptzentrale Feuerstiegen in Klagenfurt.jpg",
@@ -11223,7 +15547,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.633"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Arkardenhof Klagenfurt.jpg",
@@ -11270,7 +15608,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.428"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Basketballkorb über einer Haustür Klagenfurt.jpg",
@@ -11317,7 +15669,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.243"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Benediktinerkirche Klagenfurt 2.jpg",
@@ -11355,7 +15721,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.369"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Benediktinerkirche in Klagenfurt.jpg",
@@ -11393,7 +15773,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.394"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Benediktinermarkt Uhr in Klagenfurt.jpg",
@@ -11449,7 +15843,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.933"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Buchhandlung Gute Nachricht Klagenfurt.jpg",
@@ -11487,7 +15895,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.920"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Bus Hauptbahnhof Klagenfurt.jpg",
@@ -11525,7 +15947,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.632"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Bushaltestelle am Wörthersee in Klagenfurt.jpg",
@@ -11572,7 +16008,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.485"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Die Lavant in Wolfsberg.jpg",
@@ -11628,7 +16078,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.384"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Dom und Kapuzinerkirche Klagenfurt Kärnten.jpg",
@@ -11684,7 +16148,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.583"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Fischer-Statue Benediktinermarkt Klagenfurt.jpg",
@@ -11731,7 +16209,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.046"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Fischerwirt St Margareten bei Wolfsberg.jpg",
@@ -11769,7 +16261,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "26.389"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Garageneinfahrt und Park Klagenfurt.jpg",
@@ -11807,7 +16313,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.319"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Gasflaschen im Fischerwirt St. Margarethen bei Wolfsberg.jpg",
@@ -11863,7 +16383,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.136"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Gemälde Jesus Kapelle Klagenfurt.jpg",
@@ -11901,7 +16435,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.211"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Graffitti Auslage Klagenfurt.jpg",
@@ -11930,7 +16478,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.231"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Hauptbahnhof Klagenfurt.jpg",
@@ -11977,7 +16539,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.801"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Hauseingang Klagenfurt.jpg",
@@ -12024,7 +16600,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.423"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Holzfisch Fischerwirt St Margareten.jpg",
@@ -12080,7 +16670,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.026"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Jesus-Kreuz in Wolfsberg.jpg",
@@ -12127,7 +16731,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.270"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Kapelle auf einem Berg bei Mallnitz in Kärnten.jpg",
@@ -12156,7 +16774,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.524"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Kirche Deckenfassade Klagenfurt Kärnten.jpg",
@@ -12176,7 +16808,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.668"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Kirche in Villach.jpg",
@@ -12214,7 +16860,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.936"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Kur-Anstalt Optima Med in St. Margareten Kärnten.jpg",
@@ -12252,7 +16912,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.914"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Lavant in Wolfsberg 2.jpg",
@@ -12281,7 +16955,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.465"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Lindwurm Klagenfurt Kärnten 2.jpg",
@@ -12328,7 +17016,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "56.671"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Lindwurm Klagenfurt Kärnten 3.jpg",
@@ -12366,7 +17068,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.175"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Lindwurm Klagenfurt Kärnten.jpg",
@@ -12404,7 +17120,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.420"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Marktamt Klagenfurt Kärnten.jpg",
@@ -12442,7 +17172,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.711"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Offener Reisekoffer mit Büchern verstreut vor einem Geschäft in Klagenfurt.jpg",
@@ -12498,7 +17242,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.023"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Park und Häuser Klagenfurt Kärnten.jpg",
@@ -12527,7 +17285,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.620"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Pestsäule am Alten Platz in Klagenfurt Kärnten.jpg",
@@ -12574,7 +17346,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.393"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Pyramidenkogel Innen-Ausblick auf den Wörthersee Kärnten 2.jpg",
@@ -12621,7 +17407,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.876"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Pyramidenkogel Innenausblick Kärnten.jpg",
@@ -12677,7 +17477,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.965"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Stadtbrunnen Klagenfurt Kärnten.jpg",
@@ -12733,7 +17547,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.612"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Statue Landesregierung Klagenfurt Kärnten.jpg",
@@ -12780,7 +17608,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.588"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Stiege in der Innenstadt Klagenfurt Kärnten.jpg",
@@ -12827,7 +17669,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.707"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Udo-Jürgens-Promenade Klagenfurt Kärnten.jpg",
@@ -12874,7 +17730,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.235"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Wasser Wörthersee Klagenfurt Kärnten.jpg",
@@ -12912,7 +17782,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.352"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Wörthersee Promenade Klagenfurt Kärnten.jpg",
@@ -12950,7 +17834,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.386"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       },
       {
         "filename": "Wörthersee Schiffanlegestelle Klagenfurt Kärnten.jpg",
@@ -12997,11 +17895,39 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.026"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "See",
+          "Fluss",
+          "Park"
+        ]
       }
     ],
     "timeframe": "19. Juli 2025 - 21. Juli 2025",
-    "imageCount": 43
+    "imageCount": 43,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Land",
+      "See",
+      "Fluss",
+      "Park"
+    ]
   },
   {
     "name": "lisboa",
@@ -13036,7 +17962,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.593"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Azul-Fliesen in Grün und Blau.jpg",
@@ -13065,7 +18002,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "23.248"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Blau-leuchtende Qualle im Ozeanium.jpg",
@@ -13112,7 +18060,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "23.977"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Brücke über den Tajo Fluss mit Blick auf Lissabon.jpg",
@@ -13141,7 +18100,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.015"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Der Atlantik und eine Bucht mit Leuchttum.jpg",
@@ -13179,7 +18149,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.060"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Die Altstadt von Lissabon.jpg",
@@ -13208,7 +18189,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.190"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Dom-Kuppel in Se de Lisboa.jpg",
@@ -13255,7 +18247,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.519"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Hausfassade mit Satelliten-Schüsseln in der Altstadt von Lissabon.jpg",
@@ -13284,7 +18287,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "27.717"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Schmale Gasse und BIM Gleise.jpg",
@@ -13322,7 +18336,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.097"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Statuen Frontansicht.jpg",
@@ -13351,7 +18376,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.777"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Statuen, nummeriert und beschriftet.jpg",
@@ -13389,11 +18425,33 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.104"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       }
     ],
     "timeframe": "19. November 2018 - 22. November 2018",
-    "imageCount": 11
+    "imageCount": 11,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Portugal",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Meer"
+    ]
   },
   {
     "name": "mayday",
@@ -13455,7 +18513,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.394"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "'Kaptalismus entsorgen' Plakat und Demonstranten auf der Ringstrasse.jpg",
@@ -13493,7 +18563,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.021"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "'Wir in Wien halten zusammen' Banner am Rathaus in Wien.jpg",
@@ -13531,7 +18613,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.600"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "48er auf der Ringstrasse vor dem Parlament.jpg",
@@ -13578,7 +18672,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.236"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Achterbahn Totalansicht Wurstelprater Wien.jpg",
@@ -13625,7 +18731,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.289"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Achterbahn Wurstelprater Wien.jpg",
@@ -13681,7 +18799,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.824"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Athene Parlamanet Ringstrasse Wien.jpg",
@@ -13728,7 +18858,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.508"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Autodrom Wurstelprater.jpg",
@@ -13784,7 +18926,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.423"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Ball Ball Wurstelprater.jpg",
@@ -13822,7 +18976,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.952"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Burgtheater.jpg",
@@ -13851,7 +19017,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.994"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Die gesengte Sau Wurstelprater.jpg",
@@ -13907,7 +19085,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.486"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Die wilde Maus Totalansicht Wurstelprater.jpg",
@@ -13963,7 +19153,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.339"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Die wilde Maus Wurstelprater.jpg",
@@ -14010,7 +19212,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.332"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Eine Achterbahn und das Riesenrad im Prater.jpg",
@@ -14039,7 +19253,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "55.471"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Fahrradfahrer und Demo auf Ringstrasse.jpg",
@@ -14086,7 +19312,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.525"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Fontäne Wurstelprater.jpg",
@@ -14124,7 +19362,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.507"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Freundschaft Rathausplatz.jpg",
@@ -14180,7 +19430,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.812"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Geiselbergstrasse.jpg",
@@ -14227,7 +19489,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.644"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Go-Card fahren Wurstelprater.jpg",
@@ -14283,7 +19557,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.254"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Karussell Wurstelprater.jpg",
@@ -14321,7 +19607,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.270"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Liliputbahn Wurstelprater.jpg",
@@ -14368,7 +19666,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.933"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Prater Hauptalle 3.jpg",
@@ -14415,7 +19725,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.100"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Prater Hauptallee 2.jpg",
@@ -14471,7 +19793,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.513"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Prater Hauptallee.jpg",
@@ -14500,7 +19834,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.948"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Prater Schriftzug.jpg",
@@ -14547,7 +19893,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.436"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Praterstern BIM Station.jpg",
@@ -14603,7 +19961,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.188"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Praterstern S-Bahn Bahnsteig 2.jpg",
@@ -14641,7 +20011,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.865"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Praterstern S-Bahn Bahnsteig.jpg",
@@ -14679,7 +20061,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.795"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Rathaus von Wien am ersten Mai.jpg",
@@ -14708,7 +20102,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.535"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Ringstrasse Parlament.jpg",
@@ -14764,7 +20170,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.991"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Ringstrasse Volkstheater Parlament.jpg",
@@ -14820,7 +20238,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.376"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Ringstrasse autofrei am ersten Mai.jpg",
@@ -14858,7 +20288,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.055"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Ringstrasse vor dem Parlament.jpg",
@@ -14914,7 +20356,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.897"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Rot-Weisse Rutschen im Wurstelprater.jpg",
@@ -14970,7 +20424,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.993"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Schweizerhaus Hintereingang.jpg",
@@ -15017,7 +20483,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.316"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Turbo Autodrom im Wurstelprater Wien.jpg",
@@ -15073,7 +20551,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "54.542"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Turbo Autodrom mit Familien davor im Wurstelprater.jpg",
@@ -15129,7 +20619,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.662"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Wurstelprater 2.jpg",
@@ -15167,7 +20669,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.321"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Wurstelprater mit Drachen.jpg",
@@ -15223,7 +20737,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.108"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       },
       {
         "filename": "Wurstelprater.jpg",
@@ -15279,11 +20805,35 @@ export const galleries = [
             }
           ],
           "colorfulness": "53.909"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Park",
+          "Architektur",
+          "Stadt",
+          "Fest"
+        ]
       }
     ],
     "timeframe": "1. Mai 2025",
-    "imageCount": 40
+    "imageCount": 40,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Park",
+      "Architektur",
+      "Stadt",
+      "Fest"
+    ]
   },
   {
     "name": "oeffis",
@@ -15336,7 +20886,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.240"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "'Der Weg nach Europa' Metallfries in der U-Bahn Station Westbahnhof.jpg",
@@ -15365,7 +20925,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.172"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "'Marchegg' Schild in einem Zug am Hauptbahnhof.jpg",
@@ -15403,7 +20973,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.298"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "'ÖBB' Logo vor dem Hauptbahnhof und dem Icon Vienna.jpg",
@@ -15459,7 +21039,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "58.039"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "'Stadtpark' U-Bahn Station Schriftzug.jpg",
@@ -15506,7 +21096,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.926"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "'Wien Hauptbahnhof' Schild am Busbahnhof - Südtirolerplatz.jpg",
@@ -15562,7 +21162,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.822"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "3 Telefone in der BIM Station Schottentor.jpg",
@@ -15600,7 +21210,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "25.722"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "71er Fenster zum Schwarzenbergplatz.jpg",
@@ -15638,7 +21258,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.331"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Alte BIM von Innen.jpg",
@@ -15685,7 +21315,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.245"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Aufgang Westbahntrasse zum Fussgängersteg.jpg",
@@ -15741,7 +21381,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.570"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "BIM Retunda in Simmering.jpg",
@@ -15797,7 +21447,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.987"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "BIM Station beim Schottentor.jpg",
@@ -15853,7 +21513,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.741"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "BIM Station in Simmering.jpg",
@@ -15891,7 +21561,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.543"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Bahnsteig S-Bahn Station Simmering.jpg",
@@ -15929,7 +21609,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.869"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Bahnsteig der U-Bahn Station Thaliastrasse.jpg",
@@ -15967,7 +21657,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.100"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Bahnsteige Simmering S-Bahn Station.jpg",
@@ -16023,7 +21723,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.952"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Bahnsteige und Gleise am Hauptbahnhof.jpg",
@@ -16079,7 +21789,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.425"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Bäume, Gleise & Strasse am Handelskai.jpg",
@@ -16108,7 +21828,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "22.879"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Blick über die Wetsbahntrasse und die Schmelzbrücke in Rudolfsheim-Fünfhaus.jpg",
@@ -16155,7 +21885,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.268"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Donaustadtbrücke U-Bahn Station.jpg",
@@ -16193,7 +21933,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "55.426"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Durchgang Hauptbahnhof-Favoritenstrasse.jpg",
@@ -16240,7 +21990,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "24.038"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Ein Mensch auf dem Bahnsteig der U-Bahn Station Josefstädterstrasse .jpg",
@@ -16269,7 +22029,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.473"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Eingang Schottenpassage bei Währinger-Strasse.jpg",
@@ -16307,7 +22077,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.714"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Eingang der U-Bahn Station Längenfeldgasse bei Nacht.jpg",
@@ -16345,7 +22125,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.571"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Gersthof S-Bahn Station im Jugendstil von Otto Wagner 2.jpg",
@@ -16392,7 +22182,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.879"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Gersthof S-Bahn Station im Jugendstil von Otto Wagner.jpg",
@@ -16448,7 +22248,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.973"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Glasfassade der U-Bahn-Station Rochusgasse.jpg",
@@ -16477,7 +22287,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.268"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Gleise am Hauptbahnhof.jpg",
@@ -16515,7 +22335,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.741"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Handelskai Bahnsteig U-Bahn Wien.jpg",
@@ -16562,7 +22392,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.128"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Handelskai Eingang Station Wien.jpg",
@@ -16618,7 +22458,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.384"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Handelskai S-Bahn Station.jpg",
@@ -16674,7 +22524,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.955"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Hauptbahnhof Halle Wien.jpg",
@@ -16712,7 +22572,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.075"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Imbiss Endstation Simmering U-Bahn Station Wien.jpg",
@@ -16750,7 +22620,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "25.603"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Löwen-Statue in der Halle des Hauptbahnhof.jpg",
@@ -16806,7 +22686,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.607"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Metall-Strukturen & Sonnenlicht in der U-Bahn Station Rochusgasse.jpg",
@@ -16844,7 +22734,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.684"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Praterstern Austria Campus Wien.jpg",
@@ -16873,7 +22773,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "27.164"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Praterstern Bahnsteig.jpg",
@@ -16902,7 +22812,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.819"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Raucherbereich Hauptbahnhof in Favoriten.jpg",
@@ -16949,7 +22869,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.038"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Rolltreppe Bahnsteige Simmering S-Bahn Station.jpg",
@@ -16996,7 +22926,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.398"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Rolltreppe Kamera Volkstheater.jpg",
@@ -17034,7 +22974,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.603"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Rolltreppe Simmering U-Bahn Station Wien.jpg",
@@ -17072,7 +23022,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.626"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Rolltreppe U-Bahn Station Enkplatz.jpg",
@@ -17128,7 +23088,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.501"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "S- und U-Bahn Station Simmering Wien.jpg",
@@ -17166,7 +23136,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.197"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Schottenpassage, BIM-Gleise & Lift.jpg",
@@ -17213,7 +23193,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.368"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Schottenpassge mit Blick auf die Votivkirche.jpg",
@@ -17269,7 +23259,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.308"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Schwarzenbergplatz Wien.jpg",
@@ -17316,7 +23316,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.890"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Simmering Schriftzug U-Bahn Station Wien.jpg",
@@ -17354,7 +23364,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.918"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Stadlau Güterwagen Wien.jpg",
@@ -17383,7 +23403,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.740"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Station Rochusgasse Wien.jpg",
@@ -17421,7 +23451,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.991"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Station Simmering BIM Wien.jpg",
@@ -17459,7 +23499,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.942"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Südtiroler Platz Hauptbahnhof Wien.jpg",
@@ -17515,7 +23565,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.586"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Tabak-Trafik in der Schottenpassage.jpg",
@@ -17553,7 +23613,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.016"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Trafik Station U-Bahn Station Simmering.jpg",
@@ -17600,7 +23670,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.815"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U-Bahn Sonderzug vor 3 Hochhäuser in Erdberg.jpg",
@@ -17656,7 +23736,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.240"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U-Bahn Station 'Neue Donau'.jpg",
@@ -17703,7 +23793,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.596"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U-Bahn Station Landstrasse U2 und U4.jpg",
@@ -17759,7 +23859,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.436"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U-Bahn Station Rossauer Lände Alsergrund.jpg",
@@ -17806,7 +23916,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.240"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U-Bahn Station Rossauer Lände Aussen Alsergrund.jpg",
@@ -17853,7 +23973,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.625"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U-Bahn Station Rossauer Lände Eingang Alsergrund.jpg",
@@ -17909,7 +24039,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "60.146"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U-Bahn Station Simmering Aussen.jpg",
@@ -17947,7 +24087,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.278"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U-Bahn Station Spittelau.jpg",
@@ -17985,7 +24135,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.530"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U-Bahn Station Volkstheater Wandmosaik.jpg",
@@ -18032,7 +24192,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.932"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U-Bahn Station Vorgartenstrasse.jpg",
@@ -18070,7 +24240,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.645"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U-bahn Fensterblick Wien.jpg",
@@ -18126,7 +24306,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.248"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "U3 Bahnsteig Gasometer.jpg",
@@ -18164,7 +24354,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.028"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Universität Wien Schottentor Innere Stadt.jpg",
@@ -18211,7 +24411,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.403"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Wandgemälde in der U-Bahn Station Stubentor.jpg",
@@ -18258,7 +24468,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.205"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Wien Hauptbahnhof Schriftzug Südtiroler Platz Favoriten.jpg",
@@ -18287,7 +24507,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.309"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Zentralfriedhof S-Bahn Station Simmering.jpg",
@@ -18334,7 +24564,17 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.361"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Zwei U-Bahn Garnituren auf Gleisen und ein Bahnsteig davor.jpg",
@@ -18381,11 +24621,31 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.365"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
       }
     ],
     "timeframe": "11. April 2024 - 14. August 2025",
-    "imageCount": 70
+    "imageCount": 70,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt"
+    ]
   },
   {
     "name": "ostsee",
@@ -18447,7 +24707,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.976"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Hotel Neptun im Rostock-Warnemünde mit Strand bei klaren blauen Himmel.jpg",
@@ -18503,7 +24774,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.658"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Sandboden und die Ostsee in Sassnitz auf Rügen.jpg",
@@ -18532,7 +24814,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "21.928"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "St.-Nikolai-Kirche von Stralsund.jpg",
@@ -18579,7 +24872,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "57.866"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Verwaiste Ferienanlage Prora auf Rügen.jpg",
@@ -18626,7 +24930,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.389"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Werbeplakate für Tabakwaren und Graffitti-Gekritzel in der Innenstadt von Stralsund bei Nacht.jpg",
@@ -18664,11 +24979,33 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.269"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       }
     ],
     "timeframe": "30. März 2019 - 1. April 2019",
-    "imageCount": 6
+    "imageCount": 6,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Deutschland",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Meer"
+    ]
   },
   {
     "name": "parks",
@@ -18712,7 +25049,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "27.621"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Bäume im Auer-Wellsbach Park Wien.jpg",
@@ -18741,7 +25089,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.561"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Der Hyblerpark in Simmering Wien.jpg",
@@ -18779,7 +25138,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.993"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Donau & Donauturm von der Blickrichtung Handelskai.jpg",
@@ -18817,7 +25187,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.259"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Donauinsel Brücke Wien.jpg",
@@ -18873,7 +25254,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.289"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Donauinsel DC Tower Wien.jpg",
@@ -18929,7 +25321,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.744"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Donauinsel Hausschiff Wien.jpg",
@@ -18967,7 +25370,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.819"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Donauinsel Wien.jpg",
@@ -19023,7 +25437,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "55.555"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Ein Metallzaun vor einer kleinen Hütte in Wien Simmering.jpg",
@@ -19052,7 +25477,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.008"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Herderpark in Wien Simmering.jpg",
@@ -19108,7 +25544,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.258"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Kein Sport auf der Donuainsel - Alte Donau in Wien.jpg",
@@ -19164,7 +25611,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.163"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Musiker Votivkirche Alsergrund Wien.jpg",
@@ -19202,7 +25660,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.509"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Park Simmering Wien.jpg",
@@ -19240,7 +25709,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.385"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Park und Yoga-Gruppe im Auer-Wellsbach-Park.jpg",
@@ -19296,7 +25776,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.596"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Votivkirche mit Fussgänger und Hund davor.jpg",
@@ -19343,7 +25834,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.653"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Votivkirche und Grünfläche mit Fussweg und den dahinterliegenden Häusern.jpg",
@@ -19399,7 +25901,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.459"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Wiese im Türkenschanzpark Wien.jpg",
@@ -19437,11 +25950,33 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.386"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       }
     ],
     "timeframe": "27. März 2024 - 13. August 2025",
-    "imageCount": 17
+    "imageCount": 17,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Landschaft",
+      "Stadt",
+      "Park"
+    ]
   },
   {
     "name": "porto",
@@ -19485,7 +26020,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.365"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Alte und moderne Architektur.jpg",
@@ -19523,7 +26070,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.501"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Altes Gebäude.jpg",
@@ -19561,7 +26120,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.607"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Altes Haus und Villa Nova de Gaia.jpg",
@@ -19599,7 +26170,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.593"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Altstadt Modern.jpg",
@@ -19646,7 +26229,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.879"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Ausblick Balkon Laranjas.jpg",
@@ -19702,7 +26297,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.807"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Blume am Strand Miramar in.jpg",
@@ -19749,7 +26356,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.956"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Casa de Musica Seitlich.jpg",
@@ -19796,7 +26415,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.740"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Casa de Musica Skater.jpg",
@@ -19852,7 +26483,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.883"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Casa de Musica Südeingang.jpg",
@@ -19908,7 +26551,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "57.131"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Casa de Musica Totale.jpg",
@@ -19955,7 +26610,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.866"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Dunkle Gasse in der Nacht.jpg",
@@ -19993,7 +26660,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.389"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Flughafen Porto Architektur.jpg",
@@ -20031,7 +26710,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.847"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Flughafen Taxi und Auto-Stand Porto.jpg",
@@ -20051,7 +26742,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.763"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Flughafen-Halle.jpg",
@@ -20089,7 +26792,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.271"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Fluss Porto.jpg",
@@ -20127,7 +26842,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.766"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Häuser und Stadt-Blick.jpg",
@@ -20174,7 +26901,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.127"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Jugendstil - Imperialer McDonalds.jpg",
@@ -20230,7 +26969,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.917"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Jugendstil-Bahnsteig-Uhr in Sao Bento.jpg",
@@ -20259,7 +27010,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.359"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Kapelle am Strand Miramar an der Atlantikküste.jpg",
@@ -20306,7 +27069,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.518"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Moderne Struktur.jpg",
@@ -20344,7 +27119,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.561"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Palacio de la Justice.jpg",
@@ -20382,7 +27169,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.655"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Platz Aliados mit Bäumen.jpg",
@@ -20429,7 +27228,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.128"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Platz mit Kirche.jpg",
@@ -20476,7 +27287,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.930"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Platz mit Palmen.jpg",
@@ -20523,7 +27346,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.205"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Platz nahe Harry Potter Bücherei.jpg",
@@ -20579,7 +27414,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.147"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Ponte Louis Porto von Villa Nova de Gaia gesehen.jpg",
@@ -20626,7 +27473,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.926"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Ponte Louis Porto.jpg",
@@ -20682,7 +27541,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.570"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Ponte de Louis und Villa Nova de Gaia bei Nacht.jpg",
@@ -20738,7 +27609,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.173"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Ribera de Porto.jpg",
@@ -20794,7 +27677,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "56.427"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Rolltreppe Öffis Porto.jpg",
@@ -20832,7 +27727,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.882"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Rua de Almada bei Nacht.jpg",
@@ -20861,7 +27768,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.166"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Rua de Almada.jpg",
@@ -20890,7 +27809,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.166"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Rua de Flores 2.jpg",
@@ -20937,7 +27868,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.059"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Rua de Flores.jpg",
@@ -20993,7 +27936,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.659"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Salzburg Airport Treppe.jpg",
@@ -21031,7 +27986,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.073"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Salzburg Airport.jpg",
@@ -21087,7 +28054,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.539"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Sao Bento Bahnsteige 2.jpg",
@@ -21143,7 +28122,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.899"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Sao Bento Bahnsteige.jpg",
@@ -21190,7 +28181,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.958"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Sao Bento Fenster.jpg",
@@ -21237,7 +28240,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.092"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Sao Bento Fliesen.jpg",
@@ -21275,7 +28290,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.244"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Sao Bento Innen.jpg",
@@ -21322,7 +28349,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.608"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Sao Bento Schriftzug U-Bahn.jpg",
@@ -21342,7 +28381,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "21.064"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Sao Bento und alte Gebäude.jpg",
@@ -21389,7 +28440,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.964"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Se de Porto Altstadt.jpg",
@@ -21427,7 +28490,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.949"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Se de Porto Dom.jpg",
@@ -21465,7 +28540,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "59.195"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Sessel in Strandbar am Atlantik.jpg",
@@ -21503,7 +28590,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.039"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Stadtansicht 2.jpg",
@@ -21541,7 +28640,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.980"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Stadtansicht mit Torres.jpg",
@@ -21579,7 +28690,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.409"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Stadtansicht.jpg",
@@ -21617,7 +28740,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.722"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Statue bei Se de Porto und Stadtansicht.jpg",
@@ -21673,7 +28808,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "61.148"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Steine am Strand Miramar .jpg",
@@ -21720,7 +28867,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.350"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Steine am Strand Miramar am Atlantik.jpg",
@@ -21758,7 +28917,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.510"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Strasse mit Ampeln.jpg",
@@ -21796,7 +28967,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.618"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Street Art Katze in Blau auf einer Hauswand in der Innenstadt.jpg",
@@ -21852,7 +29035,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.146"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Super Bock Werbe-Banner am Flughafen.jpg",
@@ -21908,7 +29103,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.498"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Trindade Auto-Parkhaus mit verweilenden Menschen.jpg",
@@ -21955,7 +29162,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.749"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Villa Nova und Porto (Totale).jpg",
@@ -22002,7 +29221,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.993"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Zaun und Stadtansicht bei Nacht.jpg",
@@ -22040,7 +29271,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.117"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Zimmer im Hotel Laranjas.jpg",
@@ -22087,7 +29330,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.628"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       },
       {
         "filename": "Öffis Eingang.jpg",
@@ -22134,17 +29389,41 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.518"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Portugal",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer",
+          "Fluss"
+        ]
       }
     ],
     "timeframe": "29. März 2025 - 2. April 2025",
-    "imageCount": 61
+    "imageCount": 61,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Portugal",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Meer",
+      "Fluss"
+    ]
   },
   {
     "name": "prater",
     "slug": "prater",
     "title": "Prater",
-    "description": "",
+    "description": "Heustadlwasser and Autobahnbrücken",
     "images": [
       {
         "filename": "'Donau Business Center' Praterkai.jpg",
@@ -22200,7 +29479,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.806"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "'Stadtwanderweg 9' Schild in der Hauptallee.jpg",
@@ -22238,7 +29528,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.128"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "'Volkswohnhaus' Schriftzug Gemeinwohnbau-Fassade.jpg",
@@ -22285,7 +29586,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.812"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Beschmierte Betonwand mit Baum davor im Prater.jpg",
@@ -22332,7 +29644,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.681"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Blick auf Bäume zwischen Autobahnbrücke und Schotterweg.jpg",
@@ -22379,7 +29702,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.917"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Blick über das Obere Heustadlwasser .jpg",
@@ -22417,7 +29751,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.177"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Ein leeres Fussballfeld mit einem Tor und einer Laufbahn im Prater.jpg",
@@ -22464,7 +29809,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.417"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Eine Bank vor einem Gehweg und Spielplatz.jpg",
@@ -22511,7 +29867,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.962"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Stiege auf Gehweg und Wiese.jpg",
@@ -22549,7 +29916,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.242"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Strommast beim einem Kleingartenverein.jpg",
@@ -22587,7 +29965,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.795"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Unteres Heustadlwasser - Bäume und Reflexionen im Wasser.jpg",
@@ -22634,7 +30023,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.068"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Weg mit Bäumen und blauem Himmel.jpg",
@@ -22681,7 +30081,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.650"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       },
       {
         "filename": "Zwei Bänke & ein Aschenbecher vor einem Bürohaus am Praterkai.jpg",
@@ -22710,11 +30121,33 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.369"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
       }
     ],
     "timeframe": "3. August 2025",
-    "imageCount": 13
+    "imageCount": 13,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Landschaft",
+      "Stadt",
+      "Park"
+    ]
   },
   {
     "name": "pride",
@@ -22758,7 +30191,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.882"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Stadt",
+          "Architektur",
+          "Fest"
+        ]
       },
       {
         "filename": "Mensch mit Fahnen.jpg",
@@ -22814,7 +30258,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.088"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Stadt",
+          "Architektur",
+          "Fest"
+        ]
       },
       {
         "filename": "Menschemenge auf der Ringstrasse.jpg",
@@ -22861,7 +30316,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.910"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Stadt",
+          "Architektur",
+          "Fest"
+        ]
       },
       {
         "filename": "Menschemenge und Wagen.jpg",
@@ -22917,7 +30383,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "55.152"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Stadt",
+          "Architektur",
+          "Fest"
+        ]
       },
       {
         "filename": "Menschenmenge und Fahnen auf Pride Wien.jpg",
@@ -22973,7 +30450,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.489"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Stadt",
+          "Architektur",
+          "Fest"
+        ]
       },
       {
         "filename": "Menschenmenge und Regebogen-Schirm Pride Innere Stadt Wien.jpg",
@@ -23029,7 +30517,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "53.864"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Stadt",
+          "Architektur",
+          "Fest"
+        ]
       },
       {
         "filename": "Menschenmenge und Wagen 2.jpg",
@@ -23076,7 +30575,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.632"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Stadt",
+          "Architektur",
+          "Fest"
+        ]
       },
       {
         "filename": "Menschenmenge und Wagen mit Nebelmaschine.jpg",
@@ -23132,7 +30642,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "53.922"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Stadt",
+          "Architektur",
+          "Fest"
+        ]
       },
       {
         "filename": "Menschenmenge vor dem Gartenbaukino.jpg",
@@ -23179,11 +30700,33 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.603"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Stadt",
+          "Architektur",
+          "Fest"
+        ]
       }
     ],
     "timeframe": "14. Juni 2025",
-    "imageCount": 9
+    "imageCount": 9,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Stadt",
+      "Architektur",
+      "Fest"
+    ]
   },
   {
     "name": "salzburg",
@@ -23227,7 +30770,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.594"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Ausblick über Salzburg Stadt von der Imlauer Sky Bar.jpg",
@@ -23265,7 +30819,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.220"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Baptisten Kirche in Lehen.jpg",
@@ -23321,7 +30886,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.698"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Blick auf Laufen an der Salzach von Oberndorf bei Salzburg.jpg",
@@ -23350,7 +30926,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.405"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Blick auf die Bäume.jpg",
@@ -23397,7 +30984,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.405"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Der Südtiroler-Platz am Hauptbahnhof.jpg",
@@ -23453,7 +31051,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.538"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Die Glan in Lehen.jpg",
@@ -23482,7 +31091,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.882"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Die Glanbrücke stadtauswärts in Lehen.jpg",
@@ -23529,7 +31149,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.826"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Gebäude in Lehen.jpg",
@@ -23558,7 +31189,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.246"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Gekritzel in Maxglan.jpg",
@@ -23605,7 +31247,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.219"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Haus in Lehen.jpg",
@@ -23643,7 +31296,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.897"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Kunst in der Nähe der Stiegl-Brauerei.jpg",
@@ -23690,7 +31354,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.800"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Parkplatz Ignaz-Harrer-Strasse Lehen.jpg",
@@ -23737,7 +31412,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.476"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Spielplatz in Lehen.jpg",
@@ -23784,7 +31470,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.163"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Vordach der Neuen MItte Lehen und das Haus in Blau-Gelb gegenüber.jpg",
@@ -23831,7 +31528,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.120"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       },
       {
         "filename": "Wohnhaus in Lehen Salzburg.jpg",
@@ -23869,11 +31577,33 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.437"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
       }
     ],
     "timeframe": "6. April 2024 - 18. Mai 2025",
-    "imageCount": 16
+    "imageCount": 16,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Salzburg",
+      "Österreich",
+      "Landschaft",
+      "Architektur",
+      "Park"
+    ]
   },
   {
     "name": "salzkammergut",
@@ -23926,7 +31656,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "53.139"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "'Fat Car' von Erwin Wurm.jpg",
@@ -23964,7 +31707,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.239"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "'Fat House' von Erwin Wurm.jpg",
@@ -24011,7 +31767,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.228"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "'Gurke' von Erwin Wurm.jpg",
@@ -24067,7 +31836,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "57.828"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "'Herbert von Karajan' von Erwin Wurm.jpg",
@@ -24105,7 +31887,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.639"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "'Hoody' von Erwin Wurm.jpg",
@@ -24152,7 +31947,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.546"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "Ausblick vom Marmorschlössl auf den Garten.jpg",
@@ -24199,7 +32007,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.884"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "Erwin Wurm 'Würste'.jpg",
@@ -24246,7 +32067,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.946"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "Erwin Wurm Ausstellungs-Reklame im Marmorschlössl.jpg",
@@ -24293,7 +32127,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.792"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "Garten in der Kaiservilla.jpg",
@@ -24340,7 +32187,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.250"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "Schiefes Schiff von Erwin Wurm.jpg",
@@ -24387,7 +32247,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.864"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "Skulptur von Erwin Wurm.jpg",
@@ -24425,7 +32298,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.894"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       },
       {
         "filename": "Wärmekissen aus Glas von Erwin Wurm.jpg",
@@ -24463,11 +32349,37 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.353"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Öberösterreich",
+          "Österreich",
+          "Landschaft",
+          "Museum",
+          "Kunst",
+          "Skulpturen",
+          "Park"
+        ]
       }
     ],
     "timeframe": "24. August 2025",
-    "imageCount": 13
+    "imageCount": 13,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Öberösterreich",
+      "Österreich",
+      "Landschaft",
+      "Museum",
+      "Kunst",
+      "Skulpturen",
+      "Park"
+    ]
   },
   {
     "name": "schweiz",
@@ -24529,7 +32441,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.879"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Adrian von Bubenberg Statue in Bern.jpg",
@@ -24576,7 +32502,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.739"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Altes Gebäude und Schilder am Züricher Hauptbahnhof.jpg",
@@ -24614,7 +32554,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.367"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Aufgang zu Hauptbahnhof Bern vom Bahnsteig.jpg",
@@ -24670,7 +32624,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.406"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Aufgang zum Bahnhof Bern von der Innenstadtseite.jpg",
@@ -24717,7 +32685,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.252"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Ausblick auf Bern kleiner Schanze aus.jpg",
@@ -24755,7 +32737,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.095"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Bahnsteige und einfallende Sonne in Zürich Hauptbahnhof.jpg",
@@ -24802,7 +32798,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.790"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Basel SBB Bahnsteige von oben.jpg",
@@ -24858,7 +32868,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.637"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Berner-Bär im Freibad an der Aare.jpg",
@@ -24905,7 +32929,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.467"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Berner-Münster (Dom) von der Matte.jpg",
@@ -24943,7 +32981,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.809"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Blick auf Zug durch Glas in Olten Hauptbahnhof.jpg",
@@ -24972,7 +33024,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.828"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Blick über Bern und die Aare von der Matte aus.jpg",
@@ -25001,7 +33067,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.570"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Blick über Bern von der Matte aus.jpg",
@@ -25039,7 +33119,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.378"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Blick vom Zug auf den Bahnsteig in Zürich Hauptbahnhof.jpg",
@@ -25095,7 +33189,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.593"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Brücke über die Aare in Bern.jpg",
@@ -25133,7 +33241,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.810"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Bundeshaus und Schwimmbad an der Aare in Bern.jpg",
@@ -25180,7 +33302,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.397"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Die Flaggen von Thun und Bern auf einem Gebäude.jpg",
@@ -25227,7 +33363,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.014"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Dinosaurier-Statue auf Kiosk-Dach in Thun.jpg",
@@ -25283,7 +33433,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.051"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Ein Mann springt von der Brücke in Aare.jpg",
@@ -25321,7 +33485,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.199"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Einfahrt Bern Hauptbahnhof durch Glas.jpg",
@@ -25341,7 +33519,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "28.945"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Einfahrt in den Bahnhof Zürich.jpg",
@@ -25370,7 +33562,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.269"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Freibad in Bern an der Aare.jpg",
@@ -25426,7 +33632,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.411"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Hauptbahnhof Zürich und Tram-Station mit Gleisen.jpg",
@@ -25464,7 +33684,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.907"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Holz-Dachkonstrukion des Berner Hauptbahnhofs.jpg",
@@ -25502,7 +33736,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.739"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Kind mit Schwimmmreifen in der Aare in Thun.jpg",
@@ -25540,7 +33788,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "26.430"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Kunstwerk am Thuner See.jpg",
@@ -25578,7 +33840,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.269"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Mittelstrasse in Bern bei Nacht.jpg",
@@ -25616,7 +33892,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.057"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Park-Eingang mit dem Berner-Bär in Stahlguss .jpg",
@@ -25645,7 +33935,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.210"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Pelikan-Schwimmreifen in Bern.jpg",
@@ -25701,7 +34005,91 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.134"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
+      },
+      {
+        "filename": "Raucherbereich am Bahnsteig in Basel SBB.jpg",
+        "latitude": 47.546694,
+        "longitude": 7.590817,
+        "createDate": "2025-08-17T16:06:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                130,
+                110
+              ],
+              "hex": "#a0826e",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                30
+              ],
+              "hex": "#281e1e",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                0,
+                100,
+                170
+              ],
+              "hex": "#0064aa",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                240,
+                180,
+                30
+              ],
+              "hex": "#f0b41e",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "37.460"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "SBB Zug Bern-Basel.jpg",
@@ -25757,7 +34145,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.798"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "SBB-Logo am Bahnsteig am Züricher Hauptbahnhf.jpg",
@@ -25804,7 +34206,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.187"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Schiff in der Aare bei Thun.jpg",
@@ -25842,7 +34258,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.302"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Schloss am Thuner See.jpg",
@@ -25898,7 +34328,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.250"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Schotter-Inseln in der Aare.jpg",
@@ -25936,7 +34380,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.386"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Strassenfest in der Hallerstrasse.jpg",
@@ -25974,7 +34432,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.843"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Surfer am Thuner See.jpg",
@@ -26012,7 +34484,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "27.675"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Surfer in der Aare in Thun.jpg",
@@ -26050,7 +34536,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.650"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Thuner Amtsanzeiger Redaktion in Thun.jpg",
@@ -26097,7 +34597,21 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.276"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       },
       {
         "filename": "Tram-Station und Gleise bei Zürich Hauptbahnhof.jpg",
@@ -26144,11 +34658,39 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.650"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Schweiz",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Skulpturen",
+          "See",
+          "Fluss"
+        ]
       }
     ],
     "timeframe": "15. August 2025 - 17. August 2025",
-    "imageCount": 39
+    "imageCount": 40,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Schweiz",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Kunst",
+      "Skulpturen",
+      "See",
+      "Fluss"
+    ]
   },
   {
     "name": "sonstwo-und-allfaelliges",
@@ -26192,7 +34734,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.716"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Ausblick in Kleingröpfritz auf eine Scheune und Feld.jpg",
@@ -26221,7 +34776,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.496"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Bahngleise am Hauptbahnhof Karlsruhe.jpg",
@@ -26259,7 +34827,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.641"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Blick auf die Dresdner Innenstadt von einem Bus aus.jpg",
@@ -26297,7 +34878,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.016"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Blick über das Kleinlobmingtal.jpg",
@@ -26344,7 +34938,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.159"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Bäume auf einem Berg im Kleinlobmingtal.jpg",
@@ -26391,7 +34998,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.615"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Chillen and der Thaya unter den Trauerweiden.jpg",
@@ -26420,7 +35040,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "24.179"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Durch den Türspion in Simmering Wien.jpg",
@@ -26458,7 +35091,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.562"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Eine Luftaufnahme von Stammersdorf als Wandbild in einem Heurigen in Stammersdorf.jpg",
@@ -26496,7 +35142,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.717"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Elster im tschechischen Wald.jpg",
@@ -26534,7 +35193,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.023"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Ferienhaus in einer Lichtung mit Liegestühlen.jpg",
@@ -26563,7 +35235,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.633"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Foto-Kunst neben Thayabühne.jpg",
@@ -26610,7 +35295,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "27.574"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Gleise einer Tram in Karlsruhe bei Nacht.jpg",
@@ -26639,7 +35337,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.017"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Gummi-Stiefel-Brunnen in Kleingöpfritz bei Nacht.jpg",
@@ -26695,7 +35406,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.163"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Henry Kissinger Portraits in der Diplomatischen Akademie in Wien - künstlerisch Gedreht.jpg",
@@ -26742,7 +35466,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.038"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Kegelbahn Aussenaufnahme.jpg",
@@ -26798,7 +35535,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.977"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Kegelbahn mit Kegelmaschine.jpg",
@@ -26845,7 +35595,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.705"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Kegelbahn mit Kugeln.jpg",
@@ -26883,7 +35646,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.493"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Kleingöpfritz.jpg",
@@ -26921,7 +35697,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.741"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Rettungsring  an der Thaya.jpg",
@@ -26959,7 +35748,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.008"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Saxophon Konzert Hauptbühne.jpg",
@@ -27015,7 +35817,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.966"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Schnupperabend Bridge und Katzen Schaufenster.jpg",
@@ -27071,7 +35886,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.026"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Statue eines Mannes mit Kind auf seinen Schultern.jpg",
@@ -27127,7 +35955,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.091"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Statue und Neo-Antikes Gebäude in Karlsruhe.jpg",
@@ -27174,7 +36015,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.060"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Sternenhimmel Kleinlobming Steiermark.jpg",
@@ -27194,7 +36048,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "5.385"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Thayabühne auf den Musiktagen.jpg",
@@ -27250,7 +36117,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.852"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Toi Toi auf Holz-Baugerüst in Wien.jpg",
@@ -27297,7 +36177,20 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.287"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       },
       {
         "filename": "Verlassenes Gebäude.jpg",
@@ -27344,11 +36237,37 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.079"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
       }
     ],
     "timeframe": "18. Februar 2024 - 21. August 2025",
-    "imageCount": 28
+    "imageCount": 28,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Deutschland",
+      "Architektur",
+      "Stadt",
+      "Landschaft",
+      "Sonstiges",
+      "Parks"
+    ]
   },
   {
     "name": "symbole",
@@ -27401,7 +36320,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.902"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Mama' Graffitti in Simmering.jpg",
@@ -27439,7 +36369,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.458"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Metropolis' Plakat Heidi Horten Collection.jpg",
@@ -27468,7 +36409,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.537"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Normal' Graffitti auf Betonstempen.jpg",
@@ -27524,7 +36476,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.852"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Otto' Graffitti.jpg",
@@ -27562,7 +36525,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "20.819"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Ruhe' Graffitti in der Simmeringer-Hauptstrasse.jpg",
@@ -27609,7 +36583,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.283"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Thailändische Spezialitäte' Auslage in der Kaiser-Ebersdorfer-Strasse.jpg",
@@ -27638,7 +36623,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "27.270"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Ugly' Graffitti in Meidling.jpg",
@@ -27694,7 +36690,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.211"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Unter der Kirche' Strassenschild Simmering.jpg",
@@ -27732,7 +36739,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.856"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Visitenkarten' Fenster-Schriftzug in der Schwarzspanierstrasse.jpg",
@@ -27761,7 +36779,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.337"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Vorsicht Starkstrom' Schild.jpg",
@@ -27799,7 +36828,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "22.920"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Westbahnpark Jetzt' Sticker.jpg",
@@ -27846,7 +36886,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.171"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "'Wienliebe' Schriftzug Rathauspark.jpg",
@@ -27902,7 +36953,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.750"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Bier Plastik-Werbeaufsteller auf einer kleinen Hütte.jpg",
@@ -27931,7 +36993,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.741"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Erwin Wurm Skulptur im Hanuschhof.jpg",
@@ -27987,7 +37060,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.122"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Gelber Postkasten beim Gasometer.jpg",
@@ -28025,7 +37109,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.018"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Goldener Apfel im Hanuschhof.jpg",
@@ -28081,7 +37176,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.105"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Graffitti 'Fuck Love' und Hunde-Bild auf einer Well-Blech-Wand.jpg",
@@ -28110,7 +37216,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.088"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Graffitti 'Kek' in der Lorystrasse.jpg",
@@ -28157,7 +37274,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.073"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Graffitti Smiley auf einer Mauer Litschau.jpg",
@@ -28177,7 +37305,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.642"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Graffitti-Tag 'Gurk' auf der Schmelzrampe.jpg",
@@ -28224,7 +37363,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.899"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Graffitti-Tags auf einer Well-Blech-Wand.jpg",
@@ -28262,7 +37412,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.899"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Grillhendl-Wagen auf einem Parkplatz.jpg",
@@ -28318,7 +37479,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.545"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Kaos Graffitti in Brigittenau.jpg",
@@ -28374,7 +37546,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.738"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Kinderwagenraum-Schild mit Videoüberwachungsinformation.jpg",
@@ -28421,7 +37604,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "24.607"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Kursalon Hübner Eingang - Gesperrt wegen Bauarbeiten.jpg",
@@ -28468,7 +37662,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.008"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "LKW 'Schön ist es ein Ziel zu haben' nähe Schottentor.jpg",
@@ -28506,7 +37711,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.771"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "S-Bahn Unterführung Fahrradweg.jpg",
@@ -28553,7 +37769,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.286"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Schaufenster des Magistrats in Rudolfsheim-Fünfhaus.jpg",
@@ -28600,7 +37827,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.740"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Schild der Garage Capricorn am Schwedenplatz.jpg",
@@ -28647,7 +37885,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.465"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Schöne Fassade.jpg",
@@ -28703,7 +37952,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.753"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Tafelspitz Schild bei Schönbrunn Wien.jpg",
@@ -28750,7 +38010,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.279"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Veränderung ist schwer Schriftzug Simmering Wien.jpg",
@@ -28779,7 +38050,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "24.442"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       },
       {
         "filename": "Wien Leuchtet Schriftzug nahe Handelskai Brigittenau.jpg",
@@ -28835,11 +38117,33 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.209"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
       }
     ],
     "timeframe": "11. April 2024 - 9. August 2025",
-    "imageCount": 34
+    "imageCount": 34,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Typografie",
+      "Sonstiges"
+    ]
   },
   {
     "name": "valencia",
@@ -28892,7 +38196,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.232"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Blick über die Dächer der Innenstand.jpg",
@@ -28948,7 +38263,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.560"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Bunte Fassaden.jpg",
@@ -28995,7 +38321,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.702"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Ciutat de les Arts i les Ciències Stufen und Moderne Architektur.jpg",
@@ -29033,7 +38370,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "27.475"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Flamingos vor einem Back im Tiergarten.jpg",
@@ -29071,7 +38419,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.115"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Flughafen von Valencia Ankunft.jpg",
@@ -29127,7 +38486,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.670"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Hauptplatz und Markt.jpg",
@@ -29183,7 +38553,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "56.122"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Hauptplatz und Palmen.jpg",
@@ -29239,7 +38620,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "56.812"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Markthalle von Aussen.jpg",
@@ -29286,7 +38678,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.834"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Modernes Gebäude am Hafen.jpg",
@@ -29342,7 +38745,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.564"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Strandpromenade.jpg",
@@ -29398,7 +38812,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.890"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Street Art Mann.jpg",
@@ -29427,7 +38852,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.686"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Street Art Salamander.jpg",
@@ -29456,7 +38892,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "16.667"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "U-Bahn Station mit bunten Fliesen.jpg",
@@ -29512,7 +38959,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.788"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Umgefallener Stein-Poller.jpg",
@@ -29541,7 +38999,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.190"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Valencia Station North von Innen.jpg",
@@ -29579,7 +39048,18 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.099"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       },
       {
         "filename": "Zwei Buffallos liegen in der Weide am Tiergarten.jpg",
@@ -29617,11 +39097,33 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.362"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Spanien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Meer"
+        ]
       }
     ],
     "timeframe": "30. März 2023 - 2. April 2023",
-    "imageCount": 17
+    "imageCount": 17,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Spanien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Meer"
+    ]
   },
   {
     "name": "wien",
@@ -29665,7 +39167,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "25.898"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Damen - Hair Laser - Herren' Schriftzug in der Grillgasse.jpg",
@@ -29712,7 +39230,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.174"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Einfahrt freihalten' Schild auf einem Zaun vor einem Baugrund.jpg",
@@ -29759,7 +39293,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.903"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "'Gartenbaukino' Schriftzug am Stubenring.jpg",
@@ -29806,7 +39356,95 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.757"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "'Wien Energie' Gebäude in Spittelau.jpg",
+        "latitude": 48.233533,
+        "longitude": 16.362086,
+        "createDate": "2025-08-26T17:54:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                140,
+                190,
+                220
+              ],
+              "hex": "#8cbedc",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                110,
+                130,
+                150
+              ],
+              "hex": "#6e8296",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                130,
+                50,
+                40
+              ],
+              "hex": "#823228",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "52.100"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "3 Hochhäuser und Fuss- und Fahrradgeländer bei Prater-Erdberg.jpg",
@@ -29835,7 +39473,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.944"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "3 Hochhäuser und die Autobahn bei Prater-Erdberg.jpg",
@@ -29891,7 +39545,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.454"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "3 Hochhäuser und ein Fussgängerweg in Erdberg.jpg",
@@ -29947,7 +39617,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.698"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "3 Hochhäuser und eine Fahrradauffahrt in Erdberg.jpg",
@@ -29985,7 +39671,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.343"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "3 Müllcontainer, eine Mauer und Himmel in der Lorystrasse.jpg",
@@ -30023,54 +39725,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.934"
-        }
-      },
-      {
-        "filename": "76A Bus in der nähe des Enkplatz.jpg",
-        "latitude": 48.174133,
-        "longitude": 16.416464,
-        "createDate": "2025-04-25T15:39:08.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                240,
-                230
-              ],
-              "hex": "#f0f0e6",
-              "percentage": "0.092"
-            },
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.049"
-            },
-            {
-              "rgb": [
-                160,
-                130,
-                100
-              ],
-              "hex": "#a08264",
-              "percentage": "0.008"
-            },
-            {
-              "rgb": [
-                110,
-                70,
-                40
-              ],
-              "hex": "#6e4628",
-              "percentage": "0.008"
-            }
-          ],
-          "colorfulness": "47.569"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Abstrakt durch Glas.jpg",
@@ -30108,7 +39779,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.779"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Albertina Dachterasse Clubbing und Statue.jpg",
@@ -30155,7 +39842,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.812"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Albin Hirsch Patz in der Lorystrasse.jpg",
@@ -30184,7 +39887,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.837"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Albin-Hirsch-Platz und Grünfläche in Simmering.jpg",
@@ -30231,7 +39950,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.814"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Anton-Schmid-Hof Wien .jpg",
@@ -30278,7 +40013,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.160"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Arena Wien bei Nacht.jpg",
@@ -30334,7 +40085,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "54.433"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Auto-Auffahrt.jpg",
@@ -30372,7 +40139,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.087"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Autobahnauffahrt und Grünfläche in der nähe der Geiereckstrasse.jpg",
@@ -30410,7 +40193,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.578"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Äußere Mariahilfer-Strasse Richtung Penzing.jpg",
@@ -30457,7 +40256,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.095"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "BIM Station und Neubau-Gürtel bei der Burggasse.jpg",
@@ -30504,7 +40319,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.402"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Basketballkäfig in Simmering.jpg",
@@ -30542,7 +40373,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.224"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Baum und Basketball-Käfig.jpg",
@@ -30571,7 +40418,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.023"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Baustelle Wien.jpg",
@@ -30600,7 +40463,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.520"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Baustelle mit Bau-Zaun und Skulptur dahinter.jpg",
@@ -30638,7 +40517,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.454"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Bäume und Büsche an der Simmeringer S-Bahn.jpg",
@@ -30676,7 +40571,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.420"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Bäume und Dächer am Donaukanal während der Dämmerung.jpg",
@@ -30723,7 +40634,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.833"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Beachvolleyball am Donaukanal.jpg",
@@ -30779,7 +40706,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "51.226"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Beschmiertes Karl-Lueger-Denkmal am Stubenring.jpg",
@@ -30817,7 +40760,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.495"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Blumen-Buquets vor einem Asphaltboden in Simmering.jpg",
@@ -30864,7 +40823,95 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.692"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Brücke über den Donuakanal in der nähe Spittelau - Alsergrund.jpg",
+        "latitude": 48.234244,
+        "longitude": 16.363053,
+        "createDate": "2025-08-26T17:57:30.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                70,
+                60,
+                60
+              ],
+              "hex": "#463c3c",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                100,
+                160,
+                200
+              ],
+              "hex": "#64a0c8",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                150,
+                190,
+                220
+              ],
+              "hex": "#96bedc",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                120,
+                110,
+                110
+              ],
+              "hex": "#786e6e",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "47.720"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Brücke über die Donauinsel in Brigittenau.jpg",
@@ -30920,7 +40967,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.365"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Das österreichische Parlament - Nordrampe.jpg",
@@ -30958,7 +41021,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "26.303"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Der Karl-Marx-Hof Gemeindebau in Heiligenstadt.jpg",
@@ -30996,7 +41075,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.818"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Durchgang Garnisongasse - Schwarzspanierstrasse, Alsergrund.jpg",
@@ -31034,7 +41129,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.387"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Durchgang zu einem Gemeindebau in Wieden.jpg",
@@ -31072,7 +41183,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.393"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Ein Gebäude mit einem 'Nimm dein Sackerl fürs Gackerl' Papp-Aufsteller davor.jpg",
@@ -31119,7 +41246,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.636"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Ein Mensch sitzt vor einem Gebäude in der Erdbergstrasse.jpg",
@@ -31148,7 +41291,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.895"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Ein Weg am Donaukanal.jpg",
@@ -31177,7 +41336,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.381"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Eingang Bank-Austria Kulturforum.jpg",
@@ -31224,7 +41399,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.993"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Eingang Belvedere am Rennweg.jpg",
@@ -31280,7 +41471,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.563"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Eingang Gemeindebau Wien.jpg",
@@ -31327,7 +41534,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.610"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Eingang Gemeindebau.jpg",
@@ -31383,7 +41606,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.032"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Eingang und Wand-Uhr des Wiener Westbahnhofes.jpg",
@@ -31421,7 +41660,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.737"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Eingang zu einem Gemeindebau Innenhof und Park.jpg",
@@ -31468,7 +41723,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.685"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Eingang zu einem Gemeindebau nahe Rochusmarkt.jpg",
@@ -31515,7 +41786,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.567"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Eingangstor uz einem Gemeindebau in der Lorystrasse.jpg",
@@ -31562,7 +41849,68 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.027"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Eingangstür in der Simmerinnger-Haupstrasse.jpg",
+        "latitude": 48.171853,
+        "longitude": 16.418683,
+        "createDate": "2025-08-27T12:00:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                70,
+                50
+              ],
+              "hex": "#824632",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                200
+              ],
+              "hex": "#dcd2c8",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "35.070"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Engel-Statuen.jpg",
@@ -31600,7 +41948,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.320"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Evangelische Kirche Simmering.jpg",
@@ -31647,7 +42011,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "53.572"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fabriksgelände in Brigittenau.jpg",
@@ -31685,7 +42065,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "28.635"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade Cafe Weidinger am Neubau-Gürtel.jpg",
@@ -31723,7 +42119,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.687"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade der Freyung in der Inneren Stadt.jpg",
@@ -31779,7 +42191,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.882"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade der Volkshochschule Simmering Close-Up.jpg",
@@ -31808,7 +42236,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.944"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade der Votivkirche und Park davor.jpg",
@@ -31846,7 +42290,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.750"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade des Salvador-Allende-Hofs in Simmering .jpg",
@@ -31884,7 +42344,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.279"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade eines Gemeindebaus in Meidling.jpg",
@@ -31931,7 +42407,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.213"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade eines Hauses in Ottakring.jpg",
@@ -31978,7 +42470,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.413"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fassade und Baum Widholz-Hof.jpg",
@@ -32025,7 +42533,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.586"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Favoritner-Gürtel bei Hauptbahnhof.jpg",
@@ -32081,7 +42605,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.941"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fensterbögen am Fuchsenfeld Meidling.jpg",
@@ -32128,7 +42668,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.591"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Flugzeug und Wohnhäuser in Wieden.jpg",
@@ -32166,7 +42722,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.793"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fussgängerweg Simmering.jpg",
@@ -32222,7 +42794,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.869"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Fussgängerweg neben der Lorystrasse.jpg",
@@ -32278,7 +42866,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.765"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Geländer und U-Bahn Station Rossauer Lände.jpg",
@@ -32316,7 +42920,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.544"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Gemeindebau am Fuchsenfeld Fassade.jpg",
@@ -32354,7 +42974,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.009"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Gemeindebau im 1. Bezirk.jpg",
@@ -32392,7 +43028,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.930"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Gemeindebau in Brigittenau.jpg",
@@ -32439,7 +43091,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.627"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Gemeindebau in Wien.jpg",
@@ -32495,7 +43163,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.669"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Gemeindebau in der Kaiser-Ebersdorfer-Strasse.jpg",
@@ -32533,7 +43217,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.994"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Gemeindebau, Baum und Grünfläche in Simmering.jpg",
@@ -32571,7 +43271,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.614"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Gemma Lugner Schriftzug am Neubau-Gürtel.jpg",
@@ -32609,7 +43325,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.359"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Geschlossene Trafik in der U-Bahn Station Volkstheater.jpg",
@@ -32647,7 +43379,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.646"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Grünfläche, Bäume und Wohnhaus am Kanal Simmering.jpg",
@@ -32685,7 +43433,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.978"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Handelskai - Millenium City Fussgängerzone.jpg",
@@ -32723,7 +43487,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.889"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Handelskai Durchgang Wehlistrasse.jpg",
@@ -32779,7 +43559,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.948"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Handelskai Fussgängeraufgang S-Bahn Station.jpg",
@@ -32826,7 +43622,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.286"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Handelskai S-Bahnstation Außenansicht Brigittenau.jpg",
@@ -32855,7 +43667,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "28.603"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Handelskai Unterführung Fussgänger und Radweg.jpg",
@@ -32893,7 +43721,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.067"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Hauptbibliothek und U-Bahn Burggasse Gürtel.jpg",
@@ -32931,7 +43775,95 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.198"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Haus-Fassade in der Simmeringer-Haupstrasse.jpg",
+        "latitude": 48.172939,
+        "longitude": 16.417714,
+        "createDate": "2025-08-27T09:28:06.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                130,
+                100
+              ],
+              "hex": "#aa8264",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                20,
+                130,
+                180
+              ],
+              "hex": "#1482b4",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                60,
+                100,
+                120
+              ],
+              "hex": "#3c6478",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "36.793"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Hochhäuser in Wien Erdberg nahe Gasometer.jpg",
@@ -32969,7 +43901,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "25.536"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Hyblerpark und Wohnhäuser.jpg",
@@ -33025,7 +43973,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.101"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Ibis Hotel Fassade Wien Erdberg.jpg",
@@ -33072,7 +44036,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.363"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Innenansicht Albert Schweitzer Haus auf die Garnisongasse.jpg",
@@ -33128,7 +44108,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.469"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Joe Strummer - The Clash Wandbild bei der Arena Wien.jpg",
@@ -33175,7 +44171,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.917"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Keiner-Stuben Cafe und Bar und Fussgängerdurchgang nahe Kardinal-Nagl-Platz.jpg",
@@ -33231,7 +44243,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.650"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Kirche Wien Penzing Breitenseerstrasse.jpg",
@@ -33269,7 +44297,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.124"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Kirche zur Auferstehung Christi.jpg",
@@ -33316,7 +44360,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.035"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Kleines Haus in Simmering.jpg",
@@ -33363,7 +44423,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.983"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Kleines Materl und Graffitti in der Geiselbergstrasse .jpg",
@@ -33419,7 +44495,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.288"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Krankenhauseingang in Brigittenau.jpg",
@@ -33457,7 +44549,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.320"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Kreisverkehr beim Zentralfriedhof Tor 11.jpg",
@@ -33495,7 +44603,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.966"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Kuppel vom Gasometer 1.jpg",
@@ -33524,7 +44648,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.433"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Laterne auf Betonplatz Brigittenau.jpg",
@@ -33553,7 +44693,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.976"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Laternen beim Hyblerpark im Regen.jpg",
@@ -33591,7 +44747,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.229"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Lorystrasse 77 in Simmering .jpg",
@@ -33629,7 +44801,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.390"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Mahnmal den Opfern des Nationalsozialismus in der Braunhubergasse.jpg",
@@ -33685,7 +44873,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.123"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Mauer, Rosen und Gemeindewohnung in Wieden.jpg",
@@ -33732,7 +44936,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.588"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Max Wopenka Hof Wandgemälde.jpg",
@@ -33779,7 +44999,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.301"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Max Wopenka Hof in der Geiselbergstrasse.jpg",
@@ -33817,7 +45053,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.035"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Milchglaswand Albert Schweitzer Haus.jpg",
@@ -33855,7 +45107,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.088"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Millenium Tower von der Donau aus.jpg",
@@ -33911,7 +45179,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.042"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Neubaugürtel und BIM Station bei der Burggasse.jpg",
@@ -33958,7 +45242,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.556"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Obst-Stand bei der Rochhusgasse.jpg",
@@ -34005,7 +45305,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.074"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Parkbank am Stuben-Ring an Stadtpark-Mauer.jpg",
@@ -34034,7 +45350,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.058"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Parlament und Athene.jpg",
@@ -34072,7 +45404,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "29.286"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Plastikfaser-Zaun, Mülltonnen und ein Haus dahinter.jpg",
@@ -34101,7 +45449,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "18.951"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Ringstrasse im Regen.jpg",
@@ -34148,7 +45512,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.155"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Rossauer Kaserne.jpg",
@@ -34186,7 +45566,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.538"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "S-Bahn Station Grillgassse.jpg",
@@ -34233,7 +45629,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.413"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "S-Bahn Station Wien Simmering.jpg",
@@ -34262,7 +45674,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.503"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Schmetterling-Attrapen an der Glas-Decke des Zentrum Simmering.jpg",
@@ -34309,7 +45737,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.073"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Schottenring.jpg",
@@ -34356,7 +45800,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.569"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Simmering U-Bahn Stadtauswärts.jpg",
@@ -34412,7 +45872,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.794"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Smiley-Satellitenantenne in der Arena Wien.jpg",
@@ -34450,7 +45926,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.297"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Sonnenschutzkonstruke bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
@@ -34497,7 +45989,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.921"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Spielplatz am Donaukanal in Alsergrund.jpg",
@@ -34544,7 +46052,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.565"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Spielplatz bei der Wohnanlage Hasenleiten.jpg",
@@ -34582,7 +46106,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.635"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Statue 4 Kinder in der Lorystrasse.jpg",
@@ -34620,7 +46160,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.125"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Statue Garnisongasse - Alsergrund.jpg",
@@ -34667,7 +46223,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.736"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Statue auf der Freyung - Innere Stadt.jpg",
@@ -34723,7 +46295,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "55.578"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Statue im Stadtpark und rote Blumen.jpg",
@@ -34761,7 +46349,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.991"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Statuen auf einem Gemeindebau.jpg",
@@ -34808,7 +46412,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.159"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Statuen benannt nach österreichischen Flüssen nahe Albertina.jpg",
@@ -34846,7 +46466,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "28.295"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Stiege und Brücke in Brigittenau.jpg",
@@ -34902,7 +46538,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.172"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Stillgelegte Fabrik in Brigittenau.jpg",
@@ -34931,7 +46583,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.870"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Strand auf Donauinsel mit Blick auf Millenium Tower.jpg",
@@ -34987,7 +46655,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.181"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Strasse mit Wohnhäusern.jpg",
@@ -35034,7 +46718,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.575"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Strasse und Unterführung in der Landstrasse.jpg",
@@ -35081,7 +46781,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.720"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Treppe Hauptbibliothek bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
@@ -35128,7 +46844,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.854"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "U-Bahn Station Stubentor Stiegen und Lifte durch Glas.jpg",
@@ -35166,7 +46898,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.411"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "U-Bahn Station und Gasometer bei Nacht.jpg",
@@ -35204,7 +46952,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.479"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "U-Bahn-Quader-Symbol bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
@@ -35251,7 +47015,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.177"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Überdachung eines Fabriksgeländes mit Sperrmüll.jpg",
@@ -35289,7 +47069,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.859"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "VHS Simmering.jpg",
@@ -35345,7 +47141,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.876"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Votivkirche bei Währingerstrasse Alsergrund.jpg",
@@ -35383,7 +47195,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.577"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Weg zum im Hyblerpark Richtung Gasometer.jpg",
@@ -35412,7 +47240,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.373"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Weisse Rose in einem Aschenbecher bei der U-Bahn-Station Simmering.jpg",
@@ -35450,7 +47294,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.495"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wien Energie Kraftwerk in Simmering.jpg",
@@ -35497,7 +47357,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.600"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wiener-Linien Zentrale Wien Erdberg Kunderservice.jpg",
@@ -35553,7 +47429,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.450"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wienfluss mit Universität für Angewandte Kunst.jpg",
@@ -35600,7 +47492,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.713"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wohnhaus Durchgang zu Innenhof und weiteren Wohnungen.jpg",
@@ -35638,7 +47546,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.182"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wohnhaus im Sonnenlicht in Simmering.jpg",
@@ -35676,7 +47600,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.594"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wohnhaus in Simmering.jpg",
@@ -35714,7 +47654,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.506"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wohnhaus mit Balkonen beim Rochusmarkt.jpg",
@@ -35752,7 +47708,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.853"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Wohnhausanlage in der Lorystrasse.jpg",
@@ -35808,7 +47780,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.696"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Würstelstand bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
@@ -35864,7 +47852,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.682"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Zebrastreifen in Wien Simmering.jpg",
@@ -35920,7 +47924,23 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.752"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       },
       {
         "filename": "Zebrastreifen vor dem Wienfluss in der nähe von Wien Mitte.jpg",
@@ -35949,11 +47969,43 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.278"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       }
     ],
-    "timeframe": "7. Juni 2024 - 9. August 2025",
-    "imageCount": 146
+    "timeframe": "7. Juni 2024 - 27. August 2025",
+    "imageCount": 149,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ]
   },
   {
     "name": "zentralfriedhof",
@@ -35979,7 +48031,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.228"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Altar Seitlich Kirche.jpg",
@@ -36017,7 +48081,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.659"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Altar der Kirche.jpg",
@@ -36046,7 +48122,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "25.298"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Arkaden neben der Kirche.jpg",
@@ -36093,7 +48181,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "48.506"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Aussenansicht von Tor 1.jpg",
@@ -36122,7 +48222,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.227"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Blau-Goldene Kuppel Seitlich in der Kirche.jpg",
@@ -36160,7 +48272,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.361"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Blau-Goldene Kuppel der Kirche.jpg",
@@ -36216,7 +48340,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.351"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Blumenstand am Tor 11.jpg",
@@ -36272,7 +48408,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.828"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Bundespräsidentengräber und Kirche.jpg",
@@ -36328,7 +48476,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.180"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Bänke im Detail in der Kirche.jpg",
@@ -36357,7 +48517,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.549"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Bänke in der Kirche.jpg",
@@ -36395,7 +48567,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.119"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Bänke von der Seite in der Kirche.jpg",
@@ -36433,7 +48617,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.739"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Der Weg zur Kirche.jpg",
@@ -36471,7 +48667,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.489"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Grab und Sonne Zentralfriedhof Wien.jpg",
@@ -36518,7 +48726,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.061"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Gräber Kirche Zentralfriedhof Wien.jpg",
@@ -36565,7 +48785,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.919"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Jesus-Statue in einem Seitenschiff der Kirche.jpg",
@@ -36594,7 +48826,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.488"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Karl-Lueger-Gedächtniskirche am Zentralfriedhof Wien.jpg",
@@ -36650,7 +48894,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.982"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Kirche, Gräber und Trauerweiden im Sonnenschein.jpg",
@@ -36679,7 +48935,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.465"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Kirchenbänke und Jugendstil-Fassade.jpg",
@@ -36708,7 +48976,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.641"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Lorenzo's Grab.jpg",
@@ -36755,7 +49035,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "44.741"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Priester-Statue in einem Seitenschiff der Kirche.jpg",
@@ -36784,7 +49076,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.720"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Seitengang der Kirche.jpg",
@@ -36813,7 +49117,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.318"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Sowjetisches-Denkmal.jpg",
@@ -36860,7 +49176,19 @@ export const galleries = [
             }
           ],
           "colorfulness": "47.924"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       },
       {
         "filename": "Zwischengang der Kirche.jpg",
@@ -36898,10 +49226,34 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.873"
-        }
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof"
+        ]
       }
     ],
     "timeframe": "21. Mai 2025 - 6. Juli 2025",
-    "imageCount": 24
+    "imageCount": 24,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Friedhof"
+    ]
   }
 ];

@@ -3,9 +3,9 @@ import { useRef, lazy, Suspense, useEffect, useState } from "react";
 import Navigation from "./components/layout/global/Navigation";
 import { useTheme } from "./contexts/ThemeContext";
 import CommandPalette from "./components/layout/global/CommandPalette";
-import { scan } from "react-scan";
+// import { scan } from "react-scan";
 
-scan();
+// scan();
 
 // Lazy load page components for code splitting
 const Home = lazy(() => import("./components/pages/Home"));
@@ -17,6 +17,7 @@ const Timeline = lazy(() => import("./components/pages/Timeline"));
 const MakePostcard = lazy(() => import("./components/pages/MakePostcard"));
 const Statistics = lazy(() => import("./components/pages/Statistics"));
 const Filter = lazy(() => import("./components/pages/Filter"));
+const Tags = lazy(() => import("./components/pages/Tags"));
 const ImageDetails = lazy(() => import("./components/pages/ImageDetails"));
 const NotFound = lazy(() => import("./components/pages/NotFound"));
 
@@ -115,6 +116,10 @@ function App() {
             <Route
               path="/app/filter"
               element={<Filter />}
+            />
+            <Route
+              path="/app/tags"
+              element={<Tags />}
             />
             <Route
               path="*"

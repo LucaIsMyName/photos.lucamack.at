@@ -36,7 +36,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
   const [showBottomGradient, setShowBottomGradient] = useState(false);
   const { theme, toggleTheme } = useTheme();
 
-  const navLinkClasses = (isActive: boolean, isSmall = false, hasSpacingX = true) => `block w-min py-1 ${hasSpacingX ? "px-4" : ""}  text-left ${isSmall ? "text-xs" : "text-base"} truncate ${isActive ? `underline underline-offset-4 ${theme === "light" ? "text-red-600 decoration-black" : "text-red-300 decoration-white"}` : "font-normal"}`;
+  const navLinkClasses = (isActive: boolean, isSmall = false, hasSpacingX = true) => `block w-min  ${hasSpacingX ? "px-4" : ""}  text-left ${isSmall ? "text-xs" : "py-1 text-base"} truncate ${isActive ? `underline underline-offset-4 ${theme === "light" ? "text-red-600 decoration-black" : "text-red-300 decoration-white"}` : "font-normal"}`;
 
   const handleLinkClick = () => {
     setIsMobileMenuOpen(false);
@@ -162,34 +162,41 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
               ))}
             </nav>
             <div className="mt-4">
-              <section className="flex gap-0 mb-4 px-4 gap-4">
+              <section className="flex flex-wrap gap-0 mb-4 px-4 gap-4">
                 <NavLink
                   to="/app/list"
                   title="Alle Fotos als Liste anzeigen"
-                  className={({ isActive }) => navLinkClasses(isActive, false, false)}
+                  className={({ isActive }) => navLinkClasses(isActive, true, false)}
                   onClick={handleLinkClick}>
                   Liste
                 </NavLink>
                 <NavLink
                   to="/app/map"
                   title="Alle Fotos auf einer Karte anzeigen"
-                  className={({ isActive }) => navLinkClasses(isActive, false, false)}
+                  className={({ isActive }) => navLinkClasses(isActive, true, false)}
                   onClick={handleLinkClick}>
                   Karte
                 </NavLink>
                 <NavLink
                   to="/app/filter"
                   title="Alle Fotos nach Farbe und / oder Standort Filtern"
-                  className={({ isActive }) => navLinkClasses(isActive, false, false)}
+                  className={({ isActive }) => navLinkClasses(isActive, true, false)}
                   onClick={handleLinkClick}>
                   Filter
                 </NavLink>
                 <NavLink
                   to="/app/timeline"
                   title="Alle Fotos als Timeline anzeigen"
-                  className={({ isActive }) => navLinkClasses(isActive, false, false)}
+                  className={({ isActive }) => navLinkClasses(isActive, true, false)}
                   onClick={handleLinkClick}>
                   Timeline
+                </NavLink>
+                <NavLink
+                  to="/app/tags"
+                  title="Fotoserien nach Tags filtern"
+                  className={({ isActive }) => navLinkClasses(isActive, true, false)}
+                  onClick={handleLinkClick}>
+                  Tags
                 </NavLink>
               </section>
               {pages.map((page: Page) => (
@@ -203,7 +210,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
                 </NavLink>
               ))}
             </div>
-            <div className=" mr-2">{themeToggle}</div>
+            <div className=" mr-2 mb-6">{themeToggle}</div>
           </div>
         </div>
       )}
@@ -257,7 +264,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
         </div>
 
         <div className="flex-shrink-0">
-          <section className="flex gap-4 px-4 mb-2 sm:mb-6">
+          <section className="flex flex-wrap gap-4 px-4 mb-2 sm:mb-6">
             <NavLink
               to="/app/list"
               title="Alle Fotos als Such- und Filterbare Liste"
@@ -285,6 +292,13 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
               className={({ isActive }) => navLinkClasses(isActive, true, false)}
               onClick={handleLinkClick}>
               Timeline
+            </NavLink>
+            <NavLink
+              to="/app/tags"
+              title="Fotoserien nach Tags filtern"
+              className={({ isActive }) => navLinkClasses(isActive, true, false)}
+              onClick={handleLinkClick}>
+              Tags
             </NavLink>
           </section>
           {pages.map((page: Page) => (
