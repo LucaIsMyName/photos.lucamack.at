@@ -7,6 +7,7 @@ import { useTheme } from "../../../contexts/ThemeContext";
 import { Sun, Moon, X, Menu, ChevronUp, ChevronDown } from "lucide-react";
 import Logo from "../../ui/Logo";
 import CmdkButton from "../../ui/CmdkButton";
+import { cn } from "../../../utils/cn";
 
 interface NavigationProps {
   onOpenCommandPalette?: () => void;
@@ -204,7 +205,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
                   key={page.slug}
                   to={`/page/${page.slug}`}
                   title={page.title}
-                  className={({ isActive }) => navLinkClasses(isActive, true)}
+                  className={({ isActive }) => cn(navLinkClasses(isActive, true), "py-1")}
                   onClick={handleLinkClick}>
                   {page.title}
                 </NavLink>
@@ -306,7 +307,7 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
               key={page.slug}
               to={`/page/${page.slug}`}
               title={page.title}
-              className={({ isActive }) => navLinkClasses(isActive, true)}>
+              className={({ isActive }) => cn(navLinkClasses(isActive, true), "py-1")}>
               {page.title}
             </NavLink>
           ))}

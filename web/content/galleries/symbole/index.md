@@ -8,4 +8,4 @@ tags: ["Wien", "Österreich", "Architektur", "Typografie", "Sonstiges"]
 
 # Symbole
 
-Buchstaben, Kunst & Rechtschreibfehler.
+Buchstaben, Kunst & Rechtschreibfehler

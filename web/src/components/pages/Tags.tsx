@@ -140,7 +140,7 @@ const Tags = () => {
                   {randomImage ? (
                     <img
                       loading="lazy"
-                      src={getImageUrl(gallery.slug, randomImage.filename.replaceAll(" ", "_"), 160)}
+                      src={getImageUrl(gallery.slug, randomImage.filename.replaceAll(" ", "_"), 380)}
                       alt={gallery.title}
                       width={128}
                       height={128}

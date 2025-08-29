@@ -8,4 +8,4 @@ tags: ["Österreich", "Wien", "Landschaft", "Architektur", "Stadt", "Typografie"
 
 # Wien
 
-Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner & Lueger, Licht & Schatten.
+Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner & Lueger ⸺ Licht & Schatten

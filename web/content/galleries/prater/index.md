@@ -8,4 +8,4 @@ tags: ["Wien", "Österreich", "Landschaft", "Stadt", "Park"]
 
 # Prater
 
-Heustadlwasser and Autobahnbrücken
+Heustadlwasser & Autobahnbrücken

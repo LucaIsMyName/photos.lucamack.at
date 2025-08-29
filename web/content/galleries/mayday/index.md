@@ -8,4 +8,4 @@ tags: ["Wien", "Österreich", "Park", "Architektur", "Stadt", "Fest"]
 
 # Mayday
 
-Der 1. Mai am Wiener-Rathausplatz & im Wurstelprater. Langos, Bier & Freundschaft.
+Langos, Bier & Freundschaft

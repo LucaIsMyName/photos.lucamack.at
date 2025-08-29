@@ -8,4 +8,4 @@ tags: ["Wien", "Österreich", "Landschaft", "Stadt", "Park"]
 
 # Parks
 
-Die Parks, Bäume & Grashalme Wiens.
+Die Parks, Bäume & Grashalme Wiens

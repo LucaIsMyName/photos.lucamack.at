@@ -9,4 +9,4 @@ tags: ["Wien", "Berlin", "Österreich", "Deutschland", "Architektur", "Stadt", "
 
 # Im Museum
 
-Gemälde, Skulpture, kleine Taferl & viel zum schauen.
+Gemälde, Skulpturen, kleine Taferl, viel zum schauen

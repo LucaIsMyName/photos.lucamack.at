@@ -8,4 +8,4 @@ tags: ["Schweiz", "Landschaft", "Architektur", "Stadt", "Kunst", "Skulpturen", "
 
 # Schweiz
 
-Matte, Schanzen, Schoggi & pünktliche Züge.
+1 Matte, 2 Schanzen, viel Schoggi & pünktliche Züge

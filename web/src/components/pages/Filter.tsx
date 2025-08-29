@@ -436,7 +436,7 @@ const Filter = () => {
                   className={`block overflow-hidden `}>
                   <div className="aspect-square overflow-hidden">
                     <img
-                      src={getImageUrl(image.gallery.slug, image.filename.replaceAll(" ", "_"), 380)}
+                      src={getImageUrl(image.gallery.slug, image.filename.replaceAll(" ", "_"), 160)}
                       alt={image.alt || image.filename.replaceAll("_", " ").replace(/\.[^/.]+$/, "")}
                       className="w-full h-full object-cover"
                       loading="lazy"

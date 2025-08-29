@@ -8,4 +8,4 @@ tags: ["Portugal", "Landschaft", "Architektur", "Stadt", "Meer"]
 
 # Lisboa
 
-Vale a pena a viagem, possivelmente com uma passagem só de ida.
+Vale a pena a viagem, possivelmente com uma passagem só de ida

@@ -1176,17 +1176,52 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/im-museum/image/sudbahnhof-schild-und-stiege</loc>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/big-kastenmann-von-erwin-wurm-bei-der-kaiservilla-bad-ischl</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/im-museum/image/zuerst-schlieen-wir-die-augen-dann-sehen-wir-weiter-sticker</loc>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/fat-car-von-erwin-wurm-bei-der-kaiservilla-bad-ischl</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/fat-house-von-erwin-wurm-bei-der-kaiservilla-bad-ischl</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/gurke-von-erwin-wurm-bei-der-kaiservilla-bad-ischl</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/herbert-von-karajan-von-erwin-wurm-im-marmorschlossl-bad-ischl</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/hoody-von-erwin-wurm-im-marmorschlossl-bad-ischl</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/sudbahnhof-schild-und-stiege-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/zuerst-schlieen-wir-die-augen-dann-sehen-wir-weiter-sticker-im-wien-museum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/1950-1969-beschreibungstexte-in-der-neuen-nationalgalerie</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/ausblick-vom-marmorschlossl-auf-den-garten-in-bad-ischl</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1237,6 +1272,16 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/eingang-zur-direktion-der-neuen-nationalgalerie</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/erwin-wurm-wurstel-bei-der-kaiservilla-in-bad-ischl</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/erwin-wurm-ausstellungs-reklame-im-marmorschlossl</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1311,7 +1356,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/im-museum/image/schriftzug-museum-der-stadt-wien</loc>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/schiefes-schiff-von-erwin-wurm-im-marmorschlossl-bad-ischl</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/schriftzug-museum-der-stadt-wien-im-wien-museum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1321,12 +1371,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/im-museum/image/stahl-wal-und-kutsche</loc>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/skulptur-von-erwin-wurm-bei-der-kaiservilla-bad-ischl</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/im-museum/image/stahl-wal-kutsche-und-statuen</loc>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/stahl-wal-und-kutsche-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/stahl-wal-kutsche-und-statuen-im-wien-museum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1352,6 +1407,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/von-der-decke-hangender-stahl-wahl</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/warmekissen-aus-glas-von-erwin-wurm-im-marmoschlossl-bad-ischl</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2836,76 +2896,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/big-kastenmann-von-erwin-wurm</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/fat-car-von-erwin-wurm</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/fat-house-von-erwin-wurm</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/gurke-von-erwin-wurm</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/herbert-von-karajan-von-erwin-wurm</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/hoody-von-erwin-wurm</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/ausblick-vom-marmorschlossl-auf-den-garten</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/erwin-wurm-wurste</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/erwin-wurm-ausstellungs-reklame-im-marmorschlossl</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/garten-in-der-kaiservilla</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/schiefes-schiff-von-erwin-wurm</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/skulptur-von-erwin-wurm</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/salzkammergut/image/warmekissen-aus-glas-von-erwin-wurm</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/schweiz</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -3172,6 +3162,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/foto-kunst-neben-thayabuhne</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/garten-der-kaiservilla-bei-bad-ischl</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3756,7 +3751,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/eingangstur-in-der-simmerinnger-haupstrasse</loc>
+    <loc>https://photos.lucamack.at/gallery/wien/image/eingangstur-in-der-simmeringer-hauptstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3921,7 +3916,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/haus-fassade-in-der-simmeringer-haupstrasse</loc>
+    <loc>https://photos.lucamack.at/gallery/wien/image/haus-fassade-in-der-simmeringer-hauptstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

@@ -19,6 +19,7 @@
   RewriteRule ^gallery/kleinlobming/?$ /gallery/sonstwo-und-allfaelliges [R=301,L]
   RewriteRule ^gallery/ottenstein/?$ /gallery/sonstwo-und-allfaelliges [R=301,L]
   RewriteRule ^gallery/waidhofen/?$ /gallery/sonstwo-und-allfaelliges [R=301,L]
+  RewriteRule ^gallery/salzkammergut/?$ /gallery/im-museum [R=301,L]
   
   # Default SPA handling
   RewriteRule ^index\.html$ - [L]

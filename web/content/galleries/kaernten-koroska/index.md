@@ -8,4 +8,4 @@ tags: ["Österreich", "Landschaft", "Architektur", "Stadt", "Land", "See", "Flus
 
 # Kärnten / Koroška
 
-Ab in den Süden. *Proti jugu.*
+Ab in den Süden / *Proti jugu*

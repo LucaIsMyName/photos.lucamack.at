@@ -5,7 +5,7 @@ export const galleries = [
     "name": "arsenal",
     "slug": "arsenal",
     "title": "Arsenal",
-    "description": "Spazierengehen - Vom Hauptbahnhof nach Simmering. Technologie, Bäume & Panzer.",
+    "description": "Spazierengehen - Vom Hauptbahnhof nach Simmering",
     "images": [
       {
         "filename": "Altes Backsteingebäude.jpg",
@@ -676,7 +676,7 @@ export const galleries = [
     "name": "berlin",
     "slug": "berlin",
     "title": "Berlin",
-    "description": "Schöner Dreck & neo-klassizistische-sozialistische-brutalistische Gebäude",
+    "description": "Schöner Dreck & brutale Architektur",
     "images": [
       {
         "filename": "'Absturzgefahr. Nicht betreten' Warnung bei neuer Nationalgalerie.jpg",
@@ -11213,7 +11213,7 @@ export const galleries = [
     "name": "graz",
     "slug": "graz",
     "title": "Graz",
-    "description": "Hauptplatz, viele Stufen & 1 Regenbogen.",
+    "description": "Hauptplatz, viele Stufen & 1 Regenbogen",
     "images": [
       {
         "filename": "'Würde' Graffitti Schriftzug.jpg",
@@ -13197,7 +13197,7 @@ export const galleries = [
     "name": "im-museum",
     "slug": "im-museum",
     "title": "Im Museum",
-    "description": "Gemälde, Skulpture, kleine Taferl & viel zum schauen.",
+    "description": "Gemälde, Skulpturen, kleine Taferl, viel zum schauen",
     "images": [
       {
         "filename": "'Analoge Systeme' Gemälde in der neuen Nationalgalerie.jpg",
@@ -13273,7 +13273,382 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Südbahnhof' Schild und Stiege.jpg",
+        "filename": "'Big Kastenmann' von Erwin Wurm bei der Kaiservilla Bad-Ischl.jpg",
+        "latitude": 47.715053,
+        "longitude": 13.620411,
+        "createDate": "2025-08-24T10:15:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                220,
+                230
+              ],
+              "hex": "#fadce6",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                60
+              ],
+              "hex": "#a0a03c",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                30,
+                180,
+                230
+              ],
+              "hex": "#1eb4e6",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "53.139"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "'Fat Car' von Erwin Wurm bei der Kaiservilla Bad-Ischl.jpg",
+        "latitude": 47.715394,
+        "longitude": 13.621211,
+        "createDate": "2025-08-24T11:06:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                150,
+                40
+              ],
+              "hex": "#a09628",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "36.239"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "'Fat House' von Erwin Wurm bei der Kaiservilla Bad-Ischl.jpg",
+        "latitude": 47.716675,
+        "longitude": 13.617664,
+        "createDate": "2025-08-24T10:41:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                130,
+                40
+              ],
+              "hex": "#968228",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                20
+              ],
+              "hex": "#463214",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                80,
+                90,
+                100
+              ],
+              "hex": "#505a64",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "46.228"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "'Gurke' von Erwin Wurm bei der Kaiservilla Bad-Ischl.jpg",
+        "latitude": 47.716628,
+        "longitude": 13.619092,
+        "createDate": "2025-08-24T10:58:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                160,
+                230
+              ],
+              "hex": "#0aa0e6",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                110
+              ],
+              "hex": "#d2d26e",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                40
+              ],
+              "hex": "#6e5a28",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "57.828"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "'Herbert von Karajan' von Erwin Wurm im Marmorschlössl Bad-Ischl.jpg",
+        "latitude": 47.716811,
+        "longitude": 13.617833,
+        "createDate": "2025-08-24T10:39:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                100,
+                90
+              ],
+              "hex": "#aa645a",
+              "percentage": "0.077"
+            },
+            {
+              "rgb": [
+                30,
+                0,
+                0
+              ],
+              "hex": "#1e0000",
+              "percentage": "0.076"
+            },
+            {
+              "rgb": [
+                240,
+                210,
+                190
+              ],
+              "hex": "#f0d2be",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "40.639"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "'Hoody' von Erwin Wurm im Marmorschlössl Bad-Ischl.jpg",
+        "latitude": 47.716672,
+        "longitude": 13.617892,
+        "createDate": "2025-08-24T10:40:10.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                110,
+                80
+              ],
+              "hex": "#8c6e50",
+              "percentage": "0.133"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                190
+              ],
+              "hex": "#e6d2be",
+              "percentage": "0.065"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                100
+              ],
+              "hex": "#fae664",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                120,
+                70,
+                0
+              ],
+              "hex": "#784600",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "33.546"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "'Südbahnhof' Schild und Stiege im Wien Museum.jpg",
         "latitude": 48.199169,
         "longitude": 16.372769,
         "createDate": "2025-05-14T15:05:40.000Z",
@@ -13319,7 +13694,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Zuerst schließen wir die Augen dann sehen wir weiter' Sticker.jpg",
+        "filename": "'Zuerst schließen wir die Augen dann sehen wir weiter' Sticker im Wien Museum.jpg",
         "latitude": 48.199092,
         "longitude": 16.372906,
         "createDate": "2025-05-14T15:07:25.000Z",
@@ -13427,6 +13802,70 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.627"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Ausblick vom Marmorschlössl auf den Garten in Bad-Ischl.jpg",
+        "latitude": 47.716744,
+        "longitude": 13.617889,
+        "createDate": "2025-08-24T10:45:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                110
+              ],
+              "hex": "#dcd26e",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                200
+              ],
+              "hex": "#f0e6c8",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "36.884"
         },
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
@@ -14031,6 +14470,134 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.227"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Erwin Wurm 'Würstel' bei der Kaiservilla in Bad-Ischl.jpg",
+        "latitude": 47.715381,
+        "longitude": 13.620833,
+        "createDate": "2025-08-24T10:11:08.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                170,
+                90
+              ],
+              "hex": "#b4aa5a",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                10,
+                130,
+                190
+              ],
+              "hex": "#0a82be",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "48.946"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Erwin Wurm Ausstellungs-Reklame im Marmorschlössl.jpg",
+        "latitude": 47.716708,
+        "longitude": 13.617611,
+        "createDate": "2025-08-24T10:38:32.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.151"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                120
+              ],
+              "hex": "#aa9678",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                100,
+                50,
+                30
+              ],
+              "hex": "#64321e",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "46.792"
         },
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
@@ -14884,7 +15451,71 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Schriftzug 'Museum der Stadt Wien'.jpg",
+        "filename": "Schiefes Schiff von Erwin Wurm im Marmorschlössl Bad-Ischl.jpg",
+        "latitude": 47.716708,
+        "longitude": 13.617631,
+        "createDate": "2025-08-24T10:37:34.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                190
+              ],
+              "hex": "#f0dcbe",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                120,
+                100,
+                100
+              ],
+              "hex": "#786464",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "43.864"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Schriftzug 'Museum der Stadt Wien' im Wien Museum.jpg",
         "latitude": 48.199192,
         "longitude": 16.372353,
         "createDate": "2025-05-14T14:14:08.000Z",
@@ -14994,7 +15625,62 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Stahl-Wal und Kutsche.jpg",
+        "filename": "Skulptur von Erwin Wurm bei der Kaiservilla Bad-Ischl.jpg",
+        "latitude": 47.716611,
+        "longitude": 13.617997,
+        "createDate": "2025-08-24T10:44:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                100,
+                70,
+                40
+              ],
+              "hex": "#644628",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                230,
+                200,
+                170
+              ],
+              "hex": "#e6c8aa",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                250,
+                200,
+                100
+              ],
+              "hex": "#fac864",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "45.894"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Stahl-Wal und Kutsche im Wien Museum.jpg",
         "latitude": 48.199161,
         "longitude": 16.372861,
         "createDate": "2025-05-14T15:28:25.000Z",
@@ -15049,7 +15735,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Stahl-Wal, Kutsche und Statuen.jpg",
+        "filename": "Stahl-Wal, Kutsche und Statuen im Wien Museum.jpg",
         "latitude": 48.199367,
         "longitude": 16.372703,
         "createDate": "2025-05-14T15:27:21.000Z",
@@ -15413,10 +16099,65 @@ export const galleries = [
           "Taferl",
           "Museum"
         ]
+      },
+      {
+        "filename": "Wärmekissen aus Glas von Erwin Wurm im Marmoschlössl Bad-Ischl.jpg",
+        "latitude": 47.716567,
+        "longitude": 13.617872,
+        "createDate": "2025-08-24T10:43:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                200,
+                160
+              ],
+              "hex": "#fac8a0",
+              "percentage": "0.061"
+            },
+            {
+              "rgb": [
+                100,
+                30,
+                40
+              ],
+              "hex": "#641e28",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                60,
+                130,
+                130
+              ],
+              "hex": "#3c8282",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "38.353"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Taferl",
+          "Museum"
+        ]
       }
     ],
-    "timeframe": "14. Mai 2025 - 20. August 2025",
-    "imageCount": 37,
+    "timeframe": "14. Mai 2025 - 24. August 2025",
+    "imageCount": 49,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -15439,7 +16180,7 @@ export const galleries = [
     "name": "kaernten-koroska",
     "slug": "kaernten-koroska",
     "title": "Kärnten / Koroška",
-    "description": "Ab in den Süden. *Proti jugu.*",
+    "description": "Ab in den Süden / *Proti jugu*",
     "images": [
       {
         "filename": "'Ich liebe dich' Graffitti Klagenfurt.jpg",
@@ -17933,7 +18674,7 @@ export const galleries = [
     "name": "lisboa",
     "slug": "lisboa",
     "title": "Lisboa",
-    "description": "Vale a pena a viagem, possivelmente com uma passagem só de ida.",
+    "description": "Vale a pena a viagem, possivelmente com uma passagem só de ida",
     "images": [
       {
         "filename": "'Hello World' Neon-Schriftzug vor Häusern und Brücke.jpg",
@@ -18457,7 +19198,7 @@ export const galleries = [
     "name": "mayday",
     "slug": "mayday",
     "title": "Mayday",
-    "description": "Der 1. Mai am Wiener-Rathausplatz & im Wurstelprater. Langos, Bier & Freundschaft.",
+    "description": "Langos, Bier & Freundschaft",
     "images": [
       {
         "filename": "'Hoch der erste Mai' am Rathausplatz Wien Innere Stadt.jpg",
@@ -20839,7 +21580,7 @@ export const galleries = [
     "name": "oeffis",
     "slug": "oeffis",
     "title": "Öffis",
-    "description": "Tschu Tschu, Brum Brum, *Quietsch*, Tschu Tschu",
+    "description": "Tschu Tschu, Brumm Brumm, *Quietsch*, Tschu Tschu",
     "images": [
       {
         "filename": "'Bitte alle Einstiege benützen' Schriftzug in U-Bahn Station.jpg",
@@ -25011,7 +25752,7 @@ export const galleries = [
     "name": "parks",
     "slug": "parks",
     "title": "Parks",
-    "description": "Die Parks, Bäume & Grashalme Wiens.",
+    "description": "Die Parks, Bäume & Grashalme Wiens",
     "images": [
       {
         "filename": "Bänke und Park am Margaretengürtel.jpg",
@@ -25982,7 +26723,7 @@ export const galleries = [
     "name": "porto",
     "slug": "porto",
     "title": "Porto",
-    "description": "Essa cidade é muito bonita, muita subida e descida.",
+    "description": "Essa cidade é muito bonita, muita subida e descida",
     "images": [
       {
         "filename": "Alte Häuser bei Sao Bento.jpg",
@@ -29423,7 +30164,7 @@ export const galleries = [
     "name": "prater",
     "slug": "prater",
     "title": "Prater",
-    "description": "Heustadlwasser and Autobahnbrücken",
+    "description": "Heustadlwasser & Autobahnbrücken",
     "images": [
       {
         "filename": "'Donau Business Center' Praterkai.jpg",
@@ -30153,7 +30894,7 @@ export const galleries = [
     "name": "pride",
     "slug": "pride",
     "title": "Pride Parade",
-    "description": "Ain't no rain on my parade.",
+    "description": "Wien mal in bunt",
     "images": [
       {
         "filename": "48er Aufräumarbeiten nach der Pride.jpg",
@@ -30732,7 +31473,7 @@ export const galleries = [
     "name": "salzburg",
     "slug": "salzburg",
     "title": "Salzburg",
-    "description": "Johann Bernhard Fischer von Erlach wird man hier nicht finden.",
+    "description": "Johann Bernhard Fischer von Erlach wird man hier nicht finden",
     "images": [
       {
         "filename": "Aganigi Naganigi Kebab.jpg",
@@ -31606,786 +32347,10 @@ export const galleries = [
     ]
   },
   {
-    "name": "salzkammergut",
-    "slug": "salzkammergut",
-    "title": "Salzkammergut",
-    "description": "Sissi, Franz & Erwin.",
-    "images": [
-      {
-        "filename": "'Big Kastenmann' von Erwin Wurm.jpg",
-        "latitude": 47.715053,
-        "longitude": 13.620411,
-        "createDate": "2025-08-24T10:15:36.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                250,
-                220,
-                230
-              ],
-              "hex": "#fadce6",
-              "percentage": "0.033"
-            },
-            {
-              "rgb": [
-                30,
-                10,
-                0
-              ],
-              "hex": "#1e0a00",
-              "percentage": "0.025"
-            },
-            {
-              "rgb": [
-                160,
-                160,
-                60
-              ],
-              "hex": "#a0a03c",
-              "percentage": "0.015"
-            },
-            {
-              "rgb": [
-                30,
-                180,
-                230
-              ],
-              "hex": "#1eb4e6",
-              "percentage": "0.004"
-            }
-          ],
-          "colorfulness": "53.139"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "'Fat Car' von Erwin Wurm.jpg",
-        "latitude": 47.715394,
-        "longitude": 13.621211,
-        "createDate": "2025-08-24T11:06:25.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                160,
-                150,
-                40
-              ],
-              "hex": "#a09628",
-              "percentage": "0.033"
-            },
-            {
-              "rgb": [
-                30,
-                20,
-                10
-              ],
-              "hex": "#1e140a",
-              "percentage": "0.022"
-            },
-            {
-              "rgb": [
-                240,
-                230,
-                220
-              ],
-              "hex": "#f0e6dc",
-              "percentage": "0.003"
-            }
-          ],
-          "colorfulness": "36.239"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "'Fat House' von Erwin Wurm.jpg",
-        "latitude": 47.716675,
-        "longitude": 13.617664,
-        "createDate": "2025-08-24T10:41:38.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                150,
-                130,
-                40
-              ],
-              "hex": "#968228",
-              "percentage": "0.043"
-            },
-            {
-              "rgb": [
-                240,
-                230,
-                210
-              ],
-              "hex": "#f0e6d2",
-              "percentage": "0.043"
-            },
-            {
-              "rgb": [
-                70,
-                50,
-                20
-              ],
-              "hex": "#463214",
-              "percentage": "0.017"
-            },
-            {
-              "rgb": [
-                80,
-                90,
-                100
-              ],
-              "hex": "#505a64",
-              "percentage": "0.003"
-            }
-          ],
-          "colorfulness": "46.228"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "'Gurke' von Erwin Wurm.jpg",
-        "latitude": 47.716628,
-        "longitude": 13.619092,
-        "createDate": "2025-08-24T10:58:31.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                10,
-                160,
-                230
-              ],
-              "hex": "#0aa0e6",
-              "percentage": "0.039"
-            },
-            {
-              "rgb": [
-                240,
-                240,
-                230
-              ],
-              "hex": "#f0f0e6",
-              "percentage": "0.023"
-            },
-            {
-              "rgb": [
-                210,
-                210,
-                110
-              ],
-              "hex": "#d2d26e",
-              "percentage": "0.019"
-            },
-            {
-              "rgb": [
-                30,
-                10,
-                0
-              ],
-              "hex": "#1e0a00",
-              "percentage": "0.016"
-            },
-            {
-              "rgb": [
-                110,
-                90,
-                40
-              ],
-              "hex": "#6e5a28",
-              "percentage": "0.010"
-            }
-          ],
-          "colorfulness": "57.828"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "'Herbert von Karajan' von Erwin Wurm.jpg",
-        "latitude": 47.716811,
-        "longitude": 13.617833,
-        "createDate": "2025-08-24T10:39:28.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                170,
-                100,
-                90
-              ],
-              "hex": "#aa645a",
-              "percentage": "0.077"
-            },
-            {
-              "rgb": [
-                30,
-                0,
-                0
-              ],
-              "hex": "#1e0000",
-              "percentage": "0.076"
-            },
-            {
-              "rgb": [
-                240,
-                210,
-                190
-              ],
-              "hex": "#f0d2be",
-              "percentage": "0.004"
-            }
-          ],
-          "colorfulness": "40.639"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "'Hoody' von Erwin Wurm.jpg",
-        "latitude": 47.716672,
-        "longitude": 13.617892,
-        "createDate": "2025-08-24T10:40:10.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                140,
-                110,
-                80
-              ],
-              "hex": "#8c6e50",
-              "percentage": "0.133"
-            },
-            {
-              "rgb": [
-                230,
-                210,
-                190
-              ],
-              "hex": "#e6d2be",
-              "percentage": "0.065"
-            },
-            {
-              "rgb": [
-                250,
-                230,
-                100
-              ],
-              "hex": "#fae664",
-              "percentage": "0.013"
-            },
-            {
-              "rgb": [
-                120,
-                70,
-                0
-              ],
-              "hex": "#784600",
-              "percentage": "0.002"
-            }
-          ],
-          "colorfulness": "33.546"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "Ausblick vom Marmorschlössl auf den Garten.jpg",
-        "latitude": 47.716744,
-        "longitude": 13.617889,
-        "createDate": "2025-08-24T10:45:57.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                160,
-                140,
-                130
-              ],
-              "hex": "#a08c82",
-              "percentage": "0.034"
-            },
-            {
-              "rgb": [
-                30,
-                20,
-                20
-              ],
-              "hex": "#1e1414",
-              "percentage": "0.008"
-            },
-            {
-              "rgb": [
-                220,
-                210,
-                110
-              ],
-              "hex": "#dcd26e",
-              "percentage": "0.007"
-            },
-            {
-              "rgb": [
-                240,
-                230,
-                200
-              ],
-              "hex": "#f0e6c8",
-              "percentage": "0.006"
-            }
-          ],
-          "colorfulness": "36.884"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "Erwin Wurm 'Würste'.jpg",
-        "latitude": 47.715381,
-        "longitude": 13.620833,
-        "createDate": "2025-08-24T10:11:08.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                180,
-                170,
-                90
-              ],
-              "hex": "#b4aa5a",
-              "percentage": "0.030"
-            },
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.014"
-            },
-            {
-              "rgb": [
-                240,
-                240,
-                230
-              ],
-              "hex": "#f0f0e6",
-              "percentage": "0.012"
-            },
-            {
-              "rgb": [
-                10,
-                130,
-                190
-              ],
-              "hex": "#0a82be",
-              "percentage": "0.008"
-            }
-          ],
-          "colorfulness": "48.946"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "Erwin Wurm Ausstellungs-Reklame im Marmorschlössl.jpg",
-        "latitude": 47.716708,
-        "longitude": 13.617611,
-        "createDate": "2025-08-24T10:38:32.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.151"
-            },
-            {
-              "rgb": [
-                250,
-                240,
-                230
-              ],
-              "hex": "#faf0e6",
-              "percentage": "0.014"
-            },
-            {
-              "rgb": [
-                170,
-                150,
-                120
-              ],
-              "hex": "#aa9678",
-              "percentage": "0.010"
-            },
-            {
-              "rgb": [
-                100,
-                50,
-                30
-              ],
-              "hex": "#64321e",
-              "percentage": "0.005"
-            }
-          ],
-          "colorfulness": "46.792"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "Garten in der Kaiservilla.jpg",
-        "latitude": 47.715,
-        "longitude": 13.618519,
-        "createDate": "2025-08-24T10:22:35.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                30,
-                10,
-                0
-              ],
-              "hex": "#1e0a00",
-              "percentage": "0.045"
-            },
-            {
-              "rgb": [
-                160,
-                140,
-                130
-              ],
-              "hex": "#a08c82",
-              "percentage": "0.007"
-            },
-            {
-              "rgb": [
-                250,
-                240,
-                220
-              ],
-              "hex": "#faf0dc",
-              "percentage": "0.006"
-            },
-            {
-              "rgb": [
-                170,
-                160,
-                70
-              ],
-              "hex": "#aaa046",
-              "percentage": "0.004"
-            }
-          ],
-          "colorfulness": "40.250"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "Schiefes Schiff von Erwin Wurm.jpg",
-        "latitude": 47.716708,
-        "longitude": 13.617631,
-        "createDate": "2025-08-24T10:37:34.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.031"
-            },
-            {
-              "rgb": [
-                240,
-                220,
-                190
-              ],
-              "hex": "#f0dcbe",
-              "percentage": "0.030"
-            },
-            {
-              "rgb": [
-                190,
-                170,
-                150
-              ],
-              "hex": "#beaa96",
-              "percentage": "0.027"
-            },
-            {
-              "rgb": [
-                120,
-                100,
-                100
-              ],
-              "hex": "#786464",
-              "percentage": "0.006"
-            }
-          ],
-          "colorfulness": "43.864"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "Skulptur von Erwin Wurm.jpg",
-        "latitude": 47.716611,
-        "longitude": 13.617997,
-        "createDate": "2025-08-24T10:44:09.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                100,
-                70,
-                40
-              ],
-              "hex": "#644628",
-              "percentage": "0.048"
-            },
-            {
-              "rgb": [
-                230,
-                200,
-                170
-              ],
-              "hex": "#e6c8aa",
-              "percentage": "0.024"
-            },
-            {
-              "rgb": [
-                250,
-                200,
-                100
-              ],
-              "hex": "#fac864",
-              "percentage": "0.006"
-            }
-          ],
-          "colorfulness": "45.894"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      },
-      {
-        "filename": "Wärmekissen aus Glas von Erwin Wurm.jpg",
-        "latitude": 47.716567,
-        "longitude": 13.617872,
-        "createDate": "2025-08-24T10:43:46.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                250,
-                200,
-                160
-              ],
-              "hex": "#fac8a0",
-              "percentage": "0.061"
-            },
-            {
-              "rgb": [
-                100,
-                30,
-                40
-              ],
-              "hex": "#641e28",
-              "percentage": "0.045"
-            },
-            {
-              "rgb": [
-                60,
-                130,
-                130
-              ],
-              "hex": "#3c8282",
-              "percentage": "0.002"
-            }
-          ],
-          "colorfulness": "38.353"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Öberösterreich",
-          "Österreich",
-          "Landschaft",
-          "Museum",
-          "Kunst",
-          "Skulpturen",
-          "Park"
-        ]
-      }
-    ],
-    "timeframe": "24. August 2025",
-    "imageCount": 13,
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Öberösterreich",
-      "Österreich",
-      "Landschaft",
-      "Museum",
-      "Kunst",
-      "Skulpturen",
-      "Park"
-    ]
-  },
-  {
     "name": "schweiz",
     "slug": "schweiz",
     "title": "Schweiz",
-    "description": "Matte, Schanzen, Schoggi & pünktliche Züge.",
+    "description": "1 Matte, 2 Schanzen, viel Schoggi & pünktliche Züge",
     "images": [
       {
         "filename": "'Kunst einfach anfangen' und 'Anfangen ist keine Kunst' Schriftzug auf einem Haus in Bern.jpg",
@@ -34696,7 +34661,7 @@ export const galleries = [
     "name": "sonstwo-und-allfaelliges",
     "slug": "sonstwo-und-allfaelliges",
     "title": "Sonstwo & Allfälliges",
-    "description": "Hier & da. Dieses & jenes. Oben & unten.",
+    "description": "Stadt & Land, hier & da, dieses & jenes, oben & unten, und so weiter & so fort ...",
     "images": [
       {
         "filename": "Alte Jukebox im Anker-Kino Burghausen.jpg",
@@ -34742,6 +34707,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -34784,6 +34757,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -34835,6 +34816,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -34886,6 +34875,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -34946,6 +34943,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35006,6 +35011,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35048,6 +35061,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35099,6 +35120,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35150,6 +35179,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35201,6 +35238,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35243,6 +35288,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35303,6 +35356,82 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
+      },
+      {
+        "filename": "Garten der Kaiservilla bei Bad-Ischl.jpg",
+        "latitude": 47.715,
+        "longitude": 13.618519,
+        "createDate": "2025-08-24T10:22:35.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                70
+              ],
+              "hex": "#aaa046",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "40.250"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35345,6 +35474,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35414,6 +35551,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35474,6 +35619,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35543,6 +35696,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35603,6 +35764,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35654,6 +35823,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35705,6 +35882,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35756,6 +35941,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35825,6 +36018,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35894,6 +36095,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -35963,6 +36172,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -36023,6 +36240,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -36056,6 +36281,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -36125,6 +36358,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -36185,6 +36426,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -36245,6 +36494,14 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
           "Architektur",
           "Stadt",
           "Landschaft",
@@ -36253,8 +36510,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "18. Februar 2024 - 21. August 2025",
-    "imageCount": 28,
+    "timeframe": "18. Februar 2024 - 24. August 2025",
+    "imageCount": 29,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -36262,6 +36519,14 @@ export const galleries = [
     "tags": [
       "Österreich",
       "Deutschland",
+      "Tschechien",
+      "Steiermark",
+      "Niederösterreich",
+      "Oberösterreich",
+      "Wien",
+      "Bayern",
+      "Baden-Württemberg",
+      "Sachsen",
       "Architektur",
       "Stadt",
       "Landschaft",
@@ -36273,7 +36538,7 @@ export const galleries = [
     "name": "symbole",
     "slug": "symbole",
     "title": "Symbole",
-    "description": "Buchstaben, Kunst & Rechtschreibfehler.",
+    "description": "Buchstaben, Kunst & Rechtschreibfehler",
     "images": [
       {
         "filename": "'Low' & 'Nr' Graffitti und Wiese davor.jpg",
@@ -38149,7 +38414,7 @@ export const galleries = [
     "name": "valencia",
     "slug": "valencia",
     "title": "Valencia",
-    "description": "Gute Paella & mediterrane Elektrik.",
+    "description": "Gute Paella & mediterrane Elektrik",
     "images": [
       {
         "filename": "Aussen-Elektrik-Verkabelung.jpg",
@@ -38206,7 +38471,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38273,7 +38539,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38331,7 +38598,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38380,7 +38648,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38429,7 +38698,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38496,7 +38766,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38563,7 +38834,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38630,7 +38902,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38688,7 +38961,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38755,7 +39029,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38822,7 +39097,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38862,7 +39138,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38902,7 +39179,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -38969,7 +39247,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -39009,7 +39288,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -39058,7 +39338,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -39107,7 +39388,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       }
     ],
@@ -39122,14 +39404,15 @@ export const galleries = [
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Meer"
+      "Meer",
+      "Fluss"
     ]
   },
   {
     "name": "wien",
     "slug": "wien",
     "title": "Wien",
-    "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner & Lueger, Licht & Schatten.",
+    "description": "Beton, Struktur, Architektur, Kultur, Bahnhöfe, Gehsteige, Zebrastreifen, Statuen, Lugner & Lueger ⸺ Licht & Schatten",
     "images": [
       {
         "filename": "'132' Hausnummer in der Wieder-Hauptstrasse.jpg",
@@ -41868,7 +42151,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Eingangstür in der Simmerinnger-Haupstrasse.jpg",
+        "filename": "Eingangstür in der Simmeringer-Hauptstrasse.jpg",
         "latitude": 48.171853,
         "longitude": 16.418683,
         "createDate": "2025-08-27T12:00:28.000Z",
@@ -43794,7 +44077,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Haus-Fassade in der Simmeringer-Haupstrasse.jpg",
+        "filename": "Haus-Fassade in der Simmeringer-Hauptstrasse.jpg",
         "latitude": 48.172939,
         "longitude": 16.417714,
         "createDate": "2025-08-27T09:28:06.000Z",
@@ -48011,7 +48294,7 @@ export const galleries = [
     "name": "zentralfriedhof",
     "slug": "zentralfriedhof",
     "title": "Zentralfriedhof",
-    "description": "An den Grenzen der Stadt & am Ende der Dinge sieht man das schöne. Einmal mit der 71er hin- und retour.",
+    "description": "An den Grenzen der Stadt & am Ende der Dinge sieht man das schöne",
     "images": [
       {
         "filename": "Adler Grab.jpg",

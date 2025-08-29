@@ -8,4 +8,4 @@ tags: ["Portugal", "Landschaft", "Architektur", "Stadt", "Meer", "Fluss"]
 
 # Porto
 
-Essa cidade é muito bonita, muita subida e descida.
+Essa cidade é muito bonita, muita subida e descida

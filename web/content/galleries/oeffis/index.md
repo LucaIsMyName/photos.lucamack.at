@@ -8,4 +8,4 @@ tags: ["Wien" ,"Österreich", "Architektur", "Stadt"]
 
 # Öffis
 
-Tschu Tschu, Brum Brum, *Quietsch*, Tschu Tschu
+Tschu Tschu, Brumm Brumm, *Quietsch*, Tschu Tschu

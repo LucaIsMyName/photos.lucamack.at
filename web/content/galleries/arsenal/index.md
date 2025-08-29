@@ -8,4 +8,4 @@ tags: ["Österreich", "Wien", "Architektur", "Stadt", "Technologie", "Park"]
 
 # Arsenal
 
-Spazierengehen - Vom Hauptbahnhof nach Simmering. Technologie, Bäume & Panzer.
+Spazierengehen - Vom Hauptbahnhof nach Simmering

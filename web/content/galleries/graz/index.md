@@ -8,4 +8,4 @@ tags: ["Österreich", "Architektur", "Stadt", "Konzert", "Kunst", "Fluss"]
 
 # Graz
 
-Hauptplatz, viele Stufen & 1 Regenbogen.
+Hauptplatz, viele Stufen & 1 Regenbogen

@@ -8,4 +8,4 @@ tags: ["Deutschland", "Berlin", "Landschaft", "Architektur", "Stadt", "Fluss","T
 
 # Berlin
 
-Schöner Dreck & neo-klassizistische-sozialistische-brutalistische Gebäude
+Schöner Dreck & brutale Architektur
