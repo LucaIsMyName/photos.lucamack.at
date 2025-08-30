@@ -1,0 +1,105 @@
+# Photos.lucamack.at - Photo Gallery & Notebook
+
+## Overview
+A React + TypeScript photo gallery application built with Vite, featuring interactive maps, statistics, and multiple viewing modes for photo collections.
+
+## Tech Stack
+- **Frontend**: React 19, TypeScript, Vite
+- **Styling**: Tailwind CSS 4.x
+- **Maps**: Mapbox GL JS, react-map-gl
+- **Charts**: Recharts
+- **Routing**: React Router DOM 7.x
+- **UI Components**: Radix UI, Lucide React, Framer Motion
+- **Build Tools**: Vite 7.x, TypeScript 5.8.x
+
+## Architecture
+
+### Core Structure
+- **`src/App.tsx`**: Main application with routing and lazy-loaded pages
+- **`src/types.ts`**: TypeScript interfaces for Image, Gallery, Page types
+- **`src/galleries.ts`**: Auto-generated file containing all gallery data (1.2MB+)
+- **`src/config.ts`**: Application configuration including Mapbox tokens and theme settings
+
+### Key Features
+1. **Gallery System**: Photo collections with metadata, GPS coordinates, color analysis
+2. **Interactive Maps**: Mapbox integration showing geotagged photos
+3. **Statistics Dashboard**: Comprehensive photo analytics with charts and color analysis
+4. **Multiple View Modes**: List, timeline, map, filter, tags views
+5. **Command Palette**: Keyboard shortcuts (Cmd/Ctrl+K)
+6. **Theme Support**: Light/dark mode switching
+7. **Responsive Design**: Mobile-first approach
+
+### Routes Structure
+- `/` - Home page
+- `/gallery/:slug` - Individual gallery view
+- `/gallery/:gallerySlug/image/:slug` - Image details
+- `/page/:slug` - Static pages
+- **App Routes**:
+  - `/app/map` - All images on interactive map
+  - `/app/list` - List view of all images
+  - `/app/timeline` - Chronological timeline
+  - `/app/postcard` - Postcard maker
+  - `/app/statistics` - Photo statistics and analytics
+  - `/app/filter` - Advanced filtering
+  - `/app/tags` - Tag-based browsing
+
+### Data Generation
+- **`generate-galleries.mjs`**: Node.js script that processes markdown galleries and images
+- **EXIF Processing**: Extracts GPS coordinates, dates, camera info using exiftool-vendored
+- **Image Processing**: Creates responsive images using Sharp, converts HEIC files
+- **Color Analysis**: Generates dominant color palettes and colorfulness metrics
+- **Auto-generation**: Runs before dev/build to create `galleries.ts` and `pages.ts`
+
+### Image System
+- **Responsive Images**: Multiple sizes (160px, 380px, 640px, 1440px)
+- **Color Data**: Each image has dominant colors and colorfulness score
+- **GPS Integration**: Latitude/longitude for map features
+- **Metadata**: EXIF data including camera, date, licensing info
+
+### Statistics Features
+- Geographic analysis (northernmost, southernmost, etc.)
+- Color palette analysis across all photos
+- Most colorful vs monochromatic photos
+- Seasonal color trends
+- Activity patterns (by hour, day, month, season)
+- Country-based photo distribution
+- Daily activity timeline
+
+### Key Components
+- **`Statistics.tsx`**: Main statistics page with charts and color analysis
+- **`AllImagesMap.tsx`**: Interactive map showing all geotagged photos
+- **`Navigation.tsx`**: Main navigation with mobile support
+- **`CommandPalette.tsx`**: Search and navigation shortcuts
+
+### Content Structure
+- **`content/galleries/`**: Markdown files defining photo galleries
+- **`content/pages/`**: Static page content
+- **`public/content/galleries/`**: Processed images and thumbnails
+- **`dist/`**: Built application output
+
+### Build Process
+1. `npm run generate` - Processes content and generates TypeScript files
+2. `npm run build` - TypeScript compilation + Vite build
+3. Auto-generates galleries.ts, pages.ts, and sitemap
+
+### Development Notes
+- Uses lazy loading for all page components
+- Implements React Compiler optimizations
+- Extensive TypeScript typing throughout
+- Mobile-responsive design patterns
+- Performance optimized with code splitting
+- SEO-friendly with proper meta tags
+
+### Color Analysis System
+- Extracts dominant colors from each image
+- Calculates colorfulness metrics (0-100 scale)
+- Groups colors by season for trend analysis
+- Supports both colorful and monochromatic photo identification
+
+### Map Integration
+- Custom Mapbox styles for light/dark themes
+- Clustering for performance with many markers
+- Fit-to-bounds functionality for geographic data
+- Interactive markers with photo previews
+
+This is a sophisticated photo gallery application with advanced analytics, geographic features, and modern React architecture.

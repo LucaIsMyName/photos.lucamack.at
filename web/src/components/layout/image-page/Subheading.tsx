@@ -1,6 +1,6 @@
 import { CONFIG } from "../../../config";
 import { cn } from "../../../utils/cn";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import Href from "../../ui/Href";
 import { parseCreateDate } from "../../../utils/date";
 import CopyButton from "../../ui/CopyButton";
@@ -9,6 +9,9 @@ import { getImageUrl } from "../../../utils/image";
 
 const Subheading = ({ image, gallery }: { image: any; gallery: any }) => {
   const { theme } = useTheme();
+  const location = useLocation();
+  const currentUrl = `${window.location.origin}${location.pathname}`;
+
   return (
     <>
       <div className={`flex w-full justify-between items-center gap-4 mt-4 ${CONFIG.theme.border.top} pt-8`}>
@@ -33,7 +36,8 @@ const Subheading = ({ image, gallery }: { image: any; gallery: any }) => {
               </div>
               {image.createDate && parseCreateDate(image.createDate) && (
                 <div className="text-[11px] font-mono truncate">
-                  Datum:{" "}<Href
+                  Datum:{" "}
+                  <Href
                     to={`/app/timeline?scrollTo=${parseCreateDate(image.createDate)?.toISOString().split("T")[0]}`}
                     className={cn("")}>
                     {parseCreateDate(image.createDate) &&
@@ -51,7 +55,7 @@ const Subheading = ({ image, gallery }: { image: any; gallery: any }) => {
         <CopyButton
           className=" min-h-4 min-w-4 sm:flex-row-reverse"
           iconToRight={false}
-          textToCopy={window.location.href}>
+          textToCopy={currentUrl}>
           <span className="text-[11px] text-nowrap hidden sm:block truncate font-mono">Link Kopieren</span>
         </CopyButton>
       </div>

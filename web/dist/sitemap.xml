@@ -1026,7 +1026,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/favoriten/image/tankstelle-und-wohnhaus-nahe-der-favoritenstrasse</loc>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/tankstelle-und-wohnhaus-in-der-gudrunstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2311,6 +2311,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/wiener-linien-logo-am-gehsteig-in-der-simmeringer-hauptstrasse-enkplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/zentralfriedhof-s-bahn-station-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3326,6 +3331,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/bier-bier-im-zentrum-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/cafe-plakat-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/low-nr-graffitti-und-wiese-davor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3361,7 +3376,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/thailandische-spezialitate-auslage-in-der-kaiser-ebersdorfer-strasse</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/tafelspitz-schild-bei-schonbrunn-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/thailandisches-spezialitate-auslage-in-der-kaiser-ebersdorfer-strasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3377,6 +3397,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/visitenkarten-fenster-schriftzug-in-der-schwarzspanierstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/voller-frische-werbeschriftzug-im-zentrum-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3482,11 +3507,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/schone-fassade</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/tafelspitz-schild-bei-schonbrunn-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3841,6 +3861,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/fabrik-am-albernen-hafen-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/fabriksgelande-in-brigittenau</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3886,6 +3911,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/fassade-und-fenster-eines-wohnhauses-in-der-krausegasse-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/fassade-und-eine-abgeklebte-lebensmittel-reklame-in-der-krausegasse-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/favoritner-gurtel-bei-hauptbahnhof</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3897,6 +3932,16 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/flugzeug-und-wohnhauser-in-wieden</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/friedhof-der-namenlosen-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/friedhof-der-namenlosen-eingangstor-und-graber-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3996,6 +4041,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/hauseingang-in-der-wilhelm-weber-gasse-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/hochhauser-in-wien-erdberg-nahe-gasometer</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4017,6 +4067,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/joe-strummer-the-clash-wandbild-bei-der-arena-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/kapelle-am-friedhofen-der-namenlosen-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4052,6 +4107,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/kreisverkehr-beim-zentralfriedhof-tor-11</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/kunst-struktur-am-franz-haas-platz-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4221,6 +4281,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/stiege-und-weg-zum-friedhof-der-namenlosen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/stillgelegte-fabrik-in-brigittenau</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4326,6 +4391,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/wurstel-waggon-am-simmeringer-friedhof</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/wurstelstand-bei-der-burggasse-in-rudolfsheim-funfhaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4341,27 +4411,37 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/zug-schienen-und-frachtlader-bei-einer-fabrik-am-albernen-hafen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/zentralfriedhof</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/adler-grab</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/in-liebe-vereint-grabmal-in-der-nahe-von-tor-1</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/altar-seitlich-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/adler-grab-in-der-nahe-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/altar-der-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/altar-seitlich-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/arkaden-neben-der-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/altar-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/arkaden-neben-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4371,12 +4451,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/blau-goldene-kuppel-seitlich-in-der-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/blau-goldene-kuppel-seitlich-in-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/blau-goldene-kuppel-der-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/blau-goldene-kuppel-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4386,47 +4466,67 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/bundesprasidentengraber-und-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/bundesprasidentengruft-und-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/banke-im-detail-in-der-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/banke-im-detail-in-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/banke-in-der-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/banke-in-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/banke-von-der-seite-in-der-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/banke-von-der-seite-in-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/der-weg-zur-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/cafe-oberlaa-am-zentralfriedhof-bei-dammerung</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/grab-und-sonne-zentralfriedhof-wien</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/der-weg-zur-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/graber-kirche-zentralfriedhof-wien</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/friedhofskirche-zum-heiligen-karl-borromaus-und-bundesprasidentengruft</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/jesus-statue-in-einem-seitenschiff-der-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/grab-und-sonne</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/karl-lueger-gedachtniskirche-am-zentralfriedhof-wien</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/grab-von-arnold-schonberg</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/grab-von-franz-west</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/graber-am-alten-judischen-friedhof</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/graber-und-friedhofskirche-zum-heiligen-karl-borromaus</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/jesus-statue-in-einem-seitenschiff-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4446,12 +4546,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/priester-statue-in-einem-seitenschiff-der-kirche</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/seitengang-der-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/seitengang-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4461,7 +4556,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/zwischengang-der-kirche</loc>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/statue-eines-weinenden-mannes-graber-und-baume-bei-gruppe-13</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/zentralfriedhof/image/zwischengang-der-friedhofskirche-zum-heiligen-karl-borromaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

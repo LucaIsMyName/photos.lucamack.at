@@ -175,10 +175,10 @@ const Gallery = () => {
                   <Link
                     key={tag}
                     to={`/app/tags?tag=${encodeURIComponent(tag)}`}
-                    className={`px-3 py-1 text-[11px] cursor-pointer transition-colors hover:bg-black hover:text-white ${
+                    className={`px-3 py-1 border border-neutral-500/20 text-[9.5px] cursor-pointer transition-colors hover:bg-black hover:text-white ${
                       theme === 'light'
-                        ? 'font-mono border border-neutral-500/20 text-gray-700'
-                        : 'font-mono border border-neutral-500/20 text-gray-300 hover:bg-white hover:text-black'
+                        ? 'font-mono text-gray-700'
+                        : 'font-mono text-gray-300'
                     }`}
                   >
                     {tag}

@@ -13288,13 +13288,13 @@
       "Stadt",
       "Park"
     ],
-    "name": "Tankstelle und Wohnhaus nahe der Favoritenstrasse.jpg",
+    "name": "Tankstelle und Wohnhaus in der Gudrunstrasse.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_nahe_der_Favoritenstrasse.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_nahe_der_Favoritenstrasse-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_nahe_der_Favoritenstrasse-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_nahe_der_Favoritenstrasse-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_nahe_der_Favoritenstrasse-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_in_der_Gudrunstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_in_der_Gudrunstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_in_der_Gudrunstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_in_der_Gudrunstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_in_der_Gudrunstrasse-1440w.jpg"
     },
     "gallery": "favoriten"
   },
@@ -29384,6 +29384,62 @@
     "gallery": "oeffis"
   },
   {
+    "latitude": 48.174839,
+    "longitude": 16.41575,
+    "createDate": "2025-08-30T14:53:07.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            180,
+            160,
+            140
+          ],
+          "hex": "#b4a08c",
+          "percentage": "0.097"
+        },
+        {
+          "rgb": [
+            240,
+            230,
+            210
+          ],
+          "hex": "#f0e6d2",
+          "percentage": "0.008"
+        },
+        {
+          "rgb": [
+            40,
+            20,
+            10
+          ],
+          "hex": "#28140a",
+          "percentage": "0.001"
+        }
+      ],
+      "colorfulness": "17.780"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt"
+    ],
+    "name": "Wiener Linien Logo am Gehsteig in der Simmeringer-Hauptstrasse - Enkplatz.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/Wiener_Linien_Logo_am_Gehsteig_in_der_Simmeringer-Hauptstrasse_-_Enkplatz.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/oeffis/Wiener_Linien_Logo_am_Gehsteig_in_der_Simmeringer-Hauptstrasse_-_Enkplatz-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/oeffis/Wiener_Linien_Logo_am_Gehsteig_in_der_Simmeringer-Hauptstrasse_-_Enkplatz-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/Wiener_Linien_Logo_am_Gehsteig_in_der_Simmeringer-Hauptstrasse_-_Enkplatz-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/Wiener_Linien_Logo_am_Gehsteig_in_der_Simmeringer-Hauptstrasse_-_Enkplatz-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
     "latitude": 48.154747,
     "longitude": 16.42505,
     "createDate": "2025-06-01T06:03:26.000Z",
@@ -42054,6 +42110,147 @@
     "gallery": "symbole"
   },
   {
+    "latitude": 48.173542,
+    "longitude": 16.417114,
+    "createDate": "2025-08-30T14:35:28.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            40,
+            20,
+            10
+          ],
+          "hex": "#28140a",
+          "percentage": "0.086"
+        },
+        {
+          "rgb": [
+            190,
+            200,
+            210
+          ],
+          "hex": "#bec8d2",
+          "percentage": "0.059"
+        },
+        {
+          "rgb": [
+            250,
+            220,
+            100
+          ],
+          "hex": "#fadc64",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            130,
+            100,
+            90
+          ],
+          "hex": "#82645a",
+          "percentage": "0.005"
+        },
+        {
+          "rgb": [
+            250,
+            250,
+            220
+          ],
+          "hex": "#fafadc",
+          "percentage": "0.001"
+        }
+      ],
+      "colorfulness": "49.386"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Typografie",
+      "Sonstiges"
+    ],
+    "name": "'Bier & Bier' im Zentrum Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Bier_&_Bier'_im_Zentrum_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Bier_&_Bier'_im_Zentrum_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Bier_&_Bier'_im_Zentrum_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Bier_&_Bier'_im_Zentrum_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Bier_&_Bier'_im_Zentrum_Simmering-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.176308,
+    "longitude": 16.416181,
+    "createDate": "2025-08-30T14:49:01.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            220,
+            200,
+            170
+          ],
+          "hex": "#dcc8aa",
+          "percentage": "0.060"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.040"
+        },
+        {
+          "rgb": [
+            130,
+            110,
+            100
+          ],
+          "hex": "#826e64",
+          "percentage": "0.026"
+        },
+        {
+          "rgb": [
+            20,
+            10,
+            10
+          ],
+          "hex": "#140a0a",
+          "percentage": "0.023"
+        }
+      ],
+      "colorfulness": "41.325"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Typografie",
+      "Sonstiges"
+    ],
+    "name": "'Cafe' Plakat in Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Cafe'_Plakat_in_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Cafe'_Plakat_in_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Cafe'_Plakat_in_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Cafe'_Plakat_in_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Cafe'_Plakat_in_Simmering-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
     "latitude": 48.195586,
     "longitude": 16.420492,
     "createDate": "2025-08-03T11:17:20.000Z",
@@ -42498,6 +42695,72 @@
     "gallery": "symbole"
   },
   {
+    "latitude": 48.185794,
+    "longitude": 16.319944,
+    "createDate": "2024-04-11T17:25:26.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            220,
+            170,
+            110
+          ],
+          "hex": "#dcaa6e",
+          "percentage": "0.041"
+        },
+        {
+          "rgb": [
+            250,
+            250,
+            250
+          ],
+          "hex": "#fafafa",
+          "percentage": "0.025"
+        },
+        {
+          "rgb": [
+            40,
+            50,
+            50
+          ],
+          "hex": "#283232",
+          "percentage": "0.017"
+        },
+        {
+          "rgb": [
+            160,
+            130,
+            100
+          ],
+          "hex": "#a08264",
+          "percentage": "0.007"
+        }
+      ],
+      "colorfulness": "44.279"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Typografie",
+      "Sonstiges"
+    ],
+    "name": "'Tafelspitz' Schild bei Schönbrunn Wien.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Tafelspitz'_Schild_bei_Schönbrunn_Wien.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Tafelspitz'_Schild_bei_Schönbrunn_Wien-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Tafelspitz'_Schild_bei_Schönbrunn_Wien-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Tafelspitz'_Schild_bei_Schönbrunn_Wien-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Tafelspitz'_Schild_bei_Schönbrunn_Wien-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
     "latitude": 48.168872,
     "longitude": 16.424133,
     "createDate": "2025-07-27T13:18:21.000Z",
@@ -42535,13 +42798,13 @@
       "Typografie",
       "Sonstiges"
     ],
-    "name": "'Thailändische Spezialitäte' Auslage in der Kaiser-Ebersdorfer-Strasse.jpg",
+    "name": "'Thailändisches Spezialitäte' Auslage in der Kaiser-Ebersdorfer-Strasse.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Thailändische_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Thailändisches_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Thailändisches_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Thailändisches_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Thailändisches_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Thailändisches_Spezialitäte'_Auslage_in_der_Kaiser-Ebersdorfer-Strasse-1440w.jpg"
     },
     "gallery": "symbole"
   },
@@ -42722,6 +42985,81 @@
       "w380": "https://photos.lucamack.at/content/galleries/symbole/'Visitenkarten'_Fenster-Schriftzug_in_der_Schwarzspanierstrasse-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/symbole/'Visitenkarten'_Fenster-Schriftzug_in_der_Schwarzspanierstrasse-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Visitenkarten'_Fenster-Schriftzug_in_der_Schwarzspanierstrasse-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.173325,
+    "longitude": 16.416319,
+    "createDate": "2025-08-30T14:33:16.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            230,
+            220,
+            200
+          ],
+          "hex": "#e6dcc8",
+          "percentage": "0.092"
+        },
+        {
+          "rgb": [
+            40,
+            0,
+            0
+          ],
+          "hex": "#280000",
+          "percentage": "0.040"
+        },
+        {
+          "rgb": [
+            250,
+            190,
+            40
+          ],
+          "hex": "#fabe28",
+          "percentage": "0.007"
+        },
+        {
+          "rgb": [
+            230,
+            150,
+            0
+          ],
+          "hex": "#e69600",
+          "percentage": "0.006"
+        },
+        {
+          "rgb": [
+            150,
+            100,
+            30
+          ],
+          "hex": "#96641e",
+          "percentage": "0.002"
+        }
+      ],
+      "colorfulness": "59.053"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Typografie",
+      "Sonstiges"
+    ],
+    "name": "'Voller Frische' Werbeschriftzug im Zentrum Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Voller_Frische'_Werbeschriftzug_im_Zentrum_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Voller_Frische'_Werbeschriftzug_im_Zentrum_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Voller_Frische'_Werbeschriftzug_im_Zentrum_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Voller_Frische'_Werbeschriftzug_im_Zentrum_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Voller_Frische'_Werbeschriftzug_im_Zentrum_Simmering-1440w.jpg"
     },
     "gallery": "symbole"
   },
@@ -44063,72 +44401,6 @@
       "w380": "https://photos.lucamack.at/content/galleries/symbole/Schöne_Fassade-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/symbole/Schöne_Fassade-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/symbole/Schöne_Fassade-1440w.jpg"
-    },
-    "gallery": "symbole"
-  },
-  {
-    "latitude": 48.185794,
-    "longitude": 16.319944,
-    "createDate": "2024-04-11T17:25:26.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            220,
-            170,
-            110
-          ],
-          "hex": "#dcaa6e",
-          "percentage": "0.041"
-        },
-        {
-          "rgb": [
-            250,
-            250,
-            250
-          ],
-          "hex": "#fafafa",
-          "percentage": "0.025"
-        },
-        {
-          "rgb": [
-            40,
-            50,
-            50
-          ],
-          "hex": "#283232",
-          "percentage": "0.017"
-        },
-        {
-          "rgb": [
-            160,
-            130,
-            100
-          ],
-          "hex": "#a08264",
-          "percentage": "0.007"
-        }
-      ],
-      "colorfulness": "44.279"
-    },
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Wien",
-      "Österreich",
-      "Architektur",
-      "Typografie",
-      "Sonstiges"
-    ],
-    "name": "Tafelspitz Schild bei Schönbrunn Wien.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/symbole/Tafelspitz_Schild_bei_Schönbrunn_Wien.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/symbole/Tafelspitz_Schild_bei_Schönbrunn_Wien-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/symbole/Tafelspitz_Schild_bei_Schönbrunn_Wien-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/symbole/Tafelspitz_Schild_bei_Schönbrunn_Wien-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/symbole/Tafelspitz_Schild_bei_Schönbrunn_Wien-1440w.jpg"
     },
     "gallery": "symbole"
   },
@@ -48658,6 +48930,86 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.1591,
+    "longitude": 16.501581,
+    "createDate": "2025-01-25T11:07:09.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.067"
+        },
+        {
+          "rgb": [
+            140,
+            100,
+            40
+          ],
+          "hex": "#8c6428",
+          "percentage": "0.012"
+        },
+        {
+          "rgb": [
+            210,
+            190,
+            170
+          ],
+          "hex": "#d2beaa",
+          "percentage": "0.005"
+        },
+        {
+          "rgb": [
+            90,
+            160,
+            190
+          ],
+          "hex": "#5aa0be",
+          "percentage": "0.002"
+        },
+        {
+          "rgb": [
+            10,
+            120,
+            160
+          ],
+          "hex": "#0a78a0",
+          "percentage": "0.001"
+        }
+      ],
+      "colorfulness": "45.466"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Fabrik am Albernen Hafen - Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Fabrik_am_Albernen_Hafen_-_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Fabrik_am_Albernen_Hafen_-_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Fabrik_am_Albernen_Hafen_-_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Fabrik_am_Albernen_Hafen_-_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Fabrik_am_Albernen_Hafen_-_Simmering-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
     "latitude": 48.236172,
     "longitude": 16.385681,
     "createDate": "2025-07-15T16:57:28.000Z",
@@ -49252,6 +49604,139 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.174606,
+    "longitude": 16.417761,
+    "createDate": "2025-08-30T14:38:25.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.196"
+        },
+        {
+          "rgb": [
+            140,
+            100,
+            70
+          ],
+          "hex": "#8c6446",
+          "percentage": "0.027"
+        },
+        {
+          "rgb": [
+            180,
+            170,
+            170
+          ],
+          "hex": "#b4aaaa",
+          "percentage": "0.020"
+        },
+        {
+          "rgb": [
+            40,
+            20,
+            10
+          ],
+          "hex": "#28140a",
+          "percentage": "0.003"
+        }
+      ],
+      "colorfulness": "37.889"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Fassade und Fenster eines Wohnhauses in der Krausegasse - Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Fassade_und_Fenster_eines_Wohnhauses_in_der_Krausegasse_-_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Fassade_und_Fenster_eines_Wohnhauses_in_der_Krausegasse_-_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Fassade_und_Fenster_eines_Wohnhauses_in_der_Krausegasse_-_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Fassade_und_Fenster_eines_Wohnhauses_in_der_Krausegasse_-_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Fassade_und_Fenster_eines_Wohnhauses_in_der_Krausegasse_-_Simmering-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
+    "latitude": 48.174569,
+    "longitude": 16.419322,
+    "createDate": "2025-08-30T14:41:00.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            220,
+            210,
+            200
+          ],
+          "hex": "#dcd2c8",
+          "percentage": "0.030"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.028"
+        },
+        {
+          "rgb": [
+            210,
+            170,
+            130
+          ],
+          "hex": "#d2aa82",
+          "percentage": "0.023"
+        }
+      ],
+      "colorfulness": "41.336"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Fassade und eine abgeklebte 'Lebensmittel' Reklame in der Krausegasse - Simmering .jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Fassade_und_eine_abgeklebte_'Lebensmittel'_Reklame_in_der_Krausegasse_-_Simmering_.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Fassade_und_eine_abgeklebte_'Lebensmittel'_Reklame_in_der_Krausegasse_-_Simmering_-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Fassade_und_eine_abgeklebte_'Lebensmittel'_Reklame_in_der_Krausegasse_-_Simmering_-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Fassade_und_eine_abgeklebte_'Lebensmittel'_Reklame_in_der_Krausegasse_-_Simmering_-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Fassade_und_eine_abgeklebte_'Lebensmittel'_Reklame_in_der_Krausegasse_-_Simmering_-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
     "latitude": 48.186131,
     "longitude": 16.374222,
     "createDate": "2025-08-09T14:38:56.000Z",
@@ -49461,6 +49946,139 @@
       "w380": "https://photos.lucamack.at/content/galleries/wien/Flugzeug_und_Wohnhäuser_in_Wieden-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/wien/Flugzeug_und_Wohnhäuser_in_Wieden-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/wien/Flugzeug_und_Wohnhäuser_in_Wieden-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
+    "latitude": 48.159778,
+    "longitude": 16.502603,
+    "createDate": "2025-01-25T11:12:34.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            190,
+            150,
+            80
+          ],
+          "hex": "#be9650",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            220,
+            200,
+            170
+          ],
+          "hex": "#dcc8aa",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            50,
+            40,
+            30
+          ],
+          "hex": "#32281e",
+          "percentage": "0.010"
+        }
+      ],
+      "colorfulness": "38.622"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Friedhof der Namenlosen - Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Friedhof_der_Namenlosen_-_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Friedhof_der_Namenlosen_-_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Friedhof_der_Namenlosen_-_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Friedhof_der_Namenlosen_-_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Friedhof_der_Namenlosen_-_Simmering-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
+    "latitude": 48.159642,
+    "longitude": 16.502594,
+    "createDate": "2025-01-25T11:14:40.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            40,
+            30,
+            30
+          ],
+          "hex": "#281e1e",
+          "percentage": "0.018"
+        },
+        {
+          "rgb": [
+            190,
+            170,
+            150
+          ],
+          "hex": "#beaa96",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            160,
+            130,
+            100
+          ],
+          "hex": "#a08264",
+          "percentage": "0.013"
+        },
+        {
+          "rgb": [
+            230,
+            210,
+            180
+          ],
+          "hex": "#e6d2b4",
+          "percentage": "0.012"
+        }
+      ],
+      "colorfulness": "34.889"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Friedhof der Namenlosen Eingangstor und Gräber - Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Friedhof_der_Namenlosen_Eingangstor_und_Gräber_-_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Friedhof_der_Namenlosen_Eingangstor_und_Gräber_-_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Friedhof_der_Namenlosen_Eingangstor_und_Gräber_-_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Friedhof_der_Namenlosen_Eingangstor_und_Gräber_-_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Friedhof_der_Namenlosen_Eingangstor_und_Gräber_-_Simmering-1440w.jpg"
     },
     "gallery": "wien"
   },
@@ -50742,6 +51360,77 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.175831,
+    "longitude": 16.417814,
+    "createDate": "2025-08-30T14:47:24.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            140,
+            130,
+            120
+          ],
+          "hex": "#8c8278",
+          "percentage": "0.027"
+        },
+        {
+          "rgb": [
+            50,
+            40,
+            40
+          ],
+          "hex": "#322828",
+          "percentage": "0.026"
+        },
+        {
+          "rgb": [
+            100,
+            80,
+            90
+          ],
+          "hex": "#64505a",
+          "percentage": "0.019"
+        },
+        {
+          "rgb": [
+            250,
+            240,
+            230
+          ],
+          "hex": "#faf0e6",
+          "percentage": "0.016"
+        }
+      ],
+      "colorfulness": "35.736"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Hauseingang in der Wilhelm-Weber-Gasse - Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Hauseingang_in_der_Wilhelm-Weber-Gasse_-_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Hauseingang_in_der_Wilhelm-Weber-Gasse_-_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Hauseingang_in_der_Wilhelm-Weber-Gasse_-_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Hauseingang_in_der_Wilhelm-Weber-Gasse_-_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Hauseingang_in_der_Wilhelm-Weber-Gasse_-_Simmering-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
     "latitude": 48.185806,
     "longitude": 16.413911,
     "createDate": "2025-04-23T20:40:01.000Z",
@@ -51102,6 +51791,68 @@
       "w380": "https://photos.lucamack.at/content/galleries/wien/Joe_Strummer_-_The_Clash_Wandbild_bei_der_Arena_Wien-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/wien/Joe_Strummer_-_The_Clash_Wandbild_bei_der_Arena_Wien-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/wien/Joe_Strummer_-_The_Clash_Wandbild_bei_der_Arena_Wien-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
+    "latitude": 48.159447,
+    "longitude": 16.502481,
+    "createDate": "2025-01-25T11:18:33.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.080"
+        },
+        {
+          "rgb": [
+            80,
+            50,
+            30
+          ],
+          "hex": "#50321e",
+          "percentage": "0.014"
+        },
+        {
+          "rgb": [
+            180,
+            130,
+            70
+          ],
+          "hex": "#b48246",
+          "percentage": "0.008"
+        }
+      ],
+      "colorfulness": "47.788"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Kapelle am Friedhofen der Namenlosen - Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Kapelle_am_Friedhofen_der_Namenlosen_-_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Kapelle_am_Friedhofen_der_Namenlosen_-_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Kapelle_am_Friedhofen_der_Namenlosen_-_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Kapelle_am_Friedhofen_der_Namenlosen_-_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Kapelle_am_Friedhofen_der_Namenlosen_-_Simmering-1440w.jpg"
     },
     "gallery": "wien"
   },
@@ -51590,6 +52341,68 @@
       "w380": "https://photos.lucamack.at/content/galleries/wien/Kreisverkehr_beim_Zentralfriedhof_Tor_11-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/wien/Kreisverkehr_beim_Zentralfriedhof_Tor_11-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/wien/Kreisverkehr_beim_Zentralfriedhof_Tor_11-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
+    "latitude": 48.175744,
+    "longitude": 16.418008,
+    "createDate": "2025-08-30T14:46:58.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            230,
+            230,
+            230
+          ],
+          "hex": "#e6e6e6",
+          "percentage": "0.064"
+        },
+        {
+          "rgb": [
+            140,
+            90,
+            70
+          ],
+          "hex": "#8c5a46",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            50,
+            40,
+            40
+          ],
+          "hex": "#322828",
+          "percentage": "0.005"
+        }
+      ],
+      "colorfulness": "42.456"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Kunst-Struktur am Franz-Haas-Platz - Simmering.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Kunst-Struktur_am_Franz-Haas-Platz_-_Simmering.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Kunst-Struktur_am_Franz-Haas-Platz_-_Simmering-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Kunst-Struktur_am_Franz-Haas-Platz_-_Simmering-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Kunst-Struktur_am_Franz-Haas-Platz_-_Simmering-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Kunst-Struktur_am_Franz-Haas-Platz_-_Simmering-1440w.jpg"
     },
     "gallery": "wien"
   },
@@ -53793,6 +54606,77 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.159256,
+    "longitude": 16.502606,
+    "createDate": "2025-01-25T11:10:21.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            90,
+            60,
+            40
+          ],
+          "hex": "#5a3c28",
+          "percentage": "0.018"
+        },
+        {
+          "rgb": [
+            130,
+            100,
+            70
+          ],
+          "hex": "#826446",
+          "percentage": "0.017"
+        },
+        {
+          "rgb": [
+            190,
+            160,
+            130
+          ],
+          "hex": "#bea082",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            250,
+            240,
+            230
+          ],
+          "hex": "#faf0e6",
+          "percentage": "0.012"
+        }
+      ],
+      "colorfulness": "32.534"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Stiege und Weg zum Friedhof der Namenlosen.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Stiege_und_Weg_zum_Friedhof_der_Namenlosen.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Stiege_und_Weg_zum_Friedhof_der_Namenlosen-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Stiege_und_Weg_zum_Friedhof_der_Namenlosen-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Stiege_und_Weg_zum_Friedhof_der_Namenlosen-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Stiege_und_Weg_zum_Friedhof_der_Namenlosen-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
     "latitude": 48.235122,
     "longitude": 16.386739,
     "createDate": "2025-07-15T16:55:38.000Z",
@@ -55203,6 +56087,86 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.172519,
+    "longitude": 16.422842,
+    "createDate": "2025-05-23T18:57:17.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.055"
+        },
+        {
+          "rgb": [
+            70,
+            170,
+            240
+          ],
+          "hex": "#46aaf0",
+          "percentage": "0.017"
+        },
+        {
+          "rgb": [
+            150,
+            120,
+            90
+          ],
+          "hex": "#96785a",
+          "percentage": "0.008"
+        },
+        {
+          "rgb": [
+            250,
+            250,
+            240
+          ],
+          "hex": "#fafaf0",
+          "percentage": "0.003"
+        },
+        {
+          "rgb": [
+            200,
+            40,
+            70
+          ],
+          "hex": "#c82846",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "51.956"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Würstel Waggon am Simmeringer-Friedhof.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Würstel_Waggon_am_Simmeringer-Friedhof.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Würstel_Waggon_am_Simmeringer-Friedhof-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Würstel_Waggon_am_Simmeringer-Friedhof-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Würstel_Waggon_am_Simmeringer-Friedhof-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Würstel_Waggon_am_Simmeringer-Friedhof-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
     "latitude": 48.202117,
     "longitude": 16.337203,
     "createDate": "2025-05-03T11:41:45.000Z",
@@ -55416,6 +56380,154 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.159375,
+    "longitude": 16.493792,
+    "createDate": "2025-01-25T11:45:25.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            230,
+            230,
+            220
+          ],
+          "hex": "#e6e6dc",
+          "percentage": "0.171"
+        },
+        {
+          "rgb": [
+            190,
+            140,
+            80
+          ],
+          "hex": "#be8c50",
+          "percentage": "0.007"
+        },
+        {
+          "rgb": [
+            140,
+            100,
+            60
+          ],
+          "hex": "#8c643c",
+          "percentage": "0.007"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.005"
+        },
+        {
+          "rgb": [
+            90,
+            60,
+            50
+          ],
+          "hex": "#5a3c32",
+          "percentage": "0.005"
+        }
+      ],
+      "colorfulness": "45.923"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Zug-Schienen und Frachtlader bei einer Fabrik am Albernen Hafen.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Zug-Schienen_und_Frachtlader_bei_einer_Fabrik_am_Albernen_Hafen.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Zug-Schienen_und_Frachtlader_bei_einer_Fabrik_am_Albernen_Hafen-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Zug-Schienen_und_Frachtlader_bei_einer_Fabrik_am_Albernen_Hafen-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Zug-Schienen_und_Frachtlader_bei_einer_Fabrik_am_Albernen_Hafen-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Zug-Schienen_und_Frachtlader_bei_einer_Fabrik_am_Albernen_Hafen-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
+    "latitude": 48.157514,
+    "longitude": 16.434094,
+    "createDate": "2025-05-21T16:27:07.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            110,
+            190,
+            230
+          ],
+          "hex": "#6ebee6",
+          "percentage": "0.034"
+        },
+        {
+          "rgb": [
+            200,
+            220,
+            230
+          ],
+          "hex": "#c8dce6",
+          "percentage": "0.030"
+        },
+        {
+          "rgb": [
+            60,
+            40,
+            30
+          ],
+          "hex": "#3c281e",
+          "percentage": "0.023"
+        },
+        {
+          "rgb": [
+            160,
+            150,
+            90
+          ],
+          "hex": "#a0965a",
+          "percentage": "0.005"
+        }
+      ],
+      "colorfulness": "51.142"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Friedhof",
+      "Statuen"
+    ],
+    "name": "'In liebe vereint' Grabmal in der nähe von Tor 1.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/'In_liebe_vereint'_Grabmal_in_der_nähe_von_Tor_1.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/'In_liebe_vereint'_Grabmal_in_der_nähe_von_Tor_1-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/'In_liebe_vereint'_Grabmal_in_der_nähe_von_Tor_1-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/'In_liebe_vereint'_Grabmal_in_der_nähe_von_Tor_1-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/'In_liebe_vereint'_Grabmal_in_der_nähe_von_Tor_1-1440w.jpg"
+    },
+    "gallery": "zentralfriedhof"
+  },
+  {
     "latitude": 48.152783,
     "longitude": 16.435778,
     "createDate": "2025-06-29T11:02:23.000Z",
@@ -55443,15 +56555,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Adler Grab.jpg",
+    "name": "Adler Grab in der nähe der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Adler_Grab.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Adler_Grab-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Adler_Grab-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Adler_Grab-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Adler_Grab-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Adler_Grab_in_der_nähe_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Adler_Grab_in_der_nähe_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Adler_Grab_in_der_nähe_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Adler_Grab_in_der_nähe_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Adler_Grab_in_der_nähe_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -55501,15 +56614,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Altar Seitlich Kirche.jpg",
+    "name": "Altar (Seitlich) der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_Seitlich_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_Seitlich_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_Seitlich_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_Seitlich_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_Seitlich_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_(Seitlich)_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_(Seitlich)_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_(Seitlich)_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_(Seitlich)_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_(Seitlich)_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -55550,15 +56664,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Altar der Kirche.jpg",
+    "name": "Altar der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_der_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_der_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_der_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_der_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_der_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Altar_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -55617,15 +56732,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Arkaden neben der Kirche.jpg",
+    "name": "Arkaden neben der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Arkaden_neben_der_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Arkaden_neben_der_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Arkaden_neben_der_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Arkaden_neben_der_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Arkaden_neben_der_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Arkaden_neben_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Arkaden_neben_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Arkaden_neben_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Arkaden_neben_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Arkaden_neben_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -55666,7 +56782,8 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
     "name": "Aussenansicht von Tor 1.jpg",
     "urls": {
@@ -55724,15 +56841,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Blau-Goldene Kuppel Seitlich in der Kirche.jpg",
+    "name": "Blau-Goldene Kuppel Seitlich in der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_Seitlich_in_der_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_Seitlich_in_der_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_Seitlich_in_der_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_Seitlich_in_der_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_Seitlich_in_der_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_Seitlich_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_Seitlich_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_Seitlich_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_Seitlich_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_Seitlich_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -55800,15 +56918,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Blau-Goldene Kuppel der Kirche.jpg",
+    "name": "Blau-Goldene Kuppel der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_der_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_der_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_der_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_der_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_der_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Blau-Goldene_Kuppel_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -55876,7 +56995,8 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
     "name": "Blumenstand am Tor 11.jpg",
     "urls": {
@@ -55952,15 +57072,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Bundespräsidentengräber und Kirche.jpg",
+    "name": "Bundespräsidentengruft und Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bundespräsidentengräber_und_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bundespräsidentengräber_und_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bundespräsidentengräber_und_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bundespräsidentengräber_und_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bundespräsidentengräber_und_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bundespräsidentengruft_und_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bundespräsidentengruft_und_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bundespräsidentengruft_und_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bundespräsidentengruft_und_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bundespräsidentengruft_und_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -56001,15 +57122,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Bänke im Detail in der Kirche.jpg",
+    "name": "Bänke im Detail in der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_im_Detail_in_der_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_im_Detail_in_der_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_im_Detail_in_der_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_im_Detail_in_der_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_im_Detail_in_der_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_im_Detail_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_im_Detail_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_im_Detail_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_im_Detail_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_im_Detail_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -56059,15 +57181,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Bänke in der Kirche.jpg",
+    "name": "Bänke in der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_in_der_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_in_der_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_in_der_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_in_der_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_in_der_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -56117,15 +57240,84 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Bänke von der Seite in der Kirche.jpg",
+    "name": "Bänke von der Seite in der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_von_der_Seite_in_der_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_von_der_Seite_in_der_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_von_der_Seite_in_der_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_von_der_Seite_in_der_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_von_der_Seite_in_der_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_von_der_Seite_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_von_der_Seite_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_von_der_Seite_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_von_der_Seite_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Bänke_von_der_Seite_in_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
+    },
+    "gallery": "zentralfriedhof"
+  },
+  {
+    "latitude": 48.154147,
+    "longitude": 16.441006,
+    "createDate": "2024-11-03T15:38:57.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            220,
+            190,
+            170
+          ],
+          "hex": "#dcbeaa",
+          "percentage": "0.034"
+        },
+        {
+          "rgb": [
+            150,
+            190,
+            220
+          ],
+          "hex": "#96bedc",
+          "percentage": "0.033"
+        },
+        {
+          "rgb": [
+            250,
+            230,
+            220
+          ],
+          "hex": "#fae6dc",
+          "percentage": "0.017"
+        },
+        {
+          "rgb": [
+            110,
+            80,
+            70
+          ],
+          "hex": "#6e5046",
+          "percentage": "0.010"
+        }
+      ],
+      "colorfulness": "34.579"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Friedhof",
+      "Statuen"
+    ],
+    "name": "Cafe Oberlaa am Zentralfriedhof bei Dämmerung.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Cafe_Oberlaa_am_Zentralfriedhof_bei_Dämmerung.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Cafe_Oberlaa_am_Zentralfriedhof_bei_Dämmerung-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Cafe_Oberlaa_am_Zentralfriedhof_bei_Dämmerung-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Cafe_Oberlaa_am_Zentralfriedhof_bei_Dämmerung-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Cafe_Oberlaa_am_Zentralfriedhof_bei_Dämmerung-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -56175,198 +57367,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Der Weg zur Kirche.jpg",
+    "name": "Der Weg zur Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Der_Weg_zur_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Der_Weg_zur_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Der_Weg_zur_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Der_Weg_zur_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Der_Weg_zur_Kirche-1440w.jpg"
-    },
-    "gallery": "zentralfriedhof"
-  },
-  {
-    "latitude": 48.150075,
-    "longitude": 16.437378,
-    "createDate": "2025-06-01T06:16:52.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            110,
-            90,
-            80
-          ],
-          "hex": "#6e5a50",
-          "percentage": "0.038"
-        },
-        {
-          "rgb": [
-            40,
-            20,
-            10
-          ],
-          "hex": "#28140a",
-          "percentage": "0.015"
-        },
-        {
-          "rgb": [
-            230,
-            240,
-            230
-          ],
-          "hex": "#e6f0e6",
-          "percentage": "0.011"
-        },
-        {
-          "rgb": [
-            170,
-            150,
-            130
-          ],
-          "hex": "#aa9682",
-          "percentage": "0.006"
-        }
-      ],
-      "colorfulness": "37.061"
-    },
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Österreich",
-      "Wien",
-      "Landschaft",
-      "Architektur",
-      "Stadt",
-      "Friedhof"
-    ],
-    "name": "Grab und Sonne Zentralfriedhof Wien.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_und_Sonne_Zentralfriedhof_Wien.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_und_Sonne_Zentralfriedhof_Wien-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_und_Sonne_Zentralfriedhof_Wien-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_und_Sonne_Zentralfriedhof_Wien-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_und_Sonne_Zentralfriedhof_Wien-1440w.jpg"
-    },
-    "gallery": "zentralfriedhof"
-  },
-  {
-    "latitude": 48.152886,
-    "longitude": 16.437042,
-    "createDate": "2025-06-29T11:03:59.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            70,
-            50,
-            20
-          ],
-          "hex": "#463214",
-          "percentage": "0.028"
-        },
-        {
-          "rgb": [
-            240,
-            240,
-            230
-          ],
-          "hex": "#f0f0e6",
-          "percentage": "0.016"
-        },
-        {
-          "rgb": [
-            110,
-            130,
-            140
-          ],
-          "hex": "#6e828c",
-          "percentage": "0.006"
-        },
-        {
-          "rgb": [
-            230,
-            210,
-            150
-          ],
-          "hex": "#e6d296",
-          "percentage": "0.006"
-        }
-      ],
-      "colorfulness": "37.919"
-    },
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Österreich",
-      "Wien",
-      "Landschaft",
-      "Architektur",
-      "Stadt",
-      "Friedhof"
-    ],
-    "name": "Gräber Kirche Zentralfriedhof Wien.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_Kirche_Zentralfriedhof_Wien.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_Kirche_Zentralfriedhof_Wien-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_Kirche_Zentralfriedhof_Wien-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_Kirche_Zentralfriedhof_Wien-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_Kirche_Zentralfriedhof_Wien-1440w.jpg"
-    },
-    "gallery": "zentralfriedhof"
-  },
-  {
-    "latitude": 48.156361,
-    "longitude": 16.439128,
-    "createDate": "2025-06-29T11:15:30.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            210,
-            190,
-            170
-          ],
-          "hex": "#d2beaa",
-          "percentage": "0.033"
-        },
-        {
-          "rgb": [
-            30,
-            10,
-            0
-          ],
-          "hex": "#1e0a00",
-          "percentage": "0.024"
-        }
-      ],
-      "colorfulness": "40.488"
-    },
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Österreich",
-      "Wien",
-      "Landschaft",
-      "Architektur",
-      "Stadt",
-      "Friedhof"
-    ],
-    "name": "Jesus-Statue in einem Seitenschiff der Kirche.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Jesus-Statue_in_einem_Seitenschiff_der_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Jesus-Statue_in_einem_Seitenschiff_der_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Jesus-Statue_in_einem_Seitenschiff_der_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Jesus-Statue_in_einem_Seitenschiff_der_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Jesus-Statue_in_einem_Seitenschiff_der_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Der_Weg_zur_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Der_Weg_zur_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Der_Weg_zur_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Der_Weg_zur_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Der_Weg_zur_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -56434,15 +57444,388 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Karl-Lueger-Gedächtniskirche am Zentralfriedhof Wien.jpg",
+    "name": "Friedhofskirche zum Heiligen Karl Borromäus und Bundespräsidentengruft.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Karl-Lueger-Gedächtniskirche_am_Zentralfriedhof_Wien.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Karl-Lueger-Gedächtniskirche_am_Zentralfriedhof_Wien-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Karl-Lueger-Gedächtniskirche_am_Zentralfriedhof_Wien-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Karl-Lueger-Gedächtniskirche_am_Zentralfriedhof_Wien-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Karl-Lueger-Gedächtniskirche_am_Zentralfriedhof_Wien-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Friedhofskirche_zum_Heiligen_Karl_Borromäus_und_Bundespräsidentengruft.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Friedhofskirche_zum_Heiligen_Karl_Borromäus_und_Bundespräsidentengruft-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Friedhofskirche_zum_Heiligen_Karl_Borromäus_und_Bundespräsidentengruft-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Friedhofskirche_zum_Heiligen_Karl_Borromäus_und_Bundespräsidentengruft-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Friedhofskirche_zum_Heiligen_Karl_Borromäus_und_Bundespräsidentengruft-1440w.jpg"
+    },
+    "gallery": "zentralfriedhof"
+  },
+  {
+    "latitude": 48.150075,
+    "longitude": 16.437378,
+    "createDate": "2025-06-01T06:16:52.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            110,
+            90,
+            80
+          ],
+          "hex": "#6e5a50",
+          "percentage": "0.038"
+        },
+        {
+          "rgb": [
+            40,
+            20,
+            10
+          ],
+          "hex": "#28140a",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            230,
+            240,
+            230
+          ],
+          "hex": "#e6f0e6",
+          "percentage": "0.011"
+        },
+        {
+          "rgb": [
+            170,
+            150,
+            130
+          ],
+          "hex": "#aa9682",
+          "percentage": "0.006"
+        }
+      ],
+      "colorfulness": "37.061"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Friedhof",
+      "Statuen"
+    ],
+    "name": "Grab und Sonne.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_und_Sonne.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_und_Sonne-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_und_Sonne-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_und_Sonne-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_und_Sonne-1440w.jpg"
+    },
+    "gallery": "zentralfriedhof"
+  },
+  {
+    "latitude": 48.151317,
+    "longitude": 16.439131,
+    "createDate": "2024-11-03T13:58:44.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            230,
+            220
+          ],
+          "hex": "#f0e6dc",
+          "percentage": "0.083"
+        },
+        {
+          "rgb": [
+            30,
+            10,
+            0
+          ],
+          "hex": "#1e0a00",
+          "percentage": "0.017"
+        },
+        {
+          "rgb": [
+            140,
+            110,
+            50
+          ],
+          "hex": "#8c6e32",
+          "percentage": "0.008"
+        },
+        {
+          "rgb": [
+            230,
+            50,
+            40
+          ],
+          "hex": "#e63228",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "49.239"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Friedhof",
+      "Statuen"
+    ],
+    "name": "Grab von Arnold Schönberg.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_von_Arnold_Schönberg.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_von_Arnold_Schönberg-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_von_Arnold_Schönberg-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_von_Arnold_Schönberg-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_von_Arnold_Schönberg-1440w.jpg"
+    },
+    "gallery": "zentralfriedhof"
+  },
+  {
+    "latitude": 48.151017,
+    "longitude": 16.439919,
+    "createDate": "2024-11-03T14:08:44.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            70,
+            40,
+            20
+          ],
+          "hex": "#462814",
+          "percentage": "0.012"
+        },
+        {
+          "rgb": [
+            190,
+            200,
+            210
+          ],
+          "hex": "#bec8d2",
+          "percentage": "0.008"
+        },
+        {
+          "rgb": [
+            220,
+            150,
+            160
+          ],
+          "hex": "#dc96a0",
+          "percentage": "0.008"
+        }
+      ],
+      "colorfulness": "38.048"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Friedhof",
+      "Statuen"
+    ],
+    "name": "Grab von Franz West.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_von_Franz_West.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_von_Franz_West-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_von_Franz_West-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_von_Franz_West-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Grab_von_Franz_West-1440w.jpg"
+    },
+    "gallery": "zentralfriedhof"
+  },
+  {
+    "latitude": 48.154614,
+    "longitude": 16.429725,
+    "createDate": "2025-06-09T15:43:38.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            170,
+            210,
+            230
+          ],
+          "hex": "#aad2e6",
+          "percentage": "0.051"
+        },
+        {
+          "rgb": [
+            60,
+            40,
+            20
+          ],
+          "hex": "#3c2814",
+          "percentage": "0.021"
+        },
+        {
+          "rgb": [
+            160,
+            130,
+            90
+          ],
+          "hex": "#a0825a",
+          "percentage": "0.009"
+        }
+      ],
+      "colorfulness": "43.932"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Friedhof",
+      "Statuen"
+    ],
+    "name": "Gräber am alten jüdischen Friedhof.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_am_alten_jüdischen_Friedhof.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_am_alten_jüdischen_Friedhof-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_am_alten_jüdischen_Friedhof-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_am_alten_jüdischen_Friedhof-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_am_alten_jüdischen_Friedhof-1440w.jpg"
+    },
+    "gallery": "zentralfriedhof"
+  },
+  {
+    "latitude": 48.152886,
+    "longitude": 16.437042,
+    "createDate": "2025-06-29T11:03:59.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            70,
+            50,
+            20
+          ],
+          "hex": "#463214",
+          "percentage": "0.028"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            110,
+            130,
+            140
+          ],
+          "hex": "#6e828c",
+          "percentage": "0.006"
+        },
+        {
+          "rgb": [
+            230,
+            210,
+            150
+          ],
+          "hex": "#e6d296",
+          "percentage": "0.006"
+        }
+      ],
+      "colorfulness": "37.919"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Friedhof",
+      "Statuen"
+    ],
+    "name": "Gräber und Friedhofskirche zum Heiligen Karl Borromäus.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_und_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_und_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_und_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_und_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Gräber_und_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
+    },
+    "gallery": "zentralfriedhof"
+  },
+  {
+    "latitude": 48.156361,
+    "longitude": 16.439128,
+    "createDate": "2025-06-29T11:15:30.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            210,
+            190,
+            170
+          ],
+          "hex": "#d2beaa",
+          "percentage": "0.033"
+        },
+        {
+          "rgb": [
+            30,
+            10,
+            0
+          ],
+          "hex": "#1e0a00",
+          "percentage": "0.024"
+        }
+      ],
+      "colorfulness": "40.488"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Friedhof",
+      "Statuen"
+    ],
+    "name": "Jesus-Statue in einem Seitenschiff der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Jesus-Statue_in_einem_Seitenschiff_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Jesus-Statue_in_einem_Seitenschiff_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Jesus-Statue_in_einem_Seitenschiff_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Jesus-Statue_in_einem_Seitenschiff_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Jesus-Statue_in_einem_Seitenschiff_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -56483,7 +57866,8 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
     "name": "Kirche, Gräber und Trauerweiden im Sonnenschein.jpg",
     "urls": {
@@ -56532,7 +57916,8 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
     "name": "Kirchenbänke und Jugendstil-Fassade.jpg",
     "urls": {
@@ -56599,7 +57984,8 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
     "name": "Lorenzo's Grab.jpg",
     "urls": {
@@ -56608,55 +57994,6 @@
       "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Lorenzo's_Grab-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Lorenzo's_Grab-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Lorenzo's_Grab-1440w.jpg"
-    },
-    "gallery": "zentralfriedhof"
-  },
-  {
-    "latitude": 48.15685,
-    "longitude": 16.439056,
-    "createDate": "2025-06-29T11:16:24.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            180,
-            150,
-            130
-          ],
-          "hex": "#b49682",
-          "percentage": "0.043"
-        },
-        {
-          "rgb": [
-            240,
-            240,
-            230
-          ],
-          "hex": "#f0f0e6",
-          "percentage": "0.011"
-        }
-      ],
-      "colorfulness": "33.720"
-    },
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Österreich",
-      "Wien",
-      "Landschaft",
-      "Architektur",
-      "Stadt",
-      "Friedhof"
-    ],
-    "name": "Priester-Statue in einem Seitenschiff der Kirche.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Priester-Statue_in_einem_Seitenschiff_der_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Priester-Statue_in_einem_Seitenschiff_der_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Priester-Statue_in_einem_Seitenschiff_der_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Priester-Statue_in_einem_Seitenschiff_der_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Priester-Statue_in_einem_Seitenschiff_der_Kirche-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -56697,15 +58034,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Seitengang der Kirche.jpg",
+    "name": "Seitengang der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Seitengang_der_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Seitengang_der_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Seitengang_der_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Seitengang_der_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Seitengang_der_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Seitengang_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Seitengang_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Seitengang_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Seitengang_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Seitengang_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -56764,7 +58102,8 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
     "name": "Sowjetisches-Denkmal.jpg",
     "urls": {
@@ -56773,6 +58112,65 @@
       "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Sowjetisches-Denkmal-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Sowjetisches-Denkmal-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Sowjetisches-Denkmal-1440w.jpg"
+    },
+    "gallery": "zentralfriedhof"
+  },
+  {
+    "latitude": 48.152783,
+    "longitude": 16.436053,
+    "createDate": "2025-06-29T11:02:59.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            40,
+            30,
+            10
+          ],
+          "hex": "#281e0a",
+          "percentage": "0.020"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.002"
+        },
+        {
+          "rgb": [
+            90,
+            200,
+            240
+          ],
+          "hex": "#5ac8f0",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "32.414"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Friedhof",
+      "Statuen"
+    ],
+    "name": "Statue eines weinenden Mannes, Gräber und Bäume bei Gruppe 13.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Statue_eines_weinenden_Mannes,_Gräber_und_Bäume_bei_Gruppe_13.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Statue_eines_weinenden_Mannes,_Gräber_und_Bäume_bei_Gruppe_13-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Statue_eines_weinenden_Mannes,_Gräber_und_Bäume_bei_Gruppe_13-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Statue_eines_weinenden_Mannes,_Gräber_und_Bäume_bei_Gruppe_13-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Statue_eines_weinenden_Mannes,_Gräber_und_Bäume_bei_Gruppe_13-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   },
@@ -56822,15 +58220,16 @@
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ],
-    "name": "Zwischengang der Kirche.jpg",
+    "name": "Zwischengang der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Zwischengang_der_Kirche.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Zwischengang_der_Kirche-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Zwischengang_der_Kirche-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Zwischengang_der_Kirche-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Zwischengang_der_Kirche-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Zwischengang_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Zwischengang_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Zwischengang_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Zwischengang_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/zentralfriedhof/Zwischengang_der_Friedhofskirche_zum_Heiligen_Karl_Borromäus-1440w.jpg"
     },
     "gallery": "zentralfriedhof"
   }

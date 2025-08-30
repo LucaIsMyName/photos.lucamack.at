@@ -315,9 +315,9 @@ const Statistics = () => {
         return { ...img, colorfulness: imgWithColor.colorData!.colorfulness };
       });
 
-    const colorfulPhotos = [...imagesWithColorfulness].sort((a, b) => b.colorfulness - a.colorfulness).slice(0, 5);
+    const colorfulPhotos = [...imagesWithColorfulness].sort((a, b) => b.colorfulness - a.colorfulness).slice(0, 10);
 
-    const monochromaticPhotos = [...imagesWithColorfulness].sort((a, b) => a.colorfulness - b.colorfulness).slice(0, 5);
+    const monochromaticPhotos = [...imagesWithColorfulness].sort((a, b) => a.colorfulness - b.colorfulness).slice(0, 10);
 
     // Seasonal color trends
     const seasonalColors: { season: string; colors: string[] }[] = [
@@ -593,18 +593,24 @@ const Statistics = () => {
       {/* Most Colorful Photos */}
       <div className={`my-8 py-8 ${CONFIG.theme.border.y}`}>
         <h2 className="text-xl mb-4">Farbenfrohste Fotos</h2>
-        <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+        <div className="space-y-3">
           {stats.colorfulPhotos.map((image, index) => (
             <Link
               key={index}
               to={`/gallery/${image.gallery}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
-              className="block">
+              className="flex items-center gap-4 p-2 transition-colors">
               <img
-                src={getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 380)}
+                src={getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 160)}
                 alt={image.filename}
-                className="w-full h-auto object-cover aspect-square"
+                className="w-16 h-16 object-cover flex-shrink-0"
               />
-              <div className="text-[11px] mt-1 font-mono">Farbwert: {image.colorfulness}%</div>
+              <div className="flex-1 min-w-0">
+                <div className="text-sm  truncate">{image.filename.replace(/\.[^/.]+$/, "")}</div>
+                <div className="text-xs text-neutral-600 dark:text-neutral-400 truncate">
+                  {galleries.find(g => g.slug === image.gallery)?.title || image.gallery}
+                </div>
+                <div className="text-[11px] font-mono text-neutral-500">Farbwert: {Number(image.colorfulness || 0).toFixed(1)}%</div>
+              </div>
             </Link>
           ))}
         </div>
@@ -613,18 +619,24 @@ const Statistics = () => {
       {/* Most Monochromatic Photos */}
       <div className={`mb-8 pb-8 ${CONFIG.theme.border.bottom}`}>
         <h2 className="text-xl mb-4">Monochromatischste Fotos</h2>
-        <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+        <div className="space-y-3">
           {stats.monochromaticPhotos.map((image, index) => (
             <Link
               key={index}
               to={`/gallery/${image.gallery}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ""))}`}
-              className="block">
+              className="flex items-center gap-4 p-2 transition-colors">
               <img
-                src={getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 380)}
+                src={getImageUrl(image.gallery, image.filename.replaceAll(" ", "_"), 160)}
                 alt={image.filename}
-                className="w-full h-auto object-cover aspect-square"
+                className="w-16 h-16 object-cover flex-shrink-0"
               />
-              <div className="text-[11px] mt-1 font-mono">Farbwert: {image.colorfulness}%</div>
+              <div className="flex-1 min-w-0">
+                <div className="text-sm  truncate">{image.filename.replace(/\.[^/.]+$/, "")}</div>
+                <div className="text-xs text-neutral-600 dark:text-neutral-400 truncate">
+                  {galleries.find(g => g.slug === image.gallery)?.title || image.gallery}
+                </div>
+                <div className="text-[11px] font-mono text-neutral-500">Farbwert: {Number(image.colorfulness || 0).toFixed(1)}%</div>
+              </div>
             </Link>
           ))}
         </div>

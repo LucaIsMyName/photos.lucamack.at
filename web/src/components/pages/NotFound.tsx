@@ -38,6 +38,7 @@ const NotFound = ({ title, text }: { title?: string; text?: string }) => {
         title={`404 | ${title || CONFIG.meta.title}`}
         description="Seite nicht gefunden"
         imageUrl={"/404.jpg"}
+        noIndex={true}
       />
       <div className="flex flex-col items-start">
         <figure className="mb-4">

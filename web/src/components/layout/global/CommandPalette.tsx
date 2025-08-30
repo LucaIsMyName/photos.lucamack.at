@@ -109,8 +109,12 @@ export default function CommandPalette({ open, onClose, setMobileMenuOpen }: Com
   const imageSizeClasses = "w-12 h-12 min-w-12 min-h-12 md:min-w-16 md:min-h-16 md:w-16 md:h-16";
 
   return (
-    <div className={`fixed backdrop-blur-sm inset-0 z-[1000000] p-4 pt-[clamp(32px,10vh,240px)] bg-black/80 overflow-y-auto`}>
-      <div className={`max-w-2xl w-full mx-auto shadow-2xl overflow-hidden ${theme === "light" ? "bg-white text-black" : "bg-black text-white"}`}>
+    <div 
+      className={`fixed backdrop-blur-sm inset-0 z-[1000000] p-4 pt-[clamp(32px,10vh,240px)] bg-black/80 overflow-y-auto`}
+      onClick={onClose}>
+      <div 
+        className={`max-w-2xl w-full mx-auto shadow-2xl overflow-hidden ${theme === "light" ? "bg-white text-black" : "bg-black text-white"}`}
+        onClick={(e) => e.stopPropagation()}>
         <Command
           className={`w-full ${CONFIG.theme.border.default}`}
           filter={(value, search) => {

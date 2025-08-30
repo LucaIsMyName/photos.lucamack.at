@@ -2,6 +2,11 @@
   RewriteEngine On
   RewriteBase /
   
+  # Set headers for permanent redirects
+  <IfModule mod_headers.c>
+    Header always set Cache-Control "no-cache, no-store, must-revalidate" env=REDIRECT_STATUS
+  </IfModule>
+  
   # Redirect old image URLs to homepage (permanent redirect)
   RewriteRule ^image/(.*)$ / [R=301,L]
   
@@ -13,13 +18,15 @@
   RewriteRule ^statistics/?$ /app/statistics [R=301,L]
   RewriteRule ^filter/?$ /app/filter [R=301,L]
 
-  RewriteRule ^gallery/beton-und-struktur/?$ /gallery/wien [R=301,L]
-  RewriteRule ^gallery/nhm/?$ /gallery/im-museum [R=301,L]
-  RewriteRule ^gallery/bad-ischl/?$ /gallery/salzkammergut [R=301,L]
-  RewriteRule ^gallery/kleinlobming/?$ /gallery/sonstwo-und-allfaelliges [R=301,L]
-  RewriteRule ^gallery/ottenstein/?$ /gallery/sonstwo-und-allfaelliges [R=301,L]
-  RewriteRule ^gallery/waidhofen/?$ /gallery/sonstwo-und-allfaelliges [R=301,L]
-  RewriteRule ^gallery/salzkammergut/?$ /gallery/im-museum [R=301,L]
+  # Gallery redirects with image path preservation
+  RewriteRule ^gallery/beton-und-strukturen(/image/.*)?/?$ /gallery/wien$1 [R=301,L]
+  RewriteRule ^gallery/beton-und-struktur(/image/.*)?/?$ /gallery/wien$1 [R=301,L]
+  RewriteRule ^gallery/nhm(/image/.*)?/?$ /gallery/im-museum$1 [R=301,L]
+  RewriteRule ^gallery/bad-ischl(/image/.*)?/?$ /gallery/im-museum$1 [R=301,L]
+  RewriteRule ^gallery/kleinlobming(/image/.*)?/?$ /gallery/sonstwo-und-allfaelliges$1 [R=301,L]
+  RewriteRule ^gallery/ottenstein(/image/.*)?/?$ /gallery/sonstwo-und-allfaelliges$1 [R=301,L]
+  RewriteRule ^gallery/waidhofen(/image/.*)?/?$ /gallery/sonstwo-und-allfaelliges$1 [R=301,L]
+  RewriteRule ^gallery/salzkammergut(/image/.*)?/?$ /gallery/im-museum$1 [R=301,L]
   
   # Default SPA handling
   RewriteRule ^index\.html$ - [L]

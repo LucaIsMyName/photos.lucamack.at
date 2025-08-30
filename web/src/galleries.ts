@@ -11731,7 +11731,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Tankstelle und Wohnhaus nahe der Favoritenstrasse.jpg",
+        "filename": "Tankstelle und Wohnhaus in der Gudrunstrasse.jpg",
         "latitude": 48.178078,
         "longitude": 16.378461,
         "createDate": "2025-08-30T10:15:49.000Z",
@@ -26020,6 +26020,54 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Wiener Linien Logo am Gehsteig in der Simmeringer-Hauptstrasse - Enkplatz.jpg",
+        "latitude": 48.174839,
+        "longitude": 16.41575,
+        "createDate": "2025-08-30T14:53:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.097"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "17.780"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
+      },
+      {
         "filename": "Zentralfriedhof S-Bahn Station Simmering.jpg",
         "latitude": 48.154747,
         "longitude": 16.42505,
@@ -26134,8 +26182,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "11. April 2024 - 14. August 2025",
-    "imageCount": 70,
+    "timeframe": "11. April 2024 - 30. August 2025",
+    "imageCount": 71,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -37340,6 +37388,131 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Bier & Bier' im Zentrum Simmering.jpg",
+        "latitude": 48.173542,
+        "longitude": 16.417114,
+        "createDate": "2025-08-30T14:35:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.086"
+            },
+            {
+              "rgb": [
+                190,
+                200,
+                210
+              ],
+              "hex": "#bec8d2",
+              "percentage": "0.059"
+            },
+            {
+              "rgb": [
+                250,
+                220,
+                100
+              ],
+              "hex": "#fadc64",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                130,
+                100,
+                90
+              ],
+              "hex": "#82645a",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                220
+              ],
+              "hex": "#fafadc",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "49.386"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
+        "filename": "'Cafe' Plakat in Simmering.jpg",
+        "latitude": 48.176308,
+        "longitude": 16.416181,
+        "createDate": "2025-08-30T14:49:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                200,
+                170
+              ],
+              "hex": "#dcc8aa",
+              "percentage": "0.060"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                100
+              ],
+              "hex": "#826e64",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.023"
+            }
+          ],
+          "colorfulness": "41.325"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
         "filename": "'Low' & 'Nr' Graffitti und Wiese davor.jpg",
         "latitude": 48.195586,
         "longitude": 16.420492,
@@ -37728,7 +37901,65 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Thailändische Spezialitäte' Auslage in der Kaiser-Ebersdorfer-Strasse.jpg",
+        "filename": "'Tafelspitz' Schild bei Schönbrunn Wien.jpg",
+        "latitude": 48.185794,
+        "longitude": 16.319944,
+        "createDate": "2024-04-11T17:25:26.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                170,
+                110
+              ],
+              "hex": "#dcaa6e",
+              "percentage": "0.041"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                250
+              ],
+              "hex": "#fafafa",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                40,
+                50,
+                50
+              ],
+              "hex": "#283232",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                100
+              ],
+              "hex": "#a08264",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "44.279"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
+        "filename": "'Thailändisches Spezialitäte' Auslage in der Kaiser-Ebersdorfer-Strasse.jpg",
         "latitude": 48.168872,
         "longitude": 16.424133,
         "createDate": "2025-07-27T13:18:21.000Z",
@@ -37910,6 +38141,73 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.337"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
+        "filename": "'Voller Frische' Werbeschriftzug im Zentrum Simmering.jpg",
+        "latitude": 48.173325,
+        "longitude": 16.416319,
+        "createDate": "2025-08-30T14:33:16.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                220,
+                200
+              ],
+              "hex": "#e6dcc8",
+              "percentage": "0.092"
+            },
+            {
+              "rgb": [
+                40,
+                0,
+                0
+              ],
+              "hex": "#280000",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                250,
+                190,
+                40
+              ],
+              "hex": "#fabe28",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                230,
+                150,
+                0
+              ],
+              "hex": "#e69600",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                150,
+                100,
+                30
+              ],
+              "hex": "#96641e",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "59.053"
         },
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
@@ -39097,64 +39395,6 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Tafelspitz Schild bei Schönbrunn Wien.jpg",
-        "latitude": 48.185794,
-        "longitude": 16.319944,
-        "createDate": "2024-04-11T17:25:26.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                220,
-                170,
-                110
-              ],
-              "hex": "#dcaa6e",
-              "percentage": "0.041"
-            },
-            {
-              "rgb": [
-                250,
-                250,
-                250
-              ],
-              "hex": "#fafafa",
-              "percentage": "0.025"
-            },
-            {
-              "rgb": [
-                40,
-                50,
-                50
-              ],
-              "hex": "#283232",
-              "percentage": "0.017"
-            },
-            {
-              "rgb": [
-                160,
-                130,
-                100
-              ],
-              "hex": "#a08264",
-              "percentage": "0.007"
-            }
-          ],
-          "colorfulness": "44.279"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Wien",
-          "Österreich",
-          "Architektur",
-          "Typografie",
-          "Sonstiges"
-        ]
-      },
-      {
         "filename": "Veränderung ist schwer Schriftzug Simmering Wien.jpg",
         "latitude": 48.169697,
         "longitude": 16.416206,
@@ -39263,7 +39503,7 @@ export const galleries = [
       }
     ],
     "timeframe": "11. April 2024 - 30. August 2025",
-    "imageCount": 36,
+    "imageCount": 39,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -43179,6 +43419,78 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Fabrik am Albernen Hafen - Simmering.jpg",
+        "latitude": 48.1591,
+        "longitude": 16.501581,
+        "createDate": "2025-01-25T11:07:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.067"
+            },
+            {
+              "rgb": [
+                140,
+                100,
+                40
+              ],
+              "hex": "#8c6428",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                90,
+                160,
+                190
+              ],
+              "hex": "#5aa0be",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                10,
+                120,
+                160
+              ],
+              "hex": "#0a78a0",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "45.466"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Fabriksgelände in Brigittenau.jpg",
         "latitude": 48.236172,
         "longitude": 16.385681,
@@ -43701,6 +44013,123 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Fassade und Fenster eines Wohnhauses in der Krausegasse - Simmering.jpg",
+        "latitude": 48.174606,
+        "longitude": 16.417761,
+        "createDate": "2025-08-30T14:38:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.196"
+            },
+            {
+              "rgb": [
+                140,
+                100,
+                70
+              ],
+              "hex": "#8c6446",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                180,
+                170,
+                170
+              ],
+              "hex": "#b4aaaa",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "37.889"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Fassade und eine abgeklebte 'Lebensmittel' Reklame in der Krausegasse - Simmering .jpg",
+        "latitude": 48.174569,
+        "longitude": 16.419322,
+        "createDate": "2025-08-30T14:41:00.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                210,
+                200
+              ],
+              "hex": "#dcd2c8",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                210,
+                170,
+                130
+              ],
+              "hex": "#d2aa82",
+              "percentage": "0.023"
+            }
+          ],
+          "colorfulness": "41.336"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Favoritner-Gürtel bei Hauptbahnhof.jpg",
         "latitude": 48.186131,
         "longitude": 16.374222,
@@ -43871,6 +44300,123 @@ export const galleries = [
             }
           ],
           "colorfulness": "49.793"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Friedhof der Namenlosen - Simmering.jpg",
+        "latitude": 48.159778,
+        "longitude": 16.502603,
+        "createDate": "2025-01-25T11:12:34.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                150,
+                80
+              ],
+              "hex": "#be9650",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                170
+              ],
+              "hex": "#dcc8aa",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                30
+              ],
+              "hex": "#32281e",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "38.622"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Friedhof der Namenlosen Eingangstor und Gräber - Simmering.jpg",
+        "latitude": 48.159642,
+        "longitude": 16.502594,
+        "createDate": "2025-01-25T11:14:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                30,
+                30
+              ],
+              "hex": "#281e1e",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                100
+              ],
+              "hex": "#a08264",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                180
+              ],
+              "hex": "#e6d2b4",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "34.889"
         },
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
@@ -45015,6 +45561,69 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Hauseingang in der Wilhelm-Weber-Gasse - Simmering.jpg",
+        "latitude": 48.175831,
+        "longitude": 16.417814,
+        "createDate": "2025-08-30T14:47:24.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                130,
+                120
+              ],
+              "hex": "#8c8278",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                40
+              ],
+              "hex": "#322828",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                100,
+                80,
+                90
+              ],
+              "hex": "#64505a",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "35.736"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Hochhäuser in Wien Erdberg nahe Gasometer.jpg",
         "latitude": 48.185806,
         "longitude": 16.413911,
@@ -45320,6 +45929,60 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.917"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Kapelle am Friedhofen der Namenlosen - Simmering.jpg",
+        "latitude": 48.159447,
+        "longitude": 16.502481,
+        "createDate": "2025-01-25T11:18:33.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.080"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                180,
+                130,
+                70
+              ],
+              "hex": "#b48246",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "47.788"
         },
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
@@ -45752,6 +46415,60 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.966"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Kunst-Struktur am Franz-Haas-Platz - Simmering.jpg",
+        "latitude": 48.175744,
+        "longitude": 16.418008,
+        "createDate": "2025-08-30T14:46:58.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.064"
+            },
+            {
+              "rgb": [
+                140,
+                90,
+                70
+              ],
+              "hex": "#8c5a46",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                40
+              ],
+              "hex": "#322828",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "42.456"
         },
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
@@ -47706,6 +48423,69 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Stiege und Weg zum Friedhof der Namenlosen.jpg",
+        "latitude": 48.159256,
+        "longitude": 16.502606,
+        "createDate": "2025-01-25T11:10:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                60,
+                40
+              ],
+              "hex": "#5a3c28",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                130,
+                100,
+                70
+              ],
+              "hex": "#826446",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                190,
+                160,
+                130
+              ],
+              "hex": "#bea082",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "32.534"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Stillgelegte Fabrik in Brigittenau.jpg",
         "latitude": 48.235122,
         "longitude": 16.386739,
@@ -48948,6 +49728,78 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Würstel Waggon am Simmeringer-Friedhof.jpg",
+        "latitude": 48.172519,
+        "longitude": 16.422842,
+        "createDate": "2025-05-23T18:57:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                70,
+                170,
+                240
+              ],
+              "hex": "#46aaf0",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                90
+              ],
+              "hex": "#96785a",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                240
+              ],
+              "hex": "#fafaf0",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                200,
+                40,
+                70
+              ],
+              "hex": "#c82846",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "51.956"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Würstelstand bei der Burggasse in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.202117,
         "longitude": 16.337203,
@@ -49135,10 +49987,82 @@ export const galleries = [
           "Park",
           "Statuen"
         ]
+      },
+      {
+        "filename": "Zug-Schienen und Frachtlader bei einer Fabrik am Albernen Hafen.jpg",
+        "latitude": 48.159375,
+        "longitude": 16.493792,
+        "createDate": "2025-01-25T11:45:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                220
+              ],
+              "hex": "#e6e6dc",
+              "percentage": "0.171"
+            },
+            {
+              "rgb": [
+                190,
+                140,
+                80
+              ],
+              "hex": "#be8c50",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                140,
+                100,
+                60
+              ],
+              "hex": "#8c643c",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                90,
+                60,
+                50
+              ],
+              "hex": "#5a3c32",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "45.923"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       }
     ],
-    "timeframe": "7. Juni 2024 - 27. August 2025",
-    "imageCount": 149,
+    "timeframe": "7. Juni 2024 - 30. August 2025",
+    "imageCount": 160,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -49163,7 +50087,67 @@ export const galleries = [
     "description": "An den Grenzen der Stadt & am Ende der Dinge sieht man das schöne",
     "images": [
       {
-        "filename": "Adler Grab.jpg",
+        "filename": "'In liebe vereint' Grabmal in der nähe von Tor 1.jpg",
+        "latitude": 48.157514,
+        "longitude": 16.434094,
+        "createDate": "2025-05-21T16:27:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                110,
+                190,
+                230
+              ],
+              "hex": "#6ebee6",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                200,
+                220,
+                230
+              ],
+              "hex": "#c8dce6",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                60,
+                40,
+                30
+              ],
+              "hex": "#3c281e",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                160,
+                150,
+                90
+              ],
+              "hex": "#a0965a",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "51.142"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Adler Grab in der nähe der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.152783,
         "longitude": 16.435778,
         "createDate": "2025-06-29T11:02:23.000Z",
@@ -49191,11 +50175,12 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Altar Seitlich Kirche.jpg",
+        "filename": "Altar (Seitlich) der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.158069,
         "longitude": 16.437931,
         "createDate": "2025-06-29T11:13:46.000Z",
@@ -49241,11 +50226,12 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Altar der Kirche.jpg",
+        "filename": "Altar der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.156844,
         "longitude": 16.439061,
         "createDate": "2025-06-29T11:14:05.000Z",
@@ -49282,11 +50268,12 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Arkaden neben der Kirche.jpg",
+        "filename": "Arkaden neben der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.150856,
         "longitude": 16.438381,
         "createDate": "2025-07-06T06:20:59.000Z",
@@ -49341,7 +50328,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
@@ -49382,11 +50370,12 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Blau-Goldene Kuppel Seitlich in der Kirche.jpg",
+        "filename": "Blau-Goldene Kuppel Seitlich in der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.151558,
         "longitude": 16.437939,
         "createDate": "2025-06-29T11:12:59.000Z",
@@ -49432,11 +50421,12 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Blau-Goldene Kuppel der Kirche.jpg",
+        "filename": "Blau-Goldene Kuppel der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.150914,
         "longitude": 16.437881,
         "createDate": "2025-06-29T11:11:48.000Z",
@@ -49500,7 +50490,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
@@ -49568,11 +50559,12 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Bundespräsidentengräber und Kirche.jpg",
+        "filename": "Bundespräsidentengruft und Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.1511,
         "longitude": 16.4386,
         "createDate": "2025-06-29T11:09:07.000Z",
@@ -49636,11 +50628,12 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Bänke im Detail in der Kirche.jpg",
+        "filename": "Bänke im Detail in der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.150864,
         "longitude": 16.4381,
         "createDate": "2025-06-29T11:11:09.000Z",
@@ -49677,11 +50670,12 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Bänke in der Kirche.jpg",
+        "filename": "Bänke in der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.158069,
         "longitude": 16.437931,
         "createDate": "2025-06-29T11:13:32.000Z",
@@ -49727,11 +50721,12 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Bänke von der Seite in der Kirche.jpg",
+        "filename": "Bänke von der Seite in der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.150867,
         "longitude": 16.438186,
         "createDate": "2025-06-29T11:11:25.000Z",
@@ -49777,11 +50772,72 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Der Weg zur Kirche.jpg",
+        "filename": "Cafe Oberlaa am Zentralfriedhof bei Dämmerung.jpg",
+        "latitude": 48.154147,
+        "longitude": 16.441006,
+        "createDate": "2024-11-03T15:38:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                190,
+                170
+              ],
+              "hex": "#dcbeaa",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                150,
+                190,
+                220
+              ],
+              "hex": "#96bedc",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                220
+              ],
+              "hex": "#fae6dc",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                70
+              ],
+              "hex": "#6e5046",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "34.579"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Der Weg zur Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.152878,
         "longitude": 16.437461,
         "createDate": "2025-06-29T11:04:29.000Z",
@@ -49827,170 +50883,12 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Grab und Sonne Zentralfriedhof Wien.jpg",
-        "latitude": 48.150075,
-        "longitude": 16.437378,
-        "createDate": "2025-06-01T06:16:52.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                110,
-                90,
-                80
-              ],
-              "hex": "#6e5a50",
-              "percentage": "0.038"
-            },
-            {
-              "rgb": [
-                40,
-                20,
-                10
-              ],
-              "hex": "#28140a",
-              "percentage": "0.015"
-            },
-            {
-              "rgb": [
-                230,
-                240,
-                230
-              ],
-              "hex": "#e6f0e6",
-              "percentage": "0.011"
-            },
-            {
-              "rgb": [
-                170,
-                150,
-                130
-              ],
-              "hex": "#aa9682",
-              "percentage": "0.006"
-            }
-          ],
-          "colorfulness": "37.061"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Friedhof"
-        ]
-      },
-      {
-        "filename": "Gräber Kirche Zentralfriedhof Wien.jpg",
-        "latitude": 48.152886,
-        "longitude": 16.437042,
-        "createDate": "2025-06-29T11:03:59.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                70,
-                50,
-                20
-              ],
-              "hex": "#463214",
-              "percentage": "0.028"
-            },
-            {
-              "rgb": [
-                240,
-                240,
-                230
-              ],
-              "hex": "#f0f0e6",
-              "percentage": "0.016"
-            },
-            {
-              "rgb": [
-                110,
-                130,
-                140
-              ],
-              "hex": "#6e828c",
-              "percentage": "0.006"
-            },
-            {
-              "rgb": [
-                230,
-                210,
-                150
-              ],
-              "hex": "#e6d296",
-              "percentage": "0.006"
-            }
-          ],
-          "colorfulness": "37.919"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Friedhof"
-        ]
-      },
-      {
-        "filename": "Jesus-Statue in einem Seitenschiff der Kirche.jpg",
-        "latitude": 48.156361,
-        "longitude": 16.439128,
-        "createDate": "2025-06-29T11:15:30.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                210,
-                190,
-                170
-              ],
-              "hex": "#d2beaa",
-              "percentage": "0.033"
-            },
-            {
-              "rgb": [
-                30,
-                10,
-                0
-              ],
-              "hex": "#1e0a00",
-              "percentage": "0.024"
-            }
-          ],
-          "colorfulness": "40.488"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Friedhof"
-        ]
-      },
-      {
-        "filename": "Karl-Lueger-Gedächtniskirche am Zentralfriedhof Wien.jpg",
+        "filename": "Friedhofskirche zum Heiligen Karl Borromäus und Bundespräsidentengruft.jpg",
         "latitude": 48.151425,
         "longitude": 16.438867,
         "createDate": "2025-06-29T11:08:09.000Z",
@@ -50054,7 +50952,332 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Grab und Sonne.jpg",
+        "latitude": 48.150075,
+        "longitude": 16.437378,
+        "createDate": "2025-06-01T06:16:52.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                110,
+                90,
+                80
+              ],
+              "hex": "#6e5a50",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                230,
+                240,
+                230
+              ],
+              "hex": "#e6f0e6",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                130
+              ],
+              "hex": "#aa9682",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "37.061"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Grab von Arnold Schönberg.jpg",
+        "latitude": 48.151317,
+        "longitude": 16.439131,
+        "createDate": "2024-11-03T13:58:44.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.083"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                140,
+                110,
+                50
+              ],
+              "hex": "#8c6e32",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                230,
+                50,
+                40
+              ],
+              "hex": "#e63228",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "49.239"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Grab von Franz West.jpg",
+        "latitude": 48.151017,
+        "longitude": 16.439919,
+        "createDate": "2024-11-03T14:08:44.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                70,
+                40,
+                20
+              ],
+              "hex": "#462814",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                190,
+                200,
+                210
+              ],
+              "hex": "#bec8d2",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                220,
+                150,
+                160
+              ],
+              "hex": "#dc96a0",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "38.048"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Gräber am alten jüdischen Friedhof.jpg",
+        "latitude": 48.154614,
+        "longitude": 16.429725,
+        "createDate": "2025-06-09T15:43:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                210,
+                230
+              ],
+              "hex": "#aad2e6",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                60,
+                40,
+                20
+              ],
+              "hex": "#3c2814",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                90
+              ],
+              "hex": "#a0825a",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "43.932"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Gräber und Friedhofskirche zum Heiligen Karl Borromäus.jpg",
+        "latitude": 48.152886,
+        "longitude": 16.437042,
+        "createDate": "2025-06-29T11:03:59.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                70,
+                50,
+                20
+              ],
+              "hex": "#463214",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                110,
+                130,
+                140
+              ],
+              "hex": "#6e828c",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                150
+              ],
+              "hex": "#e6d296",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "37.919"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Jesus-Statue in einem Seitenschiff der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
+        "latitude": 48.156361,
+        "longitude": 16.439128,
+        "createDate": "2025-06-29T11:15:30.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.024"
+            }
+          ],
+          "colorfulness": "40.488"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
@@ -50095,7 +51318,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
@@ -50136,7 +51360,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
@@ -50195,52 +51420,12 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Priester-Statue in einem Seitenschiff der Kirche.jpg",
-        "latitude": 48.15685,
-        "longitude": 16.439056,
-        "createDate": "2025-06-29T11:16:24.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                180,
-                150,
-                130
-              ],
-              "hex": "#b49682",
-              "percentage": "0.043"
-            },
-            {
-              "rgb": [
-                240,
-                240,
-                230
-              ],
-              "hex": "#f0f0e6",
-              "percentage": "0.011"
-            }
-          ],
-          "colorfulness": "33.720"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Friedhof"
-        ]
-      },
-      {
-        "filename": "Seitengang der Kirche.jpg",
+        "filename": "Seitengang der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.156892,
         "longitude": 16.438922,
         "createDate": "2025-06-29T11:17:00.000Z",
@@ -50277,7 +51462,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
@@ -50336,11 +51522,63 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       },
       {
-        "filename": "Zwischengang der Kirche.jpg",
+        "filename": "Statue eines weinenden Mannes, Gräber und Bäume bei Gruppe 13.jpg",
+        "latitude": 48.152783,
+        "longitude": 16.436053,
+        "createDate": "2025-06-29T11:02:59.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                30,
+                10
+              ],
+              "hex": "#281e0a",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                90,
+                200,
+                240
+              ],
+              "hex": "#5ac8f0",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "32.414"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Zwischengang der Friedhofskirche zum Heiligen Karl Borromäus.jpg",
         "latitude": 48.156886,
         "longitude": 16.438947,
         "createDate": "2025-06-29T11:16:40.000Z",
@@ -50386,12 +51624,13 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Friedhof"
+          "Friedhof",
+          "Statuen"
         ]
       }
     ],
-    "timeframe": "21. Mai 2025 - 6. Juli 2025",
-    "imageCount": 24,
+    "timeframe": "3. November 2024 - 6. Juli 2025",
+    "imageCount": 29,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -50402,7 +51641,8 @@ export const galleries = [
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Friedhof"
+      "Friedhof",
+      "Statuen"
     ]
   }
 ];

@@ -79,7 +79,7 @@ const Tags = () => {
         {/* Tag Filter Controls */}
         <div className={`mb-6 p-4 border shadow-[3px_3px_0px_#00000011] border-neutral-500/20 ${theme !== "light" ? "bg-black/10" : "bg-white/10"}`}>
           <div className="flex flex-wrap justify-between items-center gap-2 mb-4">
-            <span className={`text-xs font-medium ${theme === "light" ? "text-gray-700" : "text-gray-300"}`}>Verfügbare Tags</span>
+            <span className={`text-xs ${theme === "light" ? "text-gray-700" : "text-gray-300"}`}>Verfügbare Tags</span>
             <button
               onClick={clearAllTags}
               className={`text-xs px-2 py-1 border border-neutral-500/20 transition-colors ${selectedTags.length > 0 ? (theme === "light" ? "bg-red-100 text-red-700 hover:bg-red-200" : "bg-red-900 text-red-300 hover:bg-red-800") : theme === "light" ? "bg-gray-100 text-gray-400 cursor-not-allowed" : "bg-gray-800 text-gray-600 cursor-not-allowed"}`}
@@ -96,7 +96,7 @@ const Tags = () => {
                 <button
                   key={tag}
                   onClick={() => handleTagToggle(tag)}
-                  className={`px-3 py-1.5 text-[10px] font-mono border border-neutral-500/20 transition-all duration-200 ${isSelected ? (theme === "light" ? "bg-black text-white" : "bg-white text-black") : theme === "light" ? "text-gray-700 hover:bg-gray-50" : "text-gray-300 hover:bg-gray-900"}`}>
+                  className={`px-3 py-1.5 text-[9.5px] font-mono border border-neutral-500/20 transition-all duration-200 ${isSelected ? (theme === "light" ? "bg-black text-white" : "bg-white text-black") : theme === "light" ? "text-gray-700 hover:bg-gray-50" : "text-gray-300 hover:bg-gray-900"}`}>
                   {tag}
                 </button>
               );
@@ -108,11 +108,11 @@ const Tags = () => {
         {selectedTags.length > 0 && (
           <div className="mb-6">
             <div className="flex flex-wrap items-center gap-2">
-              <span className={`text-xs font-medium ${theme === "light" ? "" : ""}`}>Ausgewählt Tags:</span>
+              <span className={`text-xs ${theme === "light" ? "" : ""}`}>Ausgewählte Tags:</span>
               {selectedTags.map((tag) => (
                 <span
                   key={tag}
-                  className={`px-2 py-1 text-xs font-medium border border-neutral-500/20 ${theme === "light" ? "bg-black text-white" : "bg-white text-black"}`}>
+                  className={`px-2 py-1 text-[9.5px] border border-neutral-500/20 ${theme === "light" ? "bg-black text-white" : "bg-white text-black"}`}>
                   {tag}
                 </span>
               ))}
