@@ -311,6 +311,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/bundesminiterium-der-finanzen-auf-unter-den-linden</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/burogebaude-auf-unter-den-linden</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/burohaus-am-pariser-platz-brandenburger-tor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -506,6 +516,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/hausfassade-und-spieglungen-auf-unter-den-linden-in-mitte</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/herz-symbol-auf-aluminium-beschlag-an-der-danzinger-strasse-am-prenzlauer-berg</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -551,6 +566,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/karl-marx-allee-mit-blick-auf-fernsehturm-bei-nacht</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/karl-marx-allee-mit-blick-auf-den-fernsehturm</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -586,11 +606,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/marl-marx-allee-mit-blick-auf-fernsehturm-bei-nacht</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/martin-luther-king-kirche-in-der-gropius-stadt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -617,6 +632,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/metalltur-im-volkspark-friedrichshain</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/neue-nationalgalerie-in-mitte</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -896,6 +916,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/einkaufswagerl-in-berlin-mitte</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/umgefallenes-einkaufswagerl-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -911,7 +936,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/favoriten/image/alles-da-allzweck-geschaft-bauzaune-und-ein-wohnhaus</loc>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/alles-da-allzweck-geschaft-bauzaune-und-ein-wohnhaus-in-der-favoritenstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/hauptfeuerwache-der-stadt-wien-favoriten-nahe-des-hauptbahnhofs</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -936,7 +966,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/baustelle-und-wohnhaus-favoritentrasse-hauptbahnhof</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/fassade-und-spiegelungen-eines-hauses-in-der-favoritenstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/favoriten/image/geschaftsauslage-und-johannes-kepler-statue-in-der-favoritenstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/glaskuppel-an-der-fassade-des-columbus-einkaufszentrums-in-der-favoritenstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -946,17 +991,27 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/hauptfeuerwache-der-stadt-wien-aussenfassade-nahe-der-favoritenstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/favoriten/image/kaugummi-und-zuckerlautomat-favoritenstrasse-keplerplatz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/favoriten/image/mahnmal-den-opfern-des-faschismus</loc>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/mahnmal-den-opfern-des-faschismus-am-reumannplatz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/favoriten/image/marktgebiet-anfang-ende-schilder-viktor-adler-markt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/menschen-auf-banken-am-keplerplatz</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -971,12 +1026,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/favoriten/image/tichy-am-reumannplatz</loc>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/tankstelle-und-wohnhaus-nahe-der-favoritenstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/favoriten/image/u-bahn-abgang-station-keplerplatz</loc>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/tichy-eis-salon-am-reumannplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/u-bahn-abgang-station-keplerplatz-in-der-favoritenstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/favoriten/image/u-bahn-station-keplerplatz-und-fussgangerzone-in-der-favoritenstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3256,6 +3321,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/angry-face-graffitti-nahe-gudrunstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/low-nr-graffitti-und-wiese-davor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3282,6 +3352,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/ruhe-graffitti-in-der-simmeringer-hauptstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/schnitzel-schriftzug-in-der-favoritenstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

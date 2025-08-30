@@ -3727,6 +3727,146 @@
     "gallery": "berlin"
   },
   {
+    "latitude": 52.509858,
+    "longitude": 13.383264,
+    "createDate": "2025-08-20T11:53:38.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            60,
+            60,
+            70
+          ],
+          "hex": "#3c3c46",
+          "percentage": "0.020"
+        },
+        {
+          "rgb": [
+            140,
+            120,
+            110
+          ],
+          "hex": "#8c786e",
+          "percentage": "0.017"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.012"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            240,
+            210,
+            130
+          ],
+          "hex": "#f0d282",
+          "percentage": "0.009"
+        }
+      ],
+      "colorfulness": "44.886"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Deutschland",
+      "Berlin",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Fluss",
+      "Typografie",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Bundesminiterium der Finanzen auf Unter den Linden.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Bundesminiterium_der_Finanzen_auf_Unter_den_Linden.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Bundesminiterium_der_Finanzen_auf_Unter_den_Linden-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Bundesminiterium_der_Finanzen_auf_Unter_den_Linden-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Bundesminiterium_der_Finanzen_auf_Unter_den_Linden-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Bundesminiterium_der_Finanzen_auf_Unter_den_Linden-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
+    "latitude": 52.510222,
+    "longitude": 13.388411,
+    "createDate": "2025-08-20T11:58:17.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            190,
+            180,
+            160
+          ],
+          "hex": "#beb4a0",
+          "percentage": "0.026"
+        },
+        {
+          "rgb": [
+            90,
+            60,
+            50
+          ],
+          "hex": "#5a3c32",
+          "percentage": "0.013"
+        },
+        {
+          "rgb": [
+            130,
+            200,
+            240
+          ],
+          "hex": "#82c8f0",
+          "percentage": "0.002"
+        }
+      ],
+      "colorfulness": "36.358"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Deutschland",
+      "Berlin",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Fluss",
+      "Typografie",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Bürogebäude auf Unter den Linden.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Bürogebäude_auf_Unter_den_Linden.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Bürogebäude_auf_Unter_den_Linden-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Bürogebäude_auf_Unter_den_Linden-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Bürogebäude_auf_Unter_den_Linden-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Bürogebäude_auf_Unter_den_Linden-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
     "latitude": 52.516494,
     "longitude": 13.378811,
     "createDate": "2025-08-20T15:54:28.000Z",
@@ -6358,6 +6498,85 @@
     "gallery": "berlin"
   },
   {
+    "latitude": 52.518117,
+    "longitude": 13.388861,
+    "createDate": "2025-08-20T12:13:29.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            50,
+            160,
+            200
+          ],
+          "hex": "#32a0c8",
+          "percentage": "0.037"
+        },
+        {
+          "rgb": [
+            230,
+            210,
+            190
+          ],
+          "hex": "#e6d2be",
+          "percentage": "0.022"
+        },
+        {
+          "rgb": [
+            10,
+            40,
+            60
+          ],
+          "hex": "#0a283c",
+          "percentage": "0.007"
+        },
+        {
+          "rgb": [
+            10,
+            90,
+            130
+          ],
+          "hex": "#0a5a82",
+          "percentage": "0.006"
+        },
+        {
+          "rgb": [
+            140,
+            120,
+            110
+          ],
+          "hex": "#8c786e",
+          "percentage": "0.004"
+        }
+      ],
+      "colorfulness": "51.721"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Deutschland",
+      "Berlin",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Fluss",
+      "Typografie",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Hausfassade und Spieglungen auf Unter den Linden in Mitte.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Hausfassade_und_Spieglungen_auf_Unter_den_Linden_in_Mitte.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Hausfassade_und_Spieglungen_auf_Unter_den_Linden_in_Mitte-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Hausfassade_und_Spieglungen_auf_Unter_den_Linden_in_Mitte-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Hausfassade_und_Spieglungen_auf_Unter_den_Linden_in_Mitte-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Hausfassade_und_Spieglungen_auf_Unter_den_Linden_in_Mitte-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
     "latitude": 52.536378,
     "longitude": 13.431592,
     "createDate": "2025-08-20T19:04:54.000Z",
@@ -6952,6 +7171,58 @@
     "gallery": "berlin"
   },
   {
+    "latitude": 52.516342,
+    "longitude": 13.449008,
+    "createDate": "2025-08-18T20:17:40.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            10,
+            10
+          ],
+          "hex": "#140a0a",
+          "percentage": "0.097"
+        },
+        {
+          "rgb": [
+            190,
+            160,
+            90
+          ],
+          "hex": "#bea05a",
+          "percentage": "0.014"
+        }
+      ],
+      "colorfulness": "41.935"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Deutschland",
+      "Berlin",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Fluss",
+      "Typografie",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Karl-Marx-Allee mit Blick auf Fernsehturm bei Nacht.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Karl-Marx-Allee_mit_Blick_auf_Fernsehturm_bei_Nacht.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Karl-Marx-Allee_mit_Blick_auf_Fernsehturm_bei_Nacht-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Karl-Marx-Allee_mit_Blick_auf_Fernsehturm_bei_Nacht-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Karl-Marx-Allee_mit_Blick_auf_Fernsehturm_bei_Nacht-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Karl-Marx-Allee_mit_Blick_auf_Fernsehturm_bei_Nacht-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
     "latitude": 52.516278,
     "longitude": 13.449222,
     "createDate": "2025-08-19T15:15:25.000Z",
@@ -7442,58 +7713,6 @@
     "gallery": "berlin"
   },
   {
-    "latitude": 52.516342,
-    "longitude": 13.449008,
-    "createDate": "2025-08-18T20:17:40.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            20,
-            10,
-            10
-          ],
-          "hex": "#140a0a",
-          "percentage": "0.097"
-        },
-        {
-          "rgb": [
-            190,
-            160,
-            90
-          ],
-          "hex": "#bea05a",
-          "percentage": "0.014"
-        }
-      ],
-      "colorfulness": "41.935"
-    },
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Deutschland",
-      "Berlin",
-      "Landschaft",
-      "Architektur",
-      "Stadt",
-      "Fluss",
-      "Typografie",
-      "Park",
-      "Statuen"
-    ],
-    "name": "Marl-Marx-Allee mit Blick auf Fernsehturm bei Nacht.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/berlin/Marl-Marx-Allee_mit_Blick_auf_Fernsehturm_bei_Nacht.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/berlin/Marl-Marx-Allee_mit_Blick_auf_Fernsehturm_bei_Nacht-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/berlin/Marl-Marx-Allee_mit_Blick_auf_Fernsehturm_bei_Nacht-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/berlin/Marl-Marx-Allee_mit_Blick_auf_Fernsehturm_bei_Nacht-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Marl-Marx-Allee_mit_Blick_auf_Fernsehturm_bei_Nacht-1440w.jpg"
-    },
-    "gallery": "berlin"
-  },
-  {
     "latitude": 52.428131,
     "longitude": 13.454881,
     "createDate": "2025-08-20T07:30:14.000Z",
@@ -7928,6 +8147,76 @@
       "w380": "https://photos.lucamack.at/content/galleries/berlin/Metalltür_im_Volkspark_Friedrichshain-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/berlin/Metalltür_im_Volkspark_Friedrichshain-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/berlin/Metalltür_im_Volkspark_Friedrichshain-1440w.jpg"
+    },
+    "gallery": "berlin"
+  },
+  {
+    "latitude": 52.506825,
+    "longitude": 13.368461,
+    "createDate": "2025-08-20T09:40:05.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.104"
+        },
+        {
+          "rgb": [
+            240,
+            230,
+            210
+          ],
+          "hex": "#f0e6d2",
+          "percentage": "0.049"
+        },
+        {
+          "rgb": [
+            200,
+            180,
+            160
+          ],
+          "hex": "#c8b4a0",
+          "percentage": "0.024"
+        },
+        {
+          "rgb": [
+            160,
+            210,
+            240
+          ],
+          "hex": "#a0d2f0",
+          "percentage": "0.015"
+        }
+      ],
+      "colorfulness": "49.900"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Deutschland",
+      "Berlin",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Fluss",
+      "Typografie",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Neue Nationalgalerie in Mitte.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/berlin/Neue_Nationalgalerie_in_Mitte.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/berlin/Neue_Nationalgalerie_in_Mitte-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/berlin/Neue_Nationalgalerie_in_Mitte-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/berlin/Neue_Nationalgalerie_in_Mitte-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/berlin/Neue_Nationalgalerie_in_Mitte-1440w.jpg"
     },
     "gallery": "berlin"
   },
@@ -11359,7 +11648,8 @@
     "tags": [
       "Österreich",
       "Deutschland",
-      "Stadt"
+      "Wien",
+      "Berlin"
     ],
     "name": "2 umgefallene Einkaufswagerl in der Lorystrasse - Braunhubergasse.jpg",
     "urls": {
@@ -11423,7 +11713,8 @@
     "tags": [
       "Österreich",
       "Deutschland",
-      "Stadt"
+      "Wien",
+      "Berlin"
     ],
     "name": "3 Einkaufswagerl in der Geiselbergstrasse.jpg",
     "urls": {
@@ -11478,7 +11769,8 @@
     "tags": [
       "Österreich",
       "Deutschland",
-      "Stadt"
+      "Wien",
+      "Berlin"
     ],
     "name": "Alleingelassenes Einkaufswagerl in Meidling.jpg",
     "urls": {
@@ -11551,7 +11843,8 @@
     "tags": [
       "Österreich",
       "Deutschland",
-      "Stadt"
+      "Wien",
+      "Berlin"
     ],
     "name": "Alleingelassenes Einkaufswagerl in der Braunhubergasse 2.jpg",
     "urls": {
@@ -11606,7 +11899,8 @@
     "tags": [
       "Österreich",
       "Deutschland",
-      "Stadt"
+      "Wien",
+      "Berlin"
     ],
     "name": "Alleingelassenes Einkaufswagerl in der Braunhubergasse.jpg",
     "urls": {
@@ -11615,6 +11909,53 @@
       "w380": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Alleingelassenes_Einkaufswagerl_in_der_Braunhubergasse-1440w.jpg"
+    },
+    "gallery": "einkaufswagerl"
+  },
+  {
+    "latitude": 52.521781,
+    "longitude": 13.407964,
+    "createDate": "2025-08-20T17:17:32.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            150,
+            130,
+            120
+          ],
+          "hex": "#968278",
+          "percentage": "0.043"
+        },
+        {
+          "rgb": [
+            250,
+            240,
+            230
+          ],
+          "hex": "#faf0e6",
+          "percentage": "0.002"
+        }
+      ],
+      "colorfulness": "30.477"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Deutschland",
+      "Wien",
+      "Berlin"
+    ],
+    "name": "Einkaufswagerl in Berlin Mitte.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Einkaufswagerl_in_Berlin_Mitte.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Einkaufswagerl_in_Berlin_Mitte-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Einkaufswagerl_in_Berlin_Mitte-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Einkaufswagerl_in_Berlin_Mitte-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/einkaufswagerl/Einkaufswagerl_in_Berlin_Mitte-1440w.jpg"
     },
     "gallery": "einkaufswagerl"
   },
@@ -11661,7 +12002,8 @@
     "tags": [
       "Österreich",
       "Deutschland",
-      "Stadt"
+      "Wien",
+      "Berlin"
     ],
     "name": "Umgefallenes Einkaufswagerl in Simmering.jpg",
     "urls": {
@@ -11707,7 +12049,8 @@
     "tags": [
       "Österreich",
       "Deutschland",
-      "Stadt"
+      "Wien",
+      "Berlin"
     ],
     "name": "Umgefallenes Einkaufswagerl in der Geiselbergstrasse.jpg",
     "urls": {
@@ -11766,13 +12109,79 @@
       "Stadt",
       "Park"
     ],
-    "name": "'Alles da' Allzweck-Geschäft, Bauzäune und ein Wohnhaus.jpg",
+    "name": "'Alles da' Allzweck-Geschäft, Bauzäune und ein Wohnhaus in der Favoritenstrasse.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus_in_der_Favoritenstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus_in_der_Favoritenstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus_in_der_Favoritenstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus_in_der_Favoritenstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/'Alles_da'_Allzweck-Geschäft,_Bauzäune_und_ein_Wohnhaus_in_der_Favoritenstrasse-1440w.jpg"
+    },
+    "gallery": "favoriten"
+  },
+  {
+    "latitude": 48.181739,
+    "longitude": 16.37735,
+    "createDate": "2025-08-30T10:23:47.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            210,
+            220,
+            230
+          ],
+          "hex": "#d2dce6",
+          "percentage": "0.067"
+        },
+        {
+          "rgb": [
+            150,
+            120,
+            90
+          ],
+          "hex": "#96785a",
+          "percentage": "0.059"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.033"
+        },
+        {
+          "rgb": [
+            100,
+            70,
+            60
+          ],
+          "hex": "#64463c",
+          "percentage": "0.014"
+        }
+      ],
+      "colorfulness": "41.059"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt",
+      "Park"
+    ],
+    "name": "'Hauptfeuerwache der Stadt Wien - Favoriten' nahe des Hauptbahnhofs.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/'Hauptfeuerwache_der_Stadt_Wien_-_Favoriten'_nahe_des_Hauptbahnhofs.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/'Hauptfeuerwache_der_Stadt_Wien_-_Favoriten'_nahe_des_Hauptbahnhofs-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/'Hauptfeuerwache_der_Stadt_Wien_-_Favoriten'_nahe_des_Hauptbahnhofs-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/'Hauptfeuerwache_der_Stadt_Wien_-_Favoriten'_nahe_des_Hauptbahnhofs-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/'Hauptfeuerwache_der_Stadt_Wien_-_Favoriten'_nahe_des_Hauptbahnhofs-1440w.jpg"
     },
     "gallery": "favoriten"
   },
@@ -12050,6 +12459,147 @@
     "gallery": "favoriten"
   },
   {
+    "latitude": 48.184231,
+    "longitude": 16.374597,
+    "createDate": "2025-08-30T08:52:37.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.017"
+        },
+        {
+          "rgb": [
+            80,
+            70,
+            70
+          ],
+          "hex": "#504646",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            10,
+            130,
+            190
+          ],
+          "hex": "#0a82be",
+          "percentage": "0.011"
+        },
+        {
+          "rgb": [
+            250,
+            230,
+            180
+          ],
+          "hex": "#fae6b4",
+          "percentage": "0.009"
+        }
+      ],
+      "colorfulness": "46.873"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt",
+      "Park"
+    ],
+    "name": "Baustelle und Wohnhaus Favoritentrasse - Hauptbahnhof.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/Baustelle_und_Wohnhaus_Favoritentrasse_-_Hauptbahnhof.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Baustelle_und_Wohnhaus_Favoritentrasse_-_Hauptbahnhof-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Baustelle_und_Wohnhaus_Favoritentrasse_-_Hauptbahnhof-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Baustelle_und_Wohnhaus_Favoritentrasse_-_Hauptbahnhof-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Baustelle_und_Wohnhaus_Favoritentrasse_-_Hauptbahnhof-1440w.jpg"
+    },
+    "gallery": "favoriten"
+  },
+  {
+    "latitude": 48.179467,
+    "longitude": 16.376186,
+    "createDate": "2025-08-30T09:00:29.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            230,
+            210,
+            190
+          ],
+          "hex": "#e6d2be",
+          "percentage": "0.028"
+        },
+        {
+          "rgb": [
+            170,
+            160,
+            140
+          ],
+          "hex": "#aaa08c",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            120,
+            160,
+            190
+          ],
+          "hex": "#78a0be",
+          "percentage": "0.012"
+        },
+        {
+          "rgb": [
+            60,
+            100,
+            130
+          ],
+          "hex": "#3c6482",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            30,
+            40,
+            50
+          ],
+          "hex": "#1e2832",
+          "percentage": "0.006"
+        }
+      ],
+      "colorfulness": "35.219"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt",
+      "Park"
+    ],
+    "name": "Fassade und Spiegelungen eines Hauses in der Favoritenstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/Fassade_und_Spiegelungen_eines_Hauses_in_der_Favoritenstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Fassade_und_Spiegelungen_eines_Hauses_in_der_Favoritenstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Fassade_und_Spiegelungen_eines_Hauses_in_der_Favoritenstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Fassade_und_Spiegelungen_eines_Hauses_in_der_Favoritenstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Fassade_und_Spiegelungen_eines_Hauses_in_der_Favoritenstrasse-1440w.jpg"
+    },
+    "gallery": "favoriten"
+  },
+  {
     "latitude": 48.179225,
     "longitude": 16.376092,
     "createDate": "2025-08-02T10:39:54.000Z",
@@ -12094,6 +12644,72 @@
       "w380": "https://photos.lucamack.at/content/galleries/favoriten/Geschäftsauslage_und_Johannes-Kepler-Statue_in_der_Favoritenstrasse-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/favoriten/Geschäftsauslage_und_Johannes-Kepler-Statue_in_der_Favoritenstrasse-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Geschäftsauslage_und_Johannes-Kepler-Statue_in_der_Favoritenstrasse-1440w.jpg"
+    },
+    "gallery": "favoriten"
+  },
+  {
+    "latitude": 48.182378,
+    "longitude": 16.375272,
+    "createDate": "2025-08-30T08:55:33.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            10,
+            20
+          ],
+          "hex": "#140a14",
+          "percentage": "0.062"
+        },
+        {
+          "rgb": [
+            70,
+            150,
+            190
+          ],
+          "hex": "#4696be",
+          "percentage": "0.033"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.012"
+        },
+        {
+          "rgb": [
+            120,
+            120,
+            120
+          ],
+          "hex": "#787878",
+          "percentage": "0.002"
+        }
+      ],
+      "colorfulness": "52.794"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt",
+      "Park"
+    ],
+    "name": "Glaskuppel an der Fassade des Columbus Einkaufszentrums in der Favoritenstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/Glaskuppel_an_der_Fassade_des_Columbus_Einkaufszentrums_in_der_Favoritenstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Glaskuppel_an_der_Fassade_des_Columbus_Einkaufszentrums_in_der_Favoritenstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Glaskuppel_an_der_Fassade_des_Columbus_Einkaufszentrums_in_der_Favoritenstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Glaskuppel_an_der_Fassade_des_Columbus_Einkaufszentrums_in_der_Favoritenstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Glaskuppel_an_der_Fassade_des_Columbus_Einkaufszentrums_in_der_Favoritenstrasse-1440w.jpg"
     },
     "gallery": "favoriten"
   },
@@ -12160,6 +12776,63 @@
       "w380": "https://photos.lucamack.at/content/galleries/favoriten/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/favoriten/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Gleise_und_Radioturm_in_Wien_in_der_nähe_des_Hauptbahnhofes-1440w.jpg"
+    },
+    "gallery": "favoriten"
+  },
+  {
+    "latitude": 48.182647,
+    "longitude": 16.377239,
+    "createDate": "2025-08-30T10:24:52.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            60,
+            40,
+            20
+          ],
+          "hex": "#3c2814",
+          "percentage": "0.067"
+        },
+        {
+          "rgb": [
+            200,
+            210,
+            210
+          ],
+          "hex": "#c8d2d2",
+          "percentage": "0.053"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.028"
+        }
+      ],
+      "colorfulness": "42.711"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt",
+      "Park"
+    ],
+    "name": "Hauptfeuerwache der Stadt Wien Aussenfassade nahe der Favoritenstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/Hauptfeuerwache_der_Stadt_Wien_Aussenfassade_nahe_der_Favoritenstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Hauptfeuerwache_der_Stadt_Wien_Aussenfassade_nahe_der_Favoritenstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Hauptfeuerwache_der_Stadt_Wien_Aussenfassade_nahe_der_Favoritenstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Hauptfeuerwache_der_Stadt_Wien_Aussenfassade_nahe_der_Favoritenstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Hauptfeuerwache_der_Stadt_Wien_Aussenfassade_nahe_der_Favoritenstrasse-1440w.jpg"
     },
     "gallery": "favoriten"
   },
@@ -12267,13 +12940,13 @@
       "Stadt",
       "Park"
     ],
-    "name": "Mahnmal den Opfern des Faschismus.jpg",
+    "name": "Mahnmal den Opfern des Faschismus am Reumannplatz.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus_am_Reumannplatz.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus_am_Reumannplatz-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus_am_Reumannplatz-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus_am_Reumannplatz-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Mahnmal_den_Opfern_des_Faschismus_am_Reumannplatz-1440w.jpg"
     },
     "gallery": "favoriten"
   },
@@ -12349,6 +13022,63 @@
       "w380": "https://photos.lucamack.at/content/galleries/favoriten/Marktgebiet_Anfang_&_Ende_Schilder_Viktor-Adler-Markt-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/favoriten/Marktgebiet_Anfang_&_Ende_Schilder_Viktor-Adler-Markt-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Marktgebiet_Anfang_&_Ende_Schilder_Viktor-Adler-Markt-1440w.jpg"
+    },
+    "gallery": "favoriten"
+  },
+  {
+    "latitude": 48.179028,
+    "longitude": 16.376225,
+    "createDate": "2025-08-29T14:32:07.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            190,
+            170,
+            160
+          ],
+          "hex": "#beaaa0",
+          "percentage": "0.060"
+        },
+        {
+          "rgb": [
+            30,
+            20,
+            10
+          ],
+          "hex": "#1e140a",
+          "percentage": "0.018"
+        },
+        {
+          "rgb": [
+            240,
+            220,
+            200
+          ],
+          "hex": "#f0dcc8",
+          "percentage": "0.017"
+        }
+      ],
+      "colorfulness": "40.861"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt",
+      "Park"
+    ],
+    "name": "Menschen auf Bänken am Keplerplatz.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/Menschen_auf_Bänken_am_Keplerplatz.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Menschen_auf_Bänken_am_Keplerplatz-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Menschen_auf_Bänken_am_Keplerplatz-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Menschen_auf_Bänken_am_Keplerplatz-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Menschen_auf_Bänken_am_Keplerplatz-1440w.jpg"
     },
     "gallery": "favoriten"
   },
@@ -12494,6 +13224,81 @@
     "gallery": "favoriten"
   },
   {
+    "latitude": 48.178078,
+    "longitude": 16.378461,
+    "createDate": "2025-08-30T10:15:49.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            170,
+            150,
+            140
+          ],
+          "hex": "#aa968c",
+          "percentage": "0.025"
+        },
+        {
+          "rgb": [
+            250,
+            210,
+            150
+          ],
+          "hex": "#fad296",
+          "percentage": "0.020"
+        },
+        {
+          "rgb": [
+            130,
+            100,
+            90
+          ],
+          "hex": "#82645a",
+          "percentage": "0.020"
+        },
+        {
+          "rgb": [
+            230,
+            150,
+            10
+          ],
+          "hex": "#e6960a",
+          "percentage": "0.014"
+        },
+        {
+          "rgb": [
+            80,
+            50,
+            40
+          ],
+          "hex": "#503228",
+          "percentage": "0.013"
+        }
+      ],
+      "colorfulness": "49.870"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt",
+      "Park"
+    ],
+    "name": "Tankstelle und Wohnhaus nahe der Favoritenstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_nahe_der_Favoritenstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_nahe_der_Favoritenstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_nahe_der_Favoritenstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_nahe_der_Favoritenstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Tankstelle_und_Wohnhaus_nahe_der_Favoritenstrasse-1440w.jpg"
+    },
+    "gallery": "favoriten"
+  },
+  {
     "latitude": 48.173997,
     "longitude": 16.377714,
     "createDate": "2025-08-02T10:56:08.000Z",
@@ -12540,13 +13345,13 @@
       "Stadt",
       "Park"
     ],
-    "name": "Tichy am Reumannplatz.jpg",
+    "name": "Tichy Eis-Salon am Reumannplatz.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_am_Reumannplatz.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_am_Reumannplatz-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_am_Reumannplatz-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_am_Reumannplatz-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_am_Reumannplatz-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_Eis-Salon_am_Reumannplatz.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_Eis-Salon_am_Reumannplatz-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_Eis-Salon_am_Reumannplatz-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_Eis-Salon_am_Reumannplatz-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/Tichy_Eis-Salon_am_Reumannplatz-1440w.jpg"
     },
     "gallery": "favoriten"
   },
@@ -12606,13 +13411,70 @@
       "Stadt",
       "Park"
     ],
-    "name": "U-Bahn Abgang Station Keplerplatz.jpg",
+    "name": "U-Bahn Abgang Station Keplerplatz in der Favoritenstrasse.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz-1440w.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz_in_der_Favoritenstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz_in_der_Favoritenstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz_in_der_Favoritenstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz_in_der_Favoritenstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn_Abgang_Station_Keplerplatz_in_der_Favoritenstrasse-1440w.jpg"
+    },
+    "gallery": "favoriten"
+  },
+  {
+    "latitude": 48.179108,
+    "longitude": 16.376144,
+    "createDate": "2025-08-30T09:16:12.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            10,
+            130,
+            190
+          ],
+          "hex": "#0a82be",
+          "percentage": "0.047"
+        },
+        {
+          "rgb": [
+            150,
+            130,
+            120
+          ],
+          "hex": "#968278",
+          "percentage": "0.030"
+        },
+        {
+          "rgb": [
+            250,
+            250,
+            230
+          ],
+          "hex": "#fafae6",
+          "percentage": "0.004"
+        }
+      ],
+      "colorfulness": "49.590"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt",
+      "Park"
+    ],
+    "name": "U-Bahn-Station Keplerplatz und Fussgängerzone in der Favoritenstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn-Station_Keplerplatz_und_Fussgängerzone_in_der_Favoritenstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn-Station_Keplerplatz_und_Fussgängerzone_in_der_Favoritenstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn-Station_Keplerplatz_und_Fussgängerzone_in_der_Favoritenstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn-Station_Keplerplatz_und_Fussgängerzone_in_der_Favoritenstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/favoriten/U-Bahn-Station_Keplerplatz_und_Fussgängerzone_in_der_Favoritenstrasse-1440w.jpg"
     },
     "gallery": "favoriten"
   },
@@ -41144,6 +42006,54 @@
     "gallery": "sonstwo-und-allfaelliges"
   },
   {
+    "latitude": 48.177108,
+    "longitude": 16.380236,
+    "createDate": "2025-08-29T14:46:39.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            180,
+            170,
+            160
+          ],
+          "hex": "#b4aaa0",
+          "percentage": "0.311"
+        },
+        {
+          "rgb": [
+            100,
+            80,
+            70
+          ],
+          "hex": "#645046",
+          "percentage": "0.035"
+        }
+      ],
+      "colorfulness": "18.379"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Typografie",
+      "Sonstiges"
+    ],
+    "name": "'Angry Face' Graffitti nahe Gudrunstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Angry_Face'_Graffitti_nahe_Gudrunstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Angry_Face'_Graffitti_nahe_Gudrunstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Angry_Face'_Graffitti_nahe_Gudrunstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Angry_Face'_Graffitti_nahe_Gudrunstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Angry_Face'_Graffitti_nahe_Gudrunstrasse-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
     "latitude": 48.195586,
     "longitude": 16.420492,
     "createDate": "2025-08-03T11:17:20.000Z",
@@ -41509,6 +42419,81 @@
       "w380": "https://photos.lucamack.at/content/galleries/symbole/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/symbole/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Ruhe'_Graffitti_in_der_Simmeringer-Hauptstrasse-1440w.jpg"
+    },
+    "gallery": "symbole"
+  },
+  {
+    "latitude": 48.180122,
+    "longitude": 16.375911,
+    "createDate": "2025-08-30T08:59:25.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            230,
+            230,
+            220
+          ],
+          "hex": "#e6e6dc",
+          "percentage": "0.111"
+        },
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            90,
+            70,
+            70
+          ],
+          "hex": "#5a4646",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            250,
+            50,
+            70
+          ],
+          "hex": "#fa3246",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            90,
+            130,
+            170
+          ],
+          "hex": "#5a82aa",
+          "percentage": "0.003"
+        }
+      ],
+      "colorfulness": "59.166"
+    },
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Typografie",
+      "Sonstiges"
+    ],
+    "name": "'Schnitzel' Schriftzug in der Favoritenstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/symbole/'Schnitzel'_Schriftzug_in_der_Favoritenstrasse.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/symbole/'Schnitzel'_Schriftzug_in_der_Favoritenstrasse-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/symbole/'Schnitzel'_Schriftzug_in_der_Favoritenstrasse-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/symbole/'Schnitzel'_Schriftzug_in_der_Favoritenstrasse-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/symbole/'Schnitzel'_Schriftzug_in_der_Favoritenstrasse-1440w.jpg"
     },
     "gallery": "symbole"
   },

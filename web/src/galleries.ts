@@ -3317,6 +3317,130 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Bundesminiterium der Finanzen auf Unter den Linden.jpg",
+        "latitude": 52.509858,
+        "longitude": 13.383264,
+        "createDate": "2025-08-20T11:53:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                60,
+                70
+              ],
+              "hex": "#3c3c46",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                110
+              ],
+              "hex": "#8c786e",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                240,
+                210,
+                130
+              ],
+              "hex": "#f0d282",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "44.886"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Bürogebäude auf Unter den Linden.jpg",
+        "latitude": 52.510222,
+        "longitude": 13.388411,
+        "createDate": "2025-08-20T11:58:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                180,
+                160
+              ],
+              "hex": "#beb4a0",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                90,
+                60,
+                50
+              ],
+              "hex": "#5a3c32",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                130,
+                200,
+                240
+              ],
+              "hex": "#82c8f0",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "36.358"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Bürohaus am Pariser-Platz - Brandenburger Tor.jpg",
         "latitude": 52.516494,
         "longitude": 13.378811,
@@ -5636,6 +5760,77 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Hausfassade und Spieglungen auf Unter den Linden in Mitte.jpg",
+        "latitude": 52.518117,
+        "longitude": 13.388861,
+        "createDate": "2025-08-20T12:13:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                160,
+                200
+              ],
+              "hex": "#32a0c8",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                190
+              ],
+              "hex": "#e6d2be",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                10,
+                40,
+                60
+              ],
+              "hex": "#0a283c",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                10,
+                90,
+                130
+              ],
+              "hex": "#0a5a82",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                110
+              ],
+              "hex": "#8c786e",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "51.721"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Herz-Symbol auf Aluminium-Beschlag an der Danzinger Strasse am Prenzlauer Berg.jpg",
         "latitude": 52.536378,
         "longitude": 13.431592,
@@ -6158,6 +6353,50 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Karl-Marx-Allee mit Blick auf Fernsehturm bei Nacht.jpg",
+        "latitude": 52.516342,
+        "longitude": 13.449008,
+        "createDate": "2025-08-18T20:17:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.097"
+            },
+            {
+              "rgb": [
+                190,
+                160,
+                90
+              ],
+              "hex": "#bea05a",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "41.935"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Karl-Marx-Allee mit Blick auf den Fernsehturm.jpg",
         "latitude": 52.516278,
         "longitude": 13.449222,
@@ -6592,50 +6831,6 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Marl-Marx-Allee mit Blick auf Fernsehturm bei Nacht.jpg",
-        "latitude": 52.516342,
-        "longitude": 13.449008,
-        "createDate": "2025-08-18T20:17:40.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                10,
-                10
-              ],
-              "hex": "#140a0a",
-              "percentage": "0.097"
-            },
-            {
-              "rgb": [
-                190,
-                160,
-                90
-              ],
-              "hex": "#bea05a",
-              "percentage": "0.014"
-            }
-          ],
-          "colorfulness": "41.935"
-        },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Deutschland",
-          "Berlin",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Fluss",
-          "Typografie",
-          "Park",
-          "Statuen"
-        ]
-      },
-      {
         "filename": "Martin-Luther-King Kirche in der Gropius-Stadt.jpg",
         "latitude": 52.428131,
         "longitude": 13.454881,
@@ -7008,6 +7203,68 @@ export const galleries = [
             }
           ],
           "colorfulness": "31.337"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Neue Nationalgalerie in Mitte.jpg",
+        "latitude": 52.506825,
+        "longitude": 13.368461,
+        "createDate": "2025-08-20T09:40:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.104"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.049"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                160,
+                210,
+                240
+              ],
+              "hex": "#a0d2f0",
+              "percentage": "0.015"
+            }
+          ],
+          "colorfulness": "49.900"
         },
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
@@ -10020,7 +10277,7 @@ export const galleries = [
       }
     ],
     "timeframe": "18. August 2025 - 21. August 2025",
-    "imageCount": 155,
+    "imageCount": 159,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -10041,7 +10298,7 @@ export const galleries = [
     "name": "einkaufswagerl",
     "slug": "einkaufswagerl",
     "title": "Einkaufswagerl",
-    "description": "Umgefallene, alleingelassene oder andere Einkaufswagerl in Wien",
+    "description": "Umgefallene, alleingelassene oder andere Einkaufswagerl",
     "images": [
       {
         "filename": "2 umgefallene Einkaufswagerl in der Lorystrasse - Braunhubergasse.jpg",
@@ -10087,7 +10344,8 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
-          "Stadt"
+          "Wien",
+          "Berlin"
         ]
       },
       {
@@ -10143,7 +10401,8 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
-          "Stadt"
+          "Wien",
+          "Berlin"
         ]
       },
       {
@@ -10190,7 +10449,8 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
-          "Stadt"
+          "Wien",
+          "Berlin"
         ]
       },
       {
@@ -10255,7 +10515,8 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
-          "Stadt"
+          "Wien",
+          "Berlin"
         ]
       },
       {
@@ -10302,7 +10563,47 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
-          "Stadt"
+          "Wien",
+          "Berlin"
+        ]
+      },
+      {
+        "filename": "Einkaufswagerl in Berlin Mitte.jpg",
+        "latitude": 52.521781,
+        "longitude": 13.407964,
+        "createDate": "2025-08-20T17:17:32.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "30.477"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Wien",
+          "Berlin"
         ]
       },
       {
@@ -10349,7 +10650,8 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
-          "Stadt"
+          "Wien",
+          "Berlin"
         ]
       },
       {
@@ -10387,12 +10689,13 @@ export const galleries = [
         "tags": [
           "Österreich",
           "Deutschland",
-          "Stadt"
+          "Wien",
+          "Berlin"
         ]
       }
     ],
-    "timeframe": "28. Juli 2024 - 9. August 2025",
-    "imageCount": 7,
+    "timeframe": "28. Juli 2024 - 20. August 2025",
+    "imageCount": 8,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -10400,7 +10703,8 @@ export const galleries = [
     "tags": [
       "Österreich",
       "Deutschland",
-      "Stadt"
+      "Wien",
+      "Berlin"
     ]
   },
   {
@@ -10410,7 +10714,7 @@ export const galleries = [
     "description": "1100 Wien",
     "images": [
       {
-        "filename": "'Alles da' Allzweck-Geschäft, Bauzäune und ein Wohnhaus.jpg",
+        "filename": "'Alles da' Allzweck-Geschäft, Bauzäune und ein Wohnhaus in der Favoritenstrasse.jpg",
         "latitude": 48.182542,
         "longitude": 16.374708,
         "createDate": "2025-08-02T10:28:14.000Z",
@@ -10445,6 +10749,64 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.638"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
+      },
+      {
+        "filename": "'Hauptfeuerwache der Stadt Wien - Favoriten' nahe des Hauptbahnhofs.jpg",
+        "latitude": 48.181739,
+        "longitude": 16.37735,
+        "createDate": "2025-08-30T10:23:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                220,
+                230
+              ],
+              "hex": "#d2dce6",
+              "percentage": "0.067"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                90
+              ],
+              "hex": "#96785a",
+              "percentage": "0.059"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                60
+              ],
+              "hex": "#64463c",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "41.059"
         },
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
@@ -10700,6 +11062,131 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Baustelle und Wohnhaus Favoritentrasse - Hauptbahnhof.jpg",
+        "latitude": 48.184231,
+        "longitude": 16.374597,
+        "createDate": "2025-08-30T08:52:37.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                80,
+                70,
+                70
+              ],
+              "hex": "#504646",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                10,
+                130,
+                190
+              ],
+              "hex": "#0a82be",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                180
+              ],
+              "hex": "#fae6b4",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "46.873"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
+      },
+      {
+        "filename": "Fassade und Spiegelungen eines Hauses in der Favoritenstrasse.jpg",
+        "latitude": 48.179467,
+        "longitude": 16.376186,
+        "createDate": "2025-08-30T09:00:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                210,
+                190
+              ],
+              "hex": "#e6d2be",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                140
+              ],
+              "hex": "#aaa08c",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                120,
+                160,
+                190
+              ],
+              "hex": "#78a0be",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                60,
+                100,
+                130
+              ],
+              "hex": "#3c6482",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                30,
+                40,
+                50
+              ],
+              "hex": "#1e2832",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "35.219"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
+      },
+      {
         "filename": "Geschäftsauslage und Johannes-Kepler-Statue in der Favoritenstrasse.jpg",
         "latitude": 48.179225,
         "longitude": 16.376092,
@@ -10726,6 +11213,64 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.936"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
+      },
+      {
+        "filename": "Glaskuppel an der Fassade des Columbus Einkaufszentrums in der Favoritenstrasse.jpg",
+        "latitude": 48.182378,
+        "longitude": 16.375272,
+        "createDate": "2025-08-30T08:55:33.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                20
+              ],
+              "hex": "#140a14",
+              "percentage": "0.062"
+            },
+            {
+              "rgb": [
+                70,
+                150,
+                190
+              ],
+              "hex": "#4696be",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                120,
+                120,
+                120
+              ],
+              "hex": "#787878",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "52.794"
         },
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
@@ -10798,6 +11343,55 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Hauptfeuerwache der Stadt Wien Aussenfassade nahe der Favoritenstrasse.jpg",
+        "latitude": 48.182647,
+        "longitude": 16.377239,
+        "createDate": "2025-08-30T10:24:52.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                40,
+                20
+              ],
+              "hex": "#3c2814",
+              "percentage": "0.067"
+            },
+            {
+              "rgb": [
+                200,
+                210,
+                210
+              ],
+              "hex": "#c8d2d2",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.028"
+            }
+          ],
+          "colorfulness": "42.711"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
+      },
+      {
         "filename": "Kaugummi- und Zuckerlautomat Favoritenstrasse - Keplerplatz.jpg",
         "latitude": 48.181156,
         "longitude": 16.3755,
@@ -10847,7 +11441,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Mahnmal den Opfern des Faschismus.jpg",
+        "filename": "Mahnmal den Opfern des Faschismus am Reumannplatz.jpg",
         "latitude": 48.173653,
         "longitude": 16.377711,
         "createDate": "2025-08-02T10:57:02.000Z",
@@ -10949,6 +11543,55 @@ export const galleries = [
             }
           ],
           "colorfulness": "50.383"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
+      },
+      {
+        "filename": "Menschen auf Bänken am Keplerplatz.jpg",
+        "latitude": 48.179028,
+        "longitude": 16.376225,
+        "createDate": "2025-08-29T14:32:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                170,
+                160
+              ],
+              "hex": "#beaaa0",
+              "percentage": "0.060"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                200
+              ],
+              "hex": "#f0dcc8",
+              "percentage": "0.017"
+            }
+          ],
+          "colorfulness": "40.861"
         },
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
@@ -11088,7 +11731,74 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Tichy am Reumannplatz.jpg",
+        "filename": "Tankstelle und Wohnhaus nahe der Favoritenstrasse.jpg",
+        "latitude": 48.178078,
+        "longitude": 16.378461,
+        "createDate": "2025-08-30T10:15:49.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                150,
+                140
+              ],
+              "hex": "#aa968c",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                250,
+                210,
+                150
+              ],
+              "hex": "#fad296",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                130,
+                100,
+                90
+              ],
+              "hex": "#82645a",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                230,
+                150,
+                10
+              ],
+              "hex": "#e6960a",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                40
+              ],
+              "hex": "#503228",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "49.870"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
+      },
+      {
+        "filename": "Tichy Eis-Salon am Reumannplatz.jpg",
         "latitude": 48.173997,
         "longitude": 16.377714,
         "createDate": "2025-08-02T10:56:08.000Z",
@@ -11137,7 +11847,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "U-Bahn Abgang Station Keplerplatz.jpg",
+        "filename": "U-Bahn Abgang Station Keplerplatz in der Favoritenstrasse.jpg",
         "latitude": 48.178025,
         "longitude": 16.376411,
         "createDate": "2025-08-02T10:42:06.000Z",
@@ -11193,10 +11903,59 @@ export const galleries = [
           "Stadt",
           "Park"
         ]
+      },
+      {
+        "filename": "U-Bahn-Station Keplerplatz und Fussgängerzone in der Favoritenstrasse.jpg",
+        "latitude": 48.179108,
+        "longitude": 16.376144,
+        "createDate": "2025-08-30T09:16:12.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                130,
+                190
+              ],
+              "hex": "#0a82be",
+              "percentage": "0.047"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                230
+              ],
+              "hex": "#fafae6",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "49.590"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt",
+          "Park"
+        ]
       }
     ],
-    "timeframe": "20. April 2025 - 2. August 2025",
-    "imageCount": 14,
+    "timeframe": "20. April 2025 - 30. August 2025",
+    "imageCount": 22,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -36541,6 +37300,46 @@ export const galleries = [
     "description": "Buchstaben, Kunst & Rechtschreibfehler",
     "images": [
       {
+        "filename": "'Angry Face' Graffitti nahe Gudrunstrasse.jpg",
+        "latitude": 48.177108,
+        "longitude": 16.380236,
+        "createDate": "2025-08-29T14:46:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                170,
+                160
+              ],
+              "hex": "#b4aaa0",
+              "percentage": "0.311"
+            },
+            {
+              "rgb": [
+                100,
+                80,
+                70
+              ],
+              "hex": "#645046",
+              "percentage": "0.035"
+            }
+          ],
+          "colorfulness": "18.379"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
         "filename": "'Low' & 'Nr' Graffitti und Wiese davor.jpg",
         "latitude": 48.195586,
         "longitude": 16.420492,
@@ -36848,6 +37647,73 @@ export const galleries = [
             }
           ],
           "colorfulness": "36.283"
+        },
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
+        "filename": "'Schnitzel' Schriftzug in der Favoritenstrasse.jpg",
+        "latitude": 48.180122,
+        "longitude": 16.375911,
+        "createDate": "2025-08-30T08:59:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                220
+              ],
+              "hex": "#e6e6dc",
+              "percentage": "0.111"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                70
+              ],
+              "hex": "#5a4646",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                250,
+                50,
+                70
+              ],
+              "hex": "#fa3246",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                90,
+                130,
+                170
+              ],
+              "hex": "#5a82aa",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "59.166"
         },
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
@@ -38396,8 +39262,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "11. April 2024 - 9. August 2025",
-    "imageCount": 34,
+    "timeframe": "11. April 2024 - 30. August 2025",
+    "imageCount": 36,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
