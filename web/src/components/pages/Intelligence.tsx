@@ -3,9 +3,7 @@ import { useTheme } from '../../contexts/ThemeContext';
 import SeoHead from '../ui/SeoHead';
 import ApiKeyManager from '../intelligence/ApiKeyManager';
 import ChatInterface from '../intelligence/ChatInterface';
-import ResultsDisplay from '../intelligence/ResultsDisplay';
 import { QueryProcessor } from '../../services/queryProcessor';
-import { CONFIG } from '../../config';
 
 interface Message {
   id: string;
@@ -86,7 +84,6 @@ const Intelligence: React.FC = () => {
       <SeoHead
         title="Intelligence - AI Photo Assistant"
         description="Chat with AI about your photo collection. Ask questions about images, locations, dates, and content."
-        url={`${CONFIG.url}/app/intelligence`}
       />
       
       <div className={`min-h-screen ${theme === 'light' ? 'bg-white' : 'bg-black'}`}>

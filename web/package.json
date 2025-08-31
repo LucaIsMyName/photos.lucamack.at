@@ -1,7 +1,7 @@
 {
   "name": "web",
   "private": true,
-  "version": "1.5.3",
+  "version": "1.5.4",
   "type": "module",
   "description": "Photo Gallery & Notebook with Node, Vite, React & Tailwind.",
   "author": "Luca Mack",

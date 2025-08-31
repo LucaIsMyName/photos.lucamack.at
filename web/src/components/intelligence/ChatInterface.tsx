@@ -57,10 +57,10 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ messages, onSendMessage, 
 
   const exampleQueries = [
     "Zeige mir alle Bilder mit Bäumen",
-    "Bilder vom 20. April 2025",
+    "Bilder vom 1. Mai 2025",
     "3 zufällige Fotos aus Wien",
     "Alle Bilder mit Regenbogen",
-    "Fotos aus der 'öffis' Galerie"
+    "10 Fotos von Bahnhöfen"
   ];
 
   return (
