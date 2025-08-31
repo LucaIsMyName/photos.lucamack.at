@@ -60,8 +60,8 @@ const Gallery = () => {
           name: image.filename.replaceAll("_", " ").replace(".jpg", "").trim(),
           description: `A photo from the gallery: ${gallery.title}`,
           contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), "original")}`,
-          width: "1920", // Default width - could be dynamic if available
-          height: "1080", // Default height - could be dynamic if available
+          width: image.width || "1920", // Default width - could be dynamic if available
+          height: image.height || "1080", // Default height - could be dynamic if available
           datePublished: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split("T")[0] || new Date().toISOString().split("T")[0] : new Date().toISOString().split("T")[0],
           dateCreated: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split("T")[0] || new Date().toISOString().split("T")[0] : new Date().toISOString().split("T")[0],
           author: {
@@ -102,9 +102,10 @@ const Gallery = () => {
     return (
       <>
         <SeoHead
-          title="Fotoserie nicht gefunden"
+          title="404"
           description="Fotoserie nicht gefunden"
           imageUrl={getImageUrl(galleries[0].slug, galleries[0].images[Math.floor(Math.random() * galleries[0].images.length)].filename)}
+          noIndex={true}
         />
         <NotFoundPage />
       </>
@@ -112,7 +113,7 @@ const Gallery = () => {
   }
 
   return (
-    <div>
+    <div> 
       <SeoHead
         title={`Fotoserie: ${gallery.title || gallery.name} | ${CONFIG.author}`}
         description={gallery.description || `Fotoserie: ${gallery.title || gallery.name}.`}

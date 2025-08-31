@@ -6,7 +6,7 @@ export const pages: Page[] = [
   {
     "title": "Anmerkungen",
     "slug": "anmerkungen",
-    "content": "# Anmerkungen\n\nNicht jeder Weg ist gerade,<br> \nnicht jeder Würstelstand kann gute Bosna &<br> \nnicht jedes Foto ist immer schön.\n\nMomente festgehalten von [Luca Mack](https://lucamack.at)"
+    "content": "# Anmerkungen\n\nNicht jeder Weg ist gerade,<br> \nnicht jeder Würstelstand kann gute Bosna &<br> \nnicht jedes Foto ist immer schön.<br>\n\nMomente festgehalten von [Luca Mack](https://lucamack.at)\n\n<div style=\"max-width:180px\"><img src=\"/luca.jpg\" width=\"120px\" height=\"auto\" alt=\"Luca Mack als 'One-Minute-Sculpture' in Bad-Ischl\">\n<figcaption style=\"font-size:11px; margin-top:0.5rem;\">Luca als 'One-Minute-Sculpture' auf der Erwin Wurm Ausstellung in Bad-Ischl.&shy; &copy; Daniela Mack</figcaption></div>\n<br>"
   },
   {
     "title": "Datenschutz",

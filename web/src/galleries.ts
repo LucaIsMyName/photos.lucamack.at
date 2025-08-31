@@ -62,6 +62,8 @@ export const galleries = [
           ],
           "colorfulness": "50.933"
         },
+        "width": 3585,
+        "height": 4435,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -130,6 +132,8 @@ export const galleries = [
           ],
           "colorfulness": "45.716"
         },
+        "width": 4011,
+        "height": 4437,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -189,6 +193,8 @@ export const galleries = [
           ],
           "colorfulness": "46.560"
         },
+        "width": 3158,
+        "height": 4221,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -257,6 +263,8 @@ export const galleries = [
           ],
           "colorfulness": "37.088"
         },
+        "width": 3689,
+        "height": 5162,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -325,6 +333,8 @@ export const galleries = [
           ],
           "colorfulness": "38.807"
         },
+        "width": 5523,
+        "height": 3935,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -384,6 +394,8 @@ export const galleries = [
           ],
           "colorfulness": "46.824"
         },
+        "width": 5083,
+        "height": 3048,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -452,6 +464,8 @@ export const galleries = [
           ],
           "colorfulness": "50.768"
         },
+        "width": 3922,
+        "height": 5647,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -502,6 +516,8 @@ export const galleries = [
           ],
           "colorfulness": "49.753"
         },
+        "width": 3521,
+        "height": 4622,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -543,6 +559,8 @@ export const galleries = [
           ],
           "colorfulness": "45.690"
         },
+        "width": 2849,
+        "height": 4801,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -602,6 +620,8 @@ export const galleries = [
           ],
           "colorfulness": "44.960"
         },
+        "width": 3582,
+        "height": 4718,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -643,6 +663,8 @@ export const galleries = [
           ],
           "colorfulness": "33.557"
         },
+        "width": 3923,
+        "height": 4915,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -733,6 +755,8 @@ export const galleries = [
           ],
           "colorfulness": "50.349"
         },
+        "width": 5519,
+        "height": 2615,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -795,6 +819,8 @@ export const galleries = [
           ],
           "colorfulness": "40.921"
         },
+        "width": 2083,
+        "height": 2010,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -866,6 +892,8 @@ export const galleries = [
           ],
           "colorfulness": "51.009"
         },
+        "width": 2762,
+        "height": 4707,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -928,6 +956,8 @@ export const galleries = [
           ],
           "colorfulness": "45.558"
         },
+        "width": 2199,
+        "height": 3507,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -999,6 +1029,8 @@ export const galleries = [
           ],
           "colorfulness": "41.924"
         },
+        "width": 3708,
+        "height": 4440,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1052,6 +1084,8 @@ export const galleries = [
           ],
           "colorfulness": "30.065"
         },
+        "width": 2145,
+        "height": 4116,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1123,6 +1157,8 @@ export const galleries = [
           ],
           "colorfulness": "47.599"
         },
+        "width": 3237,
+        "height": 2930,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1176,6 +1212,8 @@ export const galleries = [
           ],
           "colorfulness": "43.318"
         },
+        "width": 3209,
+        "height": 4777,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1247,6 +1285,8 @@ export const galleries = [
           ],
           "colorfulness": "51.046"
         },
+        "width": 2566,
+        "height": 4324,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1291,6 +1331,8 @@ export const galleries = [
           ],
           "colorfulness": "26.229"
         },
+        "width": 3169,
+        "height": 2332,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1362,6 +1404,8 @@ export const galleries = [
           ],
           "colorfulness": "34.622"
         },
+        "width": 3863,
+        "height": 4370,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1433,6 +1477,8 @@ export const galleries = [
           ],
           "colorfulness": "48.647"
         },
+        "width": 3955,
+        "height": 4309,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1504,6 +1550,8 @@ export const galleries = [
           ],
           "colorfulness": "38.173"
         },
+        "width": 2641,
+        "height": 3499,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1557,6 +1605,8 @@ export const galleries = [
           ],
           "colorfulness": "29.758"
         },
+        "width": 2679,
+        "height": 2927,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1619,6 +1669,8 @@ export const galleries = [
           ],
           "colorfulness": "28.172"
         },
+        "width": 3022,
+        "height": 3226,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1672,6 +1724,8 @@ export const galleries = [
           ],
           "colorfulness": "47.020"
         },
+        "width": 3627,
+        "height": 4133,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1725,6 +1779,8 @@ export const galleries = [
           ],
           "colorfulness": "33.827"
         },
+        "width": 2475,
+        "height": 5078,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1796,6 +1852,8 @@ export const galleries = [
           ],
           "colorfulness": "55.964"
         },
+        "width": 4099,
+        "height": 3498,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1840,6 +1898,8 @@ export const galleries = [
           ],
           "colorfulness": "52.615"
         },
+        "width": 3548,
+        "height": 2892,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1893,6 +1953,8 @@ export const galleries = [
           ],
           "colorfulness": "40.420"
         },
+        "width": 3962,
+        "height": 4047,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -1955,6 +2017,8 @@ export const galleries = [
           ],
           "colorfulness": "39.761"
         },
+        "width": 2907,
+        "height": 4111,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2017,6 +2081,8 @@ export const galleries = [
           ],
           "colorfulness": "56.043"
         },
+        "width": 2618,
+        "height": 2723,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2088,6 +2154,8 @@ export const galleries = [
           ],
           "colorfulness": "49.808"
         },
+        "width": 3639,
+        "height": 4955,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2159,6 +2227,8 @@ export const galleries = [
           ],
           "colorfulness": "40.219"
         },
+        "width": 4071,
+        "height": 5005,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2212,6 +2282,8 @@ export const galleries = [
           ],
           "colorfulness": "28.587"
         },
+        "width": 2316,
+        "height": 3389,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2256,6 +2328,8 @@ export const galleries = [
           ],
           "colorfulness": "33.126"
         },
+        "width": 2644,
+        "height": 4077,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2327,6 +2401,8 @@ export const galleries = [
           ],
           "colorfulness": "51.475"
         },
+        "width": 4294,
+        "height": 3276,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2371,6 +2447,8 @@ export const galleries = [
           ],
           "colorfulness": "42.090"
         },
+        "width": 3517,
+        "height": 4434,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2442,6 +2520,8 @@ export const galleries = [
           ],
           "colorfulness": "55.377"
         },
+        "width": 2579,
+        "height": 3318,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2495,6 +2575,8 @@ export const galleries = [
           ],
           "colorfulness": "53.567"
         },
+        "width": 2843,
+        "height": 3107,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2539,6 +2621,8 @@ export const galleries = [
           ],
           "colorfulness": "32.310"
         },
+        "width": 3647,
+        "height": 4027,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2601,6 +2685,8 @@ export const galleries = [
           ],
           "colorfulness": "47.475"
         },
+        "width": 3658,
+        "height": 4989,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2663,6 +2749,8 @@ export const galleries = [
           ],
           "colorfulness": "38.070"
         },
+        "width": 2781,
+        "height": 3285,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2734,6 +2822,8 @@ export const galleries = [
           ],
           "colorfulness": "37.329"
         },
+        "width": 3960,
+        "height": 3836,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2787,6 +2877,8 @@ export const galleries = [
           ],
           "colorfulness": "53.878"
         },
+        "width": 3842,
+        "height": 3239,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2849,6 +2941,8 @@ export const galleries = [
           ],
           "colorfulness": "50.200"
         },
+        "width": 3596,
+        "height": 5230,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2920,6 +3014,8 @@ export const galleries = [
           ],
           "colorfulness": "52.355"
         },
+        "width": 3444,
+        "height": 4168,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -2973,6 +3069,8 @@ export const galleries = [
           ],
           "colorfulness": "39.692"
         },
+        "width": 1952,
+        "height": 2601,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3035,6 +3133,8 @@ export const galleries = [
           ],
           "colorfulness": "48.018"
         },
+        "width": 2331,
+        "height": 2515,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3097,6 +3197,8 @@ export const galleries = [
           ],
           "colorfulness": "41.733"
         },
+        "width": 3648,
+        "height": 4441,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3150,6 +3252,8 @@ export const galleries = [
           ],
           "colorfulness": "33.410"
         },
+        "width": 3758,
+        "height": 5010,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3203,6 +3307,8 @@ export const galleries = [
           ],
           "colorfulness": "35.256"
         },
+        "width": 4891,
+        "height": 3610,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3247,6 +3353,8 @@ export const galleries = [
           ],
           "colorfulness": "32.616"
         },
+        "width": 3842,
+        "height": 3031,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3300,6 +3408,8 @@ export const galleries = [
           ],
           "colorfulness": "36.192"
         },
+        "width": 3620,
+        "height": 4792,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3371,6 +3481,8 @@ export const galleries = [
           ],
           "colorfulness": "44.886"
         },
+        "width": 3144,
+        "height": 5251,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3424,6 +3536,8 @@ export const galleries = [
           ],
           "colorfulness": "36.358"
         },
+        "width": 3807,
+        "height": 4713,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3486,6 +3600,8 @@ export const galleries = [
           ],
           "colorfulness": "47.959"
         },
+        "width": 3216,
+        "height": 3370,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3530,6 +3646,8 @@ export const galleries = [
           ],
           "colorfulness": "36.851"
         },
+        "width": 5538,
+        "height": 3649,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3601,6 +3719,8 @@ export const galleries = [
           ],
           "colorfulness": "41.172"
         },
+        "width": 2780,
+        "height": 3494,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3654,6 +3774,8 @@ export const galleries = [
           ],
           "colorfulness": "39.782"
         },
+        "width": 4261,
+        "height": 4175,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3725,6 +3847,8 @@ export const galleries = [
           ],
           "colorfulness": "45.269"
         },
+        "width": 4002,
+        "height": 3793,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3787,6 +3911,8 @@ export const galleries = [
           ],
           "colorfulness": "38.368"
         },
+        "width": 3324,
+        "height": 3861,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3858,6 +3984,8 @@ export const galleries = [
           ],
           "colorfulness": "47.986"
         },
+        "width": 3647,
+        "height": 4471,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3920,6 +4048,8 @@ export const galleries = [
           ],
           "colorfulness": "33.214"
         },
+        "width": 2139,
+        "height": 3920,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -3991,6 +4121,8 @@ export const galleries = [
           ],
           "colorfulness": "61.543"
         },
+        "width": 2524,
+        "height": 3734,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4035,6 +4167,8 @@ export const galleries = [
           ],
           "colorfulness": "38.480"
         },
+        "width": 3919,
+        "height": 2939,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4106,6 +4240,8 @@ export const galleries = [
           ],
           "colorfulness": "62.664"
         },
+        "width": 2837,
+        "height": 4017,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4159,6 +4295,8 @@ export const galleries = [
           ],
           "colorfulness": "38.986"
         },
+        "width": 4234,
+        "height": 2832,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4194,6 +4332,8 @@ export const galleries = [
           ],
           "colorfulness": "30.553"
         },
+        "width": 5410,
+        "height": 4057,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4238,6 +4378,8 @@ export const galleries = [
           ],
           "colorfulness": "22.951"
         },
+        "width": 2266,
+        "height": 4860,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4291,6 +4433,8 @@ export const galleries = [
           ],
           "colorfulness": "45.020"
         },
+        "width": 3962,
+        "height": 4552,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4353,6 +4497,8 @@ export const galleries = [
           ],
           "colorfulness": "51.234"
         },
+        "width": 4038,
+        "height": 2778,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4424,6 +4570,8 @@ export const galleries = [
           ],
           "colorfulness": "41.184"
         },
+        "width": 3215,
+        "height": 4210,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4477,6 +4625,8 @@ export const galleries = [
           ],
           "colorfulness": "44.211"
         },
+        "width": 4795,
+        "height": 3112,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4539,6 +4689,8 @@ export const galleries = [
           ],
           "colorfulness": "50.664"
         },
+        "width": 4181,
+        "height": 3511,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4592,6 +4744,8 @@ export const galleries = [
           ],
           "colorfulness": "41.085"
         },
+        "width": 3351,
+        "height": 3699,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4654,6 +4808,8 @@ export const galleries = [
           ],
           "colorfulness": "51.152"
         },
+        "width": 4940,
+        "height": 3814,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4707,6 +4863,8 @@ export const galleries = [
           ],
           "colorfulness": "38.491"
         },
+        "width": 3167,
+        "height": 4699,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4778,6 +4936,8 @@ export const galleries = [
           ],
           "colorfulness": "48.275"
         },
+        "width": 2363,
+        "height": 3022,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4840,6 +5000,8 @@ export const galleries = [
           ],
           "colorfulness": "45.497"
         },
+        "width": 5206,
+        "height": 3845,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4902,6 +5064,8 @@ export const galleries = [
           ],
           "colorfulness": "44.288"
         },
+        "width": 3756,
+        "height": 5008,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -4973,6 +5137,8 @@ export const galleries = [
           ],
           "colorfulness": "57.613"
         },
+        "width": 3281,
+        "height": 5419,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5044,6 +5210,8 @@ export const galleries = [
           ],
           "colorfulness": "39.498"
         },
+        "width": 3271,
+        "height": 1839,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5088,6 +5256,8 @@ export const galleries = [
           ],
           "colorfulness": "32.056"
         },
+        "width": 3796,
+        "height": 3848,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5150,6 +5320,8 @@ export const galleries = [
           ],
           "colorfulness": "36.878"
         },
+        "width": 3816,
+        "height": 4593,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5212,6 +5384,8 @@ export const galleries = [
           ],
           "colorfulness": "42.013"
         },
+        "width": 3826,
+        "height": 3925,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5283,6 +5457,8 @@ export const galleries = [
           ],
           "colorfulness": "42.243"
         },
+        "width": 4110,
+        "height": 2222,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5327,6 +5503,8 @@ export const galleries = [
           ],
           "colorfulness": "31.519"
         },
+        "width": 3473,
+        "height": 5162,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5380,6 +5558,8 @@ export const galleries = [
           ],
           "colorfulness": "52.944"
         },
+        "width": 3709,
+        "height": 4613,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5442,6 +5622,8 @@ export const galleries = [
           ],
           "colorfulness": "43.123"
         },
+        "width": 3892,
+        "height": 5706,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5495,6 +5677,8 @@ export const galleries = [
           ],
           "colorfulness": "32.404"
         },
+        "width": 3836,
+        "height": 2239,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5557,6 +5741,8 @@ export const galleries = [
           ],
           "colorfulness": "43.433"
         },
+        "width": 4215,
+        "height": 5107,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5628,6 +5814,8 @@ export const galleries = [
           ],
           "colorfulness": "40.505"
         },
+        "width": 3048,
+        "height": 3976,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5681,6 +5869,8 @@ export const galleries = [
           ],
           "colorfulness": "45.422"
         },
+        "width": 3275,
+        "height": 3946,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5743,6 +5933,8 @@ export const galleries = [
           ],
           "colorfulness": "43.266"
         },
+        "width": 2786,
+        "height": 3451,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5814,6 +6006,8 @@ export const galleries = [
           ],
           "colorfulness": "51.721"
         },
+        "width": 2986,
+        "height": 3560,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5858,6 +6052,8 @@ export const galleries = [
           ],
           "colorfulness": "23.950"
         },
+        "width": 2531,
+        "height": 2776,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5920,6 +6116,8 @@ export const galleries = [
           ],
           "colorfulness": "47.641"
         },
+        "width": 3916,
+        "height": 4797,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -5964,6 +6162,8 @@ export const galleries = [
           ],
           "colorfulness": "39.559"
         },
+        "width": 1988,
+        "height": 4821,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6026,6 +6226,8 @@ export const galleries = [
           ],
           "colorfulness": "41.577"
         },
+        "width": 4191,
+        "height": 4220,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6097,6 +6299,8 @@ export const galleries = [
           ],
           "colorfulness": "30.507"
         },
+        "width": 5212,
+        "height": 3819,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6150,6 +6354,8 @@ export const galleries = [
           ],
           "colorfulness": "49.508"
         },
+        "width": 3448,
+        "height": 5167,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6203,6 +6409,8 @@ export const galleries = [
           ],
           "colorfulness": "44.260"
         },
+        "width": 3001,
+        "height": 3221,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6265,6 +6473,8 @@ export const galleries = [
           ],
           "colorfulness": "42.233"
         },
+        "width": 2428,
+        "height": 3780,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6336,6 +6546,8 @@ export const galleries = [
           ],
           "colorfulness": "52.959"
         },
+        "width": 3054,
+        "height": 3814,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6380,6 +6592,8 @@ export const galleries = [
           ],
           "colorfulness": "41.935"
         },
+        "width": 2883,
+        "height": 2319,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6442,6 +6656,8 @@ export const galleries = [
           ],
           "colorfulness": "51.780"
         },
+        "width": 3794,
+        "height": 4625,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6504,6 +6720,8 @@ export const galleries = [
           ],
           "colorfulness": "45.522"
         },
+        "width": 3559,
+        "height": 4963,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6566,6 +6784,8 @@ export const galleries = [
           ],
           "colorfulness": "43.168"
         },
+        "width": 2681,
+        "height": 3320,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6619,6 +6839,8 @@ export const galleries = [
           ],
           "colorfulness": "33.091"
         },
+        "width": 4937,
+        "height": 2982,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6681,6 +6903,63 @@ export const galleries = [
           ],
           "colorfulness": "53.055"
         },
+        "width": 3916,
+        "height": 4421,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Deutschland",
+          "Berlin",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Fluss",
+          "Typografie",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Landwehkanal-Kanal am Hallerschen-Ufer und U-Bahn-Trasse.jpg",
+        "latitude": 52.499011,
+        "longitude": 13.383094,
+        "createDate": "2025-08-20T08:45:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                30
+              ],
+              "hex": "#32281e",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "40.173"
+        },
+        "width": 3742,
+        "height": 3331,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6743,6 +7022,8 @@ export const galleries = [
           ],
           "colorfulness": "37.013"
         },
+        "width": 4011,
+        "height": 3549,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6814,6 +7095,8 @@ export const galleries = [
           ],
           "colorfulness": "40.694"
         },
+        "width": 3765,
+        "height": 4458,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6876,6 +7159,8 @@ export const galleries = [
           ],
           "colorfulness": "46.410"
         },
+        "width": 3363,
+        "height": 3171,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -6947,6 +7232,8 @@ export const galleries = [
           ],
           "colorfulness": "44.234"
         },
+        "width": 3750,
+        "height": 2615,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7018,6 +7305,8 @@ export const galleries = [
           ],
           "colorfulness": "50.125"
         },
+        "width": 3527,
+        "height": 4993,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7089,6 +7378,8 @@ export const galleries = [
           ],
           "colorfulness": "41.602"
         },
+        "width": 2567,
+        "height": 3999,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7151,6 +7442,8 @@ export const galleries = [
           ],
           "colorfulness": "41.616"
         },
+        "width": 2316,
+        "height": 3808,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7204,6 +7497,8 @@ export const galleries = [
           ],
           "colorfulness": "31.337"
         },
+        "width": 1969,
+        "height": 2623,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7266,6 +7561,8 @@ export const galleries = [
           ],
           "colorfulness": "49.900"
         },
+        "width": 5428,
+        "height": 3386,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7337,6 +7634,8 @@ export const galleries = [
           ],
           "colorfulness": "47.825"
         },
+        "width": 3612,
+        "height": 5203,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7408,6 +7707,8 @@ export const galleries = [
           ],
           "colorfulness": "45.782"
         },
+        "width": 3748,
+        "height": 3530,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7479,6 +7780,8 @@ export const galleries = [
           ],
           "colorfulness": "64.617"
         },
+        "width": 3506,
+        "height": 4782,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7550,6 +7853,8 @@ export const galleries = [
           ],
           "colorfulness": "51.990"
         },
+        "width": 4914,
+        "height": 4241,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7621,6 +7926,8 @@ export const galleries = [
           ],
           "colorfulness": "43.681"
         },
+        "width": 4682,
+        "height": 2866,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7665,6 +7972,8 @@ export const galleries = [
           ],
           "colorfulness": "45.891"
         },
+        "width": 3725,
+        "height": 1920,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7718,6 +8027,8 @@ export const galleries = [
           ],
           "colorfulness": "34.586"
         },
+        "width": 2236,
+        "height": 3378,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7762,6 +8073,8 @@ export const galleries = [
           ],
           "colorfulness": "32.386"
         },
+        "width": 3671,
+        "height": 5187,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7824,6 +8137,8 @@ export const galleries = [
           ],
           "colorfulness": "55.071"
         },
+        "width": 3890,
+        "height": 2472,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7886,6 +8201,8 @@ export const galleries = [
           ],
           "colorfulness": "53.554"
         },
+        "width": 3173,
+        "height": 4368,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -7957,6 +8274,8 @@ export const galleries = [
           ],
           "colorfulness": "56.764"
         },
+        "width": 3320,
+        "height": 3112,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8019,6 +8338,8 @@ export const galleries = [
           ],
           "colorfulness": "62.542"
         },
+        "width": 4284,
+        "height": 5201,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8090,6 +8411,8 @@ export const galleries = [
           ],
           "colorfulness": "45.180"
         },
+        "width": 3802,
+        "height": 4380,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8152,6 +8475,8 @@ export const galleries = [
           ],
           "colorfulness": "40.886"
         },
+        "width": 2030,
+        "height": 2734,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8214,6 +8539,8 @@ export const galleries = [
           ],
           "colorfulness": "45.035"
         },
+        "width": 4075,
+        "height": 4663,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8267,6 +8594,8 @@ export const galleries = [
           ],
           "colorfulness": "42.604"
         },
+        "width": 3748,
+        "height": 3152,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8338,6 +8667,8 @@ export const galleries = [
           ],
           "colorfulness": "42.451"
         },
+        "width": 4476,
+        "height": 3830,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8391,6 +8722,8 @@ export const galleries = [
           ],
           "colorfulness": "32.854"
         },
+        "width": 3083,
+        "height": 4114,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8444,6 +8777,8 @@ export const galleries = [
           ],
           "colorfulness": "29.354"
         },
+        "width": 3122,
+        "height": 3984,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8515,6 +8850,8 @@ export const galleries = [
           ],
           "colorfulness": "46.901"
         },
+        "width": 3019,
+        "height": 5194,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8577,6 +8914,8 @@ export const galleries = [
           ],
           "colorfulness": "30.004"
         },
+        "width": 3772,
+        "height": 3687,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8648,6 +8987,8 @@ export const galleries = [
           ],
           "colorfulness": "36.355"
         },
+        "width": 3430,
+        "height": 4574,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8719,6 +9060,8 @@ export const galleries = [
           ],
           "colorfulness": "63.578"
         },
+        "width": 3559,
+        "height": 4271,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8781,6 +9124,8 @@ export const galleries = [
           ],
           "colorfulness": "35.890"
         },
+        "width": 3454,
+        "height": 4476,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8843,6 +9188,8 @@ export const galleries = [
           ],
           "colorfulness": "46.425"
         },
+        "width": 2870,
+        "height": 2636,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8896,6 +9243,8 @@ export const galleries = [
           ],
           "colorfulness": "42.019"
         },
+        "width": 3080,
+        "height": 3232,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -8949,6 +9298,8 @@ export const galleries = [
           ],
           "colorfulness": "39.124"
         },
+        "width": 3052,
+        "height": 3708,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9002,6 +9353,8 @@ export const galleries = [
           ],
           "colorfulness": "32.976"
         },
+        "width": 3113,
+        "height": 4474,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9055,6 +9408,8 @@ export const galleries = [
           ],
           "colorfulness": "41.548"
         },
+        "width": 1756,
+        "height": 2759,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9108,6 +9463,8 @@ export const galleries = [
           ],
           "colorfulness": "51.707"
         },
+        "width": 2965,
+        "height": 3656,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9143,6 +9500,8 @@ export const galleries = [
           ],
           "colorfulness": "25.807"
         },
+        "width": 5416,
+        "height": 3738,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9196,6 +9555,8 @@ export const galleries = [
           ],
           "colorfulness": "34.383"
         },
+        "width": 2494,
+        "height": 3178,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9267,6 +9628,8 @@ export const galleries = [
           ],
           "colorfulness": "40.423"
         },
+        "width": 2655,
+        "height": 2873,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9338,6 +9701,8 @@ export const galleries = [
           ],
           "colorfulness": "46.249"
         },
+        "width": 3396,
+        "height": 5204,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9409,6 +9774,8 @@ export const galleries = [
           ],
           "colorfulness": "50.799"
         },
+        "width": 3101,
+        "height": 4994,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9480,6 +9847,8 @@ export const galleries = [
           ],
           "colorfulness": "49.806"
         },
+        "width": 2638,
+        "height": 3645,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9524,59 +9893,8 @@ export const galleries = [
           ],
           "colorfulness": "33.179"
         },
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Deutschland",
-          "Berlin",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Fluss",
-          "Typografie",
-          "Park",
-          "Statuen"
-        ]
-      },
-      {
-        "filename": "Wasser-Kanal und U-Bahn-Trasse.jpg",
-        "latitude": 52.499011,
-        "longitude": 13.383094,
-        "createDate": "2025-08-20T08:45:17.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                240,
-                230
-              ],
-              "hex": "#f0f0e6",
-              "percentage": "0.046"
-            },
-            {
-              "rgb": [
-                190,
-                180,
-                170
-              ],
-              "hex": "#beb4aa",
-              "percentage": "0.014"
-            },
-            {
-              "rgb": [
-                50,
-                40,
-                30
-              ],
-              "hex": "#32281e",
-              "percentage": "0.009"
-            }
-          ],
-          "colorfulness": "40.173"
-        },
+        "width": 5036,
+        "height": 4080,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9630,6 +9948,8 @@ export const galleries = [
           ],
           "colorfulness": "35.490"
         },
+        "width": 2668,
+        "height": 3173,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9692,6 +10012,8 @@ export const galleries = [
           ],
           "colorfulness": "44.103"
         },
+        "width": 4998,
+        "height": 2977,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9745,6 +10067,8 @@ export const galleries = [
           ],
           "colorfulness": "43.963"
         },
+        "width": 3647,
+        "height": 3866,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9798,6 +10122,8 @@ export const galleries = [
           ],
           "colorfulness": "45.910"
         },
+        "width": 2838,
+        "height": 3593,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9860,6 +10186,8 @@ export const galleries = [
           ],
           "colorfulness": "36.236"
         },
+        "width": 2511,
+        "height": 3159,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9931,6 +10259,8 @@ export const galleries = [
           ],
           "colorfulness": "45.742"
         },
+        "width": 3485,
+        "height": 5119,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -9993,6 +10323,8 @@ export const galleries = [
           ],
           "colorfulness": "38.341"
         },
+        "width": 4089,
+        "height": 3647,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10055,6 +10387,8 @@ export const galleries = [
           ],
           "colorfulness": "45.645"
         },
+        "width": 1949,
+        "height": 3743,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10117,6 +10451,8 @@ export const galleries = [
           ],
           "colorfulness": "33.565"
         },
+        "width": 3331,
+        "height": 2623,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10188,6 +10524,8 @@ export const galleries = [
           ],
           "colorfulness": "45.838"
         },
+        "width": 3139,
+        "height": 5006,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10259,6 +10597,8 @@ export const galleries = [
           ],
           "colorfulness": "43.589"
         },
+        "width": 2954,
+        "height": 4280,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10337,6 +10677,8 @@ export const galleries = [
           ],
           "colorfulness": "36.367"
         },
+        "width": 3823,
+        "height": 4868,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10394,6 +10736,8 @@ export const galleries = [
           ],
           "colorfulness": "36.041"
         },
+        "width": 3535,
+        "height": 5756,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10442,6 +10786,8 @@ export const galleries = [
           ],
           "colorfulness": "31.546"
         },
+        "width": 3353,
+        "height": 4437,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10508,6 +10854,8 @@ export const galleries = [
           ],
           "colorfulness": "28.769"
         },
+        "width": 3253,
+        "height": 3755,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10556,6 +10904,8 @@ export const galleries = [
           ],
           "colorfulness": "37.066"
         },
+        "width": 3319,
+        "height": 4722,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10595,6 +10945,8 @@ export const galleries = [
           ],
           "colorfulness": "30.477"
         },
+        "width": 3378,
+        "height": 4755,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10643,6 +10995,8 @@ export const galleries = [
           ],
           "colorfulness": "29.710"
         },
+        "width": 3651,
+        "height": 3850,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10682,6 +11036,8 @@ export const galleries = [
           ],
           "colorfulness": "35.667"
         },
+        "width": 3178,
+        "height": 4709,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10750,6 +11106,8 @@ export const galleries = [
           ],
           "colorfulness": "38.638"
         },
+        "width": 4196,
+        "height": 4425,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10808,6 +11166,8 @@ export const galleries = [
           ],
           "colorfulness": "41.059"
         },
+        "width": 5084,
+        "height": 4471,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10857,6 +11217,8 @@ export const galleries = [
           ],
           "colorfulness": "36.010"
         },
+        "width": 3770,
+        "height": 4538,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10915,6 +11277,8 @@ export const galleries = [
           ],
           "colorfulness": "51.543"
         },
+        "width": 3062,
+        "height": 3853,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -10982,6 +11346,8 @@ export const galleries = [
           ],
           "colorfulness": "46.039"
         },
+        "width": 3797,
+        "height": 4476,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11049,6 +11415,8 @@ export const galleries = [
           ],
           "colorfulness": "60.294"
         },
+        "width": 3537,
+        "height": 4438,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11107,6 +11475,8 @@ export const galleries = [
           ],
           "colorfulness": "46.873"
         },
+        "width": 3633,
+        "height": 4549,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11174,6 +11544,8 @@ export const galleries = [
           ],
           "colorfulness": "35.219"
         },
+        "width": 4142,
+        "height": 3576,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11214,6 +11586,8 @@ export const galleries = [
           ],
           "colorfulness": "41.936"
         },
+        "width": 3092,
+        "height": 4591,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11272,6 +11646,8 @@ export const galleries = [
           ],
           "colorfulness": "52.794"
         },
+        "width": 3019,
+        "height": 3764,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11330,6 +11706,8 @@ export const galleries = [
           ],
           "colorfulness": "41.060"
         },
+        "width": 3655,
+        "height": 3387,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11379,6 +11757,8 @@ export const galleries = [
           ],
           "colorfulness": "42.711"
         },
+        "width": 3746,
+        "height": 3766,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11428,6 +11808,8 @@ export const galleries = [
           ],
           "colorfulness": "38.930"
         },
+        "width": 3476,
+        "height": 3397,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11477,6 +11859,8 @@ export const galleries = [
           ],
           "colorfulness": "28.477"
         },
+        "width": 3952,
+        "height": 4824,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11544,6 +11928,8 @@ export const galleries = [
           ],
           "colorfulness": "50.383"
         },
+        "width": 3189,
+        "height": 3084,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11593,6 +11979,8 @@ export const galleries = [
           ],
           "colorfulness": "40.861"
         },
+        "width": 3426,
+        "height": 3245,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11651,6 +12039,8 @@ export const galleries = [
           ],
           "colorfulness": "35.178"
         },
+        "width": 3838,
+        "height": 5117,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11718,6 +12108,8 @@ export const galleries = [
           ],
           "colorfulness": "50.061"
         },
+        "width": 3562,
+        "height": 4949,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11785,6 +12177,8 @@ export const galleries = [
           ],
           "colorfulness": "49.870"
         },
+        "width": 4838,
+        "height": 3399,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11834,6 +12228,8 @@ export const galleries = [
           ],
           "colorfulness": "38.008"
         },
+        "width": 3720,
+        "height": 4641,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11892,6 +12288,8 @@ export const galleries = [
           ],
           "colorfulness": "54.648"
         },
+        "width": 3514,
+        "height": 5333,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11941,6 +12339,8 @@ export const galleries = [
           ],
           "colorfulness": "49.590"
         },
+        "width": 2502,
+        "height": 3538,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -11993,6 +12393,8 @@ export const galleries = [
           ],
           "colorfulness": "21.874"
         },
+        "width": 3292,
+        "height": 2253,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12061,6 +12463,8 @@ export const galleries = [
           ],
           "colorfulness": "46.906"
         },
+        "width": 3755,
+        "height": 4962,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12129,6 +12533,8 @@ export const galleries = [
           ],
           "colorfulness": "39.164"
         },
+        "width": 3544,
+        "height": 3662,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12179,6 +12585,8 @@ export const galleries = [
           ],
           "colorfulness": "45.594"
         },
+        "width": 3383,
+        "height": 5282,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12229,6 +12637,8 @@ export const galleries = [
           ],
           "colorfulness": "43.391"
         },
+        "width": 3919,
+        "height": 5226,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12279,6 +12689,8 @@ export const galleries = [
           ],
           "colorfulness": "30.466"
         },
+        "width": 4026,
+        "height": 5252,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12329,6 +12741,8 @@ export const galleries = [
           ],
           "colorfulness": "43.187"
         },
+        "width": 4347,
+        "height": 3978,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12388,6 +12802,8 @@ export const galleries = [
           ],
           "colorfulness": "38.037"
         },
+        "width": 2111,
+        "height": 2815,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12438,6 +12854,8 @@ export const galleries = [
           ],
           "colorfulness": "42.590"
         },
+        "width": 3829,
+        "height": 3668,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12488,6 +12906,8 @@ export const galleries = [
           ],
           "colorfulness": "38.178"
         },
+        "width": 3568,
+        "height": 4050,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12529,6 +12949,8 @@ export const galleries = [
           ],
           "colorfulness": "47.049"
         },
+        "width": 2924,
+        "height": 3899,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12579,6 +13001,8 @@ export const galleries = [
           ],
           "colorfulness": "47.657"
         },
+        "width": 1563,
+        "height": 2912,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12638,6 +13062,8 @@ export const galleries = [
           ],
           "colorfulness": "29.743"
         },
+        "width": 3891,
+        "height": 2548,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12706,6 +13132,8 @@ export const galleries = [
           ],
           "colorfulness": "33.952"
         },
+        "width": 2781,
+        "height": 3181,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12774,6 +13202,8 @@ export const galleries = [
           ],
           "colorfulness": "43.283"
         },
+        "width": 5058,
+        "height": 4556,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12815,6 +13245,8 @@ export const galleries = [
           ],
           "colorfulness": "35.933"
         },
+        "width": 2774,
+        "height": 3785,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12874,6 +13306,8 @@ export const galleries = [
           ],
           "colorfulness": "39.548"
         },
+        "width": 3397,
+        "height": 3397,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -12942,6 +13376,8 @@ export const galleries = [
           ],
           "colorfulness": "38.356"
         },
+        "width": 2994,
+        "height": 2078,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13001,6 +13437,8 @@ export const galleries = [
           ],
           "colorfulness": "38.286"
         },
+        "width": 2246,
+        "height": 3209,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13051,6 +13489,8 @@ export const galleries = [
           ],
           "colorfulness": "30.839"
         },
+        "width": 2624,
+        "height": 3711,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13101,6 +13541,8 @@ export const galleries = [
           ],
           "colorfulness": "38.193"
         },
+        "width": 4075,
+        "height": 5200,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13151,6 +13593,8 @@ export const galleries = [
           ],
           "colorfulness": "39.531"
         },
+        "width": 3397,
+        "height": 4347,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13219,6 +13663,8 @@ export const galleries = [
           ],
           "colorfulness": "53.254"
         },
+        "width": 5082,
+        "height": 4046,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13278,6 +13724,8 @@ export const galleries = [
           ],
           "colorfulness": "46.784"
         },
+        "width": 3680,
+        "height": 6045,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13337,6 +13785,8 @@ export const galleries = [
           ],
           "colorfulness": "37.017"
         },
+        "width": 2638,
+        "height": 3267,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13405,6 +13855,8 @@ export const galleries = [
           ],
           "colorfulness": "50.356"
         },
+        "width": 2302,
+        "height": 2851,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13464,6 +13916,8 @@ export const galleries = [
           ],
           "colorfulness": "40.451"
         },
+        "width": 3148,
+        "height": 4152,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13505,6 +13959,8 @@ export const galleries = [
           ],
           "colorfulness": "42.210"
         },
+        "width": 3766,
+        "height": 4187,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13564,6 +14020,8 @@ export const galleries = [
           ],
           "colorfulness": "32.744"
         },
+        "width": 2555,
+        "height": 3188,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13605,6 +14063,8 @@ export const galleries = [
           ],
           "colorfulness": "48.036"
         },
+        "width": 2584,
+        "height": 4932,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13646,6 +14106,8 @@ export const galleries = [
           ],
           "colorfulness": "30.127"
         },
+        "width": 2810,
+        "height": 3295,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13696,6 +14158,8 @@ export const galleries = [
           ],
           "colorfulness": "46.744"
         },
+        "width": 2921,
+        "height": 4641,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13755,6 +14219,8 @@ export const galleries = [
           ],
           "colorfulness": "38.445"
         },
+        "width": 3718,
+        "height": 4958,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13805,6 +14271,8 @@ export const galleries = [
           ],
           "colorfulness": "35.951"
         },
+        "width": 2141,
+        "height": 3144,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13864,6 +14332,8 @@ export const galleries = [
           ],
           "colorfulness": "44.096"
         },
+        "width": 1602,
+        "height": 2649,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -13923,6 +14393,8 @@ export const galleries = [
           ],
           "colorfulness": "31.212"
         },
+        "width": 2245,
+        "height": 3023,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14013,6 +14485,8 @@ export const galleries = [
           ],
           "colorfulness": "45.643"
         },
+        "width": 5346,
+        "height": 3086,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14077,6 +14551,8 @@ export const galleries = [
           ],
           "colorfulness": "53.139"
         },
+        "width": 2979,
+        "height": 3853,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14132,6 +14608,8 @@ export const galleries = [
           ],
           "colorfulness": "36.239"
         },
+        "width": 2882,
+        "height": 2732,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14196,6 +14674,8 @@ export const galleries = [
           ],
           "colorfulness": "46.228"
         },
+        "width": 3342,
+        "height": 4919,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14269,6 +14749,8 @@ export const galleries = [
           ],
           "colorfulness": "57.828"
         },
+        "width": 2444,
+        "height": 3447,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14324,6 +14806,8 @@ export const galleries = [
           ],
           "colorfulness": "40.639"
         },
+        "width": 3139,
+        "height": 5381,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14388,6 +14872,8 @@ export const galleries = [
           ],
           "colorfulness": "33.546"
         },
+        "width": 2390,
+        "height": 3582,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14434,6 +14920,8 @@ export const galleries = [
           ],
           "colorfulness": "37.487"
         },
+        "width": 4026,
+        "height": 5369,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14489,6 +14977,8 @@ export const galleries = [
           ],
           "colorfulness": "31.036"
         },
+        "width": 4053,
+        "height": 3289,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14562,6 +15052,8 @@ export const galleries = [
           ],
           "colorfulness": "39.627"
         },
+        "width": 3892,
+        "height": 5038,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14626,6 +15118,8 @@ export const galleries = [
           ],
           "colorfulness": "36.884"
         },
+        "width": 5319,
+        "height": 3674,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14690,6 +15184,8 @@ export const galleries = [
           ],
           "colorfulness": "43.395"
         },
+        "width": 3825,
+        "height": 4780,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14745,6 +15241,8 @@ export const galleries = [
           ],
           "colorfulness": "49.464"
         },
+        "width": 3803,
+        "height": 4477,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14818,6 +15316,8 @@ export const galleries = [
           ],
           "colorfulness": "42.516"
         },
+        "width": 3942,
+        "height": 4432,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14873,6 +15373,8 @@ export const galleries = [
           ],
           "colorfulness": "38.650"
         },
+        "width": 4170,
+        "height": 5542,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14928,6 +15430,8 @@ export const galleries = [
           ],
           "colorfulness": "41.511"
         },
+        "width": 3519,
+        "height": 4813,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -14974,6 +15478,8 @@ export const galleries = [
           ],
           "colorfulness": "27.759"
         },
+        "width": 5558,
+        "height": 4014,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15038,6 +15544,8 @@ export const galleries = [
           ],
           "colorfulness": "31.448"
         },
+        "width": 2863,
+        "height": 5554,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15111,6 +15619,8 @@ export const galleries = [
           ],
           "colorfulness": "33.798"
         },
+        "width": 4010,
+        "height": 4207,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15184,6 +15694,8 @@ export const galleries = [
           ],
           "colorfulness": "41.656"
         },
+        "width": 3497,
+        "height": 4441,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15230,6 +15742,8 @@ export const galleries = [
           ],
           "colorfulness": "50.227"
         },
+        "width": 3906,
+        "height": 4167,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15294,6 +15808,8 @@ export const galleries = [
           ],
           "colorfulness": "48.946"
         },
+        "width": 3640,
+        "height": 3848,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15358,6 +15874,8 @@ export const galleries = [
           ],
           "colorfulness": "46.792"
         },
+        "width": 5245,
+        "height": 4209,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15422,6 +15940,8 @@ export const galleries = [
           ],
           "colorfulness": "37.227"
         },
+        "width": 4983,
+        "height": 3962,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15486,6 +16006,8 @@ export const galleries = [
           ],
           "colorfulness": "42.046"
         },
+        "width": 5087,
+        "height": 3358,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15541,6 +16063,8 @@ export const galleries = [
           ],
           "colorfulness": "32.900"
         },
+        "width": 4898,
+        "height": 4078,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15614,6 +16138,8 @@ export const galleries = [
           ],
           "colorfulness": "36.831"
         },
+        "width": 3380,
+        "height": 4878,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15678,6 +16204,8 @@ export const galleries = [
           ],
           "colorfulness": "42.263"
         },
+        "width": 3539,
+        "height": 3895,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15733,6 +16261,8 @@ export const galleries = [
           ],
           "colorfulness": "35.341"
         },
+        "width": 4151,
+        "height": 3394,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15779,6 +16309,8 @@ export const galleries = [
           ],
           "colorfulness": "44.030"
         },
+        "width": 5539,
+        "height": 3798,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15825,6 +16357,8 @@ export const galleries = [
           ],
           "colorfulness": "37.456"
         },
+        "width": 4187,
+        "height": 5583,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15880,6 +16414,8 @@ export const galleries = [
           ],
           "colorfulness": "37.225"
         },
+        "width": 2793,
+        "height": 3496,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -15935,6 +16471,8 @@ export const galleries = [
           ],
           "colorfulness": "34.102"
         },
+        "width": 4010,
+        "height": 4810,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16008,6 +16546,8 @@ export const galleries = [
           ],
           "colorfulness": "37.610"
         },
+        "width": 3834,
+        "height": 4806,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16081,6 +16621,8 @@ export const galleries = [
           ],
           "colorfulness": "43.705"
         },
+        "width": 3812,
+        "height": 3924,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16136,6 +16678,8 @@ export const galleries = [
           ],
           "colorfulness": "37.468"
         },
+        "width": 3326,
+        "height": 5173,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16191,6 +16735,8 @@ export const galleries = [
           ],
           "colorfulness": "37.413"
         },
+        "width": 4078,
+        "height": 4898,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16255,6 +16801,8 @@ export const galleries = [
           ],
           "colorfulness": "43.864"
         },
+        "width": 3262,
+        "height": 4607,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16310,6 +16858,8 @@ export const galleries = [
           ],
           "colorfulness": "30.988"
         },
+        "width": 5025,
+        "height": 2264,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16365,6 +16915,8 @@ export const galleries = [
           ],
           "colorfulness": "41.092"
         },
+        "width": 3623,
+        "height": 4125,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16420,6 +16972,8 @@ export const galleries = [
           ],
           "colorfulness": "45.894"
         },
+        "width": 3399,
+        "height": 4905,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16475,6 +17029,8 @@ export const galleries = [
           ],
           "colorfulness": "37.806"
         },
+        "width": 3708,
+        "height": 4944,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16548,6 +17104,8 @@ export const galleries = [
           ],
           "colorfulness": "36.329"
         },
+        "width": 3906,
+        "height": 4688,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16612,6 +17170,8 @@ export const galleries = [
           ],
           "colorfulness": "40.229"
         },
+        "width": 3528,
+        "height": 5440,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16667,6 +17227,8 @@ export const galleries = [
           ],
           "colorfulness": "32.200"
         },
+        "width": 3859,
+        "height": 4397,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16731,6 +17293,8 @@ export const galleries = [
           ],
           "colorfulness": "47.366"
         },
+        "width": 3914,
+        "height": 4557,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16786,6 +17350,8 @@ export const galleries = [
           ],
           "colorfulness": "35.583"
         },
+        "width": 3095,
+        "height": 4223,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16841,6 +17407,8 @@ export const galleries = [
           ],
           "colorfulness": "34.936"
         },
+        "width": 5233,
+        "height": 3592,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16896,6 +17464,8 @@ export const galleries = [
           ],
           "colorfulness": "38.353"
         },
+        "width": 3753,
+        "height": 5224,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16987,6 +17557,8 @@ export const galleries = [
           ],
           "colorfulness": "31.759"
         },
+        "width": 3728,
+        "height": 5547,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17048,6 +17620,8 @@ export const galleries = [
           ],
           "colorfulness": "36.633"
         },
+        "width": 3886,
+        "height": 4869,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17109,6 +17683,8 @@ export const galleries = [
           ],
           "colorfulness": "39.428"
         },
+        "width": 3766,
+        "height": 4954,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17170,6 +17746,8 @@ export const galleries = [
           ],
           "colorfulness": "39.243"
         },
+        "width": 3473,
+        "height": 5422,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17222,6 +17800,8 @@ export const galleries = [
           ],
           "colorfulness": "35.369"
         },
+        "width": 5266,
+        "height": 3737,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17274,6 +17854,8 @@ export const galleries = [
           ],
           "colorfulness": "34.394"
         },
+        "width": 3945,
+        "height": 4992,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17344,6 +17926,8 @@ export const galleries = [
           ],
           "colorfulness": "40.933"
         },
+        "width": 3111,
+        "height": 4292,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17396,6 +17980,8 @@ export const galleries = [
           ],
           "colorfulness": "34.920"
         },
+        "width": 2482,
+        "height": 3163,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17448,6 +18034,8 @@ export const galleries = [
           ],
           "colorfulness": "33.632"
         },
+        "width": 4182,
+        "height": 4373,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17509,6 +18097,8 @@ export const galleries = [
           ],
           "colorfulness": "40.485"
         },
+        "width": 3665,
+        "height": 4893,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17579,6 +18169,8 @@ export const galleries = [
           ],
           "colorfulness": "50.384"
         },
+        "width": 4154,
+        "height": 4135,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17649,6 +18241,8 @@ export const galleries = [
           ],
           "colorfulness": "48.583"
         },
+        "width": 3797,
+        "height": 5135,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17710,6 +18304,8 @@ export const galleries = [
           ],
           "colorfulness": "41.046"
         },
+        "width": 2568,
+        "height": 4465,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17762,6 +18358,8 @@ export const galleries = [
           ],
           "colorfulness": "26.389"
         },
+        "width": 3992,
+        "height": 4338,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17814,6 +18412,8 @@ export const galleries = [
           ],
           "colorfulness": "48.319"
         },
+        "width": 3286,
+        "height": 4141,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17884,6 +18484,8 @@ export const galleries = [
           ],
           "colorfulness": "46.136"
         },
+        "width": 3582,
+        "height": 4258,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17936,6 +18538,8 @@ export const galleries = [
           ],
           "colorfulness": "37.211"
         },
+        "width": 4276,
+        "height": 5465,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17979,6 +18583,8 @@ export const galleries = [
           ],
           "colorfulness": "30.231"
         },
+        "width": 3997,
+        "height": 4575,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18040,6 +18646,8 @@ export const galleries = [
           ],
           "colorfulness": "41.801"
         },
+        "width": 3834,
+        "height": 4728,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18101,6 +18709,8 @@ export const galleries = [
           ],
           "colorfulness": "35.423"
         },
+        "width": 3008,
+        "height": 3669,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18171,6 +18781,8 @@ export const galleries = [
           ],
           "colorfulness": "38.026"
         },
+        "width": 3650,
+        "height": 4339,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18232,6 +18844,8 @@ export const galleries = [
           ],
           "colorfulness": "51.270"
         },
+        "width": 3946,
+        "height": 4662,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18275,6 +18889,8 @@ export const galleries = [
           ],
           "colorfulness": "38.524"
         },
+        "width": 3426,
+        "height": 4549,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18309,6 +18925,8 @@ export const galleries = [
           ],
           "colorfulness": "30.668"
         },
+        "width": 3984,
+        "height": 5481,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18361,6 +18979,8 @@ export const galleries = [
           ],
           "colorfulness": "34.936"
         },
+        "width": 5293,
+        "height": 4475,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18413,6 +19033,8 @@ export const galleries = [
           ],
           "colorfulness": "40.914"
         },
+        "width": 3958,
+        "height": 4329,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18456,6 +19078,8 @@ export const galleries = [
           ],
           "colorfulness": "46.465"
         },
+        "width": 4284,
+        "height": 3645,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18517,6 +19141,8 @@ export const galleries = [
           ],
           "colorfulness": "56.671"
         },
+        "width": 4062,
+        "height": 4450,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18569,6 +19195,8 @@ export const galleries = [
           ],
           "colorfulness": "45.175"
         },
+        "width": 4435,
+        "height": 3326,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18621,6 +19249,8 @@ export const galleries = [
           ],
           "colorfulness": "43.420"
         },
+        "width": 2756,
+        "height": 4124,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18673,6 +19303,8 @@ export const galleries = [
           ],
           "colorfulness": "38.711"
         },
+        "width": 3622,
+        "height": 4894,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18743,6 +19375,8 @@ export const galleries = [
           ],
           "colorfulness": "49.023"
         },
+        "width": 5273,
+        "height": 4147,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18786,6 +19420,8 @@ export const galleries = [
           ],
           "colorfulness": "44.620"
         },
+        "width": 4177,
+        "height": 4024,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18847,6 +19483,8 @@ export const galleries = [
           ],
           "colorfulness": "38.393"
         },
+        "width": 3813,
+        "height": 4757,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18908,6 +19546,8 @@ export const galleries = [
           ],
           "colorfulness": "42.876"
         },
+        "width": 3422,
+        "height": 4766,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18978,6 +19618,8 @@ export const galleries = [
           ],
           "colorfulness": "40.965"
         },
+        "width": 3779,
+        "height": 5039,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19048,6 +19690,8 @@ export const galleries = [
           ],
           "colorfulness": "34.612"
         },
+        "width": 3640,
+        "height": 4021,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19109,6 +19753,8 @@ export const galleries = [
           ],
           "colorfulness": "42.588"
         },
+        "width": 2783,
+        "height": 2358,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19170,6 +19816,8 @@ export const galleries = [
           ],
           "colorfulness": "33.707"
         },
+        "width": 3198,
+        "height": 5087,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19231,6 +19879,8 @@ export const galleries = [
           ],
           "colorfulness": "37.235"
         },
+        "width": 3820,
+        "height": 4561,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19283,6 +19933,8 @@ export const galleries = [
           ],
           "colorfulness": "29.352"
         },
+        "width": 4284,
+        "height": 4563,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19335,6 +19987,8 @@ export const galleries = [
           ],
           "colorfulness": "37.386"
         },
+        "width": 5496,
+        "height": 3576,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19396,6 +20050,8 @@ export const galleries = [
           ],
           "colorfulness": "40.026"
         },
+        "width": 3347,
+        "height": 4063,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19463,6 +20119,8 @@ export const galleries = [
           ],
           "colorfulness": "39.593"
         },
+        "width": 2336,
+        "height": 4160,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19503,6 +20161,8 @@ export const galleries = [
           ],
           "colorfulness": "23.248"
         },
+        "width": 4149,
+        "height": 2329,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19561,6 +20221,8 @@ export const galleries = [
           ],
           "colorfulness": "23.977"
         },
+        "width": 1971,
+        "height": 3037,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19601,6 +20263,8 @@ export const galleries = [
           ],
           "colorfulness": "37.015"
         },
+        "width": 4160,
+        "height": 2336,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19650,6 +20314,8 @@ export const galleries = [
           ],
           "colorfulness": "45.060"
         },
+        "width": 4160,
+        "height": 2336,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19690,6 +20356,8 @@ export const galleries = [
           ],
           "colorfulness": "39.190"
         },
+        "width": 4160,
+        "height": 2336,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19748,6 +20416,8 @@ export const galleries = [
           ],
           "colorfulness": "37.519"
         },
+        "width": 2336,
+        "height": 4160,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19788,6 +20458,8 @@ export const galleries = [
           ],
           "colorfulness": "27.717"
         },
+        "width": 2336,
+        "height": 4160,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19837,6 +20509,8 @@ export const galleries = [
           ],
           "colorfulness": "35.097"
         },
+        "width": 2336,
+        "height": 4160,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19877,6 +20551,8 @@ export const galleries = [
           ],
           "colorfulness": "41.777"
         },
+        "width": 2336,
+        "height": 4160,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19926,6 +20602,8 @@ export const galleries = [
           ],
           "colorfulness": "37.104"
         },
+        "width": 4160,
+        "height": 2336,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20014,6 +20692,8 @@ export const galleries = [
           ],
           "colorfulness": "51.394"
         },
+        "width": 4009,
+        "height": 3406,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20064,6 +20744,8 @@ export const galleries = [
           ],
           "colorfulness": "39.021"
         },
+        "width": 2965,
+        "height": 4452,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20114,6 +20796,8 @@ export const galleries = [
           ],
           "colorfulness": "41.600"
         },
+        "width": 3811,
+        "height": 1944,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20173,6 +20857,8 @@ export const galleries = [
           ],
           "colorfulness": "46.236"
         },
+        "width": 3967,
+        "height": 3566,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20232,6 +20918,8 @@ export const galleries = [
           ],
           "colorfulness": "47.289"
         },
+        "width": 3493,
+        "height": 4821,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20300,6 +20988,8 @@ export const galleries = [
           ],
           "colorfulness": "44.824"
         },
+        "width": 3637,
+        "height": 5362,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20359,6 +21049,8 @@ export const galleries = [
           ],
           "colorfulness": "49.508"
         },
+        "width": 4072,
+        "height": 2938,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20427,6 +21119,8 @@ export const galleries = [
           ],
           "colorfulness": "39.423"
         },
+        "width": 3042,
+        "height": 3860,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20477,6 +21171,8 @@ export const galleries = [
           ],
           "colorfulness": "38.952"
         },
+        "width": 3979,
+        "height": 5522,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20518,6 +21214,8 @@ export const galleries = [
           ],
           "colorfulness": "41.994"
         },
+        "width": 4121,
+        "height": 4103,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20586,6 +21284,8 @@ export const galleries = [
           ],
           "colorfulness": "42.486"
         },
+        "width": 4206,
+        "height": 4503,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20654,6 +21354,8 @@ export const galleries = [
           ],
           "colorfulness": "47.339"
         },
+        "width": 4029,
+        "height": 4914,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20713,6 +21415,8 @@ export const galleries = [
           ],
           "colorfulness": "41.332"
         },
+        "width": 3901,
+        "height": 4880,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20754,6 +21458,8 @@ export const galleries = [
           ],
           "colorfulness": "55.471"
         },
+        "width": 3573,
+        "height": 3163,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20813,6 +21519,8 @@ export const galleries = [
           ],
           "colorfulness": "41.525"
         },
+        "width": 3510,
+        "height": 4583,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20863,6 +21571,8 @@ export const galleries = [
           ],
           "colorfulness": "48.507"
         },
+        "width": 3723,
+        "height": 5258,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20931,6 +21641,8 @@ export const galleries = [
           ],
           "colorfulness": "49.812"
         },
+        "width": 2555,
+        "height": 3011,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20990,6 +21702,8 @@ export const galleries = [
           ],
           "colorfulness": "39.644"
         },
+        "width": 3300,
+        "height": 3754,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21058,6 +21772,8 @@ export const galleries = [
           ],
           "colorfulness": "44.254"
         },
+        "width": 3770,
+        "height": 4463,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21108,6 +21824,8 @@ export const galleries = [
           ],
           "colorfulness": "43.270"
         },
+        "width": 3438,
+        "height": 2568,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21167,6 +21885,8 @@ export const galleries = [
           ],
           "colorfulness": "37.933"
         },
+        "width": 4171,
+        "height": 4171,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21226,6 +21946,8 @@ export const galleries = [
           ],
           "colorfulness": "38.100"
         },
+        "width": 4051,
+        "height": 3740,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21294,6 +22016,8 @@ export const galleries = [
           ],
           "colorfulness": "38.513"
         },
+        "width": 3855,
+        "height": 5057,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21335,6 +22059,8 @@ export const galleries = [
           ],
           "colorfulness": "31.948"
         },
+        "width": 4014,
+        "height": 4659,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21394,6 +22120,8 @@ export const galleries = [
           ],
           "colorfulness": "47.436"
         },
+        "width": 3707,
+        "height": 4748,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21462,6 +22190,8 @@ export const galleries = [
           ],
           "colorfulness": "37.188"
         },
+        "width": 3967,
+        "height": 4442,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21512,6 +22242,8 @@ export const galleries = [
           ],
           "colorfulness": "39.865"
         },
+        "width": 3949,
+        "height": 4739,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21562,6 +22294,8 @@ export const galleries = [
           ],
           "colorfulness": "43.795"
         },
+        "width": 3549,
+        "height": 4636,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21603,6 +22337,8 @@ export const galleries = [
           ],
           "colorfulness": "44.535"
         },
+        "width": 3898,
+        "height": 5435,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21671,6 +22407,8 @@ export const galleries = [
           ],
           "colorfulness": "50.991"
         },
+        "width": 3424,
+        "height": 3694,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21739,6 +22477,8 @@ export const galleries = [
           ],
           "colorfulness": "51.376"
         },
+        "width": 4297,
+        "height": 3249,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21789,6 +22529,8 @@ export const galleries = [
           ],
           "colorfulness": "40.055"
         },
+        "width": 3922,
+        "height": 4506,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21857,6 +22599,8 @@ export const galleries = [
           ],
           "colorfulness": "49.897"
         },
+        "width": 3882,
+        "height": 4940,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21925,6 +22669,8 @@ export const galleries = [
           ],
           "colorfulness": "48.993"
         },
+        "width": 3531,
+        "height": 5396,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -21984,6 +22730,8 @@ export const galleries = [
           ],
           "colorfulness": "39.316"
         },
+        "width": 3983,
+        "height": 4175,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22052,6 +22800,8 @@ export const galleries = [
           ],
           "colorfulness": "54.542"
         },
+        "width": 2989,
+        "height": 4036,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22120,6 +22870,8 @@ export const galleries = [
           ],
           "colorfulness": "52.662"
         },
+        "width": 3829,
+        "height": 4565,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22170,6 +22922,8 @@ export const galleries = [
           ],
           "colorfulness": "44.321"
         },
+        "width": 3661,
+        "height": 4642,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22238,6 +22992,8 @@ export const galleries = [
           ],
           "colorfulness": "52.108"
         },
+        "width": 3684,
+        "height": 4886,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22306,6 +23062,8 @@ export const galleries = [
           ],
           "colorfulness": "53.909"
         },
+        "width": 3415,
+        "height": 4628,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22387,6 +23145,8 @@ export const galleries = [
           ],
           "colorfulness": "45.240"
         },
+        "width": 3801,
+        "height": 4205,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22426,6 +23186,8 @@ export const galleries = [
           ],
           "colorfulness": "30.172"
         },
+        "width": 3994,
+        "height": 5325,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22474,6 +23236,8 @@ export const galleries = [
           ],
           "colorfulness": "44.298"
         },
+        "width": 3432,
+        "height": 5116,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22540,6 +23304,8 @@ export const galleries = [
           ],
           "colorfulness": "58.039"
         },
+        "width": 2535,
+        "height": 3651,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22597,6 +23363,8 @@ export const galleries = [
           ],
           "colorfulness": "32.926"
         },
+        "width": 3936,
+        "height": 4800,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22663,6 +23431,8 @@ export const galleries = [
           ],
           "colorfulness": "32.822"
         },
+        "width": 4142,
+        "height": 4723,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22711,6 +23481,8 @@ export const galleries = [
           ],
           "colorfulness": "25.722"
         },
+        "width": 4505,
+        "height": 3808,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22759,6 +23531,8 @@ export const galleries = [
           ],
           "colorfulness": "37.331"
         },
+        "width": 3889,
+        "height": 4956,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22816,6 +23590,8 @@ export const galleries = [
           ],
           "colorfulness": "44.245"
         },
+        "width": 3646,
+        "height": 4786,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22882,6 +23658,8 @@ export const galleries = [
           ],
           "colorfulness": "48.570"
         },
+        "width": 3843,
+        "height": 5003,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -22948,6 +23726,8 @@ export const galleries = [
           ],
           "colorfulness": "36.987"
         },
+        "width": 4020,
+        "height": 4871,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23014,6 +23794,8 @@ export const galleries = [
           ],
           "colorfulness": "46.741"
         },
+        "width": 3655,
+        "height": 5552,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23062,6 +23844,8 @@ export const galleries = [
           ],
           "colorfulness": "37.543"
         },
+        "width": 3855,
+        "height": 4236,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23110,6 +23894,8 @@ export const galleries = [
           ],
           "colorfulness": "42.869"
         },
+        "width": 4009,
+        "height": 4106,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23158,6 +23944,8 @@ export const galleries = [
           ],
           "colorfulness": "42.100"
         },
+        "width": 3855,
+        "height": 5277,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23224,6 +24012,8 @@ export const galleries = [
           ],
           "colorfulness": "38.952"
         },
+        "width": 4033,
+        "height": 4163,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23290,6 +24080,8 @@ export const galleries = [
           ],
           "colorfulness": "36.425"
         },
+        "width": 2995,
+        "height": 3520,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23329,6 +24121,8 @@ export const galleries = [
           ],
           "colorfulness": "22.879"
         },
+        "width": 2840,
+        "height": 3787,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23386,6 +24180,8 @@ export const galleries = [
           ],
           "colorfulness": "42.268"
         },
+        "width": 3774,
+        "height": 3774,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23434,6 +24230,8 @@ export const galleries = [
           ],
           "colorfulness": "55.426"
         },
+        "width": 3737,
+        "height": 3326,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23491,6 +24289,8 @@ export const galleries = [
           ],
           "colorfulness": "24.038"
         },
+        "width": 3146,
+        "height": 4663,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23530,6 +24330,8 @@ export const galleries = [
           ],
           "colorfulness": "33.473"
         },
+        "width": 3782,
+        "height": 4004,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23578,6 +24380,8 @@ export const galleries = [
           ],
           "colorfulness": "46.714"
         },
+        "width": 4006,
+        "height": 5178,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23626,6 +24430,8 @@ export const galleries = [
           ],
           "colorfulness": "34.571"
         },
+        "width": 3868,
+        "height": 5391,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23683,6 +24489,8 @@ export const galleries = [
           ],
           "colorfulness": "32.879"
         },
+        "width": 3748,
+        "height": 5257,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23749,6 +24557,8 @@ export const galleries = [
           ],
           "colorfulness": "36.973"
         },
+        "width": 3675,
+        "height": 5127,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23788,6 +24598,8 @@ export const galleries = [
           ],
           "colorfulness": "32.268"
         },
+        "width": 3384,
+        "height": 4971,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23836,6 +24648,8 @@ export const galleries = [
           ],
           "colorfulness": "40.741"
         },
+        "width": 3839,
+        "height": 3060,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23893,6 +24707,8 @@ export const galleries = [
           ],
           "colorfulness": "40.128"
         },
+        "width": 4150,
+        "height": 4882,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -23959,6 +24775,8 @@ export const galleries = [
           ],
           "colorfulness": "35.384"
         },
+        "width": 3469,
+        "height": 3079,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24025,6 +24843,8 @@ export const galleries = [
           ],
           "colorfulness": "45.955"
         },
+        "width": 2876,
+        "height": 3537,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24073,6 +24893,8 @@ export const galleries = [
           ],
           "colorfulness": "36.075"
         },
+        "width": 4149,
+        "height": 4434,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24121,6 +24943,8 @@ export const galleries = [
           ],
           "colorfulness": "25.603"
         },
+        "width": 3774,
+        "height": 4099,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24187,6 +25011,8 @@ export const galleries = [
           ],
           "colorfulness": "38.607"
         },
+        "width": 3155,
+        "height": 4197,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24235,6 +25061,8 @@ export const galleries = [
           ],
           "colorfulness": "33.684"
         },
+        "width": 4145,
+        "height": 5527,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24274,6 +25102,8 @@ export const galleries = [
           ],
           "colorfulness": "27.164"
         },
+        "width": 4038,
+        "height": 4341,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24313,6 +25143,8 @@ export const galleries = [
           ],
           "colorfulness": "36.819"
         },
+        "width": 4090,
+        "height": 4565,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24370,6 +25202,8 @@ export const galleries = [
           ],
           "colorfulness": "36.038"
         },
+        "width": 3534,
+        "height": 3998,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24427,6 +25261,8 @@ export const galleries = [
           ],
           "colorfulness": "33.398"
         },
+        "width": 4073,
+        "height": 4859,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24475,6 +25311,8 @@ export const galleries = [
           ],
           "colorfulness": "35.603"
         },
+        "width": 3461,
+        "height": 4800,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24523,6 +25361,8 @@ export const galleries = [
           ],
           "colorfulness": "47.626"
         },
+        "width": 3720,
+        "height": 5143,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24589,6 +25429,8 @@ export const galleries = [
           ],
           "colorfulness": "38.501"
         },
+        "width": 4479,
+        "height": 4499,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24637,6 +25479,8 @@ export const galleries = [
           ],
           "colorfulness": "32.197"
         },
+        "width": 3121,
+        "height": 4668,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24694,6 +25538,8 @@ export const galleries = [
           ],
           "colorfulness": "44.368"
         },
+        "width": 3956,
+        "height": 4813,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24760,6 +25606,8 @@ export const galleries = [
           ],
           "colorfulness": "43.308"
         },
+        "width": 3502,
+        "height": 4889,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24817,6 +25665,8 @@ export const galleries = [
           ],
           "colorfulness": "39.890"
         },
+        "width": 3949,
+        "height": 4425,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24865,6 +25715,8 @@ export const galleries = [
           ],
           "colorfulness": "33.918"
         },
+        "width": 3977,
+        "height": 3243,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24904,6 +25756,8 @@ export const galleries = [
           ],
           "colorfulness": "42.740"
         },
+        "width": 3894,
+        "height": 2662,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24952,6 +25806,8 @@ export const galleries = [
           ],
           "colorfulness": "37.991"
         },
+        "width": 3927,
+        "height": 4519,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25000,6 +25856,8 @@ export const galleries = [
           ],
           "colorfulness": "35.942"
         },
+        "width": 4284,
+        "height": 5712,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25066,6 +25924,8 @@ export const galleries = [
           ],
           "colorfulness": "34.586"
         },
+        "width": 3210,
+        "height": 4541,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25114,6 +25974,8 @@ export const galleries = [
           ],
           "colorfulness": "35.016"
         },
+        "width": 3660,
+        "height": 5106,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25171,6 +26033,8 @@ export const galleries = [
           ],
           "colorfulness": "32.815"
         },
+        "width": 3051,
+        "height": 4068,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25237,6 +26101,8 @@ export const galleries = [
           ],
           "colorfulness": "48.240"
         },
+        "width": 3593,
+        "height": 4674,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25294,6 +26160,8 @@ export const galleries = [
           ],
           "colorfulness": "44.596"
         },
+        "width": 3450,
+        "height": 3154,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25360,6 +26228,8 @@ export const galleries = [
           ],
           "colorfulness": "32.436"
         },
+        "width": 3936,
+        "height": 4361,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25417,6 +26287,8 @@ export const galleries = [
           ],
           "colorfulness": "44.240"
         },
+        "width": 5419,
+        "height": 4067,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25474,6 +26346,8 @@ export const galleries = [
           ],
           "colorfulness": "43.625"
         },
+        "width": 3852,
+        "height": 2905,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25540,6 +26414,8 @@ export const galleries = [
           ],
           "colorfulness": "60.146"
         },
+        "width": 3337,
+        "height": 4832,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25588,6 +26464,8 @@ export const galleries = [
           ],
           "colorfulness": "40.278"
         },
+        "width": 4046,
+        "height": 4541,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25636,6 +26514,8 @@ export const galleries = [
           ],
           "colorfulness": "34.530"
         },
+        "width": 4152,
+        "height": 5092,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25693,6 +26573,8 @@ export const galleries = [
           ],
           "colorfulness": "43.932"
         },
+        "width": 3895,
+        "height": 4927,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25741,6 +26623,8 @@ export const galleries = [
           ],
           "colorfulness": "41.645"
         },
+        "width": 3493,
+        "height": 4548,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25807,6 +26691,8 @@ export const galleries = [
           ],
           "colorfulness": "49.248"
         },
+        "width": 3950,
+        "height": 5083,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25855,6 +26741,8 @@ export const galleries = [
           ],
           "colorfulness": "38.028"
         },
+        "width": 3903,
+        "height": 5204,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25912,6 +26800,8 @@ export const galleries = [
           ],
           "colorfulness": "45.403"
         },
+        "width": 3183,
+        "height": 4165,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25969,6 +26859,8 @@ export const galleries = [
           ],
           "colorfulness": "47.205"
         },
+        "width": 5162,
+        "height": 4036,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26008,6 +26900,8 @@ export const galleries = [
           ],
           "colorfulness": "32.309"
         },
+        "width": 3983,
+        "height": 4482,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26056,6 +26950,8 @@ export const galleries = [
           ],
           "colorfulness": "17.780"
         },
+        "width": 2774,
+        "height": 3523,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26113,6 +27009,8 @@ export const galleries = [
           ],
           "colorfulness": "40.361"
         },
+        "width": 3882,
+        "height": 3966,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26170,6 +27068,8 @@ export const galleries = [
           ],
           "colorfulness": "40.365"
         },
+        "width": 4111,
+        "height": 5070,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26256,6 +27156,8 @@ export const galleries = [
           ],
           "colorfulness": "43.976"
         },
+        "width": 2229,
+        "height": 3414,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26323,6 +27225,8 @@ export const galleries = [
           ],
           "colorfulness": "49.658"
         },
+        "width": 3520,
+        "height": 1946,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26363,6 +27267,8 @@ export const galleries = [
           ],
           "colorfulness": "21.928"
         },
+        "width": 4160,
+        "height": 2336,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26421,6 +27327,8 @@ export const galleries = [
           ],
           "colorfulness": "57.866"
         },
+        "width": 3698,
+        "height": 2078,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26479,6 +27387,8 @@ export const galleries = [
           ],
           "colorfulness": "36.389"
         },
+        "width": 4160,
+        "height": 2336,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26528,6 +27438,8 @@ export const galleries = [
           ],
           "colorfulness": "45.269"
         },
+        "width": 4160,
+        "height": 2178,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26598,6 +27510,8 @@ export const galleries = [
           ],
           "colorfulness": "27.621"
         },
+        "width": 4030,
+        "height": 4563,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26638,6 +27552,8 @@ export const galleries = [
           ],
           "colorfulness": "42.561"
         },
+        "width": 2657,
+        "height": 3543,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26687,6 +27603,8 @@ export const galleries = [
           ],
           "colorfulness": "44.993"
         },
+        "width": 4004,
+        "height": 3389,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26736,6 +27654,8 @@ export const galleries = [
           ],
           "colorfulness": "38.259"
         },
+        "width": 2706,
+        "height": 2565,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26803,6 +27723,8 @@ export const galleries = [
           ],
           "colorfulness": "51.289"
         },
+        "width": 3948,
+        "height": 3786,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26870,6 +27792,8 @@ export const galleries = [
           ],
           "colorfulness": "46.744"
         },
+        "width": 3955,
+        "height": 2358,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26919,6 +27843,8 @@ export const galleries = [
           ],
           "colorfulness": "40.819"
         },
+        "width": 3401,
+        "height": 4287,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26986,6 +27912,8 @@ export const galleries = [
           ],
           "colorfulness": "55.555"
         },
+        "width": 3955,
+        "height": 4499,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27026,6 +27954,8 @@ export const galleries = [
           ],
           "colorfulness": "37.008"
         },
+        "width": 4029,
+        "height": 4178,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27093,6 +28023,8 @@ export const galleries = [
           ],
           "colorfulness": "37.258"
         },
+        "width": 4078,
+        "height": 3562,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27160,6 +28092,8 @@ export const galleries = [
           ],
           "colorfulness": "44.163"
         },
+        "width": 3596,
+        "height": 3596,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27209,6 +28143,8 @@ export const galleries = [
           ],
           "colorfulness": "40.509"
         },
+        "width": 3999,
+        "height": 3860,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27258,6 +28194,8 @@ export const galleries = [
           ],
           "colorfulness": "36.385"
         },
+        "width": 3960,
+        "height": 4126,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27325,6 +28263,8 @@ export const galleries = [
           ],
           "colorfulness": "39.596"
         },
+        "width": 4061,
+        "height": 3753,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27383,6 +28323,8 @@ export const galleries = [
           ],
           "colorfulness": "38.653"
         },
+        "width": 1973,
+        "height": 2650,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27450,6 +28392,8 @@ export const galleries = [
           ],
           "colorfulness": "48.459"
         },
+        "width": 3358,
+        "height": 3566,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27499,6 +28443,8 @@ export const galleries = [
           ],
           "colorfulness": "41.386"
         },
+        "width": 3554,
+        "height": 4901,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27569,6 +28515,8 @@ export const galleries = [
           ],
           "colorfulness": "38.365"
         },
+        "width": 4850,
+        "height": 3626,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27619,6 +28567,8 @@ export const galleries = [
           ],
           "colorfulness": "48.501"
         },
+        "width": 3697,
+        "height": 3306,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27669,6 +28619,8 @@ export const galleries = [
           ],
           "colorfulness": "36.607"
         },
+        "width": 3742,
+        "height": 3929,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27719,6 +28671,8 @@ export const galleries = [
           ],
           "colorfulness": "43.593"
         },
+        "width": 3533,
+        "height": 2659,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27778,6 +28732,8 @@ export const galleries = [
           ],
           "colorfulness": "43.879"
         },
+        "width": 2762,
+        "height": 3349,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27846,6 +28802,8 @@ export const galleries = [
           ],
           "colorfulness": "51.807"
         },
+        "width": 4058,
+        "height": 4606,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27905,6 +28863,8 @@ export const galleries = [
           ],
           "colorfulness": "29.956"
         },
+        "width": 4016,
+        "height": 5559,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -27964,6 +28924,8 @@ export const galleries = [
           ],
           "colorfulness": "52.740"
         },
+        "width": 2931,
+        "height": 3190,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28032,6 +28994,8 @@ export const galleries = [
           ],
           "colorfulness": "46.883"
         },
+        "width": 3480,
+        "height": 2831,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28100,6 +29064,8 @@ export const galleries = [
           ],
           "colorfulness": "57.131"
         },
+        "width": 2865,
+        "height": 3011,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28159,6 +29125,8 @@ export const galleries = [
           ],
           "colorfulness": "50.866"
         },
+        "width": 3874,
+        "height": 2905,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28209,6 +29177,8 @@ export const galleries = [
           ],
           "colorfulness": "39.389"
         },
+        "width": 3814,
+        "height": 5253,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28259,6 +29229,8 @@ export const galleries = [
           ],
           "colorfulness": "41.847"
         },
+        "width": 4901,
+        "height": 3979,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28291,6 +29263,8 @@ export const galleries = [
           ],
           "colorfulness": "29.763"
         },
+        "width": 3884,
+        "height": 3544,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28341,6 +29315,8 @@ export const galleries = [
           ],
           "colorfulness": "34.271"
         },
+        "width": 3924,
+        "height": 4671,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28391,6 +29367,8 @@ export const galleries = [
           ],
           "colorfulness": "43.766"
         },
+        "width": 3501,
+        "height": 4041,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28450,6 +29428,8 @@ export const galleries = [
           ],
           "colorfulness": "37.127"
         },
+        "width": 4162,
+        "height": 3860,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28518,6 +29498,8 @@ export const galleries = [
           ],
           "colorfulness": "42.917"
         },
+        "width": 3937,
+        "height": 5217,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28559,6 +29541,8 @@ export const galleries = [
           ],
           "colorfulness": "33.359"
         },
+        "width": 2871,
+        "height": 3438,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28618,6 +29602,8 @@ export const galleries = [
           ],
           "colorfulness": "43.518"
         },
+        "width": 2905,
+        "height": 3814,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28668,6 +29654,8 @@ export const galleries = [
           ],
           "colorfulness": "40.561"
         },
+        "width": 3901,
+        "height": 3887,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28718,6 +29706,8 @@ export const galleries = [
           ],
           "colorfulness": "35.655"
         },
+        "width": 4902,
+        "height": 3626,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28777,6 +29767,8 @@ export const galleries = [
           ],
           "colorfulness": "41.128"
         },
+        "width": 3219,
+        "height": 3732,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28836,6 +29828,8 @@ export const galleries = [
           ],
           "colorfulness": "45.930"
         },
+        "width": 3993,
+        "height": 3294,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28895,6 +29889,8 @@ export const galleries = [
           ],
           "colorfulness": "46.205"
         },
+        "width": 3726,
+        "height": 4392,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -28963,6 +29959,8 @@ export const galleries = [
           ],
           "colorfulness": "46.147"
         },
+        "width": 4147,
+        "height": 4714,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29022,6 +30020,8 @@ export const galleries = [
           ],
           "colorfulness": "52.926"
         },
+        "width": 5238,
+        "height": 3928,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29090,6 +30090,8 @@ export const galleries = [
           ],
           "colorfulness": "52.570"
         },
+        "width": 5067,
+        "height": 3541,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29158,6 +30160,8 @@ export const galleries = [
           ],
           "colorfulness": "40.173"
         },
+        "width": 2742,
+        "height": 2310,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29226,6 +30230,8 @@ export const galleries = [
           ],
           "colorfulness": "56.427"
         },
+        "width": 4048,
+        "height": 2355,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29276,6 +30282,8 @@ export const galleries = [
           ],
           "colorfulness": "36.882"
         },
+        "width": 3612,
+        "height": 5214,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29317,6 +30325,8 @@ export const galleries = [
           ],
           "colorfulness": "33.166"
         },
+        "width": 2964,
+        "height": 3557,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29358,6 +30368,8 @@ export const galleries = [
           ],
           "colorfulness": "33.166"
         },
+        "width": 2964,
+        "height": 3557,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29417,6 +30429,8 @@ export const galleries = [
           ],
           "colorfulness": "35.059"
         },
+        "width": 3926,
+        "height": 5235,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29485,6 +30499,8 @@ export const galleries = [
           ],
           "colorfulness": "39.659"
         },
+        "width": 3159,
+        "height": 4716,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29535,6 +30551,8 @@ export const galleries = [
           ],
           "colorfulness": "37.073"
         },
+        "width": 3093,
+        "height": 4600,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29603,6 +30621,8 @@ export const galleries = [
           ],
           "colorfulness": "39.539"
         },
+        "width": 4075,
+        "height": 3533,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29671,6 +30691,8 @@ export const galleries = [
           ],
           "colorfulness": "43.899"
         },
+        "width": 3530,
+        "height": 2798,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29730,6 +30752,8 @@ export const galleries = [
           ],
           "colorfulness": "42.958"
         },
+        "width": 4107,
+        "height": 5003,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29789,6 +30813,8 @@ export const galleries = [
           ],
           "colorfulness": "42.092"
         },
+        "width": 3261,
+        "height": 3496,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29839,6 +30865,8 @@ export const galleries = [
           ],
           "colorfulness": "29.244"
         },
+        "width": 3271,
+        "height": 4501,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29898,6 +30926,8 @@ export const galleries = [
           ],
           "colorfulness": "39.608"
         },
+        "width": 2772,
+        "height": 3666,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29930,6 +30960,8 @@ export const galleries = [
           ],
           "colorfulness": "21.064"
         },
+        "width": 5712,
+        "height": 1436,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -29989,6 +31021,8 @@ export const galleries = [
           ],
           "colorfulness": "48.964"
         },
+        "width": 3925,
+        "height": 5369,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30039,6 +31073,8 @@ export const galleries = [
           ],
           "colorfulness": "42.949"
         },
+        "width": 3973,
+        "height": 5254,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30089,6 +31125,8 @@ export const galleries = [
           ],
           "colorfulness": "59.195"
         },
+        "width": 2528,
+        "height": 2704,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30139,6 +31177,8 @@ export const galleries = [
           ],
           "colorfulness": "46.039"
         },
+        "width": 3773,
+        "height": 5160,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30189,6 +31229,8 @@ export const galleries = [
           ],
           "colorfulness": "37.980"
         },
+        "width": 3470,
+        "height": 4137,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30239,6 +31281,8 @@ export const galleries = [
           ],
           "colorfulness": "39.409"
         },
+        "width": 2689,
+        "height": 3484,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30289,6 +31333,8 @@ export const galleries = [
           ],
           "colorfulness": "37.722"
         },
+        "width": 2655,
+        "height": 3973,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30357,6 +31403,8 @@ export const galleries = [
           ],
           "colorfulness": "61.148"
         },
+        "width": 3791,
+        "height": 4708,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30416,6 +31464,8 @@ export const galleries = [
           ],
           "colorfulness": "43.350"
         },
+        "width": 3699,
+        "height": 2827,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30466,6 +31516,8 @@ export const galleries = [
           ],
           "colorfulness": "48.510"
         },
+        "width": 4284,
+        "height": 4407,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30516,6 +31568,8 @@ export const galleries = [
           ],
           "colorfulness": "33.618"
         },
+        "width": 3885,
+        "height": 4531,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30584,6 +31638,8 @@ export const galleries = [
           ],
           "colorfulness": "42.146"
         },
+        "width": 4040,
+        "height": 5387,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30652,6 +31708,8 @@ export const galleries = [
           ],
           "colorfulness": "48.498"
         },
+        "width": 3019,
+        "height": 4400,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30711,6 +31769,8 @@ export const galleries = [
           ],
           "colorfulness": "48.749"
         },
+        "width": 3136,
+        "height": 4916,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30770,6 +31830,8 @@ export const galleries = [
           ],
           "colorfulness": "41.993"
         },
+        "width": 5442,
+        "height": 3415,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30820,6 +31882,8 @@ export const galleries = [
           ],
           "colorfulness": "37.117"
         },
+        "width": 2750,
+        "height": 3510,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30879,6 +31943,8 @@ export const galleries = [
           ],
           "colorfulness": "31.628"
         },
+        "width": 3842,
+        "height": 5576,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30938,6 +32004,8 @@ export const galleries = [
           ],
           "colorfulness": "38.518"
         },
+        "width": 4026,
+        "height": 5452,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31028,6 +32096,8 @@ export const galleries = [
           ],
           "colorfulness": "46.806"
         },
+        "width": 4004,
+        "height": 4179,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31077,6 +32147,8 @@ export const galleries = [
           ],
           "colorfulness": "37.128"
         },
+        "width": 3180,
+        "height": 5509,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31135,6 +32207,8 @@ export const galleries = [
           ],
           "colorfulness": "33.812"
         },
+        "width": 3547,
+        "height": 2796,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31193,6 +32267,8 @@ export const galleries = [
           ],
           "colorfulness": "35.681"
         },
+        "width": 2962,
+        "height": 4466,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31251,6 +32327,8 @@ export const galleries = [
           ],
           "colorfulness": "42.917"
         },
+        "width": 5169,
+        "height": 3391,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31300,6 +32378,8 @@ export const galleries = [
           ],
           "colorfulness": "46.177"
         },
+        "width": 4145,
+        "height": 3260,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31358,6 +32438,8 @@ export const galleries = [
           ],
           "colorfulness": "50.417"
         },
+        "width": 3456,
+        "height": 4555,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31416,6 +32498,8 @@ export const galleries = [
           ],
           "colorfulness": "44.962"
         },
+        "width": 3901,
+        "height": 4409,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31465,6 +32549,8 @@ export const galleries = [
           ],
           "colorfulness": "43.242"
         },
+        "width": 3625,
+        "height": 4522,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31514,6 +32600,8 @@ export const galleries = [
           ],
           "colorfulness": "30.795"
         },
+        "width": 3214,
+        "height": 4970,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31572,6 +32660,8 @@ export const galleries = [
           ],
           "colorfulness": "38.068"
         },
+        "width": 4156,
+        "height": 5178,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31630,6 +32720,8 @@ export const galleries = [
           ],
           "colorfulness": "40.650"
         },
+        "width": 3547,
+        "height": 5631,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31670,6 +32762,8 @@ export const galleries = [
           ],
           "colorfulness": "39.369"
         },
+        "width": 3658,
+        "height": 4374,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31740,6 +32834,8 @@ export const galleries = [
           ],
           "colorfulness": "40.882"
         },
+        "width": 3251,
+        "height": 4292,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31807,6 +32903,8 @@ export const galleries = [
           ],
           "colorfulness": "34.088"
         },
+        "width": 2982,
+        "height": 4076,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31865,6 +32963,8 @@ export const galleries = [
           ],
           "colorfulness": "38.910"
         },
+        "width": 4065,
+        "height": 4022,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31932,6 +33032,8 @@ export const galleries = [
           ],
           "colorfulness": "55.152"
         },
+        "width": 3897,
+        "height": 3037,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -31999,6 +33101,8 @@ export const galleries = [
           ],
           "colorfulness": "38.489"
         },
+        "width": 4154,
+        "height": 2302,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32066,6 +33170,8 @@ export const galleries = [
           ],
           "colorfulness": "53.864"
         },
+        "width": 3979,
+        "height": 3278,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32124,6 +33230,8 @@ export const galleries = [
           ],
           "colorfulness": "34.632"
         },
+        "width": 3958,
+        "height": 3788,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32191,6 +33299,8 @@ export const galleries = [
           ],
           "colorfulness": "53.922"
         },
+        "width": 3735,
+        "height": 4259,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32249,6 +33359,8 @@ export const galleries = [
           ],
           "colorfulness": "36.603"
         },
+        "width": 1889,
+        "height": 2827,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32319,6 +33431,8 @@ export const galleries = [
           ],
           "colorfulness": "33.594"
         },
+        "width": 3640,
+        "height": 5039,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32368,6 +33482,8 @@ export const galleries = [
           ],
           "colorfulness": "44.220"
         },
+        "width": 5041,
+        "height": 3217,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32435,6 +33551,8 @@ export const galleries = [
           ],
           "colorfulness": "35.698"
         },
+        "width": 3607,
+        "height": 5643,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32475,6 +33593,8 @@ export const galleries = [
           ],
           "colorfulness": "40.405"
         },
+        "width": 2273,
+        "height": 2926,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32533,6 +33653,8 @@ export const galleries = [
           ],
           "colorfulness": "41.405"
         },
+        "width": 3591,
+        "height": 4242,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32600,6 +33722,8 @@ export const galleries = [
           ],
           "colorfulness": "45.538"
         },
+        "width": 3729,
+        "height": 4326,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32640,6 +33764,8 @@ export const galleries = [
           ],
           "colorfulness": "31.882"
         },
+        "width": 4208,
+        "height": 3636,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32698,6 +33824,8 @@ export const galleries = [
           ],
           "colorfulness": "34.826"
         },
+        "width": 3975,
+        "height": 3556,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32738,6 +33866,8 @@ export const galleries = [
           ],
           "colorfulness": "32.246"
         },
+        "width": 3495,
+        "height": 3255,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32796,6 +33926,8 @@ export const galleries = [
           ],
           "colorfulness": "34.219"
         },
+        "width": 3493,
+        "height": 5369,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32845,6 +33977,8 @@ export const galleries = [
           ],
           "colorfulness": "48.897"
         },
+        "width": 3947,
+        "height": 5263,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32903,6 +34037,8 @@ export const galleries = [
           ],
           "colorfulness": "41.800"
         },
+        "width": 4017,
+        "height": 4572,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -32961,6 +34097,8 @@ export const galleries = [
           ],
           "colorfulness": "39.476"
         },
+        "width": 3423,
+        "height": 4573,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33019,6 +34157,8 @@ export const galleries = [
           ],
           "colorfulness": "40.163"
         },
+        "width": 3801,
+        "height": 4457,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33077,6 +34217,8 @@ export const galleries = [
           ],
           "colorfulness": "43.120"
         },
+        "width": 3885,
+        "height": 3770,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33126,6 +34268,8 @@ export const galleries = [
           ],
           "colorfulness": "38.437"
         },
+        "width": 4026,
+        "height": 4015,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33214,6 +34358,8 @@ export const galleries = [
           ],
           "colorfulness": "43.879"
         },
+        "width": 4631,
+        "height": 3456,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33275,6 +34421,8 @@ export const galleries = [
           ],
           "colorfulness": "47.739"
         },
+        "width": 3170,
+        "height": 4597,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33327,6 +34475,8 @@ export const galleries = [
           ],
           "colorfulness": "31.367"
         },
+        "width": 3753,
+        "height": 5110,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33397,6 +34547,8 @@ export const galleries = [
           ],
           "colorfulness": "39.406"
         },
+        "width": 3362,
+        "height": 4482,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33458,6 +34610,8 @@ export const galleries = [
           ],
           "colorfulness": "37.252"
         },
+        "width": 3579,
+        "height": 5062,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33510,6 +34664,8 @@ export const galleries = [
           ],
           "colorfulness": "46.095"
         },
+        "width": 3561,
+        "height": 4715,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33571,6 +34727,8 @@ export const galleries = [
           ],
           "colorfulness": "41.790"
         },
+        "width": 5174,
+        "height": 3705,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33641,6 +34799,8 @@ export const galleries = [
           ],
           "colorfulness": "30.637"
         },
+        "width": 4068,
+        "height": 4702,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33702,6 +34862,8 @@ export const galleries = [
           ],
           "colorfulness": "51.467"
         },
+        "width": 4198,
+        "height": 3758,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33754,6 +34916,8 @@ export const galleries = [
           ],
           "colorfulness": "45.809"
         },
+        "width": 2588,
+        "height": 5014,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33797,6 +34961,8 @@ export const galleries = [
           ],
           "colorfulness": "33.828"
         },
+        "width": 3006,
+        "height": 4004,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33840,6 +35006,8 @@ export const galleries = [
           ],
           "colorfulness": "41.570"
         },
+        "width": 3846,
+        "height": 5128,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33892,6 +35060,8 @@ export const galleries = [
           ],
           "colorfulness": "48.378"
         },
+        "width": 3822,
+        "height": 4386,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -33962,6 +35132,8 @@ export const galleries = [
           ],
           "colorfulness": "44.593"
         },
+        "width": 3650,
+        "height": 3865,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34014,6 +35186,8 @@ export const galleries = [
           ],
           "colorfulness": "39.810"
         },
+        "width": 4797,
+        "height": 3293,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34075,6 +35249,8 @@ export const galleries = [
           ],
           "colorfulness": "41.397"
         },
+        "width": 4091,
+        "height": 3491,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34136,6 +35312,8 @@ export const galleries = [
           ],
           "colorfulness": "41.014"
         },
+        "width": 3822,
+        "height": 4617,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34206,6 +35384,8 @@ export const galleries = [
           ],
           "colorfulness": "38.051"
         },
+        "width": 4236,
+        "height": 3492,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34258,6 +35438,8 @@ export const galleries = [
           ],
           "colorfulness": "34.199"
         },
+        "width": 4188,
+        "height": 3855,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34292,6 +35474,8 @@ export const galleries = [
           ],
           "colorfulness": "28.945"
         },
+        "width": 2834,
+        "height": 3779,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34335,6 +35519,8 @@ export const galleries = [
           ],
           "colorfulness": "31.269"
         },
+        "width": 3817,
+        "height": 4022,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34405,6 +35591,8 @@ export const galleries = [
           ],
           "colorfulness": "43.411"
         },
+        "width": 3458,
+        "height": 3815,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34457,6 +35645,8 @@ export const galleries = [
           ],
           "colorfulness": "47.907"
         },
+        "width": 3608,
+        "height": 4165,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34509,6 +35699,8 @@ export const galleries = [
           ],
           "colorfulness": "49.739"
         },
+        "width": 3904,
+        "height": 4298,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34561,6 +35753,8 @@ export const galleries = [
           ],
           "colorfulness": "26.430"
         },
+        "width": 3080,
+        "height": 3939,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34613,6 +35807,8 @@ export const galleries = [
           ],
           "colorfulness": "46.269"
         },
+        "width": 3951,
+        "height": 5335,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34665,6 +35861,8 @@ export const galleries = [
           ],
           "colorfulness": "37.057"
         },
+        "width": 2995,
+        "height": 5059,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34708,6 +35906,8 @@ export const galleries = [
           ],
           "colorfulness": "37.210"
         },
+        "width": 3772,
+        "height": 4581,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34778,6 +35978,8 @@ export const galleries = [
           ],
           "colorfulness": "44.134"
         },
+        "width": 3465,
+        "height": 3168,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34848,6 +36050,8 @@ export const galleries = [
           ],
           "colorfulness": "37.460"
         },
+        "width": 3701,
+        "height": 5322,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34918,6 +36122,8 @@ export const galleries = [
           ],
           "colorfulness": "38.798"
         },
+        "width": 4618,
+        "height": 2811,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -34979,6 +36185,8 @@ export const galleries = [
           ],
           "colorfulness": "32.187"
         },
+        "width": 3933,
+        "height": 5007,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35031,6 +36239,8 @@ export const galleries = [
           ],
           "colorfulness": "39.302"
         },
+        "width": 3698,
+        "height": 4243,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35101,6 +36311,8 @@ export const galleries = [
           ],
           "colorfulness": "47.250"
         },
+        "width": 3763,
+        "height": 4581,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35153,6 +36365,8 @@ export const galleries = [
           ],
           "colorfulness": "41.386"
         },
+        "width": 5527,
+        "height": 3375,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35205,6 +36419,8 @@ export const galleries = [
           ],
           "colorfulness": "37.843"
         },
+        "width": 2704,
+        "height": 3423,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35257,6 +36473,8 @@ export const galleries = [
           ],
           "colorfulness": "27.675"
         },
+        "width": 3694,
+        "height": 3931,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35309,6 +36527,8 @@ export const galleries = [
           ],
           "colorfulness": "29.650"
         },
+        "width": 4394,
+        "height": 3051,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35370,6 +36590,8 @@ export const galleries = [
           ],
           "colorfulness": "35.276"
         },
+        "width": 3702,
+        "height": 4735,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35431,6 +36653,8 @@ export const galleries = [
           ],
           "colorfulness": "46.650"
         },
+        "width": 3516,
+        "height": 4960,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35507,6 +36731,8 @@ export const galleries = [
           ],
           "colorfulness": "39.716"
         },
+        "width": 2773,
+        "height": 3677,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35557,6 +36783,8 @@ export const galleries = [
           ],
           "colorfulness": "47.496"
         },
+        "width": 3664,
+        "height": 4783,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35616,6 +36844,8 @@ export const galleries = [
           ],
           "colorfulness": "40.641"
         },
+        "width": 3204,
+        "height": 4686,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35675,6 +36905,8 @@ export const galleries = [
           ],
           "colorfulness": "40.016"
         },
+        "width": 4049,
+        "height": 5227,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35743,6 +36975,8 @@ export const galleries = [
           ],
           "colorfulness": "46.159"
         },
+        "width": 4082,
+        "height": 4805,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35811,6 +37045,8 @@ export const galleries = [
           ],
           "colorfulness": "50.615"
         },
+        "width": 3771,
+        "height": 4735,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35861,6 +37097,8 @@ export const galleries = [
           ],
           "colorfulness": "24.179"
         },
+        "width": 1869,
+        "height": 2964,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35920,6 +37158,8 @@ export const galleries = [
           ],
           "colorfulness": "49.562"
         },
+        "width": 2889,
+        "height": 3029,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -35979,6 +37219,8 @@ export const galleries = [
           ],
           "colorfulness": "36.717"
         },
+        "width": 3898,
+        "height": 3692,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36038,6 +37280,8 @@ export const galleries = [
           ],
           "colorfulness": "33.023"
         },
+        "width": 3024,
+        "height": 4032,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36088,6 +37332,8 @@ export const galleries = [
           ],
           "colorfulness": "34.633"
         },
+        "width": 5046,
+        "height": 3784,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36156,6 +37402,8 @@ export const galleries = [
           ],
           "colorfulness": "27.574"
         },
+        "width": 4147,
+        "height": 3023,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36224,6 +37472,8 @@ export const galleries = [
           ],
           "colorfulness": "40.250"
         },
+        "width": 4439,
+        "height": 2432,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36274,6 +37524,8 @@ export const galleries = [
           ],
           "colorfulness": "29.017"
         },
+        "width": 2211,
+        "height": 2978,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36351,6 +37603,8 @@ export const galleries = [
           ],
           "colorfulness": "42.163"
         },
+        "width": 2237,
+        "height": 3073,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36419,6 +37673,8 @@ export const galleries = [
           ],
           "colorfulness": "34.038"
         },
+        "width": 4162,
+        "height": 5549,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36496,6 +37752,8 @@ export const galleries = [
           ],
           "colorfulness": "47.977"
         },
+        "width": 5233,
+        "height": 3590,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36564,6 +37822,8 @@ export const galleries = [
           ],
           "colorfulness": "38.705"
         },
+        "width": 3727,
+        "height": 5419,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36623,6 +37883,8 @@ export const galleries = [
           ],
           "colorfulness": "33.493"
         },
+        "width": 3709,
+        "height": 3804,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36682,6 +37944,8 @@ export const galleries = [
           ],
           "colorfulness": "36.741"
         },
+        "width": 4965,
+        "height": 4026,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36741,6 +38005,8 @@ export const galleries = [
           ],
           "colorfulness": "42.008"
         },
+        "width": 3905,
+        "height": 4732,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36818,6 +38084,8 @@ export const galleries = [
           ],
           "colorfulness": "46.966"
         },
+        "width": 3804,
+        "height": 5072,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36895,6 +38163,8 @@ export const galleries = [
           ],
           "colorfulness": "35.026"
         },
+        "width": 5355,
+        "height": 3389,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -36972,6 +38242,8 @@ export const galleries = [
           ],
           "colorfulness": "43.091"
         },
+        "width": 3804,
+        "height": 5330,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37040,6 +38312,8 @@ export const galleries = [
           ],
           "colorfulness": "32.060"
         },
+        "width": 3688,
+        "height": 4502,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37081,6 +38355,8 @@ export const galleries = [
           ],
           "colorfulness": "5.385"
         },
+        "width": 3022,
+        "height": 3951,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37158,6 +38434,8 @@ export const galleries = [
           ],
           "colorfulness": "48.852"
         },
+        "width": 3761,
+        "height": 5051,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37226,6 +38504,8 @@ export const galleries = [
           ],
           "colorfulness": "46.287"
         },
+        "width": 2847,
+        "height": 3796,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37294,6 +38574,8 @@ export const galleries = [
           ],
           "colorfulness": "38.079"
         },
+        "width": 5113,
+        "height": 3907,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37375,6 +38657,8 @@ export const galleries = [
           ],
           "colorfulness": "18.379"
         },
+        "width": 3418,
+        "height": 4839,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37442,6 +38726,8 @@ export const galleries = [
           ],
           "colorfulness": "49.386"
         },
+        "width": 3760,
+        "height": 4083,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37500,6 +38786,8 @@ export const galleries = [
           ],
           "colorfulness": "41.325"
         },
+        "width": 2174,
+        "height": 2874,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37558,6 +38846,8 @@ export const galleries = [
           ],
           "colorfulness": "36.902"
         },
+        "width": 1497,
+        "height": 2469,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37607,6 +38897,8 @@ export const galleries = [
           ],
           "colorfulness": "40.458"
         },
+        "width": 1872,
+        "height": 2930,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37647,6 +38939,8 @@ export const galleries = [
           ],
           "colorfulness": "41.537"
         },
+        "width": 2096,
+        "height": 3427,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37714,6 +39008,8 @@ export const galleries = [
           ],
           "colorfulness": "38.852"
         },
+        "width": 2807,
+        "height": 4165,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37763,6 +39059,8 @@ export const galleries = [
           ],
           "colorfulness": "20.819"
         },
+        "width": 4219,
+        "height": 4245,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37821,6 +39119,8 @@ export const galleries = [
           ],
           "colorfulness": "36.283"
         },
+        "width": 2788,
+        "height": 3837,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37888,6 +39188,8 @@ export const galleries = [
           ],
           "colorfulness": "59.166"
         },
+        "width": 4286,
+        "height": 3524,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37946,6 +39248,8 @@ export const galleries = [
           ],
           "colorfulness": "44.279"
         },
+        "width": 318,
+        "height": 318,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -37986,6 +39290,8 @@ export const galleries = [
           ],
           "colorfulness": "27.270"
         },
+        "width": 3020,
+        "height": 2845,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38053,6 +39359,8 @@ export const galleries = [
           ],
           "colorfulness": "34.211"
         },
+        "width": 2856,
+        "height": 3343,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38102,6 +39410,8 @@ export const galleries = [
           ],
           "colorfulness": "34.856"
         },
+        "width": 3143,
+        "height": 4938,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38142,6 +39452,8 @@ export const galleries = [
           ],
           "colorfulness": "34.337"
         },
+        "width": 4164,
+        "height": 5399,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38209,6 +39521,8 @@ export const galleries = [
           ],
           "colorfulness": "59.053"
         },
+        "width": 4068,
+        "height": 4298,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38258,6 +39572,8 @@ export const galleries = [
           ],
           "colorfulness": "22.920"
         },
+        "width": 3430,
+        "height": 3353,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38316,6 +39632,8 @@ export const galleries = [
           ],
           "colorfulness": "43.171"
         },
+        "width": 766,
+        "height": 970,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38383,6 +39701,8 @@ export const galleries = [
           ],
           "colorfulness": "44.750"
         },
+        "width": 3157,
+        "height": 2235,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38423,6 +39743,8 @@ export const galleries = [
           ],
           "colorfulness": "44.741"
         },
+        "width": 3023,
+        "height": 3906,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38490,6 +39812,8 @@ export const galleries = [
           ],
           "colorfulness": "45.122"
         },
+        "width": 3899,
+        "height": 4582,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38539,6 +39863,8 @@ export const galleries = [
           ],
           "colorfulness": "39.018"
         },
+        "width": 2973,
+        "height": 3814,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38606,6 +39932,8 @@ export const galleries = [
           ],
           "colorfulness": "48.105"
         },
+        "width": 3644,
+        "height": 4612,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38646,6 +39974,8 @@ export const galleries = [
           ],
           "colorfulness": "29.088"
         },
+        "width": 3831,
+        "height": 3588,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38704,6 +40034,8 @@ export const galleries = [
           ],
           "colorfulness": "38.073"
         },
+        "width": 2428,
+        "height": 3203,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38735,6 +40067,8 @@ export const galleries = [
           ],
           "colorfulness": "31.642"
         },
+        "width": 4238,
+        "height": 4560,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38793,6 +40127,8 @@ export const galleries = [
           ],
           "colorfulness": "39.899"
         },
+        "width": 1031,
+        "height": 1170,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38842,6 +40178,8 @@ export const galleries = [
           ],
           "colorfulness": "38.899"
         },
+        "width": 4108,
+        "height": 4982,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38909,6 +40247,8 @@ export const galleries = [
           ],
           "colorfulness": "41.545"
         },
+        "width": 3496,
+        "height": 3087,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -38976,6 +40316,8 @@ export const galleries = [
           ],
           "colorfulness": "38.738"
         },
+        "width": 3968,
+        "height": 4149,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39034,6 +40376,8 @@ export const galleries = [
           ],
           "colorfulness": "24.607"
         },
+        "width": 3086,
+        "height": 4161,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39092,6 +40436,8 @@ export const galleries = [
           ],
           "colorfulness": "34.008"
         },
+        "width": 3904,
+        "height": 4421,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39141,6 +40487,8 @@ export const galleries = [
           ],
           "colorfulness": "30.771"
         },
+        "width": 2584,
+        "height": 3236,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39199,6 +40547,8 @@ export const galleries = [
           ],
           "colorfulness": "34.286"
         },
+        "width": 3898,
+        "height": 5219,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39257,6 +40607,8 @@ export const galleries = [
           ],
           "colorfulness": "33.740"
         },
+        "width": 3500,
+        "height": 4735,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39315,6 +40667,8 @@ export const galleries = [
           ],
           "colorfulness": "44.465"
         },
+        "width": 3805,
+        "height": 3290,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39382,6 +40736,8 @@ export const galleries = [
           ],
           "colorfulness": "43.753"
         },
+        "width": 3405,
+        "height": 4998,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39422,6 +40778,8 @@ export const galleries = [
           ],
           "colorfulness": "24.442"
         },
+        "width": 2810,
+        "height": 2978,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39489,6 +40847,8 @@ export const galleries = [
           ],
           "colorfulness": "51.209"
         },
+        "width": 3099,
+        "height": 3589,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39568,6 +40928,8 @@ export const galleries = [
           ],
           "colorfulness": "42.232"
         },
+        "width": 3022,
+        "height": 3158,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39636,6 +40998,8 @@ export const galleries = [
           ],
           "colorfulness": "51.560"
         },
+        "width": 4032,
+        "height": 3024,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39695,6 +41059,8 @@ export const galleries = [
           ],
           "colorfulness": "34.702"
         },
+        "width": 2636,
+        "height": 3724,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39745,6 +41111,8 @@ export const galleries = [
           ],
           "colorfulness": "27.475"
         },
+        "width": 2905,
+        "height": 3180,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39795,6 +41163,8 @@ export const galleries = [
           ],
           "colorfulness": "51.115"
         },
+        "width": 3596,
+        "height": 2717,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39863,6 +41233,8 @@ export const galleries = [
           ],
           "colorfulness": "40.670"
         },
+        "width": 2228,
+        "height": 3103,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39931,6 +41303,8 @@ export const galleries = [
           ],
           "colorfulness": "56.122"
         },
+        "width": 2791,
+        "height": 2766,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -39999,6 +41373,8 @@ export const galleries = [
           ],
           "colorfulness": "56.812"
         },
+        "width": 2706,
+        "height": 3437,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40058,6 +41434,8 @@ export const galleries = [
           ],
           "colorfulness": "31.834"
         },
+        "width": 2691,
+        "height": 2347,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40126,6 +41504,8 @@ export const galleries = [
           ],
           "colorfulness": "39.564"
         },
+        "width": 3548,
+        "height": 2736,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40194,6 +41574,8 @@ export const galleries = [
           ],
           "colorfulness": "51.890"
         },
+        "width": 2602,
+        "height": 3664,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40235,6 +41617,8 @@ export const galleries = [
           ],
           "colorfulness": "33.686"
         },
+        "width": 2767,
+        "height": 3686,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40276,6 +41660,8 @@ export const galleries = [
           ],
           "colorfulness": "16.667"
         },
+        "width": 2808,
+        "height": 4029,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40344,6 +41730,8 @@ export const galleries = [
           ],
           "colorfulness": "43.788"
         },
+        "width": 1612,
+        "height": 2786,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40385,6 +41773,8 @@ export const galleries = [
           ],
           "colorfulness": "34.190"
         },
+        "width": 3522,
+        "height": 2642,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40435,6 +41825,8 @@ export const galleries = [
           ],
           "colorfulness": "36.099"
         },
+        "width": 3898,
+        "height": 2628,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40485,6 +41877,8 @@ export const galleries = [
           ],
           "colorfulness": "50.362"
         },
+        "width": 2841,
+        "height": 2918,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40557,6 +41951,8 @@ export const galleries = [
           ],
           "colorfulness": "25.898"
         },
+        "width": 4160,
+        "height": 4948,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40620,6 +42016,8 @@ export const galleries = [
           ],
           "colorfulness": "31.174"
         },
+        "width": 2915,
+        "height": 5039,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40683,6 +42081,8 @@ export const galleries = [
           ],
           "colorfulness": "39.903"
         },
+        "width": 4090,
+        "height": 4627,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40746,6 +42146,8 @@ export const galleries = [
           ],
           "colorfulness": "38.757"
         },
+        "width": 3855,
+        "height": 3039,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40818,6 +42220,8 @@ export const galleries = [
           ],
           "colorfulness": "52.100"
         },
+        "width": 2656,
+        "height": 3248,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40863,6 +42267,8 @@ export const galleries = [
           ],
           "colorfulness": "30.944"
         },
+        "width": 3210,
+        "height": 4683,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40935,6 +42341,8 @@ export const galleries = [
           ],
           "colorfulness": "44.454"
         },
+        "width": 4684,
+        "height": 3541,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41007,6 +42415,8 @@ export const galleries = [
           ],
           "colorfulness": "46.698"
         },
+        "width": 4042,
+        "height": 3786,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41061,6 +42471,8 @@ export const galleries = [
           ],
           "colorfulness": "36.343"
         },
+        "width": 3610,
+        "height": 5025,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41115,6 +42527,8 @@ export const galleries = [
           ],
           "colorfulness": "40.934"
         },
+        "width": 1738,
+        "height": 2898,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41169,6 +42583,8 @@ export const galleries = [
           ],
           "colorfulness": "29.779"
         },
+        "width": 4041,
+        "height": 4597,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41232,6 +42648,8 @@ export const galleries = [
           ],
           "colorfulness": "40.812"
         },
+        "width": 3809,
+        "height": 5079,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41277,6 +42695,8 @@ export const galleries = [
           ],
           "colorfulness": "37.837"
         },
+        "width": 3587,
+        "height": 4294,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41340,6 +42760,8 @@ export const galleries = [
           ],
           "colorfulness": "38.814"
         },
+        "width": 3930,
+        "height": 5008,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41403,6 +42825,8 @@ export const galleries = [
           ],
           "colorfulness": "38.160"
         },
+        "width": 4047,
+        "height": 3103,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41475,6 +42899,8 @@ export const galleries = [
           ],
           "colorfulness": "54.433"
         },
+        "width": 2865,
+        "height": 2462,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41529,6 +42955,8 @@ export const galleries = [
           ],
           "colorfulness": "40.087"
         },
+        "width": 2829,
+        "height": 3762,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41583,6 +43011,8 @@ export const galleries = [
           ],
           "colorfulness": "41.578"
         },
+        "width": 3627,
+        "height": 5323,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41646,6 +43076,8 @@ export const galleries = [
           ],
           "colorfulness": "37.095"
         },
+        "width": 4000,
+        "height": 4011,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41709,6 +43141,8 @@ export const galleries = [
           ],
           "colorfulness": "45.402"
         },
+        "width": 4018,
+        "height": 3978,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41763,6 +43197,8 @@ export const galleries = [
           ],
           "colorfulness": "40.224"
         },
+        "width": 4107,
+        "height": 3832,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41808,6 +43244,8 @@ export const galleries = [
           ],
           "colorfulness": "36.023"
         },
+        "width": 3308,
+        "height": 5648,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41853,6 +43291,8 @@ export const galleries = [
           ],
           "colorfulness": "41.520"
         },
+        "width": 3217,
+        "height": 4139,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41907,6 +43347,8 @@ export const galleries = [
           ],
           "colorfulness": "37.454"
         },
+        "width": 3487,
+        "height": 5088,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -41961,6 +43403,8 @@ export const galleries = [
           ],
           "colorfulness": "37.420"
         },
+        "width": 3819,
+        "height": 4960,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42024,6 +43468,8 @@ export const galleries = [
           ],
           "colorfulness": "41.833"
         },
+        "width": 3769,
+        "height": 3201,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42096,6 +43542,8 @@ export const galleries = [
           ],
           "colorfulness": "51.226"
         },
+        "width": 4031,
+        "height": 4813,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42150,6 +43598,8 @@ export const galleries = [
           ],
           "colorfulness": "45.495"
         },
+        "width": 2503,
+        "height": 3949,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42213,6 +43663,8 @@ export const galleries = [
           ],
           "colorfulness": "41.692"
         },
+        "width": 4028,
+        "height": 3898,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42285,6 +43737,8 @@ export const galleries = [
           ],
           "colorfulness": "47.720"
         },
+        "width": 3045,
+        "height": 4242,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42357,6 +43811,8 @@ export const galleries = [
           ],
           "colorfulness": "47.365"
         },
+        "width": 3663,
+        "height": 4436,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42411,6 +43867,8 @@ export const galleries = [
           ],
           "colorfulness": "26.303"
         },
+        "width": 3835,
+        "height": 4534,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42465,6 +43923,8 @@ export const galleries = [
           ],
           "colorfulness": "43.818"
         },
+        "width": 3588,
+        "height": 5156,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42519,6 +43979,8 @@ export const galleries = [
           ],
           "colorfulness": "46.387"
         },
+        "width": 4164,
+        "height": 4086,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42573,6 +44035,8 @@ export const galleries = [
           ],
           "colorfulness": "38.393"
         },
+        "width": 3721,
+        "height": 5304,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42636,6 +44100,8 @@ export const galleries = [
           ],
           "colorfulness": "33.636"
         },
+        "width": 4117,
+        "height": 5099,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42681,6 +44147,8 @@ export const galleries = [
           ],
           "colorfulness": "36.895"
         },
+        "width": 2740,
+        "height": 3492,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42726,6 +44194,8 @@ export const galleries = [
           ],
           "colorfulness": "35.381"
         },
+        "width": 3736,
+        "height": 3913,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42789,6 +44259,8 @@ export const galleries = [
           ],
           "colorfulness": "36.993"
         },
+        "width": 3996,
+        "height": 3496,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42861,6 +44333,8 @@ export const galleries = [
           ],
           "colorfulness": "43.563"
         },
+        "width": 3623,
+        "height": 4906,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42924,6 +44398,8 @@ export const galleries = [
           ],
           "colorfulness": "37.610"
         },
+        "width": 3643,
+        "height": 4636,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42996,6 +44472,8 @@ export const galleries = [
           ],
           "colorfulness": "36.032"
         },
+        "width": 4052,
+        "height": 4389,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43050,6 +44528,8 @@ export const galleries = [
           ],
           "colorfulness": "35.737"
         },
+        "width": 1999,
+        "height": 3376,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43113,6 +44593,8 @@ export const galleries = [
           ],
           "colorfulness": "35.685"
         },
+        "width": 4135,
+        "height": 3828,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43176,6 +44658,8 @@ export const galleries = [
           ],
           "colorfulness": "31.567"
         },
+        "width": 3161,
+        "height": 4071,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43239,6 +44723,8 @@ export const galleries = [
           ],
           "colorfulness": "45.027"
         },
+        "width": 4038,
+        "height": 3414,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43284,6 +44770,8 @@ export const galleries = [
           ],
           "colorfulness": "35.070"
         },
+        "width": 3575,
+        "height": 5005,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43338,6 +44826,8 @@ export const galleries = [
           ],
           "colorfulness": "33.320"
         },
+        "width": 3300,
+        "height": 4253,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43401,6 +44891,8 @@ export const galleries = [
           ],
           "colorfulness": "53.572"
         },
+        "width": 4202,
+        "height": 4532,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43473,6 +44965,8 @@ export const galleries = [
           ],
           "colorfulness": "45.466"
         },
+        "width": 3725,
+        "height": 5016,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43527,6 +45021,8 @@ export const galleries = [
           ],
           "colorfulness": "28.635"
         },
+        "width": 4133,
+        "height": 4454,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43581,6 +45077,8 @@ export const galleries = [
           ],
           "colorfulness": "37.687"
         },
+        "width": 4180,
+        "height": 3429,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43653,6 +45151,8 @@ export const galleries = [
           ],
           "colorfulness": "42.882"
         },
+        "width": 3761,
+        "height": 4228,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43698,6 +45198,8 @@ export const galleries = [
           ],
           "colorfulness": "29.944"
         },
+        "width": 3871,
+        "height": 3937,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43752,6 +45254,8 @@ export const galleries = [
           ],
           "colorfulness": "40.750"
         },
+        "width": 4121,
+        "height": 5171,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43806,6 +45310,8 @@ export const galleries = [
           ],
           "colorfulness": "35.279"
         },
+        "width": 3709,
+        "height": 3384,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43869,6 +45375,8 @@ export const galleries = [
           ],
           "colorfulness": "45.213"
         },
+        "width": 5239,
+        "height": 4092,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43932,6 +45440,8 @@ export const galleries = [
           ],
           "colorfulness": "46.413"
         },
+        "width": 3736,
+        "height": 3770,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43995,6 +45505,8 @@ export const galleries = [
           ],
           "colorfulness": "33.586"
         },
+        "width": 3830,
+        "height": 5107,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44058,6 +45570,8 @@ export const galleries = [
           ],
           "colorfulness": "37.889"
         },
+        "width": 3350,
+        "height": 3712,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44112,6 +45626,8 @@ export const galleries = [
           ],
           "colorfulness": "41.336"
         },
+        "width": 5300,
+        "height": 4242,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44184,6 +45700,8 @@ export const galleries = [
           ],
           "colorfulness": "50.941"
         },
+        "width": 3516,
+        "height": 4298,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44247,6 +45765,8 @@ export const galleries = [
           ],
           "colorfulness": "40.591"
         },
+        "width": 3582,
+        "height": 4462,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44301,6 +45821,8 @@ export const galleries = [
           ],
           "colorfulness": "49.793"
         },
+        "width": 3267,
+        "height": 4746,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44355,6 +45877,8 @@ export const galleries = [
           ],
           "colorfulness": "38.622"
         },
+        "width": 3454,
+        "height": 3495,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44418,6 +45942,8 @@ export const galleries = [
           ],
           "colorfulness": "34.889"
         },
+        "width": 4011,
+        "height": 3075,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44490,6 +46016,8 @@ export const galleries = [
           ],
           "colorfulness": "39.869"
         },
+        "width": 3778,
+        "height": 5091,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44562,6 +46090,8 @@ export const galleries = [
           ],
           "colorfulness": "47.765"
         },
+        "width": 3529,
+        "height": 5288,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44616,6 +46146,8 @@ export const galleries = [
           ],
           "colorfulness": "48.544"
         },
+        "width": 3942,
+        "height": 5200,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44670,6 +46202,8 @@ export const galleries = [
           ],
           "colorfulness": "32.009"
         },
+        "width": 2648,
+        "height": 3242,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44724,6 +46258,8 @@ export const galleries = [
           ],
           "colorfulness": "29.930"
         },
+        "width": 3106,
+        "height": 4158,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44787,6 +46323,8 @@ export const galleries = [
           ],
           "colorfulness": "41.627"
         },
+        "width": 3811,
+        "height": 4767,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44859,6 +46397,8 @@ export const galleries = [
           ],
           "colorfulness": "35.669"
         },
+        "width": 2909,
+        "height": 3800,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44913,6 +46453,8 @@ export const galleries = [
           ],
           "colorfulness": "40.994"
         },
+        "width": 3849,
+        "height": 4802,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44967,6 +46509,8 @@ export const galleries = [
           ],
           "colorfulness": "30.614"
         },
+        "width": 3866,
+        "height": 4457,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45021,6 +46565,8 @@ export const galleries = [
           ],
           "colorfulness": "38.359"
         },
+        "width": 4120,
+        "height": 4403,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45075,6 +46621,8 @@ export const galleries = [
           ],
           "colorfulness": "30.646"
         },
+        "width": 4467,
+        "height": 4028,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45129,6 +46677,8 @@ export const galleries = [
           ],
           "colorfulness": "41.978"
         },
+        "width": 3929,
+        "height": 4375,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45183,6 +46733,8 @@ export const galleries = [
           ],
           "colorfulness": "34.889"
         },
+        "width": 3566,
+        "height": 4219,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45255,6 +46807,8 @@ export const galleries = [
           ],
           "colorfulness": "35.948"
         },
+        "width": 3938,
+        "height": 4311,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45318,6 +46872,8 @@ export const galleries = [
           ],
           "colorfulness": "45.286"
         },
+        "width": 3623,
+        "height": 4410,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45363,6 +46919,8 @@ export const galleries = [
           ],
           "colorfulness": "28.603"
         },
+        "width": 3262,
+        "height": 4851,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45417,6 +46975,8 @@ export const galleries = [
           ],
           "colorfulness": "35.067"
         },
+        "width": 3641,
+        "height": 5314,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45471,6 +47031,8 @@ export const galleries = [
           ],
           "colorfulness": "45.198"
         },
+        "width": 4031,
+        "height": 3714,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45543,6 +47105,8 @@ export const galleries = [
           ],
           "colorfulness": "36.793"
         },
+        "width": 4560,
+        "height": 4095,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45606,6 +47170,8 @@ export const galleries = [
           ],
           "colorfulness": "35.736"
         },
+        "width": 3917,
+        "height": 3759,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45660,6 +47226,8 @@ export const galleries = [
           ],
           "colorfulness": "25.536"
         },
+        "width": 2729,
+        "height": 3758,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45732,6 +47300,8 @@ export const galleries = [
           ],
           "colorfulness": "44.101"
         },
+        "width": 3759,
+        "height": 4343,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45795,6 +47365,8 @@ export const galleries = [
           ],
           "colorfulness": "43.363"
         },
+        "width": 3661,
+        "height": 2493,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45867,6 +47439,8 @@ export const galleries = [
           ],
           "colorfulness": "52.469"
         },
+        "width": 3184,
+        "height": 4621,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45930,6 +47504,8 @@ export const galleries = [
           ],
           "colorfulness": "34.917"
         },
+        "width": 3477,
+        "height": 5141,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45984,6 +47560,8 @@ export const galleries = [
           ],
           "colorfulness": "47.788"
         },
+        "width": 5086,
+        "height": 3891,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46056,6 +47634,8 @@ export const galleries = [
           ],
           "colorfulness": "36.650"
         },
+        "width": 4189,
+        "height": 4148,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46110,6 +47690,8 @@ export const galleries = [
           ],
           "colorfulness": "34.124"
         },
+        "width": 3328,
+        "height": 5916,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46173,6 +47755,8 @@ export const galleries = [
           ],
           "colorfulness": "42.035"
         },
+        "width": 3893,
+        "height": 5010,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46236,6 +47820,8 @@ export const galleries = [
           ],
           "colorfulness": "41.983"
         },
+        "width": 2234,
+        "height": 1098,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46308,6 +47894,8 @@ export const galleries = [
           ],
           "colorfulness": "52.288"
         },
+        "width": 3803,
+        "height": 4613,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46362,6 +47950,8 @@ export const galleries = [
           ],
           "colorfulness": "35.320"
         },
+        "width": 3832,
+        "height": 3938,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46416,6 +48006,8 @@ export const galleries = [
           ],
           "colorfulness": "40.966"
         },
+        "width": 4182,
+        "height": 4778,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46470,6 +48062,8 @@ export const galleries = [
           ],
           "colorfulness": "42.456"
         },
+        "width": 4029,
+        "height": 4521,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46515,6 +48109,8 @@ export const galleries = [
           ],
           "colorfulness": "36.433"
         },
+        "width": 3872,
+        "height": 3872,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46560,6 +48156,8 @@ export const galleries = [
           ],
           "colorfulness": "39.976"
         },
+        "width": 3181,
+        "height": 4136,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46614,6 +48212,8 @@ export const galleries = [
           ],
           "colorfulness": "36.229"
         },
+        "width": 3679,
+        "height": 4504,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46668,6 +48268,8 @@ export const galleries = [
           ],
           "colorfulness": "50.390"
         },
+        "width": 3949,
+        "height": 3971,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46740,6 +48342,8 @@ export const galleries = [
           ],
           "colorfulness": "34.123"
         },
+        "width": 3673,
+        "height": 5389,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46803,6 +48407,8 @@ export const galleries = [
           ],
           "colorfulness": "37.588"
         },
+        "width": 3843,
+        "height": 4640,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46866,6 +48472,8 @@ export const galleries = [
           ],
           "colorfulness": "39.301"
         },
+        "width": 2734,
+        "height": 4405,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46920,6 +48528,8 @@ export const galleries = [
           ],
           "colorfulness": "38.035"
         },
+        "width": 3393,
+        "height": 3723,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46974,6 +48584,8 @@ export const galleries = [
           ],
           "colorfulness": "34.088"
         },
+        "width": 3765,
+        "height": 5295,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47046,6 +48658,8 @@ export const galleries = [
           ],
           "colorfulness": "39.042"
         },
+        "width": 3239,
+        "height": 5098,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47109,6 +48723,8 @@ export const galleries = [
           ],
           "colorfulness": "32.556"
         },
+        "width": 3484,
+        "height": 3761,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47172,6 +48788,8 @@ export const galleries = [
           ],
           "colorfulness": "42.074"
         },
+        "width": 4139,
+        "height": 4861,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47217,6 +48835,8 @@ export const galleries = [
           ],
           "colorfulness": "34.058"
         },
+        "width": 3380,
+        "height": 4794,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47271,6 +48891,8 @@ export const galleries = [
           ],
           "colorfulness": "29.286"
         },
+        "width": 3779,
+        "height": 4306,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47316,6 +48938,8 @@ export const galleries = [
           ],
           "colorfulness": "18.951"
         },
+        "width": 3840,
+        "height": 5350,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47379,6 +49003,8 @@ export const galleries = [
           ],
           "colorfulness": "39.155"
         },
+        "width": 3502,
+        "height": 3595,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47433,6 +49059,8 @@ export const galleries = [
           ],
           "colorfulness": "36.538"
         },
+        "width": 2761,
+        "height": 2921,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47496,6 +49124,8 @@ export const galleries = [
           ],
           "colorfulness": "44.413"
         },
+        "width": 3383,
+        "height": 3957,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47541,6 +49171,8 @@ export const galleries = [
           ],
           "colorfulness": "39.503"
         },
+        "width": 3766,
+        "height": 5132,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47604,6 +49236,8 @@ export const galleries = [
           ],
           "colorfulness": "40.073"
         },
+        "width": 4410,
+        "height": 3586,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47667,6 +49301,8 @@ export const galleries = [
           ],
           "colorfulness": "45.569"
         },
+        "width": 3499,
+        "height": 5038,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47739,6 +49375,8 @@ export const galleries = [
           ],
           "colorfulness": "42.794"
         },
+        "width": 3587,
+        "height": 3959,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47793,6 +49431,8 @@ export const galleries = [
           ],
           "colorfulness": "34.297"
         },
+        "width": 3752,
+        "height": 3249,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47856,6 +49496,73 @@ export const galleries = [
           ],
           "colorfulness": "37.921"
         },
+        "width": 3889,
+        "height": 4296,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Sonnenuntergang am Franz-Josefs-Kai am Donaukanal.jpg",
+        "latitude": 48.211372,
+        "longitude": 16.382078,
+        "createDate": "2025-08-26T16:33:27.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                40,
+                10
+              ],
+              "hex": "#3c280a",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                110
+              ],
+              "hex": "#a08c6e",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                100,
+                160,
+                190
+              ],
+              "hex": "#64a0be",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                170
+              ],
+              "hex": "#f0dcaa",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "36.645"
+        },
+        "width": 3350,
+        "height": 4511,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47919,6 +49626,8 @@ export const galleries = [
           ],
           "colorfulness": "38.565"
         },
+        "width": 4038,
+        "height": 4330,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47973,6 +49682,8 @@ export const galleries = [
           ],
           "colorfulness": "43.635"
         },
+        "width": 3895,
+        "height": 4455,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48027,6 +49738,8 @@ export const galleries = [
           ],
           "colorfulness": "34.125"
         },
+        "width": 4466,
+        "height": 3831,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48090,6 +49803,8 @@ export const galleries = [
           ],
           "colorfulness": "38.736"
         },
+        "width": 2594,
+        "height": 5113,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48162,6 +49877,73 @@ export const galleries = [
           ],
           "colorfulness": "55.578"
         },
+        "width": 2911,
+        "height": 3809,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Statue eines Adlers am Stubenring - Innere Stadt.jpg",
+        "latitude": 48.209606,
+        "longitude": 16.382628,
+        "createDate": "2025-08-26T16:29:27.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                150,
+                190
+              ],
+              "hex": "#1496be",
+              "percentage": "0.062"
+            },
+            {
+              "rgb": [
+                10,
+                20,
+                30
+              ],
+              "hex": "#0a141e",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                100
+              ],
+              "hex": "#826e64",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                50
+              ],
+              "hex": "#463232",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "48.484"
+        },
+        "width": 3055,
+        "height": 3176,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48216,6 +49998,8 @@ export const galleries = [
           ],
           "colorfulness": "40.991"
         },
+        "width": 3707,
+        "height": 5017,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48279,6 +50063,8 @@ export const galleries = [
           ],
           "colorfulness": "37.159"
         },
+        "width": 4014,
+        "height": 3963,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48333,6 +50119,8 @@ export const galleries = [
           ],
           "colorfulness": "28.295"
         },
+        "width": 5254,
+        "height": 3940,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48405,6 +50193,8 @@ export const galleries = [
           ],
           "colorfulness": "40.172"
         },
+        "width": 3581,
+        "height": 4103,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48468,6 +50258,8 @@ export const galleries = [
           ],
           "colorfulness": "32.534"
         },
+        "width": 3354,
+        "height": 3929,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48513,6 +50305,8 @@ export const galleries = [
           ],
           "colorfulness": "33.870"
         },
+        "width": 3235,
+        "height": 4025,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48585,6 +50379,8 @@ export const galleries = [
           ],
           "colorfulness": "46.181"
         },
+        "width": 3817,
+        "height": 4475,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48648,6 +50444,8 @@ export const galleries = [
           ],
           "colorfulness": "40.575"
         },
+        "width": 3902,
+        "height": 4449,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48711,6 +50509,8 @@ export const galleries = [
           ],
           "colorfulness": "35.720"
         },
+        "width": 3923,
+        "height": 4278,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48774,6 +50574,8 @@ export const galleries = [
           ],
           "colorfulness": "37.854"
         },
+        "width": 3971,
+        "height": 4677,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48828,6 +50630,8 @@ export const galleries = [
           ],
           "colorfulness": "32.411"
         },
+        "width": 4096,
+        "height": 3865,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48882,6 +50686,8 @@ export const galleries = [
           ],
           "colorfulness": "45.479"
         },
+        "width": 3876,
+        "height": 4227,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48945,6 +50751,8 @@ export const galleries = [
           ],
           "colorfulness": "47.177"
         },
+        "width": 3278,
+        "height": 4855,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48999,6 +50807,8 @@ export const galleries = [
           ],
           "colorfulness": "32.859"
         },
+        "width": 3628,
+        "height": 3349,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49071,6 +50881,8 @@ export const galleries = [
           ],
           "colorfulness": "45.876"
         },
+        "width": 3211,
+        "height": 5075,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49125,6 +50937,8 @@ export const galleries = [
           ],
           "colorfulness": "33.577"
         },
+        "width": 4007,
+        "height": 5035,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49170,6 +50984,8 @@ export const galleries = [
           ],
           "colorfulness": "39.373"
         },
+        "width": 3983,
+        "height": 4983,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49224,6 +51040,8 @@ export const galleries = [
           ],
           "colorfulness": "33.495"
         },
+        "width": 2410,
+        "height": 3626,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49287,6 +51105,8 @@ export const galleries = [
           ],
           "colorfulness": "48.600"
         },
+        "width": 2385,
+        "height": 3644,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49359,6 +51179,8 @@ export const galleries = [
           ],
           "colorfulness": "41.450"
         },
+        "width": 3947,
+        "height": 4398,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49422,6 +51244,8 @@ export const galleries = [
           ],
           "colorfulness": "40.713"
         },
+        "width": 3986,
+        "height": 4107,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49476,6 +51300,8 @@ export const galleries = [
           ],
           "colorfulness": "44.182"
         },
+        "width": 3110,
+        "height": 3463,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49530,6 +51356,8 @@ export const galleries = [
           ],
           "colorfulness": "44.594"
         },
+        "width": 4014,
+        "height": 3931,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49584,6 +51412,8 @@ export const galleries = [
           ],
           "colorfulness": "38.506"
         },
+        "width": 3236,
+        "height": 4445,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49638,6 +51468,8 @@ export const galleries = [
           ],
           "colorfulness": "40.853"
         },
+        "width": 4012,
+        "height": 3729,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49710,6 +51542,8 @@ export const galleries = [
           ],
           "colorfulness": "39.696"
         },
+        "width": 4180,
+        "height": 4573,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49782,6 +51616,8 @@ export const galleries = [
           ],
           "colorfulness": "51.956"
         },
+        "width": 3890,
+        "height": 5427,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49854,6 +51690,8 @@ export const galleries = [
           ],
           "colorfulness": "46.682"
         },
+        "width": 3997,
+        "height": 4561,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49926,6 +51764,8 @@ export const galleries = [
           ],
           "colorfulness": "44.752"
         },
+        "width": 4093,
+        "height": 4754,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49971,6 +51811,8 @@ export const galleries = [
           ],
           "colorfulness": "33.278"
         },
+        "width": 3840,
+        "height": 5089,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50043,6 +51885,8 @@ export const galleries = [
           ],
           "colorfulness": "45.923"
         },
+        "width": 3979,
+        "height": 3830,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50062,7 +51906,7 @@ export const galleries = [
       }
     ],
     "timeframe": "7. Juni 2024 - 30. August 2025",
-    "imageCount": 160,
+    "imageCount": 162,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -50132,6 +51976,8 @@ export const galleries = [
           ],
           "colorfulness": "51.142"
         },
+        "width": 2596,
+        "height": 3462,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50165,6 +52011,8 @@ export const galleries = [
           ],
           "colorfulness": "32.228"
         },
+        "width": 3089,
+        "height": 4365,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50216,6 +52064,8 @@ export const galleries = [
           ],
           "colorfulness": "31.659"
         },
+        "width": 3958,
+        "height": 4853,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50258,6 +52108,8 @@ export const galleries = [
           ],
           "colorfulness": "25.298"
         },
+        "width": 4060,
+        "height": 3781,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50318,6 +52170,8 @@ export const galleries = [
           ],
           "colorfulness": "48.506"
         },
+        "width": 3763,
+        "height": 3578,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50360,6 +52214,8 @@ export const galleries = [
           ],
           "colorfulness": "39.227"
         },
+        "width": 3947,
+        "height": 4437,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50411,6 +52267,8 @@ export const galleries = [
           ],
           "colorfulness": "35.361"
         },
+        "width": 2998,
+        "height": 3062,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50480,6 +52338,8 @@ export const galleries = [
           ],
           "colorfulness": "35.351"
         },
+        "width": 3923,
+        "height": 5502,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50549,6 +52409,8 @@ export const galleries = [
           ],
           "colorfulness": "43.828"
         },
+        "width": 3117,
+        "height": 3741,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50618,6 +52480,8 @@ export const galleries = [
           ],
           "colorfulness": "42.180"
         },
+        "width": 4547,
+        "height": 3600,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50660,6 +52524,8 @@ export const galleries = [
           ],
           "colorfulness": "45.549"
         },
+        "width": 5614,
+        "height": 3944,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50711,6 +52577,8 @@ export const galleries = [
           ],
           "colorfulness": "35.119"
         },
+        "width": 2783,
+        "height": 3740,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50762,6 +52630,8 @@ export const galleries = [
           ],
           "colorfulness": "34.739"
         },
+        "width": 4020,
+        "height": 5123,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50822,6 +52692,8 @@ export const galleries = [
           ],
           "colorfulness": "34.579"
         },
+        "width": 3916,
+        "height": 4959,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50873,6 +52745,8 @@ export const galleries = [
           ],
           "colorfulness": "50.489"
         },
+        "width": 3575,
+        "height": 4358,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50942,6 +52816,8 @@ export const galleries = [
           ],
           "colorfulness": "45.982"
         },
+        "width": 3887,
+        "height": 4862,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51002,6 +52878,8 @@ export const galleries = [
           ],
           "colorfulness": "37.061"
         },
+        "width": 3618,
+        "height": 3749,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51062,6 +52940,8 @@ export const galleries = [
           ],
           "colorfulness": "49.239"
         },
+        "width": 3808,
+        "height": 5078,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51113,6 +52993,8 @@ export const galleries = [
           ],
           "colorfulness": "38.048"
         },
+        "width": 3860,
+        "height": 5423,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51164,6 +53046,8 @@ export const galleries = [
           ],
           "colorfulness": "43.932"
         },
+        "width": 3448,
+        "height": 3917,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51224,6 +53108,8 @@ export const galleries = [
           ],
           "colorfulness": "37.919"
         },
+        "width": 4117,
+        "height": 4570,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51266,6 +53152,8 @@ export const galleries = [
           ],
           "colorfulness": "40.488"
         },
+        "width": 4051,
+        "height": 4865,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51308,6 +53196,8 @@ export const galleries = [
           ],
           "colorfulness": "41.465"
         },
+        "width": 4140,
+        "height": 3607,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51350,6 +53240,8 @@ export const galleries = [
           ],
           "colorfulness": "30.641"
         },
+        "width": 4111,
+        "height": 5650,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51410,6 +53302,8 @@ export const galleries = [
           ],
           "colorfulness": "44.741"
         },
+        "width": 2607,
+        "height": 4761,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51452,6 +53346,8 @@ export const galleries = [
           ],
           "colorfulness": "32.318"
         },
+        "width": 4153,
+        "height": 5537,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51512,6 +53408,8 @@ export const galleries = [
           ],
           "colorfulness": "47.924"
         },
+        "width": 2255,
+        "height": 3538,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51563,6 +53461,8 @@ export const galleries = [
           ],
           "colorfulness": "32.414"
         },
+        "width": 3161,
+        "height": 3588,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51614,6 +53514,8 @@ export const galleries = [
           ],
           "colorfulness": "36.873"
         },
+        "width": 3996,
+        "height": 5086,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",

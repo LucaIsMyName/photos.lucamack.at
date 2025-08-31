@@ -37,8 +37,8 @@ const ImageDetails = () => {
         name: image.filename.replaceAll("_", " ").replace(".jpg", "").trim(),
         description: `A photo from the gallery: ${gallery.title}`,
         contentUrl: `${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), "original")}`,
-        width: "1920", // Default width - could be dynamic if available
-        height: "1080", // Default height - could be dynamic if available
+        width: image.width, // Default width - could be dynamic if available
+        height: image.height, // Default height - could be dynamic if available
         datePublished: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split("T")[0] || new Date().toISOString().split("T")[0] : new Date().toISOString().split("T")[0],
         dateCreated: image.createDate ? parseCreateDate(image.createDate)?.toISOString().split("T")[0] || new Date().toISOString().split("T")[0] : new Date().toISOString().split("T")[0],
         author: {

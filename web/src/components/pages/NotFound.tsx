@@ -33,14 +33,14 @@ const NotFound = ({ title, text }: { title?: string; text?: string }) => {
   }, [location.pathname]);
 
   return (
-    <div className="py-4 md:py-8 px-4 md:px-0 flex flex-col items-start justify-start text-center">
+    <div className="py-4 md:py-8 px-4 md:px-0 flex flex-col items-start justify-start">
       <SeoHead
         title={`404 | ${title || CONFIG.meta.title}`}
         description="Seite nicht gefunden"
         imageUrl={"/404.jpg"}
         noIndex={true}
       />
-      <div className="flex flex-col items-start">
+      <div className="flex flex-col items-start justify-start">
         <figure className="mb-4">
           <img
             className="rotate-180"
@@ -49,7 +49,7 @@ const NotFound = ({ title, text }: { title?: string; text?: string }) => {
             alt="404"
           />
         </figure>
-        <h1 className={cn(`text-4xl`, theme === "dark" ? "text-white" : "text-black")}>404</h1>
+        <h1 className={cn(`text-4xl md:text-6xl  my-4 font-mono`, theme === "dark" ? "text-white" : "text-black")}>404</h1>
         {!galleryInfo.isValidGallery ? <p className="text-base mt-4">{text || "Seite nicht gefunden"}</p> : ""}
 
         {galleryInfo.isValidGallery ? (

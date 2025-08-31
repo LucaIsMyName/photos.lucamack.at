@@ -170,11 +170,13 @@ async function generateGalleries() {
     const imageFilesData = await Promise.all(
       imageFilesRaw.map(async (file) => {
         const sourcePath = path.join(galleryDir, file);
-                        const filename = file.replace(/\.heic$/i, '.jpg').replace(/\.jpeg$/i, '.jpg');
+        const filename = file.replace(/\.heic$/i, '.jpg').replace(/\.jpeg$/i, '.jpg');
         let latitude = null;
         let longitude = null;
         let createDate = null;
         let alt = null;
+        let width = null;
+        let height = null;
 
         try {
           const tags = await exiftool.read(sourcePath);
@@ -196,6 +198,18 @@ async function generateGalleries() {
           console.error('Error reading exif for', file, err);
         }
 
+        // Extract image dimensions using Sharp
+        try {
+          const processPath = path.join(publicGalleryDir, filename.replace(/ /g, '_'));
+          if (fs.existsSync(processPath)) {
+            const metadata = await sharp(processPath).metadata();
+            width = metadata.width;
+            height = metadata.height;
+          }
+        } catch (err) {
+          console.error('Error reading image dimensions for', filename, err);
+        }
+
         // Google Maps URL is now generated in the frontend
         
         // Extract color data
@@ -215,6 +229,8 @@ async function generateGalleries() {
           longitude, 
           createDate, 
           colorData,
+          ...(width && { width }),
+          ...(height && { height }),
           ...(creator && { creator }),
           ...(copyrightNotice && { copyrightNotice }),
           ...(creditText && { creditText }),

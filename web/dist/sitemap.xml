@@ -596,6 +596,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/landwehkanal-kanal-am-hallerschen-ufer-und-u-bahn-trasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/mall-of-berlin-durchgang</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -822,11 +827,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/berlin/image/wandgemalde-in-einem-u-bahn-bahnsteig</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/wasser-kanal-und-u-bahn-trasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4236,6 +4236,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/sonnenuntergang-am-franz-josefs-kai-am-donaukanal</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/spielplatz-am-donaukanal-in-alsergrund</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4257,6 +4262,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/statue-auf-der-freyung-innere-stadt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/statue-eines-adlers-am-stubenring-innere-stadt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
