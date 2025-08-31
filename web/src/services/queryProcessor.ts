@@ -1,8 +1,8 @@
-import { galleries } from '../galleries';
-import { GoogleVisionService } from './googleVision';
+import { galleries } from "../galleries";
+import { GoogleVisionService } from "./googleVision";
 
 interface QueryResult {
-  type: 'images' | 'galleries' | 'text';
+  type: "images" | "galleries" | "text";
   items: any[];
   message: string;
   totalFound: number;
@@ -28,34 +28,34 @@ export class QueryProcessor {
 
   private loadCachedAnalysis() {
     try {
-      const cached = localStorage.getItem('vision-analysis-cache');
+      const cached = localStorage.getItem("vision-analysis-cache");
       if (cached) {
         const data = JSON.parse(cached);
         this.analysisCache = new Map(data);
       }
     } catch (error) {
-      console.error('Error loading cached analysis:', error);
+      console.error("Error loading cached analysis:", error);
     }
   }
 
   private saveCachedAnalysis() {
     try {
       const data = Array.from(this.analysisCache.entries());
-      localStorage.setItem('vision-analysis-cache', JSON.stringify(data));
+      localStorage.setItem("vision-analysis-cache", JSON.stringify(data));
     } catch (error) {
-      console.error('Error saving cached analysis:', error);
+      console.error("Error saving cached analysis:", error);
     }
   }
 
   async processQuery(query: string): Promise<QueryResult> {
     const context = this.parseQuery(query.toLowerCase());
-    
+
     // Get all images from all galleries
-    const allImages = galleries.flatMap(gallery => 
-      gallery.images.map(image => ({
+    const allImages = galleries.flatMap((gallery) =>
+      gallery.images.map((image) => ({
         ...image,
         gallerySlug: gallery.slug,
-        galleryTitle: gallery.title
+        galleryTitle: gallery.title,
       }))
     );
 
@@ -63,7 +63,7 @@ export class QueryProcessor {
 
     // Filter by date range
     if (context.dateRange) {
-      filteredImages = filteredImages.filter(image => {
+      filteredImages = filteredImages.filter((image) => {
         if (!image.createDate) return false;
         const imageDate = new Date(image.createDate);
         return imageDate >= context.dateRange!.start && imageDate <= context.dateRange!.end;
@@ -73,11 +73,11 @@ export class QueryProcessor {
     // Filter by location (basic implementation using existing GPS data)
     if (context.location) {
       const locationLower = context.location.toLowerCase();
-      filteredImages = filteredImages.filter(image => {
+      filteredImages = filteredImages.filter((image) => {
         // Check if location matches gallery tags or title
-        const gallery = galleries.find(g => g.slug === image.gallerySlug);
+        const gallery = galleries.find((g) => g.slug === image.gallerySlug);
         if (gallery?.tags) {
-          return gallery.tags.some(tag => tag.toLowerCase().includes(locationLower));
+          return gallery.tags.some((tag) => tag.toLowerCase().includes(locationLower));
         }
         return gallery?.title.toLowerCase().includes(locationLower) || false;
       });
@@ -85,12 +85,9 @@ export class QueryProcessor {
 
     // Filter by gallery names
     if (context.galleryNames && context.galleryNames.length > 0) {
-      filteredImages = filteredImages.filter(image => {
-        const gallery = galleries.find(g => g.slug === image.gallerySlug);
-        return context.galleryNames!.some(name => 
-          gallery?.title.toLowerCase().includes(name) || 
-          gallery?.slug.toLowerCase().includes(name)
-        );
+      filteredImages = filteredImages.filter((image) => {
+        const gallery = galleries.find((g) => g.slug === image.gallerySlug);
+        return context.galleryNames!.some((name) => gallery?.title.toLowerCase().includes(name) || gallery?.slug.toLowerCase().includes(name));
       });
     }
 
@@ -107,10 +104,10 @@ export class QueryProcessor {
     }
 
     return {
-      type: 'images',
+      type: "images",
       items: filteredImages,
       message: this.generateResponseMessage(filteredImages.length, context, query),
-      totalFound: filteredImages.length
+      totalFound: filteredImages.length,
     };
   }
 
@@ -126,30 +123,40 @@ export class QueryProcessor {
       // YYYY-MM-DD
       /(\d{4})-(\d{1,2})-(\d{1,2})/g,
       // Month YYYY only (entire month)
-      /^.*(januar|februar|märz|april|mai|juni|juli|august|september|oktober|november|dezember)\s*(\d{4}).*$/gi
+      /^.*(januar|februar|märz|april|mai|juni|juli|august|september|oktober|november|dezember)\s*(\d{4}).*$/gi,
     ];
 
     for (const pattern of datePatterns) {
       const matches = [...query.matchAll(pattern)];
       if (matches.length > 0) {
         const match = matches[0];
-        
+
         // DD. Month YYYY format (most specific)
         if (match[3] && match[2] && match[1]) {
           const day = parseInt(match[1]);
           const monthName = match[2].toLowerCase();
           const year = parseInt(match[3]);
           const monthMap: { [key: string]: number } = {
-            'januar': 0, 'februar': 1, 'märz': 2, 'april': 3, 'mai': 4, 'juni': 5,
-            'juli': 6, 'august': 7, 'september': 8, 'oktober': 9, 'november': 10, 'dezember': 11
+            januar: 0,
+            februar: 1,
+            märz: 2,
+            april: 3,
+            mai: 4,
+            juni: 5,
+            juli: 6,
+            august: 7,
+            september: 8,
+            oktober: 9,
+            november: 10,
+            dezember: 11,
           };
           const month = monthMap[monthName];
           if (month !== undefined) {
             const date = new Date(year, month, day);
             // Single day range
-            context.dateRange = { 
+            context.dateRange = {
               start: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 0, 0, 0),
-              end: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59)
+              end: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59),
             };
             break;
           }
@@ -161,9 +168,9 @@ export class QueryProcessor {
           const year = parseInt(match[3]);
           const date = new Date(year, month, day);
           // Single day range
-          context.dateRange = { 
+          context.dateRange = {
             start: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 0, 0, 0),
-            end: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59)
+            end: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59),
           };
           break;
         }
@@ -174,9 +181,9 @@ export class QueryProcessor {
           const day = parseInt(match[3]);
           const date = new Date(year, month, day);
           // Single day range
-          context.dateRange = { 
+          context.dateRange = {
             start: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 0, 0, 0),
-            end: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59)
+            end: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59),
           };
           break;
         }
@@ -185,14 +192,24 @@ export class QueryProcessor {
           const year = parseInt(match[2]);
           const monthName = match[1].toLowerCase();
           const monthMap: { [key: string]: number } = {
-            'januar': 0, 'februar': 1, 'märz': 2, 'april': 3, 'mai': 4, 'juni': 5,
-            'juli': 6, 'august': 7, 'september': 8, 'oktober': 9, 'november': 10, 'dezember': 11
+            januar: 0,
+            februar: 1,
+            märz: 2,
+            april: 3,
+            mai: 4,
+            juni: 5,
+            juli: 6,
+            august: 7,
+            september: 8,
+            oktober: 9,
+            november: 10,
+            dezember: 11,
           };
           const month = monthMap[monthName];
           if (month !== undefined) {
             context.dateRange = {
               start: new Date(year, month, 1),
-              end: new Date(year, month + 1, 0, 23, 59, 59)
+              end: new Date(year, month + 1, 0, 23, 59, 59),
             };
             break;
           }
@@ -201,16 +218,12 @@ export class QueryProcessor {
     }
 
     // Parse location
-    const locationPatterns = [
-      /(?:aus|von|in)\s+(wien|vienna|österreich|austria)/gi,
-      /wien|vienna/gi,
-      /(\d+)\s*km\s*(?:um|around)/gi
-    ];
+    const locationPatterns = [/(?:aus|von|in)\s+(wien|vienna|salzburg|burghausen|österreich|austria|deutschland|germany|schweiz|swiss|zürich|zurich|berlin|karlsruhe|bern)/gi, /wien|vienna|salzburg|burghausen|österreich|austria|deutschland|germany|schweiz|swiss|zürich|zurich|berlin|karlsruhe|bern/gi, /(\d+)\s*km\s*(?:um|around)/gi];
 
     for (const pattern of locationPatterns) {
       const match = query.match(pattern);
       if (match) {
-        context.location = match[0].replace(/(?:aus|von|in)\s+/gi, '').trim();
+        context.location = match[0].replace(/(?:aus|von|in)\s+/gi, "").trim();
         break;
       }
     }
@@ -223,43 +236,37 @@ export class QueryProcessor {
       // Specific known galleries (exact matches only)
       /\b(öffis|arsenal)\b(?:\s+(?:galerie|gallery))?\b/gi,
       // Wien gallery (be more specific)
-      /\bwien\s+(?:galerie|gallery)\b/gi
+      /\bwien\s+(?:galerie|gallery)\b/gi,
     ];
 
     const foundGalleryNames: string[] = [];
     for (const pattern of galleryPatterns) {
       const matches = [...query.matchAll(pattern)];
       if (matches.length > 0) {
-        matches.forEach(match => {
-          const galleryName = (match[1] || match[0]).toLowerCase().replace(/\s+(?:galerie|gallery)/, '').trim();
+        matches.forEach((match) => {
+          const galleryName = (match[1] || match[0])
+            .toLowerCase()
+            .replace(/\s+(?:galerie|gallery)/, "")
+            .trim();
           if (galleryName && !foundGalleryNames.includes(galleryName)) {
             foundGalleryNames.push(galleryName);
           }
         });
       }
     }
-    
+
     if (foundGalleryNames.length > 0) {
       context.galleryNames = foundGalleryNames;
     }
 
     // Parse content keywords - use word boundaries for exact matches
-    const contentKeywords = [
-      'baum', 'bäume', 'tree', 'trees',
-      'regenbogen', 'rainbow',
-      'auto', 'car', 'cars',
-      'haus', 'häuser', 'house', 'houses', 'building',
-      'person', 'menschen', 'people',
-      'himmel', 'sky',
-      'wasser', 'water',
-      'blume', 'blumen', 'flower', 'flowers'
-    ];
+    const contentKeywords = ["baum", "bäume", "tree", "trees", "regenbogen", "rainbow", "auto", "car", "cars", "haus", "häuser", "house", "houses", "building", "person", "menschen", "people", "himmel", "sky", "wasser", "water", "blume", "blumen", "flower", "flowers", "baum", "bäume", "tree", "trees", "beton", "betonelemente", "concrete", "concrete elements", "glas", "gläser", "glass", "glasses", "person", "menschen", "people", "tisch", "tische", "table", "tables", "stuhl", "stühle", "chair", "chairs", "lampe", "lampen", "lamp", "lamps"];
 
-    const foundContent = contentKeywords.filter(keyword => {
-      const regex = new RegExp(`\\b${keyword}\\b`, 'i');
+    const foundContent = contentKeywords.filter((keyword) => {
+      const regex = new RegExp(`\\b${keyword}\\b`, "i");
       return regex.test(query);
     });
-    
+
     if (foundContent.length > 0) {
       context.content = foundContent;
     }
@@ -286,13 +293,13 @@ export class QueryProcessor {
 
     for (const image of images) {
       const cacheKey = `${image.gallerySlug}/${image.filename}`;
-      
+
       let analysis = this.analysisCache.get(cacheKey);
       if (!analysis) {
         // Analyze image with Google Vision
         const imageUrl = `https://photos.lucamack.at/content/galleries/${image.gallerySlug}/${encodeURI(image.filename.replaceAll(" ", "_"))}`;
         analysis = await this.visionService.analyzeImage(imageUrl);
-        
+
         if (!analysis.error) {
           this.analysisCache.set(cacheKey, analysis);
           this.saveCachedAnalysis();
@@ -301,26 +308,21 @@ export class QueryProcessor {
 
       if (analysis && analysis.labels) {
         // Be more strict - require higher confidence and exact keyword matches
-        const hasContent = contentKeywords.some(keyword => 
+        const hasContent = contentKeywords.some((keyword) =>
           analysis.labels.some((label: any) => {
             const labelDesc = label.description.toLowerCase();
             const translatedLabel = this.translateContent(labelDesc);
             const keywordLower = keyword.toLowerCase();
-            
+
             // Require higher confidence (>0.7) and exact word matches
-            return label.confidence > 0.7 && (
-              labelDesc === keywordLower || 
-              translatedLabel === keywordLower ||
-              labelDesc.includes(keywordLower) ||
-              translatedLabel.includes(keywordLower)
-            );
+            return label.confidence > 0.7 && (labelDesc === keywordLower || translatedLabel === keywordLower || labelDesc.includes(keywordLower) || translatedLabel.includes(keywordLower));
           })
         );
 
         if (hasContent) {
           filteredImages.push({
             ...image,
-            aiAnalysis: analysis
+            aiAnalysis: analysis,
           });
         }
       }
@@ -331,13 +333,13 @@ export class QueryProcessor {
 
   private translateContent(englishLabel: string): string {
     const translations: { [key: string]: string } = {
-      'tree': 'baum',
-      'building': 'haus',
-      'car': 'auto',
-      'person': 'person',
-      'sky': 'himmel',
-      'water': 'wasser',
-      'flower': 'blume'
+      tree: "baum",
+      building: "haus",
+      car: "auto",
+      person: "person",
+      sky: "himmel",
+      water: "wasser",
+      flower: "blume",
     };
 
     return translations[englishLabel.toLowerCase()] || englishLabel;
@@ -353,10 +355,10 @@ export class QueryProcessor {
       return `Keine Bilder gefunden für "${originalQuery}". Versuche eine andere Suchanfrage.`;
     }
 
-    let message = `${count} Bild${count === 1 ? '' : 'er'} gefunden`;
+    let message = `${count} Bild${count === 1 ? "" : "er"} gefunden`;
 
     if (context.dateRange) {
-      const dateStr = context.dateRange.start.toLocaleDateString('de-DE');
+      const dateStr = context.dateRange.start.toLocaleDateString("de-DE");
       message += ` vom ${dateStr}`;
     }
 
@@ -365,13 +367,13 @@ export class QueryProcessor {
     }
 
     if (context.content && context.content.length > 0) {
-      message += ` mit ${context.content.join(', ')}`;
+      message += ` mit ${context.content.join(", ")}`;
     }
 
     if (context.galleryNames && context.galleryNames.length > 0) {
       message += ` aus der "${context.galleryNames.join('", "')}" Galerie`;
     }
 
-    return message + '.';
+    return message + ".";
   }
 }

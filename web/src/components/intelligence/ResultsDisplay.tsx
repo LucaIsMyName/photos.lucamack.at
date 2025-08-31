@@ -44,17 +44,23 @@ const ResultsDisplay: React.FC<ResultsDisplayProps> = ({ images, message }) => {
 
   return (
     <div className="space-y-4">
-      <div className={`p-3 rounded-lg ${theme === 'light' ? 'bg-blue-50 border border-blue-200' : 'bg-blue-900/20 border border-blue-800'}`}>
-        <p className={`font-medium ${theme === 'light' ? 'text-blue-800' : 'text-blue-300'}`}>
-          {message}
-        </p>
-      </div>
+      {message && (
+        <div className={`p-3 border ${
+          theme === 'dark' ? '' : ''
+        }`}>
+          <p className="font-medium">
+            {message}
+          </p>
+        </div>
+      )}
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {images.map((image, index) => (
           <div
             key={`${image.gallerySlug}-${image.filename}-${index}`}
-            className={`rounded-lg border overflow-hidden ${theme === 'light' ? 'bg-white border-gray-200' : 'bg-gray-800 border-gray-700'}`}
+            className={`border overflow-hidden ${
+              theme === 'dark' ? 'bg-black border-white' : 'bg-white border-black'
+            }`}
           >
             <Link to={`/gallery/${image.gallerySlug}/image/${encodeURIComponent(image.filename.replace(/\.[^/.]+$/, ''))}`}>
               <div className="aspect-square overflow-hidden">
@@ -68,27 +74,35 @@ const ResultsDisplay: React.FC<ResultsDisplayProps> = ({ images, message }) => {
             </Link>
             
             <div className="p-3 space-y-2">
-              <h3 className={`font-medium text-sm truncate ${theme === 'light' ? 'text-gray-900' : 'text-gray-100'}`}>
+              <h3 className={`font-medium text-sm truncate ${
+                theme === 'dark' ? 'text-white' : 'text-black'
+              }`}>
                 {image.filename.replace(/\.[^/.]+$/, '')}
               </h3>
               
               <Link
                 to={`/gallery/${image.gallerySlug}`}
-                className={`text-xs ${theme === 'light' ? 'text-blue-600 hover:text-blue-800' : 'text-blue-400 hover:text-blue-200'}`}
+                className={`text-xs underline ${
+                  theme === 'dark' ? 'text-red-400 hover:text-red-300' : 'text-red-600 hover:text-red-700'
+                }`}
               >
                 {image.galleryTitle}
               </Link>
 
               <div className="flex flex-wrap gap-2 text-xs">
                 {image.createDate && (
-                  <div className={`flex items-center gap-1 ${theme === 'light' ? 'text-gray-600' : 'text-gray-400'}`}>
+                  <div className={`flex items-center gap-1 ${
+                    theme === 'dark' ? 'text-gray-300' : 'text-gray-600'
+                  }`}>
                     <Calendar size={12} />
                     {formatDate(image.createDate)}
                   </div>
                 )}
                 
                 {image.latitude && image.longitude && (
-                  <div className={`flex items-center gap-1 ${theme === 'light' ? 'text-gray-600' : 'text-gray-400'}`}>
+                  <div className={`flex items-center gap-1 ${
+                    theme === 'dark' ? 'text-gray-300' : 'text-gray-600'
+                  }`}>
                     <MapPin size={12} />
                     GPS
                   </div>
@@ -97,7 +111,9 @@ const ResultsDisplay: React.FC<ResultsDisplayProps> = ({ images, message }) => {
 
               {image.aiAnalysis && image.aiAnalysis.labels.length > 0 && (
                 <div className="space-y-1">
-                  <div className={`flex items-center gap-1 text-xs ${theme === 'light' ? 'text-gray-600' : 'text-gray-400'}`}>
+                  <div className={`flex items-center gap-1 text-xs ${
+                    theme === 'dark' ? 'text-gray-300' : 'text-gray-600'
+                  }`}>
                     <Eye size={12} />
                     AI erkannt:
                   </div>
@@ -105,10 +121,10 @@ const ResultsDisplay: React.FC<ResultsDisplayProps> = ({ images, message }) => {
                     {image.aiAnalysis.labels.slice(0, 3).map((label, idx) => (
                       <span
                         key={idx}
-                        className={`px-2 py-1 text-xs rounded-full ${
-                          theme === 'light' 
-                            ? 'bg-gray-100 text-gray-700' 
-                            : 'bg-gray-700 text-gray-300'
+                        className={`px-2 py-1 text-xs border ${
+                          theme === 'dark' 
+                            ? 'border-white text-white' 
+                            : 'border-black text-black'
                         }`}
                       >
                         {label.description}

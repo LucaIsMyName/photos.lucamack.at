@@ -2056,6 +2056,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/bahnsteige-und-gleise-s-bahn-station-ottakring</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/bahnsteige-und-gleise-am-hauptbahnhof</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3806,6 +3811,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/bunt-bemalte-betontrager-bei-der-s-u-bahn-station-ottakring</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/das-osterreichische-parlament-nordrampe</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4367,6 +4377,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/treppe-hauptbibliothek-bei-der-burggasse-in-rudolfsheim-funfhaus</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/treppe-und-wohnhaus-am-hohenwarteweg-wahring</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

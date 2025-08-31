@@ -27032,6 +27032,73 @@
     "gallery": "oeffis"
   },
   {
+    "latitude": 48.211758,
+    "longitude": 16.311156,
+    "createDate": "2025-08-31T11:45:56.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            230,
+            230,
+            230
+          ],
+          "hex": "#e6e6e6",
+          "percentage": "0.036"
+        },
+        {
+          "rgb": [
+            170,
+            140,
+            120
+          ],
+          "hex": "#aa8c78",
+          "percentage": "0.020"
+        },
+        {
+          "rgb": [
+            50,
+            30,
+            20
+          ],
+          "hex": "#321e14",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            120,
+            90,
+            80
+          ],
+          "hex": "#785a50",
+          "percentage": "0.012"
+        }
+      ],
+      "colorfulness": "40.650"
+    },
+    "width": 3868,
+    "height": 4680,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt"
+    ],
+    "name": "Bahnsteige und Gleise S-Bahn-Station Ottakring.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/Bahnsteige_und_Gleise_S-Bahn-Station_Ottakring.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/oeffis/Bahnsteige_und_Gleise_S-Bahn-Station_Ottakring-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/oeffis/Bahnsteige_und_Gleise_S-Bahn-Station_Ottakring-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/oeffis/Bahnsteige_und_Gleise_S-Bahn-Station_Ottakring-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/oeffis/Bahnsteige_und_Gleise_S-Bahn-Station_Ottakring-1440w.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
     "latitude": 48.184964,
     "longitude": 16.376628,
     "createDate": "2025-05-18T16:35:49.000Z",
@@ -49712,6 +49779,88 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.211864,
+    "longitude": 16.311869,
+    "createDate": "2025-08-31T11:42:04.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            140,
+            110,
+            90
+          ],
+          "hex": "#8c6e5a",
+          "percentage": "0.098"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.010"
+        },
+        {
+          "rgb": [
+            50,
+            30,
+            20
+          ],
+          "hex": "#321e14",
+          "percentage": "0.003"
+        },
+        {
+          "rgb": [
+            230,
+            130,
+            10
+          ],
+          "hex": "#e6820a",
+          "percentage": "0.001"
+        },
+        {
+          "rgb": [
+            170,
+            80,
+            0
+          ],
+          "hex": "#aa5000",
+          "percentage": "0.001"
+        }
+      ],
+      "colorfulness": "29.982"
+    },
+    "width": 3899,
+    "height": 4771,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Bunt bemalte Betonträger bei der S- & U-Bahn-Station Ottakring.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Bunt_bemalte_Betonträger_bei_der_S-_&_U-Bahn-Station_Ottakring.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Bunt_bemalte_Betonträger_bei_der_S-_&_U-Bahn-Station_Ottakring-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Bunt_bemalte_Betonträger_bei_der_S-_&_U-Bahn-Station_Ottakring-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Bunt_bemalte_Betonträger_bei_der_S-_&_U-Bahn-Station_Ottakring-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Bunt_bemalte_Betonträger_bei_der_S-_&_U-Bahn-Station_Ottakring-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
     "latitude": 48.208242,
     "longitude": 16.359903,
     "createDate": "2025-05-05T07:37:04.000Z",
@@ -57570,6 +57719,61 @@
       "w380": "https://photos.lucamack.at/content/galleries/wien/Treppe_Hauptbibliothek_bei_der_Burggasse_in_Rudolfsheim-Fünfhaus-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/wien/Treppe_Hauptbibliothek_bei_der_Burggasse_in_Rudolfsheim-Fünfhaus-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/wien/Treppe_Hauptbibliothek_bei_der_Burggasse_in_Rudolfsheim-Fünfhaus-1440w.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
+    "latitude": 48.238719,
+    "longitude": 16.322217,
+    "createDate": "2025-08-31T12:20:08.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            230,
+            220,
+            210
+          ],
+          "hex": "#e6dcd2",
+          "percentage": "0.036"
+        },
+        {
+          "rgb": [
+            40,
+            20,
+            10
+          ],
+          "hex": "#28140a",
+          "percentage": "0.016"
+        }
+      ],
+      "colorfulness": "41.097"
+    },
+    "width": 3980,
+    "height": 5107,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Treppe und Wohnhaus am Hohenwarteweg - Währing.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Treppe_und_Wohnhaus_am_Hohenwarteweg_-_Währing.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/wien/Treppe_und_Wohnhaus_am_Hohenwarteweg_-_Währing-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/wien/Treppe_und_Wohnhaus_am_Hohenwarteweg_-_Währing-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/wien/Treppe_und_Wohnhaus_am_Hohenwarteweg_-_Währing-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/wien/Treppe_und_Wohnhaus_am_Hohenwarteweg_-_Währing-1440w.jpg"
     },
     "gallery": "wien"
   },
