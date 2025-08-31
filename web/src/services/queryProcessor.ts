@@ -1,6 +1,5 @@
 import { galleries } from '../galleries';
 import { GoogleVisionService } from './googleVision';
-import { CONFIG } from '../config';
 
 interface QueryResult {
   type: 'images' | 'galleries' | 'text';
@@ -118,25 +117,71 @@ export class QueryProcessor {
   private parseQuery(query: string): QueryContext {
     const context: QueryContext = {};
 
-    // Parse date patterns
+    // Parse date patterns - order matters, most specific first
     const datePatterns = [
-      /(\d{1,2})\.?\s*(\d{1,2})\.?\s*(\d{4})/g, // DD.MM.YYYY or DD MM YYYY
-      /(\d{4})-(\d{1,2})-(\d{1,2})/g, // YYYY-MM-DD
-      /(januar|februar|märz|april|mai|juni|juli|august|september|oktober|november|dezember)\s*(\d{4})/gi,
-      /(august|april)\s*(\d{4})/gi
+      // DD. Month YYYY (e.g., "1. mai 2025", "20. april 2025")
+      /(\d{1,2})\.?\s+(januar|februar|märz|april|mai|juni|juli|august|september|oktober|november|dezember)\s*(\d{4})/gi,
+      // DD.MM.YYYY or DD MM YYYY
+      /(\d{1,2})\.?\s*(\d{1,2})\.?\s*(\d{4})/g,
+      // YYYY-MM-DD
+      /(\d{4})-(\d{1,2})-(\d{1,2})/g,
+      // Month YYYY only (entire month)
+      /^.*(januar|februar|märz|april|mai|juni|juli|august|september|oktober|november|dezember)\s*(\d{4}).*$/gi
     ];
 
     for (const pattern of datePatterns) {
       const matches = [...query.matchAll(pattern)];
       if (matches.length > 0) {
         const match = matches[0];
-        if (match[3]) { // DD.MM.YYYY format
+        
+        // DD. Month YYYY format (most specific)
+        if (match[3] && match[2] && match[1]) {
+          const day = parseInt(match[1]);
+          const monthName = match[2].toLowerCase();
+          const year = parseInt(match[3]);
+          const monthMap: { [key: string]: number } = {
+            'januar': 0, 'februar': 1, 'märz': 2, 'april': 3, 'mai': 4, 'juni': 5,
+            'juli': 6, 'august': 7, 'september': 8, 'oktober': 9, 'november': 10, 'dezember': 11
+          };
+          const month = monthMap[monthName];
+          if (month !== undefined) {
+            const date = new Date(year, month, day);
+            // Single day range
+            context.dateRange = { 
+              start: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 0, 0, 0),
+              end: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59)
+            };
+            break;
+          }
+        }
+        // DD.MM.YYYY format
+        else if (match[3] && !isNaN(parseInt(match[1])) && !isNaN(parseInt(match[2]))) {
           const day = parseInt(match[1]);
           const month = parseInt(match[2]) - 1;
           const year = parseInt(match[3]);
           const date = new Date(year, month, day);
-          context.dateRange = { start: date, end: new Date(date.getTime() + 24 * 60 * 60 * 1000) };
-        } else if (match[2] && !isNaN(parseInt(match[2]))) { // Month Year format
+          // Single day range
+          context.dateRange = { 
+            start: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 0, 0, 0),
+            end: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59)
+          };
+          break;
+        }
+        // YYYY-MM-DD format
+        else if (match[1] && match[2] && match[3] && match[1].length === 4) {
+          const year = parseInt(match[1]);
+          const month = parseInt(match[2]) - 1;
+          const day = parseInt(match[3]);
+          const date = new Date(year, month, day);
+          // Single day range
+          context.dateRange = { 
+            start: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 0, 0, 0),
+            end: new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59)
+          };
+          break;
+        }
+        // Month Year format (entire month) - only if no day specified
+        else if (match[2] && !isNaN(parseInt(match[2]))) {
           const year = parseInt(match[2]);
           const monthName = match[1].toLowerCase();
           const monthMap: { [key: string]: number } = {
@@ -149,9 +194,9 @@ export class QueryProcessor {
               start: new Date(year, month, 1),
               end: new Date(year, month + 1, 0, 23, 59, 59)
             };
+            break;
           }
         }
-        break;
       }
     }
 
@@ -170,22 +215,35 @@ export class QueryProcessor {
       }
     }
 
-    // Parse gallery names
+    // Parse gallery names - be more strict about exact matches
     const galleryPatterns = [
+      // Quoted gallery names: "galerie name" galerie/gallery
       /(?:aus|von)\s+(?:der\s+)?["']([^"']+)["']\s*(?:galerie|gallery)/gi,
       /["']([^"']+)["']\s*(?:galerie|gallery)/gi,
-      /(?:öffis|wien|arsenal)/gi
+      // Specific known galleries (exact matches only)
+      /\b(öffis|arsenal)\b(?:\s+(?:galerie|gallery))?\b/gi,
+      // Wien gallery (be more specific)
+      /\bwien\s+(?:galerie|gallery)\b/gi
     ];
 
+    const foundGalleryNames: string[] = [];
     for (const pattern of galleryPatterns) {
       const matches = [...query.matchAll(pattern)];
       if (matches.length > 0) {
-        context.galleryNames = matches.map(m => m[1] || m[0]).map(name => name.toLowerCase());
-        break;
+        matches.forEach(match => {
+          const galleryName = (match[1] || match[0]).toLowerCase().replace(/\s+(?:galerie|gallery)/, '').trim();
+          if (galleryName && !foundGalleryNames.includes(galleryName)) {
+            foundGalleryNames.push(galleryName);
+          }
+        });
       }
     }
+    
+    if (foundGalleryNames.length > 0) {
+      context.galleryNames = foundGalleryNames;
+    }
 
-    // Parse content keywords
+    // Parse content keywords - use word boundaries for exact matches
     const contentKeywords = [
       'baum', 'bäume', 'tree', 'trees',
       'regenbogen', 'rainbow',
@@ -197,16 +255,27 @@ export class QueryProcessor {
       'blume', 'blumen', 'flower', 'flowers'
     ];
 
-    const foundContent = contentKeywords.filter(keyword => query.includes(keyword));
+    const foundContent = contentKeywords.filter(keyword => {
+      const regex = new RegExp(`\\b${keyword}\\b`, 'i');
+      return regex.test(query);
+    });
+    
     if (foundContent.length > 0) {
       context.content = foundContent;
     }
 
-    // Parse quantity and random
-    const quantityMatch = query.match(/(\d+)\s*(?:zufällige|random|bilder|fotos|images)/i);
+    // Parse quantity and random - be more strict about patterns
+    const quantityMatch = query.match(/(\d+)\s*(?:zufällige|random)\s*(?:bilder|fotos|images)/i);
     if (quantityMatch) {
       context.limit = parseInt(quantityMatch[1]);
-      context.random = query.includes('zufällige') || query.includes('random');
+      context.random = true;
+    } else {
+      // Also check for non-random quantity requests
+      const simpleQuantityMatch = query.match(/(\d+)\s*(?:bilder|fotos|images)/i);
+      if (simpleQuantityMatch) {
+        context.limit = parseInt(simpleQuantityMatch[1]);
+        context.random = false;
+      }
     }
 
     return context;
@@ -221,7 +290,7 @@ export class QueryProcessor {
       let analysis = this.analysisCache.get(cacheKey);
       if (!analysis) {
         // Analyze image with Google Vision
-        const imageUrl = `${CONFIG.url}/content/galleries/${image.gallerySlug}/${encodeURI(image.filename.replaceAll(" ", "_"))}`;
+        const imageUrl = `https://photos.lucamack.at/content/galleries/${image.gallerySlug}/${encodeURI(image.filename.replaceAll(" ", "_"))}`;
         analysis = await this.visionService.analyzeImage(imageUrl);
         
         if (!analysis.error) {
@@ -231,11 +300,21 @@ export class QueryProcessor {
       }
 
       if (analysis && analysis.labels) {
+        // Be more strict - require higher confidence and exact keyword matches
         const hasContent = contentKeywords.some(keyword => 
-          analysis.labels.some((label: any) => 
-            label.description.includes(keyword) || 
-            this.translateContent(label.description).includes(keyword)
-          )
+          analysis.labels.some((label: any) => {
+            const labelDesc = label.description.toLowerCase();
+            const translatedLabel = this.translateContent(labelDesc);
+            const keywordLower = keyword.toLowerCase();
+            
+            // Require higher confidence (>0.7) and exact word matches
+            return label.confidence > 0.7 && (
+              labelDesc === keywordLower || 
+              translatedLabel === keywordLower ||
+              labelDesc.includes(keywordLower) ||
+              translatedLabel.includes(keywordLower)
+            );
+          })
         );
 
         if (hasContent) {
