@@ -23159,6 +23159,56 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Cafe Mocca' Gastgartenausgang in der S-Bahn-Station Gersthof.jpg",
+        "latitude": 48.230847,
+        "longitude": 16.328697,
+        "createDate": "2025-08-31T14:51:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                170,
+                140
+              ],
+              "hex": "#c8aa8c",
+              "percentage": "0.112"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                50
+              ],
+              "hex": "#644632",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "35.677"
+        },
+        "width": 3699,
+        "height": 3395,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
+      },
+      {
         "filename": "'Der Weg nach Europa' Metallfries in der U-Bahn Station Westbahnhof.jpg",
         "latitude": 48.196022,
         "longitude": 16.340636,
@@ -24444,6 +24494,74 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Entwerter und Stiegenaufgang zur S-Bahn-Station Ottakring S45.jpg",
+        "latitude": 48.211933,
+        "longitude": 16.311789,
+        "createDate": "2025-08-31T11:44:14.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                200,
+                170
+              ],
+              "hex": "#dcc8aa",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                0,
+                30,
+                130
+              ],
+              "hex": "#001e82",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                170,
+                60,
+                0
+              ],
+              "hex": "#aa3c00",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                130,
+                150,
+                200
+              ],
+              "hex": "#8296c8",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "41.819"
+        },
+        "width": 4277,
+        "height": 4074,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
+      },
+      {
         "filename": "Gersthof S-Bahn Station im Jugendstil von Otto Wagner 2.jpg",
         "latitude": 48.230983,
         "longitude": 16.329208,
@@ -24650,6 +24768,74 @@ export const galleries = [
         },
         "width": 3839,
         "height": 3060,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
+      },
+      {
+        "filename": "Gleise und das Ottakringer Bad (Aussenansicht).jpg",
+        "latitude": 48.221528,
+        "longitude": 16.312669,
+        "createDate": "2025-08-31T11:50:32.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.091"
+            },
+            {
+              "rgb": [
+                170,
+                140,
+                120
+              ],
+              "hex": "#aa8c78",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                140,
+                160,
+                180
+              ],
+              "hex": "#8ca0b4",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                170,
+                20,
+                20
+              ],
+              "hex": "#aa1414",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "43.142"
+        },
+        "width": 2771,
+        "height": 3648,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -24895,6 +25081,74 @@ export const galleries = [
         },
         "width": 4149,
         "height": 4434,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
+      },
+      {
+        "filename": "Hohenwarteweg in der Gersthofer-Strassse - Währing.jpg",
+        "latitude": 48.238158,
+        "longitude": 16.321936,
+        "createDate": "2025-08-31T12:19:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                200
+              ],
+              "hex": "#c8c8c8",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                40
+              ],
+              "hex": "#8c7828",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                90,
+                190,
+                250
+              ],
+              "hex": "#5abefa",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "47.724"
+        },
+        "width": 4060,
+        "height": 4624,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -25481,6 +25735,142 @@ export const galleries = [
         },
         "width": 3121,
         "height": 4668,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
+      },
+      {
+        "filename": "S-Bahn-Station Gersthof mit Bahnsteigen und Vogelschwarm.jpg",
+        "latitude": 48.23075,
+        "longitude": 16.329314,
+        "createDate": "2025-08-31T14:58:44.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                90,
+                180,
+                230
+              ],
+              "hex": "#5ab4e6",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                20,
+                50,
+                110
+              ],
+              "hex": "#14326e",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "35.113"
+        },
+        "width": 3887,
+        "height": 4453,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
+      },
+      {
+        "filename": "S-Bahn-Station Hernals Bahnsteig S45.jpg",
+        "latitude": 48.223206,
+        "longitude": 16.313994,
+        "createDate": "2025-08-31T11:50:52.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                220
+              ],
+              "hex": "#e6e6dc",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                70,
+                60,
+                50
+              ],
+              "hex": "#463c32",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                50,
+                20,
+                10
+              ],
+              "hex": "#32140a",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                0,
+                20,
+                60
+              ],
+              "hex": "#00143c",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "39.179"
+        },
+        "width": 3788,
+        "height": 4828,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -26637,6 +27027,74 @@ export const galleries = [
         ]
       },
       {
+        "filename": "U-Bahn-Station Kendlerstrasse Bahnsteige.jpg",
+        "latitude": 48.206303,
+        "longitude": 16.310333,
+        "createDate": "2025-08-31T11:39:13.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                80
+              ],
+              "hex": "#6e5a50",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                170,
+                110,
+                90
+              ],
+              "hex": "#aa6e5a",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                180,
+                170,
+                160
+              ],
+              "hex": "#b4aaa0",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                200
+              ],
+              "hex": "#e6dcc8",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "38.157"
+        },
+        "width": 3762,
+        "height": 5208,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
+      },
+      {
         "filename": "U-bahn Fensterblick Wien.jpg",
         "latitude": 48.205944,
         "longitude": 16.360808,
@@ -27082,8 +27540,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "11. April 2024 - 30. August 2025",
-    "imageCount": 71,
+    "timeframe": "11. April 2024 - 31. August 2025",
+    "imageCount": 78,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -47190,6 +47648,136 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Hernalser Friedhof durch den Zug fotografiert.jpg",
+        "latitude": 48.225406,
+        "longitude": 16.320689,
+        "createDate": "2025-08-31T15:03:08.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                10
+              ],
+              "hex": "#281e0a",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                170,
+                170,
+                160
+              ],
+              "hex": "#aaaaa0",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                40,
+                140,
+                190
+              ],
+              "hex": "#288cbe",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "44.393"
+        },
+        "width": 3728,
+        "height": 4537,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Hernalser-Hauptstrasse (Stadtauswärts) - Hernals.jpg",
+        "latitude": 48.223506,
+        "longitude": 16.315547,
+        "createDate": "2025-08-31T15:03:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.052"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                100
+              ],
+              "hex": "#826e64",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                0
+              ],
+              "hex": "#1e1400",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                30,
+                130,
+                170
+              ],
+              "hex": "#1e82aa",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "41.862"
+        },
+        "width": 3783,
+        "height": 3485,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Hochhäuser in Wien Erdberg nahe Gasometer.jpg",
         "latitude": 48.185806,
         "longitude": 16.413911,
@@ -48940,6 +49528,71 @@ export const galleries = [
         },
         "width": 3840,
         "height": 5350,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Richthausenstrasse Stadtauswärts - Hernals.jpg",
+        "latitude": 48.2249,
+        "longitude": 16.319986,
+        "createDate": "2025-08-31T15:03:13.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                0
+              ],
+              "hex": "#140a00",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                100
+              ],
+              "hex": "#826e64",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "42.207"
+        },
+        "width": 3490,
+        "height": 3443,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51320,6 +51973,62 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Wohnhaus Katholische Kirche Altottakring.jpg",
+        "latitude": 48.214194,
+        "longitude": 16.310431,
+        "createDate": "2025-08-31T15:07:02.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                220
+              ],
+              "hex": "#f0f0dc",
+              "percentage": "0.022"
+            }
+          ],
+          "colorfulness": "44.873"
+        },
+        "width": 4040,
+        "height": 4730,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Wohnhaus im Sonnenlicht in Simmering.jpg",
         "latitude": 48.172869,
         "longitude": 16.409564,
@@ -51414,6 +52123,71 @@ export const galleries = [
         },
         "width": 3236,
         "height": 4445,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Wohnhaus in der Weinheimstrasse - Ottakring.jpg",
+        "latitude": 48.214456,
+        "longitude": 16.310311,
+        "createDate": "2025-08-31T15:07:00.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                200,
+                190
+              ],
+              "hex": "#d2c8be",
+              "percentage": "0.050"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                110,
+                160,
+                190
+              ],
+              "hex": "#6ea0be",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "47.280"
+        },
+        "width": 3743,
+        "height": 4433,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51905,8 +52679,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "7. Juni 2024 - 30. August 2025",
-    "imageCount": 162,
+    "timeframe": "7. Juni 2024 - 31. August 2025",
+    "imageCount": 167,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",

@@ -18,6 +18,7 @@ const MakePostcard = lazy(() => import("./components/pages/MakePostcard"));
 const Statistics = lazy(() => import("./components/pages/Statistics"));
 const Filter = lazy(() => import("./components/pages/Filter"));
 const Tags = lazy(() => import("./components/pages/Tags"));
+const Intelligence = lazy(() => import("./components/pages/Intelligence"));
 const ImageDetails = lazy(() => import("./components/pages/ImageDetails"));
 const NotFound = lazy(() => import("./components/pages/NotFound"));
 
@@ -120,6 +121,10 @@ function App() {
             <Route
               path="/app/tags"
               element={<Tags />}
+            />
+            <Route
+              path="/app/intelligence"
+              element={<Intelligence />}
             />
             <Route
               path="*"

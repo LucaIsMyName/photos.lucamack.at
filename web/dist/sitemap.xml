@@ -1976,6 +1976,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/cafe-mocca-gastgartenausgang-in-der-s-bahn-station-gersthof</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/der-weg-nach-europa-metallfries-in-der-u-bahn-station-westbahnhof</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -2091,6 +2096,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/entwerter-und-stiegenaufgang-zur-s-bahn-station-ottakring-s45</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/gersthof-s-bahn-station-im-jugendstil-von-otto-wagner-2</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -2111,6 +2121,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/gleise-und-das-ottakringer-bad-aussenansicht</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/handelskai-bahnsteig-u-bahn-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -2127,6 +2142,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/hauptbahnhof-halle-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/hohenwarteweg-in-der-gersthofer-strassse-wahring</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2182,6 +2202,16 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/s-und-u-bahn-station-simmering-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/s-bahn-station-gersthof-mit-bahnsteigen-und-vogelschwarm</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/s-bahn-station-hernals-bahnsteig-s45</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2282,6 +2312,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/u-bahn-station-vorgartenstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/u-bahn-station-kendlerstrasse-bahnsteige</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4046,6 +4081,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/hernalser-friedhof-durch-den-zug-fotografiert</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/hernalser-hauptstrasse-stadtauswarts-hernals</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/hochhauser-in-wien-erdberg-nahe-gasometer</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4187,6 +4232,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/plastikfaser-zaun-mulltonnen-und-ein-haus-dahinter</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/richthausenstrasse-stadtauswarts-hernals</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4381,12 +4431,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/wohnhaus-katholische-kirche-altottakring</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/wohnhaus-im-sonnenlicht-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/wohnhaus-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/wohnhaus-in-der-weinheimstrasse-ottakring</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

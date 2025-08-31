@@ -24,7 +24,8 @@ const appRoutes = [
   { name: "Liste", path: "/app/list", icon: <Layout size={16} /> },
   { name: "Karte", path: "/app/map", icon: <Layout size={16} /> },
   { name: "Filter", path: "/app/filter", icon: <Layout size={16} /> },
-  { name: "Timeline", path: "/app/timeline", icon: <Layout size={16} /> }
+  { name: "Timeline", path: "/app/timeline", icon: <Layout size={16} /> },
+  { name: "Tags", path: "/app/tags", icon: <Layout size={16} /> }
 ];
 
 interface CommandPaletteProps {

@@ -9,6 +9,7 @@
  * @property {Object} mapbox - The mapbox configuration of the application.
  * @property {Object} systemMessages - The system messages of the application.
  */
+
 export const CONFIG = {
   author: "Luca Mack",
   description: "Luca Mack | Fotos",

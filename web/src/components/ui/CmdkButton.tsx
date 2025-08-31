@@ -22,8 +22,8 @@ const CmdkButton = ({ iconToRight = false, hasKeyboardShortcut = true, iconSize 
       aria-label={ariaLabel || "Suche nach Fotos, Serien, Apps und Seiten öffnen"}>
       <Search size={iconSize} />
       {hasKeyboardShortcut && (
-        <kbd className={`ml-auto inline-flex select-none items-center gap-1 font-mono text-xs font-medium opacity-30 ${theme === "light" ? "" : ""}`}>
-          <span className="text-[1.3em]">⌘</span>+ K
+        <kbd className={`ml-auto inline-flex select-none items-center gap-1 font-mono text-xs font-medium opacity-80 ${theme === "light" ? "" : ""}`}>
+          {theme === "light" ? <img className="h-4 w-auto" src="/cmdk-lightmode.png" alt="Cmd + K" /> : <img className="h-4 w-auto" src="/cmdk-darkmode.png" alt="Cmd + K" />}
         </kbd>
       )}
     </button>

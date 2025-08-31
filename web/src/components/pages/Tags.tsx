@@ -176,9 +176,9 @@ const Tags = () => {
           })}
         </div>
       ) : (
-        <div className={`text-center py-12 ${theme === "light" ? "text-gray-500" : "text-gray-400"}`}>
-          <p className="text-lg mb-2">No galleries found</p>
-          <p className="text-sm">{selectedTags.length > 0 ? "Try selecting fewer tags or different combinations" : "No galleries have tags assigned yet"}</p>
+        <div className={` py-12 ${theme === "light" ? "text-gray-500" : "text-gray-400"}`}>
+          <p className="text-lg mb-2">Keine Serien gefunden</p>
+          <p className="text-sm">{selectedTags.length > 0 ? "Versuche weniger Tag-Kombinationen" : "Keine Fotoserien haben diese Tags"}</p>
         </div>
       )}
     </div>
