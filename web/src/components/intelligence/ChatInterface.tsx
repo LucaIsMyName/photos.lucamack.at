@@ -43,11 +43,11 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ messages, onSendMessage, 
 
 
   const exampleQueries = [
-    "Show me images from May 2023",
-    "Find photos with trees", 
-    "3 random images from 'vacation' gallery",
-    "Images taken in Vienna",
-    "Photos with people from last year"
+    "Show me photos from last week",
+    "I want to see pictures with trees and buildings", 
+    "Can you find 5 random images with people?",
+    "What photos do I have from Vienna?",
+    "Show me beautiful landscape photos from this year"
   ];
 
   const handleSuggestionClick = (query: string) => {

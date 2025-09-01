@@ -43,7 +43,7 @@ const Home = () => {
     <div className="h-full w-full relative overflow-hidden">
       <SeoHead
         title={`Fotos | ${CONFIG.meta.title}`}
-        description={`Momente und Fotoserien von ${CONFIG.meta.title}.`}
+        description={`Momente und Fotoserien von ${CONFIG.meta.title}. Creative Commons lizensierte Fotos von Wien, Berlin, Salzburg, Schweiz, ...`}
         imageUrl={window.location.origin + imageDetails?.src}
       />
       <div className={cn("absolute inset-0 bottom-[12vh] md:bottom-0 py-12 pb-24 px-8 md:p-20 lg:p-24")}>

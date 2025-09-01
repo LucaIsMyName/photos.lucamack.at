@@ -81,8 +81,9 @@ const Intelligence: React.FC = () => {
       theme === 'dark' ? 'bg-black text-white' : 'bg-white text-black'
     }`}>
       <SeoHead
-        title={`AI Photo Intelligence | ${CONFIG.meta.title}`}
-        description="AI-powered photo search and analysis"
+        title={`KI Foto Chat | ${CONFIG.meta.title}`}
+        description="Chatte mit einem KI über alle Bilder auf dieser Website"
+        noIndex={true}
       />
       
       {!apiKey ? (

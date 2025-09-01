@@ -2151,11 +2151,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/oeffis/image/hohenwarteweg-in-der-gersthofer-strassse-wahring</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/imbiss-endstation-simmering-u-bahn-station-wien</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4102,6 +4097,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/hochhauser-in-wien-erdberg-nahe-gasometer</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/hohenwarteweg-in-der-gersthofer-strassse-wahring</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

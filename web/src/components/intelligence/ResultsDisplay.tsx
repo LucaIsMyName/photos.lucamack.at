@@ -2,6 +2,7 @@ import { useTheme } from '../../contexts/ThemeContext';
 import { Calendar, MapPin, Eye } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { getImageUrl } from '../../utils/imageUtils';
+import { slugify } from '../../utils/slugify';
 
 interface ResultImage {
   filename: string;
@@ -62,7 +63,7 @@ const ResultsDisplay: React.FC<ResultsDisplayProps> = ({ images, message }) => {
               theme === 'dark' ? 'bg-black border-white' : 'bg-white border-black'
             }`}
           >
-            <Link to={`/gallery/${image.gallerySlug}/image/${encodeURIComponent(image.filename.replace(/\.[^/.]+$/, ''))}`}>
+            <Link to={`/gallery/${image.gallerySlug}/image/${slugify(image.filename.replace(/\.[^/.]+$/, ''))}`}>
               <div className="aspect-square overflow-hidden">
                 <img
                   src={getImageUrl(image.gallerySlug, image.filename, '380')}

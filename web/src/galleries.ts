@@ -12401,6 +12401,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -12471,6 +12472,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -12541,6 +12543,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -12593,6 +12596,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -12645,6 +12649,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -12697,6 +12702,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -12749,6 +12755,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -12810,6 +12817,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -12862,6 +12870,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -12914,6 +12923,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -12957,6 +12967,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13009,6 +13020,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13070,6 +13082,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13140,6 +13153,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13210,6 +13224,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13253,6 +13268,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13314,6 +13330,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13384,6 +13401,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13445,6 +13463,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13497,6 +13516,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13549,6 +13569,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13601,6 +13622,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13671,6 +13693,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13732,6 +13755,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13793,6 +13817,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13863,6 +13888,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13924,6 +13950,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -13967,6 +13994,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -14028,6 +14056,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -14071,6 +14100,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -14114,6 +14144,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -14166,6 +14197,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -14227,6 +14259,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -14279,6 +14312,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -14340,6 +14374,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -14401,6 +14436,7 @@ export const galleries = [
         "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
         "tags": [
           "Österreich",
+          "Steiermark",
           "Architektur",
           "Stadt",
           "Konzert",
@@ -14417,6 +14453,7 @@ export const galleries = [
     "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
     "tags": [
       "Österreich",
+      "Steiermark",
       "Architektur",
       "Stadt",
       "Konzert",
@@ -14428,7 +14465,7 @@ export const galleries = [
     "name": "im-museum",
     "slug": "im-museum",
     "title": "Im Museum",
-    "description": "Gemälde, Skulpturen, kleine Taferl, viel zum schauen",
+    "description": "Gemälde, Skulpturen, Steine & Gurken",
     "images": [
       {
         "filename": "'Analoge Systeme' Gemälde in der neuen Nationalgalerie.jpg",
@@ -14501,6 +14538,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -14567,6 +14605,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -14624,6 +14663,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -14690,6 +14730,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -14765,6 +14806,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -14822,6 +14864,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -14888,6 +14931,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -14936,6 +14980,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -14993,6 +15038,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15068,6 +15114,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15134,6 +15181,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15200,6 +15248,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15257,6 +15306,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15332,6 +15382,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15389,6 +15440,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15446,6 +15498,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15494,6 +15547,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15560,6 +15614,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15635,6 +15690,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15710,6 +15766,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15758,6 +15815,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15824,6 +15882,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15890,6 +15949,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -15956,6 +16016,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16022,6 +16083,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16079,6 +16141,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16154,6 +16217,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16220,6 +16284,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16277,6 +16342,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16325,6 +16391,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16373,6 +16440,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16430,6 +16498,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16487,6 +16556,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16562,6 +16632,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16637,6 +16708,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16694,6 +16766,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16751,6 +16824,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16817,6 +16891,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16874,6 +16949,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16931,6 +17007,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -16988,6 +17065,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -17045,6 +17123,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -17120,6 +17199,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -17186,6 +17266,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -17243,6 +17324,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -17309,6 +17391,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -17366,6 +17449,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -17423,6 +17507,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -17480,6 +17565,7 @@ export const galleries = [
           "Kunst",
           "Gemälde",
           "Skulpturen",
+          "Statuen",
           "Taferl",
           "Museum"
         ]
@@ -17501,6 +17587,7 @@ export const galleries = [
       "Kunst",
       "Gemälde",
       "Skulpturen",
+      "Statuen",
       "Taferl",
       "Museum"
     ]
@@ -25152,74 +25239,6 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Hohenwarteweg in der Gersthofer-Strassse - Währing.jpg",
-        "latitude": 48.238158,
-        "longitude": 16.321936,
-        "createDate": "2025-08-31T12:19:01.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.040"
-            },
-            {
-              "rgb": [
-                240,
-                240,
-                230
-              ],
-              "hex": "#f0f0e6",
-              "percentage": "0.022"
-            },
-            {
-              "rgb": [
-                200,
-                200,
-                200
-              ],
-              "hex": "#c8c8c8",
-              "percentage": "0.018"
-            },
-            {
-              "rgb": [
-                140,
-                120,
-                40
-              ],
-              "hex": "#8c7828",
-              "percentage": "0.003"
-            },
-            {
-              "rgb": [
-                90,
-                190,
-                250
-              ],
-              "hex": "#5abefa",
-              "percentage": "0.000"
-            }
-          ],
-          "colorfulness": "47.724"
-        },
-        "width": 4060,
-        "height": 4624,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Wien",
-          "Österreich",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
         "filename": "Imbiss Endstation Simmering U-Bahn Station Wien.jpg",
         "latitude": 48.169933,
         "longitude": 16.420058,
@@ -27600,7 +27619,7 @@ export const galleries = [
       }
     ],
     "timeframe": "11. April 2024 - 31. August 2025",
-    "imageCount": 79,
+    "imageCount": 78,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -47967,6 +47986,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Hohenwarteweg in der Gersthofer-Strassse - Währing.jpg",
+        "latitude": 48.238158,
+        "longitude": 16.321936,
+        "createDate": "2025-08-31T12:19:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                200
+              ],
+              "hex": "#c8c8c8",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                40
+              ],
+              "hex": "#8c7828",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                90,
+                190,
+                250
+              ],
+              "hex": "#5abefa",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "47.724"
+        },
+        "width": 4060,
+        "height": 4624,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Hyblerpark und Wohnhäuser.jpg",
         "latitude": 48.181586,
         "longitude": 16.411972,
@@ -52860,7 +52953,7 @@ export const galleries = [
       }
     ],
     "timeframe": "7. Juni 2024 - 31. August 2025",
-    "imageCount": 169,
+    "imageCount": 170,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
