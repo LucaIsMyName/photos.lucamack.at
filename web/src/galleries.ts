@@ -695,6 +695,1538 @@ export const galleries = [
     ]
   },
   {
+    "name": "baden-gehen",
+    "slug": "baden-gehen",
+    "title": "Baden gehen",
+    "description": "Nach Baden fahren & baden in Bad Vöslau",
+    "images": [
+      {
+        "filename": "'Cafe Central' am Hauptplatz in Baden.jpg",
+        "latitude": 48.007539,
+        "longitude": 16.234428,
+        "createDate": "2025-09-13T12:34:06.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                190,
+                190
+              ],
+              "hex": "#b4bebe",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                170,
+                120,
+                90
+              ],
+              "hex": "#aa785a",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                110,
+                70,
+                40
+              ],
+              "hex": "#6e4628",
+              "percentage": "0.015"
+            }
+          ],
+          "colorfulness": "39.597"
+        },
+        "width": 4031,
+        "height": 2635
+      },
+      {
+        "filename": "'Springen verboten' Schriftzug im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967114,
+        "longitude": 16.212047,
+        "createDate": "2025-09-13T14:29:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                100,
+                80
+              ],
+              "hex": "#826450",
+              "percentage": "0.091"
+            },
+            {
+              "rgb": [
+                90,
+                190,
+                210
+              ],
+              "hex": "#5abed2",
+              "percentage": "0.019"
+            }
+          ],
+          "colorfulness": "33.878"
+        },
+        "width": 5286,
+        "height": 2301
+      },
+      {
+        "filename": "'Warmduschen' Schriftzug im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967225,
+        "longitude": 16.212408,
+        "createDate": "2025-09-13T14:29:55.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                210
+              ],
+              "hex": "#e6dcd2",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                90
+              ],
+              "hex": "#96785a",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "42.481"
+        },
+        "width": 3881,
+        "height": 3871
+      },
+      {
+        "filename": "Bahnhof Baden und Arthur-Schnitzler-Park.jpg",
+        "latitude": 48.003958,
+        "longitude": 16.242883,
+        "createDate": "2025-09-13T12:49:12.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                10,
+                0,
+                0
+              ],
+              "hex": "#0a0000",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                170
+              ],
+              "hex": "#d2c8aa",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                150,
+                160,
+                170
+              ],
+              "hex": "#96a0aa",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "40.547"
+        },
+        "width": 4385,
+        "height": 4245
+      },
+      {
+        "filename": "Dach und Schwimmbecken im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967231,
+        "longitude": 16.210158,
+        "createDate": "2025-09-13T13:54:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                0
+              ],
+              "hex": "#1e1400",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                70
+              ],
+              "hex": "#aa9646",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                210,
+                230,
+                230
+              ],
+              "hex": "#d2e6e6",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "41.556"
+        },
+        "width": 5052,
+        "height": 3237
+      },
+      {
+        "filename": "Denkmal für Josef Krupka, Stadtgartendirektor von Baden.jpg",
+        "latitude": 48.011239,
+        "longitude": 16.231872,
+        "createDate": "2025-09-13T10:21:42.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                110
+              ],
+              "hex": "#96826e",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                210
+              ],
+              "hex": "#e6dcd2",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "37.534"
+        },
+        "width": 3202,
+        "height": 5014
+      },
+      {
+        "filename": "Detailaufnahme des Brunnen vor der Bühne Baden.jpg",
+        "latitude": 48.009003,
+        "longitude": 16.235303,
+        "createDate": "2025-09-13T10:51:26.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.050"
+            },
+            {
+              "rgb": [
+                190,
+                200,
+                210
+              ],
+              "hex": "#bec8d2",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                210
+              ],
+              "hex": "#faf0d2",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                50,
+                50,
+                50
+              ],
+              "hex": "#323232",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "45.219"
+        },
+        "width": 3411,
+        "height": 4265
+      },
+      {
+        "filename": "Detailaufnahme des Pestsäule am Hauptplatz Baden.jpg",
+        "latitude": 48.007708,
+        "longitude": 16.234458,
+        "createDate": "2025-09-13T12:29:45.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                120
+              ],
+              "hex": "#a08c78",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                200,
+                80,
+                90
+              ],
+              "hex": "#c8505a",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "41.449"
+        },
+        "width": 5246,
+        "height": 3934
+      },
+      {
+        "filename": "Duschen im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967031,
+        "longitude": 16.211497,
+        "createDate": "2025-09-13T13:48:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                200,
+                240
+              ],
+              "hex": "#82c8f0",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                10
+              ],
+              "hex": "#32280a",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "47.728"
+        },
+        "width": 3416,
+        "height": 4892
+      },
+      {
+        "filename": "Duschen und Statue im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967214,
+        "longitude": 16.211897,
+        "createDate": "2025-09-13T13:47:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                40,
+                40,
+                30
+              ],
+              "hex": "#28281e",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "40.663"
+        },
+        "width": 4803,
+        "height": 2906
+      },
+      {
+        "filename": "Eingang zum Thermalbad und Wandgemälde in Bad Vöslau.jpg",
+        "latitude": 47.967289,
+        "longitude": 16.212744,
+        "createDate": "2025-09-13T13:44:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                210,
+                160
+              ],
+              "hex": "#f0d2a0",
+              "percentage": "0.062"
+            },
+            {
+              "rgb": [
+                120,
+                70,
+                40
+              ],
+              "hex": "#784628",
+              "percentage": "0.027"
+            }
+          ],
+          "colorfulness": "43.546"
+        },
+        "width": 3789,
+        "height": 4036
+      },
+      {
+        "filename": "Hausmauer und Ahorn-Blätter in Baden.jpg",
+        "latitude": 48.009206,
+        "longitude": 16.230861,
+        "createDate": "2025-09-13T10:38:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                200,
+                140
+              ],
+              "hex": "#f0c88c",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                70,
+                10,
+                0
+              ],
+              "hex": "#460a00",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                160,
+                100,
+                60
+              ],
+              "hex": "#a0643c",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "42.354"
+        },
+        "width": 3803,
+        "height": 5071
+      },
+      {
+        "filename": "IMG_6308.jpg",
+        "latitude": 47.967214,
+        "longitude": 16.211697,
+        "createDate": "2025-09-13T14:25:44.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                230,
+                230
+              ],
+              "hex": "#dce6e6",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                210,
+                180,
+                160
+              ],
+              "hex": "#d2b4a0",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                130,
+                100,
+                80
+              ],
+              "hex": "#826450",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "42.050"
+        },
+        "width": 2567,
+        "height": 3886
+      },
+      {
+        "filename": "Jubiläums-Aussicht im Kurpark Baden.jpg",
+        "latitude": 48.011517,
+        "longitude": 16.232931,
+        "createDate": "2025-09-13T10:18:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                40,
+                20
+              ],
+              "hex": "#322814",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                180
+              ],
+              "hex": "#dcc8b4",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                160,
+                150,
+                60
+              ],
+              "hex": "#a0963c",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "39.576"
+        },
+        "width": 3367,
+        "height": 4046
+      },
+      {
+        "filename": "Kabinen und Grünflächen im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.9674,
+        "longitude": 16.209983,
+        "createDate": "2025-09-13T13:56:08.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                100,
+                80,
+                30
+              ],
+              "hex": "#64501e",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                160,
+                150,
+                140
+              ],
+              "hex": "#a0968c",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "45.478"
+        },
+        "width": 3724,
+        "height": 3786
+      },
+      {
+        "filename": "Kabinen und Kabanen im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967183,
+        "longitude": 16.210781,
+        "createDate": "2025-09-13T13:50:42.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                100
+              ],
+              "hex": "#d2d264",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                100,
+                100,
+                30
+              ],
+              "hex": "#64641e",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                130
+              ],
+              "hex": "#b4a082",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                200
+              ],
+              "hex": "#dcd2c8",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "43.244"
+        },
+        "width": 3963,
+        "height": 3485
+      },
+      {
+        "filename": "Kabinengang im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967169,
+        "longitude": 16.211117,
+        "createDate": "2025-09-13T13:51:49.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                190,
+                150
+              ],
+              "hex": "#dcbe96",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                190,
+                130,
+                60
+              ],
+              "hex": "#be823c",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                70,
+                30,
+                0
+              ],
+              "hex": "#461e00",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                200
+              ],
+              "hex": "#fae6c8",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "39.017"
+        },
+        "width": 3439,
+        "height": 4502
+      },
+      {
+        "filename": "Kassa und Wandgemälde im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967289,
+        "longitude": 16.212742,
+        "createDate": "2025-09-13T13:44:55.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                90,
+                60
+              ],
+              "hex": "#825a3c",
+              "percentage": "0.090"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                140
+              ],
+              "hex": "#aa968c",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                140,
+                190,
+                220
+              ],
+              "hex": "#8cbedc",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "38.565"
+        },
+        "width": 2117,
+        "height": 3642
+      },
+      {
+        "filename": "Kirche und Wald in Bad Vöslau.jpg",
+        "latitude": 47.967342,
+        "longitude": 16.209597,
+        "createDate": "2025-09-13T14:20:49.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.063"
+            },
+            {
+              "rgb": [
+                130,
+                100,
+                30
+              ],
+              "hex": "#82641e",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                160,
+                180,
+                190
+              ],
+              "hex": "#a0b4be",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "49.874"
+        },
+        "width": 3141,
+        "height": 3701
+      },
+      {
+        "filename": "Kleine Kapelle beim Kurpark Baden.jpg",
+        "latitude": 48.009514,
+        "longitude": 16.229083,
+        "createDate": "2025-09-13T10:36:48.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                130,
+                40
+              ],
+              "hex": "#c88228",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                200
+              ],
+              "hex": "#faf0c8",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "35.140"
+        },
+        "width": 3796,
+        "height": 5598
+      },
+      {
+        "filename": "Pavillion im Kurpark Baden.jpg",
+        "latitude": 48.010611,
+        "longitude": 16.233531,
+        "createDate": "2025-09-13T10:13:18.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.052"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                50
+              ],
+              "hex": "#644632",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                110,
+                190,
+                230
+              ],
+              "hex": "#6ebee6",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "43.496"
+        },
+        "width": 5263,
+        "height": 3826
+      },
+      {
+        "filename": "Pestsäule (Nahaufnahme) am Hauptplatz Baden.jpg",
+        "latitude": 48.007653,
+        "longitude": 16.234431,
+        "createDate": "2025-09-13T12:28:10.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                200,
+                210
+              ],
+              "hex": "#bec8d2",
+              "percentage": "0.052"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                90,
+                60,
+                50
+              ],
+              "hex": "#5a3c32",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "39.573"
+        },
+        "width": 3813,
+        "height": 5317
+      },
+      {
+        "filename": "Pestsäule am Hauptplatz von Baden.jpg",
+        "latitude": 48.007942,
+        "longitude": 16.234339,
+        "createDate": "2025-09-13T12:27:13.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                160,
+                160
+              ],
+              "hex": "#a0a0a0",
+              "percentage": "0.081"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "39.318"
+        },
+        "width": 2738,
+        "height": 3640
+      },
+      {
+        "filename": "Schwimmbecken, Restaurant und Kabanen im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967194,
+        "longitude": 16.210811,
+        "createDate": "2025-09-13T13:50:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                40,
+                10
+              ],
+              "hex": "#32280a",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                140,
+                190,
+                210
+              ],
+              "hex": "#8cbed2",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                230,
+                190,
+                140
+              ],
+              "hex": "#e6be8c",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "39.546"
+        },
+        "width": 3455,
+        "height": 3829
+      },
+      {
+        "filename": "Spiegelungen eines Fensters inder Innenstadt von Baden.jpg",
+        "latitude": 48.006217,
+        "longitude": 16.233131,
+        "createDate": "2025-09-13T09:53:00.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                190,
+                190
+              ],
+              "hex": "#bebebe",
+              "percentage": "0.086"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                130,
+                90,
+                70
+              ],
+              "hex": "#825a46",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "43.580"
+        },
+        "width": 3511,
+        "height": 4407
+      },
+      {
+        "filename": "Stadt-Theater Baden (Frontale).jpg",
+        "latitude": 48.009061,
+        "longitude": 16.235292,
+        "createDate": "2025-09-13T10:51:44.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                230,
+                190
+              ],
+              "hex": "#fae6be",
+              "percentage": "0.041"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                160
+              ],
+              "hex": "#a0a0a0",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "34.097"
+        },
+        "width": 3581,
+        "height": 4396
+      },
+      {
+        "filename": "Stadtgemeinfe Bad Vöslau Schiftzug und Wappen.jpg",
+        "latitude": 47.96905,
+        "longitude": 16.223278,
+        "createDate": "2025-09-13T12:56:10.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.047"
+            },
+            {
+              "rgb": [
+                100,
+                120,
+                120
+              ],
+              "hex": "#647878",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                70,
+                60,
+                30
+              ],
+              "hex": "#463c1e",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                10,
+                150,
+                200
+              ],
+              "hex": "#0a96c8",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "43.467"
+        },
+        "width": 5244,
+        "height": 3472
+      },
+      {
+        "filename": "Statue und Schwimmbecken im Thermal Bad Vöslau.jpg",
+        "latitude": 47.967169,
+        "longitude": 16.211614,
+        "createDate": "2025-09-13T14:25:14.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.057"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                0
+              ],
+              "hex": "#281e00",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                100
+              ],
+              "hex": "#967864",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "48.183"
+        },
+        "width": 5211,
+        "height": 3998
+      },
+      {
+        "filename": "Statue und Sessel beim Eingang Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967106,
+        "longitude": 16.212772,
+        "createDate": "2025-09-13T14:45:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                150,
+                130
+              ],
+              "hex": "#b49682",
+              "percentage": "0.097"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                20
+              ],
+              "hex": "#321e14",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                170,
+                100,
+                30
+              ],
+              "hex": "#aa641e",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                60
+              ],
+              "hex": "#6e503c",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "38.337"
+        },
+        "width": 4048,
+        "height": 5427
+      },
+      {
+        "filename": "Strauss Denkmal im Kurpark Baden.jpg",
+        "latitude": 48.011192,
+        "longitude": 16.233464,
+        "createDate": "2025-09-13T10:14:24.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                100,
+                190,
+                240
+              ],
+              "hex": "#64bef0",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                50
+              ],
+              "hex": "#a0a032",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                190,
+                150,
+                140
+              ],
+              "hex": "#be968c",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "52.065"
+        },
+        "width": 4400,
+        "height": 3895
+      },
+      {
+        "filename": "Text der Europahymne in einem Fenster in Baden.jpg",
+        "latitude": 48.007678,
+        "longitude": 16.232892,
+        "createDate": "2025-09-13T10:04:12.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                190,
+                130
+              ],
+              "hex": "#fabe82",
+              "percentage": "0.131"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                110
+              ],
+              "hex": "#a0826e",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                200,
+                130,
+                60
+              ],
+              "hex": "#c8823c",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "33.033"
+        },
+        "width": 4133,
+        "height": 5511
+      },
+      {
+        "filename": "Uhr am Bahnhof Baden.jpg",
+        "latitude": 48.004078,
+        "longitude": 16.242583,
+        "createDate": "2025-09-13T16:11:16.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                50,
+                40
+              ],
+              "hex": "#3c3228",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                150
+              ],
+              "hex": "#aaa096",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                110
+              ],
+              "hex": "#8c786e",
+              "percentage": "0.017"
+            }
+          ],
+          "colorfulness": "35.459"
+        },
+        "width": 5134,
+        "height": 3135
+      },
+      {
+        "filename": "Umkleidekabinen im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967092,
+        "longitude": 16.211917,
+        "createDate": "2025-09-13T13:46:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.056"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                90,
+                60,
+                30
+              ],
+              "hex": "#5a3c1e",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                240,
+                190,
+                130
+              ],
+              "hex": "#f0be82",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                170,
+                90,
+                0
+              ],
+              "hex": "#aa5a00",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "49.828"
+        },
+        "width": 3602,
+        "height": 4419
+      },
+      {
+        "filename": "Wald und Schwimmbecken im Thermalbad Bad Vöslau.jpg",
+        "latitude": 47.967042,
+        "longitude": 16.209719,
+        "createDate": "2025-09-13T14:00:22.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                70,
+                30
+              ],
+              "hex": "#50461e",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                170,
+                200,
+                210
+              ],
+              "hex": "#aac8d2",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "39.035"
+        },
+        "width": 3767,
+        "height": 2929
+      }
+    ],
+    "timeframe": "13. September 2025",
+    "imageCount": 34
+  },
+  {
     "name": "berlin",
     "slug": "berlin",
     "title": "Berlin",
@@ -10959,6 +12491,56 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Mehrere Einkaufswagerln in Hasenleiten - Simmering.jpg",
+        "latitude": 48.167297,
+        "longitude": 16.417231,
+        "createDate": "2025-09-11T19:26:22.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.112"
+            },
+            {
+              "rgb": [
+                200,
+                170,
+                150
+              ],
+              "hex": "#c8aa96",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                200
+              ],
+              "hex": "#fae6c8",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "33.521"
+        },
+        "width": 2849,
+        "height": 2602,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Wien",
+          "Berlin"
+        ]
+      },
+      {
         "filename": "Umgefallenes Einkaufswagerl in Simmering.jpg",
         "latitude": 48.164283,
         "longitude": 16.418681,
@@ -11050,8 +12632,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "28. Juli 2024 - 20. August 2025",
-    "imageCount": 8,
+    "timeframe": "28. Juli 2024 - 11. September 2025",
+    "imageCount": 9,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -42637,6 +44219,53 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Everyone has the right to rest and leisure...' - Menschenrechte in Bildform in der UNO-City.jpg",
+        "latitude": 48.235775,
+        "longitude": 16.415333,
+        "createDate": "2025-09-10T09:44:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.093"
+            },
+            {
+              "rgb": [
+                180,
+                90,
+                0
+              ],
+              "hex": "#b45a00",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "26.823"
+        },
+        "width": 3717,
+        "height": 4787,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "'Gartenbaukino' Schriftzug am Stubenring.jpg",
         "latitude": 48.205733,
         "longitude": 16.378619,
@@ -42684,6 +44313,71 @@ export const galleries = [
         },
         "width": 3855,
         "height": 3039,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "'Pizza Marina' in der Simmeringer Hauptstrasse.jpg",
+        "latitude": 48.162342,
+        "longitude": 16.428136,
+        "createDate": "2025-09-12T15:59:49.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                170,
+                70
+              ],
+              "hex": "#a0aa46",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                20
+              ],
+              "hex": "#281414",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                210
+              ],
+              "hex": "#d2d2d2",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                180,
+                170,
+                170
+              ],
+              "hex": "#b4aaaa",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "41.761"
+        },
+        "width": 2686,
+        "height": 3365,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44154,6 +45848,118 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Besucherbereich, Brunnen und Fahnen in der UNO-City.jpg",
+        "latitude": 48.233722,
+        "longitude": 16.417125,
+        "createDate": "2025-09-10T08:30:13.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.100"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                150
+              ],
+              "hex": "#aaa096",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                90,
+                80,
+                70
+              ],
+              "hex": "#5a5046",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "40.081"
+        },
+        "width": 3532,
+        "height": 5209,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Blick über Floridsdorf von der UNO-City aus.jpg",
+        "latitude": 48.235772,
+        "longitude": 16.415328,
+        "createDate": "2025-09-10T09:49:33.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.081"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.032"
+            }
+          ],
+          "colorfulness": "52.249"
+        },
+        "width": 3765,
+        "height": 4031,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Blumen-Buquets vor einem Asphaltboden in Simmering.jpg",
         "latitude": 48.169933,
         "longitude": 16.427206,
@@ -44201,6 +46007,71 @@ export const galleries = [
         },
         "width": 4028,
         "height": 3898,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Brunnen, Fahnen und Bürohaus in der UNO-City.jpg",
+        "latitude": 48.234086,
+        "longitude": 16.416667,
+        "createDate": "2025-09-10T10:49:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.073"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                100,
+                80,
+                50
+              ],
+              "hex": "#645032",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "36.513"
+        },
+        "width": 5224,
+        "height": 3728,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44535,6 +46406,62 @@ export const galleries = [
         },
         "width": 3588,
         "height": 5156,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Donauturm in Donaustadt von der UNO-City aus.jpg",
+        "latitude": 48.235772,
+        "longitude": 16.415333,
+        "createDate": "2025-09-10T09:46:19.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.172"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                120,
+                140,
+                150
+              ],
+              "hex": "#788c96",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "49.547"
+        },
+        "width": 3817,
+        "height": 4015,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -45084,6 +47011,71 @@ export const galleries = [
         },
         "width": 4052,
         "height": 4389,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Eingang der UNO-City in der Wagramer Strasse.jpg",
+        "latitude": 48.233283,
+        "longitude": 16.417114,
+        "createDate": "2025-09-10T07:55:53.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.120"
+            },
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                80
+              ],
+              "hex": "#6e5050",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "32.730"
+        },
+        "width": 4056,
+        "height": 6241,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46071,29 +48063,11 @@ export const galleries = [
       },
       {
         "filename": "Fassade und Baum Widholz-Hof.jpg",
-        "latitude": 48.174494,
-        "longitude": 16.410661,
-        "createDate": "2025-05-10T11:24:28.000Z",
+        "latitude": 48.174464,
+        "longitude": 16.410744,
+        "createDate": "2025-09-12T16:39:09.000Z",
         "colorData": {
           "dominantColors": [
-            {
-              "rgb": [
-                30,
-                20,
-                10
-              ],
-              "hex": "#1e140a",
-              "percentage": "0.016"
-            },
-            {
-              "rgb": [
-                150,
-                130,
-                110
-              ],
-              "hex": "#96826e",
-              "percentage": "0.010"
-            },
             {
               "rgb": [
                 240,
@@ -46101,22 +48075,31 @@ export const galleries = [
                 210
               ],
               "hex": "#f0e6d2",
-              "percentage": "0.008"
+              "percentage": "0.027"
             },
             {
               "rgb": [
-                150,
-                210,
-                240
+                130,
+                110,
+                100
               ],
-              "hex": "#96d2f0",
-              "percentage": "0.001"
+              "hex": "#826e64",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                0
+              ],
+              "hex": "#321e00",
+              "percentage": "0.008"
             }
           ],
-          "colorfulness": "33.586"
+          "colorfulness": "38.789"
         },
-        "width": 3830,
-        "height": 5107,
+        "width": 3742,
+        "height": 4233,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47065,6 +49048,71 @@ export const galleries = [
         },
         "width": 3849,
         "height": 4802,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Gemeindebau in der Weissenböckstrasse - Simmering.jpg",
+        "latitude": 48.161922,
+        "longitude": 16.428836,
+        "createDate": "2025-09-12T16:01:00.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                210,
+                230
+              ],
+              "hex": "#96d2e6",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                150,
+                140,
+                140
+              ],
+              "hex": "#968c8c",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                230,
+                240,
+                230
+              ],
+              "hex": "#e6f0e6",
+              "percentage": "0.015"
+            }
+          ],
+          "colorfulness": "43.502"
+        },
+        "width": 2804,
+        "height": 3488,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50200,6 +52248,71 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Seminar- und Konferenz-Bestuhlung aus den 1970er Jahren in der UNO-City.jpg",
+        "latitude": 48.235767,
+        "longitude": 16.415328,
+        "createDate": "2025-09-10T09:50:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                30,
+                20
+              ],
+              "hex": "#321e14",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                10,
+                80,
+                100
+              ],
+              "hex": "#0a5064",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                240,
+                210,
+                170
+              ],
+              "hex": "#f0d2aa",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                130,
+                180,
+                200
+              ],
+              "hex": "#82b4c8",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "38.091"
+        },
+        "width": 5434,
+        "height": 3988,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Simmering U-Bahn Stadtauswärts.jpg",
         "latitude": 48.169636,
         "longitude": 16.420636,
@@ -51343,6 +53456,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Strasse und Hausfassaden in und um die UNO-City in Kaisermühlen.jpg",
+        "latitude": 48.233814,
+        "longitude": 16.416531,
+        "createDate": "2025-09-10T08:50:49.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.065"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                170
+              ],
+              "hex": "#dcc8aa",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                230
+              ],
+              "hex": "#dce6e6",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                170,
+                140,
+                120
+              ],
+              "hex": "#aa8c78",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "42.372"
+        },
+        "width": 5363,
+        "height": 4103,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Strasse und Unterführung in der Landstrasse.jpg",
         "latitude": 48.198953,
         "longitude": 16.38115,
@@ -51390,6 +53577,71 @@ export const galleries = [
         },
         "width": 3923,
         "height": 4278,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Telefon und Fahnen in der UNO-City.jpg",
+        "latitude": 48.234086,
+        "longitude": 16.416397,
+        "createDate": "2025-09-10T09:22:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                0
+              ],
+              "hex": "#140a00",
+              "percentage": "0.208"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.155"
+            },
+            {
+              "rgb": [
+                130,
+                100,
+                80
+              ],
+              "hex": "#826450",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "54.755"
+        },
+        "width": 4030,
+        "height": 4944,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51865,6 +54117,80 @@ export const galleries = [
         },
         "width": 4007,
         "height": 5035,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Votivkirche und Votivpark am Schottentor.jpg",
+        "latitude": 48.214608,
+        "longitude": 16.361,
+        "createDate": "2025-09-11T15:00:20.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                130,
+                190
+              ],
+              "hex": "#0a82be",
+              "percentage": "0.066"
+            },
+            {
+              "rgb": [
+                100,
+                190,
+                230
+              ],
+              "hex": "#64bee6",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                100,
+                100,
+                100
+              ],
+              "hex": "#646464",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                40,
+                40,
+                20
+              ],
+              "hex": "#282814",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                190,
+                180,
+                90
+              ],
+              "hex": "#beb45a",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "55.791"
+        },
+        "width": 3715,
+        "height": 5235,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -52952,8 +55278,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "7. Juni 2024 - 31. August 2025",
-    "imageCount": 170,
+    "timeframe": "7. Juni 2024 - 12. September 2025",
+    "imageCount": 182,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",

@@ -27,6 +27,7 @@
   RewriteRule ^gallery/ottenstein(/image/.*)?/?$ /gallery/sonstwo-und-allfaelliges$1 [R=301,L]
   RewriteRule ^gallery/waidhofen(/image/.*)?/?$ /gallery/sonstwo-und-allfaelliges$1 [R=301,L]
   RewriteRule ^gallery/salzkammergut(/image/.*)?/?$ /gallery/im-museum$1 [R=301,L]
+  RewriteRule ^gallery/baden-fahren(/image/.*)?/?$ /gallery/baden-gehen$1 [R=301,L]
   
   # Default SPA handling
   RewriteRule ^index\.html$ - [L]
