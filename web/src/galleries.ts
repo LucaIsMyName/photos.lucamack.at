@@ -959,6 +959,55 @@ export const galleries = [
         "height": 5014
       },
       {
+        "filename": "Detailaufnahme der Pestsäule am Hauptplatz Baden.jpg",
+        "latitude": 48.007708,
+        "longitude": 16.234458,
+        "createDate": "2025-09-13T12:29:45.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                120
+              ],
+              "hex": "#a08c78",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                200,
+                80,
+                90
+              ],
+              "hex": "#c8505a",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "41.449"
+        },
+        "width": 5246,
+        "height": 3934
+      },
+      {
         "filename": "Detailaufnahme des Brunnen vor der Bühne Baden.jpg",
         "latitude": 48.009003,
         "longitude": 16.235303,
@@ -1006,55 +1055,6 @@ export const galleries = [
         },
         "width": 3411,
         "height": 4265
-      },
-      {
-        "filename": "Detailaufnahme des Pestsäule am Hauptplatz Baden.jpg",
-        "latitude": 48.007708,
-        "longitude": 16.234458,
-        "createDate": "2025-09-13T12:29:45.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                240,
-                230
-              ],
-              "hex": "#f0f0e6",
-              "percentage": "0.032"
-            },
-            {
-              "rgb": [
-                160,
-                140,
-                120
-              ],
-              "hex": "#a08c78",
-              "percentage": "0.021"
-            },
-            {
-              "rgb": [
-                30,
-                20,
-                10
-              ],
-              "hex": "#1e140a",
-              "percentage": "0.011"
-            },
-            {
-              "rgb": [
-                200,
-                80,
-                90
-              ],
-              "hex": "#c8505a",
-              "percentage": "0.001"
-            }
-          ],
-          "colorfulness": "41.449"
-        },
-        "width": 5246,
-        "height": 3934
       },
       {
         "filename": "Duschen im Thermalbad Bad Vöslau.jpg",

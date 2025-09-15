@@ -3,6 +3,7 @@ import { useRef, lazy, Suspense, useEffect, useState } from "react";
 import Navigation from "./components/layout/global/Navigation";
 import { useTheme } from "./contexts/ThemeContext";
 import CommandPalette from "./components/layout/global/CommandPalette";
+import { useFavicon } from "./hooks/useFavicon";
 // import { scan } from "react-scan";
 
 // scan();
@@ -28,6 +29,9 @@ function App() {
   const location = useLocation();
   const [commandPaletteOpen, setCommandPaletteOpen] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+
+  // Update favicon based on theme
+  useFavicon(theme);
 
   useEffect(() => {
     if (mainRef.current) {

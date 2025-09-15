@@ -1065,6 +1065,63 @@
     "gallery": "baden-gehen"
   },
   {
+    "latitude": 48.007708,
+    "longitude": 16.234458,
+    "createDate": "2025-09-13T12:29:45.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            240,
+            240,
+            230
+          ],
+          "hex": "#f0f0e6",
+          "percentage": "0.032"
+        },
+        {
+          "rgb": [
+            160,
+            140,
+            120
+          ],
+          "hex": "#a08c78",
+          "percentage": "0.021"
+        },
+        {
+          "rgb": [
+            30,
+            20,
+            10
+          ],
+          "hex": "#1e140a",
+          "percentage": "0.011"
+        },
+        {
+          "rgb": [
+            200,
+            80,
+            90
+          ],
+          "hex": "#c8505a",
+          "percentage": "0.001"
+        }
+      ],
+      "colorfulness": "41.449"
+    },
+    "width": 5246,
+    "height": 3934,
+    "name": "Detailaufnahme der Pestsäule am Hauptplatz Baden.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_der_Pestsäule_am_Hauptplatz_Baden.jpg",
+      "w160": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_der_Pestsäule_am_Hauptplatz_Baden-160w.jpg",
+      "w380": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_der_Pestsäule_am_Hauptplatz_Baden-380w.jpg",
+      "w640": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_der_Pestsäule_am_Hauptplatz_Baden-640w.jpg",
+      "w1440": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_der_Pestsäule_am_Hauptplatz_Baden-1440w.jpg"
+    },
+    "gallery": "baden-gehen"
+  },
+  {
     "latitude": 48.009003,
     "longitude": 16.235303,
     "createDate": "2025-09-13T10:51:26.000Z",
@@ -1118,63 +1175,6 @@
       "w380": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_des_Brunnen_vor_der_Bühne_Baden-380w.jpg",
       "w640": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_des_Brunnen_vor_der_Bühne_Baden-640w.jpg",
       "w1440": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_des_Brunnen_vor_der_Bühne_Baden-1440w.jpg"
-    },
-    "gallery": "baden-gehen"
-  },
-  {
-    "latitude": 48.007708,
-    "longitude": 16.234458,
-    "createDate": "2025-09-13T12:29:45.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            240,
-            240,
-            230
-          ],
-          "hex": "#f0f0e6",
-          "percentage": "0.032"
-        },
-        {
-          "rgb": [
-            160,
-            140,
-            120
-          ],
-          "hex": "#a08c78",
-          "percentage": "0.021"
-        },
-        {
-          "rgb": [
-            30,
-            20,
-            10
-          ],
-          "hex": "#1e140a",
-          "percentage": "0.011"
-        },
-        {
-          "rgb": [
-            200,
-            80,
-            90
-          ],
-          "hex": "#c8505a",
-          "percentage": "0.001"
-        }
-      ],
-      "colorfulness": "41.449"
-    },
-    "width": 5246,
-    "height": 3934,
-    "name": "Detailaufnahme des Pestsäule am Hauptplatz Baden.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_des_Pestsäule_am_Hauptplatz_Baden.jpg",
-      "w160": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_des_Pestsäule_am_Hauptplatz_Baden-160w.jpg",
-      "w380": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_des_Pestsäule_am_Hauptplatz_Baden-380w.jpg",
-      "w640": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_des_Pestsäule_am_Hauptplatz_Baden-640w.jpg",
-      "w1440": "https://photos.lucamack.at/content/galleries/baden-gehen/Detailaufnahme_des_Pestsäule_am_Hauptplatz_Baden-1440w.jpg"
     },
     "gallery": "baden-gehen"
   },
