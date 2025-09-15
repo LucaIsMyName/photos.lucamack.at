@@ -38258,7 +38258,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "SBB-Logo am Bahnsteig am Züricher Hauptbahnhf.jpg",
+        "filename": "SBB-Logo am Bahnsteig am Züricher Hauptbahnhof.jpg",
         "latitude": 47.378056,
         "longitude": 8.537975,
         "createDate": "2025-08-15T18:53:25.000Z",
