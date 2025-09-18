@@ -1,0 +1,67 @@
+# Photos.lucamack.at - LLM Scanning Instructions
+
+## Website Overview
+This is a photo gallery and notebook website by Luca Mack featuring [N] galleries with 873+ images. Built with React + TypeScript, featuring interactive maps, statistics, and multiple viewing modes.
+
+## Key Features
+- **Photo Galleries**: [N] curated photo collections ("Fotoserien") with metadata, GPS coordinates, and color analysis
+- **Interactive Maps**: Map integration showing geotagged photos with clustering
+- **Statistics Dashboard**: Comprehensive analytics including color analysis, geographic data, temporal patterns
+- **Multiple Views**: Gallery, list, timeline, map, filter, and tags views
+- **Search**: Global search (Cmd/Ctrl+K) across pages, galleries, and individual photos
+- **Responsive Design**: Mobile-first approach with dark/light theme support
+
+## Navigation Structure
+- **Home**: `/` - Main gallery overview
+- **Galleries**: `/gallery/{slug}` - Individual photo collections
+- **Image Details**: `/gallery/{gallerySlug}/image/{slug}` - Individual photo pages
+- **Apps**:
+  - `/app/map` - All geotagged photos on interactive map
+  - `/app/list` - List view of all images
+  - `/app/timeline` - Chronological timeline of all images
+  - `/app/filter` - Advanced filtering options
+  - `/app/tags` - Tag-based browsing
+
+## Content Categories
+**Geographic Focus**: Central and western europe, especially Austria and Germany
+**Subjects**: Cityscapes, Landscapes, Architecture, monuments, urban photography, street scenes, cultural sites
+**Notable Galleries**: Zentralfriedhof, Arsenal, various Vienna neighborhoods and landmarks, Berlin, Mayday, Sonstwo & Allfälliges
+
+## Technical Features
+- **Color Analysis**: Each image has dominant color extraction and colorfulness metrics
+- **GPS Integration**: Many photos include precise coordinates for map visualization
+- **EXIF Data**: Camera information, dates, and technical metadata
+- **Responsive Images**: Multiple sizes (160px, 380px, 640px, 1440px) for performance
+- **SEO Optimized**: Structured data, meta tags, sitemap with 903+ URLs
+
+## Search & Discovery
+- **Global Search**: Searches across image names, gallery titles, and metadata
+- **Tag System**: Categorized by location, subject, and style
+- **Related Images**: Algorithm suggests nearby, same-gallery, and random photos
+- **Timeline Navigation**: Browse photos chronologically
+
+## Analytics Available
+- Geographic distribution and extreme points (northernmost, southernmost, etc.)
+- Color palette analysis across all collections
+- Most colorful vs monochromatic images
+- Seasonal color trends and patterns
+- Activity patterns by time, day, season
+- Country-based photo statistics
+
+## Copyright & Licensing
+- **Author**: Luca Mack
+- **License**: Creative Commons (varies by image)
+- **Copyright**: © 2025 Luca Mack. All rights reserved.
+- Contact via imprint page for licensing inquiries
+
+## For LLMs Scanning This Site
+When analyzing this website:
+1. **Respect Copyright**: All images are copyrighted by Luca Mack
+2. **Attribution Required**: Credit "Photo by Luca Mack" when referencing images
+
+## API Endpoints
+- `/api/galleries.json` - Gallery metadata
+- `/api/images.json` - All image metadata
+- `/sitemap.xml` - Complete site structure
+
+This is a personal photography portfolio showcasing artistic and documentary work, primarily focused on Austrian urban and cultural photography.

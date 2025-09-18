@@ -30225,7 +30225,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Musiker Votivkirche Alsergrund Wien.jpg",
+        "filename": "Musiker Skuplturen bei der Votivkirche Alsergrund Wien_.jpg",
         "latitude": 48.215978,
         "longitude": 16.358497,
         "createDate": "2025-07-09T14:13:15.000Z",
@@ -30383,6 +30383,66 @@ export const galleries = [
         },
         "width": 4061,
         "height": 3753,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Landschaft",
+          "Stadt",
+          "Park"
+        ]
+      },
+      {
+        "filename": "Skulptur im Belvedere Garten.jpg",
+        "latitude": 48.192556,
+        "longitude": 16.380036,
+        "createDate": "2025-09-14T17:12:23.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                160
+              ],
+              "hex": "#b4a0a0",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                140,
+                110,
+                100
+              ],
+              "hex": "#8c6e64",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.017"
+            }
+          ],
+          "colorfulness": "42.041"
+        },
+        "width": 3697,
+        "height": 4800,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -30576,8 +30636,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "27. März 2024 - 13. August 2025",
-    "imageCount": 17,
+    "timeframe": "27. März 2024 - 14. September 2025",
+    "imageCount": 18,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -36350,7 +36410,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Wohnhaus in Lehen Salzburg.jpg",
+        "filename": "Wohnhaus, Fussballkäfig und Schumacherstrasse in Lehen.jpg",
         "latitude": 47.814367,
         "longitude": 13.026233,
         "createDate": "2025-05-17T18:22:22.000Z",
@@ -41543,6 +41603,48 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Verzagte Blume' Graffitti.jpg",
+        "latitude": 48.216294,
+        "longitude": 16.357211,
+        "createDate": "2025-09-16T11:51:11.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                180,
+                160
+              ],
+              "hex": "#beb4a0",
+              "percentage": "0.068"
+            },
+            {
+              "rgb": [
+                80,
+                60,
+                50
+              ],
+              "hex": "#503c32",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "17.274"
+        },
+        "width": 3363,
+        "height": 4798,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
         "filename": "'Visitenkarten' Fenster-Schriftzug in der Schwarzspanierstrasse.jpg",
         "latitude": 48.216328,
         "longitude": 16.357353,
@@ -41692,6 +41794,48 @@ export const galleries = [
         },
         "width": 3430,
         "height": 3353,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
+        "filename": "'Weinende Blume' Graffitti.jpg",
+        "latitude": 48.170519,
+        "longitude": 16.419939,
+        "createDate": "2025-09-14T14:50:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                210,
+                190
+              ],
+              "hex": "#dcd2be",
+              "percentage": "0.080"
+            },
+            {
+              "rgb": [
+                170,
+                140,
+                120
+              ],
+              "hex": "#aa8c78",
+              "percentage": "0.065"
+            }
+          ],
+          "colorfulness": "23.212"
+        },
+        "width": 3100,
+        "height": 4222,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42980,8 +43124,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "11. April 2024 - 30. August 2025",
-    "imageCount": 39,
+    "timeframe": "11. April 2024 - 16. September 2025",
+    "imageCount": 41,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -44331,6 +44475,62 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Ikarus' Graffitti und Kunst in der U-Bahn-Station Rochusgasse.jpg",
+        "latitude": 48.202481,
+        "longitude": 16.391178,
+        "createDate": "2025-09-17T15:47:08.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                40,
+                30
+              ],
+              "hex": "#3c281e",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                180
+              ],
+              "hex": "#d2c8b4",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                170,
+                10,
+                0
+              ],
+              "hex": "#aa0a00",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "43.756"
+        },
+        "width": 4952,
+        "height": 4133,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "'Pizza Marina' in der Simmeringer Hauptstrasse.jpg",
         "latitude": 48.162342,
         "longitude": 16.428136,
@@ -44378,6 +44578,80 @@ export const galleries = [
         },
         "width": 2686,
         "height": 3365,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "'Smiley' Sticker in der Regenbogenstube Schwarzspanierstrasse.jpg",
+        "latitude": 48.216244,
+        "longitude": 16.356889,
+        "createDate": "2025-09-17T10:04:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                190,
+                170
+              ],
+              "hex": "#c8beaa",
+              "percentage": "0.128"
+            },
+            {
+              "rgb": [
+                110,
+                60,
+                20
+              ],
+              "hex": "#6e3c14",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                30,
+                0,
+                0
+              ],
+              "hex": "#1e0000",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                230
+              ],
+              "hex": "#fafae6",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                200,
+                110,
+                0
+              ],
+              "hex": "#c86e00",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "39.660"
+        },
+        "width": 3909,
+        "height": 5467,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -44992,6 +45266,136 @@ export const galleries = [
         },
         "width": 3930,
         "height": 5008,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Alte, verrostete BIM-Granitur in der Simmeringer Haide.jpg",
+        "latitude": 48.170844,
+        "longitude": 16.475836,
+        "createDate": "2025-09-14T09:19:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                180
+              ],
+              "hex": "#dcc8b4",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                150
+              ],
+              "hex": "#b4a096",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                100,
+                80,
+                20
+              ],
+              "hex": "#645014",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "44.541"
+        },
+        "width": 5032,
+        "height": 2689,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Altes Fabriksgelände in der Haidestrasse Simmering.jpg",
+        "latitude": 48.178581,
+        "longitude": 16.429856,
+        "createDate": "2025-09-14T09:11:14.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                220,
+                200
+              ],
+              "hex": "#e6dcc8",
+              "percentage": "0.052"
+            },
+            {
+              "rgb": [
+                60,
+                70,
+                80
+              ],
+              "hex": "#3c4650",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                10,
+                0,
+                0
+              ],
+              "hex": "#0a0000",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "42.401"
+        },
+        "width": 4188,
+        "height": 3574,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46294,6 +46698,127 @@ export const galleries = [
         },
         "width": 3899,
         "height": 4771,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Busstation und Kraftwerk Simmerin in der Haidestrasse.jpg",
+        "latitude": 48.179097,
+        "longitude": 16.427736,
+        "createDate": "2025-09-14T09:09:56.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                200,
+                210
+              ],
+              "hex": "#b4c8d2",
+              "percentage": "0.041"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                110
+              ],
+              "hex": "#8c786e",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "36.492"
+        },
+        "width": 4713,
+        "height": 3339,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Bürogebaude und Wohnhochhaus am Franzosengraben in Erdberg.jpg",
+        "latitude": 48.185589,
+        "longitude": 16.414478,
+        "createDate": "2025-09-16T15:30:24.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                110,
+                100
+              ],
+              "hex": "#8c6e64",
+              "percentage": "0.063"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.047"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                180
+              ],
+              "hex": "#c8beb4",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "33.131"
+        },
+        "width": 3982,
+        "height": 5120,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51094,6 +51619,71 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Leere Informationstafel mit Magnet-Pins bei der St.Laurenz Kirche Simmering.jpg",
+        "latitude": 48.169522,
+        "longitude": 16.422333,
+        "createDate": "2025-09-14T08:45:55.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                220,
+                210
+              ],
+              "hex": "#e6dcd2",
+              "percentage": "0.170"
+            },
+            {
+              "rgb": [
+                130,
+                120,
+                120
+              ],
+              "hex": "#827878",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                30
+              ],
+              "hex": "#281e1e",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                220,
+                170,
+                60
+              ],
+              "hex": "#dcaa3c",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "32.284"
+        },
+        "width": 5249,
+        "height": 3912,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Lorystrasse 77 in Simmering .jpg",
         "latitude": 48.168781,
         "longitude": 16.417067,
@@ -52230,6 +52820,62 @@ export const galleries = [
         },
         "width": 3499,
         "height": 5038,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Schwarzenbergplatz bei Dämmerung.jpg",
+        "latitude": 48.197883,
+        "longitude": 16.376633,
+        "createDate": "2025-09-14T17:24:10.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                140,
+                110,
+                90
+              ],
+              "hex": "#8c6e5a",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                200
+              ],
+              "hex": "#fae6c8",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "40.912"
+        },
+        "width": 4223,
+        "height": 4061,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -55278,8 +55924,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "7. Juni 2024 - 12. September 2025",
-    "imageCount": 182,
+    "timeframe": "7. Juni 2024 - 17. September 2025",
+    "imageCount": 190,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
