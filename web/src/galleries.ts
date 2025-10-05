@@ -41381,6 +41381,75 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Tabak' Reklame im Gemeindewohnbau am Fuchsenfeld.jpg",
+        "latitude": 48.178681,
+        "longitude": 16.342444,
+        "createDate": "2025-10-05T06:57:30.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                130,
+                110
+              ],
+              "hex": "#96826e",
+              "percentage": "0.117"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                240
+              ],
+              "hex": "#fafaf0",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                200,
+                20,
+                0
+              ],
+              "hex": "#c81400",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                220,
+                80,
+                60
+              ],
+              "hex": "#dc503c",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "35.599"
+        },
+        "width": 4999,
+        "height": 3363,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
         "filename": "'Tafelspitz' Schild bei Schönbrunn Wien.jpg",
         "latitude": 48.185794,
         "longitude": 16.319944,
@@ -43124,8 +43193,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "11. April 2024 - 16. September 2025",
-    "imageCount": 41,
+    "timeframe": "11. April 2024 - 5. Oktober 2025",
+    "imageCount": 42,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -44744,6 +44813,53 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Wohnen seit 1919' Schriftzug am Margaretengürtel nahe Matzleinsdorfer-Platz.jpg",
+        "latitude": 48.181508,
+        "longitude": 16.348019,
+        "createDate": "2025-10-05T08:44:06.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.095"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.019"
+            }
+          ],
+          "colorfulness": "46.084"
+        },
+        "width": 4043,
+        "height": 4699,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "3 Hochhäuser und Fuss- und Fahrradgeländer bei Prater-Erdberg.jpg",
         "latitude": 48.191436,
         "longitude": 16.420508,
@@ -45414,6 +45530,71 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Am Graben in Richtung Stephansplatz.jpg",
+        "latitude": 48.209572,
+        "longitude": 16.368728,
+        "createDate": "2025-09-30T10:04:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                140,
+                200
+              ],
+              "hex": "#148cc8",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                120,
+                120,
+                130
+              ],
+              "hex": "#787882",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "52.947"
+        },
+        "width": 3402,
+        "height": 4514,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Anton-Schmid-Hof Wien .jpg",
         "latitude": 48.199047,
         "longitude": 16.380219,
@@ -45535,6 +45716,71 @@ export const galleries = [
         },
         "width": 2865,
         "height": 2462,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Auslage mit Klobesen in der Äußeren Mariahilfer-Strasse.jpg",
+        "latitude": 48.192403,
+        "longitude": 16.333064,
+        "createDate": "2025-09-27T13:23:12.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                100
+              ],
+              "hex": "#967864",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                110,
+                70,
+                50
+              ],
+              "hex": "#6e4632",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                90,
+                140,
+                160
+              ],
+              "hex": "#5a8ca0",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "41.156"
+        },
+        "width": 3959,
+        "height": 5600,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46299,6 +46545,62 @@ export const galleries = [
         },
         "width": 3532,
         "height": 5209,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Blick auf die S-Bahn-Station SImmering und ein Wohnhochhaus.jpg",
+        "latitude": 48.169575,
+        "longitude": 16.416972,
+        "createDate": "2025-09-29T04:10:26.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                0
+              ],
+              "hex": "#140a00",
+              "percentage": "0.246"
+            },
+            {
+              "rgb": [
+                30,
+                60,
+                80
+              ],
+              "hex": "#1e3c50",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                160,
+                90,
+                60
+              ],
+              "hex": "#a05a3c",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "36.340"
+        },
+        "width": 3994,
+        "height": 4008,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47870,6 +48172,53 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Eingangstür im Gemeindewohnbau am Fuchsenfeld.jpg",
+        "latitude": 48.178933,
+        "longitude": 16.341111,
+        "createDate": "2025-10-05T06:54:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                150,
+                130
+              ],
+              "hex": "#c89682",
+              "percentage": "0.065"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                10
+              ],
+              "hex": "#321e0a",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "35.395"
+        },
+        "width": 3824,
+        "height": 5303,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Eingangstür in der Simmeringer-Hauptstrasse.jpg",
         "latitude": 48.171853,
         "longitude": 16.418683,
@@ -48838,6 +49187,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Fensterauslage im Bonsai-Laden in der Simmeringer-Hauptstrasse.jpg",
+        "latitude": 48.176139,
+        "longitude": 16.414319,
+        "createDate": "2025-09-29T14:49:55.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                200,
+                110
+              ],
+              "hex": "#fac86e",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                190,
+                150,
+                110
+              ],
+              "hex": "#be966e",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                170
+              ],
+              "hex": "#e6d2aa",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                0
+              ],
+              "hex": "#281400",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                80,
+                60,
+                30
+              ],
+              "hex": "#503c1e",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "43.646"
+        },
+        "width": 3650,
+        "height": 5469,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Fensterbögen am Fuchsenfeld Meidling.jpg",
         "latitude": 48.177567,
         "longitude": 16.341067,
@@ -49080,6 +49503,53 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Fussgänger und Marktstand am Naschmarkt.jpg",
+        "latitude": 48.197869,
+        "longitude": 16.361886,
+        "createDate": "2025-10-04T11:42:52.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                170,
+                160
+              ],
+              "hex": "#b4aaa0",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "38.791"
+        },
+        "width": 3848,
+        "height": 4355,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Fussgängerweg Simmering.jpg",
         "latitude": 48.168983,
         "longitude": 16.418758,
@@ -49210,6 +49680,71 @@ export const galleries = [
         },
         "width": 3529,
         "height": 5288,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Garagen-Einfahrt in der Vorgartenstrasse in Brigittenau.jpg",
+        "latitude": 48.232114,
+        "longitude": 16.392472,
+        "createDate": "2025-09-28T11:57:18.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                190
+              ],
+              "hex": "#dcd2be",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                150,
+                210,
+                240
+              ],
+              "hex": "#96d2f0",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "46.004"
+        },
+        "width": 4018,
+        "height": 4162,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49806,6 +50341,80 @@ export const galleries = [
         },
         "width": 4467,
         "height": 4028,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Grünanalge und Wohnhaus in der Vorgartenstrasse in Brigittenau.jpg",
+        "latitude": 48.231453,
+        "longitude": 16.393306,
+        "createDate": "2025-09-28T11:56:18.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                220,
+                200
+              ],
+              "hex": "#e6dcc8",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                130,
+                120,
+                40
+              ],
+              "hex": "#827828",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                120,
+                110,
+                100
+              ],
+              "hex": "#786e64",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "45.213"
+        },
+        "width": 4118,
+        "height": 5491,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -50503,6 +51112,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Hintereingang des Wien Museums am Karlsplatz.jpg",
+        "latitude": 48.199483,
+        "longitude": 16.372764,
+        "createDate": "2025-10-04T12:27:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.103"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                110
+              ],
+              "hex": "#96826e",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                90,
+                120,
+                150
+              ],
+              "hex": "#5a7896",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                40
+              ],
+              "hex": "#463228",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                0
+              ],
+              "hex": "#140a00",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "31.344"
+        },
+        "width": 3309,
+        "height": 5272,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Hochhäuser in Wien Erdberg nahe Gasometer.jpg",
         "latitude": 48.185806,
         "longitude": 16.413911,
@@ -50615,6 +51298,62 @@ export const galleries = [
         },
         "width": 4060,
         "height": 4624,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Hotel Andaz am Belverdere und Lautstärken-Schutz-Wand am Hauptbahnhof.jpg",
+        "latitude": 48.183761,
+        "longitude": 16.384447,
+        "createDate": "2025-10-05T06:34:04.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                60,
+                40,
+                30
+              ],
+              "hex": "#3c281e",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "40.804"
+        },
+        "width": 4208,
+        "height": 4915,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -51814,6 +52553,118 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Margeritensteg, U-Bahn-Trasse und Wohnbauten bei der Kettenbrückengasse.jpg",
+        "latitude": 48.195667,
+        "longitude": 16.355147,
+        "createDate": "2025-10-02T15:47:59.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.050"
+            },
+            {
+              "rgb": [
+                140,
+                190,
+                210
+              ],
+              "hex": "#8cbed2",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                220
+              ],
+              "hex": "#f0f0dc",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                120,
+                130,
+                140
+              ],
+              "hex": "#78828c",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "43.150"
+        },
+        "width": 3856,
+        "height": 5318,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Marktstand und bewölkter Himmel am Naschmarkt.jpg",
+        "latitude": 48.197839,
+        "longitude": 16.361856,
+        "createDate": "2025-10-04T11:53:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.067"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                200
+              ],
+              "hex": "#d2d2c8",
+              "percentage": "0.045"
+            }
+          ],
+          "colorfulness": "44.890"
+        },
+        "width": 3468,
+        "height": 4491,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Mauer, Rosen und Gemeindewohnung in Wieden.jpg",
         "latitude": 48.187425,
         "longitude": 16.370808,
@@ -51982,6 +52833,62 @@ export const galleries = [
         },
         "width": 3393,
         "height": 3723,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Meta-Kugel auf Masten nahe Taborstrasse in der Leopoldstadt.jpg",
+        "latitude": 48.230603,
+        "longitude": 16.391947,
+        "createDate": "2025-09-28T11:44:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                40,
+                20
+              ],
+              "hex": "#322814",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                100,
+                90,
+                50
+              ],
+              "hex": "#645a32",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                120,
+                190,
+                240
+              ],
+              "hex": "#78bef0",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "33.443"
+        },
+        "width": 3138,
+        "height": 4272,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -52195,6 +53102,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Obst & Gemüse und Wohnhaus am Schwendermarkt.jpg",
+        "latitude": 48.191047,
+        "longitude": 16.326292,
+        "createDate": "2025-09-27T13:16:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                10
+              ],
+              "hex": "#281e0a",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                60,
+                150,
+                190
+              ],
+              "hex": "#3c96be",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                60
+              ],
+              "hex": "#6e503c",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "44.373"
+        },
+        "width": 3984,
+        "height": 4706,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Obst-Stand bei der Rochhusgasse.jpg",
         "latitude": 48.202786,
         "longitude": 16.391031,
@@ -52242,6 +53223,80 @@ export const galleries = [
         },
         "width": 4139,
         "height": 4861,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Parkanlage nahe Taborstrasse - Leystrasse in Wien Leopoldstadt.jpg",
+        "latitude": 48.229378,
+        "longitude": 16.390019,
+        "createDate": "2025-09-28T11:49:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                160,
+                210,
+                240
+              ],
+              "hex": "#a0d2f0",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                70,
+                180,
+                230
+              ],
+              "hex": "#46b4e6",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                170,
+                140,
+                80
+              ],
+              "hex": "#aa8c50",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "52.221"
+        },
+        "width": 4120,
+        "height": 5662,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -53219,6 +54274,53 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Spiegelungen eine Geschäftsfensters in der Äußeren Mariahilfer-Strasse.jpg",
+        "latitude": 48.191486,
+        "longitude": 16.329267,
+        "createDate": "2025-09-27T13:23:00.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                150,
+                140
+              ],
+              "hex": "#aa968c",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                120,
+                80,
+                60
+              ],
+              "hex": "#78503c",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "32.993"
+        },
+        "width": 4280,
+        "height": 5197,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Spielplatz am Donaukanal in Alsergrund.jpg",
         "latitude": 48.224244,
         "longitude": 16.367244,
@@ -53916,6 +55018,53 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Stiegenhaus mit Blick auf den Innenhof in Rudolfsheim-Fünfhaus.jpg",
+        "latitude": 48.187478,
+        "longitude": 16.322547,
+        "createDate": "2025-09-27T12:55:35.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                40,
+                10
+              ],
+              "hex": "#50280a",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                180,
+                140,
+                110
+              ],
+              "hex": "#b48c6e",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "40.485"
+        },
+        "width": 4062,
+        "height": 5416,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Stillgelegte Fabrik in Brigittenau.jpg",
         "latitude": 48.235122,
         "longitude": 16.386739,
@@ -54223,6 +55372,80 @@ export const galleries = [
         },
         "width": 3923,
         "height": 4278,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Strasse, Bau-Zaun, Erdhaufen und Masten in der Taborstrasse.jpg",
+        "latitude": 48.229397,
+        "longitude": 16.392486,
+        "createDate": "2025-09-28T11:52:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                200,
+                230
+              ],
+              "hex": "#96c8e6",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                50,
+                40,
+                10
+              ],
+              "hex": "#32280a",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                150,
+                110,
+                70
+              ],
+              "hex": "#966e46",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "43.073"
+        },
+        "width": 4151,
+        "height": 4925,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -54577,6 +55800,127 @@ export const galleries = [
         },
         "width": 3278,
         "height": 4855,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "U-Bahn-Trasse, Wienfluss und Wohnbau an der linken Wienzeile nahe Kettenbrückengasse.jpg",
+        "latitude": 48.195606,
+        "longitude": 16.355058,
+        "createDate": "2025-10-02T15:48:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                40
+              ],
+              "hex": "#463228",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "34.464"
+        },
+        "width": 4066,
+        "height": 5422,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Umgefallenes Fahrrad bei der U-Bahn-Station Simmering.jpg",
+        "latitude": 48.169822,
+        "longitude": 16.420219,
+        "createDate": "2025-10-05T06:14:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.105"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                160,
+                10,
+                10
+              ],
+              "hex": "#a00a0a",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "25.739"
+        },
+        "width": 4051,
+        "height": 4819,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -55162,6 +56506,71 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Wohnanlage am Schwendermarkt in Rudolfsheim-Fünfhaus.jpg",
+        "latitude": 48.189861,
+        "longitude": 16.324069,
+        "createDate": "2025-09-27T12:46:42.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.074"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                50
+              ],
+              "hex": "#826e32",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "40.594"
+        },
+        "width": 3876,
+        "height": 5499,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Wohnhaus Durchgang zu Innenhof und weiteren Wohnungen.jpg",
         "latitude": 48.170964,
         "longitude": 16.426986,
@@ -55489,6 +56898,62 @@ export const galleries = [
         },
         "width": 4012,
         "height": 3729,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Wohnhaus-Eingang, Einkaufswagerl und Grünfläche in der Vorgartenstrasse in Brigittenau.jpg",
+        "latitude": 48.231011,
+        "longitude": 16.393625,
+        "createDate": "2025-09-28T11:55:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                20,
+                10
+              ],
+              "hex": "#32140a",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                120
+              ],
+              "hex": "#8c7878",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "39.039"
+        },
+        "width": 3957,
+        "height": 5382,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -55924,8 +57389,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "7. Juni 2024 - 17. September 2025",
-    "imageCount": 190,
+    "timeframe": "7. Juni 2024 - 5. Oktober 2025",
+    "imageCount": 213,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
