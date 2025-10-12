@@ -245,20 +245,28 @@ const Navigation = ({ onOpenCommandPalette, setMobileMenuOpen: externalSetMobile
               </NavLink>
             ))}
           </nav>
-          {/* Top Gradient & Scroll Indicator */}
-          <div className={`absolute top-0 left-0 right-0 h-24 bg-gradient-to-b ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showTopGradient ? "opacity-100" : "opacity-0 pointer-events-none"}`}>
+          {/* Top Progressive Blur & Scroll Indicator */}
+          <div className={`absolute top-0 left-0 right-0 h-24 pointer-events-none transition-opacity duration-300 ${showTopGradient ? "opacity-100" : "opacity-0 pointer-events-none"}`}>
+            <div className="absolute inset-0 backdrop-blur-[2px] bg-gradient-to-b from-transparent to-transparent" style={{maskImage: 'linear-gradient(to bottom, black 0%, transparent 100%)'}} />
+            <div className="absolute inset-0 backdrop-blur-[4px] bg-gradient-to-b from-transparent to-transparent" style={{maskImage: 'linear-gradient(to bottom, black 0%, transparent 70%)'}} />
+            <div className="absolute inset-0 backdrop-blur-[8px] bg-gradient-to-b from-transparent to-transparent" style={{maskImage: 'linear-gradient(to bottom, black 0%, transparent 50%)'}} />
+            <div className={`absolute inset-0 bg-gradient-to-b ${theme === "light" ? "from-white" : "from-black"} to-transparent`} />
             <div
               onClick={() => handleScroll("up")}
-              className={`absolute top-0 left-7 -translate-x-1/2 cursor-pointer ${showTopGradient ? "pointer-events-auto" : "pointer-events-none"}`}>
+              className={`absolute top-0 left-7 -translate-x-1/2 cursor-pointer z-10 ${showTopGradient ? "pointer-events-auto" : "pointer-events-none"}`}>
               <ChevronUp size={20} />
             </div>
           </div>
 
-          {/* Bottom Gradient & Scroll Indicator */}
-          <div className={`absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showBottomGradient ? "opacity-100" : "opacity-0 pointer-events-none"}`}>
+          {/* Bottom Progressive Blur & Scroll Indicator */}
+          <div className={`absolute bottom-0 left-0 right-0 h-24 pointer-events-none transition-opacity duration-300 ${showBottomGradient ? "opacity-100" : "opacity-0 pointer-events-none"}`}>
+            <div className="absolute inset-0 backdrop-blur-[2px] bg-gradient-to-t from-transparent to-transparent" style={{maskImage: 'linear-gradient(to top, black 0%, transparent 100%)'}} />
+            <div className="absolute inset-0 backdrop-blur-[4px] bg-gradient-to-t from-transparent to-transparent" style={{maskImage: 'linear-gradient(to top, black 0%, transparent 70%)'}} />
+            <div className="absolute inset-0 backdrop-blur-[8px] bg-gradient-to-t from-transparent to-transparent" style={{maskImage: 'linear-gradient(to top, black 0%, transparent 50%)'}} />
+            <div className={`absolute inset-0 bg-gradient-to-t ${theme === "light" ? "from-white" : "from-black"} to-transparent`} />
             <div
               onClick={() => handleScroll("down")}
-              className={`absolute bottom-0 left-7 -translate-x-1/2 cursor-pointer ${showBottomGradient ? "pointer-events-auto" : "pointer-events-none"}`}>
+              className={`absolute bottom-0 left-7 -translate-x-1/2 cursor-pointer z-10 ${showBottomGradient ? "pointer-events-auto" : "pointer-events-none"}`}>
               <ChevronDown size={20} />
             </div>
           </div>

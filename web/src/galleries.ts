@@ -16452,6 +16452,82 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Ho-ruck nach links' Wahlplakat der SPÖ in den 20er Jahren im Wien Museum.jpg",
+        "latitude": 48.199333,
+        "longitude": 16.372844,
+        "createDate": "2025-10-09T10:15:35.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.068"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                0,
+                80,
+                130
+              ],
+              "hex": "#005082",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                210,
+                100,
+                50
+              ],
+              "hex": "#d26432",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                0,
+                30,
+                60
+              ],
+              "hex": "#001e3c",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "55.503"
+        },
+        "width": 4953,
+        "height": 2266,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
         "filename": "'Hoody' von Erwin Wurm im Marmorschlössl Bad-Ischl.jpg",
         "latitude": 47.716672,
         "longitude": 13.617892,
@@ -16548,6 +16624,158 @@ export const galleries = [
         },
         "width": 4026,
         "height": 5369,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "'Volkswohnungen nicht Luxusvillen' Wahlplakat aus den 20er Jahren im Wien Museum.jpg",
+        "latitude": 48.199361,
+        "longitude": 16.372842,
+        "createDate": "2025-10-09T10:07:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.060"
+            },
+            {
+              "rgb": [
+                230,
+                70,
+                20
+              ],
+              "hex": "#e64614",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                240,
+                210,
+                180
+              ],
+              "hex": "#f0d2b4",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                130,
+                100,
+                70
+              ],
+              "hex": "#826446",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                60,
+                150,
+                190
+              ],
+              "hex": "#3c96be",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "60.187"
+        },
+        "width": 4095,
+        "height": 4693,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "'Wer sein Kind liebt, ist für die Schulreform' Wahlplakat aus den 20er Jahren im Wien Museum.jpg",
+        "latitude": 48.199347,
+        "longitude": 16.372806,
+        "createDate": "2025-10-09T10:08:55.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                30,
+                10
+              ],
+              "hex": "#321e0a",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                190
+              ],
+              "hex": "#c8bebe",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                160,
+                150,
+                150
+              ],
+              "hex": "#a09696",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                150,
+                0,
+                0
+              ],
+              "hex": "#960000",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "46.858"
+        },
+        "width": 3972,
+        "height": 3567,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -16702,6 +16930,55 @@ export const galleries = [
         ]
       },
       {
+        "filename": "4 Skulpturen im Wien Museum.jpg",
+        "latitude": 48.199061,
+        "longitude": 16.3729,
+        "createDate": "2025-10-09T09:08:51.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                100,
+                60,
+                40
+              ],
+              "hex": "#643c28",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                170,
+                140,
+                120
+              ],
+              "hex": "#aa8c78",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "30.537"
+        },
+        "width": 5491,
+        "height": 2738,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
         "filename": "Ausblick vom Marmorschlössl auf den Garten in Bad-Ischl.jpg",
         "latitude": 47.716744,
         "longitude": 13.617889,
@@ -16816,6 +17093,82 @@ export const galleries = [
         },
         "width": 3825,
         "height": 4780,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Ausstellungsraum im Wien Museum mit Blick auf den Resselpark.jpg",
+        "latitude": 48.199261,
+        "longitude": 16.3726,
+        "createDate": "2025-10-09T09:28:14.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                110
+              ],
+              "hex": "#a0826e",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                90,
+                60,
+                40
+              ],
+              "hex": "#5a3c28",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                40,
+                170,
+                200
+              ],
+              "hex": "#28aac8",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "43.137"
+        },
+        "width": 4461,
+        "height": 4123,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17135,6 +17488,189 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Blick auf den Eingang des Wien Museums und den Resselpark.jpg",
+        "latitude": 48.199256,
+        "longitude": 16.372675,
+        "createDate": "2025-10-09T09:37:45.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                40,
+                40
+              ],
+              "hex": "#1e2828",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                120,
+                140,
+                140
+              ],
+              "hex": "#788c8c",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                240
+              ],
+              "hex": "#fafaf0",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "38.952"
+        },
+        "width": 4158,
+        "height": 4330,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Bunte Kirchenfenster und Stahl-Wal im Wien Museum.jpg",
+        "latitude": 48.199211,
+        "longitude": 16.372664,
+        "createDate": "2025-10-09T09:09:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                150,
+                120
+              ],
+              "hex": "#b49678",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                160
+              ],
+              "hex": "#dcc8a0",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "36.984"
+        },
+        "width": 3810,
+        "height": 3795,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Buntes Glas-Fenster mit dem Wappen Wiens und dem Doppeladler im Wien Museum.jpg",
+        "latitude": 48.198897,
+        "longitude": 16.373244,
+        "createDate": "2025-10-09T09:11:35.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                130,
+                100
+              ],
+              "hex": "#a08264",
+              "percentage": "0.104"
+            },
+            {
+              "rgb": [
+                230,
+                60,
+                60
+              ],
+              "hex": "#e63c3c",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                60,
+                10,
+                10
+              ],
+              "hex": "#3c0a0a",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "21.534"
+        },
+        "width": 2529,
+        "height": 4149,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
         "filename": "Christoph Schlingensief Text in der neuen Nationalgalerie.jpg",
         "latitude": 52.506997,
         "longitude": 13.3666,
@@ -17182,6 +17718,122 @@ export const galleries = [
         },
         "width": 2863,
         "height": 5554,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Das 'Gemälde 'Beamtenkinder' im Wien Museum.jpg",
+        "latitude": 48.199264,
+        "longitude": 16.372669,
+        "createDate": "2025-10-09T09:25:58.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.087"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.066"
+            },
+            {
+              "rgb": [
+                140,
+                100,
+                70
+              ],
+              "hex": "#8c6446",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "54.216"
+        },
+        "width": 5309,
+        "height": 4137,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Die Karlskirche durch die Fenster des Wien Museums fotografiert.jpg",
+        "latitude": 48.199336,
+        "longitude": 16.372853,
+        "createDate": "2025-10-09T10:09:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                130,
+                190
+              ],
+              "hex": "#0082be",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                20,
+                50,
+                60
+              ],
+              "hex": "#14323c",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "45.772"
+        },
+        "width": 2930,
+        "height": 3881,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17354,6 +18006,55 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Ehrentafel and die Erbauer des Wien Museums am Treppenaufgang.jpg",
+        "latitude": 48.199286,
+        "longitude": 16.372592,
+        "createDate": "2025-10-09T08:56:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                220,
+                200
+              ],
+              "hex": "#e6dcc8",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                60,
+                40,
+                30
+              ],
+              "hex": "#3c281e",
+              "percentage": "0.030"
+            }
+          ],
+          "colorfulness": "40.975"
+        },
+        "width": 3699,
+        "height": 4835,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
         "filename": "Eingang zur Direktion der neuen Nationalgalerie.jpg",
         "latitude": 52.506911,
         "longitude": 13.366606,
@@ -17383,6 +18084,131 @@ export const galleries = [
         },
         "width": 3906,
         "height": 4167,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Einhorn Skulptur und Museums Besuchen im Wien Museum.jpg",
+        "latitude": 48.199242,
+        "longitude": 16.372619,
+        "createDate": "2025-10-09T09:27:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.057"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                180
+              ],
+              "hex": "#dcc8b4",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                130
+              ],
+              "hex": "#b4a082",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                20,
+                140,
+                170
+              ],
+              "hex": "#148caa",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "46.597"
+        },
+        "width": 3939,
+        "height": 4908,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Engel-Statue und 2 Engel Gemälde im Wien Museum.jpg",
+        "latitude": 48.199256,
+        "longitude": 16.372572,
+        "createDate": "2025-10-09T09:32:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                170,
+                140
+              ],
+              "hex": "#beaa8c",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.020"
+            }
+          ],
+          "colorfulness": "39.004"
+        },
+        "width": 4125,
+        "height": 5605,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -17671,6 +18497,64 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Gemälde von 2 Hunden im Wien Museum.jpg",
+        "latitude": 48.199253,
+        "longitude": 16.372575,
+        "createDate": "2025-10-09T09:30:34.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.095"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                50
+              ],
+              "hex": "#6e5032",
+              "percentage": "0.020"
+            }
+          ],
+          "colorfulness": "45.084"
+        },
+        "width": 3227,
+        "height": 4088,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
         "filename": "Glas-Fassade und Greenpeace Plakate in der neuen Nationalgalerie.jpg",
         "latitude": 52.506969,
         "longitude": 13.366669,
@@ -17930,6 +18814,64 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Karte des Römischen Strassennetzes von Vindobona im Wien Museum.jpg",
+        "latitude": 48.199303,
+        "longitude": 16.372839,
+        "createDate": "2025-10-09T09:07:53.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.079"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "22.539"
+        },
+        "width": 5394,
+        "height": 4166,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
         "filename": "Leuchtende Wand im NHM.jpg",
         "latitude": 48.204953,
         "longitude": 16.358825,
@@ -18144,6 +19086,149 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Milchglas-Mosaik-Fenster im Wien Museum.jpg",
+        "latitude": 48.199167,
+        "longitude": 16.372744,
+        "createDate": "2025-10-09T09:21:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.065"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                130
+              ],
+              "hex": "#aa9682",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                130,
+                70,
+                30
+              ],
+              "hex": "#82461e",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "38.367"
+        },
+        "width": 3984,
+        "height": 4974,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Modell der Innenstadt Wien im Mittelalter.jpg",
+        "latitude": 48.199256,
+        "longitude": 16.372578,
+        "createDate": "2025-10-09T09:28:54.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                230,
+                210
+              ],
+              "hex": "#fae6d2",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                120,
+                70,
+                40
+              ],
+              "hex": "#784628",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                160,
+                110,
+                80
+              ],
+              "hex": "#a06e50",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                40,
+                60,
+                60
+              ],
+              "hex": "#283c3c",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "40.512"
+        },
+        "width": 3789,
+        "height": 4457,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
         "filename": "Mutter und Kind vor Schaukasten NHM.jpg",
         "latitude": 48.2049,
         "longitude": 16.360639,
@@ -18200,6 +19285,73 @@ export const galleries = [
         },
         "width": 3834,
         "height": 4806,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Prunk-Kutsche des Wiener Bürgermeisters Mitte des 19. Jahrhunderts im Wien Museum.jpg",
+        "latitude": 48.199142,
+        "longitude": 16.372811,
+        "createDate": "2025-10-09T09:21:41.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                140
+              ],
+              "hex": "#beaa8c",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                50
+              ],
+              "hex": "#644632",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "40.258"
+        },
+        "width": 5121,
+        "height": 3956,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18653,6 +19805,73 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Stahl-Wal im Wien Museum.jpg",
+        "latitude": 48.198989,
+        "longitude": 16.373019,
+        "createDate": "2025-10-09T09:10:03.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                120,
+                60,
+                10
+              ],
+              "hex": "#783c0a",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                150,
+                100,
+                50
+              ],
+              "hex": "#966432",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "34.943"
+        },
+        "width": 3994,
+        "height": 4462,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
         "filename": "Stahl-Wal und Kutsche im Wien Museum.jpg",
         "latitude": 48.199161,
         "longitude": 16.372861,
@@ -18834,6 +20053,198 @@ export const galleries = [
         },
         "width": 3528,
         "height": 5440,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Statuen in Schwarz im Wien Museum.jpg",
+        "latitude": 48.199161,
+        "longitude": 16.372767,
+        "createDate": "2025-10-09T09:21:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                180,
+                160
+              ],
+              "hex": "#d2b4a0",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                170,
+                140,
+                110
+              ],
+              "hex": "#aa8c6e",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.019"
+            }
+          ],
+          "colorfulness": "38.331"
+        },
+        "width": 3765,
+        "height": 5310,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Statuen in Schwarz und Milchglas-Mosaik im Wien Musuem.jpg",
+        "latitude": 48.199197,
+        "longitude": 16.372744,
+        "createDate": "2025-10-09T09:20:32.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                170,
+                140
+              ],
+              "hex": "#c8aa8c",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.024"
+            }
+          ],
+          "colorfulness": "38.421"
+        },
+        "width": 3953,
+        "height": 4409,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Statuen und Gemälde von Wien im Wien Museum.jpg",
+        "latitude": 48.199086,
+        "longitude": 16.372639,
+        "createDate": "2025-10-09T09:50:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                170,
+                80,
+                50
+              ],
+              "hex": "#aa5032",
+              "percentage": "0.022"
+            }
+          ],
+          "colorfulness": "46.786"
+        },
+        "width": 3819,
+        "height": 4160,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19153,8 +20564,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "14. Mai 2025 - 24. August 2025",
-    "imageCount": 49,
+    "timeframe": "14. Mai 2025 - 9. Oktober 2025",
+    "imageCount": 71,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -27407,6 +28818,65 @@ export const galleries = [
         ]
       },
       {
+        "filename": "S-Bahn Station Aspen Nord und ein Maisfeld.jpg",
+        "latitude": 48.235133,
+        "longitude": 16.503967,
+        "createDate": "2025-10-12T08:09:49.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                170,
+                170
+              ],
+              "hex": "#a0aaaa",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                130,
+                90,
+                60
+              ],
+              "hex": "#825a3c",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "39.202"
+        },
+        "width": 4116,
+        "height": 2954,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
+      },
+      {
         "filename": "S-Bahn-Station Gersthof mit Bahnsteigen und Vogelschwarm.jpg",
         "latitude": 48.23075,
         "longitude": 16.329314,
@@ -29200,8 +30670,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "11. April 2024 - 31. August 2025",
-    "imageCount": 78,
+    "timeframe": "11. April 2024 - 12. Oktober 2025",
+    "imageCount": 79,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -40979,6 +42449,57 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Komm zu uns' Reklame an einer Kirche am Rennweg - Landstrasse.jpg",
+        "latitude": 48.190269,
+        "longitude": 16.397678,
+        "createDate": "2025-10-09T08:17:22.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.147"
+            },
+            {
+              "rgb": [
+                200,
+                170,
+                150
+              ],
+              "hex": "#c8aa96",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                100,
+                160,
+                190
+              ],
+              "hex": "#64a0be",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "37.495"
+        },
+        "width": 4133,
+        "height": 3394,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
         "filename": "'Low' & 'Nr' Graffitti und Wiese davor.jpg",
         "latitude": 48.195586,
         "longitude": 16.420492,
@@ -41539,6 +43060,57 @@ export const galleries = [
         },
         "width": 3020,
         "height": 2845,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
+        "filename": "'Transmodular' Schriftzug in St. Marx.jpg",
+        "latitude": 48.186431,
+        "longitude": 16.402583,
+        "createDate": "2025-10-09T08:10:52.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.122"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                230
+              ],
+              "hex": "#dce6e6",
+              "percentage": "0.066"
+            },
+            {
+              "rgb": [
+                110,
+                100,
+                100
+              ],
+              "hex": "#6e6464",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "47.405"
+        },
+        "width": 5258,
+        "height": 3157,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -43193,8 +44765,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "11. April 2024 - 5. Oktober 2025",
-    "imageCount": 42,
+    "timeframe": "11. April 2024 - 9. Oktober 2025",
+    "imageCount": 44,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -44479,6 +46051,71 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Freundlicher' Sticker in einem Fenster eines Gasthauses in Breitenlee.jpg",
+        "latitude": 48.251239,
+        "longitude": 16.497781,
+        "createDate": "2025-10-12T08:40:55.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.103"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                0
+              ],
+              "hex": "#140a00",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                140,
+                150,
+                150
+              ],
+              "hex": "#8c9696",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                110,
+                90,
+                70
+              ],
+              "hex": "#6e5a46",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "40.112"
+        },
+        "width": 4100,
+        "height": 5471,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "'Gartenbaukino' Schriftzug am Stubenring.jpg",
         "latitude": 48.205733,
         "longitude": 16.378619,
@@ -44842,6 +46479,53 @@ export const galleries = [
         },
         "width": 4043,
         "height": 4699,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "2 Krähen auf einer Stromleiotung in Aspern Nord.jpg",
+        "latitude": 48.247894,
+        "longitude": 16.501331,
+        "createDate": "2025-10-12T10:44:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "21.996"
+        },
+        "width": 2787,
+        "height": 4608,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46041,6 +47725,53 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Barock Statue mit 3 Kindern im Burggarten - Innere Stadt.jpg",
+        "latitude": 48.204886,
+        "longitude": 16.365447,
+        "createDate": "2025-10-09T11:41:53.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                210,
+                190
+              ],
+              "hex": "#e6d2be",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                0
+              ],
+              "hex": "#281400",
+              "percentage": "0.017"
+            }
+          ],
+          "colorfulness": "44.730"
+        },
+        "width": 3413,
+        "height": 4459,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Basketballkäfig in Simmering.jpg",
         "latitude": 48.168469,
         "longitude": 16.418028,
@@ -46079,6 +47810,136 @@ export const galleries = [
         },
         "width": 4107,
         "height": 3832,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Bau-Gerüste und Blick über die Donau Richtung Osten.jpg",
+        "latitude": 48.201908,
+        "longitude": 16.444442,
+        "createDate": "2025-10-12T07:55:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.106"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                190
+              ],
+              "hex": "#d2d2be",
+              "percentage": "0.047"
+            },
+            {
+              "rgb": [
+                100,
+                90,
+                80
+              ],
+              "hex": "#645a50",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                150,
+                140,
+                130
+              ],
+              "hex": "#968c82",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "48.802"
+        },
+        "width": 3859,
+        "height": 4489,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Baukräne und Wohnbauten an der Hausfedlstrasse in Aspern.jpg",
+        "latitude": 48.233508,
+        "longitude": 16.483192,
+        "createDate": "2025-10-12T08:05:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                170,
+                160
+              ],
+              "hex": "#b4aaa0",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                70,
+                40,
+                10
+              ],
+              "hex": "#46280a",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                250,
+                220,
+                120
+              ],
+              "hex": "#fadc78",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "44.147"
+        },
+        "width": 4057,
+        "height": 3869,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -46713,6 +48574,62 @@ export const galleries = [
         },
         "width": 4028,
         "height": 3898,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Brunnen auf dem Michaelerplatz im 1. Bezirk.jpg",
+        "latitude": 48.207792,
+        "longitude": 16.366756,
+        "createDate": "2025-10-09T11:55:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                140,
+                120
+              ],
+              "hex": "#aa8c78",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                30,
+                40,
+                60
+              ],
+              "hex": "#1e283c",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "37.665"
+        },
+        "width": 3710,
+        "height": 4733,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -49550,6 +51467,62 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Fussgänger und Radweg an der Donauinsel nahe Stadlau.jpg",
+        "latitude": 48.20515,
+        "longitude": 16.44895,
+        "createDate": "2025-10-12T07:56:08.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                0
+              ],
+              "hex": "#140a00",
+              "percentage": "0.049"
+            },
+            {
+              "rgb": [
+                150,
+                150,
+                150
+              ],
+              "hex": "#969696",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                120,
+                90,
+                80
+              ],
+              "hex": "#785a50",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "43.521"
+        },
+        "width": 3814,
+        "height": 4131,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Fussgängerweg Simmering.jpg",
         "latitude": 48.168983,
         "longitude": 16.418758,
@@ -50341,6 +52314,100 @@ export const galleries = [
         },
         "width": 4467,
         "height": 4028,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Gleise und S-Bahn-Station Erzherzog-Karl-Strasse in Donaustadt.jpg",
+        "latitude": 48.229906,
+        "longitude": 16.453742,
+        "createDate": "2025-10-12T08:01:18.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                180,
+                190,
+                190
+              ],
+              "hex": "#b4bebe",
+              "percentage": "0.022"
+            }
+          ],
+          "colorfulness": "38.711"
+        },
+        "width": 3123,
+        "height": 4241,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Graffitti auf einem Masten und Kraftwerk Schlot des Simmering.jpg",
+        "latitude": 48.186633,
+        "longitude": 16.43145,
+        "createDate": "2025-10-12T07:53:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "46.344"
+        },
+        "width": 3482,
+        "height": 4397,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -53037,6 +55104,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Mistkübel Zaun und angemalter Stromkasten in Breitenlee.jpg",
+        "latitude": 48.26775,
+        "longitude": 16.480256,
+        "createDate": "2025-10-12T09:28:06.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                190,
+                200
+              ],
+              "hex": "#b4bec8",
+              "percentage": "0.065"
+            },
+            {
+              "rgb": [
+                130,
+                120,
+                40
+              ],
+              "hex": "#827828",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                40,
+                50,
+                10
+              ],
+              "hex": "#28320a",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                130,
+                140,
+                120
+              ],
+              "hex": "#828c78",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                180,
+                60,
+                10
+              ],
+              "hex": "#b43c0a",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "44.552"
+        },
+        "width": 4003,
+        "height": 4715,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Neubaugürtel und BIM Station bei der Burggasse.jpg",
         "latitude": 48.201675,
         "longitude": 16.336906,
@@ -55464,6 +57605,62 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Stromkasten und Feld in Aspern Nord.jpg",
+        "latitude": 48.243644,
+        "longitude": 16.500539,
+        "createDate": "2025-10-12T08:24:02.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                220,
+                230
+              ],
+              "hex": "#c8dce6",
+              "percentage": "0.073"
+            },
+            {
+              "rgb": [
+                190,
+                150,
+                110
+              ],
+              "hex": "#be966e",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                10,
+                0,
+                0
+              ],
+              "hex": "#0a0000",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "37.962"
+        },
+        "width": 4369,
+        "height": 3357,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Telefon und Fahnen in der UNO-City.jpg",
         "latitude": 48.234086,
         "longitude": 16.416397,
@@ -56506,6 +58703,71 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Wiese, Haus und Himmel in Breitenlee Zentrum.jpg",
+        "latitude": 48.25135,
+        "longitude": 16.501064,
+        "createDate": "2025-10-12T08:35:11.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.091"
+            },
+            {
+              "rgb": [
+                130,
+                80,
+                60
+              ],
+              "hex": "#82503c",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                170,
+                180,
+                180
+              ],
+              "hex": "#aab4b4",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                10,
+                0,
+                0
+              ],
+              "hex": "#0a0000",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "46.391"
+        },
+        "width": 3143,
+        "height": 4623,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Wohnanlage am Schwendermarkt in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.189861,
         "longitude": 16.324069,
@@ -57389,8 +59651,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "7. Juni 2024 - 5. Oktober 2025",
-    "imageCount": 213,
+    "timeframe": "7. Juni 2024 - 12. Oktober 2025",
+    "imageCount": 225,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",

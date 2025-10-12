@@ -58,20 +58,28 @@ const HorizontalScroller = ({ children, className = "" }: HorizontalScrollerProp
         {children}
       </div>
 
-      {/* Left Gradient & Scroll Indicator */}
-      <div className={`absolute top-0 left-0 bottom-0 w-12 bg-gradient-to-r ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showLeftGradient ? "opacity-100" : "opacity-0"}`}>
+      {/* Left Progressive Blur & Scroll Indicator */}
+      <div className={`absolute top-0 left-0 bottom-0 w-12 pointer-events-none transition-opacity duration-300 ${showLeftGradient ? "opacity-100" : "opacity-0"}`}>
+        <div className="absolute inset-0 backdrop-blur-[2px] bg-gradient-to-r from-transparent to-transparent" style={{maskImage: 'linear-gradient(to right, black 0%, transparent 100%)'}} />
+        <div className="absolute inset-0 backdrop-blur-[4px] bg-gradient-to-r from-transparent to-transparent" style={{maskImage: 'linear-gradient(to right, black 0%, transparent 70%)'}} />
+        <div className="absolute inset-0 backdrop-blur-[8px] bg-gradient-to-r from-transparent to-transparent" style={{maskImage: 'linear-gradient(to right, black 0%, transparent 50%)'}} />
+        <div className={`absolute inset-0 bg-gradient-to-r ${theme === "light" ? "from-white" : "from-black"} to-transparent`} />
         <button
           onClick={() => handleScroll("left")}
-          className={`absolute top-1/2 -translate-y-1/2 left-0 ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto`}>
+          className={`absolute top-1/2 -translate-y-1/2 left-0 ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto z-10`}>
           <ChevronLeft size={20} />
         </button>
       </div>
 
-      {/* Right Gradient & Scroll Indicator */}
-      <div className={`absolute top-0 right-0 bottom-0 w-12 bg-gradient-to-l ${theme === "light" ? "from-white" : "from-black"} to-transparent pointer-events-none transition-opacity duration-300 ${showRightGradient ? "opacity-100" : "opacity-0"}`}>
+      {/* Right Progressive Blur & Scroll Indicator */}
+      <div className={`absolute top-0 right-0 bottom-0 w-12 pointer-events-none transition-opacity duration-300 ${showRightGradient ? "opacity-100" : "opacity-0"}`}>
+        <div className="absolute inset-0 backdrop-blur-[2px] bg-gradient-to-l from-transparent to-transparent" style={{maskImage: 'linear-gradient(to left, black 0%, transparent 100%)'}} />
+        <div className="absolute inset-0 backdrop-blur-[4px] bg-gradient-to-l from-transparent to-transparent" style={{maskImage: 'linear-gradient(to left, black 0%, transparent 70%)'}} />
+        <div className="absolute inset-0 backdrop-blur-[8px] bg-gradient-to-l from-transparent to-transparent" style={{maskImage: 'linear-gradient(to left, black 0%, transparent 50%)'}} />
+        <div className={`absolute inset-0 bg-gradient-to-l ${theme === "light" ? "from-white" : "from-black"} to-transparent`} />
         <button
           onClick={() => handleScroll("right")}
-          className={`absolute top-1/2 -translate-y-1/2 right-0 ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto`}>
+          className={`absolute top-1/2 -translate-y-1/2 right-0 ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto z-10`}>
           <ChevronRight size={20} />
         </button>
       </div>

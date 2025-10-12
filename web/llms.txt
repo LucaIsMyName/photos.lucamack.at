@@ -5,12 +5,12 @@ A React + TypeScript photo gallery application built with Vite, featuring intera
 
 ## Tech Stack
 - **Frontend**: React 19, TypeScript, Vite
-- **Styling**: Tailwind CSS 4.x
+- **Styling**: Tailwind
 - **Maps**: Mapbox GL JS, react-map-gl
 - **Charts**: Recharts
-- **Routing**: React Router DOM 7.x
-- **UI Components**: Radix UI, Lucide React, Framer Motion
-- **Build Tools**: Vite 7.x, TypeScript 5.8.x
+- **Routing**: React Router DOM
+- **UI Components**: Radix UI, Lucide React
+- **Build Tools**: Vite, TypeScript
 
 ## Architecture
 

@@ -1446,12 +1446,27 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/ho-ruck-nach-links-wahlplakat-der-spo-in-den-20er-jahren-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/hoody-von-erwin-wurm-im-marmorschlossl-bad-ischl</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/sudbahnhof-schild-und-stiege-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/volkswohnungen-nicht-luxusvillen-wahlplakat-aus-den-20er-jahren-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/wer-sein-kind-liebt-ist-fur-die-schulreform-wahlplakat-aus-den-20er-jahren-im-wien-museum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1466,12 +1481,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/4-skulpturen-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/ausblick-vom-marmorschlossl-auf-den-garten-in-bad-ischl</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/ausgestopfte-katze-in-einem-schaukasten-im-nhm</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/ausstellungsraum-im-wien-museum-mit-blick-auf-den-resselpark</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1501,7 +1526,32 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/blick-auf-den-eingang-des-wien-museums-und-den-resselpark</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/bunte-kirchenfenster-und-stahl-wal-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/buntes-glas-fenster-mit-dem-wappen-wiens-und-dem-doppeladler-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/christoph-schlingensief-text-in-der-neuen-nationalgalerie</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/das-gemalde-beamtenkinder-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/die-karlskirche-durch-die-fenster-des-wien-museums-fotografiert</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1516,7 +1566,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/ehrentafel-and-die-erbauer-des-wien-museums-am-treppenaufgang</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/eingang-zur-direktion-der-neuen-nationalgalerie</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/einhorn-skulptur-und-museums-besuchen-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/engel-statue-und-2-engel-gemalde-im-wien-museum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1541,6 +1606,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/gemalde-von-2-hunden-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/glas-fassade-und-greenpeace-plakate-in-der-neuen-nationalgalerie</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1557,6 +1627,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/innenansicht-heidi-horten-collection</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/karte-des-romischen-strassennetzes-von-vindobona-im-wien-museum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1581,7 +1656,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/milchglas-mosaik-fenster-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/modell-der-innenstadt-wien-im-mittelalter</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/mutter-und-kind-vor-schaukasten-nhm</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/prunk-kutsche-des-wiener-burgermeisters-mitte-des-19-jahrhunderts-im-wien-museum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1621,6 +1711,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/stahl-wal-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/stahl-wal-und-kutsche-im-wien-museum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1632,6 +1727,21 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/statue-eines-mannes-mit-maske-in-der-neuen-nationalgalerie</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/statuen-in-schwarz-im-wien-museum</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/statuen-in-schwarz-und-milchglas-mosaik-im-wien-musuem</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/statuen-und-gemalde-von-wien-im-wien-museum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2382,6 +2492,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/s-und-u-bahn-station-simmering-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/s-bahn-station-aspen-nord-und-ein-maisfeld</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3561,6 +3676,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/komm-zu-uns-reklame-an-einer-kirche-am-rennweg-landstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/low-nr-graffitti-und-wiese-davor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3607,6 +3727,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/thailandisches-spezialitate-auslage-in-der-kaiser-ebersdorfer-strasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/transmodular-schriftzug-in-st-marx</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3871,6 +3996,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/freundlicher-sticker-in-einem-fenster-eines-gasthauses-in-breitenlee</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/gartenbaukino-schriftzug-am-stubenring</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3897,6 +4027,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/wohnen-seit-1919-schriftzug-am-margaretengurtel-nahe-matzleinsdorfer-platz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/2-krahen-auf-einer-stromleiotung-in-aspern-nord</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3996,7 +4131,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/barock-statue-mit-3-kindern-im-burggarten-innere-stadt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/basketballkafig-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/bau-geruste-und-blick-uber-die-donau-richtung-osten</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/baukrane-und-wohnbauten-an-der-hausfedlstrasse-in-aspern</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4052,6 +4202,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/blumen-buquets-vor-einem-asphaltboden-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/brunnen-auf-dem-michaelerplatz-im-1-bezirk</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4286,6 +4441,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/fussganger-und-radweg-an-der-donauinsel-nahe-stadlau</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/fussgangerweg-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4347,6 +4507,16 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/geschlossene-trafik-in-der-u-bahn-station-volkstheater</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/gleise-und-s-bahn-station-erzherzog-karl-strasse-in-donaustadt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/graffitti-auf-einem-masten-und-kraftwerk-schlot-des-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4566,6 +4736,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/mistkubel-zaun-und-angemalter-stromkasten-in-breitenlee</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/neubaugurtel-und-bim-station-bei-der-burggasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4761,6 +4936,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/stromkasten-und-feld-in-aspern-nord</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/telefon-und-fahnen-in-der-uno-city</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4842,6 +5022,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/wienfluss-mit-universitat-fur-angewandte-kunst</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/wiese-haus-und-himmel-in-breitenlee-zentrum</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
