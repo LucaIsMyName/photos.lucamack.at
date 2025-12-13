@@ -747,7 +747,20 @@ export const galleries = [
           "colorfulness": "39.597"
         },
         "width": 4031,
-        "height": 2635
+        "height": 2635,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "'Springen verboten' Schriftzug im Thermalbad Bad Vöslau.jpg",
@@ -778,7 +791,20 @@ export const galleries = [
           "colorfulness": "33.878"
         },
         "width": 5286,
-        "height": 2301
+        "height": 2301,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "'Warmduschen' Schriftzug im Thermalbad Bad Vöslau.jpg",
@@ -818,7 +844,20 @@ export const galleries = [
           "colorfulness": "42.481"
         },
         "width": 3881,
-        "height": 3871
+        "height": 3871,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Bahnhof Baden und Arthur-Schnitzler-Park.jpg",
@@ -876,7 +915,20 @@ export const galleries = [
           "colorfulness": "40.547"
         },
         "width": 4385,
-        "height": 4245
+        "height": 4245,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Dach und Schwimmbecken im Thermalbad Bad Vöslau.jpg",
@@ -916,7 +968,20 @@ export const galleries = [
           "colorfulness": "41.556"
         },
         "width": 5052,
-        "height": 3237
+        "height": 3237,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Denkmal für Josef Krupka, Stadtgartendirektor von Baden.jpg",
@@ -956,7 +1021,20 @@ export const galleries = [
           "colorfulness": "37.534"
         },
         "width": 3202,
-        "height": 5014
+        "height": 5014,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Detailaufnahme der Pestsäule am Hauptplatz Baden.jpg",
@@ -1005,7 +1083,20 @@ export const galleries = [
           "colorfulness": "41.449"
         },
         "width": 5246,
-        "height": 3934
+        "height": 3934,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Detailaufnahme des Brunnen vor der Bühne Baden.jpg",
@@ -1054,7 +1145,20 @@ export const galleries = [
           "colorfulness": "45.219"
         },
         "width": 3411,
-        "height": 4265
+        "height": 4265,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Duschen im Thermalbad Bad Vöslau.jpg",
@@ -1094,7 +1198,20 @@ export const galleries = [
           "colorfulness": "47.728"
         },
         "width": 3416,
-        "height": 4892
+        "height": 4892,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Duschen und Statue im Thermalbad Bad Vöslau.jpg",
@@ -1125,7 +1242,20 @@ export const galleries = [
           "colorfulness": "40.663"
         },
         "width": 4803,
-        "height": 2906
+        "height": 2906,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Eingang zum Thermalbad und Wandgemälde in Bad Vöslau.jpg",
@@ -1156,7 +1286,20 @@ export const galleries = [
           "colorfulness": "43.546"
         },
         "width": 3789,
-        "height": 4036
+        "height": 4036,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Hausmauer und Ahorn-Blätter in Baden.jpg",
@@ -1196,7 +1339,20 @@ export const galleries = [
           "colorfulness": "42.354"
         },
         "width": 3803,
-        "height": 5071
+        "height": 5071,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "IMG_6308.jpg",
@@ -1236,7 +1392,20 @@ export const galleries = [
           "colorfulness": "42.050"
         },
         "width": 2567,
-        "height": 3886
+        "height": 3886,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Jubiläums-Aussicht im Kurpark Baden.jpg",
@@ -1276,7 +1445,20 @@ export const galleries = [
           "colorfulness": "39.576"
         },
         "width": 3367,
-        "height": 4046
+        "height": 4046,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Kabinen und Grünflächen im Thermalbad Bad Vöslau.jpg",
@@ -1325,7 +1507,20 @@ export const galleries = [
           "colorfulness": "45.478"
         },
         "width": 3724,
-        "height": 3786
+        "height": 3786,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Kabinen und Kabanen im Thermalbad Bad Vöslau.jpg",
@@ -1383,7 +1578,20 @@ export const galleries = [
           "colorfulness": "43.244"
         },
         "width": 3963,
-        "height": 3485
+        "height": 3485,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Kabinengang im Thermalbad Bad Vöslau.jpg",
@@ -1432,7 +1640,20 @@ export const galleries = [
           "colorfulness": "39.017"
         },
         "width": 3439,
-        "height": 4502
+        "height": 4502,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Kassa und Wandgemälde im Thermalbad Bad Vöslau.jpg",
@@ -1481,7 +1702,20 @@ export const galleries = [
           "colorfulness": "38.565"
         },
         "width": 2117,
-        "height": 3642
+        "height": 3642,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Kirche und Wald in Bad Vöslau.jpg",
@@ -1530,7 +1764,20 @@ export const galleries = [
           "colorfulness": "49.874"
         },
         "width": 3141,
-        "height": 3701
+        "height": 3701,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Kleine Kapelle beim Kurpark Baden.jpg",
@@ -1570,7 +1817,20 @@ export const galleries = [
           "colorfulness": "35.140"
         },
         "width": 3796,
-        "height": 5598
+        "height": 5598,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Pavillion im Kurpark Baden.jpg",
@@ -1628,7 +1888,20 @@ export const galleries = [
           "colorfulness": "43.496"
         },
         "width": 5263,
-        "height": 3826
+        "height": 3826,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Pestsäule (Nahaufnahme) am Hauptplatz Baden.jpg",
@@ -1677,7 +1950,20 @@ export const galleries = [
           "colorfulness": "39.573"
         },
         "width": 3813,
-        "height": 5317
+        "height": 5317,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Pestsäule am Hauptplatz von Baden.jpg",
@@ -1717,7 +2003,20 @@ export const galleries = [
           "colorfulness": "39.318"
         },
         "width": 2738,
-        "height": 3640
+        "height": 3640,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Schwimmbecken, Restaurant und Kabanen im Thermalbad Bad Vöslau.jpg",
@@ -1766,7 +2065,20 @@ export const galleries = [
           "colorfulness": "39.546"
         },
         "width": 3455,
-        "height": 3829
+        "height": 3829,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Spiegelungen eines Fensters inder Innenstadt von Baden.jpg",
@@ -1806,7 +2118,20 @@ export const galleries = [
           "colorfulness": "43.580"
         },
         "width": 3511,
-        "height": 4407
+        "height": 4407,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Stadt-Theater Baden (Frontale).jpg",
@@ -1846,7 +2171,20 @@ export const galleries = [
           "colorfulness": "34.097"
         },
         "width": 3581,
-        "height": 4396
+        "height": 4396,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Stadtgemeinfe Bad Vöslau Schiftzug und Wappen.jpg",
@@ -1904,7 +2242,20 @@ export const galleries = [
           "colorfulness": "43.467"
         },
         "width": 5244,
-        "height": 3472
+        "height": 3472,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Statue und Schwimmbecken im Thermal Bad Vöslau.jpg",
@@ -1944,7 +2295,20 @@ export const galleries = [
           "colorfulness": "48.183"
         },
         "width": 5211,
-        "height": 3998
+        "height": 3998,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Statue und Sessel beim Eingang Thermalbad Bad Vöslau.jpg",
@@ -2002,7 +2366,20 @@ export const galleries = [
           "colorfulness": "38.337"
         },
         "width": 4048,
-        "height": 5427
+        "height": 5427,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Strauss Denkmal im Kurpark Baden.jpg",
@@ -2051,7 +2428,20 @@ export const galleries = [
           "colorfulness": "52.065"
         },
         "width": 4400,
-        "height": 3895
+        "height": 3895,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Text der Europahymne in einem Fenster in Baden.jpg",
@@ -2091,7 +2481,20 @@ export const galleries = [
           "colorfulness": "33.033"
         },
         "width": 4133,
-        "height": 5511
+        "height": 5511,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Uhr am Bahnhof Baden.jpg",
@@ -2131,7 +2534,20 @@ export const galleries = [
           "colorfulness": "35.459"
         },
         "width": 5134,
-        "height": 3135
+        "height": 3135,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Umkleidekabinen im Thermalbad Bad Vöslau.jpg",
@@ -2189,7 +2605,20 @@ export const galleries = [
           "colorfulness": "49.828"
         },
         "width": 3602,
-        "height": 4419
+        "height": 4419,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       },
       {
         "filename": "Wald und Schwimmbecken im Thermalbad Bad Vöslau.jpg",
@@ -2220,11 +2649,37 @@ export const galleries = [
           "colorfulness": "39.035"
         },
         "width": 3767,
-        "height": 2929
+        "height": 2929,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Niederösterreich",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Land",
+          "Architektur"
+        ]
       }
     ],
     "timeframe": "13. September 2025",
-    "imageCount": 34
+    "imageCount": 34,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Niederösterreich",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Land",
+      "Architektur"
+    ]
   },
   {
     "name": "berlin",
@@ -2443,7 +2898,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Born to die in Berlin' Street mit Wolf und Maryilin Monroe.jpg",
+        "filename": "'Born to die in Berlin' Street mit Wolf und Marylin Monroe.jpg",
         "latitude": 52.510364,
         "longitude": 13.453936,
         "createDate": "2025-08-19T20:47:48.000Z",
@@ -13951,6 +14406,798 @@ export const galleries = [
     ]
   },
   {
+    "name": "feiertag",
+    "slug": "feiertag",
+    "title": "Feiertag",
+    "description": "Soldaten, Sissi & stehende Eurofighter",
+    "images": [
+      {
+        "filename": "'Helmi'-Pappaufsteller im KFV Zelt am Heldenplatz.jpg",
+        "latitude": 48.207192,
+        "longitude": 16.363217,
+        "createDate": "2025-10-26T11:41:44.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                220,
+                180
+              ],
+              "hex": "#fadcb4",
+              "percentage": "0.089"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                100,
+                10,
+                10
+              ],
+              "hex": "#640a0a",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "40.682"
+        },
+        "width": 2537,
+        "height": 4155,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "2 Soldaten hinter einem Zelt am Heldenplatz.jpg",
+        "latitude": 48.205933,
+        "longitude": 16.363547,
+        "createDate": "2025-10-26T12:02:50.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.072"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                50
+              ],
+              "hex": "#6e5032",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                40,
+                30,
+                30
+              ],
+              "hex": "#281e1e",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                160,
+                0,
+                0
+              ],
+              "hex": "#a00000",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "45.057"
+        },
+        "width": 3468,
+        "height": 4891,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "Blick von der Hofburg auf den Michaelerplatz.jpg",
+        "latitude": 48.207828,
+        "longitude": 16.366414,
+        "createDate": "2025-10-26T12:27:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                200,
+                220,
+                230
+              ],
+              "hex": "#c8dce6",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                110
+              ],
+              "hex": "#8c786e",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                60,
+                40,
+                30
+              ],
+              "hex": "#3c281e",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                110,
+                0,
+                0
+              ],
+              "hex": "#6e0000",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "37.066"
+        },
+        "width": 4034,
+        "height": 4979,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "Decken-Fassade in der Hofburg nahe Michaelerplatz.jpg",
+        "latitude": 48.207711,
+        "longitude": 16.365344,
+        "createDate": "2025-10-26T12:33:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                0,
+                0
+              ],
+              "hex": "#320000",
+              "percentage": "0.067"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                190
+              ],
+              "hex": "#dcd2be",
+              "percentage": "0.060"
+            }
+          ],
+          "colorfulness": "52.176"
+        },
+        "width": 3959,
+        "height": 5473,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "Eurofighter und Prinz-Eugen-Statue am Heldenplatz.jpg",
+        "latitude": 48.205689,
+        "longitude": 16.364072,
+        "createDate": "2025-10-26T12:07:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.218"
+            },
+            {
+              "rgb": [
+                180,
+                0,
+                0
+              ],
+              "hex": "#b40000",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                100,
+                120,
+                140
+              ],
+              "hex": "#64788c",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                10,
+                80,
+                130
+              ],
+              "hex": "#0a5082",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "51.328"
+        },
+        "width": 4411,
+        "height": 3319,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "Heldenplatz und Menschenmenge.jpg",
+        "latitude": 48.205925,
+        "longitude": 16.361783,
+        "createDate": "2025-10-26T11:59:42.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                190,
+                200
+              ],
+              "hex": "#b4bec8",
+              "percentage": "0.069"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                100
+              ],
+              "hex": "#826e64",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                10,
+                150,
+                220
+              ],
+              "hex": "#0a96dc",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                90,
+                150,
+                200
+              ],
+              "hex": "#5a96c8",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "43.199"
+        },
+        "width": 3122,
+        "height": 3784,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "Menschen, Zelte, Klettergerüst und Prinz-Eugen-Statue am Heldenplatz.jpg",
+        "latitude": 48.206944,
+        "longitude": 16.363894,
+        "createDate": "2025-10-26T11:28:56.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                90,
+                150
+              ],
+              "hex": "#325a96",
+              "percentage": "0.052"
+            },
+            {
+              "rgb": [
+                20,
+                30,
+                40
+              ],
+              "hex": "#141e28",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                230
+              ],
+              "hex": "#dce6e6",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "40.337"
+        },
+        "width": 4284,
+        "height": 5712,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "Michaelerplatz mit Menschen.jpg",
+        "latitude": 48.207692,
+        "longitude": 16.366164,
+        "createDate": "2025-10-26T12:26:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                180
+              ],
+              "hex": "#c8beb4",
+              "percentage": "0.028"
+            }
+          ],
+          "colorfulness": "38.314"
+        },
+        "width": 5262,
+        "height": 3697,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "Österreich Fahne und Fassade der Hofburg.jpg",
+        "latitude": 48.207694,
+        "longitude": 16.366175,
+        "createDate": "2025-10-26T12:25:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.114"
+            },
+            {
+              "rgb": [
+                200,
+                210,
+                210
+              ],
+              "hex": "#c8d2d2",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                130,
+                80,
+                80
+              ],
+              "hex": "#825050",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "47.832"
+        },
+        "width": 3606,
+        "height": 4553,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "Prinz-Eugen-Statue und Baugerüst am Heldenplatz.jpg",
+        "latitude": 48.206744,
+        "longitude": 16.362972,
+        "createDate": "2025-10-26T11:45:00.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                210,
+                210
+              ],
+              "hex": "#c8d2d2",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                140
+              ],
+              "hex": "#aa968c",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                70,
+                170,
+                220
+              ],
+              "hex": "#46aadc",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                20,
+                140,
+                200
+              ],
+              "hex": "#148cc8",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "43.056"
+        },
+        "width": 3620,
+        "height": 5002,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "Soldaten auf einem Cammouflage-Zelt und Menschen davor am Heldenplatz.jpg",
+        "latitude": 48.2067,
+        "longitude": 16.363614,
+        "createDate": "2025-10-26T11:23:16.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                80,
+                100
+              ],
+              "hex": "#325064",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                10,
+                120,
+                200
+              ],
+              "hex": "#0a78c8",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                20
+              ],
+              "hex": "#140a14",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                130
+              ],
+              "hex": "#a08282",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                90,
+                190,
+                250
+              ],
+              "hex": "#5abefa",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "41.921"
+        },
+        "width": 2330,
+        "height": 4212,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "Soldaten im Stechschritt zwischen Michaelerplatz und Heldenplatz.jpg",
+        "latitude": 48.206581,
+        "longitude": 16.364286,
+        "createDate": "2025-10-26T12:18:41.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                130,
+                100
+              ],
+              "hex": "#a08264",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                90,
+                60,
+                40
+              ],
+              "hex": "#5a3c28",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "33.736"
+        },
+        "width": 3234,
+        "height": 4308,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      },
+      {
+        "filename": "U-Bahn Station Stephansplatz und Stephansdom in der Inneren Stadt.jpg",
+        "latitude": 48.208225,
+        "longitude": 16.371261,
+        "createDate": "2025-10-26T12:43:03.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                140,
+                150,
+                160
+              ],
+              "hex": "#8c96a0",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                120,
+                110,
+                120
+              ],
+              "hex": "#786e78",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                200,
+                70,
+                80
+              ],
+              "hex": "#c84650",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "36.048"
+        },
+        "width": 3876,
+        "height": 5168,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Architektur",
+          "Stadt",
+          "Technologie",
+          "Militär"
+        ]
+      }
+    ],
+    "timeframe": "26. Oktober 2025",
+    "imageCount": 13,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Architektur",
+      "Stadt",
+      "Technologie",
+      "Militär"
+    ]
+  },
+  {
     "name": "graz",
     "slug": "graz",
     "title": "Graz",
@@ -16979,6 +18226,64 @@ export const galleries = [
         ]
       },
       {
+        "filename": "8 Kegel-Pins im Kreis und mit Schwarzlicht von Brigtte Kowanz in der Albertina.jpg",
+        "latitude": 48.204692,
+        "longitude": 16.367692,
+        "createDate": "2025-11-08T14:28:41.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                40,
+                160
+              ],
+              "hex": "#0028a0",
+              "percentage": "0.294"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                70
+              ],
+              "hex": "#000a46",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                80,
+                40,
+                120
+              ],
+              "hex": "#502878",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "19.694"
+        },
+        "width": 3922,
+        "height": 4230,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
         "filename": "Ausblick vom Marmorschlössl auf den Garten in Bad-Ischl.jpg",
         "latitude": 47.716744,
         "longitude": 13.617889,
@@ -17361,6 +18666,73 @@ export const galleries = [
         },
         "width": 4170,
         "height": 5542,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Ausstellungsraum und Kunstwerke von Brigitte Kowanz in der Albertina.jpg",
+        "latitude": 48.2047,
+        "longitude": 16.36765,
+        "createDate": "2025-11-08T14:30:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                220,
+                200
+              ],
+              "hex": "#e6dcc8",
+              "percentage": "0.077"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                170,
+                130,
+                100
+              ],
+              "hex": "#aa8264",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                120,
+                80,
+                50
+              ],
+              "hex": "#785032",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "43.425"
+        },
+        "width": 4763,
+        "height": 2334,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18035,6 +19407,122 @@ export const galleries = [
         },
         "width": 3699,
         "height": 4835,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Eine Skulptur bestehend aus 2 Skeletten in der Albertina Ausstellung \"Gothik Modern\".jpg",
+        "latitude": 48.205136,
+        "longitude": 16.368364,
+        "createDate": "2025-11-08T13:36:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                210
+              ],
+              "hex": "#fae6d2",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                220,
+                190,
+                170
+              ],
+              "hex": "#dcbeaa",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "38.107"
+        },
+        "width": 4069,
+        "height": 4959,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Eingang zum WC und 12 Ausstellungsplakate in der Albertina.jpg",
+        "latitude": 48.204731,
+        "longitude": 16.368469,
+        "createDate": "2025-11-08T14:44:19.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                110,
+                70
+              ],
+              "hex": "#a06e46",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                230,
+                200,
+                170
+              ],
+              "hex": "#e6c8aa",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "35.347"
+        },
+        "width": 3854,
+        "height": 4935,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -18872,6 +20360,55 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Kubuse mit Licht-Installationen und Museum-Besucher von Brigitte Kowanz in der Albertina.jpg",
+        "latitude": 48.204706,
+        "longitude": 16.367714,
+        "createDate": "2025-11-08T14:25:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                200,
+                180
+              ],
+              "hex": "#dcc8b4",
+              "percentage": "0.057"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.043"
+            }
+          ],
+          "colorfulness": "42.352"
+        },
+        "width": 3988,
+        "height": 4933,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
         "filename": "Leuchtende Wand im NHM.jpg",
         "latitude": 48.204953,
         "longitude": 16.358825,
@@ -18901,6 +20438,323 @@ export const galleries = [
         },
         "width": 5539,
         "height": 3798,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Licht-Installation 1 von Brigitte Kowanz in der Albertina.jpg",
+        "latitude": 48.2047,
+        "longitude": 16.367689,
+        "createDate": "2025-11-08T14:25:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                110,
+                90,
+                90
+              ],
+              "hex": "#6e5a5a",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                60,
+                30,
+                0
+              ],
+              "hex": "#3c1e00",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                40
+              ],
+              "hex": "#fae628",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                60,
+                160,
+                200
+              ],
+              "hex": "#3ca0c8",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                30,
+                180,
+                230
+              ],
+              "hex": "#1eb4e6",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "39.303"
+        },
+        "width": 4014,
+        "height": 5352,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Licht-Installation 2 von Brigitte Kowanz in der Albertina.jpg",
+        "latitude": 48.204678,
+        "longitude": 16.367686,
+        "createDate": "2025-11-08T14:25:40.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                70,
+                30,
+                0
+              ],
+              "hex": "#461e00",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                160,
+                150,
+                130
+              ],
+              "hex": "#a09682",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                210
+              ],
+              "hex": "#dcdcd2",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "35.605"
+        },
+        "width": 2739,
+        "height": 3649,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Licht-Installation 3 von Brigitte Kowanz in der Albertina.jpg",
+        "latitude": 48.204686,
+        "longitude": 16.367694,
+        "createDate": "2025-11-08T14:30:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                190,
+                160
+              ],
+              "hex": "#dcbea0",
+              "percentage": "0.074"
+            },
+            {
+              "rgb": [
+                40,
+                10,
+                0
+              ],
+              "hex": "#280a00",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                150,
+                110,
+                70
+              ],
+              "hex": "#966e46",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                100,
+                120,
+                130
+              ],
+              "hex": "#647882",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                120,
+                170,
+                190
+              ],
+              "hex": "#78aabe",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "40.410"
+        },
+        "width": 5533,
+        "height": 3814,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Licht-Installation 4 von Brigitte Kowanz in der Albertina.jpg",
+        "latitude": 48.204669,
+        "longitude": 16.367644,
+        "createDate": "2025-11-08T14:32:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.107"
+            },
+            {
+              "rgb": [
+                150,
+                110,
+                80
+              ],
+              "hex": "#966e50",
+              "percentage": "0.073"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.056"
+            }
+          ],
+          "colorfulness": "39.345"
+        },
+        "width": 2702,
+        "height": 3547,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Licht-Installation aus Steckdosen von Brigitte Kowanz in der Albertina.jpg",
+        "latitude": 48.204742,
+        "longitude": 16.367689,
+        "createDate": "2025-11-08T14:32:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.097"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.052"
+            }
+          ],
+          "colorfulness": "25.567"
+        },
+        "width": 5131,
+        "height": 3541,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -19285,6 +21139,64 @@ export const galleries = [
         },
         "width": 3834,
         "height": 4806,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Berlin",
+          "Österreich",
+          "Deutschland",
+          "Architektur",
+          "Stadt",
+          "Kunst",
+          "Gemälde",
+          "Skulpturen",
+          "Statuen",
+          "Taferl",
+          "Museum"
+        ]
+      },
+      {
+        "filename": "Polaroid-Foto-Serie in der Albertina .jpg",
+        "latitude": 48.204711,
+        "longitude": 16.367689,
+        "createDate": "2025-11-08T14:32:42.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                130,
+                100
+              ],
+              "hex": "#a08264",
+              "percentage": "0.113"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                210
+              ],
+              "hex": "#faf0d2",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                10,
+                0,
+                0
+              ],
+              "hex": "#0a0000",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "23.156"
+        },
+        "width": 4794,
+        "height": 2961,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -20564,8 +22476,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "14. Mai 2025 - 9. Oktober 2025",
-    "imageCount": 71,
+    "timeframe": "14. Mai 2025 - 8. November 2025",
+    "imageCount": 82,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -27633,6 +29545,74 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Eingang zum Meidlinger Bahnhof Ostseite.jpg",
+        "latitude": 48.17525,
+        "longitude": 16.335092,
+        "createDate": "2025-11-14T13:44:32.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                30,
+                20
+              ],
+              "hex": "#321e14",
+              "percentage": "0.061"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                110
+              ],
+              "hex": "#a0826e",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                60
+              ],
+              "hex": "#64463c",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                0,
+                30,
+                110
+              ],
+              "hex": "#001e6e",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "34.920"
+        },
+        "width": 4178,
+        "height": 4924,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
+      },
+      {
         "filename": "Entwerter und Stiegenaufgang zur S-Bahn-Station Ottakring S45.jpg",
         "latitude": 48.211933,
         "longitude": 16.311789,
@@ -30670,8 +32650,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "11. April 2024 - 12. Oktober 2025",
-    "imageCount": 79,
+    "timeframe": "11. April 2024 - 14. November 2025",
+    "imageCount": 80,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -37043,6 +39023,75 @@ export const galleries = [
     "description": "Johann Bernhard Fischer von Erlach wird man hier nicht finden",
     "images": [
       {
+        "filename": "'Ich las und las, bis mir die Augen brannten' Fester-Zitate von Stefanf Zweig in Lehen.jpg",
+        "latitude": 47.813106,
+        "longitude": 13.026517,
+        "createDate": "2025-11-15T07:24:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                110,
+                70,
+                50
+              ],
+              "hex": "#6e4632",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                160,
+                110,
+                60
+              ],
+              "hex": "#a06e3c",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                160
+              ],
+              "hex": "#aaa0a0",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                20
+              ],
+              "hex": "#321e14",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "40.427"
+        },
+        "width": 3362,
+        "height": 5255,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
+      },
+      {
         "filename": "Aganigi Naganigi Kebab.jpg",
         "latitude": 47.811672,
         "longitude": 13.025536,
@@ -37487,6 +39536,75 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Ein Fenster mit Bäumen, die Glan und einem Fussgängerweg in Lehen.jpg",
+        "latitude": 47.816556,
+        "longitude": 13.025811,
+        "createDate": "2025-11-17T06:41:20.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                250,
+                210,
+                130
+              ],
+              "hex": "#fad282",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                220
+              ],
+              "hex": "#fafadc",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                170,
+                190,
+                200
+              ],
+              "hex": "#aabec8",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                140,
+                150,
+                160
+              ],
+              "hex": "#8c96a0",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "41.731"
+        },
+        "width": 3765,
+        "height": 5493,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
+      },
+      {
         "filename": "Gebäude in Lehen.jpg",
         "latitude": 47.815106,
         "longitude": 13.025831,
@@ -37820,6 +39938,57 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Statue vor dem Casino Austria in Klessheim.jpg",
+        "latitude": 47.819661,
+        "longitude": 12.992678,
+        "createDate": "2025-11-16T16:38:37.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.358"
+            },
+            {
+              "rgb": [
+                190,
+                160,
+                130
+              ],
+              "hex": "#bea082",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                170
+              ],
+              "hex": "#dcc8aa",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "31.456"
+        },
+        "width": 2732,
+        "height": 3292,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
+      },
+      {
         "filename": "Vordach der Neuen MItte Lehen und das Haus in Blau-Gelb gegenüber.jpg",
         "latitude": 47.813147,
         "longitude": 13.026411,
@@ -37931,8 +40100,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "6. April 2024 - 18. Mai 2025",
-    "imageCount": 16,
+    "timeframe": "6. April 2024 - 17. November 2025",
+    "imageCount": 19,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -40343,6 +42512,85 @@ export const galleries = [
     "description": "Stadt & Land, hier & da, dieses & jenes, oben & unten, und so weiter & so fort ...",
     "images": [
       {
+        "filename": "'Vielfalt' Schriftzug gegenüber der der Tonhalle München.jpg",
+        "latitude": 48.123992,
+        "longitude": 11.607414,
+        "createDate": "2025-11-15T19:22:54.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.154"
+            },
+            {
+              "rgb": [
+                10,
+                70,
+                150
+              ],
+              "hex": "#0a4696",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                70,
+                120,
+                180
+              ],
+              "hex": "#4678b4",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                180,
+                60,
+                30
+              ],
+              "hex": "#b43c1e",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                100
+              ],
+              "hex": "#a08264",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "43.835"
+        },
+        "width": 2449,
+        "height": 3777,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
+      },
+      {
         "filename": "Alte Jukebox im Anker-Kino Burghausen.jpg",
         "latitude": 48.158589,
         "longitude": 12.832308,
@@ -41346,6 +43594,58 @@ export const galleries = [
         ]
       },
       {
+        "filename": "John Butler und Band in der Tonhalle München.jpg",
+        "latitude": 48.123947,
+        "longitude": 11.606786,
+        "createDate": "2025-11-15T21:40:48.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.075"
+            },
+            {
+              "rgb": [
+                10,
+                200,
+                230
+              ],
+              "hex": "#0ac8e6",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "35.900"
+        },
+        "width": 3775,
+        "height": 3775,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
+      },
+      {
         "filename": "Kegelbahn Aussenaufnahme.jpg",
         "latitude": 48.59065,
         "longitude": 15.336872,
@@ -41617,6 +43917,164 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Kunstwerk im Werksviertel München.jpg",
+        "latitude": 48.124522,
+        "longitude": 11.60695,
+        "createDate": "2025-11-15T17:24:35.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                70,
+                40,
+                20
+              ],
+              "hex": "#462814",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                180,
+                100,
+                10
+              ],
+              "hex": "#b4640a",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                0,
+                40,
+                80
+              ],
+              "hex": "#002850",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                110,
+                200,
+                220
+              ],
+              "hex": "#6ec8dc",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "54.036"
+        },
+        "width": 4014,
+        "height": 5301,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
+      },
+      {
+        "filename": "Notausgang-Schild und 'Ingolstadt' Graffiti Schriftzug bei der Tonhalle München.jpg",
+        "latitude": 48.123936,
+        "longitude": 11.607511,
+        "createDate": "2025-11-15T19:22:18.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                100,
+                50
+              ],
+              "hex": "#506432",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                30,
+                0,
+                0
+              ],
+              "hex": "#1e0000",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                210,
+                180,
+                200
+              ],
+              "hex": "#d2b4c8",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                140,
+                100,
+                90
+              ],
+              "hex": "#8c645a",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                180,
+                40,
+                70
+              ],
+              "hex": "#b42846",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "41.216"
+        },
+        "width": 3417,
+        "height": 4502,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
+      },
+      {
         "filename": "Rettungsring  an der Thaya.jpg",
         "latitude": 48.811428,
         "longitude": 15.290214,
@@ -41836,6 +44294,67 @@ export const galleries = [
         ]
       },
       {
+        "filename": "See und Bäume in der Nussdorfer-Au.jpg",
+        "latitude": 47.920444,
+        "longitude": 12.959575,
+        "createDate": "2025-11-16T13:28:04.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                40,
+                30
+              ],
+              "hex": "#32281e",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                150,
+                140,
+                140
+              ],
+              "hex": "#968c8c",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                200
+              ],
+              "hex": "#f0e6c8",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "33.239"
+        },
+        "width": 4075,
+        "height": 4897,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
+      },
+      {
         "filename": "Statue eines Mannes mit Kind auf seinen Schultern.jpg",
         "latitude": 48.590442,
         "longitude": 15.336358,
@@ -42005,6 +44524,76 @@ export const galleries = [
         },
         "width": 3022,
         "height": 3951,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Parks"
+        ]
+      },
+      {
+        "filename": "Sticker 'FFW Pfeffertshofen, 150 Jahre, 25-28. Mai 2028' in München .jpg",
+        "latitude": 48.124803,
+        "longitude": 11.606603,
+        "createDate": "2025-11-15T17:28:55.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                0,
+                0
+              ],
+              "hex": "#dc0000",
+              "percentage": "0.265"
+            },
+            {
+              "rgb": [
+                140,
+                10,
+                0
+              ],
+              "hex": "#8c0a00",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                50,
+                0,
+                0
+              ],
+              "hex": "#320000",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                150,
+                90,
+                150
+              ],
+              "hex": "#965a96",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "30.726"
+        },
+        "width": 3248,
+        "height": 4167,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -42247,8 +44836,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "18. Februar 2024 - 24. August 2025",
-    "imageCount": 29,
+    "timeframe": "18. Februar 2024 - 16. November 2025",
+    "imageCount": 35,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -42277,6 +44866,48 @@ export const galleries = [
     "title": "Symbole",
     "description": "Buchstaben, Kunst & Rechtschreibfehler",
     "images": [
+      {
+        "filename": "'Alright, Just be a Crap. Don't fuck this up' Comic in einem Büro.jpg",
+        "latitude": 48.224633,
+        "longitude": 16.353733,
+        "createDate": "2025-11-06T08:52:19.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                200,
+                180
+              ],
+              "hex": "#dcc8b4",
+              "percentage": "0.138"
+            },
+            {
+              "rgb": [
+                10,
+                0,
+                0
+              ],
+              "hex": "#0a0000",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "25.987"
+        },
+        "width": 4269,
+        "height": 4269,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
       {
         "filename": "'Angry Face' Graffitti nahe Gudrunstrasse.jpg",
         "latitude": 48.177108,
@@ -44765,8 +47396,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "11. April 2024 - 9. Oktober 2025",
-    "imageCount": 44,
+    "timeframe": "11. April 2024 - 6. November 2025",
+    "imageCount": 45,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -44783,7 +47414,7 @@ export const galleries = [
     "name": "valencia",
     "slug": "valencia",
     "title": "Valencia",
-    "description": "Gute Paella & mediterrane Elektrik",
+    "description": "Buena paella y electricidad mediterránea",
     "images": [
       {
         "filename": "Aussen-Elektrik-Verkabelung.jpg",
@@ -46237,6 +48868,136 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Kassa' Schriftzug am Adventmarkt im Alten AKH am Alsergrund.jpg",
+        "latitude": 48.215942,
+        "longitude": 16.352803,
+        "createDate": "2025-12-08T14:32:34.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                80,
+                60,
+                60
+              ],
+              "hex": "#503c3c",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                240,
+                40,
+                20
+              ],
+              "hex": "#f02814",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "43.244"
+        },
+        "width": 3655,
+        "height": 4304,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "'Meow' Graffitti in Alsergrund.jpg",
+        "latitude": 48.216572,
+        "longitude": 16.356842,
+        "createDate": "2025-10-24T11:18:44.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.096"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                60
+              ],
+              "hex": "#8c8c3c",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                230,
+                170,
+                140
+              ],
+              "hex": "#e6aa8c",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                110,
+                110,
+                140
+              ],
+              "hex": "#6e6e8c",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "46.358"
+        },
+        "width": 4795,
+        "height": 4214,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "'Pizza Marina' in der Simmeringer Hauptstrasse.jpg",
         "latitude": 48.162342,
         "longitude": 16.428136,
@@ -46358,6 +49119,71 @@ export const galleries = [
         },
         "width": 3909,
         "height": 5467,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "'Versuchsanstalt' Schriftzug nebender HTL Landstrasse in St. Marx.jpg",
+        "latitude": 48.185211,
+        "longitude": 16.402206,
+        "createDate": "2025-12-07T10:34:58.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                120,
+                120,
+                130
+              ],
+              "hex": "#787882",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                10,
+                130,
+                180
+              ],
+              "hex": "#0a82b4",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                160,
+                150,
+                50
+              ],
+              "hex": "#a09632",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "40.623"
+        },
+        "width": 3680,
+        "height": 4013,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47084,6 +49910,71 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Altar-Fassade der Evangelischen Pfarre Gumpendorf in Mariahilf.jpg",
+        "latitude": 48.190239,
+        "longitude": 16.343608,
+        "createDate": "2025-10-29T07:34:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                180,
+                170
+              ],
+              "hex": "#b4b4aa",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                60
+              ],
+              "hex": "#6e503c",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                50,
+                10,
+                0
+              ],
+              "hex": "#320a00",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "37.727"
+        },
+        "width": 5366,
+        "height": 3772,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Alte, verrostete BIM-Granitur in der Simmeringer Haide.jpg",
         "latitude": 48.170844,
         "longitude": 16.475836,
@@ -47196,6 +50087,71 @@ export const galleries = [
         },
         "width": 4188,
         "height": 3574,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Am Boden liegende Rote Jacke in Simmering.jpg",
+        "latitude": 48.171061,
+        "longitude": 16.41945,
+        "createDate": "2025-10-25T13:14:47.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.107"
+            },
+            {
+              "rgb": [
+                250,
+                140,
+                100
+              ],
+              "hex": "#fa8c64",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                200,
+                50,
+                20
+              ],
+              "hex": "#c83214",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "34.127"
+        },
+        "width": 3751,
+        "height": 5001,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -48527,6 +51483,71 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Blumen auf Fensterbank in der Alserbachstrasse.jpg",
+        "latitude": 48.224808,
+        "longitude": 16.353997,
+        "createDate": "2025-11-06T07:24:37.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.070"
+            },
+            {
+              "rgb": [
+                240,
+                200,
+                150
+              ],
+              "hex": "#f0c896",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                140,
+                110,
+                90
+              ],
+              "hex": "#8c6e5a",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                10,
+                110,
+                170
+              ],
+              "hex": "#0a6eaa",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "50.031"
+        },
+        "width": 4285,
+        "height": 4465,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Blumen-Buquets vor einem Asphaltboden in Simmering.jpg",
         "latitude": 48.169933,
         "longitude": 16.427206,
@@ -49224,6 +52245,53 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Drei Musiker in der U-Bahn-Station Karlsplatz.jpg",
+        "latitude": 48.200103,
+        "longitude": 16.370394,
+        "createDate": "2025-12-07T15:31:13.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                140,
+                110
+              ],
+              "hex": "#aa8c6e",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.035"
+            }
+          ],
+          "colorfulness": "35.404"
+        },
+        "width": 4802,
+        "height": 3468,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Durchgang Garnisongasse - Schwarzspanierstrasse, Alsergrund.jpg",
         "latitude": 48.216561,
         "longitude": 16.356633,
@@ -49838,6 +52906,71 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Eingang des Wien Museums mit Spiegelungen der Karlskirche in der Glasfassade.jpg",
+        "latitude": 48.199167,
+        "longitude": 16.372542,
+        "createDate": "2025-12-07T13:29:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                220,
+                210
+              ],
+              "hex": "#e6dcd2",
+              "percentage": "0.097"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.065"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                130
+              ],
+              "hex": "#a08c82",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                90,
+                130,
+                170
+              ],
+              "hex": "#5a82aa",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "44.391"
+        },
+        "width": 3944,
+        "height": 4934,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Eingang und Wand-Uhr des Wiener Westbahnhofes.jpg",
         "latitude": 48.19725,
         "longitude": 16.337719,
@@ -50024,6 +53157,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Eingang zum 'Tachles' am Karmelitermarkt - Taborstrasse.jpg",
+        "latitude": 48.215808,
+        "longitude": 16.380306,
+        "createDate": "2025-12-06T18:10:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                100,
+                60,
+                60
+              ],
+              "hex": "#643c3c",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                10,
+                20,
+                160
+              ],
+              "hex": "#0a14a0",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                200,
+                160,
+                230
+              ],
+              "hex": "#c8a0e6",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                180
+              ],
+              "hex": "#fae6b4",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "38.866"
+        },
+        "width": 3579,
+        "height": 5166,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Eingangstor uz einem Gemeindebau in der Lorystrasse.jpg",
         "latitude": 48.169717,
         "longitude": 16.416008,
@@ -50165,6 +53372,62 @@ export const galleries = [
         },
         "width": 3575,
         "height": 5005,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Engel-Statue und Grabmal am St. Marxer Friedhof in Landstrasse.jpg",
+        "latitude": 48.183803,
+        "longitude": 16.403242,
+        "createDate": "2025-12-07T11:12:27.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                70,
+                50,
+                40
+              ],
+              "hex": "#463228",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                180,
+                150,
+                130
+              ],
+              "hex": "#b49682",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                120,
+                170,
+                190
+              ],
+              "hex": "#78aabe",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "33.220"
+        },
+        "width": 3801,
+        "height": 4814,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -52556,6 +55819,71 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Halloween-Decor in einem Fenster am Herdepark.jpg",
+        "latitude": 48.170825,
+        "longitude": 16.410042,
+        "createDate": "2025-10-25T11:32:17.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                200,
+                190
+              ],
+              "hex": "#d2c8be",
+              "percentage": "0.077"
+            },
+            {
+              "rgb": [
+                180,
+                150,
+                120
+              ],
+              "hex": "#b49678",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                20,
+                20,
+                20
+              ],
+              "hex": "#141414",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                200,
+                130,
+                40
+              ],
+              "hex": "#c88228",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "35.252"
+        },
+        "width": 4019,
+        "height": 4999,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Handelskai - Millenium City Fussgängerzone.jpg",
         "latitude": 48.240156,
         "longitude": 16.385886,
@@ -53031,6 +56359,71 @@ export const galleries = [
         },
         "width": 3917,
         "height": 3759,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Hecke, Palmenhaus und Hofburg in der Inneren Stadt.jpg",
+        "latitude": 48.204528,
+        "longitude": 16.367997,
+        "createDate": "2025-11-08T14:46:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.088"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                190
+              ],
+              "hex": "#f0dcbe",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "45.507"
+        },
+        "width": 3964,
+        "height": 4605,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -53652,6 +57045,62 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Innenhof der Amerlinghauses am Spittelberg in Neubau.jpg",
+        "latitude": 48.203092,
+        "longitude": 16.354408,
+        "createDate": "2025-12-08T13:10:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                20,
+                10
+              ],
+              "hex": "#32140a",
+              "percentage": "0.064"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                250,
+                190,
+                80
+              ],
+              "hex": "#fabe50",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "44.110"
+        },
+        "width": 3672,
+        "height": 4742,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Joe Strummer - The Clash Wandbild bei der Arena Wien.jpg",
         "latitude": 48.187325,
         "longitude": 16.413358,
@@ -53699,6 +57148,127 @@ export const galleries = [
         },
         "width": 3477,
         "height": 5141,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Johann-Strauss Bilder am Karlsplatz, gemalt von SchülerInnen diverser Wiener Schulen.jpg",
+        "latitude": 48.199761,
+        "longitude": 16.370672,
+        "createDate": "2025-12-07T13:43:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                40,
+                30
+              ],
+              "hex": "#3c281e",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                210,
+                180,
+                130
+              ],
+              "hex": "#d2b482",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                190
+              ],
+              "hex": "#dcd2be",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                210,
+                170,
+                30
+              ],
+              "hex": "#d2aa1e",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                10,
+                120,
+                150
+              ],
+              "hex": "#0a7896",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "43.787"
+        },
+        "width": 3293,
+        "height": 4985,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Johann-Strauss Denkmal am Karlsplatz in Wieden.jpg",
+        "latitude": 48.199658,
+        "longitude": 16.371964,
+        "createDate": "2025-12-07T15:35:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.068"
+            },
+            {
+              "rgb": [
+                30,
+                90,
+                140
+              ],
+              "hex": "#1e5a8c",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "39.844"
+        },
+        "width": 2438,
+        "height": 3248,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -54089,6 +57659,71 @@ export const galleries = [
         },
         "width": 3803,
         "height": 4613,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Kleines Riesenrad am Adventmarkt im Alten AKH am Alsergrund.jpg",
+        "latitude": 48.215225,
+        "longitude": 16.353347,
+        "createDate": "2025-12-08T14:28:44.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.094"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.056"
+            },
+            {
+              "rgb": [
+                120,
+                90,
+                30
+              ],
+              "hex": "#785a1e",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                130,
+                0,
+                0
+              ],
+              "hex": "#820000",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "53.203"
+        },
+        "width": 3793,
+        "height": 4960,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -54918,6 +58553,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Menschen vor dem Eingang des Wien Museums am Karlsplatz.jpg",
+        "latitude": 48.198944,
+        "longitude": 16.372431,
+        "createDate": "2025-12-07T13:28:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                220,
+                210
+              ],
+              "hex": "#e6dcd2",
+              "percentage": "0.068"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                50,
+                100,
+                140
+              ],
+              "hex": "#32648c",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                70
+              ],
+              "hex": "#5a4646",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "46.257"
+        },
+        "width": 3647,
+        "height": 4728,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Meta-Kugel auf Masten nahe Taborstrasse in der Leopoldstadt.jpg",
         "latitude": 48.230603,
         "longitude": 16.391947,
@@ -55503,6 +59212,53 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Parkplatz und Innenhof hinter dem Zentrum Simmering - Dommesgasse.jpg",
+        "latitude": 48.172928,
+        "longitude": 16.41505,
+        "createDate": "2025-11-02T08:42:32.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                160,
+                140
+              ],
+              "hex": "#b4a08c",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                110,
+                70,
+                40
+              ],
+              "hex": "#6e4628",
+              "percentage": "0.030"
+            }
+          ],
+          "colorfulness": "34.834"
+        },
+        "width": 4726,
+        "height": 4053,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Parlament und Athene.jpg",
         "latitude": 48.208453,
         "longitude": 16.359864,
@@ -55541,6 +59297,53 @@ export const galleries = [
         },
         "width": 3779,
         "height": 4306,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Plakat im AZ Simmering - Geiselbergstrasse.jpg",
+        "latitude": 48.174819,
+        "longitude": 16.402339,
+        "createDate": "2025-12-10T07:01:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.095"
+            },
+            {
+              "rgb": [
+                10,
+                10,
+                40
+              ],
+              "hex": "#0a0a28",
+              "percentage": "0.021"
+            }
+          ],
+          "colorfulness": "28.333"
+        },
+        "width": 3324,
+        "height": 5068,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -56155,6 +59958,53 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Sharktank Konzert im großen Saal der Arena Wien.jpg",
+        "latitude": 48.187333,
+        "longitude": 16.412514,
+        "createDate": "2025-11-06T20:47:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.215"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                190
+              ],
+              "hex": "#c8c8be",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "39.355"
+        },
+        "width": 3646,
+        "height": 3692,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Simmering U-Bahn Stadtauswärts.jpg",
         "latitude": 48.169636,
         "longitude": 16.420636,
@@ -56397,6 +60247,71 @@ export const galleries = [
         },
         "width": 3350,
         "height": 4511,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Spiegelungen an einer Glasfassade bei der Albertina, Innere Stadt.jpg",
+        "latitude": 48.204422,
+        "longitude": 16.368947,
+        "createDate": "2025-11-08T12:50:07.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.079"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                50
+              ],
+              "hex": "#6e5032",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "44.669"
+        },
+        "width": 3471,
+        "height": 4804,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -57643,6 +61558,80 @@ export const galleries = [
         },
         "width": 4369,
         "height": 3357,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Tankstelle, Einfahrt und ein roter alter Ford nahe S-Bahn-Station Grillgasse.jpg",
+        "latitude": 48.166692,
+        "longitude": 16.410997,
+        "createDate": "2025-11-09T16:31:41.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                30,
+                20
+              ],
+              "hex": "#321e14",
+              "percentage": "0.056"
+            },
+            {
+              "rgb": [
+                160,
+                110,
+                50
+              ],
+              "hex": "#a06e32",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                150
+              ],
+              "hex": "#c8b496",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                170,
+                20,
+                0
+              ],
+              "hex": "#aa1400",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                240
+              ],
+              "hex": "#fafaf0",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "37.602"
+        },
+        "width": 2682,
+        "height": 3527,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -59649,10 +63638,84 @@ export const galleries = [
           "Park",
           "Statuen"
         ]
+      },
+      {
+        "filename": "Zwei Bänke, Gräber am St. Marxer Friedhof und ein Wohnhaus dahinter.jpg",
+        "latitude": 48.183575,
+        "longitude": 16.40295,
+        "createDate": "2025-12-07T10:37:33.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                150,
+                130
+              ],
+              "hex": "#aa9682",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                40
+              ],
+              "hex": "#644628",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                100,
+                140,
+                160
+              ],
+              "hex": "#648ca0",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                230,
+                160,
+                100
+              ],
+              "hex": "#e6a064",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                250,
+                230,
+                200
+              ],
+              "hex": "#fae6c8",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "35.889"
+        },
+        "width": 4084,
+        "height": 4624,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
       }
     ],
-    "timeframe": "7. Juni 2024 - 12. Oktober 2025",
-    "imageCount": 225,
+    "timeframe": "7. Juni 2024 - 10. Dezember 2025",
+    "imageCount": 248,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",

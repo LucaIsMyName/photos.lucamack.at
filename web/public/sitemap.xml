@@ -281,7 +281,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/born-to-die-in-berlin-street-mit-wolf-und-maryilin-monroe</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/born-to-die-in-berlin-street-mit-wolf-und-marylin-monroe</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1226,6 +1226,76 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/helmi-pappaufsteller-im-kfv-zelt-am-heldenplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/2-soldaten-hinter-einem-zelt-am-heldenplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/blick-von-der-hofburg-auf-den-michaelerplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/decken-fassade-in-der-hofburg-nahe-michaelerplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/eurofighter-und-prinz-eugen-statue-am-heldenplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/heldenplatz-und-menschenmenge</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/menschen-zelte-klettergerust-und-prinz-eugen-statue-am-heldenplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/michaelerplatz-mit-menschen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/osterreich-fahne-und-fassade-der-hofburg</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/prinz-eugen-statue-und-baugerust-am-heldenplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/soldaten-auf-einem-cammouflage-zelt-und-menschen-davor-am-heldenplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/soldaten-im-stechschritt-zwischen-michaelerplatz-und-heldenplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/feiertag/image/u-bahn-station-stephansplatz-und-stephansdom-in-der-inneren-stadt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/graz</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1486,6 +1556,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/8-kegel-pins-im-kreis-und-mit-schwarzlicht-von-brigtte-kowanz-in-der-albertina</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/ausblick-vom-marmorschlossl-auf-den-garten-in-bad-ischl</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1512,6 +1587,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/ausstellungsraum-mit-wandbildern-nhm</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/ausstellungsraum-und-kunstwerke-von-brigitte-kowanz-in-der-albertina</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1567,6 +1647,16 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/ehrentafel-and-die-erbauer-des-wien-museums-am-treppenaufgang</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/eine-skulptur-bestehend-aus-2-skeletten-in-der-albertina-ausstellung-gothik-modern</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/eingang-zum-wc-und-12-ausstellungsplakate-in-der-albertina</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1636,7 +1726,37 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/kubuse-mit-licht-installationen-und-museum-besucher-von-brigitte-kowanz-in-der-albertina</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/leuchtende-wand-im-nhm</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/licht-installation-1-von-brigitte-kowanz-in-der-albertina</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/licht-installation-2-von-brigitte-kowanz-in-der-albertina</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/licht-installation-3-von-brigitte-kowanz-in-der-albertina</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/licht-installation-4-von-brigitte-kowanz-in-der-albertina</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/licht-installation-aus-steckdosen-von-brigitte-kowanz-in-der-albertina</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1667,6 +1787,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/im-museum/image/mutter-und-kind-vor-schaukasten-nhm</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/im-museum/image/polaroid-foto-serie-in-der-albertina</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2387,6 +2512,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/eingang-der-u-bahn-station-langenfeldgasse-bei-nacht</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/eingang-zum-meidlinger-bahnhof-ostseite</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3221,6 +3351,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/salzburg/image/ich-las-und-las-bis-mir-die-augen-brannten-fester-zitate-von-stefanf-zweig-in-lehen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/salzburg/image/aganigi-naganigi-kebab</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3261,6 +3396,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/salzburg/image/ein-fenster-mit-baumen-die-glan-und-einem-fussgangerweg-in-lehen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/salzburg/image/gebaude-in-lehen</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3287,6 +3427,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/salzburg/image/spielplatz-in-lehen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/salzburg/image/statue-vor-dem-casino-austria-in-klessheim</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3511,6 +3656,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/vielfalt-schriftzug-gegenuber-der-der-tonhalle-munchen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/alte-jukebox-im-anker-kino-burghausen</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3591,6 +3741,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/john-butler-und-band-in-der-tonhalle-munchen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/kegelbahn-aussenaufnahme</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3611,6 +3766,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/kunstwerk-im-werksviertel-munchen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/notausgang-schild-und-ingolstadt-graffiti-schriftzug-bei-der-tonhalle-munchen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/rettungsring-an-der-thaya</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3626,6 +3791,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/see-und-baume-in-der-nussdorfer-au</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/statue-eines-mannes-mit-kind-auf-seinen-schultern</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3637,6 +3807,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/sternenhimmel-kleinlobming-steiermark</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/sonstwo-und-allfaelliges/image/sticker-ffw-pfeffertshofen-150-jahre-25-28-mai-2028-in-munchen</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3659,6 +3834,11 @@
     <loc>https://photos.lucamack.at/gallery/symbole</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/alright-just-be-a-crap-dont-fuck-this-up-comic-in-einem-buro</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/symbole/image/angry-face-graffitti-nahe-gudrunstrasse</loc>
@@ -4011,12 +4191,27 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/kassa-schriftzug-am-adventmarkt-im-alten-akh-am-alsergrund</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/meow-graffitti-in-alsergrund</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/pizza-marina-in-der-simmeringer-hauptstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/smiley-sticker-in-der-regenbogenstube-schwarzspanierstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/versuchsanstalt-schriftzug-nebender-htl-landstrasse-in-st-marx</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4081,12 +4276,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/altar-fassade-der-evangelischen-pfarre-gumpendorf-in-mariahilf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/alte-verrostete-bim-granitur-in-der-simmeringer-haide</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/altes-fabriksgelande-in-der-haidestrasse-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/am-boden-liegende-rote-jacke-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4201,6 +4406,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/blumen-auf-fensterbank-in-der-alserbachstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/blumen-buquets-vor-einem-asphaltboden-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4256,6 +4466,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/drei-musiker-in-der-u-bahn-station-karlsplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/durchgang-garnisongasse-schwarzspanierstrasse-alsergrund</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4306,6 +4521,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/eingang-des-wien-museums-mit-spiegelungen-der-karlskirche-in-der-glasfassade</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/eingang-und-wand-uhr-des-wiener-westbahnhofes</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4321,6 +4541,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/eingang-zum-tachles-am-karmelitermarkt-taborstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/eingangstor-uz-einem-gemeindebau-in-der-lorystrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4332,6 +4557,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/eingangstur-in-der-simmeringer-hauptstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/engel-statue-und-grabmal-am-st-marxer-friedhof-in-landstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4531,6 +4761,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/halloween-decor-in-einem-fenster-am-herdepark</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/handelskai-millenium-city-fussgangerzone</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4567,6 +4802,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/hauseingang-in-der-wilhelm-weber-gasse-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/hecke-palmenhaus-und-hofburg-in-der-inneren-stadt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4616,7 +4856,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/innenhof-der-amerlinghauses-am-spittelberg-in-neubau</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/joe-strummer-the-clash-wandbild-bei-der-arena-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/johann-strauss-bilder-am-karlsplatz-gemalt-von-schulerinnen-diverser-wiener-schulen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/johann-strauss-denkmal-am-karlsplatz-in-wieden</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4647,6 +4902,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/kleines-materl-und-graffitti-in-der-geiselbergstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/kleines-riesenrad-am-adventmarkt-im-alten-akh-am-alsergrund</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4721,6 +4981,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/menschen-vor-dem-eingang-des-wien-museums-am-karlsplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/meta-kugel-auf-masten-nahe-taborstrasse-in-der-leopoldstadt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4766,7 +5031,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/parkplatz-und-innenhof-hinter-dem-zentrum-simmering-dommesgasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/parlament-und-athene</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/plakat-im-az-simmering-geiselbergstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4821,6 +5096,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/sharktank-konzert-im-groen-saal-der-arena-wien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/simmering-u-bahn-stadtauswarts</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4837,6 +5117,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/sonnenuntergang-am-franz-josefs-kai-am-donaukanal</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/spiegelungen-an-einer-glasfassade-bei-der-albertina-innere-stadt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4937,6 +5222,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/stromkasten-und-feld-in-aspern-nord</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/tankstelle-einfahrt-und-ein-roter-alter-ford-nahe-s-bahn-station-grillgasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5097,6 +5387,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/zug-schienen-und-frachtlader-bei-einer-fabrik-am-albernen-hafen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/zwei-banke-graber-am-st-marxer-friedhof-und-ein-wohnhaus-dahinter</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
