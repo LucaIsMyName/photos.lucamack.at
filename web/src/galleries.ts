@@ -58553,80 +58553,6 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Menschen vor dem Eingang des Wien Museums am Karlsplatz.jpg",
-        "latitude": 48.198944,
-        "longitude": 16.372431,
-        "createDate": "2025-12-07T13:28:15.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                230,
-                220,
-                210
-              ],
-              "hex": "#e6dcd2",
-              "percentage": "0.068"
-            },
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.038"
-            },
-            {
-              "rgb": [
-                180,
-                160,
-                140
-              ],
-              "hex": "#b4a08c",
-              "percentage": "0.011"
-            },
-            {
-              "rgb": [
-                50,
-                100,
-                140
-              ],
-              "hex": "#32648c",
-              "percentage": "0.010"
-            },
-            {
-              "rgb": [
-                90,
-                70,
-                70
-              ],
-              "hex": "#5a4646",
-              "percentage": "0.004"
-            }
-          ],
-          "colorfulness": "46.257"
-        },
-        "width": 3647,
-        "height": 4728,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Typografie",
-          "Kultur",
-          "Kunst",
-          "Park",
-          "Statuen"
-        ]
-      },
-      {
         "filename": "Meta-Kugel auf Masten nahe Taborstrasse in der Leopoldstadt.jpg",
         "latitude": 48.230603,
         "longitude": 16.391947,
@@ -63715,7 +63641,7 @@ export const galleries = [
       }
     ],
     "timeframe": "7. Juni 2024 - 10. Dezember 2025",
-    "imageCount": 248,
+    "imageCount": 247,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
