@@ -44867,7 +44867,7 @@ export const galleries = [
     "description": "Buchstaben, Kunst & Rechtschreibfehler",
     "images": [
       {
-        "filename": "'Alright, Just be a Crap. Don't fuck this up' Comic in einem Büro.jpg",
+        "filename": "'Alright, Just be a Crab. Don't fuck this up' Comic in einem Büro.jpg",
         "latitude": 48.224633,
         "longitude": 16.353733,
         "createDate": "2025-11-06T08:52:19.000Z",
