@@ -39092,6 +39092,66 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Spiele Halle' in Laufen Marienplatz.jpg",
+        "latitude": 47.939786,
+        "longitude": 12.936814,
+        "createDate": "2025-12-26T11:41:03.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                80,
+                60,
+                50
+              ],
+              "hex": "#503c32",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                220,
+                90,
+                90
+              ],
+              "hex": "#dc5a5a",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                150,
+                20,
+                20
+              ],
+              "hex": "#961414",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "34.108"
+        },
+        "width": 3216,
+        "height": 4240,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
+      },
+      {
         "filename": "Aganigi Naganigi Kebab.jpg",
         "latitude": 47.811672,
         "longitude": 13.025536,
@@ -39758,6 +39818,99 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Heiligen-Statue und STeiege zu Kapelle Maria Bühel - Oberndorf.jpg",
+        "latitude": 47.942106,
+        "longitude": 12.934036,
+        "createDate": "2025-12-24T14:04:44.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                50,
+                40
+              ],
+              "hex": "#503228",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.035"
+            }
+          ],
+          "colorfulness": "36.599"
+        },
+        "width": 2689,
+        "height": 3608,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
+      },
+      {
+        "filename": "Kirche von Laufen von Oberndorf.jpg",
+        "latitude": 47.944667,
+        "longitude": 12.935331,
+        "createDate": "2025-12-26T06:36:30.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                200,
+                210
+              ],
+              "hex": "#b4c8d2",
+              "percentage": "0.064"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                40
+              ],
+              "hex": "#463228",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                100
+              ],
+              "hex": "#826e64",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "34.927"
+        },
+        "width": 3495,
+        "height": 4793,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
+      },
+      {
         "filename": "Kunst in der Nähe der Stiegl-Brauerei.jpg",
         "latitude": 47.794317,
         "longitude": 13.024908,
@@ -39865,6 +40018,210 @@ export const galleries = [
         },
         "width": 3423,
         "height": 4573,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
+      },
+      {
+        "filename": "Sachzach-Damm von der Schöffleutgasse aus.jpg",
+        "latitude": 47.944528,
+        "longitude": 12.935267,
+        "createDate": "2025-12-25T06:37:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.099"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                220
+              ],
+              "hex": "#faf0dc",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                130,
+                180,
+                210
+              ],
+              "hex": "#82b4d2",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                190,
+                210,
+                220
+              ],
+              "hex": "#bed2dc",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "44.749"
+        },
+        "width": 3865,
+        "height": 4418,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
+      },
+      {
+        "filename": "Salzach und Lehnerpark in Salzburg.jpg",
+        "latitude": 47.814289,
+        "longitude": 13.036725,
+        "createDate": "2025-12-27T00:06:00.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                130,
+                90
+              ],
+              "hex": "#aa825a",
+              "percentage": "0.100"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.084"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                180
+              ],
+              "hex": "#dcc8b4",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "32.810"
+        },
+        "width": 2748,
+        "height": 3157,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
+      },
+      {
+        "filename": "Salzach und alte Holz-Stege zwischen Laufen und Oberndorf.jpg",
+        "latitude": 47.942075,
+        "longitude": 12.934286,
+        "createDate": "2025-12-26T11:54:48.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                170,
+                160
+              ],
+              "hex": "#b4aaa0",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                140,
+                130,
+                130
+              ],
+              "hex": "#8c8282",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "29.738"
+        },
+        "width": 5229,
+        "height": 3986,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ]
+      },
+      {
+        "filename": "Salzschiffer Statuen auf der Pernerinsel Hallein.jpg",
+        "latitude": 47.684853,
+        "longitude": 13.094714,
+        "createDate": "2025-12-26T23:07:49.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.083"
+            },
+            {
+              "rgb": [
+                70,
+                40,
+                10
+              ],
+              "hex": "#46280a",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                190,
+                160,
+                130
+              ],
+              "hex": "#bea082",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "34.562"
+        },
+        "width": 2353,
+        "height": 3174,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -40100,8 +40457,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "6. April 2024 - 17. November 2025",
-    "imageCount": 19,
+    "timeframe": "6. April 2024 - 27. Dezember 2025",
+    "imageCount": 26,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -45080,6 +45437,144 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Danke' Schriftzug an der Luegerkirche.jpg",
+        "latitude": 48.150847,
+        "longitude": 16.438061,
+        "createDate": "2026-01-04T09:30:18.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                0,
+                0
+              ],
+              "hex": "#1e0000",
+              "percentage": "0.128"
+            },
+            {
+              "rgb": [
+                80,
+                150,
+                190
+              ],
+              "hex": "#5096be",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                240,
+                200,
+                150
+              ],
+              "hex": "#f0c896",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                140,
+                90,
+                40
+              ],
+              "hex": "#8c5a28",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                200,
+                150,
+                100
+              ],
+              "hex": "#c89664",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "48.099"
+        },
+        "width": 4030,
+        "height": 4391,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
+        "filename": "'Fick Geld' Graffitti bei der U-Bahn-Station Kendlerstrasse.jpg",
+        "latitude": 48.205628,
+        "longitude": 16.309181,
+        "createDate": "2025-12-30T16:25:11.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.166"
+            },
+            {
+              "rgb": [
+                110,
+                60,
+                20
+              ],
+              "hex": "#6e3c14",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                190,
+                150,
+                110
+              ],
+              "hex": "#be966e",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                0,
+                100,
+                240
+              ],
+              "hex": "#0064f0",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                70,
+                170,
+                220
+              ],
+              "hex": "#46aadc",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "41.580"
+        },
+        "width": 4122,
+        "height": 4516,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
         "filename": "'Komm zu uns' Reklame an einer Kirche am Rennweg - Landstrasse.jpg",
         "latitude": 48.190269,
         "longitude": 16.397678,
@@ -45271,6 +45766,48 @@ export const galleries = [
         },
         "width": 2096,
         "height": 3427,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Typografie",
+          "Sonstiges"
+        ]
+      },
+      {
+        "filename": "'Nazis Boxen' Street in Wien.jpg",
+        "latitude": 47.817044,
+        "longitude": 13.027061,
+        "createDate": "2025-12-27T00:18:54.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.075"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                160
+              ],
+              "hex": "#d2bea0",
+              "percentage": "0.032"
+            }
+          ],
+          "colorfulness": "41.982"
+        },
+        "width": 2882,
+        "height": 2779,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -47396,8 +47933,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "11. April 2024 - 6. November 2025",
-    "imageCount": 45,
+    "timeframe": "11. April 2024 - 4. Januar 2026",
+    "imageCount": 48,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -52545,6 +53082,71 @@ export const galleries = [
         },
         "width": 3736,
         "height": 3913,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Einfahrt zu einer Garagra im Rochusviertel Landstrasse.jpg",
+        "latitude": 48.20005,
+        "longitude": 16.395853,
+        "createDate": "2025-12-20T16:55:41.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.111"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                90
+              ],
+              "hex": "#96785a",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                180,
+                120,
+                10
+              ],
+              "hex": "#b4780a",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "41.132"
+        },
+        "width": 3614,
+        "height": 4794,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -63640,8 +64242,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "7. Juni 2024 - 10. Dezember 2025",
-    "imageCount": 247,
+    "timeframe": "7. Juni 2024 - 20. Dezember 2025",
+    "imageCount": 248,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -63845,6 +64447,112 @@ export const galleries = [
         },
         "width": 4060,
         "height": 3781,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Altar der Luegerkirche.jpg",
+        "latitude": 48.150575,
+        "longitude": 16.438075,
+        "createDate": "2026-01-04T09:40:35.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.070"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.015"
+            }
+          ],
+          "colorfulness": "37.755"
+        },
+        "width": 3983,
+        "height": 4182,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Alter jüdischer Friedhof.jpg",
+        "latitude": 48.157222,
+        "longitude": 16.43045,
+        "createDate": "2026-01-04T09:10:43.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                10,
+                120,
+                180
+              ],
+              "hex": "#0a78b4",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                100,
+                80,
+                60
+              ],
+              "hex": "#64503c",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                230
+              ],
+              "hex": "#dce6e6",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "47.731"
+        },
+        "width": 3580,
+        "height": 4565,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -64146,6 +64854,77 @@ export const galleries = [
         },
         "width": 3117,
         "height": 3741,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Blumenstrauss am Zentralfriedhof nahe Luegerkirche.jpg",
+        "latitude": 48.153003,
+        "longitude": 16.433756,
+        "createDate": "2026-01-04T09:22:29.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                70,
+                50,
+                40
+              ],
+              "hex": "#463228",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                130,
+                120,
+                120
+              ],
+              "hex": "#827878",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                170,
+                50,
+                0
+              ],
+              "hex": "#aa3200",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                140,
+                210,
+                240
+              ],
+              "hex": "#8cd2f0",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "47.510"
+        },
+        "width": 3279,
+        "height": 4715,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -65266,8 +66045,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "3. November 2024 - 6. Juli 2025",
-    "imageCount": 29,
+    "timeframe": "3. November 2024 - 4. Januar 2026",
+    "imageCount": 32,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
