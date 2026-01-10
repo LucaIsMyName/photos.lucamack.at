@@ -1,7 +1,7 @@
 import { cn } from "../../../utils/cn";
 import { X, Eye, Layers } from "lucide-react";
 
-const Legend = ({ galleryColors, legendToggleRef, setIsLegendOpen, isLegendOpen, legendRef, theme, galleries, hiddenGalleries, handleLegendToggle }: any) => {
+const Legend = ({ galleryColors, legendToggleRef, setIsLegendOpen, isLegendOpen, legendRef, theme, galleries, hiddenGalleries, handleLegendToggle, showWalks, setShowWalks }: any) => {
   return (
     <>
       <button
@@ -25,7 +25,7 @@ const Legend = ({ galleryColors, legendToggleRef, setIsLegendOpen, isLegendOpen,
           </button>
           <h3 className="font-bold text-lg mb-2">Legende</h3>
           <h4 className="text-[11px] mb-4 opacity-90">Fotoserie via Farbe, Klick auf Galerie um zu verstecken oder einzublenden</h4>
-          <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-x-6 gap-y-2 text-sm">
+          <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-x-6 gap-y-2 text-sm mb-4">
             {galleries.map((gallery: any) => (
               <li
                 key={gallery.slug}
@@ -39,6 +39,22 @@ const Legend = ({ galleryColors, legendToggleRef, setIsLegendOpen, isLegendOpen,
               </li>
             ))}
           </ul>
+          
+          {/* Walks toggle */}
+          <div className={cn("border-t pt-4 mt-4", theme === "dark" ? "border-neutral-700" : "border-neutral-300")}>
+            <label className="flex items-center gap-2 cursor-pointer">
+              <input
+                type="checkbox"
+                checked={showWalks}
+                onChange={(e) => setShowWalks(e.target.checked)}
+                className="cursor-pointer"
+              />
+              <span className="text-sm">Spaziergänge anzeigen</span>
+            </label>
+            <p className="text-[11px] mt-1 opacity-70">
+              Zeigt Linien zwischen Fotos, die am selben Tag aufgenommen wurden (max. 1h Abstand)
+            </p>
+          </div>
         </div>
       )}
     </>

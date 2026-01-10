@@ -2,7 +2,7 @@ import { useState, useMemo, useRef, useCallback, useEffect } from "react";
 import { useTheme } from "../../contexts/ThemeContext";
 import { cn } from "../../utils/cn";
 import { getImageUrl } from "../../utils/image";
-import MapGL, { Marker, Popup, type MapRef } from "react-map-gl/mapbox";
+import MapGL, { Marker, Popup, Source, Layer, type MapRef } from "react-map-gl/mapbox";
 import useSupercluster from "use-supercluster";
 import { Link, useSearchParams } from "react-router-dom";
 import "mapbox-gl/dist/mapbox-gl.css";
@@ -11,9 +11,11 @@ import { galleries } from "../../galleries";
 import { CONFIG } from "../../config";
 import type { Gallery, Image as ImageType } from "../../types";
 import type { PointFeature, ClusterProperties } from "supercluster";
+import type { Feature, FeatureCollection, LineString } from "geojson";
 import Href from "../ui/Href";
 import Legend from "../layout/map-page/Legend";
 import SeoHead from "../ui/SeoHead";
+import { parseCreateDate } from "../../utils/date";
 
 interface GeotaggedImage {
   gallery: Gallery;
@@ -33,6 +35,7 @@ const AllImagesMap = () => {
   const legendRef = useRef<HTMLDivElement>(null);
   const legendToggleRef = useRef<HTMLButtonElement>(null);
   const [hiddenGalleries, setHiddenGalleries] = useState<Set<string>>(new Set());
+  const [showWalks, setShowWalks] = useState(false);
   const [bounds, setBounds] = useState<[number, number, number, number] | undefined>();
   const [searchParams] = useSearchParams();
   const [viewState, setViewState] = useState({
@@ -54,6 +57,44 @@ const AllImagesMap = () => {
     });
     return allImages;
   }, [hiddenGalleries]);
+
+  // Pastel color palette (hex values matching Tailwind colors)
+  const pastelColors = useMemo(() => {
+    return [
+      "#fda4af", // rose-300
+      "#fecdd3", // rose-200
+      "#f0abfc", // fuchsia-300
+      "#f5d0fe", // fuchsia-200
+      "#a5b4fc", // indigo-300
+      "#c7d2fe", // indigo-200
+      "#7dd3fc", // sky-300
+      "#bae6fd", // sky-200
+      "#6ee7b7", // emerald-300
+      "#a7f3d0", // emerald-200
+      "#fcd34d", // amber-300
+      "#fde68a", // amber-200
+      "#fca5a5", // red-300
+      "#fecaca", // red-200
+      "#c4b5fd", // violet-300
+      "#ddd6fe", // violet-200
+      "#67e8f9", // cyan-300
+      "#a5f3fc", // cyan-200
+      "#bef264", // lime-300
+      "#d9f99d", // lime-200
+      "#f9a8d4", // pink-300
+      "#fbcfe8", // pink-200
+      "#93c5fd", // blue-300
+      "#bfdbfe", // blue-200
+      "#86efac", // green-300
+      "#bbf7d0", // green-200
+      "#fde047", // yellow-300
+      "#fef08a", // yellow-200
+      "#c084fc", // purple-300
+      "#d8b4fe", // purple-200
+      "#5eead4", // teal-300
+      "#99f6e4", // teal-200
+    ];
+  }, []);
 
   const galleryColors = useMemo(() => {
     const colors = ["bg-rose-300", "bg-rose-200", "bg-fuchsia-300", "bg-fuchsia-200", "bg-indigo-300", "bg-indigo-200", "bg-sky-300", "bg-sky-200", "bg-emerald-300", "bg-emerald-200", "bg-amber-300", "bg-amber-200", "bg-red-300", "bg-red-200", "bg-violet-300", "bg-violet-200", "bg-cyan-300", "bg-cyan-200", "bg-lime-300", "bg-lime-200", "bg-pink-300", "bg-pink-200", "bg-blue-300", "bg-blue-200", "bg-green-300", "bg-green-200", "bg-yellow-300", "bg-yellow-200", "bg-purple-300", "bg-purple-200", "bg-teal-300", "bg-teal-200"];
@@ -187,6 +228,94 @@ const AllImagesMap = () => {
     });
   }, []);
 
+  // Calculate walks (images on same day, max 1h apart)
+  const walks = useMemo((): FeatureCollection<LineString> | null => {
+    if (!showWalks) return null;
+
+    // Get all geotagged images with dates
+    const allImagesWithDates: (GeotaggedImage & { date: Date })[] = [];
+    galleries.forEach((gallery) => {
+      gallery.images?.forEach((image) => {
+        if (image.latitude && image.longitude) {
+          const date = parseCreateDate(image.createDate);
+          if (date) {
+            allImagesWithDates.push({ image: image as any, gallery: gallery as any, date });
+          }
+        }
+      });
+    });
+
+    // Group by day (YYYY-MM-DD)
+    const imagesByDay = new Map<string, (GeotaggedImage & { date: Date })[]>();
+    allImagesWithDates.forEach((item) => {
+      const dayKey = item.date.toISOString().split("T")[0];
+      if (!imagesByDay.has(dayKey)) {
+        imagesByDay.set(dayKey, []);
+      }
+      imagesByDay.get(dayKey)!.push(item);
+    });
+
+    // For each day, find sequences of images max 1h apart
+    const walkLines: Feature<LineString>[] = [];
+    let walkIndex = 0;
+
+    imagesByDay.forEach((dayImages) => {
+      // Sort by time
+      dayImages.sort((a, b) => a.date.getTime() - b.date.getTime());
+
+      // Find sequences where consecutive images are max 1h apart
+      let currentSequence: (GeotaggedImage & { date: Date })[] = [dayImages[0]];
+
+      for (let i = 1; i < dayImages.length; i++) {
+        const timeDiff = dayImages[i].date.getTime() - dayImages[i - 1].date.getTime();
+        const hoursDiff = timeDiff / (1000 * 60 * 60);
+
+        if (hoursDiff <= 1) {
+          // Continue sequence
+          currentSequence.push(dayImages[i]);
+        } else {
+          // End current sequence and start new one
+          if (currentSequence.length > 1) {
+            const color = pastelColors[walkIndex % pastelColors.length];
+            walkLines.push({
+              type: "Feature",
+              geometry: {
+                type: "LineString",
+                coordinates: currentSequence.map((item) => [item.image.longitude!, item.image.latitude!]),
+              },
+              properties: {
+                color,
+              },
+            });
+            walkIndex++;
+          }
+          currentSequence = [dayImages[i]];
+        }
+      }
+
+      // Add final sequence if it has more than one image
+      if (currentSequence.length > 1) {
+        const color = pastelColors[walkIndex % pastelColors.length];
+        walkLines.push({
+          type: "Feature",
+          geometry: {
+            type: "LineString",
+            coordinates: currentSequence.map((item) => [item.image.longitude!, item.image.latitude!]),
+          },
+          properties: {
+            color,
+          },
+        });
+        walkIndex++;
+      }
+    });
+
+    return {
+      type: "FeatureCollection",
+      features: walkLines,
+    };
+  }, [showWalks, pastelColors]);
+
   return (
     <div className="w-full h-full md:h-screen relative overflow-hidden">
       <SeoHead
@@ -205,6 +334,8 @@ const AllImagesMap = () => {
         galleries={galleries}
         hiddenGalleries={hiddenGalleries}
         handleLegendToggle={handleLegendToggle}
+        showWalks={showWalks}
+        setShowWalks={setShowWalks}
       />
 
       <MapGL
@@ -220,6 +351,21 @@ const AllImagesMap = () => {
         mapStyle={theme === "dark" ? CONFIG.mapbox.style.dark : CONFIG.mapbox.style.light}
         mapboxAccessToken={CONFIG.mapbox.accessToken}
         onLoad={handleMapLoad}>
+        {/* Walks lines */}
+        {walks && walks.features.length > 0 && (
+          <Source id="walks" type="geojson" data={walks}>
+            <Layer
+              id="walks-line"
+              type="line"
+              paint={{
+                "line-color": ["get", "color"],
+                "line-width": 2,
+                "line-opacity": 0.7,
+              }}
+            />
+          </Source>
+        )}
+
         {clusters.map((point) => {
           const [longitude, latitude] = point.geometry.coordinates;
 

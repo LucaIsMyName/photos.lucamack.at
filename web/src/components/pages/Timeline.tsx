@@ -89,22 +89,33 @@ const Timeline = () => {
     return galleries
       .map((gallery) => {
         if (!gallery.images || gallery.images.length === 0) {
-          return { ...gallery, startDate: null, endDate: null };
+          return { ...gallery, startDate: null, endDate: null, duration: null, firstImage: null };
         }
 
-        const dates = gallery.images.map((image) => parseCreateDate(image.createDate)).filter((date): date is Date => date !== null);
+        const imagesWithDates: { image: ImageType; date: Date }[] = [];
+        gallery.images.forEach((image) => {
+          const date = parseCreateDate(image.createDate);
+          if (date !== null) {
+            imagesWithDates.push({ image: image as unknown as ImageType, date });
+          }
+        });
 
-        if (dates.length === 0) {
-          return { ...gallery, startDate: null, endDate: null };
+        if (imagesWithDates.length === 0) {
+          return { ...gallery, startDate: null, endDate: null, duration: null, firstImage: null };
         }
 
-        const sortedDates = dates.sort((a, b) => a.getTime() - b.getTime());
-        const startDate = sortedDates[0];
-        const endDate = sortedDates[sortedDates.length - 1];
+        const sorted = [...imagesWithDates].sort((a, b) => a.date.getTime() - b.date.getTime());
+        const startDate = sorted[0]?.date;
+        const endDate = sorted[sorted.length - 1]?.date;
+        if (!startDate || !endDate) {
+          return { ...gallery, startDate: null, endDate: null, duration: null, firstImage: null };
+        }
+        const duration = Math.ceil((endDate.getTime() - startDate.getTime()) / (1000 * 60 * 60 * 24)); // days
+        const firstImage = sorted[0].image;
 
-        return { ...gallery, startDate, endDate };
+        return { ...gallery, startDate, endDate, duration, firstImage };
       })
-      .filter((gallery): gallery is typeof gallery & { startDate: Date; endDate: Date } => gallery.startDate !== null && gallery.endDate !== null)
+      .filter((gallery): gallery is typeof gallery & { startDate: Date; endDate: Date; duration: number; firstImage: ImageType } => gallery.startDate !== null && gallery.endDate !== null && gallery.duration !== null && gallery.firstImage !== null)
       .sort((a, b) => b.startDate.getTime() - a.startDate.getTime());
   }, []);
 
@@ -172,8 +183,8 @@ const Timeline = () => {
       {activeTab === "galleries" && (
         <div className="relative pl-8">
           <div className={lineClasses}></div>
-          <h2 className="sr-only text-xl font-semibold my-4">Gallerien nach Zeitraum</h2>
-          <div className="space-y-4">
+          <h2 className="sr-only text-xl my-4">Gallerien nach Zeitraum</h2>
+          <div className="space-y-6">
             {galleriesWithTimeframes.map((gallery) => (
               <div
                 key={gallery.slug}
@@ -183,12 +194,42 @@ const Timeline = () => {
                 </div>
                 <Link
                   to={`/gallery/${gallery.slug}`}
-                  className="block p-4 pt-2">
-                  <h3 className=" text-lg">{gallery.title}</h3>
-                  <p className="text-xs ">
-                    {gallery.startDate.toLocaleDateString("de-DE")} - {gallery.endDate.toLocaleDateString("de-DE")}
-                  </p>
-                  <p className="text-xs ">{gallery.images.length} Fotos</p>
+                  className="block p-4 pt-2 hover:opacity-80 transition-opacity">
+                  <div className="flex items-start gap-4">
+                    {gallery.firstImage && (
+                      <img
+                        src={getImageUrl(gallery.slug, gallery.firstImage.filename.replaceAll(" ", "_"), 160)}
+                        alt={gallery.title}
+                        className="w-16 h-16 sm:w-20 sm:h-20 object-cover flex-shrink-0 border border-neutral-500/20"
+                        loading="lazy"
+                      />
+                    )}
+                    <div className="flex-1 min-w-0">
+                      <h3 className={cn("text-lg mb-1", theme === "dark" ? "text-white" : "text-black")}>{gallery.title}</h3>
+                      <div className="flex flex-wrap items-center gap-2 text-xs">
+                        <span className={cn(theme === "dark" ? "text-gray-400" : "text-gray-600")}>
+                          {gallery.startDate.toLocaleDateString("de-DE", { day: "numeric", month: "short", year: "numeric" })}
+                        </span>
+                        <span className={cn(theme === "dark" ? "text-gray-500" : "text-gray-500")}>-</span>
+                        <span className={cn(theme === "dark" ? "text-gray-400" : "text-gray-600")}>
+                          {gallery.endDate.toLocaleDateString("de-DE", { day: "numeric", month: "short", year: "numeric" })}
+                        </span>
+                      </div>
+                      <div className="flex flex-wrap items-center gap-3 mt-2 text-xs">
+                        <span className={cn(theme === "dark" ? "text-gray-400" : "text-gray-600")}>
+                          {gallery.images.length} {gallery.images.length === 1 ? "Foto" : "Fotos"}
+                        </span>
+                        {gallery.duration > 0 && (
+                          <>
+                            <span className={cn(theme === "dark" ? "text-gray-500" : "text-gray-500")}>•</span>
+                            <span className={cn(theme === "dark" ? "text-gray-400" : "text-gray-600")}>
+                              {gallery.duration === 0 ? "< 1 Tag" : gallery.duration === 1 ? "1 Tag" : `${gallery.duration} Tage`}
+                            </span>
+                          </>
+                        )}
+                      </div>
+                    </div>
+                  </div>
                 </Link>
               </div>
             ))}

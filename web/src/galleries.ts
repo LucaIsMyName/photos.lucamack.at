@@ -49219,6 +49219,71 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Flocken Wickler' Schneescherer bei Wien Mitte Landstrasse.jpg",
+        "latitude": 48.206603,
+        "longitude": 16.3831,
+        "createDate": "2026-01-09T07:16:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                200,
+                220
+              ],
+              "hex": "#a0c8dc",
+              "percentage": "0.170"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                20
+              ],
+              "hex": "#140a14",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                250,
+                50,
+                20
+              ],
+              "hex": "#fa3214",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                240,
+                180,
+                70
+              ],
+              "hex": "#f0b446",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "41.041"
+        },
+        "width": 2862,
+        "height": 2884,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "'Freundlicher' Sticker in einem Fenster eines Gasthauses in Breitenlee.jpg",
         "latitude": 48.251239,
         "longitude": 16.497781,
@@ -49535,6 +49600,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "'Neu. Lotto. Computer. 6 aus 45. Mit Gewinngarantie' Schilder und Werbungen am Stephansplatz.jpg",
+        "latitude": 48.208092,
+        "longitude": 16.373767,
+        "createDate": "2026-01-09T07:25:54.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                20,
+                10
+              ],
+              "hex": "#3c140a",
+              "percentage": "0.099"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                200
+              ],
+              "hex": "#dcd2c8",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                250,
+                170,
+                40
+              ],
+              "hex": "#faaa28",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                190,
+                10,
+                10
+              ],
+              "hex": "#be0a0a",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "49.526"
+        },
+        "width": 3585,
+        "height": 5303,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "'Pizza Marina' in der Simmeringer Hauptstrasse.jpg",
         "latitude": 48.162342,
         "longitude": 16.428136,
@@ -49582,6 +49721,80 @@ export const galleries = [
         },
         "width": 2686,
         "height": 3365,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "'Sam`s Obst- und Gemüseladen' durch Glasfassaden der U-Bahn-Station am Rochusmarkt in Landstrasse.jpg",
+        "latitude": 48.202667,
+        "longitude": 16.39095,
+        "createDate": "2026-01-10T11:04:21.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                50,
+                30
+              ],
+              "hex": "#50321e",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                30,
+                10,
+                10
+              ],
+              "hex": "#1e0a0a",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                250,
+                210,
+                120
+              ],
+              "hex": "#fad278",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                190,
+                190,
+                180
+              ],
+              "hex": "#bebeb4",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "42.646"
+        },
+        "width": 3285,
+        "height": 4310,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -53833,6 +54046,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Eingang zur S-Bahn-Station Krottenbachstrasse in Döbling.jpg",
+        "latitude": 48.240367,
+        "longitude": 16.341461,
+        "createDate": "2026-01-08T18:27:20.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.146"
+            },
+            {
+              "rgb": [
+                160,
+                130,
+                110
+              ],
+              "hex": "#a0826e",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                200,
+                170,
+                150
+              ],
+              "hex": "#c8aa96",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                190
+              ],
+              "hex": "#dcd2be",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                40,
+                100,
+                210
+              ],
+              "hex": "#2864d2",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "36.831"
+        },
+        "width": 4039,
+        "height": 4385,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Eingangstor uz einem Gemeindebau in der Lorystrasse.jpg",
         "latitude": 48.169717,
         "longitude": 16.416008,
@@ -56244,6 +56531,53 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Gleise und Zugetagen an der S- und U-Bahn-Station Handelskai .jpg",
+        "latitude": 48.241844,
+        "longitude": 16.385297,
+        "createDate": "2026-01-08T18:56:27.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                150
+              ],
+              "hex": "#beaa96",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "32.561"
+        },
+        "width": 4181,
+        "height": 5576,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Graffitti auf einem Masten und Kraftwerk Schlot des Simmering.jpg",
         "latitude": 48.186633,
         "longitude": 16.43145,
@@ -56273,6 +56607,80 @@ export const galleries = [
         },
         "width": 3482,
         "height": 4397,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Graffitti auf einer Hausmauer in Mariahilf.jpg",
+        "latitude": 48.197389,
+        "longitude": 16.354125,
+        "createDate": "2026-01-06T14:46:09.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                110
+              ],
+              "hex": "#8c786e",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                20
+              ],
+              "hex": "#140014",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                70,
+                50,
+                40
+              ],
+              "hex": "#463228",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                160,
+                20,
+                10
+              ],
+              "hex": "#a0140a",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "37.895"
+        },
+        "width": 4136,
+        "height": 5236,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -59415,6 +59823,62 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Naglergasse in der Inneren Stadt um 9 Uhr morgens.jpg",
+        "latitude": 48.209928,
+        "longitude": 16.368222,
+        "createDate": "2026-01-08T07:43:11.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                110,
+                50
+              ],
+              "hex": "#966e32",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                110,
+                70,
+                20
+              ],
+              "hex": "#6e4614",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                180,
+                220,
+                230
+              ],
+              "hex": "#b4dce6",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "36.137"
+        },
+        "width": 2252,
+        "height": 4486,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Neubaugürtel und BIM Station bei der Burggasse.jpg",
         "latitude": 48.201675,
         "longitude": 16.336906,
@@ -60067,6 +60531,62 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Rochusmarkt und Post-Hauptzentrale in Landstrasse.jpg",
+        "latitude": 48.202686,
+        "longitude": 16.391039,
+        "createDate": "2026-01-10T10:56:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                60
+              ],
+              "hex": "#6e503c",
+              "percentage": "0.017"
+            }
+          ],
+          "colorfulness": "34.365"
+        },
+        "width": 3990,
+        "height": 4382,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Rossauer Kaserne.jpg",
         "latitude": 48.218628,
         "longitude": 16.368933,
@@ -60217,6 +60737,62 @@ export const galleries = [
         },
         "width": 3766,
         "height": 5132,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "S-Bahn-Station Krottenbachstrasse.jpg",
+        "latitude": 48.240342,
+        "longitude": 16.340953,
+        "createDate": "2026-01-08T18:29:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.087"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                210
+              ],
+              "hex": "#e6dcd2",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                120
+              ],
+              "hex": "#968278",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "44.997"
+        },
+        "width": 3410,
+        "height": 5077,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -62653,6 +63229,62 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Universitätsring nahe dem Schottentor.jpg",
+        "latitude": 48.213775,
+        "longitude": 16.362497,
+        "createDate": "2026-01-09T07:39:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.133"
+            },
+            {
+              "rgb": [
+                110,
+                80,
+                70
+              ],
+              "hex": "#6e5046",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "37.131"
+        },
+        "width": 3746,
+        "height": 4937,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Überdachung eines Fabriksgeländes mit Sperrmüll.jpg",
         "latitude": 48.1679,
         "longitude": 16.411825,
@@ -62839,6 +63471,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Votivkirche und Statue davor.jpg",
+        "latitude": 48.214925,
+        "longitude": 16.359239,
+        "createDate": "2026-01-08T07:55:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                90,
+                70
+              ],
+              "hex": "#825a46",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                160,
+                210,
+                240
+              ],
+              "hex": "#a0d2f0",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                180,
+                150,
+                130
+              ],
+              "hex": "#b49682",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                80,
+                180,
+                230
+              ],
+              "hex": "#50b4e6",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "38.322"
+        },
+        "width": 3102,
+        "height": 4375,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Votivkirche und Votivpark am Schottentor.jpg",
         "latitude": 48.214608,
         "longitude": 16.361,
@@ -62895,6 +63601,53 @@ export const galleries = [
         },
         "width": 3715,
         "height": 5235,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Votivpark und Votivkirche im Winter.jpg",
+        "latitude": 48.214531,
+        "longitude": 16.360842,
+        "createDate": "2026-01-09T07:41:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.150"
+            },
+            {
+              "rgb": [
+                100,
+                80,
+                70
+              ],
+              "hex": "#645046",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "36.769"
+        },
+        "width": 3479,
+        "height": 5478,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -63825,6 +64578,62 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Wohnhäuser in der Braunhubergasse in Simmering.jpg",
+        "latitude": 48.169675,
+        "longitude": 16.413489,
+        "createDate": "2026-01-04T16:21:19.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.109"
+            },
+            {
+              "rgb": [
+                130,
+                90,
+                60
+              ],
+              "hex": "#825a3c",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                220,
+                190,
+                150
+              ],
+              "hex": "#dcbe96",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "35.125"
+        },
+        "width": 2758,
+        "height": 3529,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Würstel Waggon am Simmeringer-Friedhof.jpg",
         "latitude": 48.172519,
         "longitude": 16.422842,
@@ -64094,6 +64903,80 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Zebrastreifen, Stiegen und Haus des Meeres in Mariahilf.jpg",
+        "latitude": 48.197697,
+        "longitude": 16.353992,
+        "createDate": "2026-01-06T14:43:54.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                150,
+                130
+              ],
+              "hex": "#b49682",
+              "percentage": "0.074"
+            },
+            {
+              "rgb": [
+                0,
+                40,
+                60
+              ],
+              "hex": "#00283c",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                50,
+                30,
+                20
+              ],
+              "hex": "#321e14",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                220,
+                180,
+                40
+              ],
+              "hex": "#dcb428",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "36.699"
+        },
+        "width": 4005,
+        "height": 4957,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Zug-Schienen und Frachtlader bei einer Fabrik am Albernen Hafen.jpg",
         "latitude": 48.159375,
         "longitude": 16.493792,
@@ -64242,8 +65125,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "7. Juni 2024 - 20. Dezember 2025",
-    "imageCount": 248,
+    "timeframe": "7. Juni 2024 - 10. Januar 2026",
+    "imageCount": 262,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -65276,6 +66159,77 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Drei Müllcontainer und Grabmäler.jpg",
+        "latitude": 48.151753,
+        "longitude": 16.440144,
+        "createDate": "2026-01-04T10:00:25.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                140,
+                220
+              ],
+              "hex": "#0a8cdc",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                150,
+                120,
+                100
+              ],
+              "hex": "#967864",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                210
+              ],
+              "hex": "#faf0d2",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "59.675"
+        },
+        "width": 3661,
+        "height": 4773,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Friedhofskirche zum Heiligen Karl Borromäus und Bundespräsidentengruft.jpg",
         "latitude": 48.151425,
         "longitude": 16.438867,
@@ -65471,6 +66425,77 @@ export const galleries = [
         ]
       },
       {
+        "filename": "Grab von Franz Jonas.jpg",
+        "latitude": 48.151286,
+        "longitude": 16.438678,
+        "createDate": "2026-01-04T09:47:58.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                120,
+                180
+              ],
+              "hex": "#0a78b4",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                50,
+                70,
+                90
+              ],
+              "hex": "#32465a",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                110,
+                200,
+                240
+              ],
+              "hex": "#6ec8f0",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                170,
+                190,
+                200
+              ],
+              "hex": "#aabec8",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                120,
+                160,
+                180
+              ],
+              "hex": "#78a0b4",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "50.093"
+        },
+        "width": 4032,
+        "height": 5206,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
         "filename": "Grab von Franz West.jpg",
         "latitude": 48.151017,
         "longitude": 16.439919,
@@ -65509,6 +66534,68 @@ export const galleries = [
         },
         "width": 3860,
         "height": 5423,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Grab von Hedy Lamarr.jpg",
+        "latitude": 48.150969,
+        "longitude": 16.440056,
+        "createDate": "2026-01-04T09:55:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                10
+              ],
+              "hex": "#1e140a",
+              "percentage": "0.042"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                60
+              ],
+              "hex": "#5a463c",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                70,
+                190,
+                240
+              ],
+              "hex": "#46bef0",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                60,
+                120,
+                150
+              ],
+              "hex": "#3c7896",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "43.510"
+        },
+        "width": 3968,
+        "height": 5493,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -65756,6 +66843,77 @@ export const galleries = [
         },
         "width": 4111,
         "height": 5650,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ]
+      },
+      {
+        "filename": "Laterne und Grabflächen bei der Luegerkirche am Zentralfriedhof.jpg",
+        "latitude": 48.150914,
+        "longitude": 16.438397,
+        "createDate": "2026-01-04T09:46:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                130,
+                210
+              ],
+              "hex": "#0a82d2",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                40,
+                80,
+                100
+              ],
+              "hex": "#285064",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                20,
+                20,
+                30
+              ],
+              "hex": "#14141e",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                200,
+                170,
+                90
+              ],
+              "hex": "#c8aa5a",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "57.549"
+        },
+        "width": 3861,
+        "height": 5477,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -66046,7 +67204,7 @@ export const galleries = [
       }
     ],
     "timeframe": "3. November 2024 - 4. Januar 2026",
-    "imageCount": 32,
+    "imageCount": 36,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
