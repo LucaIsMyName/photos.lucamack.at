@@ -300,9 +300,39 @@ async function generateGalleries() {
   const galleries = await Promise.all(galleryPromises);
 
   // --- Generate galleries.ts for the main website ---
-  const tsFileContent = `// This file is auto-generated. Do not edit.\n\nexport const galleries = ${JSON.stringify(galleries, null, 2)};\n`;
+  // Strip redundant metadata fields to reduce file size (keep colorData with dominantColors)
+  const galleriesForTS = galleries.map(gallery => {
+    const strippedGallery = {
+      name: gallery.name,
+      slug: gallery.slug,
+      title: gallery.title,
+      description: gallery.description,
+      images: gallery.images.map(image => {
+        const strippedImage = {
+          filename: image.filename,
+          ...(image.latitude != null && { latitude: image.latitude }),
+          ...(image.longitude != null && { longitude: image.longitude }),
+          ...(image.createDate && { createDate: image.createDate }),
+          ...(image.width && { width: image.width }),
+          ...(image.height && { height: image.height }),
+          ...(image.tags && image.tags.length > 0 && { tags: image.tags }),
+          // Keep full colorData including dominantColors array
+          ...(image.colorData && { colorData: image.colorData }),
+          // Remove: creator, copyrightNotice, creditText, acquireLicensePage (redundant metadata)
+        };
+        return strippedImage;
+      }),
+      ...(gallery.timeframe && { timeframe: gallery.timeframe }),
+      ...(gallery.imageCount && { imageCount: gallery.imageCount }),
+      ...(gallery.createDate && { createDate: gallery.createDate }),
+      ...(gallery.tags && gallery.tags.length > 0 && { tags: gallery.tags }),
+    };
+    return strippedGallery;
+  });
+
+  const tsFileContent = `// This file is auto-generated. Do not edit.\n\nexport const galleries = ${JSON.stringify(galleriesForTS, null, 2)};\n`;
   fs.writeFileSync(targetFile, tsFileContent, 'utf-8');
-  console.log(`Successfully generated galleries.ts with ${galleries.length} galleries.`);
+  console.log(`Successfully generated galleries.ts with ${galleriesForTS.length} galleries.`);
 
   // --- Generate JSON files for the external API ---
   const galleriesForJSON = JSON.parse(JSON.stringify(galleries));
@@ -318,9 +348,9 @@ async function generateGalleries() {
           original: `${baseUrl}/content/galleries/${gallery.slug}/${filename.replaceAll(" ", "_")}`,
         };
 
-        responsiveSizes.forEach(size => {
-          imageUrls[`w${size}`] = `${baseUrl}/content/galleries/${gallery.slug}/${base.replaceAll(" ", "_")}-${size}w${ext}`;
-        });
+        // responsiveSizes.forEach(size => {
+        //   imageUrls[`w${size}`] = `${baseUrl}/content/galleries/${gallery.slug}/${base.replaceAll(" ", "_")}-${size}w${ext}`;
+        // });
 
         const imageWithUrls = {
           ...restOfImage,

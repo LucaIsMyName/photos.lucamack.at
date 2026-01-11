@@ -276,7 +276,7 @@ const ImageDetails = () => {
             image={image}
             gallery={gallery}
           />
-          {image.colorData?.dominantColors && image.colorData.dominantColors.length > 0 && <ColorPallette image={image} />}
+          {image.colorData && <ColorPallette image={image} />}
 
           <div className={`flex flex-col lg:flex-row-reverse gap-8 mt-4 ${CONFIG.theme.border.top} pt-4 md:pt-8`}>
             <Download

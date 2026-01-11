@@ -3446,17 +3446,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/salzburg/image/sachzach-damm-von-der-schoffleutgasse-aus</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/salzburg/image/salzach-und-lehnerpark-in-salzburg</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/salzburg/image/salzach-und-alte-holz-stege-zwischen-laufen-und-oberndorf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/salzburg/image/salzach-damm-von-der-schoffleutgasse-aus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

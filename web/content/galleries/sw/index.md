@@ -7,5 +7,3 @@ tags: ["Österreich", "Wien", "Architektur", "Park", "Stadt", "Winter"]
 ---
 
 # S/W
-
-Schwarz - Weiss, Schnee - Winter, Stille - Wien
