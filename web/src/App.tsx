@@ -67,7 +67,7 @@ function App() {
   };
 
   return (
-    <div className={`bg-black font-geist overflow-hidden overflow-y-hidden overflow-x-hidden h-screen w-screen flex flex-col md:flex-row gap-0 ${theme === "light" ? "bg-white text-black" : "bg-black text-white"}`}>
+    <div className={`bg-black font-sans overflow-hidden overflow-y-hidden overflow-x-hidden h-screen w-screen flex flex-col md:flex-row gap-0 ${theme === "light" ? "bg-white text-black" : "bg-black text-white"}`}>
       <Navigation
         onOpenCommandPalette={handleOpenCommandPalette}
         setMobileMenuOpen={setIsMobileMenuOpen}

@@ -31,10 +31,10 @@ body {
 }
 
 :root {
-  --default-font-family: "Schibsted Grotesk", sans-serif;
+  --default-font-family: "Inclusive Sans", sans-serif;
   --sidebar-width: clamp(280px, 30vw, 360px);
   --content-width: clamp(769px, calc(var(--sidebar-width) * 2.66), 1280px);
-  --font-mono: "JetBrains Mono", monospace;
+  --font-mono: "Cascadia Code", monospace;
   --color-black: #000;
   --color-white: #fff;
 }

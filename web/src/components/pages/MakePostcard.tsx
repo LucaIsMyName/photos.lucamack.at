@@ -33,7 +33,7 @@ const MakePostcard = () => {
   type TextAlign = "top-left" | "top-right" | "bottom-left" | "bottom-right";
   const [textAlign, setTextAlign] = useState<TextAlign>("bottom-right");
   const [textColor, setTextColor] = useState<"white" | "black">("white");
-  const [fontFamily, setFontFamily] = useState(`'Schibsted Grotesk', sans-serif`);
+  const [fontFamily, setFontFamily] = useState(`'Geom', sans-serif`);
   const [fontSize, setFontSize] = useState(24);
   const [textPadding, setTextPadding] = useState(24);
   const [loading, setLoading] = useState(false);
@@ -235,7 +235,7 @@ const MakePostcard = () => {
                   placeholder="Schriftart wählen">
                   <SelectItem value={`'Garamond', serif`}>Serif</SelectItem>
                   <SelectItem value={`'Schibsted Grotesk', sans-serif`}>Sans-serif</SelectItem>
-                  <SelectItem value={`'JetBrains Mono', monospace`}>Monospace</SelectItem>
+                  <SelectItem value={`'Chivo Mono', monospace`}>Monospace</SelectItem>
                   <SelectItem value={`Comic Sans MS`}>Comic Sans</SelectItem>
                   <SelectItem value={`cursive`}>Cursive</SelectItem>
                 </StyledSelect>
