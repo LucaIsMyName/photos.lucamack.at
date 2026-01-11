@@ -211,7 +211,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/baden-gehen/image/spiegelungen-eines-fensters-inder-innenstadt-von-baden</loc>
+    <loc>https://photos.lucamack.at/gallery/baden-gehen/image/spiegelungen-eines-fensters-in-der-innenstadt-von-baden</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -336,7 +336,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/power-graffitti-an-der-s-bahn-mauer</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/power-graffiti-an-der-s-bahn-mauer</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -671,12 +671,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/graffitti-auf-glas-in-einer-u-bahn-station-mockernbrucke-am-hallerschen-ufer-landwehrkanal</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/graffiti-auf-glas-in-einer-u-bahn-station-mockernbrucke-am-hallerschen-ufer-landwehrkanal</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/berlin/image/graffitti-in-garageneinfahrt-in-gubener-strasse-in-friedrichshain</loc>
+    <loc>https://photos.lucamack.at/gallery/berlin/image/graffiti-in-garageneinfahrt-in-gubener-strasse-in-friedrichshain</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1451,7 +1451,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/graz/image/tennis-graffitti</loc>
+    <loc>https://photos.lucamack.at/gallery/graz/image/tennis-graffiti</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1901,7 +1901,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/kaernten-koroska/image/ich-liebe-dich-graffitti-klagenfurt</loc>
+    <loc>https://photos.lucamack.at/gallery/kaernten-koroska/image/ich-liebe-dich-graffiti-klagenfurt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1986,7 +1986,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/kaernten-koroska/image/graffitti-auslage-klagenfurt</loc>
+    <loc>https://photos.lucamack.at/gallery/kaernten-koroska/image/graffiti-auslage-klagenfurt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2741,6 +2741,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/u-bahn-symbol-der-wiener-linien</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/u-bahn-station-kendlerstrasse-bahnsteige</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3421,7 +3426,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/salzburg/image/heiligen-statue-und-steiege-zu-kapelle-maria-buhel-oberndorf</loc>
+    <loc>https://photos.lucamack.at/gallery/salzburg/image/heiligen-statue-und-stiege-zu-kapelle-maria-buhel-oberndorf</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3477,6 +3482,91 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/salzburg/image/wohnhaus-fussballkafig-und-schumacherstrasse-in-lehen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/neu-lotto-computer-6-aus-45-mit-gewinngarantie-schilder-und-werbungen-am-stephansplatz</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/rant-graffiti-tag-am-gasometer-in-erdberg</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/durchgang-und-eingang-zum-park-and-ride-ottakring-nahe-kendlerstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/einfahrt-und-industriegebaude-in-erdberg</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/eingang-zur-s-bahn-station-krottenbachstrasse-in-wien-dobling</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/gasometer-und-wohnhauser-in-erdberg</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/gehsteig-wohn-und-burohauser-in-der-nussbaumallee-nahe-gasometer</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/hochhauser-und-hyblerpark-in-simmering-nahe-zippererstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/hyblerpark-und-eingang-zur-u-bahn-station-zippererstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/statue-vor-der-votivkirche-in-wien-alsergrund</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/strasse-s-bahn-und-u-bahn-trasse-und-wohnhauser-nahe-kendlerstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/universitatsring-nahe-schottentor-in-wien-innere-stadt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/votivpark-und-votivkirche-in-wien-alsergrund</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/vogel-und-baum-nahe-zippererstrasses-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/wohnhaus-und-aste-eines-baumes-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/schwarz-weiss/image/wohnhochhaus-inudustriegebaude-und-zaun-nahe-gasometer-in-erdberg</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3876,7 +3966,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/angry-face-graffitti-nahe-gudrunstrasse</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/angry-face-graffiti-nahe-gudrunstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3896,7 +3986,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/fick-geld-graffitti-bei-der-u-bahn-station-kendlerstrasse</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/fick-geld-graffiti-bei-der-u-bahn-station-kendlerstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3906,12 +3996,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/low-nr-graffitti-und-wiese-davor</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/low-nr-graffiti-und-wiese-davor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/mama-graffitti-in-simmering</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/mama-graffiti-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3926,17 +4016,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/normal-graffitti-auf-betonstempen</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/normal-graffiti-auf-betonstempen</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/otto-graffitti</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/otto-graffiti</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/ruhe-graffitti-in-der-simmeringer-hauptstrasse</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/ruhe-graffiti-in-der-simmeringer-hauptstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3966,7 +4056,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/ugly-graffitti-in-meidling</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/ugly-graffiti-in-meidling</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3976,7 +4066,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/verzagte-blume-graffitti</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/verzagte-blume-graffiti</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3996,7 +4086,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/weinende-blume-graffitti</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/weinende-blume-graffiti</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4031,27 +4121,27 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/graffitti-fuck-love-und-hunde-bild-auf-einer-well-blech-wand</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/graffiti-fuck-love-und-hunde-bild-auf-einer-well-blech-wand</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/graffitti-kek-in-der-lorystrasse</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/graffiti-kek-in-der-lorystrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/graffitti-smiley-auf-einer-mauer-litschau</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/graffiti-smiley-auf-einer-mauer-litschau</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/graffitti-tag-gurk-auf-der-schmelzrampe</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/graffiti-tag-gurk-auf-der-schmelzrampe</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/graffitti-tags-auf-einer-well-blech-wand</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/graffiti-tags-auf-einer-well-blech-wand</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4061,7 +4151,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/symbole/image/kaos-graffitti-in-brigittenau</loc>
+    <loc>https://photos.lucamack.at/gallery/symbole/image/kaos-graffiti-in-brigittenau</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4241,7 +4331,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/ikarus-graffitti-und-kunst-in-der-u-bahn-station-rochusgasse</loc>
+    <loc>https://photos.lucamack.at/gallery/wien/image/ikarus-graffiti-und-kunst-in-der-u-bahn-station-rochusgasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4251,12 +4341,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/meow-graffitti-in-alsergrund</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/neu-lotto-computer-6-aus-45-mit-gewinngarantie-schilder-und-werbungen-am-stephansplatz</loc>
+    <loc>https://photos.lucamack.at/gallery/wien/image/meow-graffiti-in-alsergrund</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4616,11 +4701,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/eingang-zur-s-bahn-station-krottenbachstrasse-in-dobling</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/eingangstor-uz-einem-gemeindebau-in-der-lorystrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4826,12 +4906,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/graffitti-auf-einem-masten-und-kraftwerk-schlot-des-simmering</loc>
+    <loc>https://photos.lucamack.at/gallery/wien/image/graffiti-auf-einem-masten-und-kraftwerk-schlot-des-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/graffitti-auf-einer-hausmauer-in-mariahilf</loc>
+    <loc>https://photos.lucamack.at/gallery/wien/image/graffiti-auf-einer-hausmauer-in-mariahilf</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4986,7 +5066,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/kleines-materl-und-graffitti-in-der-geiselbergstrasse</loc>
+    <loc>https://photos.lucamack.at/gallery/wien/image/kleines-materl-und-graffiti-in-der-geiselbergstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5366,11 +5446,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/universitatsring-nahe-dem-schottentor</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/uberdachung-eines-fabriksgelandes-mit-sperrmull</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -5386,17 +5461,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/votivkirche-und-statue-davor</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/votivkirche-und-votivpark-am-schottentor</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/votivpark-und-votivkirche-im-winter</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

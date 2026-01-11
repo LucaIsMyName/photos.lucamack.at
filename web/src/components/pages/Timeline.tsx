@@ -194,13 +194,13 @@ const Timeline = () => {
                 </div>
                 <Link
                   to={`/gallery/${gallery.slug}`}
-                  className="block p-4 pt-2 hover:opacity-80 transition-opacity">
-                  <div className="flex items-start gap-4">
+                  className="block p-0 pt-2">
+                  <div className="flex items-center gap-4">
                     {gallery.firstImage && (
                       <img
                         src={getImageUrl(gallery.slug, gallery.firstImage.filename.replaceAll(" ", "_"), 160)}
                         alt={gallery.title}
-                        className="w-16 h-16 sm:w-20 sm:h-20 object-cover flex-shrink-0 border border-neutral-500/20"
+                        className="w-16 h-16 sm:w-20 sm:h-20 object-cover flex-shrink-0 mt-2"
                         loading="lazy"
                       />
                     )}
@@ -215,13 +215,13 @@ const Timeline = () => {
                           {gallery.endDate.toLocaleDateString("de-DE", { day: "numeric", month: "short", year: "numeric" })}
                         </span>
                       </div>
-                      <div className="flex flex-wrap items-center gap-3 mt-2 text-xs">
+                      <div className="flex flex-wrap items-center gap-1 mt-2 text-xs">
                         <span className={cn(theme === "dark" ? "text-gray-400" : "text-gray-600")}>
                           {gallery.images.length} {gallery.images.length === 1 ? "Foto" : "Fotos"}
                         </span>
                         {gallery.duration > 0 && (
                           <>
-                            <span className={cn(theme === "dark" ? "text-gray-500" : "text-gray-500")}>•</span>
+                            -
                             <span className={cn(theme === "dark" ? "text-gray-400" : "text-gray-600")}>
                               {gallery.duration === 0 ? "< 1 Tag" : gallery.duration === 1 ? "1 Tag" : `${gallery.duration} Tage`}
                             </span>

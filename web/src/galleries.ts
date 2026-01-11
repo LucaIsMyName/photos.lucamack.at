@@ -2081,7 +2081,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Spiegelungen eines Fensters inder Innenstadt von Baden.jpg",
+        "filename": "Spiegelungen eines Fensters in der Innenstadt von Baden.jpg",
         "latitude": 48.006217,
         "longitude": 16.233131,
         "createDate": "2025-09-13T09:53:00.000Z",
@@ -3611,7 +3611,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Power' Graffitti an der S-Bahn-Mauer.jpg",
+        "filename": "'Power' Graffiti an der S-Bahn-Mauer.jpg",
         "latitude": 52.498164,
         "longitude": 13.466719,
         "createDate": "2025-08-19T19:00:04.000Z",
@@ -7683,7 +7683,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Graffitti auf Glas in einer U-Bahn-Station Möckernbrücke am Hallerschen Ufer - Landwehrkanal.jpg",
+        "filename": "Graffiti auf Glas in einer U-Bahn-Station Möckernbrücke am Hallerschen Ufer - Landwehrkanal.jpg",
         "latitude": 52.498989,
         "longitude": 13.382436,
         "createDate": "2025-08-20T08:45:59.000Z",
@@ -7747,7 +7747,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Graffitti in Garageneinfahrt in Gubener-Strasse in Friedrichshain.jpg",
+        "filename": "Graffiti in Garageneinfahrt in Gubener-Strasse in Friedrichshain.jpg",
         "latitude": 52.512311,
         "longitude": 13.448833,
         "createDate": "2025-08-19T20:58:05.000Z",
@@ -16938,7 +16938,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Tennis Graffitti.jpg",
+        "filename": "Tennis Graffiti.jpg",
         "latitude": 47.065986,
         "longitude": 15.423369,
         "createDate": "2025-07-21T21:00:59.000Z",
@@ -22504,7 +22504,7 @@ export const galleries = [
     "description": "Ab in den Süden / *Proti jugu*",
     "images": [
       {
-        "filename": "'Ich liebe dich' Graffitti Klagenfurt.jpg",
+        "filename": "'Ich liebe dich' Graffiti Klagenfurt.jpg",
         "latitude": 46.616161,
         "longitude": 14.308681,
         "createDate": "2025-07-20T18:06:55.000Z",
@@ -23548,7 +23548,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Graffitti Auslage Klagenfurt.jpg",
+        "filename": "Graffiti Auslage Klagenfurt.jpg",
         "latitude": 46.62515,
         "longitude": 14.309306,
         "createDate": "2025-07-20T12:33:13.000Z",
@@ -32137,6 +32137,56 @@ export const galleries = [
         ]
       },
       {
+        "filename": "U-Bahn Symbol der Wiener Linien.jpg",
+        "latitude": 48.181136,
+        "longitude": 16.412892,
+        "createDate": "2026-01-11T07:20:02.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                110,
+                190,
+                240
+              ],
+              "hex": "#6ebef0",
+              "percentage": "0.225"
+            },
+            {
+              "rgb": [
+                0,
+                40,
+                90
+              ],
+              "hex": "#00285a",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                190,
+                160,
+                160
+              ],
+              "hex": "#bea0a0",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "37.833"
+        },
+        "width": 3606,
+        "height": 2716,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ]
+      },
+      {
         "filename": "U-Bahn-Station Kendlerstrasse Bahnsteige.jpg",
         "latitude": 48.206303,
         "longitude": 16.310333,
@@ -32650,8 +32700,8 @@ export const galleries = [
         ]
       }
     ],
-    "timeframe": "11. April 2024 - 14. November 2025",
-    "imageCount": 80,
+    "timeframe": "11. April 2024 - 11. Januar 2026",
+    "imageCount": 81,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
@@ -39818,7 +39868,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Heiligen-Statue und STeiege zu Kapelle Maria Bühel - Oberndorf.jpg",
+        "filename": "Heiligen-Statue und Stiege zu Kapelle Maria Bühel - Oberndorf.jpg",
         "latitude": 47.942106,
         "longitude": 12.934036,
         "createDate": "2025-12-24T14:04:44.000Z",
@@ -40470,6 +40520,701 @@ export const galleries = [
       "Architektur",
       "Park"
     ]
+  },
+  {
+    "name": "schwarz-weiss",
+    "slug": "schwarz-weiss",
+    "title": "S/W",
+    "description": "",
+    "images": [
+      {
+        "filename": "'Neu. Lotto. Computer. 6 aus 45. Mit Gewinngarantie' Schilder und Werbungen am Stephansplatz.jpg",
+        "latitude": 48.208092,
+        "longitude": 16.373767,
+        "createDate": "2026-01-09T07:25:54.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.330"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.081"
+            },
+            {
+              "rgb": [
+                190,
+                190,
+                190
+              ],
+              "hex": "#bebebe",
+              "percentage": "0.041"
+            },
+            {
+              "rgb": [
+                120,
+                120,
+                120
+              ],
+              "hex": "#787878",
+              "percentage": "0.029"
+            }
+          ],
+          "colorfulness": "48.537"
+        },
+        "width": 3553,
+        "height": 4528
+      },
+      {
+        "filename": "'Rant' Graffiti-Tag am Gasometer in Erdberg.jpg",
+        "latitude": 48.185444,
+        "longitude": 16.420389,
+        "createDate": "2026-01-11T07:12:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.080"
+            },
+            {
+              "rgb": [
+                60,
+                60,
+                60
+              ],
+              "hex": "#3c3c3c",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                200
+              ],
+              "hex": "#c8c8c8",
+              "percentage": "0.034"
+            }
+          ],
+          "colorfulness": "38.336"
+        },
+        "width": 3637,
+        "height": 4907
+      },
+      {
+        "filename": "Durchgang und Eingang zum Park-and-Ride Ottakring nahe Kendlerstrasse.jpg",
+        "latitude": 48.206067,
+        "longitude": 16.308947,
+        "createDate": "2026-01-10T13:52:11.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                60,
+                60,
+                60
+              ],
+              "hex": "#3c3c3c",
+              "percentage": "0.048"
+            }
+          ],
+          "colorfulness": "36.216"
+        },
+        "width": 3135,
+        "height": 4669
+      },
+      {
+        "filename": "Einfahrt und Industriegebäude in Erdberg.jpg",
+        "latitude": 48.184728,
+        "longitude": 16.422244,
+        "createDate": "2026-01-11T07:11:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                60,
+                60
+              ],
+              "hex": "#3c3c3c",
+              "percentage": "0.122"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                160
+              ],
+              "hex": "#a0a0a0",
+              "percentage": "0.043"
+            }
+          ],
+          "colorfulness": "36.653"
+        },
+        "width": 3908,
+        "height": 4409
+      },
+      {
+        "filename": "Eingang zur S-Bahn-Station Krottenbachstrasse in Wien Döbling.jpg",
+        "latitude": 48.240367,
+        "longitude": 16.341461,
+        "createDate": "2026-01-08T18:27:20.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.272"
+            },
+            {
+              "rgb": [
+                50,
+                50,
+                50
+              ],
+              "hex": "#323232",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                130
+              ],
+              "hex": "#828282",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.027"
+            }
+          ],
+          "colorfulness": "39.652"
+        },
+        "width": 3877,
+        "height": 4258
+      },
+      {
+        "filename": "Gasometer und Wohnhäuser in Erdberg.jpg",
+        "latitude": 48.184278,
+        "longitude": 16.422231,
+        "createDate": "2026-01-11T07:10:56.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.237"
+            },
+            {
+              "rgb": [
+                190,
+                190,
+                190
+              ],
+              "hex": "#bebebe",
+              "percentage": "0.067"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                50,
+                50,
+                50
+              ],
+              "hex": "#323232",
+              "percentage": "0.024"
+            }
+          ],
+          "colorfulness": "39.147"
+        },
+        "width": 3604,
+        "height": 3672
+      },
+      {
+        "filename": "Gehsteig, Wohn- und Bürohäuser in der Nussbaumallee nahe Gasometer.jpg",
+        "latitude": 48.181553,
+        "longitude": 16.423017,
+        "createDate": "2026-01-11T07:07:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.176"
+            },
+            {
+              "rgb": [
+                20,
+                20,
+                20
+              ],
+              "hex": "#141414",
+              "percentage": "0.077"
+            },
+            {
+              "rgb": [
+                90,
+                90,
+                90
+              ],
+              "hex": "#5a5a5a",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                170,
+                170,
+                170
+              ],
+              "hex": "#aaaaaa",
+              "percentage": "0.026"
+            }
+          ],
+          "colorfulness": "42.158"
+        },
+        "width": 3665,
+        "height": 5165
+      },
+      {
+        "filename": "Hochhäuser und Hyblerpark in Simmering nahe Zippererstrasse.jpg",
+        "latitude": 48.181719,
+        "longitude": 16.412119,
+        "createDate": "2026-01-11T07:18:54.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.178"
+            },
+            {
+              "rgb": [
+                20,
+                20,
+                20
+              ],
+              "hex": "#141414",
+              "percentage": "0.082"
+            },
+            {
+              "rgb": [
+                80,
+                80,
+                80
+              ],
+              "hex": "#505050",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                130
+              ],
+              "hex": "#828282",
+              "percentage": "0.042"
+            }
+          ],
+          "colorfulness": "31.348"
+        },
+        "width": 3151,
+        "height": 4609
+      },
+      {
+        "filename": "Hyblerpark und Eingang zur U-Bahn-Station Zippererstrasse.jpg",
+        "latitude": 48.181328,
+        "longitude": 16.412389,
+        "createDate": "2026-01-11T07:19:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.220"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.063"
+            }
+          ],
+          "colorfulness": "41.680"
+        },
+        "width": 4093,
+        "height": 4676
+      },
+      {
+        "filename": "Statue vor der Votivkirche in Wien Alsergrund.jpg",
+        "latitude": 48.214925,
+        "longitude": 16.359239,
+        "createDate": "2026-01-08T07:55:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.065"
+            },
+            {
+              "rgb": [
+                80,
+                80,
+                80
+              ],
+              "hex": "#505050",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                130
+              ],
+              "hex": "#828282",
+              "percentage": "0.046"
+            }
+          ],
+          "colorfulness": "33.053"
+        },
+        "width": 3102,
+        "height": 4375
+      },
+      {
+        "filename": "Strasse, S-Bahn und U-Bahn-Trasse und Wohnhäuser nahe Kendlerstrasse.jpg",
+        "latitude": 48.206136,
+        "longitude": 16.308631,
+        "createDate": "2026-01-10T13:52:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                250,
+                250
+              ],
+              "hex": "#fafafa",
+              "percentage": "0.277"
+            },
+            {
+              "rgb": [
+                20,
+                20,
+                20
+              ],
+              "hex": "#141414",
+              "percentage": "0.057"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.042"
+            }
+          ],
+          "colorfulness": "45.469"
+        },
+        "width": 2981,
+        "height": 4524
+      },
+      {
+        "filename": "Universitätsring nahe Schottentor in WIen Innere Stadt.jpg",
+        "latitude": 48.213775,
+        "longitude": 16.362497,
+        "createDate": "2026-01-09T07:39:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                250,
+                250
+              ],
+              "hex": "#fafafa",
+              "percentage": "0.254"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                50,
+                50,
+                50
+              ],
+              "hex": "#323232",
+              "percentage": "0.037"
+            }
+          ],
+          "colorfulness": "44.043"
+        },
+        "width": 3746,
+        "height": 4937
+      },
+      {
+        "filename": "Votivpark und Votivkirche in Wien Alsergrund.jpg",
+        "latitude": 48.214531,
+        "longitude": 16.360842,
+        "createDate": "2026-01-09T07:41:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.383"
+            },
+            {
+              "rgb": [
+                60,
+                60,
+                60
+              ],
+              "hex": "#3c3c3c",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                140
+              ],
+              "hex": "#8c8c8c",
+              "percentage": "0.026"
+            }
+          ],
+          "colorfulness": "38.724"
+        },
+        "width": 3479,
+        "height": 5478
+      },
+      {
+        "filename": "Vögel und Baum nahe Zippererstrasses in Simmering.jpg",
+        "latitude": 48.179836,
+        "longitude": 16.415147,
+        "createDate": "2026-01-11T07:21:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.279"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                160
+              ],
+              "hex": "#a0a0a0",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                110,
+                110,
+                110
+              ],
+              "hex": "#6e6e6e",
+              "percentage": "0.028"
+            }
+          ],
+          "colorfulness": "27.793"
+        },
+        "width": 3219,
+        "height": 3441
+      },
+      {
+        "filename": "Wohnhaus und Äste eines Baumes in Simmering.jpg",
+        "latitude": 48.179519,
+        "longitude": 16.415756,
+        "createDate": "2026-01-11T07:22:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.154"
+            },
+            {
+              "rgb": [
+                150,
+                150,
+                150
+              ],
+              "hex": "#969696",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                40,
+                40,
+                40
+              ],
+              "hex": "#282828",
+              "percentage": "0.027"
+            }
+          ],
+          "colorfulness": "39.006"
+        },
+        "width": 3720,
+        "height": 3424
+      },
+      {
+        "filename": "Wohnhochhaus, Inudustriegebäude und Zaun nahe Gasometer in Erdberg.jpg",
+        "latitude": 48.183778,
+        "longitude": 16.416219,
+        "createDate": "2026-01-11T07:15:56.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.163"
+            },
+            {
+              "rgb": [
+                120,
+                120,
+                120
+              ],
+              "hex": "#787878",
+              "percentage": "0.105"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "34.760"
+        },
+        "width": 3059,
+        "height": 5288
+      }
+    ],
+    "timeframe": "8. Januar 2026 - 11. Januar 2026",
+    "imageCount": 16
   },
   {
     "name": "schweiz",
@@ -45266,7 +46011,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Angry Face' Graffitti nahe Gudrunstrasse.jpg",
+        "filename": "'Angry Face' Graffiti nahe Gudrunstrasse.jpg",
         "latitude": 48.177108,
         "longitude": 16.380236,
         "createDate": "2025-08-29T14:46:39.000Z",
@@ -45506,7 +46251,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Fick Geld' Graffitti bei der U-Bahn-Station Kendlerstrasse.jpg",
+        "filename": "'Fick Geld' Graffiti bei der U-Bahn-Station Kendlerstrasse.jpg",
         "latitude": 48.205628,
         "longitude": 16.309181,
         "createDate": "2025-12-30T16:25:11.000Z",
@@ -45626,7 +46371,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Low' & 'Nr' Graffitti und Wiese davor.jpg",
+        "filename": "'Low' & 'Nr' Graffiti und Wiese davor.jpg",
         "latitude": 48.195586,
         "longitude": 16.420492,
         "createDate": "2025-08-03T11:17:20.000Z",
@@ -45686,7 +46431,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Mama' Graffitti in Simmering.jpg",
+        "filename": "'Mama' Graffiti in Simmering.jpg",
         "latitude": 48.176483,
         "longitude": 16.424428,
         "createDate": "2024-08-17T13:26:27.000Z",
@@ -45821,7 +46566,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Normal' Graffitti auf Betonstempen.jpg",
+        "filename": "'Normal' Graffiti auf Betonstempen.jpg",
         "latitude": 48.198944,
         "longitude": 16.426036,
         "createDate": "2025-08-03T11:10:08.000Z",
@@ -45890,7 +46635,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Otto' Graffitti.jpg",
+        "filename": "'Otto' Graffiti.jpg",
         "latitude": 48.181494,
         "longitude": 16.351575,
         "createDate": "2025-08-09T15:09:56.000Z",
@@ -45941,7 +46686,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Ruhe' Graffitti in der Simmeringer-Hauptstrasse.jpg",
+        "filename": "'Ruhe' Graffiti in der Simmeringer-Hauptstrasse.jpg",
         "latitude": 48.173625,
         "longitude": 16.417025,
         "createDate": "2025-07-14T18:46:56.000Z",
@@ -46292,7 +47037,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Ugly' Graffitti in Meidling.jpg",
+        "filename": "'Ugly' Graffiti in Meidling.jpg",
         "latitude": 48.184056,
         "longitude": 16.336525,
         "createDate": "2025-08-09T19:57:00.000Z",
@@ -46412,7 +47157,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Verzagte Blume' Graffitti.jpg",
+        "filename": "'Verzagte Blume' Graffiti.jpg",
         "latitude": 48.216294,
         "longitude": 16.357211,
         "createDate": "2025-09-16T11:51:11.000Z",
@@ -46616,7 +47361,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Weinende Blume' Graffitti.jpg",
+        "filename": "'Weinende Blume' Graffiti.jpg",
         "latitude": 48.170519,
         "longitude": 16.419939,
         "createDate": "2025-09-14T14:50:47.000Z",
@@ -47018,7 +47763,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Graffitti 'Fuck Love' und Hunde-Bild auf einer Well-Blech-Wand.jpg",
+        "filename": "Graffiti 'Fuck Love' und Hunde-Bild auf einer Well-Blech-Wand.jpg",
         "latitude": 48.175575,
         "longitude": 16.407339,
         "createDate": "2025-07-26T15:39:08.000Z",
@@ -47060,7 +47805,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Graffitti 'Kek' in der Lorystrasse.jpg",
+        "filename": "Graffiti 'Kek' in der Lorystrasse.jpg",
         "latitude": 48.167661,
         "longitude": 16.418339,
         "createDate": "2025-07-27T13:52:10.000Z",
@@ -47120,7 +47865,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Graffitti Smiley auf einer Mauer Litschau.jpg",
+        "filename": "Graffiti Smiley auf einer Mauer Litschau.jpg",
         "latitude": 48.948892,
         "longitude": 15.044311,
         "createDate": "2024-07-13T13:15:40.000Z",
@@ -47153,7 +47898,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Graffitti-Tag 'Gurk' auf der Schmelzrampe.jpg",
+        "filename": "Graffiti-Tag 'Gurk' auf der Schmelzrampe.jpg",
         "latitude": 48.194328,
         "longitude": 16.330344,
         "createDate": "2025-07-21T12:34:46.000Z",
@@ -47213,7 +47958,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Graffitti-Tags auf einer Well-Blech-Wand.jpg",
+        "filename": "Graffiti-Tags auf einer Well-Blech-Wand.jpg",
         "latitude": 48.176256,
         "longitude": 16.407767,
         "createDate": "2025-07-26T15:38:04.000Z",
@@ -47333,7 +48078,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Kaos Graffitti in Brigittenau.jpg",
+        "filename": "Kaos Graffiti in Brigittenau.jpg",
         "latitude": 48.239161,
         "longitude": 16.384072,
         "createDate": "2025-07-15T17:03:01.000Z",
@@ -49414,7 +50159,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Ikarus' Graffitti und Kunst in der U-Bahn-Station Rochusgasse.jpg",
+        "filename": "'Ikarus' Graffiti und Kunst in der U-Bahn-Station Rochusgasse.jpg",
         "latitude": 48.202481,
         "longitude": 16.391178,
         "createDate": "2025-09-17T15:47:08.000Z",
@@ -49526,7 +50271,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "'Meow' Graffitti in Alsergrund.jpg",
+        "filename": "'Meow' Graffiti in Alsergrund.jpg",
         "latitude": 48.216572,
         "longitude": 16.356842,
         "createDate": "2025-10-24T11:18:44.000Z",
@@ -49582,80 +50327,6 @@ export const galleries = [
         },
         "width": 4795,
         "height": 4214,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Typografie",
-          "Kultur",
-          "Kunst",
-          "Park",
-          "Statuen"
-        ]
-      },
-      {
-        "filename": "'Neu. Lotto. Computer. 6 aus 45. Mit Gewinngarantie' Schilder und Werbungen am Stephansplatz.jpg",
-        "latitude": 48.208092,
-        "longitude": 16.373767,
-        "createDate": "2026-01-09T07:25:54.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                60,
-                20,
-                10
-              ],
-              "hex": "#3c140a",
-              "percentage": "0.099"
-            },
-            {
-              "rgb": [
-                220,
-                210,
-                200
-              ],
-              "hex": "#dcd2c8",
-              "percentage": "0.033"
-            },
-            {
-              "rgb": [
-                190,
-                170,
-                150
-              ],
-              "hex": "#beaa96",
-              "percentage": "0.013"
-            },
-            {
-              "rgb": [
-                250,
-                170,
-                40
-              ],
-              "hex": "#faaa28",
-              "percentage": "0.001"
-            },
-            {
-              "rgb": [
-                190,
-                10,
-                10
-              ],
-              "hex": "#be0a0a",
-              "percentage": "0.001"
-            }
-          ],
-          "colorfulness": "49.526"
-        },
-        "width": 3585,
-        "height": 5303,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -54046,80 +54717,6 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Eingang zur S-Bahn-Station Krottenbachstrasse in Döbling.jpg",
-        "latitude": 48.240367,
-        "longitude": 16.341461,
-        "createDate": "2026-01-08T18:27:20.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.146"
-            },
-            {
-              "rgb": [
-                160,
-                130,
-                110
-              ],
-              "hex": "#a0826e",
-              "percentage": "0.005"
-            },
-            {
-              "rgb": [
-                200,
-                170,
-                150
-              ],
-              "hex": "#c8aa96",
-              "percentage": "0.004"
-            },
-            {
-              "rgb": [
-                220,
-                210,
-                190
-              ],
-              "hex": "#dcd2be",
-              "percentage": "0.004"
-            },
-            {
-              "rgb": [
-                40,
-                100,
-                210
-              ],
-              "hex": "#2864d2",
-              "percentage": "0.000"
-            }
-          ],
-          "colorfulness": "36.831"
-        },
-        "width": 4039,
-        "height": 4385,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Typografie",
-          "Kultur",
-          "Kunst",
-          "Park",
-          "Statuen"
-        ]
-      },
-      {
         "filename": "Eingangstor uz einem Gemeindebau in der Lorystrasse.jpg",
         "latitude": 48.169717,
         "longitude": 16.416008,
@@ -56578,7 +57175,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Graffitti auf einem Masten und Kraftwerk Schlot des Simmering.jpg",
+        "filename": "Graffiti auf einem Masten und Kraftwerk Schlot des Simmering.jpg",
         "latitude": 48.186633,
         "longitude": 16.43145,
         "createDate": "2025-10-12T07:53:40.000Z",
@@ -56625,7 +57222,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Graffitti auf einer Hausmauer in Mariahilf.jpg",
+        "filename": "Graffiti auf einer Hausmauer in Mariahilf.jpg",
         "latitude": 48.197389,
         "longitude": 16.354125,
         "createDate": "2026-01-06T14:46:09.000Z",
@@ -58613,7 +59210,7 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Kleines Materl und Graffitti in der Geiselbergstrasse .jpg",
+        "filename": "Kleines Materl und Graffiti in der Geiselbergstrasse .jpg",
         "latitude": 48.174889,
         "longitude": 16.407264,
         "createDate": "2025-05-10T11:27:15.000Z",
@@ -63229,62 +63826,6 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Universitätsring nahe dem Schottentor.jpg",
-        "latitude": 48.213775,
-        "longitude": 16.362497,
-        "createDate": "2026-01-09T07:39:01.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                230,
-                220
-              ],
-              "hex": "#f0e6dc",
-              "percentage": "0.133"
-            },
-            {
-              "rgb": [
-                110,
-                80,
-                70
-              ],
-              "hex": "#6e5046",
-              "percentage": "0.019"
-            },
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.009"
-            }
-          ],
-          "colorfulness": "37.131"
-        },
-        "width": 3746,
-        "height": 4937,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Typografie",
-          "Kultur",
-          "Kunst",
-          "Park",
-          "Statuen"
-        ]
-      },
-      {
         "filename": "Überdachung eines Fabriksgeländes mit Sperrmüll.jpg",
         "latitude": 48.1679,
         "longitude": 16.411825,
@@ -63471,80 +64012,6 @@ export const galleries = [
         ]
       },
       {
-        "filename": "Votivkirche und Statue davor.jpg",
-        "latitude": 48.214925,
-        "longitude": 16.359239,
-        "createDate": "2026-01-08T07:55:05.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                130,
-                90,
-                70
-              ],
-              "hex": "#825a46",
-              "percentage": "0.020"
-            },
-            {
-              "rgb": [
-                160,
-                210,
-                240
-              ],
-              "hex": "#a0d2f0",
-              "percentage": "0.008"
-            },
-            {
-              "rgb": [
-                180,
-                150,
-                130
-              ],
-              "hex": "#b49682",
-              "percentage": "0.008"
-            },
-            {
-              "rgb": [
-                80,
-                180,
-                230
-              ],
-              "hex": "#50b4e6",
-              "percentage": "0.007"
-            },
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.005"
-            }
-          ],
-          "colorfulness": "38.322"
-        },
-        "width": 3102,
-        "height": 4375,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Typografie",
-          "Kultur",
-          "Kunst",
-          "Park",
-          "Statuen"
-        ]
-      },
-      {
         "filename": "Votivkirche und Votivpark am Schottentor.jpg",
         "latitude": 48.214608,
         "longitude": 16.361,
@@ -63601,53 +64068,6 @@ export const galleries = [
         },
         "width": 3715,
         "height": 5235,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Typografie",
-          "Kultur",
-          "Kunst",
-          "Park",
-          "Statuen"
-        ]
-      },
-      {
-        "filename": "Votivpark und Votivkirche im Winter.jpg",
-        "latitude": 48.214531,
-        "longitude": 16.360842,
-        "createDate": "2026-01-09T07:41:39.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                220,
-                220,
-                220
-              ],
-              "hex": "#dcdcdc",
-              "percentage": "0.150"
-            },
-            {
-              "rgb": [
-                100,
-                80,
-                70
-              ],
-              "hex": "#645046",
-              "percentage": "0.013"
-            }
-          ],
-          "colorfulness": "36.769"
-        },
-        "width": 3479,
-        "height": 5478,
         "creator": "Luca Mack",
         "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
         "creditText": "Photo by Luca Mack",
@@ -65126,7 +65546,7 @@ export const galleries = [
       }
     ],
     "timeframe": "7. Juni 2024 - 10. Januar 2026",
-    "imageCount": 262,
+    "imageCount": 257,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",
