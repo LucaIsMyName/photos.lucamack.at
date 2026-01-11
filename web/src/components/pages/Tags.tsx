@@ -82,6 +82,7 @@ const Tags = () => {
             <span className={`text-xs ${theme === "light" ? "text-gray-700" : "text-gray-300"}`}>Verfügbare Tags</span>
             <button
               onClick={clearAllTags}
+              aria-label="Clear all selected tags"
               className={`text-xs px-2 py-1 border border-neutral-500/20 transition-colors ${selectedTags.length > 0 ? (theme === "light" ? "bg-red-100 text-red-700 hover:bg-red-200" : "bg-red-900 text-red-300 hover:bg-red-800") : theme === "light" ? "bg-gray-100 text-gray-400 cursor-not-allowed" : "bg-gray-800 text-gray-600 cursor-not-allowed"}`}
               disabled={selectedTags.length === 0}>
               Filter löschen
@@ -96,6 +97,8 @@ const Tags = () => {
                 <button
                   key={tag}
                   onClick={() => handleTagToggle(tag)}
+                  aria-label={`Toggle tag: ${tag}`}
+                  aria-pressed={isSelected}
                   className={`px-3 py-1.5 text-[9.5px] font-mono border border-neutral-500/20 transition-all duration-200 ${isSelected ? (theme === "light" ? "bg-black text-white" : "bg-white text-black") : theme === "light" ? "text-gray-700 hover:bg-gray-50" : "text-gray-300 hover:bg-gray-900"}`}>
                   {tag}
                 </button>

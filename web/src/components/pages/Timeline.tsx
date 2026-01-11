@@ -135,11 +135,15 @@ const Timeline = () => {
         <div className="flex items-center space-x-2 gap-2 md:ml-0">
           <button
             onClick={() => setActiveTab("images")}
+            aria-label="Show images"
+            aria-pressed={activeTab === "images"}
             className={cn(` ${tabClasses(activeTab === "images")}`)}>
             Fotos
           </button>
           <button
             onClick={() => setActiveTab("galleries")}
+            aria-label="Show galleries"
+            aria-pressed={activeTab === "galleries"}
             className={cn(` ${tabClasses(activeTab === "galleries")}`)}>
             Serien
           </button>
@@ -206,7 +210,7 @@ const Timeline = () => {
                     )}
                     <div className="flex-1 min-w-0">
                       <h3 className={cn("text-lg mb-1", theme === "dark" ? "text-white" : "text-black")}>{gallery.title}</h3>
-                      <div className="flex flex-wrap items-center gap-2 text-xs">
+                      <div className="flex flex-wrap items-center gap-1 text-xs">
                         <span className={cn(theme === "dark" ? "text-gray-400" : "text-gray-600")}>
                           {gallery.startDate.toLocaleDateString("de-DE", { day: "numeric", month: "short", year: "numeric" })}
                         </span>

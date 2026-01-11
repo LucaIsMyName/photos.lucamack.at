@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useTheme } from '../../contexts/ThemeContext';
+import { useToast } from '../../contexts/ToastContext';
 
 interface ApiKeyManagerProps {
   onApiKeySet: (key: string) => void;
@@ -7,6 +8,7 @@ interface ApiKeyManagerProps {
 
 const ApiKeyManager: React.FC<ApiKeyManagerProps> = ({ onApiKeySet }) => {
   const { theme } = useTheme();
+  const { showToast } = useToast();
   const [apiKey, setApiKey] = useState('');
   const [isValidating, setIsValidating] = useState(false);
 
@@ -17,7 +19,7 @@ const ApiKeyManager: React.FC<ApiKeyManagerProps> = ({ onApiKeySet }) => {
     
     // Basic validation - Google API keys start with AIza
     if (!apiKey.startsWith('AIza')) {
-      alert('Invalid API key format. Google Vision API keys should start with "AIza"');
+      showToast('Invalid API key format. Google Vision API keys should start with "AIza"', 'error');
       setIsValidating(false);
       return;
     }
@@ -66,6 +68,7 @@ const ApiKeyManager: React.FC<ApiKeyManagerProps> = ({ onApiKeySet }) => {
       <button
         onClick={handleSubmit}
         disabled={!apiKey.trim() || isValidating}
+        aria-label="Set API Key"
         className={`w-full font-medium py-2 px-4 transition-colors ${
           !apiKey.trim() || isValidating
             ? theme === 'dark' ? 'bg-gray-800 text-gray-500' : 'bg-gray-200 text-gray-400'

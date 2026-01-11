@@ -74,6 +74,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ messages, onSendMessage, 
               }
             }
           }}
+          aria-label="Change API Key"
           className={`px-3 py-1 text-xs border ${
             theme === 'dark' 
               ? 'border-white text-white hover:bg-white hover:text-black' 
@@ -93,6 +94,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ messages, onSendMessage, 
                 <button
                   key={index}
                   onClick={() => handleSuggestionClick(query)}
+                  aria-label={`Use example query: ${query}`}
                   className={`p-3 text-sm text-left border transition-colors ${
                     theme === 'dark'
                       ? 'border-white text-white hover:bg-white hover:text-black'
@@ -148,6 +150,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ messages, onSendMessage, 
           <button
             onClick={(e) => handleSubmit(e)}
             disabled={!inputValue.trim() || isLoading}
+            aria-label="Send message"
             className={`px-4 py-2 transition-colors ${
               !inputValue.trim() || isLoading
                 ? theme === 'dark' ? 'bg-gray-800 text-gray-500' : 'bg-gray-200 text-gray-400'

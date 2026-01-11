@@ -14459,7 +14459,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -14528,7 +14529,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -14597,7 +14599,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -14639,7 +14642,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -14708,7 +14712,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -14777,7 +14782,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -14828,7 +14834,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -14870,7 +14877,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -14921,7 +14929,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -14990,7 +14999,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -15059,7 +15069,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -15110,7 +15121,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       },
       {
@@ -15179,7 +15191,8 @@ export const galleries = [
           "Architektur",
           "Stadt",
           "Technologie",
-          "Militär"
+          "Militär",
+          "Event"
         ]
       }
     ],
@@ -15194,7 +15207,8 @@ export const galleries = [
       "Architektur",
       "Stadt",
       "Technologie",
-      "Militär"
+      "Militär",
+      "Event"
     ]
   },
   {
@@ -15233,6 +15247,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15304,6 +15319,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15375,6 +15391,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15428,6 +15445,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15481,6 +15499,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15534,6 +15553,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15587,6 +15607,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15649,6 +15670,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15702,6 +15724,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15755,6 +15778,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15799,6 +15823,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15852,6 +15877,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15914,6 +15940,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -15985,6 +16012,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16056,6 +16084,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16100,6 +16129,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16162,6 +16192,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16233,6 +16264,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16295,6 +16327,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16348,6 +16381,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16401,6 +16435,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16454,6 +16489,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16525,6 +16561,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16587,6 +16624,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16649,6 +16687,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16720,6 +16759,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16782,6 +16822,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16826,6 +16867,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16888,6 +16930,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16932,6 +16975,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -16976,6 +17020,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -17029,6 +17074,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -17091,6 +17137,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -17144,6 +17191,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -17206,6 +17254,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -17268,6 +17317,7 @@ export const galleries = [
           "Steiermark",
           "Architektur",
           "Stadt",
+          "Event",
           "Konzert",
           "Kunst",
           "Fluss"
@@ -17285,6 +17335,7 @@ export const galleries = [
       "Steiermark",
       "Architektur",
       "Stadt",
+      "Event",
       "Konzert",
       "Kunst",
       "Fluss"
@@ -25122,7 +25173,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -25164,7 +25216,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -25224,7 +25277,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -25266,7 +25320,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -25317,7 +25372,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -25359,7 +25415,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -25419,7 +25476,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -25461,7 +25519,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -25512,7 +25571,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -25554,7 +25614,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       },
       {
@@ -25605,7 +25666,8 @@ export const galleries = [
           "Landschaft",
           "Architektur",
           "Stadt",
-          "Meer"
+          "Meer",
+          "Fluss"
         ]
       }
     ],
@@ -25620,7 +25682,8 @@ export const galleries = [
       "Landschaft",
       "Architektur",
       "Stadt",
-      "Meer"
+      "Meer",
+      "Fluss"
     ]
   },
   {
@@ -25696,7 +25759,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -25748,7 +25811,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -25800,7 +25863,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -25861,7 +25924,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -25922,7 +25985,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -25992,7 +26055,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26053,7 +26116,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26123,7 +26186,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26175,7 +26238,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26218,7 +26281,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26288,7 +26351,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26358,7 +26421,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26419,7 +26482,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26462,7 +26525,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26523,7 +26586,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26575,7 +26638,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26645,7 +26708,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26706,7 +26769,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26776,7 +26839,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26828,7 +26891,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26889,7 +26952,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -26950,7 +27013,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27020,7 +27083,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27063,7 +27126,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27124,7 +27187,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27194,7 +27257,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27246,7 +27309,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27298,7 +27361,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27341,7 +27404,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27411,7 +27474,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27481,7 +27544,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27533,7 +27596,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27603,7 +27666,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27673,7 +27736,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27734,7 +27797,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27804,7 +27867,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27874,7 +27937,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27926,7 +27989,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -27996,7 +28059,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -28066,7 +28129,7 @@ export const galleries = [
           "Park",
           "Architektur",
           "Stadt",
-          "Fest"
+          "Event"
         ]
       }
     ],
@@ -28082,7 +28145,7 @@ export const galleries = [
       "Park",
       "Architektur",
       "Stadt",
-      "Fest"
+      "Event"
     ]
   },
   {
@@ -38523,7 +38586,7 @@ export const galleries = [
           "Österreich",
           "Stadt",
           "Architektur",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -38592,7 +38655,7 @@ export const galleries = [
           "Österreich",
           "Stadt",
           "Architektur",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -38652,7 +38715,7 @@ export const galleries = [
           "Österreich",
           "Stadt",
           "Architektur",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -38721,7 +38784,7 @@ export const galleries = [
           "Österreich",
           "Stadt",
           "Architektur",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -38790,7 +38853,7 @@ export const galleries = [
           "Österreich",
           "Stadt",
           "Architektur",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -38859,7 +38922,7 @@ export const galleries = [
           "Österreich",
           "Stadt",
           "Architektur",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -38919,7 +38982,7 @@ export const galleries = [
           "Österreich",
           "Stadt",
           "Architektur",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -38988,7 +39051,7 @@ export const galleries = [
           "Österreich",
           "Stadt",
           "Architektur",
-          "Fest"
+          "Event"
         ]
       },
       {
@@ -39048,7 +39111,7 @@ export const galleries = [
           "Österreich",
           "Stadt",
           "Architektur",
-          "Fest"
+          "Event"
         ]
       }
     ],
@@ -39063,7 +39126,7 @@ export const galleries = [
       "Österreich",
       "Stadt",
       "Architektur",
-      "Fest"
+      "Event"
     ]
   },
   {
@@ -40519,871 +40582,6 @@ export const galleries = [
       "Landschaft",
       "Architektur",
       "Park"
-    ]
-  },
-  {
-    "name": "schwarz-weiss",
-    "slug": "schwarz-weiss",
-    "title": "S/W",
-    "description": "",
-    "images": [
-      {
-        "filename": "'Neu. Lotto. Computer. 6 aus 45. Mit Gewinngarantie' Schilder und Werbungen am Stephansplatz.jpg",
-        "latitude": 48.208092,
-        "longitude": 16.373767,
-        "createDate": "2026-01-09T07:25:54.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                0,
-                0,
-                0
-              ],
-              "hex": "#000000",
-              "percentage": "0.330"
-            },
-            {
-              "rgb": [
-                230,
-                230,
-                230
-              ],
-              "hex": "#e6e6e6",
-              "percentage": "0.081"
-            },
-            {
-              "rgb": [
-                190,
-                190,
-                190
-              ],
-              "hex": "#bebebe",
-              "percentage": "0.041"
-            },
-            {
-              "rgb": [
-                120,
-                120,
-                120
-              ],
-              "hex": "#787878",
-              "percentage": "0.029"
-            }
-          ],
-          "colorfulness": "48.537"
-        },
-        "width": 3553,
-        "height": 4528,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "'Rant' Graffiti-Tag am Gasometer in Erdberg.jpg",
-        "latitude": 48.185444,
-        "longitude": 16.420389,
-        "createDate": "2026-01-11T07:12:57.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                240,
-                240
-              ],
-              "hex": "#f0f0f0",
-              "percentage": "0.080"
-            },
-            {
-              "rgb": [
-                60,
-                60,
-                60
-              ],
-              "hex": "#3c3c3c",
-              "percentage": "0.053"
-            },
-            {
-              "rgb": [
-                200,
-                200,
-                200
-              ],
-              "hex": "#c8c8c8",
-              "percentage": "0.034"
-            }
-          ],
-          "colorfulness": "38.336"
-        },
-        "width": 3637,
-        "height": 4907,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Durchgang und Eingang zum Park-and-Ride Ottakring nahe Kendlerstrasse.jpg",
-        "latitude": 48.206067,
-        "longitude": 16.308947,
-        "createDate": "2026-01-10T13:52:11.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                230,
-                230,
-                230
-              ],
-              "hex": "#e6e6e6",
-              "percentage": "0.058"
-            },
-            {
-              "rgb": [
-                60,
-                60,
-                60
-              ],
-              "hex": "#3c3c3c",
-              "percentage": "0.048"
-            }
-          ],
-          "colorfulness": "36.216"
-        },
-        "width": 3135,
-        "height": 4669,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Einfahrt und Industriegebäude in Erdberg.jpg",
-        "latitude": 48.184728,
-        "longitude": 16.422244,
-        "createDate": "2026-01-11T07:11:31.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                60,
-                60,
-                60
-              ],
-              "hex": "#3c3c3c",
-              "percentage": "0.122"
-            },
-            {
-              "rgb": [
-                240,
-                240,
-                240
-              ],
-              "hex": "#f0f0f0",
-              "percentage": "0.046"
-            },
-            {
-              "rgb": [
-                160,
-                160,
-                160
-              ],
-              "hex": "#a0a0a0",
-              "percentage": "0.043"
-            }
-          ],
-          "colorfulness": "36.653"
-        },
-        "width": 3908,
-        "height": 4409,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Eingang zur S-Bahn-Station Krottenbachstrasse in Wien Döbling.jpg",
-        "latitude": 48.240367,
-        "longitude": 16.341461,
-        "createDate": "2026-01-08T18:27:20.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                0,
-                0,
-                0
-              ],
-              "hex": "#000000",
-              "percentage": "0.272"
-            },
-            {
-              "rgb": [
-                50,
-                50,
-                50
-              ],
-              "hex": "#323232",
-              "percentage": "0.046"
-            },
-            {
-              "rgb": [
-                130,
-                130,
-                130
-              ],
-              "hex": "#828282",
-              "percentage": "0.036"
-            },
-            {
-              "rgb": [
-                240,
-                240,
-                240
-              ],
-              "hex": "#f0f0f0",
-              "percentage": "0.027"
-            }
-          ],
-          "colorfulness": "39.652"
-        },
-        "width": 3877,
-        "height": 4258,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Gasometer und Wohnhäuser in Erdberg.jpg",
-        "latitude": 48.184278,
-        "longitude": 16.422231,
-        "createDate": "2026-01-11T07:10:56.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                240,
-                240
-              ],
-              "hex": "#f0f0f0",
-              "percentage": "0.237"
-            },
-            {
-              "rgb": [
-                190,
-                190,
-                190
-              ],
-              "hex": "#bebebe",
-              "percentage": "0.067"
-            },
-            {
-              "rgb": [
-                0,
-                0,
-                0
-              ],
-              "hex": "#000000",
-              "percentage": "0.051"
-            },
-            {
-              "rgb": [
-                50,
-                50,
-                50
-              ],
-              "hex": "#323232",
-              "percentage": "0.024"
-            }
-          ],
-          "colorfulness": "39.147"
-        },
-        "width": 3604,
-        "height": 3672,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Gehsteig, Wohn- und Bürohäuser in der Nussbaumallee nahe Gasometer.jpg",
-        "latitude": 48.181553,
-        "longitude": 16.423017,
-        "createDate": "2026-01-11T07:07:38.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                230,
-                230,
-                230
-              ],
-              "hex": "#e6e6e6",
-              "percentage": "0.176"
-            },
-            {
-              "rgb": [
-                20,
-                20,
-                20
-              ],
-              "hex": "#141414",
-              "percentage": "0.077"
-            },
-            {
-              "rgb": [
-                90,
-                90,
-                90
-              ],
-              "hex": "#5a5a5a",
-              "percentage": "0.037"
-            },
-            {
-              "rgb": [
-                170,
-                170,
-                170
-              ],
-              "hex": "#aaaaaa",
-              "percentage": "0.026"
-            }
-          ],
-          "colorfulness": "42.158"
-        },
-        "width": 3665,
-        "height": 5165,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Hochhäuser und Hyblerpark in Simmering nahe Zippererstrasse.jpg",
-        "latitude": 48.181719,
-        "longitude": 16.412119,
-        "createDate": "2026-01-11T07:18:54.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                180,
-                180,
-                180
-              ],
-              "hex": "#b4b4b4",
-              "percentage": "0.178"
-            },
-            {
-              "rgb": [
-                20,
-                20,
-                20
-              ],
-              "hex": "#141414",
-              "percentage": "0.082"
-            },
-            {
-              "rgb": [
-                80,
-                80,
-                80
-              ],
-              "hex": "#505050",
-              "percentage": "0.044"
-            },
-            {
-              "rgb": [
-                130,
-                130,
-                130
-              ],
-              "hex": "#828282",
-              "percentage": "0.042"
-            }
-          ],
-          "colorfulness": "31.348"
-        },
-        "width": 3151,
-        "height": 4609,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Hyblerpark und Eingang zur U-Bahn-Station Zippererstrasse.jpg",
-        "latitude": 48.181328,
-        "longitude": 16.412389,
-        "createDate": "2026-01-11T07:19:38.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                220,
-                220,
-                220
-              ],
-              "hex": "#dcdcdc",
-              "percentage": "0.220"
-            },
-            {
-              "rgb": [
-                0,
-                0,
-                0
-              ],
-              "hex": "#000000",
-              "percentage": "0.063"
-            }
-          ],
-          "colorfulness": "41.680"
-        },
-        "width": 4093,
-        "height": 4676,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Statue vor der Votivkirche in Wien Alsergrund.jpg",
-        "latitude": 48.214925,
-        "longitude": 16.359239,
-        "createDate": "2026-01-08T07:55:05.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                240,
-                240
-              ],
-              "hex": "#f0f0f0",
-              "percentage": "0.065"
-            },
-            {
-              "rgb": [
-                80,
-                80,
-                80
-              ],
-              "hex": "#505050",
-              "percentage": "0.054"
-            },
-            {
-              "rgb": [
-                180,
-                180,
-                180
-              ],
-              "hex": "#b4b4b4",
-              "percentage": "0.046"
-            },
-            {
-              "rgb": [
-                130,
-                130,
-                130
-              ],
-              "hex": "#828282",
-              "percentage": "0.046"
-            }
-          ],
-          "colorfulness": "33.053"
-        },
-        "width": 3102,
-        "height": 4375,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Strasse, S-Bahn und U-Bahn-Trasse und Wohnhäuser nahe Kendlerstrasse.jpg",
-        "latitude": 48.206136,
-        "longitude": 16.308631,
-        "createDate": "2026-01-10T13:52:28.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                250,
-                250,
-                250
-              ],
-              "hex": "#fafafa",
-              "percentage": "0.277"
-            },
-            {
-              "rgb": [
-                20,
-                20,
-                20
-              ],
-              "hex": "#141414",
-              "percentage": "0.057"
-            },
-            {
-              "rgb": [
-                180,
-                180,
-                180
-              ],
-              "hex": "#b4b4b4",
-              "percentage": "0.042"
-            }
-          ],
-          "colorfulness": "45.469"
-        },
-        "width": 2981,
-        "height": 4524,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Universitätsring nahe Schottentor in WIen Innere Stadt.jpg",
-        "latitude": 48.213775,
-        "longitude": 16.362497,
-        "createDate": "2026-01-09T07:39:01.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                250,
-                250,
-                250
-              ],
-              "hex": "#fafafa",
-              "percentage": "0.254"
-            },
-            {
-              "rgb": [
-                0,
-                0,
-                0
-              ],
-              "hex": "#000000",
-              "percentage": "0.039"
-            },
-            {
-              "rgb": [
-                50,
-                50,
-                50
-              ],
-              "hex": "#323232",
-              "percentage": "0.037"
-            }
-          ],
-          "colorfulness": "44.043"
-        },
-        "width": 3746,
-        "height": 4937,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Votivpark und Votivkirche in Wien Alsergrund.jpg",
-        "latitude": 48.214531,
-        "longitude": 16.360842,
-        "createDate": "2026-01-09T07:41:39.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                240,
-                240
-              ],
-              "hex": "#f0f0f0",
-              "percentage": "0.383"
-            },
-            {
-              "rgb": [
-                60,
-                60,
-                60
-              ],
-              "hex": "#3c3c3c",
-              "percentage": "0.028"
-            },
-            {
-              "rgb": [
-                140,
-                140,
-                140
-              ],
-              "hex": "#8c8c8c",
-              "percentage": "0.026"
-            }
-          ],
-          "colorfulness": "38.724"
-        },
-        "width": 3479,
-        "height": 5478,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Vögel und Baum nahe Zippererstrasses in Simmering.jpg",
-        "latitude": 48.179836,
-        "longitude": 16.415147,
-        "createDate": "2026-01-11T07:21:36.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                220,
-                220,
-                220
-              ],
-              "hex": "#dcdcdc",
-              "percentage": "0.279"
-            },
-            {
-              "rgb": [
-                160,
-                160,
-                160
-              ],
-              "hex": "#a0a0a0",
-              "percentage": "0.034"
-            },
-            {
-              "rgb": [
-                110,
-                110,
-                110
-              ],
-              "hex": "#6e6e6e",
-              "percentage": "0.028"
-            }
-          ],
-          "colorfulness": "27.793"
-        },
-        "width": 3219,
-        "height": 3441,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Wohnhaus und Äste eines Baumes in der Eisteichstrasse Wien Simmering.jpg",
-        "latitude": 48.179519,
-        "longitude": 16.415756,
-        "createDate": "2026-01-11T07:22:15.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                240,
-                240
-              ],
-              "hex": "#f0f0f0",
-              "percentage": "0.154"
-            },
-            {
-              "rgb": [
-                150,
-                150,
-                150
-              ],
-              "hex": "#969696",
-              "percentage": "0.036"
-            },
-            {
-              "rgb": [
-                0,
-                0,
-                0
-              ],
-              "hex": "#000000",
-              "percentage": "0.028"
-            },
-            {
-              "rgb": [
-                40,
-                40,
-                40
-              ],
-              "hex": "#282828",
-              "percentage": "0.027"
-            }
-          ],
-          "colorfulness": "39.006"
-        },
-        "width": 3720,
-        "height": 3424,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      },
-      {
-        "filename": "Wohnhochhaus, Inudustriegebäude und Zaun am Medwedweg nahe Gasometer in Wien Simmering.jpg",
-        "latitude": 48.183778,
-        "longitude": 16.416219,
-        "createDate": "2026-01-11T07:15:56.000Z",
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                240,
-                240
-              ],
-              "hex": "#f0f0f0",
-              "percentage": "0.163"
-            },
-            {
-              "rgb": [
-                120,
-                120,
-                120
-              ],
-              "hex": "#787878",
-              "percentage": "0.105"
-            },
-            {
-              "rgb": [
-                180,
-                180,
-                180
-              ],
-              "hex": "#b4b4b4",
-              "percentage": "0.006"
-            }
-          ],
-          "colorfulness": "34.760"
-        },
-        "width": 3059,
-        "height": 5288,
-        "creator": "Luca Mack",
-        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-        "creditText": "Photo by Luca Mack",
-        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Architektur",
-          "Stadt"
-        ]
-      }
-    ],
-    "timeframe": "8. Januar 2026 - 11. Januar 2026",
-    "imageCount": 16,
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Österreich",
-      "Wien",
-      "Architektur",
-      "Stadt"
     ]
   },
   {
@@ -43852,6 +43050,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -43859,7 +43067,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -43913,6 +43121,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -43920,7 +43138,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -43965,6 +43183,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -43972,7 +43200,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44026,6 +43254,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44033,7 +43271,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44087,6 +43325,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44094,7 +43342,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44157,6 +43405,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44164,7 +43422,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44227,6 +43485,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44234,7 +43502,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44279,6 +43547,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44286,7 +43564,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44340,6 +43618,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44347,7 +43635,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44401,6 +43689,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44408,7 +43706,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44462,6 +43760,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44469,7 +43777,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44514,6 +43822,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44521,7 +43839,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44584,6 +43902,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44591,7 +43919,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44654,6 +43982,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44661,7 +43999,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44706,6 +44044,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44713,7 +44061,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44785,6 +44133,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44792,7 +44150,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44855,6 +44213,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44862,7 +44230,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44907,6 +44275,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44914,7 +44292,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -44986,6 +44364,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -44993,7 +44381,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45056,6 +44444,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45063,7 +44461,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45117,6 +44515,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45124,7 +44532,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45178,6 +44586,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45185,7 +44603,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45257,6 +44675,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45264,7 +44692,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45336,6 +44764,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45343,7 +44781,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45397,6 +44835,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45404,7 +44852,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45476,6 +44924,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45483,7 +44941,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45555,6 +45013,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45562,7 +45030,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45616,6 +45084,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45623,7 +45101,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45695,6 +45173,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45702,7 +45190,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45765,6 +45253,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45772,7 +45270,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45808,6 +45306,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45815,7 +45323,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45878,6 +45386,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45885,7 +45403,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -45957,6 +45475,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -45964,7 +45492,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -46027,6 +45555,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -46034,7 +45572,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       },
       {
@@ -46097,6 +45635,16 @@ export const galleries = [
           "Niederösterreich",
           "Oberösterreich",
           "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
           "Bayern",
           "Baden-Württemberg",
           "Sachsen",
@@ -46104,7 +45652,7 @@ export const galleries = [
           "Stadt",
           "Landschaft",
           "Sonstiges",
-          "Parks"
+          "Park"
         ]
       }
     ],
@@ -46122,6 +45670,16 @@ export const galleries = [
       "Niederösterreich",
       "Oberösterreich",
       "Wien",
+      "Dresden",
+      "München",
+      "Waidhofen",
+      "Kleinlobming",
+      "Karlsruhe",
+      "Burghausen",
+      "Flachgau",
+      "Ottenstein",
+      "Bad Ischl",
+      "Waldviertel",
       "Bayern",
       "Baden-Württemberg",
       "Sachsen",
@@ -46129,7 +45687,906 @@ export const galleries = [
       "Stadt",
       "Landschaft",
       "Sonstiges",
-      "Parks"
+      "Park"
+    ]
+  },
+  {
+    "name": "sw",
+    "slug": "sw",
+    "title": "S/W",
+    "description": "Schwarz - Weiss, Schnee - Winter, Stille - Wien",
+    "images": [
+      {
+        "filename": "'Neu. Lotto. Computer. 6 aus 45. Mit Gewinngarantie' Schilder und Werbungen am Stephansplatz.jpg",
+        "latitude": 48.208092,
+        "longitude": 16.373767,
+        "createDate": "2026-01-09T07:25:54.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.330"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.081"
+            },
+            {
+              "rgb": [
+                190,
+                190,
+                190
+              ],
+              "hex": "#bebebe",
+              "percentage": "0.041"
+            },
+            {
+              "rgb": [
+                120,
+                120,
+                120
+              ],
+              "hex": "#787878",
+              "percentage": "0.029"
+            }
+          ],
+          "colorfulness": "48.537"
+        },
+        "width": 3553,
+        "height": 4528,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "'Rant' Graffiti-Tag am Gasometer in Erdberg.jpg",
+        "latitude": 48.185444,
+        "longitude": 16.420389,
+        "createDate": "2026-01-11T07:12:57.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.080"
+            },
+            {
+              "rgb": [
+                60,
+                60,
+                60
+              ],
+              "hex": "#3c3c3c",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                200
+              ],
+              "hex": "#c8c8c8",
+              "percentage": "0.034"
+            }
+          ],
+          "colorfulness": "38.336"
+        },
+        "width": 3637,
+        "height": 4907,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Durchgang und Eingang zum Park-and-Ride Ottakring nahe Kendlerstrasse.jpg",
+        "latitude": 48.206067,
+        "longitude": 16.308947,
+        "createDate": "2026-01-10T13:52:11.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                60,
+                60,
+                60
+              ],
+              "hex": "#3c3c3c",
+              "percentage": "0.048"
+            }
+          ],
+          "colorfulness": "36.216"
+        },
+        "width": 3135,
+        "height": 4669,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Einfahrt und Industriegebäude in Erdberg.jpg",
+        "latitude": 48.184728,
+        "longitude": 16.422244,
+        "createDate": "2026-01-11T07:11:31.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                60,
+                60,
+                60
+              ],
+              "hex": "#3c3c3c",
+              "percentage": "0.122"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                160
+              ],
+              "hex": "#a0a0a0",
+              "percentage": "0.043"
+            }
+          ],
+          "colorfulness": "36.653"
+        },
+        "width": 3908,
+        "height": 4409,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Eingang zur S-Bahn-Station Krottenbachstrasse in Wien Döbling.jpg",
+        "latitude": 48.240367,
+        "longitude": 16.341461,
+        "createDate": "2026-01-08T18:27:20.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.272"
+            },
+            {
+              "rgb": [
+                50,
+                50,
+                50
+              ],
+              "hex": "#323232",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                130
+              ],
+              "hex": "#828282",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.027"
+            }
+          ],
+          "colorfulness": "39.652"
+        },
+        "width": 3877,
+        "height": 4258,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Gasometer und Wohnhäuser in Erdberg.jpg",
+        "latitude": 48.184278,
+        "longitude": 16.422231,
+        "createDate": "2026-01-11T07:10:56.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.237"
+            },
+            {
+              "rgb": [
+                190,
+                190,
+                190
+              ],
+              "hex": "#bebebe",
+              "percentage": "0.067"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                50,
+                50,
+                50
+              ],
+              "hex": "#323232",
+              "percentage": "0.024"
+            }
+          ],
+          "colorfulness": "39.147"
+        },
+        "width": 3604,
+        "height": 3672,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Gehsteig, Wohn- und Bürohäuser in der Nussbaumallee nahe Gasometer.jpg",
+        "latitude": 48.181553,
+        "longitude": 16.423017,
+        "createDate": "2026-01-11T07:07:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.176"
+            },
+            {
+              "rgb": [
+                20,
+                20,
+                20
+              ],
+              "hex": "#141414",
+              "percentage": "0.077"
+            },
+            {
+              "rgb": [
+                90,
+                90,
+                90
+              ],
+              "hex": "#5a5a5a",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                170,
+                170,
+                170
+              ],
+              "hex": "#aaaaaa",
+              "percentage": "0.026"
+            }
+          ],
+          "colorfulness": "42.158"
+        },
+        "width": 3665,
+        "height": 5165,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Hochhäuser und Hyblerpark in Simmering nahe Zippererstrasse.jpg",
+        "latitude": 48.181719,
+        "longitude": 16.412119,
+        "createDate": "2026-01-11T07:18:54.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.178"
+            },
+            {
+              "rgb": [
+                20,
+                20,
+                20
+              ],
+              "hex": "#141414",
+              "percentage": "0.082"
+            },
+            {
+              "rgb": [
+                80,
+                80,
+                80
+              ],
+              "hex": "#505050",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                130
+              ],
+              "hex": "#828282",
+              "percentage": "0.042"
+            }
+          ],
+          "colorfulness": "31.348"
+        },
+        "width": 3151,
+        "height": 4609,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Hyblerpark und Eingang zur U-Bahn-Station Zippererstrasse.jpg",
+        "latitude": 48.181328,
+        "longitude": 16.412389,
+        "createDate": "2026-01-11T07:19:38.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.220"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.063"
+            }
+          ],
+          "colorfulness": "41.680"
+        },
+        "width": 4093,
+        "height": 4676,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Statue vor der Votivkirche in Wien Alsergrund.jpg",
+        "latitude": 48.214925,
+        "longitude": 16.359239,
+        "createDate": "2026-01-08T07:55:05.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.065"
+            },
+            {
+              "rgb": [
+                80,
+                80,
+                80
+              ],
+              "hex": "#505050",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                130
+              ],
+              "hex": "#828282",
+              "percentage": "0.046"
+            }
+          ],
+          "colorfulness": "33.053"
+        },
+        "width": 3102,
+        "height": 4375,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Strasse, S-Bahn und U-Bahn-Trasse und Wohnhäuser nahe Kendlerstrasse.jpg",
+        "latitude": 48.206136,
+        "longitude": 16.308631,
+        "createDate": "2026-01-10T13:52:28.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                250,
+                250
+              ],
+              "hex": "#fafafa",
+              "percentage": "0.277"
+            },
+            {
+              "rgb": [
+                20,
+                20,
+                20
+              ],
+              "hex": "#141414",
+              "percentage": "0.057"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.042"
+            }
+          ],
+          "colorfulness": "45.469"
+        },
+        "width": 2981,
+        "height": 4524,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Universitätsring nahe Schottentor in WIen Innere Stadt.jpg",
+        "latitude": 48.213775,
+        "longitude": 16.362497,
+        "createDate": "2026-01-09T07:39:01.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                250,
+                250,
+                250
+              ],
+              "hex": "#fafafa",
+              "percentage": "0.254"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                50,
+                50,
+                50
+              ],
+              "hex": "#323232",
+              "percentage": "0.037"
+            }
+          ],
+          "colorfulness": "44.043"
+        },
+        "width": 3746,
+        "height": 4937,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Votivpark und Votivkirche in Wien Alsergrund.jpg",
+        "latitude": 48.214531,
+        "longitude": 16.360842,
+        "createDate": "2026-01-09T07:41:39.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.383"
+            },
+            {
+              "rgb": [
+                60,
+                60,
+                60
+              ],
+              "hex": "#3c3c3c",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                140
+              ],
+              "hex": "#8c8c8c",
+              "percentage": "0.026"
+            }
+          ],
+          "colorfulness": "38.724"
+        },
+        "width": 3479,
+        "height": 5478,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Vögel und Baum nahe Zippererstrasses in Simmering.jpg",
+        "latitude": 48.179836,
+        "longitude": 16.415147,
+        "createDate": "2026-01-11T07:21:36.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.279"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                160
+              ],
+              "hex": "#a0a0a0",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                110,
+                110,
+                110
+              ],
+              "hex": "#6e6e6e",
+              "percentage": "0.028"
+            }
+          ],
+          "colorfulness": "27.793"
+        },
+        "width": 3219,
+        "height": 3441,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Wohnhaus und Äste eines Baumes in der Eisteichstrasse Wien Simmering.jpg",
+        "latitude": 48.179519,
+        "longitude": 16.415756,
+        "createDate": "2026-01-11T07:22:15.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.154"
+            },
+            {
+              "rgb": [
+                150,
+                150,
+                150
+              ],
+              "hex": "#969696",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                40,
+                40,
+                40
+              ],
+              "hex": "#282828",
+              "percentage": "0.027"
+            }
+          ],
+          "colorfulness": "39.006"
+        },
+        "width": 3720,
+        "height": 3424,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      },
+      {
+        "filename": "Wohnhochhaus, Inudustriegebäude und Zaun am Medwedweg nahe Gasometer in Wien Simmering.jpg",
+        "latitude": 48.183778,
+        "longitude": 16.416219,
+        "createDate": "2026-01-11T07:15:56.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.163"
+            },
+            {
+              "rgb": [
+                120,
+                120,
+                120
+              ],
+              "hex": "#787878",
+              "percentage": "0.105"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "34.760"
+        },
+        "width": 3059,
+        "height": 5288,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ]
+      }
+    ],
+    "timeframe": "8. Januar 2026 - 11. Januar 2026",
+    "imageCount": 16,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Architektur",
+      "Park",
+      "Stadt",
+      "Winter"
     ]
   },
   {

@@ -247,12 +247,16 @@ const List = () => {
       <div className={`flex gap-4 ${CONFIG.theme.border.bottom}`}>
         <button
           className={cn(`${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "images" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : useTheme().theme === "dark" ? "text-white" : "text-black"}`)}
-          onClick={() => setActiveTab("images")}>
+          onClick={() => setActiveTab("images")}
+          aria-label="Show images"
+          aria-pressed={activeTab === "images"}>
           Fotos
         </button>
         <button
           className={cn(`${CONFIG.theme.headline.one} py-2 sm:py-4 ${activeTab === "galleries" ? (useTheme().theme === "dark" ? `${CONFIG.theme.dark.text.primary}` : `${CONFIG.theme.light.text.primary}`) : useTheme().theme === "dark" ? "text-white" : "text-black"}`)}
-          onClick={() => setActiveTab("galleries")}>
+          onClick={() => setActiveTab("galleries")}
+          aria-label="Show galleries"
+          aria-pressed={activeTab === "galleries"}>
           Serien
         </button>
       </div>

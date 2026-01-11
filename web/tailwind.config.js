@@ -6,8 +6,8 @@ export default {
   ],
   theme: {
     fontFamily: {
-      geist: ['"Geist"', 'sans-serif'],
-      mono: ['"Geist Mono"', 'monospace'],
+      geist: ['"Schibsted Grotesk"', 'sans-serif'],
+      mono: ['"JetBrains Mono"', 'monospace'],
     },
     extend: {
       typography: ({ theme }) => ({

@@ -66,6 +66,7 @@ const HorizontalScroller = ({ children, className = "" }: HorizontalScrollerProp
         <div className={`absolute inset-0 bg-gradient-to-r ${theme === "light" ? "from-white" : "from-black"} to-transparent`} />
         <button
           onClick={() => handleScroll("left")}
+          aria-label="Scroll left"
           className={`absolute top-1/2 -translate-y-1/2 left-0 ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto z-10`}>
           <ChevronLeft size={20} />
         </button>
@@ -79,6 +80,7 @@ const HorizontalScroller = ({ children, className = "" }: HorizontalScrollerProp
         <div className={`absolute inset-0 bg-gradient-to-l ${theme === "light" ? "from-white" : "from-black"} to-transparent`} />
         <button
           onClick={() => handleScroll("right")}
+          aria-label="Scroll right"
           className={`absolute top-1/2 -translate-y-1/2 right-0 ${theme === "dark" ? "text-white" : "text-black"} pointer-events-auto z-10`}>
           <ChevronRight size={20} />
         </button>

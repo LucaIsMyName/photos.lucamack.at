@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useTheme } from '../../contexts/ThemeContext';
+import { useToast } from '../../contexts/ToastContext';
 import ApiKeyManager from '../intelligence/ApiKeyManager';
 import ChatInterface from '../intelligence/ChatInterface';
 import { QueryProcessor } from '../../services/queryProcessor';
@@ -15,6 +16,7 @@ interface Message {
 
 const Intelligence: React.FC = () => {
   const { theme } = useTheme();
+  const { showToast } = useToast();
   const [apiKey, setApiKey] = useState<string>('');
   const [messages, setMessages] = useState<Message[]>([]);
   const [isLoading, setIsLoading] = useState(false);
@@ -38,7 +40,7 @@ const Intelligence: React.FC = () => {
 
   const handleSendMessage = async (content: string) => {
     if (!apiKey) {
-      alert('Please enter your Google Vision API key first.');
+      showToast('Please enter your Google Vision API key first.', 'error');
       return;
     }
 

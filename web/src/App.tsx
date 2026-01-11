@@ -4,6 +4,7 @@ import Navigation from "./components/layout/global/Navigation";
 import { useTheme } from "./contexts/ThemeContext";
 import CommandPalette from "./components/layout/global/CommandPalette";
 import { useFavicon } from "./hooks/useFavicon";
+import Toast from "./components/ui/Toast";
 // import { scan } from "react-scan";
 
 // scan();
@@ -136,6 +137,7 @@ function App() {
             />
           </Routes>
         </Suspense>
+        <Toast />
       </main>
     </div>
   );
