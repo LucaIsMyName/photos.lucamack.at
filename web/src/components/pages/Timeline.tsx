@@ -162,7 +162,7 @@ const Timeline = () => {
                 <div className={dotClasses}>
                   <div className={dotInnerClasses}></div>
                 </div>
-                <h2 className={`text-sm mb-3 sticky top-0 pb-1 pt-3 font-mono z-50 ${theme === "dark" ? "bg-linear-[to_bottom,var(--color-black),rgba(0,0,0,0.95),rgba(0,0,0,0.7),transparent]" : "bg-linear-[to_bottom,var(--color-white),rgba(255,255,255,0.95),rgba(255,255,255,0.7),transparent]"}`}>{new Date(date).toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" })}</h2>
+                <h2 className={`text-sm mb-3 sticky top-0 py-2 font-mono z-50 ${theme === "dark" ? "bg-black" : "bg-white"}`}>{new Date(date).toLocaleDateString("de-DE", { year: "numeric", month: "long", day: "numeric" })}</h2>
                 <div className="grid grid-cols-5 sm:grid-cols-7 md:grid-cols-8 lg:grid-cols-9 xl:grid-cols-10 gap-2 sm:gap-4">
                   {images.map((image) => (
                     <Link
