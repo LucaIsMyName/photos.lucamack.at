@@ -6,8 +6,8 @@ export default {
   ],
   theme: {
     fontFamily: {
-      sans: ['"Inclusive Sans"', 'sans-serif'],
-      mono: ['"Cascadia Code"', 'monospace'],
+      "sans-serif": ['"Inclusive Sans"', 'sans-serif'],
+      "mono": ['"Cascadia Code"', 'monospace'],
     },
     extend: {
       typography: ({ theme }) => ({
