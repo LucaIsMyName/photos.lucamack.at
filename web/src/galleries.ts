@@ -40574,7 +40574,17 @@ export const galleries = [
           "colorfulness": "48.537"
         },
         "width": 3553,
-        "height": 4528
+        "height": 4528,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "'Rant' Graffiti-Tag am Gasometer in Erdberg.jpg",
@@ -40614,7 +40624,17 @@ export const galleries = [
           "colorfulness": "38.336"
         },
         "width": 3637,
-        "height": 4907
+        "height": 4907,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Durchgang und Eingang zum Park-and-Ride Ottakring nahe Kendlerstrasse.jpg",
@@ -40645,7 +40665,17 @@ export const galleries = [
           "colorfulness": "36.216"
         },
         "width": 3135,
-        "height": 4669
+        "height": 4669,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Einfahrt und Industriegebäude in Erdberg.jpg",
@@ -40685,7 +40715,17 @@ export const galleries = [
           "colorfulness": "36.653"
         },
         "width": 3908,
-        "height": 4409
+        "height": 4409,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Eingang zur S-Bahn-Station Krottenbachstrasse in Wien Döbling.jpg",
@@ -40734,7 +40774,17 @@ export const galleries = [
           "colorfulness": "39.652"
         },
         "width": 3877,
-        "height": 4258
+        "height": 4258,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Gasometer und Wohnhäuser in Erdberg.jpg",
@@ -40783,7 +40833,17 @@ export const galleries = [
           "colorfulness": "39.147"
         },
         "width": 3604,
-        "height": 3672
+        "height": 3672,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Gehsteig, Wohn- und Bürohäuser in der Nussbaumallee nahe Gasometer.jpg",
@@ -40832,7 +40892,17 @@ export const galleries = [
           "colorfulness": "42.158"
         },
         "width": 3665,
-        "height": 5165
+        "height": 5165,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Hochhäuser und Hyblerpark in Simmering nahe Zippererstrasse.jpg",
@@ -40881,7 +40951,17 @@ export const galleries = [
           "colorfulness": "31.348"
         },
         "width": 3151,
-        "height": 4609
+        "height": 4609,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Hyblerpark und Eingang zur U-Bahn-Station Zippererstrasse.jpg",
@@ -40912,7 +40992,17 @@ export const galleries = [
           "colorfulness": "41.680"
         },
         "width": 4093,
-        "height": 4676
+        "height": 4676,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Statue vor der Votivkirche in Wien Alsergrund.jpg",
@@ -40961,7 +41051,17 @@ export const galleries = [
           "colorfulness": "33.053"
         },
         "width": 3102,
-        "height": 4375
+        "height": 4375,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Strasse, S-Bahn und U-Bahn-Trasse und Wohnhäuser nahe Kendlerstrasse.jpg",
@@ -41001,7 +41101,17 @@ export const galleries = [
           "colorfulness": "45.469"
         },
         "width": 2981,
-        "height": 4524
+        "height": 4524,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Universitätsring nahe Schottentor in WIen Innere Stadt.jpg",
@@ -41041,7 +41151,17 @@ export const galleries = [
           "colorfulness": "44.043"
         },
         "width": 3746,
-        "height": 4937
+        "height": 4937,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Votivpark und Votivkirche in Wien Alsergrund.jpg",
@@ -41081,7 +41201,17 @@ export const galleries = [
           "colorfulness": "38.724"
         },
         "width": 3479,
-        "height": 5478
+        "height": 5478,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
         "filename": "Vögel und Baum nahe Zippererstrasses in Simmering.jpg",
@@ -41121,10 +41251,20 @@ export const galleries = [
           "colorfulness": "27.793"
         },
         "width": 3219,
-        "height": 3441
+        "height": 3441,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
-        "filename": "Wohnhaus und Äste eines Baumes in Simmering.jpg",
+        "filename": "Wohnhaus und Äste eines Baumes in der Eisteichstrasse Wien Simmering.jpg",
         "latitude": 48.179519,
         "longitude": 16.415756,
         "createDate": "2026-01-11T07:22:15.000Z",
@@ -41170,10 +41310,20 @@ export const galleries = [
           "colorfulness": "39.006"
         },
         "width": 3720,
-        "height": 3424
+        "height": 3424,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       },
       {
-        "filename": "Wohnhochhaus, Inudustriegebäude und Zaun nahe Gasometer in Erdberg.jpg",
+        "filename": "Wohnhochhaus, Inudustriegebäude und Zaun am Medwedweg nahe Gasometer in Wien Simmering.jpg",
         "latitude": 48.183778,
         "longitude": 16.416219,
         "createDate": "2026-01-11T07:15:56.000Z",
@@ -41210,11 +41360,31 @@ export const galleries = [
           "colorfulness": "34.760"
         },
         "width": 3059,
-        "height": 5288
+        "height": 5288,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Stadt"
+        ]
       }
     ],
     "timeframe": "8. Januar 2026 - 11. Januar 2026",
-    "imageCount": 16
+    "imageCount": 16,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2026 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Architektur",
+      "Stadt"
+    ]
   },
   {
     "name": "schweiz",
