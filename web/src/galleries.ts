@@ -37300,7 +37300,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Kunst in der Nähe der Stiegl-Brauerei.jpg",
+        "filename": "Kunst in der Nähe der Stiegl-Brauerei in Salzburg.jpg",
         "latitude": 47.794317,
         "longitude": 13.024908,
         "createDate": "2025-05-18T10:35:54.000Z",
@@ -37356,7 +37356,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Parkplatz Ignaz-Harrer-Strasse Lehen.jpg",
+        "filename": "Parkplatz Ignaz-Harrer-Strasse Lehen in Salzburg.jpg",
         "latitude": 47.811531,
         "longitude": 13.025461,
         "createDate": "2025-05-17T18:16:17.000Z",
@@ -37412,7 +37412,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Salzach und Lehnerpark in Salzburg.jpg",
+        "filename": "Salzach und Lehnerpark in Salzburg Stadt.jpg",
         "latitude": 47.814289,
         "longitude": 13.036725,
         "createDate": "2025-12-27T00:06:00.000Z",
@@ -37459,7 +37459,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Salzach und alte Holz-Stege zwischen Laufen und Oberndorf.jpg",
+        "filename": "Salzach und alte Holz-Stege zwischen Laufen und Oberndorf b. Salzburg.jpg",
         "latitude": 47.942075,
         "longitude": 12.934286,
         "createDate": "2025-12-26T11:54:48.000Z",
@@ -37497,7 +37497,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Salzach-Damm von der Schöffleutgasse aus.jpg",
+        "filename": "Salzach-Damm in Oberndorf b. Salzburg.jpg",
         "latitude": 47.944528,
         "longitude": 12.935267,
         "createDate": "2025-12-25T06:37:36.000Z",
@@ -37600,7 +37600,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Spielplatz in Lehen.jpg",
+        "filename": "Spielplatz in Lehen Salzburg.jpg",
         "latitude": 47.815144,
         "longitude": 13.030261,
         "createDate": "2025-05-17T17:55:46.000Z",
@@ -42616,7 +42616,7 @@ export const galleries = [
     "name": "sw",
     "slug": "sw",
     "title": "S/W",
-    "description": "Schwarz - Weiss, Schnee - Winter, Stille - Wien",
+    "description": "",
     "images": [
       {
         "filename": "'Neu. Lotto. Computer. 6 aus 45. Mit Gewinngarantie' Schilder und Werbungen am Stephansplatz.jpg",
