@@ -1,0 +1,9 @@
+# robots.txt for photos.lucamack.at
+User-agent: *
+Allow: /
+
+# Allow crawling of all content
+Disallow:
+
+# Sitemap location
+Sitemap: https://photos.lucamack.at/sitemap.xml

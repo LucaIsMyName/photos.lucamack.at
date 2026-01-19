@@ -36,7 +36,7 @@ body {
   --content-width: clamp(769px, calc(var(--sidebar-width) * 2.66), 1280px);
   --font-mono: "Cascadia Code", monospace;
   --color-black: #08050c;
-  --color-white: #fafaf5;
+  --color-white: #fcfcfc;
 }
 
 * {
