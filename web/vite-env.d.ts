@@ -1,4 +1,6 @@
-/// <reference types="vite/client" />
+/// <reference types="vite" />
+
+import 'vite';
 
 declare module 'vite' {
   interface UserConfig {

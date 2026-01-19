@@ -117,7 +117,7 @@ const Gallery = () => {
       <SeoHead
         title={`Fotoserie: ${gallery.title || gallery.name} | ${CONFIG.author}`}
         description={gallery.description || `Fotoserie: ${gallery.title || gallery.name}.`}
-        imageUrl={window.location.origin + getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename)}
+        imageUrl={(typeof window !== 'undefined' ? window.location.origin : CONFIG.url) + getImageUrl(gallery.slug, gallery.images[Math.floor(Math.random() * gallery.images.length)].filename)}
       />
       <div className="px-4  md:pl-8 md:px-0">
         <div className="flex flex-col items-start">
@@ -156,7 +156,7 @@ const Gallery = () => {
             </div>
           ) : null}
           <div className="flex flex-col md:flex-row md:gap-6 gap-0 justify-center items-center space-y-4 md:space-y-0">
-            <CopyButton textToCopy={window.location.href}>
+            <CopyButton textToCopy={typeof window !== 'undefined' ? window.location.href : CONFIG.url}>
               <span className={`font-mono ${theme === "dark" ? "text-white" : "text-black"}`}>Link Kopieren</span>
             </CopyButton>
             <div className="flex items-center gap-2">

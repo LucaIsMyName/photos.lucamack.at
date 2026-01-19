@@ -1,6 +1,7 @@
 import { CONFIG } from "../../config";
 
 const SeoHead = ({ title, description, imageUrl = `${CONFIG.url}/content/galleries/arsenal/Altes_Backsteingeb%C3%A4ude-1440w.jpg`, hasTwitter = true, hasOg = true, noIndex = false, ogType = "website" }: { title?: string; description?: string; imageUrl?: string; hasTwitter?: boolean; hasOg?: boolean; ogType?: string; noIndex?: boolean }) => {
+  const currentUrl = typeof window !== 'undefined' ? window.location.href : CONFIG.url;
   return (
     <>
       <title>{title ? title : CONFIG.author}</title>
@@ -66,7 +67,7 @@ const SeoHead = ({ title, description, imageUrl = `${CONFIG.url}/content/galleri
           />
           <meta
             name="og:url"
-            content={window.location.href}
+            content={currentUrl}
           />
           {imageUrl && (
             <meta

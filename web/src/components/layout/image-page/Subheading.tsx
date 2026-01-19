@@ -10,7 +10,9 @@ import { getImageUrl } from "../../../utils/image";
 const Subheading = ({ image, gallery }: { image: any; gallery: any }) => {
   const { theme } = useTheme();
   const location = useLocation();
-  const currentUrl = `${window.location.origin}${location.pathname}`;
+  const currentUrl = typeof window !== 'undefined' 
+    ? `${window.location.origin}${location.pathname}` 
+    : `${CONFIG.url}${location.pathname}`;
 
   return (
     <>

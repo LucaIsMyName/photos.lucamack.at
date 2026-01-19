@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { galleries } from "../../galleries";
 import type { Gallery, Image as ImageType } from "../../types";
 import { cn } from "../../utils/cn";
@@ -11,14 +11,31 @@ import Image from "../ui/Image";
 import SeoHead from "../ui/SeoHead";
 
 const Home = () => {
-  const [randomImage, setRandomImage] = useState<{ gallery: Gallery; image: ImageType } | null>(null);
-
-  useEffect(() => {
+  // Use deterministic selection for SSG (first gallery with images, first image)
+  // This ensures consistent pre-rendering during build
+  const selectedImage = useMemo(() => {
     const galleriesWithImages = galleries.filter((g) => g.images && g.images.length > 0);
     if (galleriesWithImages.length > 0) {
-      const randomGallery = galleriesWithImages[Math.floor(Math.random() * galleriesWithImages.length)];
-      const randomImageObject = randomGallery.images[Math.floor(Math.random() * randomGallery.images.length)];
-      setRandomImage({ gallery: randomGallery as any, image: randomImageObject as any });
+      // Use first gallery for deterministic SSG
+      const gallery = galleriesWithImages[0];
+      // Use first image for deterministic SSG
+      const image = gallery.images[0];
+      return { gallery: gallery as any, image: image as any };
+    }
+    return null;
+  }, []);
+
+  const [randomImage, setRandomImage] = useState<{ gallery: Gallery; image: ImageType } | null>(selectedImage);
+
+  // On client, optionally randomize after initial render
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const galleriesWithImages = galleries.filter((g) => g.images && g.images.length > 0);
+      if (galleriesWithImages.length > 0) {
+        const randomGallery = galleriesWithImages[Math.floor(Math.random() * galleriesWithImages.length)];
+        const randomImageObject = randomGallery.images[Math.floor(Math.random() * randomGallery.images.length)];
+        setRandomImage({ gallery: randomGallery as any, image: randomImageObject as any });
+      }
     }
   }, []);
 
@@ -44,7 +61,7 @@ const Home = () => {
       <SeoHead
         title={`Fotos | ${CONFIG.meta.title}`}
         description={`Momente und Fotoserien von ${CONFIG.meta.title}. Creative Commons lizensierte Fotos von Wien, Berlin, Salzburg, Schweiz, ...`}
-        imageUrl={window.location.origin + imageDetails?.src}
+        imageUrl={(typeof window !== 'undefined' ? window.location.origin : CONFIG.url) + imageDetails?.src}
       />
       <div className={cn("absolute inset-0 bottom-[12vh] md:bottom-0 py-12 pb-24 px-8 md:p-20 lg:p-24")}>
         {imageDetails ? (

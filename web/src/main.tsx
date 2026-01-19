@@ -1,21 +1,17 @@
-import { StrictMode } from "react";
-import { createRoot } from "react-dom/client";
-import { BrowserRouter as Router } from "react-router-dom";
-import App from "./App.tsx";
-import "./index.css";
-import { ThemeProvider } from "./contexts/ThemeContext";
-import { ToastProvider } from "./contexts/ToastContext";
+import { ViteReactSSG } from 'vite-react-ssg';
+import './index.css';
+import { routes } from './routes';
 
-
-
-createRoot(document.getElementById("root")!).render(
-  <StrictMode>
-    <Router>
-      <ThemeProvider>
-        <ToastProvider>
-          <App />
-        </ToastProvider>
-      </ThemeProvider>
-    </Router>
-  </StrictMode>
+// Pre-render all static paths while letting React Router handle routing
+export const createRoot = ViteReactSSG(
+  {
+    routes,
+    basename: import.meta.env.BASE_URL,
+  },
+  ({ isClient }) => {
+    // Setup function - runs on both server and client
+    if (isClient) {
+      // Client-only setup if needed
+    }
+  }
 );

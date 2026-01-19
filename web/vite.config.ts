@@ -23,12 +23,26 @@ export default defineConfig({
     emptyOutDir: true,
     rollupOptions: {
       output: {
-        manualChunks(id) {
+        manualChunks(id: string) {
           if (id.includes('mapbox-gl')) {
             return 'mapbox-gl';
           }
         },
       },
     },
+    commonjsOptions: {
+      include: [/react-is/, /node_modules/],
+    },
+  },
+  optimizeDeps: {
+    include: ['react-is'],
+  },
+  resolve: {
+    dedupe: ['react-is'],
+  },
+  ssgOptions: {
+    script: 'async',
+    formatting: 'prettify',
+    rootContainerId: 'root',
   },
 })

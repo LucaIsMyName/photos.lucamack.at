@@ -3,8 +3,14 @@ import { cn } from "../../../utils/cn";
 import { getImageUrl } from "../../../utils/image";
 import CopyButton from "../../ui/CopyButton";
 import Href from "../../ui/Href";
+import { useLocation } from "react-router-dom";
 
 const Download = ({ gallery, image }: { gallery: any; image: any }) => {
+  const location = useLocation();
+  const currentUrl = typeof window !== 'undefined' 
+    ? `${window.location.origin}${location.pathname}${location.search}${location.hash}`
+    : `${CONFIG.url}${location.pathname}`;
+
   return (
     <div className="flex-1">
       <h3 className="text-base mb-2">URLs</h3>
@@ -31,7 +37,7 @@ const Download = ({ gallery, image }: { gallery: any; image: any }) => {
             className={cn("truncate font-mono text-[11px] max-w-[calc(100%-40px)]")}>
             {`${CONFIG.url}${getImageUrl(gallery.slug, encodeURI(image.filename.replaceAll(" ", "_")), 1440)}`}
           </Href>
-          <CopyButton textToCopy={window.location.href} />
+          <CopyButton textToCopy={currentUrl} />
         </div>
 
         <div className="text-[10px] tracking-wider font-mono">640 px</div>
