@@ -2211,6 +2211,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/aufgang-zu-bahnsteig-3-und-4-in-der-s-bahn-station-erzherzog-karl-strasse-in-donaustadt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/bim-station-beim-schottentor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -2277,6 +2282,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/eingang-zum-meidlinger-bahnhof-ostseite</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/eingang-zur-s-bahn-station-erzherzog-karl-strasse-in-donaustadt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2387,6 +2397,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/s-bahn-station-aspen-nord-und-ein-maisfeld</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/s-bahn-station-erzherzog-karl-strasse-in-donaustadt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3051,7 +3066,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/salzburg/image/ich-las-und-las-bis-mir-die-augen-brannten-fester-zitate-von-stefanf-zweig-in-lehen</loc>
+    <loc>https://photos.lucamack.at/gallery/salzburg/image/ich-las-und-las-bis-mir-die-augen-brannten-fenster-zitate-von-stefan-zweig-in-lehen</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3966,11 +3981,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/neu-lotto-computer-6-aus-45-mit-gewinngarantie-schilder-und-werbungen-am-stephansplatz</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/sams-obst-und-gemuseladen-durch-glasfassaden-der-u-bahn-station-am-rochusmarkt-in-landstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4106,6 +4116,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/baustelle-in-der-donaustadtstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/baustelle-mit-bau-zaun-und-skulptur-dahinter</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4206,6 +4221,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/ein-auto-fahrt-in-einen-tunnel-nahe-der-erzherzog-karl-strasse-in-donaustadt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/ein-gebaude-mit-einem-nimm-dein-sackerl-furs-gackerl-papp-aufsteller-davor</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4267,11 +4287,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/eingang-zum-tachles-am-karmelitermarkt-taborstrasse</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/eingang-zur-s-bahn-station-krottenbachstrasse-in-dobling</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4401,6 +4416,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/fussgangerbrucke-uber-die-donaustadtstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/fussgangerweg-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4487,6 +4507,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/halloween-decor-in-einem-fenster-am-herdepark</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/haltestelle-wien-haidestrasse-in-simmering-wahrend-zugfahrt-fotografiert</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4751,6 +4776,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/passant-und-autos-am-rind-in-der-inneren-stadt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/plastikfaser-zaun-mulltonnen-und-ein-haus-dahinter</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4792,6 +4822,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/schottenring</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/schottentor-votivpark-und-votivkirche-in-der-inneren-stadt-alsergrund</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4886,6 +4921,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/stiegenaufgang-zu-einer-fussgangerbrucke-in-der-donaustadtstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/stiegenhaus-mit-blick-auf-den-innenhof-in-rudolfsheim-funfhaus</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4907,6 +4947,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/strasse-und-hausfassaden-in-und-um-die-uno-city-in-kaisermuhlen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/strasse-autos-und-fabriksgelande-in-der-donaustadtstrasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4961,11 +5006,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/universitatsring-nahe-dem-schottentor</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/uberdachung-eines-fabriksgelandes-mit-sperrmull</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -4977,16 +5017,6 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/votivkirche-bei-wahringerstrasse-alsergrund</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/votivkirche-und-statue-davor</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://photos.lucamack.at/gallery/wien/image/votivpark-und-votivkirche-im-winter</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5047,6 +5077,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/wohnhaus-mit-balkonen-beim-rochusmarkt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/wohnhaus-und-stiege-in-der-nahe-der-erzherziog-karl-strasse-in-donaustadt</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

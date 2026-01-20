@@ -24276,6 +24276,61 @@ export const galleries = [
         }
       },
       {
+        "filename": "Aufgang zu Bahnsteig 3 und 4 in der S-Bahn-Station Erzherzog-Karl-Strasse in Donaustadt.jpg",
+        "latitude": 48.230094,
+        "longitude": 16.453489,
+        "createDate": "2026-01-18T20:54:54.000Z",
+        "width": 3181,
+        "height": 5185,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                180,
+                160
+              ],
+              "hex": "#c8b4a0",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                60,
+                30,
+                10
+              ],
+              "hex": "#3c1e0a",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                0,
+                70,
+                240
+              ],
+              "hex": "#0046f0",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                170,
+                40,
+                10
+              ],
+              "hex": "#aa280a",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "36.364"
+        }
+      },
+      {
         "filename": "BIM Station beim Schottentor.jpg",
         "latitude": 48.214,
         "longitude": 16.361961,
@@ -24998,6 +25053,70 @@ export const galleries = [
             }
           ],
           "colorfulness": "34.920"
+        }
+      },
+      {
+        "filename": "Eingang zur S-Bahn-Station Erzherzog-Karl-Strasse in Donaustadt.jpg",
+        "latitude": 48.230194,
+        "longitude": 16.452642,
+        "createDate": "2026-01-18T20:52:00.000Z",
+        "width": 3433,
+        "height": 5154,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.057"
+            },
+            {
+              "rgb": [
+                130,
+                80,
+                40
+              ],
+              "hex": "#825028",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                180,
+                140,
+                100
+              ],
+              "hex": "#b48c64",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                240,
+                220,
+                180
+              ],
+              "hex": "#f0dcb4",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                0,
+                50,
+                210
+              ],
+              "hex": "#0032d2",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "41.658"
         }
       },
       {
@@ -26154,6 +26273,70 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.202"
+        }
+      },
+      {
+        "filename": "S-Bahn-Station Erzherzog-Karl-Strasse in Donaustadt.jpg",
+        "latitude": 48.230317,
+        "longitude": 16.452089,
+        "createDate": "2026-01-18T20:50:42.000Z",
+        "width": 4648,
+        "height": 3331,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.256"
+            },
+            {
+              "rgb": [
+                160,
+                120,
+                80
+              ],
+              "hex": "#a07850",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                110,
+                70,
+                30
+              ],
+              "hex": "#6e461e",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                170
+              ],
+              "hex": "#d2beaa",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                50,
+                130,
+                150
+              ],
+              "hex": "#328296",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "33.899"
         }
       },
       {
@@ -27872,8 +28055,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "11. April 2024 - 11. Januar 2026",
-    "imageCount": 78,
+    "timeframe": "11. April 2024 - 18. Januar 2026",
+    "imageCount": 81,
     "tags": [
       "Wien",
       "Österreich",
@@ -33083,7 +33266,7 @@ export const galleries = [
     "description": "Johann Bernhard Fischer von Erlach wird man hier nicht finden",
     "images": [
       {
-        "filename": "'Ich las und las, bis mir die Augen brannten' Fester-Zitate von Stefanf Zweig in Lehen.jpg",
+        "filename": "'Ich las und las, bis mir die Augen brannten' Fenster-Zitate von Stefan Zweig in Lehen.jpg",
         "latitude": 47.813106,
         "longitude": 13.026517,
         "createDate": "2025-11-15T07:24:46.000Z",
@@ -43269,76 +43452,6 @@ export const galleries = [
         }
       },
       {
-        "filename": "'Neu. Lotto. Computer. 6 aus 45. Mit Gewinngarantie' Schilder und Werbungen am Stephansplatz.jpg",
-        "latitude": 48.208092,
-        "longitude": 16.373767,
-        "createDate": "2026-01-09T07:25:54.000Z",
-        "width": 3585,
-        "height": 5303,
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Typografie",
-          "Kultur",
-          "Kunst",
-          "Park",
-          "Statuen"
-        ],
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                60,
-                20,
-                10
-              ],
-              "hex": "#3c140a",
-              "percentage": "0.099"
-            },
-            {
-              "rgb": [
-                220,
-                210,
-                200
-              ],
-              "hex": "#dcd2c8",
-              "percentage": "0.033"
-            },
-            {
-              "rgb": [
-                190,
-                170,
-                150
-              ],
-              "hex": "#beaa96",
-              "percentage": "0.013"
-            },
-            {
-              "rgb": [
-                250,
-                170,
-                40
-              ],
-              "hex": "#faaa28",
-              "percentage": "0.001"
-            },
-            {
-              "rgb": [
-                190,
-                10,
-                10
-              ],
-              "hex": "#be0a0a",
-              "percentage": "0.001"
-            }
-          ],
-          "colorfulness": "49.526"
-        }
-      },
-      {
         "filename": "'Sam`s Obst- und Gemüseladen' durch Glasfassaden der U-Bahn-Station am Rochusmarkt in Landstrasse.jpg",
         "latitude": 48.202667,
         "longitude": 16.39095,
@@ -44869,6 +44982,76 @@ export const galleries = [
         }
       },
       {
+        "filename": "Baustelle in der Donaustadtstrasse.jpg",
+        "latitude": 48.229333,
+        "longitude": 16.444058,
+        "createDate": "2026-01-18T16:44:22.000Z",
+        "width": 2429,
+        "height": 3245,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                60,
+                70
+              ],
+              "hex": "#323c46",
+              "percentage": "0.038"
+            },
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                120,
+                130,
+                140
+              ],
+              "hex": "#78828c",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                210,
+                180,
+                170
+              ],
+              "hex": "#d2b4aa",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                180,
+                60,
+                60
+              ],
+              "hex": "#b43c3c",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "28.357"
+        }
+      },
+      {
         "filename": "Baustelle mit Bau-Zaun und Skulptur dahinter.jpg",
         "latitude": 48.162914,
         "longitude": 16.429156,
@@ -45999,6 +46182,67 @@ export const galleries = [
         }
       },
       {
+        "filename": "Ein Auto fährt in einen Tunnel nahe der Erzherzog-Karl-Strasse in Donaustadt.jpg",
+        "latitude": 48.23075,
+        "longitude": 16.451339,
+        "createDate": "2026-01-18T20:49:38.000Z",
+        "width": 3458,
+        "height": 4623,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.123"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                210
+              ],
+              "hex": "#dcdcd2",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                110,
+                110,
+                110
+              ],
+              "hex": "#6e6e6e",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                160,
+                40,
+                90
+              ],
+              "hex": "#a0285a",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "45.500"
+        }
+      },
+      {
         "filename": "Ein Gebäude mit einem 'Nimm dein Sackerl fürs Gackerl' Papp-Aufsteller davor.jpg",
         "latitude": 48.176692,
         "longitude": 16.409042,
@@ -46762,76 +47006,6 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.866"
-        }
-      },
-      {
-        "filename": "Eingang zur S-Bahn-Station Krottenbachstrasse in Döbling.jpg",
-        "latitude": 48.240367,
-        "longitude": 16.341461,
-        "createDate": "2026-01-08T18:27:20.000Z",
-        "width": 4039,
-        "height": 4385,
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Typografie",
-          "Kultur",
-          "Kunst",
-          "Park",
-          "Statuen"
-        ],
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.146"
-            },
-            {
-              "rgb": [
-                160,
-                130,
-                110
-              ],
-              "hex": "#a0826e",
-              "percentage": "0.005"
-            },
-            {
-              "rgb": [
-                200,
-                170,
-                150
-              ],
-              "hex": "#c8aa96",
-              "percentage": "0.004"
-            },
-            {
-              "rgb": [
-                220,
-                210,
-                190
-              ],
-              "hex": "#dcd2be",
-              "percentage": "0.004"
-            },
-            {
-              "rgb": [
-                40,
-                100,
-                210
-              ],
-              "hex": "#2864d2",
-              "percentage": "0.000"
-            }
-          ],
-          "colorfulness": "36.831"
         }
       },
       {
@@ -48216,6 +48390,49 @@ export const galleries = [
         }
       },
       {
+        "filename": "Fussgängerbrücke über die Donaustadtstrasse.jpg",
+        "latitude": 48.230286,
+        "longitude": 16.443872,
+        "createDate": "2026-01-18T16:45:24.000Z",
+        "width": 2790,
+        "height": 3328,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.146"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                150
+              ],
+              "hex": "#a0a096",
+              "percentage": "0.011"
+            }
+          ],
+          "colorfulness": "39.441"
+        }
+      },
+      {
         "filename": "Fussgängerweg Simmering.jpg",
         "latitude": 48.168983,
         "longitude": 16.418758,
@@ -49248,6 +49465,76 @@ export const galleries = [
             }
           ],
           "colorfulness": "35.252"
+        }
+      },
+      {
+        "filename": "Haltestelle Wien Haidestrasse in Simmering während Zugfahrt fotografiert.jpg",
+        "latitude": 48.1787,
+        "longitude": 16.426097,
+        "createDate": "2026-01-18T16:20:10.000Z",
+        "width": 3830,
+        "height": 2913,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                30
+              ],
+              "hex": "#0a0a1e",
+              "percentage": "0.060"
+            },
+            {
+              "rgb": [
+                50,
+                60,
+                60
+              ],
+              "hex": "#323c3c",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                150
+              ],
+              "hex": "#c8be96",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                180
+              ],
+              "hex": "#000ab4",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                160,
+                180,
+                240
+              ],
+              "hex": "#a0b4f0",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "41.715"
         }
       },
       {
@@ -52243,6 +52530,67 @@ export const galleries = [
         }
       },
       {
+        "filename": "Passant und Autos am Rind in der Inneren Stadt.jpg",
+        "latitude": 48.213731,
+        "longitude": 16.361775,
+        "createDate": "2026-01-20T16:35:33.000Z",
+        "width": 3343,
+        "height": 4970,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                40,
+                50
+              ],
+              "hex": "#142832",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                220
+              ],
+              "hex": "#f0f0dc",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                90,
+                120,
+                140
+              ],
+              "hex": "#5a788c",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                130
+              ],
+              "hex": "#b4a082",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "36.706"
+        }
+      },
+      {
         "filename": "Plastikfaser-Zaun, Mülltonnen und ein Haus dahinter.jpg",
         "latitude": 48.165992,
         "longitude": 16.414008,
@@ -52735,6 +53083,58 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.569"
+        }
+      },
+      {
+        "filename": "Schottentor, Votivpark und Votivkirche in der Inneren Stadt - Alsergrund.jpg",
+        "latitude": 48.214058,
+        "longitude": 16.361947,
+        "createDate": "2026-01-20T16:33:21.000Z",
+        "width": 3337,
+        "height": 5058,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                30,
+                50
+              ],
+              "hex": "#0a1e32",
+              "percentage": "0.198"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                160
+              ],
+              "hex": "#d2bea0",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                150,
+                140,
+                120
+              ],
+              "hex": "#968c78",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "35.449"
         }
       },
       {
@@ -53764,6 +54164,58 @@ export const galleries = [
         }
       },
       {
+        "filename": "Stiegenaufgang zu einer Fussgängerbrücke in der Donaustadtstrasse.jpg",
+        "latitude": 48.230361,
+        "longitude": 16.443792,
+        "createDate": "2026-01-18T16:45:50.000Z",
+        "width": 2485,
+        "height": 2969,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                30
+              ],
+              "hex": "#0a0a1e",
+              "percentage": "0.093"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                100
+              ],
+              "hex": "#968264",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                160,
+                170,
+                190
+              ],
+              "hex": "#a0aabe",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "34.462"
+        }
+      },
+      {
         "filename": "Stiegenhaus mit Blick auf den Innenhof in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.187478,
         "longitude": 16.322547,
@@ -54048,6 +54500,76 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.372"
+        }
+      },
+      {
+        "filename": "Strasse, Autos und Fabriksgelände in der Donaustadtstrasse.jpg",
+        "latitude": 48.224864,
+        "longitude": 16.444483,
+        "createDate": "2026-01-18T16:39:21.000Z",
+        "width": 2760,
+        "height": 3284,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.215"
+            },
+            {
+              "rgb": [
+                190,
+                190,
+                170
+              ],
+              "hex": "#bebeaa",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                150,
+                110,
+                20
+              ],
+              "hex": "#966e14",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                250,
+                150,
+                140
+              ],
+              "hex": "#fa968c",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                220,
+                90,
+                100
+              ],
+              "hex": "#dc5a64",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "40.110"
         }
       },
       {
@@ -54634,58 +55156,6 @@ export const galleries = [
         }
       },
       {
-        "filename": "Universitätsring nahe dem Schottentor.jpg",
-        "latitude": 48.213775,
-        "longitude": 16.362497,
-        "createDate": "2026-01-09T07:39:01.000Z",
-        "width": 3746,
-        "height": 4937,
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Typografie",
-          "Kultur",
-          "Kunst",
-          "Park",
-          "Statuen"
-        ],
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                240,
-                230,
-                220
-              ],
-              "hex": "#f0e6dc",
-              "percentage": "0.133"
-            },
-            {
-              "rgb": [
-                110,
-                80,
-                70
-              ],
-              "hex": "#6e5046",
-              "percentage": "0.019"
-            },
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.009"
-            }
-          ],
-          "colorfulness": "37.131"
-        }
-      },
-      {
         "filename": "Überdachung eines Fabriksgeländes mit Sperrmüll.jpg",
         "latitude": 48.1679,
         "longitude": 16.411825,
@@ -54857,119 +55327,6 @@ export const galleries = [
             }
           ],
           "colorfulness": "33.577"
-        }
-      },
-      {
-        "filename": "Votivkirche und Statue davor.jpg",
-        "latitude": 48.214925,
-        "longitude": 16.359239,
-        "createDate": "2026-01-08T07:55:05.000Z",
-        "width": 3102,
-        "height": 4375,
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Typografie",
-          "Kultur",
-          "Kunst",
-          "Park",
-          "Statuen"
-        ],
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                130,
-                90,
-                70
-              ],
-              "hex": "#825a46",
-              "percentage": "0.020"
-            },
-            {
-              "rgb": [
-                160,
-                210,
-                240
-              ],
-              "hex": "#a0d2f0",
-              "percentage": "0.008"
-            },
-            {
-              "rgb": [
-                180,
-                150,
-                130
-              ],
-              "hex": "#b49682",
-              "percentage": "0.008"
-            },
-            {
-              "rgb": [
-                80,
-                180,
-                230
-              ],
-              "hex": "#50b4e6",
-              "percentage": "0.007"
-            },
-            {
-              "rgb": [
-                20,
-                0,
-                0
-              ],
-              "hex": "#140000",
-              "percentage": "0.005"
-            }
-          ],
-          "colorfulness": "38.322"
-        }
-      },
-      {
-        "filename": "Votivpark und Votivkirche im Winter.jpg",
-        "latitude": 48.214531,
-        "longitude": 16.360842,
-        "createDate": "2026-01-09T07:41:39.000Z",
-        "width": 3479,
-        "height": 5478,
-        "tags": [
-          "Österreich",
-          "Wien",
-          "Landschaft",
-          "Architektur",
-          "Stadt",
-          "Typografie",
-          "Kultur",
-          "Kunst",
-          "Park",
-          "Statuen"
-        ],
-        "colorData": {
-          "dominantColors": [
-            {
-              "rgb": [
-                220,
-                220,
-                220
-              ],
-              "hex": "#dcdcdc",
-              "percentage": "0.150"
-            },
-            {
-              "rgb": [
-                100,
-                80,
-                70
-              ],
-              "hex": "#645046",
-              "percentage": "0.013"
-            }
-          ],
-          "colorfulness": "36.769"
         }
       },
       {
@@ -55642,6 +55999,58 @@ export const galleries = [
         }
       },
       {
+        "filename": "Wohnhaus und Stiege in der nähe der Erzherziog-Karl-Strasse in Donaustadt.jpg",
+        "latitude": 48.230747,
+        "longitude": 16.451356,
+        "createDate": "2026-01-18T20:49:54.000Z",
+        "width": 2778,
+        "height": 3748,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.175"
+            },
+            {
+              "rgb": [
+                120,
+                110,
+                120
+              ],
+              "hex": "#786e78",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                180,
+                190,
+                180
+              ],
+              "hex": "#b4beb4",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "31.819"
+        }
+      },
+      {
         "filename": "Wohnhaus-Eingang, Einkaufswagerl und Grünfläche in der Vorgartenstrasse in Brigittenau.jpg",
         "latitude": 48.231011,
         "longitude": 16.393625,
@@ -56139,8 +56548,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "7. Juni 2024 - 10. Januar 2026",
-    "imageCount": 234,
+    "timeframe": "7. Juni 2024 - 20. Januar 2026",
+    "imageCount": 238,
     "tags": [
       "Österreich",
       "Wien",

@@ -27459,6 +27459,69 @@
     "gallery": "oeffis"
   },
   {
+    "latitude": 48.230094,
+    "longitude": 16.453489,
+    "createDate": "2026-01-18T20:54:54.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            200,
+            180,
+            160
+          ],
+          "hex": "#c8b4a0",
+          "percentage": "0.037"
+        },
+        {
+          "rgb": [
+            60,
+            30,
+            10
+          ],
+          "hex": "#3c1e0a",
+          "percentage": "0.013"
+        },
+        {
+          "rgb": [
+            0,
+            70,
+            240
+          ],
+          "hex": "#0046f0",
+          "percentage": "0.002"
+        },
+        {
+          "rgb": [
+            170,
+            40,
+            10
+          ],
+          "hex": "#aa280a",
+          "percentage": "0.001"
+        }
+      ],
+      "colorfulness": "36.364"
+    },
+    "width": 3181,
+    "height": 5185,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt"
+    ],
+    "name": "Aufgang zu Bahnsteig 3 und 4 in der S-Bahn-Station Erzherzog-Karl-Strasse in Donaustadt.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/Aufgang_zu_Bahnsteig_3_und_4_in_der_S-Bahn-Station_Erzherzog-Karl-Strasse_in_Donaustadt.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
     "latitude": 48.214,
     "longitude": 16.361961,
     "createDate": "2025-04-21T13:06:17.000Z",
@@ -28292,6 +28355,78 @@
     "name": "Eingang zum Meidlinger Bahnhof Ostseite.jpg",
     "urls": {
       "original": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_zum_Meidlinger_Bahnhof_Ostseite.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
+    "latitude": 48.230194,
+    "longitude": 16.452642,
+    "createDate": "2026-01-18T20:52:00.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            30,
+            10,
+            0
+          ],
+          "hex": "#1e0a00",
+          "percentage": "0.057"
+        },
+        {
+          "rgb": [
+            130,
+            80,
+            40
+          ],
+          "hex": "#825028",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            180,
+            140,
+            100
+          ],
+          "hex": "#b48c64",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            240,
+            220,
+            180
+          ],
+          "hex": "#f0dcb4",
+          "percentage": "0.006"
+        },
+        {
+          "rgb": [
+            0,
+            50,
+            210
+          ],
+          "hex": "#0032d2",
+          "percentage": "0.001"
+        }
+      ],
+      "colorfulness": "41.658"
+    },
+    "width": 3433,
+    "height": 5154,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt"
+    ],
+    "name": "Eingang zur S-Bahn-Station Erzherzog-Karl-Strasse in Donaustadt.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/Eingang_zur_S-Bahn-Station_Erzherzog-Karl-Strasse_in_Donaustadt.jpg"
     },
     "gallery": "oeffis"
   },
@@ -29624,6 +29759,78 @@
     "name": "S-Bahn Station Aspen Nord und ein Maisfeld.jpg",
     "urls": {
       "original": "https://photos.lucamack.at/content/galleries/oeffis/S-Bahn_Station_Aspen_Nord_und_ein_Maisfeld.jpg"
+    },
+    "gallery": "oeffis"
+  },
+  {
+    "latitude": 48.230317,
+    "longitude": 16.452089,
+    "createDate": "2026-01-18T20:50:42.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            0,
+            0
+          ],
+          "hex": "#140000",
+          "percentage": "0.256"
+        },
+        {
+          "rgb": [
+            160,
+            120,
+            80
+          ],
+          "hex": "#a07850",
+          "percentage": "0.013"
+        },
+        {
+          "rgb": [
+            110,
+            70,
+            30
+          ],
+          "hex": "#6e461e",
+          "percentage": "0.013"
+        },
+        {
+          "rgb": [
+            210,
+            190,
+            170
+          ],
+          "hex": "#d2beaa",
+          "percentage": "0.002"
+        },
+        {
+          "rgb": [
+            50,
+            130,
+            150
+          ],
+          "hex": "#328296",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "33.899"
+    },
+    "width": 4648,
+    "height": 3331,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Wien",
+      "Österreich",
+      "Architektur",
+      "Stadt"
+    ],
+    "name": "S-Bahn-Station Erzherzog-Karl-Strasse in Donaustadt.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/oeffis/S-Bahn-Station_Erzherzog-Karl-Strasse_in_Donaustadt.jpg"
     },
     "gallery": "oeffis"
   },
@@ -37526,9 +37733,9 @@
       "Architektur",
       "Park"
     ],
-    "name": "'Ich las und las, bis mir die Augen brannten' Fester-Zitate von Stefanf Zweig in Lehen.jpg",
+    "name": "'Ich las und las, bis mir die Augen brannten' Fenster-Zitate von Stefan Zweig in Lehen.jpg",
     "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/salzburg/'Ich_las_und_las,_bis_mir_die_Augen_brannten'_Fester-Zitate_von_Stefanf_Zweig_in_Lehen.jpg"
+      "original": "https://photos.lucamack.at/content/galleries/salzburg/'Ich_las_und_las,_bis_mir_die_Augen_brannten'_Fenster-Zitate_von_Stefan_Zweig_in_Lehen.jpg"
     },
     "gallery": "salzburg"
   },
@@ -48937,84 +49144,6 @@
     "gallery": "wien"
   },
   {
-    "latitude": 48.208092,
-    "longitude": 16.373767,
-    "createDate": "2026-01-09T07:25:54.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            60,
-            20,
-            10
-          ],
-          "hex": "#3c140a",
-          "percentage": "0.099"
-        },
-        {
-          "rgb": [
-            220,
-            210,
-            200
-          ],
-          "hex": "#dcd2c8",
-          "percentage": "0.033"
-        },
-        {
-          "rgb": [
-            190,
-            170,
-            150
-          ],
-          "hex": "#beaa96",
-          "percentage": "0.013"
-        },
-        {
-          "rgb": [
-            250,
-            170,
-            40
-          ],
-          "hex": "#faaa28",
-          "percentage": "0.001"
-        },
-        {
-          "rgb": [
-            190,
-            10,
-            10
-          ],
-          "hex": "#be0a0a",
-          "percentage": "0.001"
-        }
-      ],
-      "colorfulness": "49.526"
-    },
-    "width": 3585,
-    "height": 5303,
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Österreich",
-      "Wien",
-      "Landschaft",
-      "Architektur",
-      "Stadt",
-      "Typografie",
-      "Kultur",
-      "Kunst",
-      "Park",
-      "Statuen"
-    ],
-    "name": "'Neu. Lotto. Computer. 6 aus 45. Mit Gewinngarantie' Schilder und Werbungen am Stephansplatz.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/wien/'Neu._Lotto._Computer._6_aus_45._Mit_Gewinngarantie'_Schilder_und_Werbungen_am_Stephansplatz.jpg"
-    },
-    "gallery": "wien"
-  },
-  {
     "latitude": 48.202667,
     "longitude": 16.39095,
     "createDate": "2026-01-10T11:04:21.000Z",
@@ -50761,6 +50890,84 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.229333,
+    "longitude": 16.444058,
+    "createDate": "2026-01-18T16:44:22.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            50,
+            60,
+            70
+          ],
+          "hex": "#323c46",
+          "percentage": "0.038"
+        },
+        {
+          "rgb": [
+            10,
+            20,
+            40
+          ],
+          "hex": "#0a1428",
+          "percentage": "0.025"
+        },
+        {
+          "rgb": [
+            120,
+            130,
+            140
+          ],
+          "hex": "#78828c",
+          "percentage": "0.023"
+        },
+        {
+          "rgb": [
+            210,
+            180,
+            170
+          ],
+          "hex": "#d2b4aa",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            180,
+            60,
+            60
+          ],
+          "hex": "#b43c3c",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "28.357"
+    },
+    "width": 2429,
+    "height": 3245,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Baustelle in der Donaustadtstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Baustelle_in_der_Donaustadtstrasse.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
     "latitude": 48.162914,
     "longitude": 16.429156,
     "createDate": "2025-07-27T13:36:27.000Z",
@@ -52051,6 +52258,75 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.23075,
+    "longitude": 16.451339,
+    "createDate": "2026-01-18T20:49:38.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            10,
+            20,
+            40
+          ],
+          "hex": "#0a1428",
+          "percentage": "0.123"
+        },
+        {
+          "rgb": [
+            220,
+            220,
+            210
+          ],
+          "hex": "#dcdcd2",
+          "percentage": "0.030"
+        },
+        {
+          "rgb": [
+            110,
+            110,
+            110
+          ],
+          "hex": "#6e6e6e",
+          "percentage": "0.012"
+        },
+        {
+          "rgb": [
+            160,
+            40,
+            90
+          ],
+          "hex": "#a0285a",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "45.500"
+    },
+    "width": 3458,
+    "height": 4623,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Ein Auto fährt in einen Tunnel nahe der Erzherzog-Karl-Strasse in Donaustadt.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Ein_Auto_fährt_in_einen_Tunnel_nahe_der_Erzherzog-Karl-Strasse_in_Donaustadt.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
     "latitude": 48.176692,
     "longitude": 16.409042,
     "createDate": "2025-07-26T15:36:03.000Z",
@@ -52917,84 +53193,6 @@
     "name": "Eingang zum 'Tachles' am Karmelitermarkt - Taborstrasse.jpg",
     "urls": {
       "original": "https://photos.lucamack.at/content/galleries/wien/Eingang_zum_'Tachles'_am_Karmelitermarkt_-_Taborstrasse.jpg"
-    },
-    "gallery": "wien"
-  },
-  {
-    "latitude": 48.240367,
-    "longitude": 16.341461,
-    "createDate": "2026-01-08T18:27:20.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            20,
-            0,
-            0
-          ],
-          "hex": "#140000",
-          "percentage": "0.146"
-        },
-        {
-          "rgb": [
-            160,
-            130,
-            110
-          ],
-          "hex": "#a0826e",
-          "percentage": "0.005"
-        },
-        {
-          "rgb": [
-            200,
-            170,
-            150
-          ],
-          "hex": "#c8aa96",
-          "percentage": "0.004"
-        },
-        {
-          "rgb": [
-            220,
-            210,
-            190
-          ],
-          "hex": "#dcd2be",
-          "percentage": "0.004"
-        },
-        {
-          "rgb": [
-            40,
-            100,
-            210
-          ],
-          "hex": "#2864d2",
-          "percentage": "0.000"
-        }
-      ],
-      "colorfulness": "36.831"
-    },
-    "width": 4039,
-    "height": 4385,
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Österreich",
-      "Wien",
-      "Landschaft",
-      "Architektur",
-      "Stadt",
-      "Typografie",
-      "Kultur",
-      "Kunst",
-      "Park",
-      "Statuen"
-    ],
-    "name": "Eingang zur S-Bahn-Station Krottenbachstrasse in Döbling.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/wien/Eingang_zur_S-Bahn-Station_Krottenbachstrasse_in_Döbling.jpg"
     },
     "gallery": "wien"
   },
@@ -54580,6 +54778,57 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.230286,
+    "longitude": 16.443872,
+    "createDate": "2026-01-18T16:45:24.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            0,
+            10,
+            40
+          ],
+          "hex": "#000a28",
+          "percentage": "0.146"
+        },
+        {
+          "rgb": [
+            160,
+            160,
+            150
+          ],
+          "hex": "#a0a096",
+          "percentage": "0.011"
+        }
+      ],
+      "colorfulness": "39.441"
+    },
+    "width": 2790,
+    "height": 3328,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Fussgängerbrücke über die Donaustadtstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Fussgängerbrücke_über_die_Donaustadtstrasse.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
     "latitude": 48.168983,
     "longitude": 16.418758,
     "createDate": "2025-05-04T05:09:06.000Z",
@@ -55755,6 +56004,84 @@
     "name": "Halloween-Decor in einem Fenster am Herdepark.jpg",
     "urls": {
       "original": "https://photos.lucamack.at/content/galleries/wien/Halloween-Decor_in_einem_Fenster_am_Herdepark.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
+    "latitude": 48.1787,
+    "longitude": 16.426097,
+    "createDate": "2026-01-18T16:20:10.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            10,
+            10,
+            30
+          ],
+          "hex": "#0a0a1e",
+          "percentage": "0.060"
+        },
+        {
+          "rgb": [
+            50,
+            60,
+            60
+          ],
+          "hex": "#323c3c",
+          "percentage": "0.016"
+        },
+        {
+          "rgb": [
+            200,
+            190,
+            150
+          ],
+          "hex": "#c8be96",
+          "percentage": "0.013"
+        },
+        {
+          "rgb": [
+            0,
+            10,
+            180
+          ],
+          "hex": "#000ab4",
+          "percentage": "0.004"
+        },
+        {
+          "rgb": [
+            160,
+            180,
+            240
+          ],
+          "hex": "#a0b4f0",
+          "percentage": "0.003"
+        }
+      ],
+      "colorfulness": "41.715"
+    },
+    "width": 3830,
+    "height": 2913,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Haltestelle Wien Haidestrasse in Simmering während Zugfahrt fotografiert.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Haltestelle_Wien_Haidestrasse_in_Simmering_während_Zugfahrt_fotografiert.jpg"
     },
     "gallery": "wien"
   },
@@ -59167,6 +59494,75 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.213731,
+    "longitude": 16.361775,
+    "createDate": "2026-01-20T16:35:33.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            20,
+            40,
+            50
+          ],
+          "hex": "#142832",
+          "percentage": "0.022"
+        },
+        {
+          "rgb": [
+            240,
+            240,
+            220
+          ],
+          "hex": "#f0f0dc",
+          "percentage": "0.019"
+        },
+        {
+          "rgb": [
+            90,
+            120,
+            140
+          ],
+          "hex": "#5a788c",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            180,
+            160,
+            130
+          ],
+          "hex": "#b4a082",
+          "percentage": "0.005"
+        }
+      ],
+      "colorfulness": "36.706"
+    },
+    "width": 3343,
+    "height": 4970,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Passant und Autos am Rind in der Inneren Stadt.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Passant_und_Autos_am_Rind_in_der_Inneren_Stadt.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
     "latitude": 48.165992,
     "longitude": 16.414008,
     "createDate": "2025-08-02T16:33:48.000Z",
@@ -59730,6 +60126,66 @@
     "name": "Schottenring.jpg",
     "urls": {
       "original": "https://photos.lucamack.at/content/galleries/wien/Schottenring.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
+    "latitude": 48.214058,
+    "longitude": 16.361947,
+    "createDate": "2026-01-20T16:33:21.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            10,
+            30,
+            50
+          ],
+          "hex": "#0a1e32",
+          "percentage": "0.198"
+        },
+        {
+          "rgb": [
+            210,
+            190,
+            160
+          ],
+          "hex": "#d2bea0",
+          "percentage": "0.020"
+        },
+        {
+          "rgb": [
+            150,
+            140,
+            120
+          ],
+          "hex": "#968c78",
+          "percentage": "0.016"
+        }
+      ],
+      "colorfulness": "35.449"
+    },
+    "width": 3337,
+    "height": 5058,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Schottentor, Votivpark und Votivkirche in der Inneren Stadt - Alsergrund.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Schottentor,_Votivpark_und_Votivkirche_in_der_Inneren_Stadt_-_Alsergrund.jpg"
     },
     "gallery": "wien"
   },
@@ -60904,6 +61360,66 @@
     "gallery": "wien"
   },
   {
+    "latitude": 48.230361,
+    "longitude": 16.443792,
+    "createDate": "2026-01-18T16:45:50.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            10,
+            10,
+            30
+          ],
+          "hex": "#0a0a1e",
+          "percentage": "0.093"
+        },
+        {
+          "rgb": [
+            150,
+            130,
+            100
+          ],
+          "hex": "#968264",
+          "percentage": "0.009"
+        },
+        {
+          "rgb": [
+            160,
+            170,
+            190
+          ],
+          "hex": "#a0aabe",
+          "percentage": "0.001"
+        }
+      ],
+      "colorfulness": "34.462"
+    },
+    "width": 2485,
+    "height": 2969,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Stiegenaufgang zu einer Fussgängerbrücke in der Donaustadtstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Stiegenaufgang_zu_einer_Fussgängerbrücke_in_der_Donaustadtstrasse.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
     "latitude": 48.187478,
     "longitude": 16.322547,
     "createDate": "2025-09-27T12:55:35.000Z",
@@ -61227,6 +61743,84 @@
     "name": "Strasse und Hausfassaden in und um die UNO-City in Kaisermühlen.jpg",
     "urls": {
       "original": "https://photos.lucamack.at/content/galleries/wien/Strasse_und_Hausfassaden_in_und_um_die_UNO-City_in_Kaisermühlen.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
+    "latitude": 48.224864,
+    "longitude": 16.444483,
+    "createDate": "2026-01-18T16:39:21.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            0,
+            10,
+            40
+          ],
+          "hex": "#000a28",
+          "percentage": "0.215"
+        },
+        {
+          "rgb": [
+            190,
+            190,
+            170
+          ],
+          "hex": "#bebeaa",
+          "percentage": "0.015"
+        },
+        {
+          "rgb": [
+            150,
+            110,
+            20
+          ],
+          "hex": "#966e14",
+          "percentage": "0.002"
+        },
+        {
+          "rgb": [
+            250,
+            150,
+            140
+          ],
+          "hex": "#fa968c",
+          "percentage": "0.000"
+        },
+        {
+          "rgb": [
+            220,
+            90,
+            100
+          ],
+          "hex": "#dc5a64",
+          "percentage": "0.000"
+        }
+      ],
+      "colorfulness": "40.110"
+    },
+    "width": 2760,
+    "height": 3284,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Strasse, Autos und Fabriksgelände in der Donaustadtstrasse.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Strasse,_Autos_und_Fabriksgelände_in_der_Donaustadtstrasse.jpg"
     },
     "gallery": "wien"
   },
@@ -61894,66 +62488,6 @@
     "gallery": "wien"
   },
   {
-    "latitude": 48.213775,
-    "longitude": 16.362497,
-    "createDate": "2026-01-09T07:39:01.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            240,
-            230,
-            220
-          ],
-          "hex": "#f0e6dc",
-          "percentage": "0.133"
-        },
-        {
-          "rgb": [
-            110,
-            80,
-            70
-          ],
-          "hex": "#6e5046",
-          "percentage": "0.019"
-        },
-        {
-          "rgb": [
-            20,
-            0,
-            0
-          ],
-          "hex": "#140000",
-          "percentage": "0.009"
-        }
-      ],
-      "colorfulness": "37.131"
-    },
-    "width": 3746,
-    "height": 4937,
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Österreich",
-      "Wien",
-      "Landschaft",
-      "Architektur",
-      "Stadt",
-      "Typografie",
-      "Kultur",
-      "Kunst",
-      "Park",
-      "Statuen"
-    ],
-    "name": "Universitätsring nahe dem Schottentor.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/wien/Universitätsring_nahe_dem_Schottentor.jpg"
-    },
-    "gallery": "wien"
-  },
-  {
     "latitude": 48.1679,
     "longitude": 16.411825,
     "createDate": "2025-08-02T16:30:44.000Z",
@@ -62148,135 +62682,6 @@
     "name": "Votivkirche bei Währingerstrasse Alsergrund.jpg",
     "urls": {
       "original": "https://photos.lucamack.at/content/galleries/wien/Votivkirche_bei_Währingerstrasse_Alsergrund.jpg"
-    },
-    "gallery": "wien"
-  },
-  {
-    "latitude": 48.214925,
-    "longitude": 16.359239,
-    "createDate": "2026-01-08T07:55:05.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            130,
-            90,
-            70
-          ],
-          "hex": "#825a46",
-          "percentage": "0.020"
-        },
-        {
-          "rgb": [
-            160,
-            210,
-            240
-          ],
-          "hex": "#a0d2f0",
-          "percentage": "0.008"
-        },
-        {
-          "rgb": [
-            180,
-            150,
-            130
-          ],
-          "hex": "#b49682",
-          "percentage": "0.008"
-        },
-        {
-          "rgb": [
-            80,
-            180,
-            230
-          ],
-          "hex": "#50b4e6",
-          "percentage": "0.007"
-        },
-        {
-          "rgb": [
-            20,
-            0,
-            0
-          ],
-          "hex": "#140000",
-          "percentage": "0.005"
-        }
-      ],
-      "colorfulness": "38.322"
-    },
-    "width": 3102,
-    "height": 4375,
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Österreich",
-      "Wien",
-      "Landschaft",
-      "Architektur",
-      "Stadt",
-      "Typografie",
-      "Kultur",
-      "Kunst",
-      "Park",
-      "Statuen"
-    ],
-    "name": "Votivkirche und Statue davor.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/wien/Votivkirche_und_Statue_davor.jpg"
-    },
-    "gallery": "wien"
-  },
-  {
-    "latitude": 48.214531,
-    "longitude": 16.360842,
-    "createDate": "2026-01-09T07:41:39.000Z",
-    "colorData": {
-      "dominantColors": [
-        {
-          "rgb": [
-            220,
-            220,
-            220
-          ],
-          "hex": "#dcdcdc",
-          "percentage": "0.150"
-        },
-        {
-          "rgb": [
-            100,
-            80,
-            70
-          ],
-          "hex": "#645046",
-          "percentage": "0.013"
-        }
-      ],
-      "colorfulness": "36.769"
-    },
-    "width": 3479,
-    "height": 5478,
-    "creator": "Luca Mack",
-    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
-    "creditText": "Photo by Luca Mack",
-    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
-    "tags": [
-      "Österreich",
-      "Wien",
-      "Landschaft",
-      "Architektur",
-      "Stadt",
-      "Typografie",
-      "Kultur",
-      "Kunst",
-      "Park",
-      "Statuen"
-    ],
-    "name": "Votivpark und Votivkirche im Winter.jpg",
-    "urls": {
-      "original": "https://photos.lucamack.at/content/galleries/wien/Votivpark_und_Votivkirche_im_Winter.jpg"
     },
     "gallery": "wien"
   },
@@ -63042,6 +63447,66 @@
     "name": "Wohnhaus mit Balkonen beim Rochusmarkt.jpg",
     "urls": {
       "original": "https://photos.lucamack.at/content/galleries/wien/Wohnhaus_mit_Balkonen_beim_Rochusmarkt.jpg"
+    },
+    "gallery": "wien"
+  },
+  {
+    "latitude": 48.230747,
+    "longitude": 16.451356,
+    "createDate": "2026-01-18T20:49:54.000Z",
+    "colorData": {
+      "dominantColors": [
+        {
+          "rgb": [
+            0,
+            10,
+            30
+          ],
+          "hex": "#000a1e",
+          "percentage": "0.175"
+        },
+        {
+          "rgb": [
+            120,
+            110,
+            120
+          ],
+          "hex": "#786e78",
+          "percentage": "0.020"
+        },
+        {
+          "rgb": [
+            180,
+            190,
+            180
+          ],
+          "hex": "#b4beb4",
+          "percentage": "0.004"
+        }
+      ],
+      "colorfulness": "31.819"
+    },
+    "width": 2778,
+    "height": 3748,
+    "creator": "Luca Mack",
+    "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+    "creditText": "Photo by Luca Mack",
+    "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "Österreich",
+      "Wien",
+      "Landschaft",
+      "Architektur",
+      "Stadt",
+      "Typografie",
+      "Kultur",
+      "Kunst",
+      "Park",
+      "Statuen"
+    ],
+    "name": "Wohnhaus und Stiege in der nähe der Erzherziog-Karl-Strasse in Donaustadt.jpg",
+    "urls": {
+      "original": "https://photos.lucamack.at/content/galleries/wien/Wohnhaus_und_Stiege_in_der_nähe_der_Erzherziog-Karl-Strasse_in_Donaustadt.jpg"
     },
     "gallery": "wien"
   },
