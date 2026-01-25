@@ -1001,6 +1001,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/einkaufswagerl-in-der-kaiser-ebersdorfer-strasse-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/einkaufswagerl/image/mehrere-einkaufswagerln-in-hasenleiten-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -2291,6 +2296,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/oeffis/image/eingang-zur-s-bahn-station-grillgasse-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/oeffis/image/entwerter-und-stiegenaufgang-zur-s-bahn-station-ottakring-s45</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3576,6 +3586,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/sw/image/siedlung-hasenleiten-in-simemring-bei-dammerung</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/sw/image/statue-vor-der-votivkirche-in-wien-alsergrund</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3941,6 +3956,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/cc-graffiti-am-orientierungsplan-hasenleiten-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/damen-hair-laser-herren-schriftzug-in-der-grillgasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -3967,6 +3987,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/gartenbaukino-schriftzug-am-stubenring</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/ischia-konzert-im-kramladen</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4417,6 +4442,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/fussgangerbrucke-uber-die-donaustadtstrasse</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/fussgangerdurchgang-unter-der-u6-nahe-josefstadter-strasse-am-gurtel</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4961,6 +4991,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/tankstelle-nahe-s-bahn-station-grillgasse-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/tankstelle-einfahrt-und-ein-roter-alter-ford-nahe-s-bahn-station-grillgasse</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -5061,6 +5096,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/wohnhaus-an-der-florian-hedorfer-strasse-kaiser-ebersdorfer-strasse-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/wohnhaus-an-der-florian-hedorfer-strasse-in-simmering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/wohnhaus-im-sonnenlicht-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -5102,6 +5147,11 @@
   </url>
   <url>
     <loc>https://photos.lucamack.at/gallery/wien/image/wurstelstand-bei-der-burggasse-in-rudolfsheim-funfhaus</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://photos.lucamack.at/gallery/wien/image/zaun-grunflache-und-wohnhaus-in-der-kaiser-ebersdorfer-strasse-in-simmering</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>

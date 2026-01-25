@@ -10968,6 +10968,61 @@ export const galleries = [
         }
       },
       {
+        "filename": "Einkaufswagerl in der Kaiser-Ebersdorfer-Strasse in Simmering.jpg",
+        "latitude": 48.160256,
+        "longitude": 16.463081,
+        "createDate": "2026-01-24T10:12:12.000Z",
+        "width": 3764,
+        "height": 3609,
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Wien",
+          "Berlin"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.070"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                150
+              ],
+              "hex": "#b4a096",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                210
+              ],
+              "hex": "#e6dcd2",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                70,
+                40,
+                30
+              ],
+              "hex": "#46281e",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "40.970"
+        }
+      },
+      {
         "filename": "Mehrere Einkaufswagerln in Hasenleiten - Simmering.jpg",
         "latitude": 48.167297,
         "longitude": 16.417231,
@@ -11097,8 +11152,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "28. Juli 2024 - 11. September 2025",
-    "imageCount": 9,
+    "timeframe": "28. Juli 2024 - 24. Januar 2026",
+    "imageCount": 10,
     "tags": [
       "Österreich",
       "Deutschland",
@@ -25120,6 +25175,43 @@ export const galleries = [
         }
       },
       {
+        "filename": "Eingang zur S-Bahn-Station Grillgasse in Simmering.jpg",
+        "latitude": 48.167217,
+        "longitude": 16.407678,
+        "createDate": "2026-01-24T17:53:08.000Z",
+        "width": 2131,
+        "height": 2602,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                20
+              ],
+              "hex": "#0a0a14",
+              "percentage": "0.216"
+            },
+            {
+              "rgb": [
+                130,
+                120,
+                110
+              ],
+              "hex": "#82786e",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "30.980"
+        }
+      },
+      {
         "filename": "Entwerter und Stiegenaufgang zur S-Bahn-Station Ottakring S45.jpg",
         "latitude": 48.211933,
         "longitude": 16.311789,
@@ -28055,8 +28147,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "11. April 2024 - 18. Januar 2026",
-    "imageCount": 81,
+    "timeframe": "11. April 2024 - 24. Januar 2026",
+    "imageCount": 82,
     "tags": [
       "Wien",
       "Österreich",
@@ -39214,6 +39306,45 @@ export const galleries = [
         }
       },
       {
+        "filename": "Siedlung Hasenleiten in Simemring bei Dämmerung.jpg",
+        "latitude": 48.165844,
+        "longitude": 16.41555,
+        "createDate": "2026-01-24T18:04:51.000Z",
+        "width": 3024,
+        "height": 4032,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Architektur",
+          "Park",
+          "Stadt",
+          "Winter"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                10
+              ],
+              "hex": "#0a0a0a",
+              "percentage": "0.124"
+            },
+            {
+              "rgb": [
+                170,
+                170,
+                170
+              ],
+              "hex": "#aaaaaa",
+              "percentage": "0.022"
+            }
+          ],
+          "colorfulness": "30.289"
+        }
+      },
+      {
         "filename": "Statue vor der Votivkirche in Wien Alsergrund.jpg",
         "latitude": 48.214925,
         "longitude": 16.359239,
@@ -39568,8 +39699,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "8. Januar 2026 - 11. Januar 2026",
-    "imageCount": 15,
+    "timeframe": "8. Januar 2026 - 24. Januar 2026",
+    "imageCount": 16,
     "tags": [
       "Österreich",
       "Wien",
@@ -42982,6 +43113,49 @@ export const galleries = [
         }
       },
       {
+        "filename": "'CC!' Graffiti am Orientierungsplan Hasenleiten in Simmering.jpg",
+        "latitude": 48.166303,
+        "longitude": 16.414781,
+        "createDate": "2026-01-24T18:05:53.000Z",
+        "width": 2614,
+        "height": 3431,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.026"
+            }
+          ],
+          "colorfulness": "39.784"
+        }
+      },
+      {
         "filename": "'Damen - Hair Laser - Herren' Schriftzug in der Grillgasse.jpg",
         "latitude": 48.174511,
         "longitude": 16.409864,
@@ -43327,6 +43501,58 @@ export const galleries = [
             }
           ],
           "colorfulness": "38.757"
+        }
+      },
+      {
+        "filename": "'Ischia' Konzert im Kramladen.jpg",
+        "latitude": 48.210944,
+        "longitude": 16.338997,
+        "createDate": "2026-01-23T21:34:05.000Z",
+        "width": 2290,
+        "height": 2937,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.383"
+            },
+            {
+              "rgb": [
+                170,
+                170,
+                160
+              ],
+              "hex": "#aaaaa0",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                230,
+                200,
+                210
+              ],
+              "hex": "#e6c8d2",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "30.406"
         }
       },
       {
@@ -48430,6 +48656,67 @@ export const galleries = [
             }
           ],
           "colorfulness": "39.441"
+        }
+      },
+      {
+        "filename": "Fussgängerdurchgang unter der U6 nahe Josefstädter Strasse am Gürtel.jpg",
+        "latitude": 48.209664,
+        "longitude": 16.338689,
+        "createDate": "2026-01-23T22:00:58.000Z",
+        "width": 2501,
+        "height": 2951,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.187"
+            },
+            {
+              "rgb": [
+                70,
+                70,
+                80
+              ],
+              "hex": "#464650",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                120
+              ],
+              "hex": "#8c8c78",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                40,
+                100,
+                210
+              ],
+              "hex": "#2864d2",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "32.385"
         }
       },
       {
@@ -54643,6 +54930,58 @@ export const galleries = [
         }
       },
       {
+        "filename": "Tankstelle nahe S-Bahn-Station Grillgasse in Simmering.jpg",
+        "latitude": 48.166803,
+        "longitude": 16.410225,
+        "createDate": "2026-01-24T17:55:53.000Z",
+        "width": 3446,
+        "height": 2196,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                70,
+                40,
+                20
+              ],
+              "hex": "#462814",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                240,
+                180,
+                120
+              ],
+              "hex": "#f0b478",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                50,
+                140,
+                180
+              ],
+              "hex": "#328cb4",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "37.514"
+        }
+      },
+      {
         "filename": "Tankstelle, Einfahrt und ein roter alter Ford nahe S-Bahn-Station Grillgasse.jpg",
         "latitude": 48.166692,
         "longitude": 16.410997,
@@ -55782,6 +56121,137 @@ export const galleries = [
         }
       },
       {
+        "filename": "Wohnhaus an der Florian-Hedorfer-Strasse - Kaiser-Ebersdorfer-Strasse in Simmering.jpg",
+        "latitude": 48.165017,
+        "longitude": 16.432986,
+        "createDate": "2026-01-24T09:44:15.000Z",
+        "width": 3709,
+        "height": 4117,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                240
+              ],
+              "hex": "#e6e6f0",
+              "percentage": "0.124"
+            },
+            {
+              "rgb": [
+                110,
+                110,
+                120
+              ],
+              "hex": "#6e6e78",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                30,
+                30,
+                50
+              ],
+              "hex": "#1e1e32",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "41.416"
+        }
+      },
+      {
+        "filename": "Wohnhaus an der Florian-Hedorfer-Strasse in Simmering.jpg",
+        "latitude": 48.165056,
+        "longitude": 16.432578,
+        "createDate": "2026-01-24T09:43:48.000Z",
+        "width": 3493,
+        "height": 4379,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                240,
+                250
+              ],
+              "hex": "#e6f0fa",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                190,
+                200,
+                190
+              ],
+              "hex": "#bec8be",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                20,
+                30,
+                50
+              ],
+              "hex": "#141e32",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                70,
+                80,
+                80
+              ],
+              "hex": "#465050",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                140
+              ],
+              "hex": "#82828c",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "43.749"
+        }
+      },
+      {
         "filename": "Wohnhaus im Sonnenlicht in Simmering.jpg",
         "latitude": 48.172869,
         "longitude": 16.409564,
@@ -56295,6 +56765,58 @@ export const galleries = [
         }
       },
       {
+        "filename": "Zaun, Grünfläche und Wohnhaus in der Kaiser-Ebersdorfer-Strasse in Simmering.jpg",
+        "latitude": 48.160106,
+        "longitude": 16.463294,
+        "createDate": "2026-01-24T10:12:28.000Z",
+        "width": 3954,
+        "height": 4274,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                100,
+                50,
+                10
+              ],
+              "hex": "#64320a",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "45.773"
+        }
+      },
+      {
         "filename": "Zebrastreifen in Wien Simmering.jpg",
         "latitude": 48.178458,
         "longitude": 16.394178,
@@ -56548,8 +57070,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "7. Juni 2024 - 20. Januar 2026",
-    "imageCount": 238,
+    "timeframe": "7. Juni 2024 - 24. Januar 2026",
+    "imageCount": 245,
     "tags": [
       "Österreich",
       "Wien",
