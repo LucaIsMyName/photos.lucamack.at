@@ -58272,6 +58272,56 @@
         }
       },
       {
+        "latitude": 48.196225,
+        "longitude": 16.339514,
+        "createDate": "2026-01-30T16:48:46.000Z",
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                150,
+                100
+              ],
+              "hex": "#009664",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                30,
+                30,
+                10
+              ],
+              "hex": "#1e1e0a",
+              "percentage": "0.035"
+            }
+          ],
+          "colorfulness": "38.852"
+        },
+        "width": 3704,
+        "height": 4179,
+        "creator": "Luca Mack",
+        "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
+        "creditText": "Photo by Luca Mack",
+        "acquireLicensePage": "https://creativecommons.org/licenses/by/4.0/",
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "name": "Licht-Elektro-Schalter im Cafe Westend in der Mariahilfer-Strasse nahe Westbahnhof.jpg",
+        "urls": {
+          "original": "https://photos.lucamack.at/content/galleries/wien/Licht-Elektro-Schalter_im_Cafe_Westend_in_der_Mariahilfer-Strasse_nahe_Westbahnhof.jpg"
+        }
+      },
+      {
         "latitude": 48.168781,
         "longitude": 16.417067,
         "createDate": "2025-05-02T15:46:13.000Z",
@@ -59495,9 +59545,9 @@
           "Park",
           "Statuen"
         ],
-        "name": "Passant und Autos am Rind in der Inneren Stadt.jpg",
+        "name": "Passant und Autos am Ring in der Inneren Stadt.jpg",
         "urls": {
-          "original": "https://photos.lucamack.at/content/galleries/wien/Passant_und_Autos_am_Rind_in_der_Inneren_Stadt.jpg"
+          "original": "https://photos.lucamack.at/content/galleries/wien/Passant_und_Autos_am_Ring_in_der_Inneren_Stadt.jpg"
         }
       },
       {
@@ -64204,8 +64254,8 @@
         }
       }
     ],
-    "timeframe": "7. Juni 2024 - 24. Januar 2026",
-    "imageCount": 245,
+    "timeframe": "7. Juni 2024 - 30. Januar 2026",
+    "imageCount": 246,
     "creator": "Luca Mack",
     "copyrightNotice": "© 2025 Luca Mack. All rights reserved.",
     "creditText": "Photo by Luca Mack",

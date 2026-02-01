@@ -51782,6 +51782,49 @@ export const galleries = [
         }
       },
       {
+        "filename": "Licht-Elektro-Schalter im Cafe Westend in der Mariahilfer-Strasse nahe Westbahnhof.jpg",
+        "latitude": 48.196225,
+        "longitude": 16.339514,
+        "createDate": "2026-01-30T16:48:46.000Z",
+        "width": 3704,
+        "height": 4179,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                150,
+                100
+              ],
+              "hex": "#009664",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                30,
+                30,
+                10
+              ],
+              "hex": "#1e1e0a",
+              "percentage": "0.035"
+            }
+          ],
+          "colorfulness": "38.852"
+        }
+      },
+      {
         "filename": "Lorystrasse 77 in Simmering .jpg",
         "latitude": 48.168781,
         "longitude": 16.417067,
@@ -52817,7 +52860,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Passant und Autos am Rind in der Inneren Stadt.jpg",
+        "filename": "Passant und Autos am Ring in der Inneren Stadt.jpg",
         "latitude": 48.213731,
         "longitude": 16.361775,
         "createDate": "2026-01-20T16:35:33.000Z",
@@ -57070,8 +57113,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "7. Juni 2024 - 24. Januar 2026",
-    "imageCount": 245,
+    "timeframe": "7. Juni 2024 - 30. Januar 2026",
+    "imageCount": 246,
     "tags": [
       "Österreich",
       "Wien",
