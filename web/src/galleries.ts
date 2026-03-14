@@ -23799,6 +23799,70 @@ export const galleries = [
     "description": "Tschu Tschu, Brumm Brumm, *Quietsch*, Tschu Tschu",
     "images": [
       {
+        "filename": "'2km bis Wien' K&K-Weg-Stein am Praterstern in Leopoldstadt.jpg",
+        "latitude": 48.218492,
+        "longitude": 16.392372,
+        "createDate": "2026-02-03T16:48:51.000Z",
+        "width": 3490,
+        "height": 3961,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                50,
+                60,
+                70
+              ],
+              "hex": "#323c46",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                200,
+                180,
+                140
+              ],
+              "hex": "#c8b48c",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                140
+              ],
+              "hex": "#8c8c8c",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                210
+              ],
+              "hex": "#f0e6d2",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "40.431"
+        }
+      },
+      {
         "filename": "'Bitte alle Einstiege benützen' Schriftzug in U-Bahn Station.jpg",
         "latitude": 48.208156,
         "longitude": 16.371689,
@@ -24117,6 +24181,70 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.822"
+        }
+      },
+      {
+        "filename": "'Wien Hauptbahnhof' Schrift und Bahnsteig  am Hauptbahnhof in Favoriten.jpg",
+        "latitude": 48.185422,
+        "longitude": 16.378258,
+        "createDate": "2026-02-12T18:31:58.000Z",
+        "width": 3917,
+        "height": 5562,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.137"
+            },
+            {
+              "rgb": [
+                70,
+                70,
+                60
+              ],
+              "hex": "#46463c",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                120,
+                120,
+                90
+              ],
+              "hex": "#78785a",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                170
+              ],
+              "hex": "#c8c8aa",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                60,
+                90,
+                240
+              ],
+              "hex": "#3c5af0",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "38.532"
         }
       },
       {
@@ -24542,6 +24670,116 @@ export const galleries = [
         }
       },
       {
+        "filename": "Bahnsteig des Bahnhofes 'Wien Praterstern' in der Leopoldstadt.jpg",
+        "latitude": 48.218875,
+        "longitude": 16.392058,
+        "createDate": "2026-02-15T14:13:12.000Z",
+        "width": 3990,
+        "height": 5623,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.100"
+            },
+            {
+              "rgb": [
+                200,
+                210,
+                210
+              ],
+              "hex": "#c8d2d2",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                160,
+                170,
+                180
+              ],
+              "hex": "#a0aab4",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "40.531"
+        }
+      },
+      {
+        "filename": "Bahnsteig des Wiener Hauptbahnhofes und der ÖBB-Tower in Favoriten.jpg",
+        "latitude": 48.185283,
+        "longitude": 16.377256,
+        "createDate": "2026-02-12T05:46:14.000Z",
+        "width": 3647,
+        "height": 5421,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                20,
+                50
+              ],
+              "hex": "#001432",
+              "percentage": "0.062"
+            },
+            {
+              "rgb": [
+                120,
+                200,
+                250
+              ],
+              "hex": "#78c8fa",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                40,
+                130,
+                190
+              ],
+              "hex": "#2882be",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                10,
+                90,
+                150
+              ],
+              "hex": "#0a5a96",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                220
+              ],
+              "hex": "#e6e6dc",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "45.012"
+        }
+      },
+      {
         "filename": "Bahnsteige Simmering S-Bahn Station.jpg",
         "latitude": 48.169972,
         "longitude": 16.419542,
@@ -24762,7 +25000,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Blick über die Wetsbahntrasse und die Schmelzbrücke in Rudolfsheim-Fünfhaus.jpg",
+        "filename": "Blick über die Westbahntrasse und die Schmelzbrücke in Rudolfsheim-Fünfhaus.jpg",
         "latitude": 48.194561,
         "longitude": 16.330406,
         "createDate": "2024-05-01T09:13:09.000Z",
@@ -25047,6 +25285,70 @@ export const galleries = [
         }
       },
       {
+        "filename": "Eingang zum Bahnhof Praterstern in Wien Leopoldstadt.jpg",
+        "latitude": 48.218344,
+        "longitude": 16.392908,
+        "createDate": "2026-02-03T16:44:18.000Z",
+        "width": 3929,
+        "height": 3588,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                180,
+                180
+              ],
+              "hex": "#aab4b4",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                110,
+                120,
+                120
+              ],
+              "hex": "#6e7878",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                30,
+                50,
+                60
+              ],
+              "hex": "#1e323c",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                170,
+                140,
+                30
+              ],
+              "hex": "#aa8c1e",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "33.616"
+        }
+      },
+      {
         "filename": "Eingang zum Meidlinger Bahnhof Ostseite.jpg",
         "latitude": 48.17525,
         "longitude": 16.335092,
@@ -25273,6 +25575,61 @@ export const galleries = [
             }
           ],
           "colorfulness": "41.819"
+        }
+      },
+      {
+        "filename": "Erdberg U-Bahn-Station und Blick auf ein Hochhaus und Himmel.jpg",
+        "latitude": 48.191117,
+        "longitude": 16.413561,
+        "createDate": "2026-03-01T13:54:38.000Z",
+        "width": 3395,
+        "height": 4687,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.126"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                250
+              ],
+              "hex": "#dce6fa",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                100,
+                150,
+                190
+              ],
+              "hex": "#6496be",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                180,
+                160,
+                120
+              ],
+              "hex": "#b4a078",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "49.012"
         }
       },
       {
@@ -26734,6 +27091,52 @@ export const galleries = [
         }
       },
       {
+        "filename": "Shops und Uhr an Bahnhof Praterstern in Leopoldstadt.jpg",
+        "latitude": 48.218028,
+        "longitude": 16.392969,
+        "createDate": "2026-02-03T16:46:44.000Z",
+        "width": 3492,
+        "height": 4945,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.097"
+            },
+            {
+              "rgb": [
+                100,
+                90,
+                80
+              ],
+              "hex": "#645a50",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "28.732"
+        }
+      },
+      {
         "filename": "Simmering Schriftzug U-Bahn Station Wien.jpg",
         "latitude": 48.169681,
         "longitude": 16.416525,
@@ -28037,6 +28440,52 @@ export const galleries = [
         }
       },
       {
+        "filename": "Würdigungstafel an die Politiker und Architekten für die erbauung der U-Bahn-Station Schottentor in der Inneren Stadt.jpg",
+        "latitude": 48.213981,
+        "longitude": 16.362117,
+        "createDate": "2026-02-03T16:20:04.000Z",
+        "width": 4033,
+        "height": 4789,
+        "tags": [
+          "Wien",
+          "Österreich",
+          "Architektur",
+          "Stadt"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                90,
+                90
+              ],
+              "hex": "#5a5a5a",
+              "percentage": "0.080"
+            },
+            {
+              "rgb": [
+                140,
+                130,
+                110
+              ],
+              "hex": "#8c826e",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "22.909"
+        }
+      },
+      {
         "filename": "Zentralfriedhof S-Bahn Station Simmering.jpg",
         "latitude": 48.154747,
         "longitude": 16.42505,
@@ -28147,8 +28596,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "11. April 2024 - 24. Januar 2026",
-    "imageCount": 82,
+    "timeframe": "11. April 2024 - 1. März 2026",
+    "imageCount": 90,
     "tags": [
       "Wien",
       "Österreich",
@@ -33853,6 +34302,62 @@ export const galleries = [
         }
       },
       {
+        "filename": "Eingang zu einer Kirche in der Josef-Waach-Strasse in Gnigl - Salzburg.jpg",
+        "latitude": 47.818447,
+        "longitude": 13.067653,
+        "createDate": "2026-02-22T21:23:49.000Z",
+        "width": 2887,
+        "height": 3541,
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.116"
+            },
+            {
+              "rgb": [
+                90,
+                90,
+                90
+              ],
+              "hex": "#5a5a5a",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                210
+              ],
+              "hex": "#d2d2d2",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                160,
+                150,
+                140
+              ],
+              "hex": "#a0968c",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "33.523"
+        }
+      },
+      {
         "filename": "Gebäude in Lehen.jpg",
         "latitude": 47.815106,
         "longitude": 13.025831,
@@ -34482,6 +34987,53 @@ export const galleries = [
         }
       },
       {
+        "filename": "Verschwommenes Bild der Salzach und des Salzachdammes in Oberndorf an der Salzach.jpg",
+        "latitude": 47.944111,
+        "longitude": 12.935083,
+        "createDate": "2026-02-22T00:28:46.000Z",
+        "width": 3022,
+        "height": 3559,
+        "tags": [
+          "Salzburg",
+          "Österreich",
+          "Landschaft",
+          "Architektur",
+          "Park"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.358"
+            },
+            {
+              "rgb": [
+                190,
+                180,
+                170
+              ],
+              "hex": "#beb4aa",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                120
+              ],
+              "hex": "#828278",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "25.850"
+        }
+      },
+      {
         "filename": "Vordach der Neuen MItte Lehen und das Haus in Blau-Gelb gegenüber.jpg",
         "latitude": 47.813147,
         "longitude": 13.026411,
@@ -34538,8 +35090,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "6. April 2024 - 27. Dezember 2025",
-    "imageCount": 23,
+    "timeframe": "6. April 2024 - 22. Februar 2026",
+    "imageCount": 25,
     "tags": [
       "Salzburg",
       "Österreich",
@@ -36485,6 +37037,55 @@ export const galleries = [
     "description": "Stadt & Land, hier & da, dieses & jenes, oben & unten, und so weiter & so fort ...",
     "images": [
       {
+        "filename": "'No tanks, I'm dead' Aufkleber in Linz.jpg",
+        "latitude": 48.268769,
+        "longitude": 14.312853,
+        "createDate": "2026-02-12T09:51:19.000Z",
+        "width": 3854,
+        "height": 3826,
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Park"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                150,
+                150
+              ],
+              "hex": "#8c9696",
+              "percentage": "0.066"
+            }
+          ],
+          "colorfulness": "16.550"
+        }
+      },
+      {
         "filename": "'Vielfalt' Schriftzug gegenüber der der Tonhalle München.jpg",
         "latitude": 48.123992,
         "longitude": 11.607414,
@@ -36759,6 +37360,73 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.641"
+        }
+      },
+      {
+        "filename": "Bahntrassen, Strasse und VOEST Werk in Linz.jpg",
+        "latitude": 48.270225,
+        "longitude": 14.315272,
+        "createDate": "2026-02-12T07:55:26.000Z",
+        "width": 4224,
+        "height": 5034,
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Park"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                230,
+                240
+              ],
+              "hex": "#dce6f0",
+              "percentage": "0.276"
+            },
+            {
+              "rgb": [
+                110,
+                120,
+                130
+              ],
+              "hex": "#6e7882",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                30,
+                40,
+                60
+              ],
+              "hex": "#1e283c",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "32.532"
         }
       },
       {
@@ -38429,6 +39097,82 @@ export const galleries = [
         }
       },
       {
+        "filename": "Sessel, Weiss- und Buntglas-Müll-Container in Linz.jpg",
+        "latitude": 48.270447,
+        "longitude": 14.314786,
+        "createDate": "2026-02-12T07:56:24.000Z",
+        "width": 3575,
+        "height": 4733,
+        "tags": [
+          "Österreich",
+          "Deutschland",
+          "Tschechien",
+          "Steiermark",
+          "Niederösterreich",
+          "Oberösterreich",
+          "Wien",
+          "Dresden",
+          "München",
+          "Waidhofen",
+          "Kleinlobming",
+          "Karlsruhe",
+          "Burghausen",
+          "Flachgau",
+          "Ottenstein",
+          "Bad Ischl",
+          "Waldviertel",
+          "Bayern",
+          "Baden-Württemberg",
+          "Sachsen",
+          "Architektur",
+          "Stadt",
+          "Landschaft",
+          "Sonstiges",
+          "Park"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                160,
+                160
+              ],
+              "hex": "#96a0a0",
+              "percentage": "0.074"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                240
+              ],
+              "hex": "#dce6f0",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                70,
+                80,
+                90
+              ],
+              "hex": "#46505a",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                0,
+                50,
+                160
+              ],
+              "hex": "#0032a0",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "29.970"
+        }
+      },
+      {
         "filename": "Statue eines Mannes mit Kind auf seinen Schultern.jpg",
         "latitude": 48.590442,
         "longitude": 15.336358,
@@ -38867,8 +39611,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "18. Februar 2024 - 16. November 2025",
-    "imageCount": 33,
+    "timeframe": "18. Februar 2024 - 12. Februar 2026",
+    "imageCount": 36,
     "tags": [
       "Österreich",
       "Deutschland",
@@ -43113,6 +43857,67 @@ export const galleries = [
         }
       },
       {
+        "filename": "'Aber...' Graffitti in Rudolfsheim-Fünfhaus.jpg",
+        "latitude": 48.198831,
+        "longitude": 16.324094,
+        "createDate": "2026-02-01T15:35:48.000Z",
+        "width": 3707,
+        "height": 4991,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                20,
+                40
+              ],
+              "hex": "#001428",
+              "percentage": "0.073"
+            },
+            {
+              "rgb": [
+                180,
+                200,
+                220
+              ],
+              "hex": "#b4c8dc",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                250
+              ],
+              "hex": "#f0f0fa",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                250,
+                210,
+                170
+              ],
+              "hex": "#fad2aa",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "43.839"
+        }
+      },
+      {
         "filename": "'CC!' Graffiti am Orientierungsplan Hasenleiten in Simmering.jpg",
         "latitude": 48.166303,
         "longitude": 16.414781,
@@ -43504,6 +44309,180 @@ export const galleries = [
         }
       },
       {
+        "filename": "'HAHAHAHA...' Aufkleber an einer Laterne in der Lange-Gasse in der Josefstadt.jpg",
+        "latitude": 48.215033,
+        "longitude": 16.350625,
+        "createDate": "2026-02-19T14:51:49.000Z",
+        "width": 4280,
+        "height": 5181,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.047"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                240
+              ],
+              "hex": "#dce6f0",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                150,
+                170,
+                180
+              ],
+              "hex": "#96aab4",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                130,
+                30,
+                60
+              ],
+              "hex": "#821e3c",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                0,
+                70,
+                180
+              ],
+              "hex": "#0046b4",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "43.769"
+        }
+      },
+      {
+        "filename": "'Hallenliga Plus Bowling' Scoreboard und Bowling-Kugeln in Hernals.jpg",
+        "latitude": 48.218544,
+        "longitude": 16.338433,
+        "createDate": "2026-03-04T19:25:32.000Z",
+        "width": 4048,
+        "height": 5397,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                100,
+                20,
+                30
+              ],
+              "hex": "#64141e",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                150,
+                140,
+                120
+              ],
+              "hex": "#968c78",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                170,
+                30,
+                40
+              ],
+              "hex": "#aa1e28",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "52.355"
+        }
+      },
+      {
+        "filename": "'Happy Birthday' Glitzer Streusel in der Garnisongasse in Alsergrund.jpg",
+        "latitude": 48.216733,
+        "longitude": 16.356617,
+        "createDate": "2026-03-03T10:58:25.000Z",
+        "width": 3647,
+        "height": 4382,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                110,
+                120,
+                130
+              ],
+              "hex": "#6e7882",
+              "percentage": "0.177"
+            }
+          ],
+          "colorfulness": "8.964"
+        }
+      },
+      {
         "filename": "'Ischia' Konzert im Kramladen.jpg",
         "latitude": 48.210944,
         "longitude": 16.338997,
@@ -43605,6 +44584,76 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.244"
+        }
+      },
+      {
+        "filename": "'Keine Hunde' und 'Keine Läufer'' Schilder am Otto-Mraz-Weg in Simmering.jpg",
+        "latitude": 48.16545,
+        "longitude": 16.424353,
+        "createDate": "2026-02-27T16:09:40.000Z",
+        "width": 3244,
+        "height": 5506,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                170,
+                170
+              ],
+              "hex": "#a0aaaa",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                50,
+                60,
+                70
+              ],
+              "hex": "#323c46",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                110,
+                120,
+                80
+              ],
+              "hex": "#6e7850",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                170,
+                210,
+                240
+              ],
+              "hex": "#aad2f0",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                160,
+                60,
+                70
+              ],
+              "hex": "#a03c46",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "33.112"
         }
       },
       {
@@ -43818,7 +44867,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "'Versuchsanstalt' Schriftzug nebender HTL Landstrasse in St. Marx.jpg",
+        "filename": "'Versuchsanstalt' Schriftzug neben der HTL Landstrasse in St. Marx.jpg",
         "latitude": 48.185211,
         "longitude": 16.402206,
         "createDate": "2025-12-07T10:34:58.000Z",
@@ -43989,6 +45038,67 @@ export const galleries = [
             }
           ],
           "colorfulness": "46.084"
+        }
+      },
+      {
+        "filename": "'Zu vermieten' Schild in der Simmeringer-Hauptstrasse nahe Zentralfriedhof Tor 1.jpg",
+        "latitude": 48.1591,
+        "longitude": 16.433656,
+        "createDate": "2026-02-28T06:01:43.000Z",
+        "width": 3819,
+        "height": 5387,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                220,
+                250
+              ],
+              "hex": "#c8dcfa",
+              "percentage": "0.064"
+            },
+            {
+              "rgb": [
+                90,
+                100,
+                110
+              ],
+              "hex": "#5a646e",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                10,
+                20,
+                50
+              ],
+              "hex": "#0a1432",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                120,
+                20,
+                70
+              ],
+              "hex": "#781446",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "40.410"
         }
       },
       {
@@ -44313,6 +45423,67 @@ export const galleries = [
         }
       },
       {
+        "filename": "Altar der Malteserkirche in der Kärntner-Strasse - Innere Stadt.jpg",
+        "latitude": 48.205139,
+        "longitude": 16.371175,
+        "createDate": "2026-03-05T11:54:58.000Z",
+        "width": 4187,
+        "height": 5584,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                10
+              ],
+              "hex": "#0a0a0a",
+              "percentage": "0.090"
+            },
+            {
+              "rgb": [
+                120,
+                110,
+                100
+              ],
+              "hex": "#786e64",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                190,
+                190,
+                190
+              ],
+              "hex": "#bebebe",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "40.065"
+        }
+      },
+      {
         "filename": "Altes Fabriksgelände in der Haidestrasse Simmering.jpg",
         "latitude": 48.178581,
         "longitude": 16.429856,
@@ -44618,6 +45789,58 @@ export const galleries = [
         }
       },
       {
+        "filename": "Auslage eines Blumenladens in Rudolfsheim-Fünfhaus.jpg",
+        "latitude": 48.198958,
+        "longitude": 16.314231,
+        "createDate": "2026-02-01T15:27:01.000Z",
+        "width": 3576,
+        "height": 4739,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                150,
+                160,
+                170
+              ],
+              "hex": "#96a0aa",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                210,
+                220,
+                230
+              ],
+              "hex": "#d2dce6",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "38.667"
+        }
+      },
+      {
         "filename": "Auslage mit Klobesen in der Äußeren Mariahilfer-Strasse.jpg",
         "latitude": 48.192403,
         "longitude": 16.333064,
@@ -44902,6 +46125,58 @@ export const galleries = [
             }
           ],
           "colorfulness": "45.402"
+        }
+      },
+      {
+        "filename": "Backsteinfassade der Pfarrkirche St. Lorenz in der Breitenseerstrasse - Penzing.jpg",
+        "latitude": 48.202247,
+        "longitude": 16.309106,
+        "createDate": "2026-03-01T14:53:31.000Z",
+        "width": 3608,
+        "height": 4921,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                180,
+                190
+              ],
+              "hex": "#aab4be",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                130,
+                110,
+                120
+              ],
+              "hex": "#826e78",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                230,
+                240,
+                250
+              ],
+              "hex": "#e6f0fa",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "27.294"
         }
       },
       {
@@ -45791,6 +47066,58 @@ export const galleries = [
         }
       },
       {
+        "filename": "Breitenseer Lichtspiele in Penzing.jpg",
+        "latitude": 48.201289,
+        "longitude": 16.309211,
+        "createDate": "2026-02-01T15:21:31.000Z",
+        "width": 3081,
+        "height": 4816,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                140,
+                140
+              ],
+              "hex": "#8c8c8c",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                200,
+                210,
+                210
+              ],
+              "hex": "#c8d2d2",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "34.798"
+        }
+      },
+      {
         "filename": "Brunnen auf dem Michaelerplatz im 1. Bezirk.jpg",
         "latitude": 48.207792,
         "longitude": 16.366756,
@@ -45840,6 +47167,58 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.665"
+        }
+      },
+      {
+        "filename": "Brunnen und Kirche in der Märzstrasse in Rudolfsheim-Fünfhaus.jpg",
+        "latitude": 48.197553,
+        "longitude": 16.3254,
+        "createDate": "2026-02-01T15:38:38.000Z",
+        "width": 3664,
+        "height": 4432,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                220,
+                240
+              ],
+              "hex": "#bedcf0",
+              "percentage": "0.091"
+            },
+            {
+              "rgb": [
+                140,
+                150,
+                160
+              ],
+              "hex": "#8c96a0",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                50,
+                60,
+                80
+              ],
+              "hex": "#323c50",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "38.627"
         }
       },
       {
@@ -46209,6 +47588,76 @@ export const galleries = [
         }
       },
       {
+        "filename": "Denkmal von Maria Theresia zwischen Natur- und Kunsthistorischem Museum.jpg",
+        "latitude": 48.203994,
+        "longitude": 16.359831,
+        "createDate": "2026-03-05T12:37:44.000Z",
+        "width": 3865,
+        "height": 4307,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                100,
+                170
+              ],
+              "hex": "#0064aa",
+              "percentage": "0.063"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                170
+              ],
+              "hex": "#dcc8aa",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                120,
+                200,
+                240
+              ],
+              "hex": "#78c8f0",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                120,
+                100,
+                90
+              ],
+              "hex": "#78645a",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "57.868"
+        }
+      },
+      {
         "filename": "Der Karl-Marx-Hof Gemeindebau in Heiligenstadt.jpg",
         "latitude": 48.249478,
         "longitude": 16.364239,
@@ -46469,6 +47918,76 @@ export const galleries = [
         }
       },
       {
+        "filename": "Ein Chili con carne, eine Jacke und Papiermüll am Boden des Gehsteigs in der Simmeringer-Hauptstrasse.jpg",
+        "latitude": 48.160703,
+        "longitude": 16.431122,
+        "createDate": "2026-02-28T06:06:08.000Z",
+        "width": 3628,
+        "height": 4545,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                160,
+                170
+              ],
+              "hex": "#8ca0aa",
+              "percentage": "0.086"
+            },
+            {
+              "rgb": [
+                70,
+                80,
+                90
+              ],
+              "hex": "#46505a",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                250
+              ],
+              "hex": "#dce6fa",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                230,
+                150,
+                120
+              ],
+              "hex": "#e69678",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                140,
+                60,
+                40
+              ],
+              "hex": "#8c3c28",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "25.573"
+        }
+      },
+      {
         "filename": "Ein Gebäude mit einem 'Nimm dein Sackerl fürs Gackerl' Papp-Aufsteller davor.jpg",
         "latitude": 48.176692,
         "longitude": 16.409042,
@@ -46616,7 +48135,7 @@ export const galleries = [
         }
       },
       {
-        "filename": "Einfahrt zu einer Garagra im Rochusviertel Landstrasse.jpg",
+        "filename": "Einfahrt zu einer Garage im Rochusviertel Landstrasse.jpg",
         "latitude": 48.20005,
         "longitude": 16.395853,
         "createDate": "2025-12-20T16:55:41.000Z",
@@ -48295,6 +49814,58 @@ export const galleries = [
         }
       },
       {
+        "filename": "Fensterbank in der Simmeringer-Hauptstrasse.jpg",
+        "latitude": 48.168358,
+        "longitude": 16.422219,
+        "createDate": "2026-02-28T06:18:58.000Z",
+        "width": 4235,
+        "height": 5021,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                180,
+                200
+              ],
+              "hex": "#aab4c8",
+              "percentage": "0.060"
+            },
+            {
+              "rgb": [
+                230,
+                240,
+                250
+              ],
+              "hex": "#e6f0fa",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                100,
+                120,
+                130
+              ],
+              "hex": "#647882",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "34.024"
+        }
+      },
+      {
         "filename": "Fensterbögen am Fuchsenfeld Meidling.jpg",
         "latitude": 48.177567,
         "longitude": 16.341067,
@@ -48613,6 +50184,76 @@ export const galleries = [
             }
           ],
           "colorfulness": "43.521"
+        }
+      },
+      {
+        "filename": "Fussgänger, Autoverkehr und U-Bahn-Eingang Stubentor in der Inneren Stadt.jpg",
+        "latitude": 48.207069,
+        "longitude": 16.380192,
+        "createDate": "2026-02-26T16:29:53.000Z",
+        "width": 3555,
+        "height": 5121,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                150,
+                210,
+                240
+              ],
+              "hex": "#96d2f0",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                190,
+                140,
+                90
+              ],
+              "hex": "#be8c5a",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                120,
+                120,
+                130
+              ],
+              "hex": "#787882",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                50
+              ],
+              "hex": "#644632",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "45.196"
         }
       },
       {
@@ -49413,6 +51054,49 @@ export const galleries = [
             }
           ],
           "colorfulness": "30.646"
+        }
+      },
+      {
+        "filename": "Gitter mit Durchsicht in Wien Hernals.jpg",
+        "latitude": 48.219158,
+        "longitude": 16.338672,
+        "createDate": "2026-03-04T18:32:09.000Z",
+        "width": 3784,
+        "height": 5484,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.286"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                250
+              ],
+              "hex": "#fafafa",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "25.916"
         }
       },
       {
@@ -50277,6 +51961,67 @@ export const galleries = [
         }
       },
       {
+        "filename": "Heldenplatz mit Blick auf das Wiener Rathaus.jpg",
+        "latitude": 48.205856,
+        "longitude": 16.363278,
+        "createDate": "2026-03-05T12:31:19.000Z",
+        "width": 4004,
+        "height": 4701,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                130,
+                200
+              ],
+              "hex": "#0a82c8",
+              "percentage": "0.049"
+            },
+            {
+              "rgb": [
+                150,
+                130,
+                110
+              ],
+              "hex": "#96826e",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                150,
+                210,
+                240
+              ],
+              "hex": "#96d2f0",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                70,
+                40,
+                30
+              ],
+              "hex": "#46281e",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "54.065"
+        }
+      },
+      {
         "filename": "Hernalser Friedhof durch den Zug fotografiert.jpg",
         "latitude": 48.225406,
         "longitude": 16.320689,
@@ -50774,6 +52519,76 @@ export const galleries = [
         }
       },
       {
+        "filename": "In der Luft hängendes Auto und Kleinflugzeug in der U-Bahn-Station Schweglerstrasse - Rudolfsheim-Fünfhaus.jpg",
+        "latitude": 48.198169,
+        "longitude": 16.328217,
+        "createDate": "2026-02-01T15:43:10.000Z",
+        "width": 3173,
+        "height": 4913,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                70,
+                70,
+                70
+              ],
+              "hex": "#464646",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                120
+              ],
+              "hex": "#8c8c78",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                190,
+                190,
+                170
+              ],
+              "hex": "#bebeaa",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                90
+              ],
+              "hex": "#f0e65a",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                50,
+                140,
+                170
+              ],
+              "hex": "#328caa",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "37.196"
+        }
+      },
+      {
         "filename": "Innenansicht Albert Schweitzer Haus auf die Garnisongasse.jpg",
         "latitude": 48.216494,
         "longitude": 16.356881,
@@ -50841,6 +52656,67 @@ export const galleries = [
             }
           ],
           "colorfulness": "52.469"
+        }
+      },
+      {
+        "filename": "Innenansicht des Wiener Westbahnhofes in Rudolfsheim Fünfhaus.jpg",
+        "latitude": 48.196747,
+        "longitude": 16.337917,
+        "createDate": "2026-03-05T09:09:44.000Z",
+        "width": 5169,
+        "height": 4042,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                200,
+                210
+              ],
+              "hex": "#bec8d2",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                80,
+                90,
+                110
+              ],
+              "hex": "#505a6e",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                140,
+                10,
+                20
+              ],
+              "hex": "#8c0a14",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "40.954"
         }
       },
       {
@@ -51531,6 +53407,58 @@ export const galleries = [
         }
       },
       {
+        "filename": "Kreuzung Huglgasse - Hütteldorfer-Strasse  in Rudolfsheim-Fünfhaus.jpg",
+        "latitude": 48.198639,
+        "longitude": 16.324725,
+        "createDate": "2026-02-01T15:36:23.000Z",
+        "width": 2639,
+        "height": 4736,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                230,
+                240
+              ],
+              "hex": "#d2e6f0",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                110,
+                120,
+                130
+              ],
+              "hex": "#6e7882",
+              "percentage": "0.015"
+            }
+          ],
+          "colorfulness": "40.715"
+        }
+      },
+      {
         "filename": "Kunst-Struktur am Franz-Haas-Platz - Simmering.jpg",
         "latitude": 48.175744,
         "longitude": 16.418008,
@@ -51580,6 +53508,67 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.456"
+        }
+      },
+      {
+        "filename": "Kunstwerk im Votivpark in Alsergrund.jpg",
+        "latitude": 48.215417,
+        "longitude": 16.360419,
+        "createDate": "2026-02-03T16:09:41.000Z",
+        "width": 3878,
+        "height": 4920,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                30,
+                40
+              ],
+              "hex": "#141e28",
+              "percentage": "0.114"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                240
+              ],
+              "hex": "#dce6f0",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                90,
+                100,
+                120
+              ],
+              "hex": "#5a6478",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                150
+              ],
+              "hex": "#a0a096",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "36.815"
         }
       },
       {
@@ -52164,6 +54153,67 @@ export const galleries = [
         }
       },
       {
+        "filename": "Menschen und Altar der Peterskirche am Graben - Innere Stadt.jpg",
+        "latitude": 48.209225,
+        "longitude": 16.369711,
+        "createDate": "2026-03-05T12:08:31.000Z",
+        "width": 4153,
+        "height": 4947,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.128"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                160
+              ],
+              "hex": "#d2bea0",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                140,
+                110,
+                90
+              ],
+              "hex": "#8c6e5a",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                110,
+                30,
+                140
+              ],
+              "hex": "#6e1e8c",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "43.223"
+        }
+      },
+      {
         "filename": "Meta-Kugel auf Masten nahe Taborstrasse in der Leopoldstadt.jpg",
         "latitude": 48.230603,
         "longitude": 16.391947,
@@ -52408,6 +54458,58 @@ export const galleries = [
         }
       },
       {
+        "filename": "Moped, Autodurchfahrt und Fussgänger in der Hofburg in der Inneren Stadt.jpg",
+        "latitude": 48.207608,
+        "longitude": 16.366411,
+        "createDate": "2026-03-05T12:25:13.000Z",
+        "width": 3428,
+        "height": 5195,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                150,
+                130
+              ],
+              "hex": "#969682",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                180
+              ],
+              "hex": "#d2c8b4",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                20,
+                30,
+                40
+              ],
+              "hex": "#141e28",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "33.148"
+        }
+      },
+      {
         "filename": "Naglergasse in der Inneren Stadt um 9 Uhr morgens.jpg",
         "latitude": 48.209928,
         "longitude": 16.368222,
@@ -52649,6 +54751,58 @@ export const galleries = [
             }
           ],
           "colorfulness": "42.074"
+        }
+      },
+      {
+        "filename": "Orgel in der Malteserkirche in der Kärntner-Strasse - Innere Stadt.jpg",
+        "latitude": 48.205097,
+        "longitude": 16.371294,
+        "createDate": "2026-03-05T11:55:51.000Z",
+        "width": 3288,
+        "height": 4323,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                120,
+                120,
+                110
+              ],
+              "hex": "#78786e",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                170,
+                170,
+                160
+              ],
+              "hex": "#aaaaa0",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                210
+              ],
+              "hex": "#dcdcd2",
+              "percentage": "0.019"
+            }
+          ],
+          "colorfulness": "32.786"
         }
       },
       {
@@ -53633,6 +55787,67 @@ export const galleries = [
         }
       },
       {
+        "filename": "Simmeringer Platz mit Bus & Hochhaus-Fassade.jpg",
+        "latitude": 48.170033,
+        "longitude": 16.420294,
+        "createDate": "2026-03-08T09:51:27.000Z",
+        "width": 3588,
+        "height": 4884,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                90,
+                110
+              ],
+              "hex": "#505a6e",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                230
+              ],
+              "hex": "#dce6e6",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                130,
+                150,
+                170
+              ],
+              "hex": "#8296aa",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                30,
+                30,
+                40
+              ],
+              "hex": "#1e1e28",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "38.562"
+        }
+      },
+      {
         "filename": "Smiley-Satellitenantenne in der Arena Wien.jpg",
         "latitude": 48.187622,
         "longitude": 16.413094,
@@ -53908,6 +56123,76 @@ export const galleries = [
             }
           ],
           "colorfulness": "32.993"
+        }
+      },
+      {
+        "filename": "Spieleautomat in der Plus Bowling Halle in Wien Hernals.jpg",
+        "latitude": 48.2189,
+        "longitude": 16.338519,
+        "createDate": "2026-03-04T18:28:47.000Z",
+        "width": 3546,
+        "height": 5138,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                50
+              ],
+              "hex": "#000032",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                100
+              ],
+              "hex": "#1e1464",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                90,
+                90,
+                140
+              ],
+              "hex": "#5a5a8c",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                180,
+                130,
+                100
+              ],
+              "hex": "#b48264",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                120,
+                60,
+                70
+              ],
+              "hex": "#783c46",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "42.269"
         }
       },
       {
@@ -54268,6 +56553,58 @@ export const galleries = [
         }
       },
       {
+        "filename": "Statue eines Reiters mit Pferd zwischen Natur- und Kunsthistorischem Museum.jpg",
+        "latitude": 48.204058,
+        "longitude": 16.360117,
+        "createDate": "2026-03-05T12:37:19.000Z",
+        "width": 3181,
+        "height": 4565,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                40,
+                50
+              ],
+              "hex": "#142832",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                90,
+                140,
+                190
+              ],
+              "hex": "#5a8cbe",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                180,
+                200,
+                220
+              ],
+              "hex": "#b4c8dc",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "40.439"
+        }
+      },
+      {
         "filename": "Statue im Stadtpark und rote Blumen.jpg",
         "latitude": 48.206183,
         "longitude": 16.380597,
@@ -54317,6 +56654,241 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.991"
+        }
+      },
+      {
+        "filename": "Statue in einem Gemeindebau in der Eisteichstrasse in Simmering.jpg",
+        "latitude": 48.179722,
+        "longitude": 16.411511,
+        "createDate": "2026-02-27T11:13:54.000Z",
+        "width": 3490,
+        "height": 5288,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                210,
+                180
+              ],
+              "hex": "#e6d2b4",
+              "percentage": "0.046"
+            },
+            {
+              "rgb": [
+                10,
+                130,
+                210
+              ],
+              "hex": "#0a82d2",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                110,
+                70,
+                60
+              ],
+              "hex": "#6e463c",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                100,
+                120,
+                140
+              ],
+              "hex": "#64788c",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "62.790"
+        }
+      },
+      {
+        "filename": "Statue und Tische im Cafe & Eis Bortolloti in Wien Neubau.jpg",
+        "latitude": 48.200692,
+        "longitude": 16.357189,
+        "createDate": "2026-03-05T13:56:57.000Z",
+        "width": 3580,
+        "height": 4821,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                200,
+                180
+              ],
+              "hex": "#dcc8b4",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                30
+              ],
+              "hex": "#28141e",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                150
+              ],
+              "hex": "#aaa096",
+              "percentage": "0.015"
+            }
+          ],
+          "colorfulness": "41.941"
+        }
+      },
+      {
+        "filename": "Statue von Maria Theresia zwischen Natur- und Kunsthistorischen Museum mit Menschen davor.jpg",
+        "latitude": 48.204322,
+        "longitude": 16.360608,
+        "createDate": "2026-03-05T12:36:34.000Z",
+        "width": 3350,
+        "height": 4941,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                90,
+                150
+              ],
+              "hex": "#005a96",
+              "percentage": "0.084"
+            },
+            {
+              "rgb": [
+                130,
+                100,
+                80
+              ],
+              "hex": "#826450",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                180
+              ],
+              "hex": "#d2c8b4",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "52.127"
+        }
+      },
+      {
+        "filename": "Statue zweier kämpfender Männer an der Fassade der Hofburg in der Inneren Stadt.jpg",
+        "latitude": 48.2074,
+        "longitude": 16.365706,
+        "createDate": "2026-03-05T12:26:39.000Z",
+        "width": 3499,
+        "height": 5580,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                0,
+                0
+              ],
+              "hex": "#0a0000",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                210,
+                190,
+                160
+              ],
+              "hex": "#d2bea0",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                140,
+                130,
+                110
+              ],
+              "hex": "#8c826e",
+              "percentage": "0.015"
+            }
+          ],
+          "colorfulness": "39.800"
         }
       },
       {
@@ -54430,6 +57002,67 @@ export const galleries = [
             }
           ],
           "colorfulness": "28.295"
+        }
+      },
+      {
+        "filename": "Statuen, Fahrräder und Autodurchfahrt in der Hofburg in der Inneren Stadt.jpg",
+        "latitude": 48.207489,
+        "longitude": 16.365769,
+        "createDate": "2026-03-05T12:26:15.000Z",
+        "width": 3856,
+        "height": 4104,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                160,
+                150
+              ],
+              "hex": "#aaa096",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                40,
+                50,
+                70
+              ],
+              "hex": "#283246",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "34.424"
         }
       },
       {
@@ -54973,6 +57606,119 @@ export const galleries = [
         }
       },
       {
+        "filename": "Strasse, U-Bahn-Trasse und Gehsteig mit einme Fussgänger nahe Kendlerstrasse - Ottakring.jpg",
+        "latitude": 48.206028,
+        "longitude": 16.309589,
+        "createDate": "2026-02-01T15:10:20.000Z",
+        "width": 3305,
+        "height": 3863,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                160,
+                160
+              ],
+              "hex": "#96a0a0",
+              "percentage": "0.051"
+            },
+            {
+              "rgb": [
+                210,
+                230,
+                240
+              ],
+              "hex": "#d2e6f0",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                30,
+                50,
+                70
+              ],
+              "hex": "#1e3246",
+              "percentage": "0.022"
+            }
+          ],
+          "colorfulness": "32.090"
+        }
+      },
+      {
+        "filename": "Tafel und Strassebahn-Gleise am Europaplatz gegenüber des Westbahnhofes.jpg",
+        "latitude": 48.196411,
+        "longitude": 16.339144,
+        "createDate": "2026-03-05T09:05:11.000Z",
+        "width": 3841,
+        "height": 4493,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.067"
+            },
+            {
+              "rgb": [
+                90,
+                100,
+                110
+              ],
+              "hex": "#5a646e",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                180,
+                150,
+                130
+              ],
+              "hex": "#b49682",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                220
+              ],
+              "hex": "#dce6dc",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "35.699"
+        }
+      },
+      {
         "filename": "Tankstelle nahe S-Bahn-Station Grillgasse in Simmering.jpg",
         "latitude": 48.166803,
         "longitude": 16.410225,
@@ -55092,6 +57838,58 @@ export const galleries = [
             }
           ],
           "colorfulness": "37.602"
+        }
+      },
+      {
+        "filename": "Tauben auf einem Glasdach am Westbahnhof - Rudolsheim-Fünfhaus.jpg",
+        "latitude": 48.196686,
+        "longitude": 16.337369,
+        "createDate": "2026-03-05T09:20:27.000Z",
+        "width": 4828,
+        "height": 4472,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Typografie",
+          "Kultur",
+          "Kunst",
+          "Park",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                120,
+                180
+              ],
+              "hex": "#0a78b4",
+              "percentage": "0.064"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.047"
+            },
+            {
+              "rgb": [
+                120,
+                110,
+                100
+              ],
+              "hex": "#786e64",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "54.398"
         }
       },
       {
@@ -57113,8 +59911,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "7. Juni 2024 - 30. Januar 2026",
-    "imageCount": 246,
+    "timeframe": "7. Juni 2024 - 8. März 2026",
+    "imageCount": 281,
     "tags": [
       "Österreich",
       "Wien",
@@ -58018,6 +60816,55 @@ export const galleries = [
         }
       },
       {
+        "filename": "Grab von Ernst Jandl und Frederike Mayröcker.jpg",
+        "latitude": 48.151161,
+        "longitude": 16.439853,
+        "createDate": "2026-03-08T11:16:09.000Z",
+        "width": 3907,
+        "height": 4274,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                80,
+                90
+              ],
+              "hex": "#50505a",
+              "percentage": "0.041"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                210
+              ],
+              "hex": "#d2d2d2",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "25.632"
+        }
+      },
+      {
         "filename": "Grab von Franz Jonas.jpg",
         "latitude": 48.151286,
         "longitude": 16.438678,
@@ -58336,6 +61183,73 @@ export const galleries = [
             }
           ],
           "colorfulness": "40.488"
+        }
+      },
+      {
+        "filename": "Kirche zum Heiligen St. Bartolomäus.jpg",
+        "latitude": 48.151658,
+        "longitude": 16.437061,
+        "createDate": "2026-03-08T11:03:39.000Z",
+        "width": 3336,
+        "height": 4829,
+        "tags": [
+          "Österreich",
+          "Wien",
+          "Landschaft",
+          "Architektur",
+          "Stadt",
+          "Friedhof",
+          "Statuen"
+        ],
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                190,
+                200
+              ],
+              "hex": "#aabec8",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                120,
+                130,
+                150
+              ],
+              "hex": "#788296",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                110,
+                190,
+                230
+              ],
+              "hex": "#6ebee6",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                230
+              ],
+              "hex": "#dce6e6",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                70,
+                70,
+                60
+              ],
+              "hex": "#46463c",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "38.233"
         }
       },
       {
@@ -58740,8 +61654,8 @@ export const galleries = [
         }
       }
     ],
-    "timeframe": "3. November 2024 - 4. Januar 2026",
-    "imageCount": 30,
+    "timeframe": "3. November 2024 - 8. März 2026",
+    "imageCount": 32,
     "tags": [
       "Österreich",
       "Wien",
