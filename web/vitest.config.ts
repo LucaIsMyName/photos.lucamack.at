@@ -17,6 +17,7 @@ export default defineConfig({
   resolve: {
     alias: {
       '@': resolve(__dirname, './src'),
+      '@slugify': resolve(__dirname, './slugify.mjs'),
     },
   },
 });

@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { slugifyImageStem } from './slugify.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -10,19 +11,6 @@ const apiDir = path.join(publicDir, 'api');
 const pagesContentDir = path.join(__dirname, 'content/pages');
 
 const BASE_URL = "https://photos.lucamack.at";
-
-function slugify(text) {
-  return text
-    .toString()
-    .toLowerCase()
-    .normalize('NFD') // split an accented letter in the base letter and the acent
-    .replace(/[\u0300-\u036f]/g, '') // remove all previously split accents
-    .replace(/\s+/g, '-') // Replace spaces with -
-    .replace(/[^\w\-]+/g, '') // Remove all non-word chars
-    .replace(/\-\-+/g, '-') // Replace multiple - with single -
-    .replace(/^-+/, '') // Trim - from start of text
-    .replace(/-+$/, ''); // Trim - from end of text
-}
 
 function getGalleries() {
   const galleriesPath = path.join(apiDir, 'galleries.json');
@@ -63,7 +51,7 @@ function generateSitemap() {
       gallery.images.forEach(image => {
         if (image && image.name) {
           const imageName = image.name.replace(/\.[^/.]+$/, "");
-          urls.push({ loc: `${BASE_URL}/gallery/${gallery.slug}/image/${slugify(imageName)}`, changefreq: 'yearly', priority: '0.6' });
+          urls.push({ loc: `${BASE_URL}/gallery/${gallery.slug}/image/${slugifyImageStem(imageName)}`, changefreq: 'yearly', priority: '0.6' });
         }
       });
     }

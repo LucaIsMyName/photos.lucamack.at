@@ -31,11 +31,14 @@ export interface Image {
   index?: number;
   colorData?: {
     dominantColors: {
-      rgb: [number, number, number];
+      /** Parsed JSON uses `number[]`; treat as length-3 RGB at runtime. */
+      rgb: [number, number, number] | number[];
       hex: string;
-      percentage: number;
+      /** Emitted as fixed-point strings from the generator (e.g. `"0.037"`). */
+      percentage: string | number;
     }[];
-    colorfulness: number;
+    /** Emitted as a string from the generator (e.g. `"50.933"`). */
+    colorfulness: string | number;
   };
   // Creative Commons and licensing metadata
   acquireLicensePage?: string;

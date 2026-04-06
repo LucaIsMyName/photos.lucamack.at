@@ -9,10 +9,10 @@ interface FoundImage {
   gallery: Gallery;
 }
 
-export const useImage = (): FoundImage | undefined | any => {
+export const useImage = (): FoundImage | undefined => {
   const { gallerySlug, slug } = useParams<{ gallerySlug: string; slug: string }>();
 
-  const foundImage: FoundImage | undefined | any = useMemo(() => {
+  const foundImage = useMemo((): FoundImage | undefined => {
     if (!gallerySlug || !slug) return undefined;
 
     const gallery = galleries.find((g) => g.slug === gallerySlug);

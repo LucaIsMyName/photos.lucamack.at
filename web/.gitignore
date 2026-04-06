@@ -16,6 +16,8 @@ countries.geojson
 
 dist/
 
+.vite-react-ssg-temp/
+
 /content/**/*.jpg
 /content/**/*.jpeg
 /content/**/*.png

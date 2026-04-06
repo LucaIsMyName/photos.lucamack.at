@@ -1,5 +1,6 @@
 import type { Gallery, Image } from './types';
 import { parseCreateDate } from './utils/date';
+import { parseGalleriesJson, parseImagesJson } from './schemas/catalogData';
 
 // --- Data Loading ---
 
@@ -11,7 +12,11 @@ async function loadData() {
   if (images.length === 0) {
     try {
       const imagesResponse = await fetch('/api/images.json');
-      images = await imagesResponse.json();
+      if (!imagesResponse.ok) {
+        throw new Error(`images.json: ${imagesResponse.status} ${imagesResponse.statusText}`);
+      }
+      const json: unknown = await imagesResponse.json();
+      images = parseImagesJson(json);
     } catch (error) {
       console.error('Failed to load images.json:', error);
       images = [];
@@ -21,7 +26,11 @@ async function loadData() {
   if (galleries.length === 0) {
     try {
       const galleriesResponse = await fetch('/api/galleries.json');
-      galleries = await galleriesResponse.json();
+      if (!galleriesResponse.ok) {
+        throw new Error(`galleries.json: ${galleriesResponse.status} ${galleriesResponse.statusText}`);
+      }
+      const json: unknown = await galleriesResponse.json();
+      galleries = parseGalleriesJson(json);
     } catch (error) {
       console.error('Failed to load galleries.json:', error);
       galleries = [];
@@ -123,7 +132,7 @@ export async function getImages(params: ApiParams = {}): Promise<Image[]> {
 export async function getGalleries(params: ApiParams = {}): Promise<Gallery[]> {
   await loadData();
   // Start with a fresh copy of all galleries
-  let processedGalleries = JSON.parse(JSON.stringify(galleries)) as Gallery[];
+  const processedGalleries = JSON.parse(JSON.stringify(galleries)) as Gallery[];
 
   // --- Step 1: Filter IMAGES inside each gallery ---
   // If any image-specific filters are present, we first filter the `images` array within each gallery.
@@ -150,7 +159,15 @@ export async function getGalleries(params: ApiParams = {}): Promise<Gallery[]> {
       if (params.latitudeStart) {
         imagesInGallery = imagesInGallery.filter(img => img.latitude && img.latitude >= params.latitudeStart!);
       }
-      // ... add other image-level filters (lat, long) here if needed ...
+      if (params.latitudeEnd) {
+        imagesInGallery = imagesInGallery.filter(img => img.latitude && img.latitude <= params.latitudeEnd!);
+      }
+      if (params.longitudeStart) {
+        imagesInGallery = imagesInGallery.filter(img => img.longitude && img.longitude >= params.longitudeStart!);
+      }
+      if (params.longitudeEnd) {
+        imagesInGallery = imagesInGallery.filter(img => img.longitude && img.longitude <= params.longitudeEnd!);
+      }
 
       gallery.images = imagesInGallery;
     });

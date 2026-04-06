@@ -1,7 +1,7 @@
 {
   "name": "web",
   "private": true,
-  "version": "1.7.0",
+  "version": "1.7.1",
   "type": "module",
   "description": "Photo Gallery & Notebook with Node, Vite, React & Tailwind.",
   "author": "Luca Mack",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "dev": "vite --mode development",
-    "clean": "rimraf dist",
+    "clean": "rimraf dist .vite-react-ssg-temp",
     "build": "npm run clean && npm run generate && tsc -b && vite-react-ssg build",
     "build:only": "npm run clean && tsc -b && vite-react-ssg build",
     "lint": "eslint .",

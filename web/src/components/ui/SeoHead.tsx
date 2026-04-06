@@ -52,26 +52,26 @@ const SeoHead = ({ title, description, imageUrl = `${CONFIG.url}/content/galleri
       {hasOg && (
         <>
           <meta
-            name="og:title"
+            property="og:title"
             content={title ? title : CONFIG.author}
           />
           {description && (
             <meta
-              name="og:description"
+              property="og:description"
               content={description}
             />
           )}
           <meta
-            name="og:type"
+            property="og:type"
             content={ogType}
           />
           <meta
-            name="og:url"
+            property="og:url"
             content={currentUrl}
           />
           {imageUrl && (
             <meta
-              name="og:image"
+              property="og:image"
               content={imageUrl}
             />
           )}

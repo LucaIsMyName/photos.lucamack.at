@@ -4,6 +4,7 @@ import { fileURLToPath } from 'url';
 import heicConvert from 'heic-convert';
 import sharp from 'sharp';
 import { ExifTool } from 'exiftool-vendored';
+import { slugifyGalleryFolder } from './slugify.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -18,18 +19,6 @@ const apiDir = path.join(publicDir, 'api');
 
 const responsiveSizes = [160, 380, 640, 1440];
 const baseUrl = "https://photos.lucamack.at";
-
-function slugify(text) {
-  return text
-    .toString()
-    .normalize('NFC')
-    .toLowerCase()
-    .replace(/ä/g, 'ae')
-    .replace(/ö/g, 'oe')
-    .replace(/ü/g, 'ue')
-    .replace(/ß/g, 'ss')
-    .replace(/ /g, '_');
-}
 
 async function generateGalleries() {
   const exiftool = new ExifTool();
@@ -52,7 +41,7 @@ async function generateGalleries() {
 
   const galleryPromises = directories.map(async (name) => {
     const galleryDir = path.join(galleriesPath, name);
-    const gallerySlug = slugify(name);
+    const gallerySlug = slugifyGalleryFolder(name);
     const publicGalleryDir = path.join(publicGalleriesDir, gallerySlug);
 
     if (!fs.existsSync(publicGalleryDir)) {

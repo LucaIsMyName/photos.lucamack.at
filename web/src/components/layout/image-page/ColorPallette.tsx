@@ -1,18 +1,20 @@
-const ColorPallette = ({ image }: { image: any }) => {
+import type { Image } from "../../../types";
+
+const ColorPallette = ({ image }: { image: Image }) => {
   // Handle case where dominantColors might not exist (removed to reduce file size)
   const dominantColors = image.colorData?.dominantColors || [];
-  
+
   return (
     <div data-component="" className="w-full pb-4 md:pb-4 max-w-4xl mt-8 pt-8 border-t border-neutral-500/50 border-dotted">
       <h2 className="text-base mb-4">Farbpalette</h2>
       {dominantColors.length > 0 ? (
         <div className="flex flex-wrap gap-4 mb-4">
-          {dominantColors.map((color: any, index: any) => {
+          {dominantColors.map((color, index) => {
             return (
               <div
                 key={index}
                 className="relative group cursor-pointer"
-                title={`${color.hex} (${Math.round(color.percentage * 100)}%)`}
+                title={`${color.hex} (${Math.round(Number(color.percentage) * 100)}%)`}
                 onClick={() => {
                   navigator.clipboard.writeText(color.hex);
                   // Optional: Add a visual feedback for copy

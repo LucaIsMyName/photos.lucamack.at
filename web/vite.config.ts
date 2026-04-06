@@ -2,6 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 import { visualizer } from 'rollup-plugin-visualizer'
+import { resolve } from 'node:path'
 
 // https://vite.dev/config/
 export default defineConfig({
@@ -15,7 +16,7 @@ export default defineConfig({
     }),
     tailwindcss(),
     visualizer({
-      open: true,
+      open: !process.env.CI && process.env.VITE_STATS_OPEN !== '0',
       filename: 'dist/stats.html',
     }),
   ],
@@ -38,6 +39,9 @@ export default defineConfig({
     include: ['react-is'],
   },
   resolve: {
+    alias: {
+      '@slugify': resolve(__dirname, 'slugify.mjs'),
+    },
     dedupe: ['react-is'],
   },
   ssgOptions: {
