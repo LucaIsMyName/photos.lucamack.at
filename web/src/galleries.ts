@@ -14564,6 +14564,4984 @@ export const galleries = [
     ]
   },
   {
+    "name": "hamburg",
+    "slug": "hamburg",
+    "title": "Hamburg",
+    "description": "Moin",
+    "images": [
+      {
+        "filename": "'Bleib dran, gib niemals auf'-Bus nahe Landungsbrücken.jpg",
+        "latitude": 53.546089,
+        "longitude": 9.958089,
+        "createDate": "2026-04-02T09:21:13.000Z",
+        "width": 3116,
+        "height": 5397,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                40,
+                70
+              ],
+              "hex": "#142846",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                120,
+                130,
+                140
+              ],
+              "hex": "#78828c",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                160,
+                200,
+                240
+              ],
+              "hex": "#a0c8f0",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                10,
+                100,
+                190
+              ],
+              "hex": "#0a64be",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "48.570"
+        }
+      },
+      {
+        "filename": "'Block X' Strassenschild in der Speicherstadt.jpg",
+        "latitude": 53.544978,
+        "longitude": 10.000233,
+        "createDate": "2026-04-02T19:51:03.000Z",
+        "width": 2459,
+        "height": 2562,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.130"
+            },
+            {
+              "rgb": [
+                200,
+                170,
+                130
+              ],
+              "hex": "#c8aa82",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                190,
+                220,
+                210
+              ],
+              "hex": "#bedcd2",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                60,
+                170,
+                100
+              ],
+              "hex": "#3caa64",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                0,
+                130,
+                50
+              ],
+              "hex": "#008232",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "41.474"
+        }
+      },
+      {
+        "filename": "'Bunker' nahe Feldstrasse - Karolinen-Viertel.jpg",
+        "latitude": 53.557003,
+        "longitude": 9.969722,
+        "createDate": "2026-04-01T10:22:48.000Z",
+        "width": 2280,
+        "height": 2540,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                200,
+                250
+              ],
+              "hex": "#96c8fa",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                40,
+                50,
+                60
+              ],
+              "hex": "#28323c",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                140
+              ],
+              "hex": "#d2c88c",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "45.589"
+        }
+      },
+      {
+        "filename": "'Cherry Spielhalle' an der Reeperbahn.jpg",
+        "latitude": 53.549939,
+        "longitude": 9.957583,
+        "createDate": "2026-03-31T20:28:16.000Z",
+        "width": 3789,
+        "height": 3576,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                190
+              ],
+              "hex": "#c8c8be",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                230,
+                70,
+                90
+              ],
+              "hex": "#e6465a",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                70,
+                140,
+                240
+              ],
+              "hex": "#468cf0",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                240,
+                150,
+                100
+              ],
+              "hex": "#f09664",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "48.222"
+        }
+      },
+      {
+        "filename": "'Clean Car' Aufsteller bei einer Tankstelle in Altona.jpg",
+        "latitude": 53.548519,
+        "longitude": 9.944175,
+        "createDate": "2026-04-01T16:05:48.000Z",
+        "width": 2407,
+        "height": 3735,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.097"
+            },
+            {
+              "rgb": [
+                0,
+                60,
+                120
+              ],
+              "hex": "#003c78",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                190,
+                180,
+                160
+              ],
+              "hex": "#beb4a0",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                230
+              ],
+              "hex": "#dce6e6",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                100,
+                110,
+                80
+              ],
+              "hex": "#646e50",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "48.448"
+        }
+      },
+      {
+        "filename": "'Der Spiegel' Leuchtreklame am Spiegel-Hochhaus.jpg",
+        "latitude": 53.5443,
+        "longitude": 10.003914,
+        "createDate": "2026-04-02T19:43:38.000Z",
+        "width": 2526,
+        "height": 2826,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.201"
+            },
+            {
+              "rgb": [
+                240,
+                250,
+                250
+              ],
+              "hex": "#f0fafa",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                180
+              ],
+              "hex": "#d2c8b4",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "49.338"
+        }
+      },
+      {
+        "filename": "'Die Mettgala' Poster-Werbung in der Bullerei im Schanzenviertel.jpg",
+        "latitude": 53.563086,
+        "longitude": 9.965856,
+        "createDate": "2026-04-01T13:43:00.000Z",
+        "width": 2218,
+        "height": 3070,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                220,
+                220
+              ],
+              "hex": "#d2dcdc",
+              "percentage": "0.112"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                160,
+                0,
+                30
+              ],
+              "hex": "#a0001e",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                210,
+                140,
+                130
+              ],
+              "hex": "#d28c82",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                60,
+                50,
+                60
+              ],
+              "hex": "#3c323c",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "45.759"
+        }
+      },
+      {
+        "filename": "'Fischbrötchen' Verkauf an der Elbe nahe Landungsbrücken.jpg",
+        "latitude": 53.545319,
+        "longitude": 9.970797,
+        "createDate": "2026-03-31T14:48:31.000Z",
+        "width": 4648,
+        "height": 2447,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                210,
+                230
+              ],
+              "hex": "#bed2e6",
+              "percentage": "0.111"
+            },
+            {
+              "rgb": [
+                0,
+                70,
+                200
+              ],
+              "hex": "#0046c8",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                120,
+                130,
+                150
+              ],
+              "hex": "#788296",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                80,
+                90,
+                110
+              ],
+              "hex": "#505a6e",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                90
+              ],
+              "hex": "#000a5a",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "49.710"
+        }
+      },
+      {
+        "filename": "'Free all beings' Graffitti-Tag auf einem Mülleimer .jpg",
+        "latitude": 53.548992,
+        "longitude": 9.948308,
+        "createDate": "2026-04-02T18:37:53.000Z",
+        "width": 2121,
+        "height": 3558,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                10,
+                30
+              ],
+              "hex": "#500a1e",
+              "percentage": "0.064"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                130
+              ],
+              "hex": "#8c8c82",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                180
+              ],
+              "hex": "#c8c8b4",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "44.536"
+        }
+      },
+      {
+        "filename": "'Hochbahn' Schriftzug und EIngang zur Station Klostertor in Eppendorf.jpg",
+        "latitude": 53.581078,
+        "longitude": 9.988458,
+        "createDate": "2026-04-02T12:51:40.000Z",
+        "width": 3963,
+        "height": 4749,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                190,
+                180
+              ],
+              "hex": "#c8beb4",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                10,
+                10,
+                20
+              ],
+              "hex": "#0a0a14",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                230
+              ],
+              "hex": "#dcdce6",
+              "percentage": "0.022"
+            }
+          ],
+          "colorfulness": "40.808"
+        }
+      },
+      {
+        "filename": "'Jesus lebt' Leuchtreklame in St. Pauli.jpg",
+        "latitude": 53.550061,
+        "longitude": 9.9602,
+        "createDate": "2026-03-31T18:12:51.000Z",
+        "width": 3009,
+        "height": 1766,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.106"
+            },
+            {
+              "rgb": [
+                110,
+                160,
+                200
+              ],
+              "hex": "#6ea0c8",
+              "percentage": "0.069"
+            },
+            {
+              "rgb": [
+                230,
+                40,
+                0
+              ],
+              "hex": "#e62800",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "56.871"
+        }
+      },
+      {
+        "filename": "'Karl-Lagerfeld-Promenade' in der Altstadt nahe der Binnen-Alster.jpg",
+        "latitude": 53.550675,
+        "longitude": 9.989797,
+        "createDate": "2026-03-31T11:07:46.000Z",
+        "width": 3782,
+        "height": 5043,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                150,
+                160
+              ],
+              "hex": "#8c96a0",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                130,
+                190,
+                240
+              ],
+              "hex": "#82bef0",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                80,
+                0,
+                20
+              ],
+              "hex": "#500014",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "41.471"
+        }
+      },
+      {
+        "filename": "'Kleine Freiheit' Strassenschild in Altona.jpg",
+        "latitude": 53.551861,
+        "longitude": 9.956014,
+        "createDate": "2026-03-31T20:49:58.000Z",
+        "width": 2336,
+        "height": 2332,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                40,
+                80
+              ],
+              "hex": "#0a2850",
+              "percentage": "0.073"
+            },
+            {
+              "rgb": [
+                100,
+                130,
+                150
+              ],
+              "hex": "#648296",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                160
+              ],
+              "hex": "#faf0a0",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                210,
+                230,
+                250
+              ],
+              "hex": "#d2e6fa",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "29.787"
+        }
+      },
+      {
+        "filename": "'Königstrasse' Schriftzug in der S-Bahn-Station Königstrasse in Altona.jpg",
+        "latitude": 53.548089,
+        "longitude": 9.944883,
+        "createDate": "2026-03-31T09:10:50.000Z",
+        "width": 3912,
+        "height": 3724,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                100,
+                60,
+                40
+              ],
+              "hex": "#643c28",
+              "percentage": "0.077"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                110
+              ],
+              "hex": "#faf06e",
+              "percentage": "0.050"
+            },
+            {
+              "rgb": [
+                140,
+                150,
+                80
+              ],
+              "hex": "#8c9650",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "50.575"
+        }
+      },
+      {
+        "filename": "'Lecker Bierchen Allee' Sticker in St. Pauli.jpg",
+        "latitude": 53.548053,
+        "longitude": 9.945225,
+        "createDate": "2026-04-01T08:51:50.000Z",
+        "width": 3006,
+        "height": 2398,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                30,
+                40
+              ],
+              "hex": "#e61e28",
+              "percentage": "0.137"
+            },
+            {
+              "rgb": [
+                240,
+                210,
+                140
+              ],
+              "hex": "#f0d28c",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                150,
+                10,
+                20
+              ],
+              "hex": "#960a14",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                90,
+                110,
+                70
+              ],
+              "hex": "#5a6e46",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "63.391"
+        }
+      },
+      {
+        "filename": "'Loch Mess' Müllspruch in Hamburg.jpg",
+        "latitude": 53.564269,
+        "longitude": 9.977283,
+        "createDate": "2026-04-01T14:39:06.000Z",
+        "width": 2206,
+        "height": 3260,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                0,
+                30
+              ],
+              "hex": "#50001e",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                10,
+                40,
+                70
+              ],
+              "hex": "#0a2846",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                250,
+                40,
+                50
+              ],
+              "hex": "#fa2832",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                190
+              ],
+              "hex": "#d2c8be",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                90,
+                120,
+                150
+              ],
+              "hex": "#5a7896",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "57.137"
+        }
+      },
+      {
+        "filename": "'Mit Dildos gegen das Patriarchat' Fensterauslage im Gänge-Viertl.jpg",
+        "latitude": 53.555289,
+        "longitude": 9.984331,
+        "createDate": "2026-04-02T10:58:52.000Z",
+        "width": 4215,
+        "height": 3617,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                210,
+                210
+              ],
+              "hex": "#dcd2d2",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                140
+              ],
+              "hex": "#82828c",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                0,
+                20,
+                160
+              ],
+              "hex": "#0014a0",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                10,
+                70,
+                200
+              ],
+              "hex": "#0a46c8",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "47.945"
+        }
+      },
+      {
+        "filename": "'Olaf ist an allem Scholz' Sticker nahe des Altonaer Rathauses.jpg",
+        "latitude": 53.548733,
+        "longitude": 9.936244,
+        "createDate": "2026-04-02T08:40:43.000Z",
+        "width": 3180,
+        "height": 5447,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                190,
+                230
+              ],
+              "hex": "#a0bee6",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                50,
+                80,
+                110
+              ],
+              "hex": "#32506e",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                180,
+                80,
+                130
+              ],
+              "hex": "#b45082",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                150,
+                170,
+                90
+              ],
+              "hex": "#96aa5a",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                150,
+                230,
+                70
+              ],
+              "hex": "#96e646",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "35.534"
+        }
+      },
+      {
+        "filename": "'Pace' Flagge und Bäume.jpg",
+        "latitude": 53.558514,
+        "longitude": 9.966975,
+        "createDate": "2026-04-01T11:46:11.000Z",
+        "width": 1339,
+        "height": 3138,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                110,
+                160,
+                240
+              ],
+              "hex": "#6ea0f0",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                40,
+                50,
+                80
+              ],
+              "hex": "#283250",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                100,
+                20,
+                20
+              ],
+              "hex": "#641414",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                170,
+                100,
+                40
+              ],
+              "hex": "#aa6428",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "40.469"
+        }
+      },
+      {
+        "filename": "'Plaza' und Glas-Fassaden-Esemble im 8. Stock der Elbphilharmonie.jpg",
+        "latitude": 53.541725,
+        "longitude": 9.984556,
+        "createDate": "2026-03-31T17:37:47.000Z",
+        "width": 4230,
+        "height": 4589,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                20,
+                40
+              ],
+              "hex": "#141428",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                200,
+                130,
+                70
+              ],
+              "hex": "#c88246",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                150,
+                220,
+                250
+              ],
+              "hex": "#96dcfa",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "39.955"
+        }
+      },
+      {
+        "filename": "'Polizei, Polizei, Polizei' Schilder in Brambek.jpg",
+        "latitude": 53.611175,
+        "longitude": 10.080356,
+        "createDate": "2026-04-03T09:22:08.000Z",
+        "width": 3741,
+        "height": 4927,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                210,
+                210
+              ],
+              "hex": "#d2d2d2",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                60,
+                60,
+                70
+              ],
+              "hex": "#3c3c46",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                90,
+                0,
+                10
+              ],
+              "hex": "#5a000a",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "39.405"
+        }
+      },
+      {
+        "filename": "'Schreib die Welt nicht ab, schreib Sie um' Werbung in der U-Bahn-Station Rathaus.jpg",
+        "latitude": 53.551686,
+        "longitude": 9.994453,
+        "createDate": "2026-04-02T20:31:02.000Z",
+        "width": 4091,
+        "height": 4555,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                120,
+                100
+              ],
+              "hex": "#967864",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                30,
+                0,
+                0
+              ],
+              "hex": "#1e0000",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                220,
+                200,
+                160
+              ],
+              "hex": "#dcc8a0",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                250,
+                140,
+                60
+              ],
+              "hex": "#fa8c3c",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                190,
+                60,
+                0
+              ],
+              "hex": "#be3c00",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "45.365"
+        }
+      },
+      {
+        "filename": "'Strandparle', Strand und Elbe in Blankenese.jpg",
+        "latitude": 53.544547,
+        "longitude": 9.9055,
+        "createDate": "2026-04-01T17:33:34.000Z",
+        "width": 3603,
+        "height": 4996,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.147"
+            },
+            {
+              "rgb": [
+                210,
+                220,
+                230
+              ],
+              "hex": "#d2dce6",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                90,
+                70,
+                30
+              ],
+              "hex": "#5a461e",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                100,
+                110,
+                120
+              ],
+              "hex": "#646e78",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "47.994"
+        }
+      },
+      {
+        "filename": "'Table-Dance' Reklame an der Reeperbahn.jpg",
+        "latitude": 53.549847,
+        "longitude": 9.958217,
+        "createDate": "2026-03-31T20:28:51.000Z",
+        "width": 2538,
+        "height": 3135,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                250
+              ],
+              "hex": "#0000fa",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                50
+              ],
+              "hex": "#000032",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                60,
+                0,
+                150
+              ],
+              "hex": "#3c0096",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                80,
+                80,
+                240
+              ],
+              "hex": "#5050f0",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                240
+              ],
+              "hex": "#8282f0",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "50.637"
+        }
+      },
+      {
+        "filename": "'Tattoo' Fliesen nahe dem Gänge-Viertel.jpg",
+        "latitude": 53.552228,
+        "longitude": 9.9769,
+        "createDate": "2026-04-02T10:39:38.000Z",
+        "width": 3831,
+        "height": 5342,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                210,
+                110
+              ],
+              "hex": "#f0d26e",
+              "percentage": "0.102"
+            },
+            {
+              "rgb": [
+                230,
+                240,
+                250
+              ],
+              "hex": "#e6f0fa",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                100,
+                10,
+                30
+              ],
+              "hex": "#640a1e",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "55.131"
+        }
+      },
+      {
+        "filename": "'U3' Schild in der U-Bahn-Station Rathaus.jpg",
+        "latitude": 53.551625,
+        "longitude": 9.994311,
+        "createDate": "2026-04-02T20:32:25.000Z",
+        "width": 3526,
+        "height": 1399,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                210,
+                200
+              ],
+              "hex": "#d2d2c8",
+              "percentage": "0.074"
+            },
+            {
+              "rgb": [
+                240,
+                170,
+                40
+              ],
+              "hex": "#f0aa28",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                140
+              ],
+              "hex": "#a0a08c",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                20
+              ],
+              "hex": "#644614",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "51.954"
+        }
+      },
+      {
+        "filename": "'Ultra St. Pauli' Sticker am Altonaer Balkon.jpg",
+        "latitude": 53.545314,
+        "longitude": 9.935314,
+        "createDate": "2026-04-02T08:55:26.000Z",
+        "width": 5081,
+        "height": 2688,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                240,
+                250
+              ],
+              "hex": "#e6f0fa",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                110,
+                140,
+                60
+              ],
+              "hex": "#6e8c3c",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                80,
+                110,
+                160
+              ],
+              "hex": "#506ea0",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                150,
+                160,
+                170
+              ],
+              "hex": "#96a0aa",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "39.421"
+        }
+      },
+      {
+        "filename": "'Wer Wald säht wird Zukunft ernten' Poster in Hamburg nahe der Speicherstadt.jpg",
+        "latitude": 53.545064,
+        "longitude": 9.993522,
+        "createDate": "2026-04-02T20:03:09.000Z",
+        "width": 2415,
+        "height": 3030,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                30
+              ],
+              "hex": "#0a0a1e",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                60,
+                50,
+                50
+              ],
+              "hex": "#3c3232",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                130,
+                30,
+                20
+              ],
+              "hex": "#821e14",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                170,
+                130,
+                80
+              ],
+              "hex": "#aa8250",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "45.395"
+        }
+      },
+      {
+        "filename": "'Werkstatt geöffnet' in einem Rad-Shop.jpg",
+        "latitude": 53.559528,
+        "longitude": 9.964375,
+        "createDate": "2026-04-01T12:00:36.000Z",
+        "width": 4532,
+        "height": 3741,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                80,
+                90,
+                110
+              ],
+              "hex": "#505a6e",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                250
+              ],
+              "hex": "#fafafa",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                100,
+                240,
+                180
+              ],
+              "hex": "#64f0b4",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                230,
+                110,
+                90
+              ],
+              "hex": "#e66e5a",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "38.643"
+        }
+      },
+      {
+        "filename": "'Wut und Trauer. Zu Wiederstand' Graffitti im Karolinen-Viertel.jpg",
+        "latitude": 53.558308,
+        "longitude": 9.967619,
+        "createDate": "2026-04-01T11:44:53.000Z",
+        "width": 4389,
+        "height": 3774,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                200,
+                250
+              ],
+              "hex": "#8cc8fa",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                40
+              ],
+              "hex": "#000028",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                50,
+                80,
+                100
+              ],
+              "hex": "#325064",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                210,
+                70,
+                110
+              ],
+              "hex": "#d2466e",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "44.953"
+        }
+      },
+      {
+        "filename": "Altar der Kirche St. Petri in Altona.jpg",
+        "latitude": 53.549297,
+        "longitude": 9.938278,
+        "createDate": "2026-04-02T08:33:17.000Z",
+        "width": 3891,
+        "height": 5263,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                170,
+                130,
+                90
+              ],
+              "hex": "#aa825a",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "38.250"
+        }
+      },
+      {
+        "filename": "Altar und Deckenfassade in der St. Michaelis Kirche.jpg",
+        "latitude": 53.54855,
+        "longitude": 9.978583,
+        "createDate": "2026-04-02T09:44:45.000Z",
+        "width": 2793,
+        "height": 3925,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                120,
+                110,
+                100
+              ],
+              "hex": "#786e64",
+              "percentage": "0.058"
+            },
+            {
+              "rgb": [
+                10,
+                10,
+                10
+              ],
+              "hex": "#0a0a0a",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "24.727"
+        }
+      },
+      {
+        "filename": "Altes Backsteingebäde und moderne Bürogebäude in der HafenCity.jpg",
+        "latitude": 53.544256,
+        "longitude": 10.003561,
+        "createDate": "2026-04-02T19:44:50.000Z",
+        "width": 2839,
+        "height": 3184,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                30,
+                40
+              ],
+              "hex": "#141e28",
+              "percentage": "0.050"
+            }
+          ],
+          "colorfulness": "28.983"
+        }
+      },
+      {
+        "filename": "Architekturmodell von Planten un Blomen in einem Glascontainer.jpg",
+        "latitude": 53.560919,
+        "longitude": 9.986194,
+        "createDate": "2026-04-02T11:17:59.000Z",
+        "width": 4180,
+        "height": 3331,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                210,
+                220
+              ],
+              "hex": "#c8d2dc",
+              "percentage": "0.061"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                150,
+                170,
+                180
+              ],
+              "hex": "#96aab4",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "41.974"
+        }
+      },
+      {
+        "filename": "Ausgang des Bahnhofes Elbbrücken.jpg",
+        "latitude": 53.535064,
+        "longitude": 10.024703,
+        "createDate": "2026-04-02T19:12:04.000Z",
+        "width": 5588,
+        "height": 3419,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                30,
+                40
+              ],
+              "hex": "#0a1e28",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                90,
+                90,
+                90
+              ],
+              "hex": "#5a5a5a",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                150,
+                150,
+                140
+              ],
+              "hex": "#96968c",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                60,
+                150,
+                240
+              ],
+              "hex": "#3c96f0",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "33.822"
+        }
+      },
+      {
+        "filename": "Ausgang und Deckenfresko in der St. Michaelis Kirche.jpg",
+        "latitude": 53.548439,
+        "longitude": 9.9787,
+        "createDate": "2026-04-02T09:48:28.000Z",
+        "width": 3663,
+        "height": 3168,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                140,
+                90
+              ],
+              "hex": "#be8c5a",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                30,
+                20,
+                20
+              ],
+              "hex": "#1e1414",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                130,
+                190,
+                210
+              ],
+              "hex": "#82bed2",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "39.853"
+        }
+      },
+      {
+        "filename": "Auslage einer mexikanischen Bar in St. Pauli.jpg",
+        "latitude": 53.560106,
+        "longitude": 9.963522,
+        "createDate": "2026-04-01T12:06:18.000Z",
+        "width": 5255,
+        "height": 3973,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                190,
+                200,
+                200
+              ],
+              "hex": "#bec8c8",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                100,
+                120,
+                130
+              ],
+              "hex": "#647882",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                140,
+                220,
+                240
+              ],
+              "hex": "#8cdcf0",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                250,
+                210,
+                90
+              ],
+              "hex": "#fad25a",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "40.519"
+        }
+      },
+      {
+        "filename": "Autoparkplatz und Elbe bei der Elbphilharmonie.jpg",
+        "latitude": 53.541458,
+        "longitude": 9.983281,
+        "createDate": "2026-03-31T17:34:21.000Z",
+        "width": 4469,
+        "height": 3078,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                140,
+                160,
+                160
+              ],
+              "hex": "#8ca0a0",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                50,
+                70,
+                70
+              ],
+              "hex": "#324646",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                190,
+                0,
+                10
+              ],
+              "hex": "#be000a",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "21.930"
+        }
+      },
+      {
+        "filename": "Bahnhof Elbbrücken bei Nacht.jpg",
+        "latitude": 53.534878,
+        "longitude": 10.024897,
+        "createDate": "2026-04-02T19:11:47.000Z",
+        "width": 3873,
+        "height": 5010,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                20,
+                10
+              ],
+              "hex": "#14140a",
+              "percentage": "0.061"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                170
+              ],
+              "hex": "#c8beaa",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "37.335"
+        }
+      },
+      {
+        "filename": "Bahnsteig und bunte Fließen in der U-Bahn-Station Klostertor.jpg",
+        "latitude": 53.581569,
+        "longitude": 9.988106,
+        "createDate": "2026-04-02T12:53:56.000Z",
+        "width": 2982,
+        "height": 3286,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                10,
+                10
+              ],
+              "hex": "#140a0a",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                230,
+                220,
+                180
+              ],
+              "hex": "#e6dcb4",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                150,
+                200,
+                180
+              ],
+              "hex": "#96c8b4",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                120
+              ],
+              "hex": "#aaa078",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                120,
+                30,
+                0
+              ],
+              "hex": "#781e00",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "46.805"
+        }
+      },
+      {
+        "filename": "Bahnsteige und Gleise im Bahnhof Elbbrücken.jpg",
+        "latitude": 53.535831,
+        "longitude": 10.02405,
+        "createDate": "2026-04-02T19:13:45.000Z",
+        "width": 4785,
+        "height": 3477,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                210
+              ],
+              "hex": "#dcdcd2",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                120,
+                130,
+                130
+              ],
+              "hex": "#788282",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "39.159"
+        }
+      },
+      {
+        "filename": "Bahnsteige und Schienen beim Dammtor.jpg",
+        "latitude": 53.561283,
+        "longitude": 9.989131,
+        "createDate": "2026-04-01T15:25:45.000Z",
+        "width": 3878,
+        "height": 4245,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                200,
+                210,
+                220
+              ],
+              "hex": "#c8d2dc",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                20,
+                40,
+                70
+              ],
+              "hex": "#142846",
+              "percentage": "0.022"
+            }
+          ],
+          "colorfulness": "41.324"
+        }
+      },
+      {
+        "filename": "Boot und Hafen an der Elbe.jpg",
+        "latitude": 53.543956,
+        "longitude": 9.952883,
+        "createDate": "2026-03-31T15:14:23.000Z",
+        "width": 2742,
+        "height": 4125,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                210,
+                230
+              ],
+              "hex": "#bed2e6",
+              "percentage": "0.063"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.030"
+            }
+          ],
+          "colorfulness": "34.475"
+        }
+      },
+      {
+        "filename": "Brücke, Elbe und Hafen nahe Landungsbrücken.jpg",
+        "latitude": 53.544239,
+        "longitude": 9.977731,
+        "createDate": "2026-03-31T13:00:21.000Z",
+        "width": 3593,
+        "height": 3381,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                70,
+                70,
+                50
+              ],
+              "hex": "#464632",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                210,
+                230,
+                210
+              ],
+              "hex": "#d2e6d2",
+              "percentage": "0.026"
+            }
+          ],
+          "colorfulness": "40.794"
+        }
+      },
+      {
+        "filename": "Büro der Heilsarmee in St. Pauli nahe der Großen Freiheit.jpg",
+        "latitude": 53.550178,
+        "longitude": 9.960106,
+        "createDate": "2026-03-31T18:13:24.000Z",
+        "width": 5262,
+        "height": 4000,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                40,
+                50
+              ],
+              "hex": "#322832",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                170,
+                120,
+                80
+              ],
+              "hex": "#aa7850",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                140,
+                190,
+                230
+              ],
+              "hex": "#8cbee6",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "35.163"
+        }
+      },
+      {
+        "filename": "Ein Bär vor dem Eingang zu den Landungsbrücken.jpg",
+        "latitude": 53.545167,
+        "longitude": 9.972008,
+        "createDate": "2026-03-31T16:28:55.000Z",
+        "width": 2669,
+        "height": 3758,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.034"
+            },
+            {
+              "rgb": [
+                50,
+                70,
+                80
+              ],
+              "hex": "#324650",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                140
+              ],
+              "hex": "#8c8c8c",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                100,
+                160,
+                200
+              ],
+              "hex": "#64a0c8",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "44.800"
+        }
+      },
+      {
+        "filename": "Eingang zum Gänge-Viertel.jpg",
+        "latitude": 53.555756,
+        "longitude": 9.983003,
+        "createDate": "2026-04-02T10:52:11.000Z",
+        "width": 3080,
+        "height": 4872,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                140,
+                120
+              ],
+              "hex": "#828c78",
+              "percentage": "0.028"
+            },
+            {
+              "rgb": [
+                0,
+                60,
+                90
+              ],
+              "hex": "#003c5a",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                230,
+                150,
+                40
+              ],
+              "hex": "#e69628",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "33.450"
+        }
+      },
+      {
+        "filename": "Eingang zur U-Bahn-Station HafenCity in der Nacht.jpg",
+        "latitude": 53.540603,
+        "longitude": 10.008978,
+        "createDate": "2026-04-02T19:34:54.000Z",
+        "width": 2898,
+        "height": 2723,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                30
+              ],
+              "hex": "#0a0a1e",
+              "percentage": "0.079"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                190
+              ],
+              "hex": "#d2d2be",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "26.092"
+        }
+      },
+      {
+        "filename": "Eingang zur U-Bahn-Station Rathaus.jpg",
+        "latitude": 53.551742,
+        "longitude": 9.994397,
+        "createDate": "2026-04-02T20:29:30.000Z",
+        "width": 4110,
+        "height": 4141,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                150,
+                120,
+                100
+              ],
+              "hex": "#967864",
+              "percentage": "0.036"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                160
+              ],
+              "hex": "#beaaa0",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                100,
+                70,
+                50
+              ],
+              "hex": "#644632",
+              "percentage": "0.022"
+            }
+          ],
+          "colorfulness": "26.494"
+        }
+      },
+      {
+        "filename": "Eingangsbereich der U-Bahn-Station Klostertor.jpg",
+        "latitude": 53.58125,
+        "longitude": 9.988597,
+        "createDate": "2026-04-02T12:52:29.000Z",
+        "width": 5733,
+        "height": 3005,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                160,
+                150
+              ],
+              "hex": "#a0a096",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                170,
+                60,
+                30
+              ],
+              "hex": "#aa3c1e",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "33.919"
+        }
+      },
+      {
+        "filename": "Elbe und Hafen nahe der Landungsbrücken.jpg",
+        "latitude": 53.543972,
+        "longitude": 9.953883,
+        "createDate": "2026-03-31T16:17:53.000Z",
+        "width": 4189,
+        "height": 4404,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                220
+              ],
+              "hex": "#f0f0dc",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                130,
+                150,
+                160
+              ],
+              "hex": "#8296a0",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "40.326"
+        }
+      },
+      {
+        "filename": "Elbe und Hafen-Areal Steinwerder.jpg",
+        "latitude": 53.541031,
+        "longitude": 9.984269,
+        "createDate": "2026-03-31T17:31:39.000Z",
+        "width": 3998,
+        "height": 4084,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                60,
+                80
+              ],
+              "hex": "#283c50",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                100,
+                130,
+                150
+              ],
+              "hex": "#648296",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                160,
+                180,
+                200
+              ],
+              "hex": "#a0b4c8",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "35.319"
+        }
+      },
+      {
+        "filename": "Elbe und Skyline von Hamburg bei Sonnenuntergang.jpg",
+        "latitude": 53.541503,
+        "longitude": 9.983322,
+        "createDate": "2026-03-31T17:34:11.000Z",
+        "width": 3385,
+        "height": 2771,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                100,
+                80
+              ],
+              "hex": "#826450",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                40,
+                20,
+                20
+              ],
+              "hex": "#281414",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                250,
+                200,
+                130
+              ],
+              "hex": "#fac882",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                220
+              ],
+              "hex": "#f0f0dc",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "32.978"
+        }
+      },
+      {
+        "filename": "Elbe und Sonnenuntergang in Blankenese.jpg",
+        "latitude": 53.544042,
+        "longitude": 9.914525,
+        "createDate": "2026-04-01T18:37:17.000Z",
+        "width": 4117,
+        "height": 2675,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                20,
+                130,
+                200
+              ],
+              "hex": "#1482c8",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                140,
+                200,
+                240
+              ],
+              "hex": "#8cc8f0",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                250,
+                180,
+                140
+              ],
+              "hex": "#fab48c",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "58.661"
+        }
+      },
+      {
+        "filename": "Elbkanal und Boote nahe der Speicherstadt.jpg",
+        "latitude": 53.546006,
+        "longitude": 9.997264,
+        "createDate": "2026-04-02T19:57:39.000Z",
+        "width": 3481,
+        "height": 2806,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                30
+              ],
+              "hex": "#0a0a1e",
+              "percentage": "0.095"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                230
+              ],
+              "hex": "#fafae6",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "25.283"
+        }
+      },
+      {
+        "filename": "Elbkanal und Elbphilharmonie nahe der Speicherstadt.jpg",
+        "latitude": 53.542611,
+        "longitude": 9.990144,
+        "createDate": "2026-03-31T16:55:36.000Z",
+        "width": 2668,
+        "height": 2956,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.056"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                230
+              ],
+              "hex": "#f0f0e6",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                170
+              ],
+              "hex": "#b4b4aa",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "41.516"
+        }
+      },
+      {
+        "filename": "Elbkanal, Brücke und Bürohäuser in der Innenstadt.jpg",
+        "latitude": 53.5495,
+        "longitude": 9.986728,
+        "createDate": "2026-03-31T12:20:38.000Z",
+        "width": 3743,
+        "height": 4339,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.096"
+            },
+            {
+              "rgb": [
+                40,
+                50,
+                70
+              ],
+              "hex": "#283246",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                150,
+                160,
+                170
+              ],
+              "hex": "#96a0aa",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                210,
+                220,
+                220
+              ],
+              "hex": "#d2dcdc",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "42.621"
+        }
+      },
+      {
+        "filename": "Elbphilharmonie und Brücke mit Fussgängern in der Speicherstadt.jpg",
+        "latitude": 53.542011,
+        "longitude": 9.985303,
+        "createDate": "2026-03-31T17:07:58.000Z",
+        "width": 2874,
+        "height": 4111,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                20,
+                10
+              ],
+              "hex": "#28140a",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                140
+              ],
+              "hex": "#82828c",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                240,
+                210,
+                160
+              ],
+              "hex": "#f0d2a0",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "45.558"
+        }
+      },
+      {
+        "filename": "Elbphilharmonie.jpg",
+        "latitude": 53.5423,
+        "longitude": 9.985392,
+        "createDate": "2026-03-31T17:06:59.000Z",
+        "width": 4127,
+        "height": 4544,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                210,
+                250
+              ],
+              "hex": "#b4d2fa",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                140,
+                100,
+                100
+              ],
+              "hex": "#8c6464",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                60,
+                60,
+                70
+              ],
+              "hex": "#3c3c46",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "43.465"
+        }
+      },
+      {
+        "filename": "Evangelscihe Kirche und Backsteingebäude in Altona.jpg",
+        "latitude": 53.549286,
+        "longitude": 9.949839,
+        "createDate": "2026-04-02T17:23:54.000Z",
+        "width": 3392,
+        "height": 4868,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                220,
+                230
+              ],
+              "hex": "#dcdce6",
+              "percentage": "0.157"
+            },
+            {
+              "rgb": [
+                90,
+                60,
+                60
+              ],
+              "hex": "#5a3c3c",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                160,
+                170,
+                180
+              ],
+              "hex": "#a0aab4",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                230,
+                200,
+                130
+              ],
+              "hex": "#e6c882",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "44.396"
+        }
+      },
+      {
+        "filename": "Gastgarten, Strand, Elbe und Hafen in Blankenese.jpg",
+        "latitude": 53.544483,
+        "longitude": 9.905275,
+        "createDate": "2026-04-01T18:22:53.000Z",
+        "width": 4025,
+        "height": 5366,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.119"
+            },
+            {
+              "rgb": [
+                10,
+                140,
+                190
+              ],
+              "hex": "#0a8cbe",
+              "percentage": "0.063"
+            },
+            {
+              "rgb": [
+                120,
+                130,
+                140
+              ],
+              "hex": "#78828c",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                150,
+                180,
+                190
+              ],
+              "hex": "#96b4be",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "59.965"
+        }
+      },
+      {
+        "filename": "Gemaltes Stadtbild von Hamburg.jpg",
+        "latitude": 53.549592,
+        "longitude": 9.947256,
+        "createDate": "2026-03-31T21:13:42.000Z",
+        "width": 2625,
+        "height": 3375,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.194"
+            },
+            {
+              "rgb": [
+                240,
+                190,
+                100
+              ],
+              "hex": "#f0be64",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                10,
+                100,
+                160
+              ],
+              "hex": "#0a64a0",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "46.200"
+        }
+      },
+      {
+        "filename": "Glasfassade und Spiegelungen eines Backsteingebäudes nahe St. Michaelis Kirche.jpg",
+        "latitude": 53.546275,
+        "longitude": 9.979867,
+        "createDate": "2026-04-02T09:33:42.000Z",
+        "width": 4140,
+        "height": 4488,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                180,
+                190
+              ],
+              "hex": "#aab4be",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                50,
+                50,
+                70
+              ],
+              "hex": "#323246",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                40,
+                140,
+                190
+              ],
+              "hex": "#288cbe",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "33.776"
+        }
+      },
+      {
+        "filename": "Gleise und Bahnsteige in der U-Bahn-Station Rathaus.jpg",
+        "latitude": 53.550239,
+        "longitude": 9.993678,
+        "createDate": "2026-04-02T15:00:03.000Z",
+        "width": 3552,
+        "height": 4638,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                190,
+                190,
+                190
+              ],
+              "hex": "#bebebe",
+              "percentage": "0.023"
+            }
+          ],
+          "colorfulness": "48.043"
+        }
+      },
+      {
+        "filename": "Graffitti's auf Stiegen und Türen im Gänge-Viertel.jpg",
+        "latitude": 53.554969,
+        "longitude": 9.983711,
+        "createDate": "2026-04-02T10:56:43.000Z",
+        "width": 3070,
+        "height": 4815,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.078"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                160
+              ],
+              "hex": "#a0a0a0",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                230,
+                240,
+                240
+              ],
+              "hex": "#e6f0f0",
+              "percentage": "0.013"
+            }
+          ],
+          "colorfulness": "39.613"
+        }
+      },
+      {
+        "filename": "Hauptbahnhof und Eingang zu den U-Bahnen.jpg",
+        "latitude": 53.551631,
+        "longitude": 10.005217,
+        "createDate": "2026-04-02T13:21:26.000Z",
+        "width": 3119,
+        "height": 4101,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.100"
+            },
+            {
+              "rgb": [
+                200,
+                220,
+                240
+              ],
+              "hex": "#c8dcf0",
+              "percentage": "0.046"
+            }
+          ],
+          "colorfulness": "43.797"
+        }
+      },
+      {
+        "filename": "Häuser, Elbe und Hafenblick vom Altonaer Balkon.jpg",
+        "latitude": 53.545281,
+        "longitude": 9.93535,
+        "createDate": "2026-04-02T08:54:10.000Z",
+        "width": 5059,
+        "height": 2695,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                50,
+                70
+              ],
+              "hex": "#283246",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                240
+              ],
+              "hex": "#dce6f0",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                150,
+                200,
+                240
+              ],
+              "hex": "#96c8f0",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                20,
+                140,
+                210
+              ],
+              "hex": "#148cd2",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                110,
+                130,
+                150
+              ],
+              "hex": "#6e8296",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "50.673"
+        }
+      },
+      {
+        "filename": "Heinrich-Hertz-Fernseheturm und Elbkanal naha Brambek.jpg",
+        "latitude": 53.565942,
+        "longitude": 10.025994,
+        "createDate": "2026-04-01T09:37:10.000Z",
+        "width": 3200,
+        "height": 3624,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                170,
+                250
+              ],
+              "hex": "#1eaafa",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                120,
+                200,
+                250
+              ],
+              "hex": "#78c8fa",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                100,
+                100,
+                100
+              ],
+              "hex": "#646464",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                10,
+                70,
+                120
+              ],
+              "hex": "#0a4678",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "56.187"
+        }
+      },
+      {
+        "filename": "Heinrich-Hertz-Fersenturm und Planten un Blomen Park nahe Dammtor.jpg",
+        "latitude": 53.561664,
+        "longitude": 9.984083,
+        "createDate": "2026-04-02T11:20:11.000Z",
+        "width": 5386,
+        "height": 3542,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                230,
+                250
+              ],
+              "hex": "#d2e6fa",
+              "percentage": "0.109"
+            },
+            {
+              "rgb": [
+                0,
+                20,
+                40
+              ],
+              "hex": "#001428",
+              "percentage": "0.067"
+            },
+            {
+              "rgb": [
+                140,
+                160,
+                180
+              ],
+              "hex": "#8ca0b4",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                90,
+                100,
+                120
+              ],
+              "hex": "#5a6478",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "44.889"
+        }
+      },
+      {
+        "filename": "Holkonstrukt und Kunst im Gänge-Viertel.jpg",
+        "latitude": 53.555328,
+        "longitude": 9.983172,
+        "createDate": "2026-04-02T10:52:43.000Z",
+        "width": 3652,
+        "height": 4390,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                30,
+                60
+              ],
+              "hex": "#0a1e3c",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                170,
+                170,
+                170
+              ],
+              "hex": "#aaaaaa",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                130,
+                210,
+                240
+              ],
+              "hex": "#82d2f0",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                240,
+                230,
+                220
+              ],
+              "hex": "#f0e6dc",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                60,
+                170,
+                210
+              ],
+              "hex": "#3caad2",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "49.482"
+        }
+      },
+      {
+        "filename": "Innen-Ansicht einer Bar in St. Pauli.jpg",
+        "latitude": 53.550603,
+        "longitude": 9.960086,
+        "createDate": "2026-03-31T18:15:17.000Z",
+        "width": 3141,
+        "height": 2822,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                40,
+                10,
+                30
+              ],
+              "hex": "#280a1e",
+              "percentage": "0.076"
+            },
+            {
+              "rgb": [
+                190,
+                10,
+                110
+              ],
+              "hex": "#be0a6e",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                230,
+                210,
+                140
+              ],
+              "hex": "#e6d28c",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                190,
+                190,
+                180
+              ],
+              "hex": "#bebeb4",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "29.841"
+        }
+      },
+      {
+        "filename": "Innen-Ansicht und Sonnenlicht im Bahnhof Dammtor.jpg",
+        "latitude": 53.560844,
+        "longitude": 9.989544,
+        "createDate": "2026-04-01T15:27:09.000Z",
+        "width": 4023,
+        "height": 4030,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.122"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                230
+              ],
+              "hex": "#dcdce6",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                140
+              ],
+              "hex": "#82828c",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "44.878"
+        }
+      },
+      {
+        "filename": "Innen-Einrichtung der Haifischbar in Altona nahe Fischmarkt.jpg",
+        "latitude": 53.544342,
+        "longitude": 9.945822,
+        "createDate": "2026-03-30T18:06:45.000Z",
+        "width": 2964,
+        "height": 3141,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.059"
+            },
+            {
+              "rgb": [
+                140,
+                120,
+                100
+              ],
+              "hex": "#8c7864",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                200
+              ],
+              "hex": "#d2d2c8",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                140,
+                230,
+                240
+              ],
+              "hex": "#8ce6f0",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "35.697"
+        }
+      },
+      {
+        "filename": "Innenhof und Wphngebäude bei Nacht in Altona.jpg",
+        "latitude": 53.549114,
+        "longitude": 9.945206,
+        "createDate": "2026-03-30T19:55:40.000Z",
+        "width": 2607,
+        "height": 3175,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                20,
+                30
+              ],
+              "hex": "#14141e",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                120,
+                130,
+                130
+              ],
+              "hex": "#788282",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                250
+              ],
+              "hex": "#f0f0fa",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "37.956"
+        }
+      },
+      {
+        "filename": "Innenstadt, Speicherstadt und Hafen aus der Vogelperspektive.jpg",
+        "latitude": 53.547406,
+        "longitude": 9.990592,
+        "createDate": "2026-03-31T12:42:07.000Z",
+        "width": 2717,
+        "height": 4283,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                230,
+                240
+              ],
+              "hex": "#dce6f0",
+              "percentage": "0.042"
+            },
+            {
+              "rgb": [
+                20,
+                30,
+                60
+              ],
+              "hex": "#141e3c",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                60,
+                80,
+                100
+              ],
+              "hex": "#3c5064",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                140,
+                150,
+                160
+              ],
+              "hex": "#8c96a0",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "39.765"
+        }
+      },
+      {
+        "filename": "Ise-Markt und U-Bahn-Trasse in Eppendorf.jpg",
+        "latitude": 53.578583,
+        "longitude": 9.977508,
+        "createDate": "2026-04-02T12:37:07.000Z",
+        "width": 3287,
+        "height": 4209,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                190,
+                190,
+                190
+              ],
+              "hex": "#bebebe",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                150,
+                150,
+                150
+              ],
+              "hex": "#969696",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                20,
+                110,
+                170
+              ],
+              "hex": "#146eaa",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "41.729"
+        }
+      },
+      {
+        "filename": "Kirche, Brücke und Strasse in St. Pauli.jpg",
+        "latitude": 53.547294,
+        "longitude": 9.970647,
+        "createDate": "2026-03-31T20:04:20.000Z",
+        "width": 2652,
+        "height": 3076,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.153"
+            },
+            {
+              "rgb": [
+                190,
+                200,
+                200
+              ],
+              "hex": "#bec8c8",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                100,
+                100,
+                110
+              ],
+              "hex": "#64646e",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                140,
+                160,
+                180
+              ],
+              "hex": "#8ca0b4",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                180,
+                120,
+                80
+              ],
+              "hex": "#b47850",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "37.395"
+        }
+      },
+      {
+        "filename": "Kirchenfenster nahe der Speicherstadt.jpg",
+        "latitude": 53.545853,
+        "longitude": 9.995114,
+        "createDate": "2026-04-02T20:01:12.000Z",
+        "width": 2547,
+        "height": 3522,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                40,
+                40
+              ],
+              "hex": "#322828",
+              "percentage": "0.033"
+            }
+          ],
+          "colorfulness": "25.157"
+        }
+      },
+      {
+        "filename": "Laternenmast, \"Nie wieder Krieg' Sticker, Teich und Bäume in Planten un Blomen.jpg",
+        "latitude": 53.558953,
+        "longitude": 9.985389,
+        "createDate": "2026-04-02T11:09:37.000Z",
+        "width": 3967,
+        "height": 5491,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                220,
+                230
+              ],
+              "hex": "#dcdce6",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                160,
+                140,
+                90
+              ],
+              "hex": "#a08c5a",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                70,
+                60,
+                50
+              ],
+              "hex": "#463c32",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                190,
+                70,
+                50
+              ],
+              "hex": "#be4632",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "37.261"
+        }
+      },
+      {
+        "filename": "Leerer Sessel und Fabriksgelände bei Nacht in der Mönkestrasse.jpg",
+        "latitude": 53.549889,
+        "longitude": 9.947078,
+        "createDate": "2026-03-31T21:13:18.000Z",
+        "width": 2813,
+        "height": 3021,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.064"
+            },
+            {
+              "rgb": [
+                170,
+                150,
+                120
+              ],
+              "hex": "#aa9678",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                230,
+                230,
+                230
+              ],
+              "hex": "#e6e6e6",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "37.391"
+        }
+      },
+      {
+        "filename": "Möwe und Himmel nahe der Landungsbrücken.jpg",
+        "latitude": 53.544647,
+        "longitude": 9.971947,
+        "createDate": "2026-03-31T15:05:53.000Z",
+        "width": 3134,
+        "height": 3134,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                120,
+                130,
+                150
+              ],
+              "hex": "#788296",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "17.711"
+        }
+      },
+      {
+        "filename": "Orgel der Kirche St. Petri in Altona.jpg",
+        "latitude": 53.549264,
+        "longitude": 9.938547,
+        "createDate": "2026-04-02T08:34:13.000Z",
+        "width": 3708,
+        "height": 2806,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                180
+              ],
+              "hex": "#d2c8b4",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                120,
+                120,
+                120
+              ],
+              "hex": "#787878",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "41.286"
+        }
+      },
+      {
+        "filename": "Orgel der St. Michaelis Kirche.jpg",
+        "latitude": 53.548511,
+        "longitude": 9.978708,
+        "createDate": "2026-04-02T09:44:32.000Z",
+        "width": 3612,
+        "height": 2776,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                110,
+                110,
+                110
+              ],
+              "hex": "#6e6e6e",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                140,
+                160,
+                170
+              ],
+              "hex": "#8ca0aa",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "38.376"
+        }
+      },
+      {
+        "filename": "Park nahe des Sternschanze.jpg",
+        "latitude": 53.564942,
+        "longitude": 9.970531,
+        "createDate": "2026-04-01T14:29:15.000Z",
+        "width": 3852,
+        "height": 4423,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                70,
+                90
+              ],
+              "hex": "#32465a",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                220,
+                230,
+                240
+              ],
+              "hex": "#dce6f0",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "41.436"
+        }
+      },
+      {
+        "filename": "Polizeiwache Reeperbahn in St. Pauli.jpg",
+        "latitude": 53.549747,
+        "longitude": 9.962314,
+        "createDate": "2026-04-02T20:53:06.000Z",
+        "width": 2897,
+        "height": 4763,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.239"
+            },
+            {
+              "rgb": [
+                100,
+                40,
+                40
+              ],
+              "hex": "#642828",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                210,
+                50,
+                70
+              ],
+              "hex": "#d23246",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "32.185"
+        }
+      },
+      {
+        "filename": "Radisson Blue Hotel in der nähe des Dammtores.jpg",
+        "latitude": 53.561086,
+        "longitude": 9.987125,
+        "createDate": "2026-04-01T15:16:56.000Z",
+        "width": 2889,
+        "height": 3112,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                100,
+                200
+              ],
+              "hex": "#0a64c8",
+              "percentage": "0.138"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                50
+              ],
+              "hex": "#000a32",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                130,
+                150,
+                170
+              ],
+              "hex": "#8296aa",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                120,
+                190,
+                250
+              ],
+              "hex": "#78befa",
+              "percentage": "0.005"
+            },
+            {
+              "rgb": [
+                170,
+                190,
+                210
+              ],
+              "hex": "#aabed2",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "50.853"
+        }
+      },
+      {
+        "filename": "Rathaus und Alsterkanal bei Nacht.jpg",
+        "latitude": 53.552253,
+        "longitude": 9.993631,
+        "createDate": "2026-04-02T20:26:23.000Z",
+        "width": 1899,
+        "height": 3408,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                20
+              ],
+              "hex": "#0a0a14",
+              "percentage": "0.152"
+            },
+            {
+              "rgb": [
+                80,
+                70,
+                50
+              ],
+              "hex": "#504632",
+              "percentage": "0.018"
+            }
+          ],
+          "colorfulness": "27.081"
+        }
+      },
+      {
+        "filename": "Rathaus von Hamburg in der Altstadt.jpg",
+        "latitude": 53.550931,
+        "longitude": 9.993411,
+        "createDate": "2026-03-31T11:25:53.000Z",
+        "width": 3663,
+        "height": 3169,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                140,
+                170,
+                190
+              ],
+              "hex": "#8caabe",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                230,
+                240,
+                250
+              ],
+              "hex": "#e6f0fa",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                120,
+                120,
+                130
+              ],
+              "hex": "#787882",
+              "percentage": "0.017"
+            }
+          ],
+          "colorfulness": "42.491"
+        }
+      },
+      {
+        "filename": "Schiff, Elbe und Sonnenuntergang bei Blankenese.jpg",
+        "latitude": 53.543792,
+        "longitude": 9.914478,
+        "createDate": "2026-04-01T17:16:56.000Z",
+        "width": 3386,
+        "height": 2662,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                30
+              ],
+              "hex": "#0a0a1e",
+              "percentage": "0.071"
+            },
+            {
+              "rgb": [
+                20,
+                130,
+                190
+              ],
+              "hex": "#1482be",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                150,
+                190,
+                220
+              ],
+              "hex": "#96bedc",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                120,
+                120,
+                120
+              ],
+              "hex": "#787878",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "54.128"
+        }
+      },
+      {
+        "filename": "Sitzbänke und Aussicht auf den Hafen vom Altonarer Balkon.jpg",
+        "latitude": 53.5454,
+        "longitude": 9.935283,
+        "createDate": "2026-04-02T08:53:50.000Z",
+        "width": 5198,
+        "height": 2498,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                240,
+                250
+              ],
+              "hex": "#e6f0fa",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                20,
+                130,
+                210
+              ],
+              "hex": "#1482d2",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                80,
+                90,
+                100
+              ],
+              "hex": "#505a64",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                140
+              ],
+              "hex": "#8c8c8c",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "53.001"
+        }
+      },
+      {
+        "filename": "Skaterpark und Wohngegen nahe Eppendorfer Baum.jpg",
+        "latitude": 53.588647,
+        "longitude": 9.990739,
+        "createDate": "2026-04-01T09:17:40.000Z",
+        "width": 3777,
+        "height": 3571,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                50,
+                60
+              ],
+              "hex": "#0a323c",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                170,
+                220,
+                230
+              ],
+              "hex": "#aadce6",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                160,
+                180,
+                160
+              ],
+              "hex": "#a0b4a0",
+              "percentage": "0.015"
+            }
+          ],
+          "colorfulness": "40.262"
+        }
+      },
+      {
+        "filename": "Speicherstadt bei Nacht.jpg",
+        "latitude": 53.545631,
+        "longitude": 9.999475,
+        "createDate": "2026-04-02T19:52:57.000Z",
+        "width": 3393,
+        "height": 2412,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                30
+              ],
+              "hex": "#0a0a1e",
+              "percentage": "0.118"
+            },
+            {
+              "rgb": [
+                10,
+                60,
+                130
+              ],
+              "hex": "#0a3c82",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                140,
+                110,
+                100
+              ],
+              "hex": "#8c6e64",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "32.489"
+        }
+      },
+      {
+        "filename": "Speicherstadt und Fussgängerbrücke bei Sonnenuntergang.jpg",
+        "latitude": 53.543519,
+        "longitude": 9.989869,
+        "createDate": "2026-03-31T16:53:43.000Z",
+        "width": 3807,
+        "height": 4414,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                10,
+                0
+              ],
+              "hex": "#1e0a00",
+              "percentage": "0.156"
+            },
+            {
+              "rgb": [
+                190,
+                160,
+                130
+              ],
+              "hex": "#bea082",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                140
+              ],
+              "hex": "#82828c",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "39.491"
+        }
+      },
+      {
+        "filename": "St. Nikolai Kirche in der Altstadt.jpg",
+        "latitude": 53.547522,
+        "longitude": 9.991178,
+        "createDate": "2026-03-31T12:36:12.000Z",
+        "width": 2373,
+        "height": 4115,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.060"
+            },
+            {
+              "rgb": [
+                100,
+                110,
+                120
+              ],
+              "hex": "#646e78",
+              "percentage": "0.027"
+            },
+            {
+              "rgb": [
+                190,
+                210,
+                230
+              ],
+              "hex": "#bed2e6",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                10,
+                90,
+                170
+              ],
+              "hex": "#0a5aaa",
+              "percentage": "0.012"
+            }
+          ],
+          "colorfulness": "51.153"
+        }
+      },
+      {
+        "filename": "Stand, Elbe und Hafen in Blankenese.jpg",
+        "latitude": 53.544742,
+        "longitude": 9.911353,
+        "createDate": "2026-04-01T17:24:42.000Z",
+        "width": 4610,
+        "height": 2426,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                160,
+                230
+              ],
+              "hex": "#14a0e6",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                150,
+                210,
+                240
+              ],
+              "hex": "#96d2f0",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                110,
+                100,
+                100
+              ],
+              "hex": "#6e6464",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                20,
+                50,
+                80
+              ],
+              "hex": "#143250",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "51.179"
+        }
+      },
+      {
+        "filename": "Statue einer Frau neben der St. Nikolai-Kirche.jpg",
+        "latitude": 53.5475,
+        "longitude": 9.991164,
+        "createDate": "2026-03-31T12:34:39.000Z",
+        "width": 3479,
+        "height": 4551,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                180,
+                200,
+                220
+              ],
+              "hex": "#b4c8dc",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                70,
+                70,
+                80
+              ],
+              "hex": "#464650",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "38.397"
+        }
+      },
+      {
+        "filename": "Statue von Graf Blücher-Altona vor dem Rathaus Altona.jpg",
+        "latitude": 53.54695,
+        "longitude": 9.934558,
+        "createDate": "2026-04-02T08:48:14.000Z",
+        "width": 2696,
+        "height": 3620,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                200
+              ],
+              "hex": "#dcdcc8",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                130,
+                190,
+                240
+              ],
+              "hex": "#82bef0",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                130
+              ],
+              "hex": "#8c8c82",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "43.916"
+        }
+      },
+      {
+        "filename": "Statue von Kaiser Wilhelm I. vor dem Rathaus Altona.jpg",
+        "latitude": 53.547336,
+        "longitude": 9.935328,
+        "createDate": "2026-04-02T08:45:30.000Z",
+        "width": 2158,
+        "height": 3855,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                130,
+                230
+              ],
+              "hex": "#1482e6",
+              "percentage": "0.082"
+            },
+            {
+              "rgb": [
+                10,
+                40,
+                80
+              ],
+              "hex": "#0a2850",
+              "percentage": "0.030"
+            },
+            {
+              "rgb": [
+                140,
+                200,
+                250
+              ],
+              "hex": "#8cc8fa",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                120
+              ],
+              "hex": "#8c8c78",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "54.161"
+        }
+      },
+      {
+        "filename": "Sticker an Toiletten-Wand.jpg",
+        "latitude": 53.558311,
+        "longitude": 9.969189,
+        "createDate": "2026-04-01T11:10:44.000Z",
+        "width": 3649,
+        "height": 3812,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                210,
+                210,
+                190
+              ],
+              "hex": "#d2d2be",
+              "percentage": "0.242"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                150
+              ],
+              "hex": "#8c8c96",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                130,
+                20,
+                20
+              ],
+              "hex": "#821414",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                80,
+                90,
+                100
+              ],
+              "hex": "#505a64",
+              "percentage": "0.002"
+            }
+          ],
+          "colorfulness": "48.693"
+        }
+      },
+      {
+        "filename": "Stiegen und Füssgänger nahe Landungsbrücken.jpg",
+        "latitude": 53.545536,
+        "longitude": 9.970631,
+        "createDate": "2026-03-31T16:32:38.000Z",
+        "width": 4179,
+        "height": 5333,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                90,
+                90
+              ],
+              "hex": "#1e5a5a",
+              "percentage": "0.031"
+            },
+            {
+              "rgb": [
+                20,
+                140,
+                220
+              ],
+              "hex": "#148cdc",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                200,
+                230,
+                250
+              ],
+              "hex": "#c8e6fa",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                130,
+                190,
+                240
+              ],
+              "hex": "#82bef0",
+              "percentage": "0.004"
+            }
+          ],
+          "colorfulness": "52.192"
+        }
+      },
+      {
+        "filename": "Strasse, Brücke und Hafen in St. Pauli.jpg",
+        "latitude": 53.547389,
+        "longitude": 9.971544,
+        "createDate": "2026-03-31T20:03:14.000Z",
+        "width": 2279,
+        "height": 2684,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.072"
+            },
+            {
+              "rgb": [
+                80,
+                100,
+                120
+              ],
+              "hex": "#506478",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                190,
+                170,
+                130
+              ],
+              "hex": "#beaa82",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                60,
+                70,
+                30
+              ],
+              "hex": "#3c461e",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "39.827"
+        }
+      },
+      {
+        "filename": "Teich und Bäume in Planten un Blomen.jpg",
+        "latitude": 53.55915,
+        "longitude": 9.985989,
+        "createDate": "2026-04-02T11:11:12.000Z",
+        "width": 5712,
+        "height": 3042,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                230,
+                240
+              ],
+              "hex": "#dce6f0",
+              "percentage": "0.088"
+            },
+            {
+              "rgb": [
+                40,
+                50,
+                50
+              ],
+              "hex": "#283232",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                140,
+                150,
+                160
+              ],
+              "hex": "#8c96a0",
+              "percentage": "0.005"
+            }
+          ],
+          "colorfulness": "43.082"
+        }
+      },
+      {
+        "filename": "Teich, Sessel und Häuser in Planten und Blomen.jpg",
+        "latitude": 53.562625,
+        "longitude": 9.978069,
+        "createDate": "2026-04-01T14:45:25.000Z",
+        "width": 3565,
+        "height": 4172,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                30
+              ],
+              "hex": "#0a141e",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                110,
+                120,
+                140
+              ],
+              "hex": "#6e788c",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                160,
+                170,
+                190
+              ],
+              "hex": "#a0aabe",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "37.411"
+        }
+      },
+      {
+        "filename": "U-Bahn Brücke nahe Rödingsmarkt in der Altstadt.jpg",
+        "latitude": 53.548844,
+        "longitude": 9.987564,
+        "createDate": "2026-03-31T11:14:05.000Z",
+        "width": 4123,
+        "height": 4340,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.055"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                200
+              ],
+              "hex": "#c8c8c8",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                70,
+                80,
+                90
+              ],
+              "hex": "#46505a",
+              "percentage": "0.026"
+            }
+          ],
+          "colorfulness": "44.835"
+        }
+      },
+      {
+        "filename": "U-Bahn-Ausgang Sternschanze.jpg",
+        "latitude": 53.564125,
+        "longitude": 9.969061,
+        "createDate": "2026-04-01T10:05:05.000Z",
+        "width": 5023,
+        "height": 1742,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                170,
+                170
+              ],
+              "hex": "#aaaaaa",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                110,
+                140,
+                160
+              ],
+              "hex": "#6e8ca0",
+              "percentage": "0.010"
+            },
+            {
+              "rgb": [
+                40,
+                70,
+                90
+              ],
+              "hex": "#28465a",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "33.896"
+        }
+      },
+      {
+        "filename": "U-Bahn-Trasse und Wandfliesen in der Station Landungsbrücken.jpg",
+        "latitude": 53.54615,
+        "longitude": 9.971578,
+        "createDate": "2026-04-01T08:59:42.000Z",
+        "width": 4249,
+        "height": 4047,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                80,
+                60,
+                50
+              ],
+              "hex": "#503c32",
+              "percentage": "0.054"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                240
+              ],
+              "hex": "#f0f0f0",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                90,
+                120,
+                150
+              ],
+              "hex": "#5a7896",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "44.627"
+        }
+      },
+      {
+        "filename": "U-Bahn-Trasse, Elbe und Elbphilharmonie bei den Landungsbrücken.jpg",
+        "latitude": 53.5458,
+        "longitude": 9.971747,
+        "createDate": "2026-04-01T09:03:57.000Z",
+        "width": 3020,
+        "height": 3000,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.067"
+            },
+            {
+              "rgb": [
+                120,
+                130,
+                130
+              ],
+              "hex": "#788282",
+              "percentage": "0.052"
+            },
+            {
+              "rgb": [
+                210,
+                220,
+                220
+              ],
+              "hex": "#d2dcdc",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                140,
+                170,
+                180
+              ],
+              "hex": "#8caab4",
+              "percentage": "0.023"
+            }
+          ],
+          "colorfulness": "44.100"
+        }
+      },
+      {
+        "filename": "Zoll-Häuschen in der Speicherstadt.jpg",
+        "latitude": 53.545881,
+        "longitude": 9.997358,
+        "createDate": "2026-04-02T19:57:10.000Z",
+        "width": 4878,
+        "height": 3701,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.140"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                250
+              ],
+              "hex": "#f0f0fa",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                110,
+                110,
+                110
+              ],
+              "hex": "#6e6e6e",
+              "percentage": "0.009"
+            }
+          ],
+          "colorfulness": "37.541"
+        }
+      }
+    ],
+    "timeframe": "30. März 2026 - 3. April 2026",
+    "imageCount": 108
+  },
+  {
     "name": "im-museum",
     "slug": "im-museum",
     "title": "Im Museum",
@@ -21277,6 +26255,1628 @@ export const galleries = [
       "Fluss",
       "Park"
     ]
+  },
+  {
+    "name": "leipzig",
+    "slug": "leipzig",
+    "title": "Leipzig",
+    "description": "",
+    "images": [
+      {
+        "filename": "'64!' Graffitti-Tag in Leipzig.jpg",
+        "latitude": 51.349656,
+        "longitude": 12.372919,
+        "createDate": "2026-03-28T21:04:01.000Z",
+        "width": 2937,
+        "height": 3387,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.078"
+            },
+            {
+              "rgb": [
+                170,
+                130,
+                90
+              ],
+              "hex": "#aa825a",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                30,
+                70,
+                110
+              ],
+              "hex": "#1e466e",
+              "percentage": "0.015"
+            },
+            {
+              "rgb": [
+                210,
+                220,
+                220
+              ],
+              "hex": "#d2dcdc",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "30.060"
+        }
+      },
+      {
+        "filename": "'The Westin Leipzig' Hochhaus und Spiegelungen im Glas nahe Leipziger Hauptbahnhof.jpg",
+        "latitude": 51.348714,
+        "longitude": 12.373756,
+        "createDate": "2026-03-29T18:14:06.000Z",
+        "width": 2822,
+        "height": 2609,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.068"
+            },
+            {
+              "rgb": [
+                70,
+                70,
+                50
+              ],
+              "hex": "#464632",
+              "percentage": "0.032"
+            },
+            {
+              "rgb": [
+                60,
+                130,
+                180
+              ],
+              "hex": "#3c82b4",
+              "percentage": "0.028"
+            }
+          ],
+          "colorfulness": "37.337"
+        }
+      },
+      {
+        "filename": "Ausblick aus einem Wohngebaäude mit Blick über Leipzig.jpg",
+        "latitude": 51.348564,
+        "longitude": 12.373825,
+        "createDate": "2026-03-29T06:15:53.000Z",
+        "width": 4062,
+        "height": 3955,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.043"
+            },
+            {
+              "rgb": [
+                130,
+                140,
+                120
+              ],
+              "hex": "#828c78",
+              "percentage": "0.041"
+            },
+            {
+              "rgb": [
+                230,
+                240,
+                230
+              ],
+              "hex": "#e6f0e6",
+              "percentage": "0.029"
+            }
+          ],
+          "colorfulness": "38.607"
+        }
+      },
+      {
+        "filename": "Ausgang Ost und Vorplatz am Leipziger Hauptbahnhof.jpg",
+        "latitude": 51.3438,
+        "longitude": 12.381628,
+        "createDate": "2026-03-30T07:58:44.000Z",
+        "width": 3242,
+        "height": 4679,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                240,
+                240
+              ],
+              "hex": "#e6f0f0",
+              "percentage": "0.042"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                170,
+                170,
+                160
+              ],
+              "hex": "#aaaaa0",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                130,
+                130,
+                130
+              ],
+              "hex": "#828282",
+              "percentage": "0.016"
+            }
+          ],
+          "colorfulness": "38.925"
+        }
+      },
+      {
+        "filename": "Ausgang des Leipziger Hauptbahnhofes in Richtung Innenstadt.jpg",
+        "latitude": 51.344333,
+        "longitude": 12.381986,
+        "createDate": "2026-03-28T18:59:54.000Z",
+        "width": 4247,
+        "height": 4080,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                60,
+                60,
+                60
+              ],
+              "hex": "#3c3c3c",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                200
+              ],
+              "hex": "#d2d2c8",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                250,
+                120,
+                130
+              ],
+              "hex": "#fa7882",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "40.511"
+        }
+      },
+      {
+        "filename": "Ausgang und Wanduhr am Leipziger Hauptbahnhof.jpg",
+        "latitude": 51.344578,
+        "longitude": 12.382072,
+        "createDate": "2026-03-29T19:03:01.000Z",
+        "width": 3269,
+        "height": 4610,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                190,
+                190,
+                190
+              ],
+              "hex": "#bebebe",
+              "percentage": "0.040"
+            },
+            {
+              "rgb": [
+                60,
+                60,
+                60
+              ],
+              "hex": "#3c3c3c",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                110,
+                110,
+                100
+              ],
+              "hex": "#6e6e64",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                90,
+                180,
+                230
+              ],
+              "hex": "#5ab4e6",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "33.388"
+        }
+      },
+      {
+        "filename": "Bahnsteig 18 und 19 am Leipziger Hauptbahnhof.jpg",
+        "latitude": 51.344539,
+        "longitude": 12.382044,
+        "createDate": "2026-03-29T19:04:25.000Z",
+        "width": 3620,
+        "height": 4131,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.063"
+            },
+            {
+              "rgb": [
+                170,
+                160,
+                140
+              ],
+              "hex": "#aaa08c",
+              "percentage": "0.009"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                180
+              ],
+              "hex": "#fafab4",
+              "percentage": "0.003"
+            },
+            {
+              "rgb": [
+                240,
+                200,
+                80
+              ],
+              "hex": "#f0c850",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                170
+              ],
+              "hex": "#000aaa",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "46.048"
+        }
+      },
+      {
+        "filename": "Bahnsteige in der Haupthalle am Leipziger Hauptbahnhof.jpg",
+        "latitude": 51.3447,
+        "longitude": 12.382317,
+        "createDate": "2026-03-29T19:02:09.000Z",
+        "width": 3966,
+        "height": 5095,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.069"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                190
+              ],
+              "hex": "#c8c8be",
+              "percentage": "0.039"
+            }
+          ],
+          "colorfulness": "44.363"
+        }
+      },
+      {
+        "filename": "Bahnsteige und Gleise am Hauptbahnhof Leipzig.jpg",
+        "latitude": 51.346089,
+        "longitude": 12.382381,
+        "createDate": "2026-03-30T08:23:17.000Z",
+        "width": 3902,
+        "height": 5203,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                30,
+                50
+              ],
+              "hex": "#0a1e32",
+              "percentage": "0.047"
+            },
+            {
+              "rgb": [
+                100,
+                100,
+                100
+              ],
+              "hex": "#646464",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                210
+              ],
+              "hex": "#d2d2d2",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "34.234"
+        }
+      },
+      {
+        "filename": "Bahnsteige und Zug am Leipziger Hauptbahnhof.jpg",
+        "latitude": 51.345158,
+        "longitude": 12.380481,
+        "createDate": "2026-03-29T19:07:56.000Z",
+        "width": 3710,
+        "height": 4519,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                220,
+                220,
+                220
+              ],
+              "hex": "#dcdcdc",
+              "percentage": "0.020"
+            }
+          ],
+          "colorfulness": "39.856"
+        }
+      },
+      {
+        "filename": "Bunt-bemaltes Haus in der Kalr-Liebknecht-Strasse - Leipzig.jpg",
+        "latitude": 51.326756,
+        "longitude": 12.373508,
+        "createDate": "2026-03-29T11:18:49.000Z",
+        "width": 3526,
+        "height": 4355,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                160,
+                150
+              ],
+              "hex": "#a0a096",
+              "percentage": "0.025"
+            },
+            {
+              "rgb": [
+                230,
+                240,
+                250
+              ],
+              "hex": "#e6f0fa",
+              "percentage": "0.023"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                170,
+                20,
+                50
+              ],
+              "hex": "#aa1432",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "40.510"
+        }
+      },
+      {
+        "filename": "Denkmal für Gustav Harkort am Leipziger Hauptbahnhof.jpg",
+        "latitude": 51.345403,
+        "longitude": 12.379911,
+        "createDate": "2026-03-29T19:09:00.000Z",
+        "width": 3518,
+        "height": 5347,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                130,
+                110,
+                90
+              ],
+              "hex": "#826e5a",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                180,
+                170,
+                150
+              ],
+              "hex": "#b4aa96",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                10,
+                10,
+                30
+              ],
+              "hex": "#0a0a1e",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                220,
+                240,
+                250
+              ],
+              "hex": "#dcf0fa",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "33.173"
+        }
+      },
+      {
+        "filename": "Eingang zu einer S-Bahn-Station in Leipzig nahe der Karl-Liebknecht-Strasse.jpg",
+        "latitude": 51.33615,
+        "longitude": 12.375408,
+        "createDate": "2026-03-29T14:47:21.000Z",
+        "width": 4261,
+        "height": 5582,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                180,
+                190
+              ],
+              "hex": "#a0b4be",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                10,
+                30,
+                40
+              ],
+              "hex": "#0a1e28",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                60,
+                70,
+                70
+              ],
+              "hex": "#3c4646",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                20,
+                90,
+                170
+              ],
+              "hex": "#145aaa",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "33.910"
+        }
+      },
+      {
+        "filename": "Fassade einer Park and Ride-Anlage in Leipzig.jpg",
+        "latitude": 51.348811,
+        "longitude": 12.3731,
+        "createDate": "2026-03-29T20:39:12.000Z",
+        "width": 2835,
+        "height": 3560,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                20,
+                30
+              ],
+              "hex": "#14141e",
+              "percentage": "0.049"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                190
+              ],
+              "hex": "#b4b4be",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "22.422"
+        }
+      },
+      {
+        "filename": "Gang und Eingangstüren in einem Wohnhaus in der Nordstrasse Leipzig.jpg",
+        "latitude": 51.348503,
+        "longitude": 12.374064,
+        "createDate": "2026-03-29T06:15:43.000Z",
+        "width": 3346,
+        "height": 5017,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                30
+              ],
+              "hex": "#000a1e",
+              "percentage": "0.053"
+            },
+            {
+              "rgb": [
+                140,
+                150,
+                140
+              ],
+              "hex": "#8c968c",
+              "percentage": "0.045"
+            },
+            {
+              "rgb": [
+                20,
+                70,
+                70
+              ],
+              "hex": "#144646",
+              "percentage": "0.007"
+            }
+          ],
+          "colorfulness": "38.979"
+        }
+      },
+      {
+        "filename": "Glasdecke des Leipziger Hauptbahnhof bei Nacht.jpg",
+        "latitude": 51.344558,
+        "longitude": 12.382275,
+        "createDate": "2026-03-29T19:03:20.000Z",
+        "width": 3660,
+        "height": 4970,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                50,
+                150
+              ],
+              "hex": "#0a3296",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                250,
+                250,
+                250
+              ],
+              "hex": "#fafafa",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                100,
+                130,
+                180
+              ],
+              "hex": "#6482b4",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "34.819"
+        }
+      },
+      {
+        "filename": "Glasfassaden und Dach des Hauptbahnhofes Leipzig.jpg",
+        "latitude": 51.344506,
+        "longitude": 12.382531,
+        "createDate": "2026-03-30T08:09:15.000Z",
+        "width": 3772,
+        "height": 4570,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                150,
+                130
+              ],
+              "hex": "#aa9682",
+              "percentage": "0.044"
+            },
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.018"
+            },
+            {
+              "rgb": [
+                100,
+                110,
+                120
+              ],
+              "hex": "#646e78",
+              "percentage": "0.014"
+            }
+          ],
+          "colorfulness": "30.385"
+        }
+      },
+      {
+        "filename": "Gleise, Bahnsteige und Menschen am Hauptbahnhof Leipzig.jpg",
+        "latitude": 51.344853,
+        "longitude": 12.382872,
+        "createDate": "2026-03-30T07:53:30.000Z",
+        "width": 5414,
+        "height": 3709,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                20,
+                40
+              ],
+              "hex": "#0a1428",
+              "percentage": "0.048"
+            },
+            {
+              "rgb": [
+                130,
+                140,
+                140
+              ],
+              "hex": "#828c8c",
+              "percentage": "0.029"
+            },
+            {
+              "rgb": [
+                210,
+                210,
+                200
+              ],
+              "hex": "#d2d2c8",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                70,
+                170,
+                200
+              ],
+              "hex": "#46aac8",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "36.017"
+        }
+      },
+      {
+        "filename": "Halle und Glaskontrukt am Leipziger Hauptbanhof.jpg",
+        "latitude": 51.344689,
+        "longitude": 12.382203,
+        "createDate": "2026-03-29T19:02:38.000Z",
+        "width": 3911,
+        "height": 5267,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                170,
+                160,
+                140
+              ],
+              "hex": "#aaa08c",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                100,
+                80,
+                70
+              ],
+              "hex": "#645046",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                30,
+                40,
+                50
+              ],
+              "hex": "#1e2832",
+              "percentage": "0.012"
+            },
+            {
+              "rgb": [
+                0,
+                60,
+                250
+              ],
+              "hex": "#003cfa",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                90,
+                130,
+                230
+              ],
+              "hex": "#5a82e6",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "43.720"
+        }
+      },
+      {
+        "filename": "Häuser und Gehweg in der Nordstrasse in Leipzig.jpg",
+        "latitude": 51.349664,
+        "longitude": 12.373742,
+        "createDate": "2026-03-29T20:36:31.000Z",
+        "width": 2778,
+        "height": 3034,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.147"
+            },
+            {
+              "rgb": [
+                210,
+                120,
+                20
+              ],
+              "hex": "#d27814",
+              "percentage": "0.020"
+            },
+            {
+              "rgb": [
+                110,
+                110,
+                120
+              ],
+              "hex": "#6e6e78",
+              "percentage": "0.001"
+            },
+            {
+              "rgb": [
+                180,
+                230,
+                200
+              ],
+              "hex": "#b4e6c8",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                240,
+                140,
+                150
+              ],
+              "hex": "#f08c96",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "44.147"
+        }
+      },
+      {
+        "filename": "Kleiner Bach nahe des Leipziger Hauptbahnhofes.jpg",
+        "latitude": 51.348206,
+        "longitude": 12.376758,
+        "createDate": "2026-03-29T07:44:48.000Z",
+        "width": 3453,
+        "height": 3848,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                30,
+                50
+              ],
+              "hex": "#0a1e32",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                230,
+                240,
+                250
+              ],
+              "hex": "#e6f0fa",
+              "percentage": "0.025"
+            }
+          ],
+          "colorfulness": "39.806"
+        }
+      },
+      {
+        "filename": "Menschen, Halle und Wandughr am Leipziger Hauptbahnhof.jpg",
+        "latitude": 51.344139,
+        "longitude": 12.381628,
+        "createDate": "2026-03-28T19:05:44.000Z",
+        "width": 4787,
+        "height": 3841,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                50,
+                50,
+                50
+              ],
+              "hex": "#323232",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                160
+              ],
+              "hex": "#c8bea0",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                150,
+                210,
+                250
+              ],
+              "hex": "#96d2fa",
+              "percentage": "0.002"
+            },
+            {
+              "rgb": [
+                210,
+                110,
+                240
+              ],
+              "hex": "#d26ef0",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                220,
+                80,
+                120
+              ],
+              "hex": "#dc5078",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "38.250"
+        }
+      },
+      {
+        "filename": "Miniatur-Eisenbahn und Bahnsteige am Leipziger Hauptbahnhof.jpg",
+        "latitude": 51.344506,
+        "longitude": 12.382014,
+        "createDate": "2026-03-29T19:00:24.000Z",
+        "width": 3542,
+        "height": 5044,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                90,
+                90,
+                90
+              ],
+              "hex": "#5a5a5a",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                40,
+                50,
+                60
+              ],
+              "hex": "#28323c",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                240,
+                240,
+                250
+              ],
+              "hex": "#f0f0fa",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                200,
+                200,
+                190
+              ],
+              "hex": "#c8c8be",
+              "percentage": "0.008"
+            }
+          ],
+          "colorfulness": "35.962"
+        }
+      },
+      {
+        "filename": "Plattenbau und Parkplätze in der Nordstrasse in Leipzig.jpg",
+        "latitude": 51.348786,
+        "longitude": 12.373736,
+        "createDate": "2026-03-29T20:34:40.000Z",
+        "width": 2840,
+        "height": 3043,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                10,
+                30
+              ],
+              "hex": "#0a0a1e",
+              "percentage": "0.111"
+            },
+            {
+              "rgb": [
+                210,
+                200,
+                210
+              ],
+              "hex": "#d2c8d2",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "32.504"
+        }
+      },
+      {
+        "filename": "Radfahrere und Fluss in Leipzig.jpg",
+        "latitude": 51.325897,
+        "longitude": 12.356886,
+        "createDate": "2026-03-29T13:07:32.000Z",
+        "width": 3959,
+        "height": 4999,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                230,
+                240,
+                250
+              ],
+              "hex": "#e6f0fa",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                50,
+                60,
+                70
+              ],
+              "hex": "#323c46",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                150,
+                180,
+                210
+              ],
+              "hex": "#96b4d2",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                50,
+                160,
+                230
+              ],
+              "hex": "#32a0e6",
+              "percentage": "0.003"
+            }
+          ],
+          "colorfulness": "43.826"
+        }
+      },
+      {
+        "filename": "S-Bahn-Station am Anfang der Karl-Liebknecht-Strasse - Leipzig.jpg",
+        "latitude": 51.334678,
+        "longitude": 12.375025,
+        "createDate": "2026-03-29T14:44:04.000Z",
+        "width": 4647,
+        "height": 2323,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                160,
+                130,
+                100
+              ],
+              "hex": "#a08264",
+              "percentage": "0.080"
+            },
+            {
+              "rgb": [
+                10,
+                130,
+                190
+              ],
+              "hex": "#0a82be",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                250,
+                240,
+                230
+              ],
+              "hex": "#faf0e6",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                20,
+                0,
+                0
+              ],
+              "hex": "#140000",
+              "percentage": "0.006"
+            },
+            {
+              "rgb": [
+                200,
+                190,
+                170
+              ],
+              "hex": "#c8beaa",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "47.148"
+        }
+      },
+      {
+        "filename": "Sportplatz und alten gebäuse in der Leipziger Innenstadt.jpg",
+        "latitude": 51.351581,
+        "longitude": 12.375311,
+        "createDate": "2026-03-29T07:35:12.000Z",
+        "width": 3982,
+        "height": 4617,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                20,
+                30,
+                50
+              ],
+              "hex": "#141e32",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                130,
+                150,
+                130
+              ],
+              "hex": "#829682",
+              "percentage": "0.033"
+            },
+            {
+              "rgb": [
+                170,
+                210,
+                250
+              ],
+              "hex": "#aad2fa",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                20,
+                140,
+                230
+              ],
+              "hex": "#148ce6",
+              "percentage": "0.019"
+            }
+          ],
+          "colorfulness": "51.176"
+        }
+      },
+      {
+        "filename": "Stahlkonstruktionen, Zug und Bahnsteige am Leipziger Hauptbahnhof.jpg",
+        "latitude": 51.345214,
+        "longitude": 12.381347,
+        "createDate": "2026-03-29T19:05:49.000Z",
+        "width": 3341,
+        "height": 4927,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                30,
+                40,
+                50
+              ],
+              "hex": "#1e2832",
+              "percentage": "0.037"
+            },
+            {
+              "rgb": [
+                220,
+                210,
+                200
+              ],
+              "hex": "#dcd2c8",
+              "percentage": "0.007"
+            },
+            {
+              "rgb": [
+                140,
+                140,
+                120
+              ],
+              "hex": "#8c8c78",
+              "percentage": "0.004"
+            },
+            {
+              "rgb": [
+                210,
+                50,
+                30
+              ],
+              "hex": "#d2321e",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "35.400"
+        }
+      },
+      {
+        "filename": "Strasse, Bürohaus und Kunst in der Leipziger Innenstadt.jpg",
+        "latitude": 51.325306,
+        "longitude": 12.367447,
+        "createDate": "2026-03-29T13:27:52.000Z",
+        "width": 2813,
+        "height": 4448,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                220,
+                200
+              ],
+              "hex": "#dcdcc8",
+              "percentage": "0.019"
+            },
+            {
+              "rgb": [
+                80,
+                120,
+                160
+              ],
+              "hex": "#5078a0",
+              "percentage": "0.016"
+            },
+            {
+              "rgb": [
+                30,
+                50,
+                60
+              ],
+              "hex": "#1e323c",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                80,
+                90,
+                100
+              ],
+              "hex": "#505a64",
+              "percentage": "0.011"
+            },
+            {
+              "rgb": [
+                20,
+                120,
+                200
+              ],
+              "hex": "#1478c8",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "43.505"
+        }
+      },
+      {
+        "filename": "Strassenbahnen und Menschen vor dem Hauptbahnhof Leipzig.jpg",
+        "latitude": 51.344639,
+        "longitude": 12.379719,
+        "createDate": "2026-03-30T06:55:20.000Z",
+        "width": 3519,
+        "height": 4865,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                230,
+                240,
+                240
+              ],
+              "hex": "#e6f0f0",
+              "percentage": "0.095"
+            },
+            {
+              "rgb": [
+                0,
+                0,
+                30
+              ],
+              "hex": "#00001e",
+              "percentage": "0.060"
+            },
+            {
+              "rgb": [
+                100,
+                100,
+                100
+              ],
+              "hex": "#646464",
+              "percentage": "0.017"
+            },
+            {
+              "rgb": [
+                200,
+                100,
+                110
+              ],
+              "hex": "#c8646e",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "47.197"
+        }
+      },
+      {
+        "filename": "Vietnamesischen Restaurant in der Karl-Liebknecht-Strasse - Leipzig.jpg",
+        "latitude": 51.3327,
+        "longitude": 12.373614,
+        "createDate": "2026-03-29T14:08:22.000Z",
+        "width": 3764,
+        "height": 4719,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                240,
+                220,
+                180
+              ],
+              "hex": "#f0dcb4",
+              "percentage": "0.024"
+            },
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.022"
+            },
+            {
+              "rgb": [
+                110,
+                130,
+                140
+              ],
+              "hex": "#6e828c",
+              "percentage": "0.014"
+            },
+            {
+              "rgb": [
+                180,
+                170,
+                150
+              ],
+              "hex": "#b4aa96",
+              "percentage": "0.013"
+            },
+            {
+              "rgb": [
+                30,
+                110,
+                130
+              ],
+              "hex": "#1e6e82",
+              "percentage": "0.006"
+            }
+          ],
+          "colorfulness": "41.440"
+        }
+      },
+      {
+        "filename": "Vorplatz, Menschen und Strassenbahnen des Leipziger Hauptbahnhofes bei Nacht.jpg",
+        "latitude": 51.343997,
+        "longitude": 12.381339,
+        "createDate": "2026-03-28T19:03:18.000Z",
+        "width": 4157,
+        "height": 4090,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                0,
+                10,
+                40
+              ],
+              "hex": "#000a28",
+              "percentage": "0.069"
+            },
+            {
+              "rgb": [
+                160,
+                160,
+                150
+              ],
+              "hex": "#a0a096",
+              "percentage": "0.021"
+            },
+            {
+              "rgb": [
+                250,
+                200,
+                120
+              ],
+              "hex": "#fac878",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                110,
+                170,
+                240
+              ],
+              "hex": "#6eaaf0",
+              "percentage": "0.000"
+            },
+            {
+              "rgb": [
+                220,
+                120,
+                220
+              ],
+              "hex": "#dc78dc",
+              "percentage": "0.000"
+            }
+          ],
+          "colorfulness": "38.862"
+        }
+      },
+      {
+        "filename": "Wohnbau in der Nordstrasse - Leipzig.jpg",
+        "latitude": 51.349261,
+        "longitude": 12.374211,
+        "createDate": "2026-03-29T06:19:04.000Z",
+        "width": 5218,
+        "height": 3614,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                10,
+                40,
+                70
+              ],
+              "hex": "#0a2846",
+              "percentage": "0.035"
+            },
+            {
+              "rgb": [
+                10,
+                110,
+                210
+              ],
+              "hex": "#0a6ed2",
+              "percentage": "0.026"
+            },
+            {
+              "rgb": [
+                180,
+                180,
+                180
+              ],
+              "hex": "#b4b4b4",
+              "percentage": "0.008"
+            },
+            {
+              "rgb": [
+                200,
+                210,
+                110
+              ],
+              "hex": "#c8d26e",
+              "percentage": "0.001"
+            }
+          ],
+          "colorfulness": "54.852"
+        }
+      },
+      {
+        "filename": "Zwei Hochhäuser nahe des Leipziger Hauptbahnhofes.jpg",
+        "latitude": 51.348536,
+        "longitude": 12.376803,
+        "createDate": "2026-03-30T06:25:29.000Z",
+        "width": 3734,
+        "height": 4536,
+        "colorData": {
+          "dominantColors": [
+            {
+              "rgb": [
+                220,
+                230,
+                240
+              ],
+              "hex": "#dce6f0",
+              "percentage": "0.146"
+            },
+            {
+              "rgb": [
+                90,
+                90,
+                100
+              ],
+              "hex": "#5a5a64",
+              "percentage": "0.039"
+            },
+            {
+              "rgb": [
+                10,
+                20,
+                30
+              ],
+              "hex": "#0a141e",
+              "percentage": "0.010"
+            }
+          ],
+          "colorfulness": "39.212"
+        }
+      }
+    ],
+    "timeframe": "28. März 2026 - 30. März 2026",
+    "imageCount": 34
   },
   {
     "name": "lisboa",
@@ -37037,7 +43637,7 @@ export const galleries = [
     "description": "Stadt & Land, hier & da, dieses & jenes, oben & unten, und so weiter & so fort ...",
     "images": [
       {
-        "filename": "'No tanks, I'm dead' Aufkleber in Linz.jpg",
+        "filename": "'No thanks, I'm dead' Aufkleber in Linz.jpg",
         "latitude": 48.268769,
         "longitude": 14.312853,
         "createDate": "2026-02-12T09:51:19.000Z",
